@@ -1,0 +1,1148 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:35:11--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  155M
+    50K .......... .......... .......... .......... ..........  446M
+   100K ....                                                    711M=0.004s
+
+2020-01-19 16:35:11 (236 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:35:11--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30.2M
+    50K .......... .......... .......... .......... ..........  339M
+   100K ....                                                    696M=0.01s
+
+2020-01-19 16:35:11 (57.6 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:11--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  141M
+    50K .......... .......... .......... .......... ..........  112M
+   100K ....                                                    192M=0.007s
+
+2020-01-19 16:42:11 (126 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:11--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 99.9M
+    50K .......... .......... .......... .......... ..........  489M
+   100K ....                                                    620M=0.005s
+
+2020-01-19 16:42:11 (171 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:11--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68.0M
+    50K .......... .......... .......... .......... ..........  230M
+   100K ....                                                   19.3M=0.01s
+
+2020-01-19 16:42:11 (89.2 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:11--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  130M
+    50K .......... .......... .......... .......... ..........  335M
+   100K ....                                                    355M=0.004s
+
+2020-01-19 16:42:11 (191 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:11--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 89.5M
+    50K .......... .......... .......... .......... .......... 64.5M
+   100K ....                                                    656M=0.01s
+
+2020-01-19 16:42:12 (77.8 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:12--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63.0M
+    50K .......... .......... .......... .......... .......... 83.9M
+   100K ....                                                    559M=0.01s
+
+2020-01-19 16:42:12 (74.5 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:12--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39.0M
+    50K .......... .......... .......... .......... .......... 91.0M
+   100K ....                                                    375M=0.02s
+
+2020-01-19 16:42:12 (56.5 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:12--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  140M
+    50K .......... .......... .......... .......... ..........  188M
+   100K ....                                                    578M=0.005s
+
+2020-01-19 16:42:12 (165 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:12--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 67.1M
+    50K .......... .......... .......... .......... ..........  337M
+   100K ....                                                    696M=0.007s
+
+2020-01-19 16:42:12 (116 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:12--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41.3M
+    50K .......... .......... .......... .......... ..........  161M
+   100K ....                                                    421M=0.01s
+
+2020-01-19 16:42:12 (68.0 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:12--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 79.1M
+    50K .......... .......... .......... .......... ..........  106M
+   100K ....                                                    620M=0.009s
+
+2020-01-19 16:42:13 (93.7 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:13--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55.3M
+    50K .......... .......... .......... .......... ..........  163M
+   100K ....                                                    669M=0.01s
+
+2020-01-19 16:42:13 (85.6 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:13--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45.7M
+    50K .......... .......... .......... .......... ..........  189M
+   100K ....                                                    922M=0.01s
+
+2020-01-19 16:42:13 (76.4 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:13--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  113M
+    50K .......... .......... .......... .......... .......... 58.1M
+   100K ....                                                    710M=0.01s
+
+2020-01-19 16:42:13 (79.5 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:13--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23.3M
+    50K .......... .......... .......... .......... ..........  177M
+   100K ....                                                    494M=0.02s
+
+2020-01-19 16:42:13 (42.7 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:13--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  109M
+    50K .......... .......... .......... .......... .......... 76.3M
+   100K ....                                                    541M=0.009s
+
+2020-01-19 16:42:13 (92.9 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:13--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 77.1M
+    50K .......... .......... .......... .......... .......... 95.6M
+   100K ....                                                    812M=0.01s
+
+2020-01-19 16:42:14 (88.5 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:14--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18.9M
+    50K .......... .......... .......... .......... ..........  418M
+   100K ....                                                    559M=0.02s
+
+2020-01-19 16:42:14 (37.5 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:14--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  133M
+    50K .......... .......... .......... .......... ..........  429M
+   100K ....                                                    494M=0.004s
+
+2020-01-19 16:42:14 (207 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:14--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 88.7M
+    50K .......... .......... .......... .......... .......... 60.1M
+   100K ....                                                    307M=0.01s
+
+2020-01-19 16:42:14 (73.9 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:14--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50.0M
+    50K .......... .......... .......... .......... ..........  242M
+   100K ....                                                    344M=0.01s
+
+2020-01-19 16:42:14 (85.4 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:14--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 95.8M
+    50K .......... .......... .......... .......... ..........  139M
+   100K ....                                                   72.3M=0.008s
+
+2020-01-19 16:42:15 (111 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:15--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54.3M
+    50K .......... .......... .......... .......... ..........  267M
+   100K ....                                                    609M=0.009s
+
+2020-01-19 16:42:15 (93.5 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:15--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 97.2M
+    50K .......... .......... .......... .......... .......... 74.9M
+   100K ....                                                    696M=0.01s
+
+2020-01-19 16:42:15 (87.7 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:15--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  107M
+    50K .......... .......... .......... .......... ..........  179M
+   100K ....                                                    568M=0.006s
+
+2020-01-19 16:42:15 (139 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:15--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  148M
+    50K .......... .......... .......... .......... ..........  428M
+   100K ....                                                    696M=0.004s
+
+2020-01-19 16:42:15 (226 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:15--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  131M
+    50K .......... .......... .......... .......... .......... 41.1M
+   100K ....                                                    359M=0.01s
+
+2020-01-19 16:42:15 (64.7 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:15--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45.7M
+    50K .......... .......... .......... .......... ..........  241M
+   100K ....                                                    568M=0.01s
+
+2020-01-19 16:42:15 (79.6 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:15--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  132M
+    50K .......... .......... .......... .......... ..........  233M
+   100K ....                                                    710M=0.005s
+
+2020-01-19 16:42:16 (174 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:16--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  113M
+    50K .......... .......... .......... .......... .......... 86.2M
+   100K ....                                                    550M=0.008s
+
+2020-01-19 16:42:16 (101 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:16--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45.1M
+    50K .......... .......... .......... .......... ..........  287M
+   100K ....                                                    669M=0.01s
+
+2020-01-19 16:42:16 (80.8 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:16--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59.4M
+    50K .......... .......... .......... .......... ..........  157M
+   100K ....                                                    352M=0.01s
+
+2020-01-19 16:42:16 (89.0 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:16--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  103M
+    50K .......... .......... .......... .......... ..........  250M
+   100K ....                                                   1.03G=0.006s
+
+2020-01-19 16:42:16 (151 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:16--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 61.9M
+    50K .......... .......... .......... .......... ..........  167M
+   100K ....                                                    348M=0.009s
+
+2020-01-19 16:42:16 (93.1 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:16--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 91.5M
+    50K .......... .......... .......... .......... ..........  157M
+   100K ....                                                    509M=0.007s
+
+2020-01-19 16:42:17 (119 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:17--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46.9M
+    50K .......... .......... .......... .......... ..........  252M
+   100K ....                                                   1.55G=0.01s
+
+2020-01-19 16:42:17 (82.3 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:17--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63.0M
+    50K .......... .......... .......... .......... ..........  207M
+   100K ....                                                    367M=0.009s
+
+2020-01-19 16:42:17 (99.6 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:17--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  105M
+    50K .......... .......... .......... .......... ..........  193M
+   100K ....                                                    568M=0.006s
+
+2020-01-19 16:42:17 (141 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:17--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 98.7M
+    50K .......... .......... .......... .......... .......... 65.3M
+   100K ....                                                    240M=0.01s
+
+2020-01-19 16:42:17 (80.8 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:42:17--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 75.9M
+    50K .......... .......... .......... .......... ..........  356M
+   100K ....                                                    455M=0.007s
+
+2020-01-19 16:42:17 (129 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:44--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 74.1M
+    50K .......... .......... .......... .......... ..........  334M
+   100K ....                                                    363M=0.007s
+
+2020-01-19 16:51:44 (125 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:44--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  139M
+    50K .......... .......... .......... .......... ..........  453M
+   100K ....                                                    812M=0.004s
+
+2020-01-19 16:51:44 (219 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:44--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63.4M
+    50K .......... .......... .......... .......... ..........  132M
+   100K ....                                                    588M=0.01s
+
+2020-01-19 16:51:44 (88.8 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:44--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  108M
+    50K .......... .......... .......... .......... .......... 98.7M
+   100K ....                                                    416M=0.008s
+
+2020-01-19 16:51:44 (106 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:44--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 72.5M
+    50K .......... .......... .......... .......... ..........  453M
+   100K ....                                                    669M=0.007s
+
+2020-01-19 16:51:44 (129 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:44--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18.4M
+    50K .......... .......... .......... .......... ..........  239M
+   100K ....                                                    467M=0.02s
+
+2020-01-19 16:51:45 (35.4 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:45--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  165M
+    50K .......... .......... .......... .......... .......... 85.6M
+   100K ....                                                    487M=0.007s
+
+2020-01-19 16:51:45 (116 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:45--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  170M
+    50K .......... .......... .......... .......... ..........  145M
+   100K ....                                                    812M=0.005s
+
+2020-01-19 16:51:45 (161 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:45--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  153M
+    50K .......... .......... .......... .......... ..........  115M
+   100K ....                                                   1.48G=0.006s
+
+2020-01-19 16:51:45 (136 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:45--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 97.0M
+    50K .......... .......... .......... .......... ..........  347M
+   100K ....                                                    355M=0.005s
+
+2020-01-19 16:51:45 (155 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:45--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  136M
+    50K .......... .......... .......... .......... .......... 76.4M
+   100K ....                                                    710M=0.008s
+
+2020-01-19 16:51:45 (101 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:45--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33.7M
+    50K .......... .......... .......... .......... ..........  388M
+   100K ....                                                    338M=0.01s
+
+2020-01-19 16:51:45 (64.1 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:45--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  130M
+    50K .......... .......... .......... .......... ..........  487M
+   100K ....                                                    741M=0.004s
+
+2020-01-19 16:51:46 (211 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:46--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 97.0M
+    50K .......... .......... .......... .......... .......... 62.2M
+   100K ....                                                    682M=0.01s
+
+2020-01-19 16:51:46 (78.6 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:46--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56.4M
+    50K .......... .......... .......... .......... ..........  256M
+   100K ....                                                    480M=0.009s
+
+2020-01-19 16:51:46 (95.5 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:46--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36.6M
+    50K .......... .......... .......... .......... ..........  179M
+   100K ....                                                    494M=0.01s
+
+2020-01-19 16:51:46 (62.9 Mb/s) - ‘/dev/null’ saved [106664]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:46--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  164M
+    50K .......... .......... .......... .......... .......... 90.3M
+   100K ....                                                    509M=0.007s
+
+2020-01-19 16:51:46 (120 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:46--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73.4M
+    50K .......... .......... .......... .......... ..........  370M
+   100K ....                                                    620M=0.007s
+
+2020-01-19 16:51:46 (126 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:46--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 78.4M
+    50K .......... .......... .......... .......... ..........  126M
+   100K ....                                                    588M=0.009s
+
+2020-01-19 16:51:46 (100 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:47--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 97.1M
+    50K .......... .......... .......... .......... ..........  352M
+   100K ....                                                    588M=0.005s
+
+2020-01-19 16:51:47 (157 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:47--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  133M
+    50K .......... .......... .......... .......... ..........  236M
+   100K ....                                                   74.6M=0.005s
+
+2020-01-19 16:51:47 (162 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:47--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56.1M
+    50K .......... .......... .......... .......... ..........  345M
+   100K ....                                                    922M=0.009s
+
+2020-01-19 16:51:47 (100 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:47--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  107M
+    50K .......... .......... .......... .......... ..........  260M
+   100K ....                                                    480M=0.005s
+
+2020-01-19 16:51:47 (156 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:47--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  139M
+    50K .......... .......... .......... .......... ..........  504M
+   100K ....                                                    758M=0.004s
+
+2020-01-19 16:51:47 (225 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:47--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59.7M
+    50K .......... .......... .......... .......... ..........  389M
+   100K ....                                                    509M=0.008s
+
+2020-01-19 16:51:47 (107 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:47--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55.0M
+    50K .......... .......... .......... .......... ..........  479M
+   100K ....                                                    598M=0.008s
+
+2020-01-19 16:51:48 (102 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:48--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40.9M
+    50K .......... .......... .......... .......... ..........  278M
+   100K ....                                                    344M=0.01s
+
+2020-01-19 16:51:48 (73.6 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:48--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  128M
+    50K .......... .......... .......... .......... ..........  454M
+   100K ....                                                    517M=0.004s
+
+2020-01-19 16:51:48 (205 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:48--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  115M
+    50K .......... .......... .......... .......... ..........  514M
+   100K ....                                                   1.10G=0.004s
+
+2020-01-19 16:51:48 (194 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:48--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48.9M
+    50K .......... .......... .......... .......... ..........  306M
+   100K ....                                                    348M=0.01s
+
+2020-01-19 16:51:48 (87.0 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:48--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  162M
+    50K .......... .......... .......... .......... ..........  105M
+   100K ....                                                    550M=0.006s
+
+2020-01-19 16:51:48 (131 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:48--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36.5M
+    50K .......... .......... .......... .......... ..........  202M
+   100K ....                                                    432M=0.01s
+
+2020-01-19 16:51:49 (64.1 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:49--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73.3M
+    50K .......... .......... .......... .......... ..........  169M
+   100K ....                                                    467M=0.008s
+
+2020-01-19 16:51:49 (105 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:49--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39.0M
+    50K .......... .......... .......... .......... ..........  119M
+   100K ....                                                    401M=0.01s
+
+2020-01-19 16:51:49 (60.9 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:49--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54.3M
+    50K .......... .......... .......... .......... ..........  645M
+   100K ....                                                    710M=0.008s
+
+2020-01-19 16:51:49 (104 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:49--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  125M
+    50K .......... .......... .......... .......... .......... 43.1M
+   100K ....                                                    396M=0.01s
+
+2020-01-19 16:51:49 (66.3 Mb/s) - ‘/dev/null’ saved [106662]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:49--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 69.9M
+    50K .......... .......... .......... .......... ..........  340M
+   100K ....                                                    502M=0.007s
+
+2020-01-19 16:51:49 (120 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:49--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  150M
+    50K .......... .......... .......... .......... ..........  138M
+   100K ....                                                    437M=0.006s
+
+2020-01-19 16:51:49 (148 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:49--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41.1M
+    50K .......... .......... .......... .......... ..........  585M
+   100K ....                                                    578M=0.01s
+
+2020-01-19 16:51:50 (79.5 Mb/s) - ‘/dev/null’ saved [106663]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-01-19 16:51:50--  https://creativecommons.org/
+Resolving creativecommons.org (creativecommons.org)... 104.20.151.16, 104.20.150.16
+Connecting to creativecommons.org (creativecommons.org)|104.20.151.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54.5M
+    50K .......... .......... .......... .......... ..........  223M
+   100K ....                                                    275M=0.009s
+
+2020-01-19 16:51:50 (90.0 Mb/s) - ‘/dev/null’ saved [106662]
+
