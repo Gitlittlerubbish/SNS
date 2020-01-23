@@ -1,5 +1,6 @@
 #! /usr/bin/python3
 
+# This is the script of processing the logfiles in ./logs/
 import os, fnmatch, csv
 
 

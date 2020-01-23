@@ -1,3 +1,3 @@
 # Software for Network nad Services Course Work
 
-# Top 500 most popular websites from:https://moz.com/top500
+1000 domains file is from: https://gist.github.com/jgamblin/62fadd8aa321f7f6a482912a6a317ea3
