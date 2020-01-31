@@ -8,7 +8,7 @@ import os, fnmatch, csv
 def process_single_logfile(filename):
     
     # get the domain name of the current logfile
-    rt_dict = dict(domain=filename[15:], ip="", throughput=0.0)
+    rt_dict = dict(domain=filename[15:], ip="", ip_bin="", throughput=0.0, unit="")
 
     # open the current logfile and do the following processes
     with open(filename, "r") as logfile:
@@ -18,7 +18,15 @@ def process_single_logfile(filename):
 
             # get the ip address of the current domain
             if line[:10] == "Connecting":
-                rt_dict["ip"] = line.split("|")[1].split("|")[0].strip()
+                ip = line.split("|")[1].split("|")[0].strip()
+                rt_dict["ip"] = ip
+
+                # get the binary version of the current ip
+                ip_bin = ""
+                for x in ip.split('.'):
+                    ip_bin += format(int(x), "08b")
+                rt_dict["ip_bin"] = ip_bin
+
 
             # get speed of each wget and then calculate the throughput of this ip address
             if "- ‘/dev/null’ saved" in line:
@@ -27,8 +35,21 @@ def process_single_logfile(filename):
                 speed = line.split("(")[1].split(")")[0]
                 sum = sum + float(speed.split(" ")[0])
 
+                unit = speed.split(" ")[1]
+
         if wget_times != 0:
-            rt_dict["throughput"] = format(sum / wget_times, ".5f")
+            # convert all the speed to Kb/s
+            raw_throughput = sum / wget_times
+            throughput = 0
+            if unit[0] == 'G':
+                throughput = raw_throughput * 1024 * 1024
+            elif unit[0] == 'M':
+                throughput = raw_throughput * 1024
+            elif unit[0] == 'K':
+                throughput = raw_throughput
+                
+            rt_dict["throughput"] = format(throughput, ".5f")
+            rt_dict["unit"] = "Kb/s"
         else:
             rt_dict["throughput"] = 0
             
@@ -43,13 +64,14 @@ def main():
     # traverse the log_list and process the logfile
     with open('data.csv', mode='w') as csv_file:
         data_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        data_writer.writerow(['Domain', 'Ip', 'Throughput'])
+        data_writer.writerow(['Domain', 'Ip', 'Ip_bin', 'Throughput', 'Unit'])
 
         # process the current logfile
         for filename in log_list:
             rt_dict = process_single_logfile("./logs/" + filename)
-            current_row_list = list(rt_dict.values())
-            data_writer.writerow(current_row_list)
+            if rt_dict["unit"] == "Kb/s":
+                current_row_list = list(rt_dict.values())
+                data_writer.writerow(current_row_list)
 
 if __name__ == "__main__":
     main()
