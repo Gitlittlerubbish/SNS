@@ -42,7 +42,7 @@ for item in l:
 X = np.array(ll)
 print(X)
 
-X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.15, random_state=23) 
+X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.20, random_state=23) 
 X_train = X_train.astype('int')
 X_test = X_test.astype('int')
 
