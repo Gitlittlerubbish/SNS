@@ -97,7 +97,7 @@ for i in range(k):
     model.fit(partial_X_train,
               partial_Y_train,
               epochs=num_epochs,
-              batch_size=1,
+              batch_size=16,
               verbose=1)
     val_mse, val_mae = model.evaluate(val_data, val_targets, verbose=1)
     all_scores.append(val_mae)
