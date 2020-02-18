@@ -8,4 +8,4 @@ process:
 rmdata:
 	rm -f data.csv
 clean:
-	rm -f ./logs/log* err_domains.txt
+	rm -f ./logs/log* err_domains.txt domains2.txt
