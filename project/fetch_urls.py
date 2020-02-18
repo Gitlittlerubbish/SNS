@@ -36,7 +36,7 @@ def main():
 	country_code_list = get_country_code()
 	print(country_code_list)
 
-	for code in country_code_list[:5]:
+	for code in country_code_list[:10]:
 		print("Processing country code:" + code)
 		for start in range(10):
 			print(".", end='')
