@@ -1,0 +1,22 @@
+--2020-02-25 14:33:30--  https://www.easyjob.af/Views/PrintJob/307
+Resolving www.easyjob.af (www.easyjob.af)... 192.169.82.106
+Connecting to www.easyjob.af (www.easyjob.af)|192.169.82.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2057 (2.0K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100%  715M=0s
+
+2020-02-25 14:33:33 (715 Mb/s) - ‘/dev/null’ saved [2057/2057]
+
+--2020-02-25 14:33:33--  https://www.easyjob.af/Views/PrintJob/307
+Resolving www.easyjob.af (www.easyjob.af)... 192.169.82.106
+Connecting to www.easyjob.af (www.easyjob.af)|192.169.82.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2057 (2.0K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100%  968M=0s
+
+2020-02-25 14:33:34 (968 Mb/s) - ‘/dev/null’ saved [2057/2057]
+

@@ -1,0 +1,22 @@
+--2020-02-25 14:17:50--  http://www.acci.org.af/laws/private_investment_law_afghanistan.pdf
+Resolving www.acci.org.af (www.acci.org.af)... 173.199.174.207
+Connecting to www.acci.org.af (www.acci.org.af)|173.199.174.207|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28016 (27K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......                         100% 1.21M=0.2s
+
+2020-02-25 14:17:51 (1.21 Mb/s) - ‘/dev/null’ saved [28016/28016]
+
+--2020-02-25 14:17:51--  http://www.acci.org.af/laws/private_investment_law_afghanistan.pdf
+Resolving www.acci.org.af (www.acci.org.af)... 173.199.174.207
+Connecting to www.acci.org.af (www.acci.org.af)|173.199.174.207|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28016 (27K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......                         100%  526K=0.4s
+
+2020-02-25 14:17:51 (526 Kb/s) - ‘/dev/null’ saved [28016/28016]
+

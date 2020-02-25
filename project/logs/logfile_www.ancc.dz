@@ -1,0 +1,28 @@
+--2020-02-25 15:28:04--  http://www.ancc.dz/pdf/CCNUCC.pdf
+Resolving www.ancc.dz (www.ancc.dz)... 197.112.0.111
+Connecting to www.ancc.dz (www.ancc.dz)|197.112.0.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180546 (176K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 1.51M 1s
+    50K .......... .......... .......... .......... .......... 56% 1.68M 0s
+   100K .......... .......... .......... .......... .......... 85% 1.12M 0s
+   150K .......... .......... ......                          100% 3.03M=1.0s
+
+2020-02-25 15:28:05 (1.52 Mb/s) - ‘/dev/null’ saved [180546/180546]
+
+--2020-02-25 15:28:05--  http://www.ancc.dz/pdf/CCNUCC.pdf
+Resolving www.ancc.dz (www.ancc.dz)... 197.112.0.111
+Connecting to www.ancc.dz (www.ancc.dz)|197.112.0.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180546 (176K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 1.74M 1s
+    50K .......... .......... .......... .......... .......... 56% 6.44M 0s
+   100K .......... .......... .......... .......... .......... 85% 15.5M 0s
+   150K .......... .......... ......                          100% 9.77M=0.3s
+
+2020-02-25 15:28:06 (4.16 Mb/s) - ‘/dev/null’ saved [180546/180546]
+

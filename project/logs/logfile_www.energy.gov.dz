@@ -1,0 +1,6 @@
+--2020-02-25 15:38:16--  https://www.energy.gov.dz/Media/galerie/surveillance_medical_des_datr_5b6973d33a4ec.pdf
+Resolving www.energy.gov.dz (www.energy.gov.dz)... 196.20.107.179, 41.110.2.11
+Connecting to www.energy.gov.dz (www.energy.gov.dz)|196.20.107.179|:443... connected.
+ERROR: cannot verify www.energy.gov.dz's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.energy.gov.dz insecurely, use `--no-check-certificate'.

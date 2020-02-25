@@ -1,0 +1,20 @@
+--2020-02-25 14:33:47--  http://www.mail.gov.af/sites/default/files/2019-09/Horticulture%2520Strategy.pdf
+Resolving www.mail.gov.af (www.mail.gov.af)... 103.132.98.215
+Connecting to www.mail.gov.af (www.mail.gov.af)|103.132.98.215|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mail.gov.af/sites/default/files/2019-09/Horticulture%2520Strategy.pdf [following]
+--2020-02-25 14:33:48--  https://www.mail.gov.af/sites/default/files/2019-09/Horticulture%2520Strategy.pdf
+Connecting to www.mail.gov.af (www.mail.gov.af)|103.132.98.215|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 14:33:52 ERROR 404: Not Found.
+
+--2020-02-25 14:33:52--  http://www.mail.gov.af/sites/default/files/2019-12/%25DA%25AF%25D8%25B2%25D8%25A7%25D8%25B1%25D8%25B4%2520%25D8%25A7%25D9%2586%25D8%25AC%25D8%25A7%25D9%2585%2520%25D8%25A7%25D8%25B1%25D8%25B2%25DB%258C%25D8%25A7%25D8%25A8%25DB%258C.pdf
+Resolving www.mail.gov.af (www.mail.gov.af)... 103.132.98.215
+Connecting to www.mail.gov.af (www.mail.gov.af)|103.132.98.215|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mail.gov.af/sites/default/files/2019-12/%25DA%25AF%25D8%25B2%25D8%25A7%25D8%25B1%25D8%25B4%2520%25D8%25A7%25D9%2586%25D8%25AC%25D8%25A7%25D9%2585%2520%25D8%25A7%25D8%25B1%25D8%25B2%25DB%258C%25D8%25A7%25D8%25A8%25DB%258C.pdf [following]
+--2020-02-25 14:33:52--  https://www.mail.gov.af/sites/default/files/2019-12/%25DA%25AF%25D8%25B2%25D8%25A7%25D8%25B1%25D8%25B4%2520%25D8%25A7%25D9%2586%25D8%25AC%25D8%25A7%25D9%2585%2520%25D8%25A7%25D8%25B1%25D8%25B2%25DB%258C%25D8%25A7%25D8%25A8%25DB%258C.pdf
+Connecting to www.mail.gov.af (www.mail.gov.af)|103.132.98.215|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 14:33:53 ERROR 404: Not Found.
+

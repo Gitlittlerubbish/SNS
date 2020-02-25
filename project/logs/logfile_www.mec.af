@@ -1,0 +1,48 @@
+--2020-02-25 14:09:28--  http://www.mec.af/files/2019_07_29_Afghan_Justice_press_release_pa.pdf
+Resolving www.mec.af (www.mec.af)... 69.12.74.28
+Connecting to www.mec.af (www.mec.af)|69.12.74.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mec.af/files/2019_07_29_Afghan_Justice_press_release_pa.pdf [following]
+--2020-02-25 14:09:28--  https://www.mec.af/files/2019_07_29_Afghan_Justice_press_release_pa.pdf
+Connecting to www.mec.af (www.mec.af)|69.12.74.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 502284 (491K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.40M 3s
+    50K .......... .......... .......... .......... .......... 20% 1.68M 2s
+   100K .......... .......... .......... .......... .......... 30% 1.39M 2s
+   150K .......... .......... .......... .......... .......... 40%  893K 2s
+   200K .......... .......... .......... .......... .......... 50% 2.10M 1s
+   250K .......... .......... .......... .......... .......... 61% 1.43M 1s
+   300K .......... .......... .......... .......... .......... 71%  782K 1s
+   350K .......... .......... .......... .......... .......... 81% 1.09M 1s
+   400K .......... .......... .......... .......... .......... 91% 2.89M 0s
+   450K .......... .......... .......... ..........           100%  952K=3.2s
+
+2020-02-25 14:09:33 (1.27 Mb/s) - ‘/dev/null’ saved [502284/502284]
+
+--2020-02-25 14:09:33--  http://www.mec.af/files/2019_07_29_Afghan_Justice_press_release_pa.pdf
+Resolving www.mec.af (www.mec.af)... 69.12.74.28
+Connecting to www.mec.af (www.mec.af)|69.12.74.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mec.af/files/2019_07_29_Afghan_Justice_press_release_pa.pdf [following]
+--2020-02-25 14:09:33--  https://www.mec.af/files/2019_07_29_Afghan_Justice_press_release_pa.pdf
+Connecting to www.mec.af (www.mec.af)|69.12.74.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 502284 (491K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.52M 2s
+    50K .......... .......... .......... .......... .......... 20% 2.54M 2s
+   100K .......... .......... .......... .......... .......... 30%  867K 2s
+   150K .......... .......... .......... .......... .......... 40% 2.71M 2s
+   200K .......... .......... .......... .......... .......... 50% 1.43M 1s
+   250K .......... .......... .......... .......... .......... 61% 2.72M 1s
+   300K .......... .......... .......... .......... .......... 71% 2.43M 1s
+   350K .......... .......... .......... .......... .......... 81%  905K 0s
+   400K .......... .......... .......... .......... .......... 91% 1.72M 0s
+   450K .......... .......... .......... ..........           100% 2.70M=2.5s
+
+2020-02-25 14:09:36 (1.62 Mb/s) - ‘/dev/null’ saved [502284/502284]
+

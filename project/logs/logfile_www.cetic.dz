@@ -1,0 +1,6 @@
+--2020-02-25 15:26:19--  http://www.cetic.dz/documents/12.pdf
+Resolving www.cetic.dz (www.cetic.dz)... 196.20.78.60
+Connecting to www.cetic.dz (www.cetic.dz)|196.20.78.60|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 15:26:20 ERROR 404: Not Found.
+

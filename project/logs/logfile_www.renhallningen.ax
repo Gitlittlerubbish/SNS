@@ -1,0 +1,24 @@
+--2020-02-25 14:39:00--  http://www.renhallningen.ax/files/arh_infocisternkontroll.pdf
+Resolving www.renhallningen.ax (www.renhallningen.ax)... 194.110.177.53
+Connecting to www.renhallningen.ax (www.renhallningen.ax)|194.110.177.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92849 (91K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 3.62M 0s
+    50K .......... .......... .......... ..........           100% 1.21M=0.4s
+
+2020-02-25 14:39:00 (1.91 Mb/s) - ‘/dev/null’ saved [92849/92849]
+
+--2020-02-25 14:39:00--  http://www.renhallningen.ax/files/arh_infocisternkontroll.pdf
+Resolving www.renhallningen.ax (www.renhallningen.ax)... 194.110.177.53
+Connecting to www.renhallningen.ax (www.renhallningen.ax)|194.110.177.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92849 (91K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 1.06M 0s
+    50K .......... .......... .......... ..........           100% 6.22M=0.4s
+
+2020-02-25 14:39:01 (1.69 Mb/s) - ‘/dev/null’ saved [92849/92849]
+

@@ -1,0 +1,27 @@
+--2020-02-25 15:34:02--  http://www.dgfp.gov.dz/texte/ESF1031.pdf
+Resolving www.dgfp.gov.dz (www.dgfp.gov.dz)... 41.110.190.136, 41.110.190.134
+Connecting to www.dgfp.gov.dz (www.dgfp.gov.dz)|41.110.190.136|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106486 (104K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 1.37M 0s
+    50K .......... .......... .......... .......... .......... 96% 2.07M 0s
+   100K ...                                                   100% 1.95M=0.5s
+
+2020-02-25 15:34:03 (1.65 Mb/s) - ‘/dev/null’ saved [106486/106486]
+
+--2020-02-25 15:34:03--  http://www.dgfp.gov.dz/texte/ESF1031.pdf
+Resolving www.dgfp.gov.dz (www.dgfp.gov.dz)... 41.110.190.134, 41.110.190.136
+Connecting to www.dgfp.gov.dz (www.dgfp.gov.dz)|41.110.190.134|:80... failed: Operation timed out.
+Connecting to www.dgfp.gov.dz (www.dgfp.gov.dz)|41.110.190.136|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106486 (104K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 1.15M 0s
+    50K .......... .......... .......... .......... .......... 96% 1.10M 0s
+   100K ...                                                   100% 1.13M=0.8s
+
+2020-02-25 15:34:08 (1.12 Mb/s) - ‘/dev/null’ saved [106486/106486]
+

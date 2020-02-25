@@ -1,0 +1,52 @@
+--2020-02-25 14:09:45--  http://www.8am.af/Files/Translation_Death_List_Internetversion_English.pdf
+Resolving www.8am.af (www.8am.af)... 104.31.70.147, 104.31.71.147
+Connecting to www.8am.af (www.8am.af)|104.31.70.147|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.8am.af/Files/Translation_Death_List_Internetversion_English.pdf [following]
+--2020-02-25 14:09:45--  https://www.8am.af/Files/Translation_Death_List_Internetversion_English.pdf
+Connecting to www.8am.af (www.8am.af)|104.31.70.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.8am.af attempted to set domain to 8am.af
+Length: 550859 (538K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 46.6M 0s
+    50K .......... .......... .......... .......... .......... 18% 31.4M 0s
+   100K .......... .......... .......... .......... .......... 27% 36.9M 0s
+   150K .......... .......... .......... .......... .......... 37% 40.6M 0s
+   200K .......... .......... .......... .......... .......... 46% 25.2M 0s
+   250K .......... .......... .......... .......... .......... 55% 13.7M 0s
+   300K .......... .......... .......... .......... .......... 65% 41.8M 0s
+   350K .......... .......... .......... .......... .......... 74% 35.3M 0s
+   400K .......... .......... .......... .......... .......... 83% 38.8M 0s
+   450K .......... .......... .......... .......... .......... 92% 34.6M 0s
+   500K .......... .......... .......... .......              100% 32.2M=0.1s
+
+2020-02-25 14:09:46 (30.9 Mb/s) - ‘/dev/null’ saved [550859/550859]
+
+--2020-02-25 14:09:46--  http://www.8am.af/Files/Translation_Death_List_Internetversion_English.pdf
+Resolving www.8am.af (www.8am.af)... 104.31.70.147, 104.31.71.147
+Connecting to www.8am.af (www.8am.af)|104.31.70.147|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.8am.af/Files/Translation_Death_List_Internetversion_English.pdf [following]
+--2020-02-25 14:09:46--  https://www.8am.af/Files/Translation_Death_List_Internetversion_English.pdf
+Connecting to www.8am.af (www.8am.af)|104.31.70.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.8am.af attempted to set domain to 8am.af
+Length: 550859 (538K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 30.5M 0s
+    50K .......... .......... .......... .......... .......... 18% 23.5M 0s
+   100K .......... .......... .......... .......... .......... 27% 38.0M 0s
+   150K .......... .......... .......... .......... .......... 37% 33.2M 0s
+   200K .......... .......... .......... .......... .......... 46% 36.4M 0s
+   250K .......... .......... .......... .......... .......... 55% 33.9M 0s
+   300K .......... .......... .......... .......... .......... 65% 31.7M 0s
+   350K .......... .......... .......... .......... .......... 74% 19.9M 0s
+   400K .......... .......... .......... .......... .......... 83% 27.6M 0s
+   450K .......... .......... .......... .......... .......... 92% 24.6M 0s
+   500K .......... .......... .......... .......              100% 30.6M=0.2s
+
+2020-02-25 14:09:46 (28.9 Mb/s) - ‘/dev/null’ saved [550859/550859]
+

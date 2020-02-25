@@ -1,0 +1,24 @@
+--2020-02-25 15:39:02--  http://www.dcommerce-msila.dz/images/loi/loi0408ar.pdf
+Resolving www.dcommerce-msila.dz (www.dcommerce-msila.dz)... 5.226.5.50
+Connecting to www.dcommerce-msila.dz (www.dcommerce-msila.dz)|5.226.5.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70689 (69K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 72% 2.93M 0s
+    50K .......... .........                                  100% 12.0M=0.2s
+
+2020-02-25 15:39:02 (3.70 Mb/s) - ‘/dev/null’ saved [70689/70689]
+
+--2020-02-25 15:39:02--  http://www.dcommerce-msila.dz/images/loi/loi0408ar.pdf
+Resolving www.dcommerce-msila.dz (www.dcommerce-msila.dz)... 5.226.5.50
+Connecting to www.dcommerce-msila.dz (www.dcommerce-msila.dz)|5.226.5.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70689 (69K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 72% 6.95M 0s
+    50K .......... .........                                  100% 29.3M=0.06s
+
+2020-02-25 15:39:03 (8.80 Mb/s) - ‘/dev/null’ saved [70689/70689]
+

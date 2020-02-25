@@ -1,0 +1,6 @@
+--2020-02-25 14:33:29--  http://ku.edu.af/Content/files/REPORT%2520FINAL.pdf
+Resolving ku.edu.af (ku.edu.af)... 103.132.98.203
+Connecting to ku.edu.af (ku.edu.af)|103.132.98.203|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 14:33:30 ERROR 404: Not Found.
+

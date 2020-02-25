@@ -1,0 +1,30 @@
+--2020-02-25 14:09:46--  https://cms.gawharshad.edu.af/images/chapters/5323b234f031f4720660fefc52b6de7f.pdf
+Resolving cms.gawharshad.edu.af (cms.gawharshad.edu.af)... 108.179.235.11
+Connecting to cms.gawharshad.edu.af (cms.gawharshad.edu.af)|108.179.235.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224025 (219K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  955K 1s
+    50K .......... .......... .......... .......... .......... 45% 4.40M 1s
+   100K .......... .......... .......... .......... .......... 68% 3.68M 0s
+   150K .......... .......... .......... .......... .......... 91% 2.74M 0s
+   200K .......... ........                                   100%  139M=0.8s
+
+2020-02-25 14:09:48 (2.29 Mb/s) - ‘/dev/null’ saved [224025/224025]
+
+--2020-02-25 14:09:48--  https://cms.gawharshad.edu.af/images/chapters/5323b234f031f4720660fefc52b6de7f.pdf
+Resolving cms.gawharshad.edu.af (cms.gawharshad.edu.af)... 108.179.235.11
+Connecting to cms.gawharshad.edu.af (cms.gawharshad.edu.af)|108.179.235.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224025 (219K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  941K 1s
+    50K .......... .......... .......... .......... .......... 45% 50.8M 1s
+   100K .......... .......... .......... .......... .......... 68% 3.69M 0s
+   150K .......... .......... .......... .......... .......... 91% 3.96M 0s
+   200K .......... ........                                   100%  108M=0.7s
+
+2020-02-25 14:09:49 (2.72 Mb/s) - ‘/dev/null’ saved [224025/224025]
+

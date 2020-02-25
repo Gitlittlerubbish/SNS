@@ -36,11 +36,11 @@ def main():
 	country_code_list = get_country_code()
 	print(country_code_list)
 
-	for code in country_code_list[:10]:
+	for code in country_code_list[:5]:
 		print("Processing country code:" + code)
 		for start in range(10):
 			print(".", end='')
-			pdf_list = process_page(code, str(start))
+			pdf_list = process_page(code, str(start * 10))
 			print(pdf_list)
 			with open("domains2.txt", "a") as f:
 				for pdf in pdf_list:

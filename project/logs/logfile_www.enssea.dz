@@ -1,0 +1,28 @@
+--2020-02-25 15:36:01--  https://www.enssea.dz/enssea/majalat/2308.pdf
+Resolving www.enssea.dz (www.enssea.dz)... 51.91.104.141
+Connecting to www.enssea.dz (www.enssea.dz)|51.91.104.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181760 (178K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 5.44M 0s
+    50K .......... .......... .......... .......... .......... 56% 19.1M 0s
+   100K .......... .......... .......... .......... .......... 84% 16.5M 0s
+   150K .......... .......... .......                         100% 29.6M=0.1s
+
+2020-02-25 15:36:01 (11.3 Mb/s) - ‘/dev/null’ saved [181760/181760]
+
+--2020-02-25 15:36:01--  https://www.enssea.dz/enssea/majalat/2308.pdf
+Resolving www.enssea.dz (www.enssea.dz)... 51.91.104.141
+Connecting to www.enssea.dz (www.enssea.dz)|51.91.104.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181760 (178K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 12.3M 0s
+    50K .......... .......... .......... .......... .......... 56% 23.3M 0s
+   100K .......... .......... .......... .......... .......... 84% 22.9M 0s
+   150K .......... .......... .......                         100% 28.3M=0.08s
+
+2020-02-25 15:36:02 (19.0 Mb/s) - ‘/dev/null’ saved [181760/181760]
+

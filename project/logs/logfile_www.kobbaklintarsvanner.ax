@@ -1,0 +1,30 @@
+--2020-02-25 14:36:16--  http://www.kobbaklintarsvanner.ax/files/memoarer.pdf
+Resolving www.kobbaklintarsvanner.ax (www.kobbaklintarsvanner.ax)... 194.110.177.53
+Connecting to www.kobbaklintarsvanner.ax (www.kobbaklintarsvanner.ax)|194.110.177.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220005 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 1.38M 1s
+    50K .......... .......... .......... .......... .......... 46% 1.33M 1s
+   100K .......... .......... .......... .......... .......... 69% 2.42M 0s
+   150K .......... .......... .......... .......... .......... 93% 4.39M 0s
+   200K .......... ....                                       100% 2.06M=0.9s
+
+2020-02-25 14:36:17 (1.90 Mb/s) - ‘/dev/null’ saved [220005/220005]
+
+--2020-02-25 14:36:17--  http://www.kobbaklintarsvanner.ax/files/memoarer.pdf
+Resolving www.kobbaklintarsvanner.ax (www.kobbaklintarsvanner.ax)... 194.110.177.53
+Connecting to www.kobbaklintarsvanner.ax (www.kobbaklintarsvanner.ax)|194.110.177.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220005 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 3.54M 0s
+    50K .......... .......... .......... .......... .......... 46% 2.17M 0s
+   100K .......... .......... .......... .......... .......... 69% 2.31M 0s
+   150K .......... .......... .......... .......... .......... 93% 3.88M 0s
+   200K .......... ....                                       100% 5.42M=0.6s
+
+2020-02-25 14:36:18 (2.89 Mb/s) - ‘/dev/null’ saved [220005/220005]
+

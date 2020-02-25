@@ -1,0 +1,62 @@
+--2020-02-25 15:19:16--  https://droit.mjustice.dz/loi_lutte_contrebande_ar.pdf
+Resolving droit.mjustice.dz (droit.mjustice.dz)... 197.112.0.210
+Connecting to droit.mjustice.dz (droit.mjustice.dz)|197.112.0.210|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184462 (180K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 4.35M 0s
+    50K .......... .......... .......... .......... .......... 55% 2.37M 0s
+   100K .......... .......... .......... .......... .......... 83% 5.74M 0s
+   150K .......... .......... ..........                      100% 14.8M=0.4s
+
+2020-02-25 15:19:17 (4.16 Mb/s) - ‘/dev/null’ saved [184462/184462]
+
+--2020-02-25 15:19:17--  https://droit.mjustice.dz/loi_lutte_contrebande_ar.pdf
+Resolving droit.mjustice.dz (droit.mjustice.dz)... 197.112.0.210
+Connecting to droit.mjustice.dz (droit.mjustice.dz)|197.112.0.210|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184462 (180K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27%  841K 1s
+    50K .......... .......... .......... .......... .......... 55% 1.03M 1s
+   100K .......... .......... .......... .......... .......... 83% 2.75M 0s
+   150K .......... .......... ..........                      100%  786K=1.3s
+
+2020-02-25 15:19:19 (1.10 Mb/s) - ‘/dev/null’ saved [184462/184462]
+
+--2020-02-25 15:19:19--  https://droit.mjustice.dz/loi_prevention_repres_usage_trafic_illic_stupe_subst_psychotr.pdf
+Resolving droit.mjustice.dz (droit.mjustice.dz)... 197.112.0.210
+Connecting to droit.mjustice.dz (droit.mjustice.dz)|197.112.0.210|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 322834 (315K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 3.71M 1s
+    50K .......... .......... .......... .......... .......... 31% 3.37M 0s
+   100K .......... .......... .......... .......... .......... 47% 4.08M 0s
+   150K .......... .......... .......... .......... .......... 63% 4.20M 0s
+   200K .......... .......... .......... .......... .......... 79% 1.34M 0s
+   250K .......... .......... .......... .......... .......... 95% 3.00M 0s
+   300K .......... .....                                      100% 5.70M=0.9s
+
+2020-02-25 15:19:20 (2.89 Mb/s) - ‘/dev/null’ saved [322834/322834]
+
+--2020-02-25 15:19:20--  https://droit.mjustice.dz/loi_prevention_repres_usage_trafic_illic_stupe_subst_psychotr.pdf
+Resolving droit.mjustice.dz (droit.mjustice.dz)... 197.112.0.210
+Connecting to droit.mjustice.dz (droit.mjustice.dz)|197.112.0.210|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 322834 (315K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  945K 2s
+    50K .......... .......... .......... .......... .......... 31% 1.04M 2s
+   100K .......... .......... .......... .......... .......... 47% 1.59M 1s
+   150K .......... .......... .......... .......... .......... 63% 3.00M 1s
+   200K .......... .......... .......... .......... .......... 79% 1.04M 0s
+   250K .......... .......... .......... .......... .......... 95% 1.63M 0s
+   300K .......... .....                                      100%  993M=1.9s
+
+2020-02-25 15:19:22 (1.38 Mb/s) - ‘/dev/null’ saved [322834/322834]
+

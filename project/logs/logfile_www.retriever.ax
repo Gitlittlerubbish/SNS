@@ -1,0 +1,6 @@
+--2020-02-25 14:41:26--  http://www.retriever.ax/Document/Download/336491/4432405%3FfirstRef
+Resolving www.retriever.ax (www.retriever.ax)... 185.21.146.248
+Connecting to www.retriever.ax (www.retriever.ax)|185.21.146.248|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 14:41:26 ERROR 400: Bad Request.
+

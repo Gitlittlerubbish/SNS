@@ -1,0 +1,24 @@
+--2020-02-25 14:36:15--  http://www.brandkar.ax/files/brand_och_raddningslag.pdf
+Resolving www.brandkar.ax (www.brandkar.ax)... 194.110.177.53
+Connecting to www.brandkar.ax (www.brandkar.ax)|194.110.177.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88422 (86K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 2.45M 0s
+    50K .......... .......... .......... ......               100% 3.41M=0.3s
+
+2020-02-25 14:36:16 (2.78 Mb/s) - ‘/dev/null’ saved [88422/88422]
+
+--2020-02-25 14:36:16--  http://www.brandkar.ax/files/brand_och_raddningslag.pdf
+Resolving www.brandkar.ax (www.brandkar.ax)... 194.110.177.53
+Connecting to www.brandkar.ax (www.brandkar.ax)|194.110.177.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88422 (86K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 1.83M 0s
+    50K .......... .......... .......... ......               100% 1.86M=0.4s
+
+2020-02-25 14:36:16 (1.84 Mb/s) - ‘/dev/null’ saved [88422/88422]
+

@@ -15,19 +15,24 @@ echo -e "|        \033[33mFetching <IP, Throughput> Script V$VERSION\033[0m     
 echo -e "|           $ \033[34mChen Xiao \033[0m <uceeheh@ucl.ac.uk> $         |"
 echo -e "\n\nTHIS MAY TAKE A WHILE, PLEASE BE PATIENT WHILE THE SCRIPT IS RUNNING..."
 
-input="./domains.txt"
+input="./domains2.txt"
 
 errflag=0
 while IFS= read -r line
 do	
 	errflag=0
-	printf "%-20s" $line":"
+	printf "%-20s" $line"\n"
 	printf "["
+
+	#added
+	temp=${line#*//}
+	# temp=${name%/*}
+	domain=${temp%%/*}
 	# 40 times of wget, considering the initial congestion window size is 10
-	for idx in {0..39}
+	for idx in {0..1}
 	do
 		printf "▓"
-		wget -4 --tries=1 --timeout=3 --report-speed=bits --append-output=./logs/logfile"_$line"  -O /dev/null $line
+		wget -4 --tries=1 --timeout=3 --report-speed=bits --append-output=./logs/logfile"_$domain"  -O /dev/null $line
 		if [ $? != 0 ]
 		then
 			echo -e "\n\033[31m"$line" connection failed, go to the next domain.\033[0m"

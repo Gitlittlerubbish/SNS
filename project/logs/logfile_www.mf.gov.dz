@@ -1,0 +1,28 @@
+--2020-02-25 15:40:23--  http://www.mf.gov.dz/article_pdf/upl-df258dfa5c45db3d016213e40c3c48c7.pdf
+Resolving www.mf.gov.dz (www.mf.gov.dz)... 197.112.0.111
+Connecting to www.mf.gov.dz (www.mf.gov.dz)|197.112.0.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191248 (187K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 9.82M 0s
+    50K .......... .......... .......... .......... .......... 53% 8.02M 0s
+   100K .......... .......... .......... .......... .......... 80% 2.73M 0s
+   150K .......... .......... .......... ......               100% 5.63M=0.3s
+
+2020-02-25 15:40:24 (5.17 Mb/s) - ‘/dev/null’ saved [191248/191248]
+
+--2020-02-25 15:40:24--  http://www.mf.gov.dz/article_pdf/upl-df258dfa5c45db3d016213e40c3c48c7.pdf
+Resolving www.mf.gov.dz (www.mf.gov.dz)... 197.112.0.111
+Connecting to www.mf.gov.dz (www.mf.gov.dz)|197.112.0.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191248 (187K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 17.7M 0s
+    50K .......... .......... .......... .......... .......... 53% 8.15M 0s
+   100K .......... .......... .......... .......... .......... 80% 18.0M 0s
+   150K .......... .......... .......... ......               100% 10.9M=0.1s
+
+2020-02-25 15:40:24 (12.4 Mb/s) - ‘/dev/null’ saved [191248/191248]
+

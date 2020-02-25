@@ -1,0 +1,85 @@
+--2020-02-25 14:08:34--  http://i.af/6iLT
+Resolving i.af (i.af)... 23.99.206.151
+Connecting to i.af (i.af)|23.99.206.151|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.rhbgroup.com/~/media/files/malaysia/product-and-services/personal/insurance/personal-insurance/travel-protector-proposal-form.ashx [following]
+--2020-02-25 14:08:35--  https://www.rhbgroup.com/~/media/files/malaysia/product-and-services/personal/insurance/personal-insurance/travel-protector-proposal-form.ashx
+Resolving www.rhbgroup.com (www.rhbgroup.com)... 104.17.187.7, 104.17.188.7
+Connecting to www.rhbgroup.com (www.rhbgroup.com)|104.17.187.7|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1452994 (1.4M) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  3%  195K 57s
+    50K .......... .......... .......... .......... ..........  7%  148K 64s
+   100K .......... .......... .......... .......... .......... 10%  140K 66s
+   150K .......... .......... .......... .......... .......... 14%  356K 55s
+   200K .......... .......... .......... .......... .......... 17%  193K 52s
+   250K .......... .......... .......... .......... .......... 21%  182K 50s
+   300K .......... .......... .......... .......... .......... 24%  203K 47s
+   350K .                                                      24%  269K=15s
+
+2020-02-25 14:08:54 (188 Kb/s) - Read error at byte 360079/1452994 (Operation timed out). Giving up.
+
+--2020-02-25 14:08:54--  http://i.af/6iLV
+Resolving i.af (i.af)... 23.99.206.151
+Connecting to i.af (i.af)|23.99.206.151|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.maybank2u.com.my/WebBank/SmartTraveller_301014.pdf [following]
+--2020-02-25 14:08:54--  http://www.maybank2u.com.my/WebBank/SmartTraveller_301014.pdf
+Resolving www.maybank2u.com.my (www.maybank2u.com.my)... 23.43.69.140
+Connecting to www.maybank2u.com.my (www.maybank2u.com.my)|23.43.69.140|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.maybank2u.com.my/WebBank/SmartTraveller_301014.pdf [following]
+--2020-02-25 14:08:55--  https://www.maybank2u.com.my/WebBank/SmartTraveller_301014.pdf
+Connecting to www.maybank2u.com.my (www.maybank2u.com.my)|23.43.69.140|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 573281 (560K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 15.4M 0s
+    50K .......... .......... .......... .......... .......... 17% 9.54M 0s
+   100K .......... .......... .......... .......... .......... 26% 27.2M 0s
+   150K .......... .......... .......... .......... .......... 35% 37.8M 0s
+   200K .......... .......... .......... .......... .......... 44% 34.0M 0s
+   250K .......... .......... .......... .......... .......... 53% 15.4M 0s
+   300K .......... .......... .......... .......... .......... 62% 2.56M 0s
+   350K .......... .......... .......... .......... .......... 71% 1.06G 0s
+   400K .......... .......... .......... .......... .......... 80% 10.3M 0s
+   450K .......... .......... .......... .......... .......... 89% 1.49M 0s
+   500K .......... .......... .......... .......... .......... 98% 11.4M 0s
+   550K .........                                             100% 1.49G=0.6s
+
+2020-02-25 14:08:56 (7.10 Mb/s) - ‘/dev/null’ saved [573281/573281]
+
+--2020-02-25 14:08:56--  http://i.af/6iLV
+Resolving i.af (i.af)... 23.99.206.151
+Connecting to i.af (i.af)|23.99.206.151|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.maybank2u.com.my/WebBank/SmartTraveller_301014.pdf [following]
+--2020-02-25 14:08:56--  http://www.maybank2u.com.my/WebBank/SmartTraveller_301014.pdf
+Resolving www.maybank2u.com.my (www.maybank2u.com.my)... 23.43.69.140
+Connecting to www.maybank2u.com.my (www.maybank2u.com.my)|23.43.69.140|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.maybank2u.com.my/WebBank/SmartTraveller_301014.pdf [following]
+--2020-02-25 14:08:57--  https://www.maybank2u.com.my/WebBank/SmartTraveller_301014.pdf
+Connecting to www.maybank2u.com.my (www.maybank2u.com.my)|23.43.69.140|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 573281 (560K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 54.8M 0s
+    50K .......... .......... .......... .......... .......... 17% 29.6M 0s
+   100K .......... .......... .......... .......... .......... 26% 35.8M 0s
+   150K .......... .......... .......... .......... .......... 35% 32.8M 0s
+   200K .......... .......... .......... .......... .......... 44% 41.1M 0s
+   250K .......... .......... .......... .......... .......... 53% 31.2M 0s
+   300K .......... .......... .......... .......... .......... 62% 33.3M 0s
+   350K .......... .......... .......... .......... .......... 71% 28.3M 0s
+   400K .......... .......... .......... .......... .......... 80% 16.9M 0s
+   450K .......... .......... .......... .......... .......... 89%  101M 0s
+   500K .......... .......... .......... .......... .......... 98%  158M 0s
+   550K .........                                             100% 2.88G=0.1s
+
+2020-02-25 14:08:57 (36.4 Mb/s) - ‘/dev/null’ saved [573281/573281]
+

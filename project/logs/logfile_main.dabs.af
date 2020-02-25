@@ -1,0 +1,6 @@
+--2020-02-25 14:26:45--  https://main.dabs.af/uploads/reports/a2420a5ea2aff0255c85ef00c34a0aba.pdf
+Resolving main.dabs.af (main.dabs.af)... 180.94.91.238
+Connecting to main.dabs.af (main.dabs.af)|180.94.91.238|:443... connected.
+ERROR: cannot verify main.dabs.af's certificate, issued by ‘CN=GlobalSign RSA DV SSL CA 2018,O=GlobalSign nv-sa,C=BE’:
+  Unable to locally verify the issuer's authority.
+To connect to main.dabs.af insecurely, use `--no-check-certificate'.

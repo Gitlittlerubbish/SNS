@@ -1,0 +1,30 @@
+--2020-02-25 14:30:44--  http://www.aabrar.org.af/administration/uploads/books/Trees.pdf
+Resolving www.aabrar.org.af (www.aabrar.org.af)... 207.180.252.169
+Connecting to www.aabrar.org.af (www.aabrar.org.af)|207.180.252.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235486 (230K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 6.09M 0s
+    50K .......... .......... .......... .......... .......... 43% 11.5M 0s
+   100K .......... .......... .......... .......... .......... 65% 12.4M 0s
+   150K .......... .......... .......... .......... .......... 86% 11.0M 0s
+   200K .......... .......... .........                       100% 8.19M=0.2s
+
+2020-02-25 14:30:44 (9.29 Mb/s) - ‘/dev/null’ saved [235486/235486]
+
+--2020-02-25 14:30:44--  http://www.aabrar.org.af/administration/uploads/books/Trees.pdf
+Resolving www.aabrar.org.af (www.aabrar.org.af)... 207.180.252.169
+Connecting to www.aabrar.org.af (www.aabrar.org.af)|207.180.252.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235486 (230K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 5.84M 0s
+    50K .......... .......... .......... .......... .......... 43% 9.22M 0s
+   100K .......... .......... .......... .......... .......... 65% 8.94M 0s
+   150K .......... .......... .......... .......... .......... 86% 12.2M 0s
+   200K .......... .......... .........                       100% 9.11M=0.2s
+
+2020-02-25 14:30:44 (8.53 Mb/s) - ‘/dev/null’ saved [235486/235486]
+

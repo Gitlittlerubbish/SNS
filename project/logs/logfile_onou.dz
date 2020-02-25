@@ -1,0 +1,6 @@
+--2020-02-25 15:24:50--  http://onou.dz/dossiers/A2004008.pdf
+Resolving onou.dz (onou.dz)... 197.112.0.111
+Connecting to onou.dz (onou.dz)|197.112.0.111|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 15:24:52 ERROR 403: Forbidden.
+

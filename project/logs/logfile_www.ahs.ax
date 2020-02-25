@@ -1,0 +1,10 @@
+--2020-02-25 14:36:08--  http://www.ahs.ax/files/barnanpassad_sexualfostran.pdf
+Resolving www.ahs.ax (www.ahs.ax)... 194.110.179.130
+Connecting to www.ahs.ax (www.ahs.ax)|194.110.179.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ahs.ax/files/barnanpassad_sexualfostran.pdf [following]
+--2020-02-25 14:36:09--  https://www.ahs.ax/files/barnanpassad_sexualfostran.pdf
+Connecting to www.ahs.ax (www.ahs.ax)|194.110.179.130|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 14:36:11 ERROR 404: Not Found.
+

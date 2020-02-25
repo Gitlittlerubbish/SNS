@@ -1,0 +1,6 @@
+--2020-02-25 15:31:39--  https://library.crti.dz/cf1860/abstract
+Resolving library.crti.dz (library.crti.dz)... 193.194.80.84
+Connecting to library.crti.dz (library.crti.dz)|193.194.80.84|:443... connected.
+ERROR: cannot verify library.crti.dz's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to library.crti.dz insecurely, use `--no-check-certificate'.
