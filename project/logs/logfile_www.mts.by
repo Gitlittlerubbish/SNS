@@ -1,0 +1,12 @@
+--2020-02-25 21:07:08--  https://www.mts.by/mobile/social_media/rules.pdf%0D
+Resolving www.mts.by (www.mts.by)... 217.21.61.177
+Connecting to www.mts.by (www.mts.by)|217.21.61.177|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:09 ERROR 404: Not Found.
+
+--2020-02-25 21:17:17--  https://www.mts.by/mobile/social_media/rules.pdf%0D
+Resolving www.mts.by (www.mts.by)... 217.21.61.177
+Connecting to www.mts.by (www.mts.by)|217.21.61.177|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:18 ERROR 404: Not Found.
+

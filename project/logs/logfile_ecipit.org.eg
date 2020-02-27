@@ -1,0 +1,12 @@
+--2020-02-25 22:12:13--  http://ecipit.org.eg/arabic/pdf/Integrating_IPR_and_Development_Policy.pdf%0D
+Resolving ecipit.org.eg (ecipit.org.eg)... 50.62.160.113
+Connecting to ecipit.org.eg (ecipit.org.eg)|50.62.160.113|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:12:13 ERROR 400: Bad Request.
+
+--2020-02-25 22:13:11--  http://ecipit.org.eg/arabic/pdf/Integrating_IPR_and_Development_Policy.pdf%0D
+Resolving ecipit.org.eg (ecipit.org.eg)... 50.62.160.113
+Connecting to ecipit.org.eg (ecipit.org.eg)|50.62.160.113|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:13:11 ERROR 400: Bad Request.
+

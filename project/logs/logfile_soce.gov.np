@@ -1,0 +1,22 @@
+--2020-02-26 00:04:42--  http://soce.gov.np/download/publications/fstat_062.pdf%0D
+Resolving soce.gov.np (soce.gov.np)... 202.45.144.21
+Connecting to soce.gov.np (soce.gov.np)|202.45.144.21|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         293M=0s
+
+2020-02-26 00:04:43 (293 Mb/s) - ‘/dev/null’ saved [314]
+
+--2020-02-26 00:04:43--  http://soce.gov.np/download/publications/fstat_062.pdf%0D
+Resolving soce.gov.np (soce.gov.np)... 202.45.144.21
+Connecting to soce.gov.np (soce.gov.np)|202.45.144.21|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         483M=0s
+
+2020-02-26 00:04:44 (483 Mb/s) - ‘/dev/null’ saved [314]
+

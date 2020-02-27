@@ -1,44 +1,6 @@
---2020-02-25 15:15:03--  https://www.britishcouncil.al/sites/default/files/erf_literature_review_2017_radicalisation_and_violent_extremism.pdf
-Resolving www.britishcouncil.al (www.britishcouncil.al)... 2.20.36.14
-Connecting to www.britishcouncil.al (www.britishcouncil.al)|2.20.36.14|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 8.41M
-    50K .......... .......... .......... .......... .......... 10.7M
-   100K .......... .......... .......... .......... .......... 4.71M
-   150K .......... .......... .......... .......... .......... 1.10M
-   200K .......... .......... .......... .......... ..........  986K
-   250K .......... .......... .......... .......... .......... 2.19M
-   300K .......... .......... .......... .......... .......... 4.31M
-   350K .......... .......... .......... .......... .......... 5.36M
-   400K .......... .......... .......... .......... .......... 1.44M
-   450K .......... .......... .......... .......... .......... 6.61M
-   500K .......... .......... .......... .......... .......... 11.2M
-   550K .......... .......... ........                         29.4M=1.7s
-
-2020-02-25 15:15:05 (2.77 Mb/s) - ‘/dev/null’ saved [592361]
-
---2020-02-25 15:15:05--  https://www.britishcouncil.al/sites/default/files/erf_literature_review_2017_radicalisation_and_violent_extremism.pdf
-Resolving www.britishcouncil.al (www.britishcouncil.al)... 2.20.36.14
-Connecting to www.britishcouncil.al (www.britishcouncil.al)|2.20.36.14|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 2.69M
-    50K .......... .......... .......... .......... .......... 4.75M
-   100K .......... .......... .......... .......... .......... 8.76M
-   150K .......... .......... .......... .......... .......... 10.9M
-   200K .......... .......... .......... .......... .......... 14.1M
-   250K .......... .......... .......... .......... .......... 7.06M
-   300K .......... .......... .......... .......... .......... 10.4M
-   350K .......... .......... .......... .......... .......... 5.44M
-   400K .......... .......... .......... .......... .......... 8.08M
-   450K .......... .......... .......... .......... .......... 1.55M
-   500K .......... .......... .......... .......... .......... 6.88M
-   550K .......... .......... ........                         13.0M=0.9s
-
-2020-02-25 15:15:06 (5.17 Mb/s) - ‘/dev/null’ saved [592361]
+--2020-02-25 20:55:27--  https://www.britishcouncil.al/sites/default/files/erf_literature_review_2017_radicalisation_and_violent_extremism.pdf%0D
+Resolving www.britishcouncil.al (www.britishcouncil.al)... 104.84.250.178
+Connecting to www.britishcouncil.al (www.britishcouncil.al)|104.84.250.178|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:55:28 ERROR 404: Not Found.
 

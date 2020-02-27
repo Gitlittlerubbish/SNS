@@ -1,0 +1,6 @@
+--2020-02-26 00:22:21--  https://www.vkt.no/media/1196/01_3s.pdf%0D
+Resolving www.vkt.no (www.vkt.no)... 52.178.90.230
+Connecting to www.vkt.no (www.vkt.no)|52.178.90.230|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:21 ERROR 400: Bad Request.
+

@@ -1,0 +1,11 @@
+--2020-02-25 23:26:12--  http://www.herbs.lu/InfoSheets/d1798screen.pdf%0D
+Resolving www.herbs.lu (www.herbs.lu)... 216.237.127.202
+Connecting to www.herbs.lu (www.herbs.lu)|216.237.127.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.richters.com/InfoSheets/d1798screen.pdf%0d [following]
+--2020-02-25 23:26:13--  https://www.richters.com/InfoSheets/d1798screen.pdf%0d
+Resolving www.richters.com (www.richters.com)... 216.237.127.202
+Connecting to www.richters.com (www.richters.com)|216.237.127.202|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:26:13 ERROR 404: Not Found.
+

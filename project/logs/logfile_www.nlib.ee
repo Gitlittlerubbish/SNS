@@ -1,0 +1,12 @@
+--2020-02-25 22:17:11--  https://www.nlib.ee/eraamat/IRiigikogu_64mb.pdf%0D
+Resolving www.nlib.ee (www.nlib.ee)... 193.40.192.81
+Connecting to www.nlib.ee (www.nlib.ee)|193.40.192.81|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:11 ERROR 404: Not Found.
+
+--2020-02-25 22:17:13--  https://www.nlib.ee/eraamat/IRiigikogu_64mb.pdf%0D
+Resolving www.nlib.ee (www.nlib.ee)... 193.40.192.81
+Connecting to www.nlib.ee (www.nlib.ee)|193.40.192.81|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:13 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:23:34--  https://www.act.edu.om/media/34011/elcstudenthandbook2019.pdf%0D
+Resolving www.act.edu.om (www.act.edu.om)... 5.37.69.40
+Connecting to www.act.edu.om (www.act.edu.om)|5.37.69.40|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:23:34 ERROR 400: Bad Request.
+

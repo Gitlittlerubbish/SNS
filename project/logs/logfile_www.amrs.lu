@@ -1,0 +1,6 @@
+--2020-02-25 23:26:16--  http://www.amrs.lu/download/Environment_Policy_FR.pdf%0D
+Resolving www.amrs.lu (www.amrs.lu)... 195.26.5.2
+Connecting to www.amrs.lu (www.amrs.lu)|195.26.5.2|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:26:16 ERROR 404: Not Found.
+

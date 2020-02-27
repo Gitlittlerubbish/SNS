@@ -1,0 +1,12 @@
+--2020-02-25 22:38:54--  http://www.alderney.gov.gg/CHttpHandler.ashx%3Fid%3D83302%26p%3D0%0D
+Resolving www.alderney.gov.gg (www.alderney.gov.gg)... --2020-02-25 22:38:54--  http://www.alderney.gov.gg/CHttpHandler.ashx%3Fid%3D83302%26p%3D0%0D
+Resolving www.alderney.gov.gg (www.alderney.gov.gg)... 195.226.152.43
+Connecting to www.alderney.gov.gg (www.alderney.gov.gg)|195.226.152.43|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:54 ERROR 400: Bad Request.
+
+195.226.152.43
+Connecting to www.alderney.gov.gg (www.alderney.gov.gg)|195.226.152.43|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:54 ERROR 400: Bad Request.
+

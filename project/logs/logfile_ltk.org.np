@@ -1,0 +1,12 @@
+--2020-02-26 00:03:49--  http://ltk.org.np/downloads/OLE_Nepal_LTK_Conference.pdf%0D
+Resolving ltk.org.np (ltk.org.np)... 173.247.248.185
+Connecting to ltk.org.np (ltk.org.np)|173.247.248.185|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:03:50 ERROR 404: Not Found.
+
+--2020-02-26 00:03:50--  http://ltk.org.np/downloads/computer_writing_of_Nepali.pdf%0D
+Resolving ltk.org.np (ltk.org.np)... 173.247.248.185
+Connecting to ltk.org.np (ltk.org.np)|173.247.248.185|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:03:50 ERROR 404: Not Found.
+

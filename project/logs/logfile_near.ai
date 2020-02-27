@@ -1,0 +1,32 @@
+--2020-02-25 21:02:42--  https://near.ai/nightshade%0D
+Resolving near.ai (near.ai)... 52.72.49.79
+Connecting to near.ai (near.ai)|52.72.49.79|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://rebrandly.com/404 [following]
+--2020-02-25 21:02:42--  https://rebrandly.com/404
+Resolving rebrandly.com (rebrandly.com)... 143.204.175.34, 143.204.175.40, 143.204.175.94, ...
+Connecting to rebrandly.com (rebrandly.com)|143.204.175.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1052 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 2.26G=0s
+
+2020-02-25 21:02:42 (2.26 Gb/s) - ‘/dev/null’ saved [1052/1052]
+
+--2020-02-25 21:02:42--  https://near.ai/nightshade%0D
+Resolving near.ai (near.ai)... 52.72.49.79
+Connecting to near.ai (near.ai)|52.72.49.79|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://rebrandly.com/404 [following]
+--2020-02-25 21:02:42--  https://rebrandly.com/404
+Resolving rebrandly.com (rebrandly.com)... 143.204.175.34, 143.204.175.40, 143.204.175.94, ...
+Connecting to rebrandly.com (rebrandly.com)|143.204.175.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1052 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 2.74G=0s
+
+2020-02-25 21:02:42 (2.74 Gb/s) - ‘/dev/null’ saved [1052/1052]
+

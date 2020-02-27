@@ -1,0 +1,12 @@
+--2020-02-25 22:06:28--  http://clar.dk/herman/herman.pdf%0D
+Resolving clar.dk (clar.dk)... --2020-02-25 22:06:28--  http://clar.dk/herman/herman.pdf%0D
+Resolving clar.dk (clar.dk)... 93.191.156.21
+Connecting to clar.dk (clar.dk)|93.191.156.21|:80... 93.191.156.21
+Connecting to clar.dk (clar.dk)|93.191.156.21|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 406 Not Acceptable
+2020-02-25 22:06:28 ERROR 406: Not Acceptable.
+
+406 Not Acceptable
+2020-02-25 22:06:28 ERROR 406: Not Acceptable.
+

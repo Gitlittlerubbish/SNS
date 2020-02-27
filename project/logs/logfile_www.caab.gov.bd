@@ -1,0 +1,12 @@
+--2020-02-25 21:03:38--  http://www.caab.gov.bd/secfiles/cabinhealth.pdf%0D
+Resolving www.caab.gov.bd (www.caab.gov.bd)... 180.211.213.44
+Connecting to www.caab.gov.bd (www.caab.gov.bd)|180.211.213.44|:80... connected.
+HTTP request sent, awaiting response... 408 Request Time-out
+2020-02-25 21:03:38 ERROR 408: Request Time-out.
+
+--2020-02-25 21:14:45--  http://www.caab.gov.bd/secfiles/cabinhealth.pdf%0D
+Resolving www.caab.gov.bd (www.caab.gov.bd)... 180.211.213.44
+Connecting to www.caab.gov.bd (www.caab.gov.bd)|180.211.213.44|:80... connected.
+HTTP request sent, awaiting response... 408 Request Time-out
+2020-02-25 21:14:46 ERROR 408: Request Time-out.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:15:24--  https://www.intersatelital.com.bo/Manual_STB_Kaon_INTERSAT_low.pdf%0D
+Resolving www.intersatelital.com.bo (www.intersatelital.com.bo)... 75.119.209.214
+Connecting to www.intersatelital.com.bo (www.intersatelital.com.bo)|75.119.209.214|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:24 ERROR 404: Not Found.
+
+--2020-02-25 21:23:01--  https://www.intersatelital.com.bo/Manual_STB_Kaon_INTERSAT_low.pdf%0D
+Resolving www.intersatelital.com.bo (www.intersatelital.com.bo)... 75.119.209.214
+Connecting to www.intersatelital.com.bo (www.intersatelital.com.bo)|75.119.209.214|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:02 ERROR 404: Not Found.
+

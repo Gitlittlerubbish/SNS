@@ -1,0 +1,6 @@
+--2020-02-25 22:58:19--  http://www.tynwald.org.im/memoff/former/FormerBiogs/CainCA.pdf%0D
+Resolving www.tynwald.org.im (www.tynwald.org.im)... 109.70.47.61
+Connecting to www.tynwald.org.im (www.tynwald.org.im)|109.70.47.61|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:58:19 ERROR 400: Bad Request.
+

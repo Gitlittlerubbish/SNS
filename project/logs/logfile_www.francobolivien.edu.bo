@@ -1,0 +1,12 @@
+--2020-02-25 21:16:40--  http://www.francobolivien.edu.bo/IMG/pdf/7_autorisation_sortie_de_territoire.pdf%0D
+Resolving www.francobolivien.edu.bo (www.francobolivien.edu.bo)... 192.185.72.203
+Connecting to www.francobolivien.edu.bo (www.francobolivien.edu.bo)|192.185.72.203|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:41 ERROR 404: Not Found.
+
+--2020-02-25 21:24:05--  http://www.francobolivien.edu.bo/IMG/pdf/7_autorisation_sortie_de_territoire.pdf%0D
+Resolving www.francobolivien.edu.bo (www.francobolivien.edu.bo)... 192.185.72.203
+Connecting to www.francobolivien.edu.bo (www.francobolivien.edu.bo)|192.185.72.203|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:05 ERROR 404: Not Found.
+

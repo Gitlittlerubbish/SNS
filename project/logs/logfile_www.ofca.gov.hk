@@ -1,0 +1,22 @@
+--2020-02-25 22:45:26--  https://www.ofca.gov.hk/filemanager/ofca/en/content_108/wireless_en.pdf%0D
+Resolving www.ofca.gov.hk (www.ofca.gov.hk)... 104.16.38.77, 104.16.39.77
+Connecting to www.ofca.gov.hk (www.ofca.gov.hk)|104.16.38.77|:443... connected.
+HTTP request sent, awaiting response... 300 Multiple Choices
+Length: 9018 (8.8K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                              100% 1.12G=0s
+
+2020-02-25 22:45:27 (1.12 Gb/s) - ‘/dev/null’ saved [9018/9018]
+
+--2020-02-25 22:45:27--  https://www.ofca.gov.hk/filemanager/ofca/en/content_108/wireless_en.pdf%0D
+Resolving www.ofca.gov.hk (www.ofca.gov.hk)... 104.16.39.77, 104.16.38.77
+Connecting to www.ofca.gov.hk (www.ofca.gov.hk)|104.16.39.77|:443... connected.
+HTTP request sent, awaiting response... 300 Multiple Choices
+Length: 9018 (8.8K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                              100% 1.09G=0s
+
+2020-02-25 22:45:28 (1.09 Gb/s) - ‘/dev/null’ saved [9018/9018]
+

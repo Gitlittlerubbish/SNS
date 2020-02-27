@@ -1,0 +1,12 @@
+--2020-02-25 22:19:34--  https://www.setur.fo/media/2299/talamortan.pdf%0D
+Resolving www.setur.fo (www.setur.fo)... --2020-02-25 22:19:34--  https://www.setur.fo/media/2299/talamortan.pdf%0D
+Resolving www.setur.fo (www.setur.fo)... 34.255.33.161, 63.32.38.184
+Connecting to www.setur.fo (www.setur.fo)|34.255.33.161|:443... connected.
+63.32.38.184, 34.255.33.161
+Connecting to www.setur.fo (www.setur.fo)|63.32.38.184|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:34 ERROR 403: Forbidden.
+
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:34 ERROR 403: Forbidden.
+

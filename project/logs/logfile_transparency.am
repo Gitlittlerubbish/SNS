@@ -1,0 +1,12 @@
+--2020-02-25 20:54:47--  https://transparency.am/gnumner/bulletins/bulletin2.pdf%0D
+Resolving transparency.am (transparency.am)... 104.24.114.36, 104.24.115.36
+Connecting to transparency.am (transparency.am)|104.24.114.36|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:47 ERROR 404: Not Found.
+
+--2020-02-25 21:07:39--  https://transparency.am/gnumner/bulletins/bulletin2.pdf%0D
+Resolving transparency.am (transparency.am)... 104.24.114.36, 104.24.115.36
+Connecting to transparency.am (transparency.am)|104.24.114.36|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:39 ERROR 404: Not Found.
+

@@ -1,0 +1,32 @@
+--2020-02-25 23:49:22--  http://radio7.fm/files/Regulamin_wiadomosci_SMS.pdf%0D
+Resolving radio7.fm (radio7.fm)... 88.198.236.224
+Connecting to radio7.fm (radio7.fm)|88.198.236.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://radio7.fm/files/Regulamin_wiadomosci_SMS.pdf [following]
+--2020-02-25 23:49:23--  https://radio7.fm/files/Regulamin_wiadomosci_SMS.pdf
+Connecting to radio7.fm (radio7.fm)|88.198.236.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57193 (56K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 89% 9.36M 0s
+    50K .....                                                 100% 95888G=0.04s
+
+2020-02-25 23:49:23 (10.5 Mb/s) - ‘/dev/null’ saved [57193/57193]
+
+--2020-02-25 23:49:23--  http://radio7.fm/files/Regulamin_wiadomosci_SMS.pdf%0D
+Resolving radio7.fm (radio7.fm)... 88.198.236.224
+Connecting to radio7.fm (radio7.fm)|88.198.236.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://radio7.fm/files/Regulamin_wiadomosci_SMS.pdf [following]
+--2020-02-25 23:49:23--  https://radio7.fm/files/Regulamin_wiadomosci_SMS.pdf
+Connecting to radio7.fm (radio7.fm)|88.198.236.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57193 (56K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 89% 9.39M 0s
+    50K .....                                                 100% 95888G=0.04s
+
+2020-02-25 23:49:24 (10.5 Mb/s) - ‘/dev/null’ saved [57193/57193]
+

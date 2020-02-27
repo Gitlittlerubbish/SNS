@@ -1,0 +1,24 @@
+--2020-02-25 22:18:58--  https://www.fig.gov.fk/treasury/images/UK_FI_Double_Taxation_Agreement.pdf%0D
+Resolving www.fig.gov.fk (www.fig.gov.fk)... --2020-02-25 22:18:59--  https://www.fig.gov.fk/treasury/images/UK_FI_Double_Taxation_Agreement.pdf%0D
+Resolving www.fig.gov.fk (www.fig.gov.fk)... 132.148.83.61
+Connecting to www.fig.gov.fk (www.fig.gov.fk)|132.148.83.61|:443... 132.148.83.61
+Connecting to www.fig.gov.fk (www.fig.gov.fk)|132.148.83.61|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:19:02 ERROR 404: Not Found.
+
+--2020-02-25 22:19:02--  https://www.fig.gov.fk/regulatory/images/FI_Individual_Operating_Licence_Final_Sure_Redactions.pdf%0D
+Resolving www.fig.gov.fk (www.fig.gov.fk)... 132.148.83.61
+Connecting to www.fig.gov.fk (www.fig.gov.fk)|132.148.83.61|:443... 404 Not Found
+2020-02-25 22:19:02 ERROR 404: Not Found.
+
+--2020-02-25 22:19:02--  https://www.fig.gov.fk/regulatory/images/FI_Individual_Operating_Licence_Final_Sure_Redactions.pdf%0D
+Resolving www.fig.gov.fk (www.fig.gov.fk)... 132.148.83.61
+Connecting to www.fig.gov.fk (www.fig.gov.fk)|132.148.83.61|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:19:03 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:19:03 ERROR 404: Not Found.
+

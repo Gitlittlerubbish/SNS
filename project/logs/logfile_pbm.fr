@@ -1,0 +1,12 @@
+--2020-02-25 22:23:03--  https://pbm.fr/fr/pdf/reglementation_escaliers_pbm.pdf%0D
+Resolving pbm.fr (pbm.fr)... 54.36.91.62
+Connecting to pbm.fr (pbm.fr)|54.36.91.62|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:23:03 ERROR 403: Forbidden.
+
+--2020-02-25 22:23:04--  https://pbm.fr/fr/pdf/reglementation_escaliers_pbm.pdf%0D
+Resolving pbm.fr (pbm.fr)... 54.36.91.62
+Connecting to pbm.fr (pbm.fr)|54.36.91.62|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:23:04 ERROR 403: Forbidden.
+

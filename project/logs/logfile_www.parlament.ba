@@ -1,0 +1,12 @@
+--2020-02-25 21:17:37--  https://www.parlament.ba/session/GetOwisDocument%3Fid%3D39398%0D
+Resolving www.parlament.ba (www.parlament.ba)... 104.26.0.101, 104.26.1.101
+Connecting to www.parlament.ba (www.parlament.ba)|104.26.0.101|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:17:37 ERROR 400: Bad Request.
+
+--2020-02-25 21:24:46--  https://www.parlament.ba/session/GetOwisDocument%3Fid%3D39398%0D
+Resolving www.parlament.ba (www.parlament.ba)... 104.26.1.101, 104.26.0.101
+Connecting to www.parlament.ba (www.parlament.ba)|104.26.1.101|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:24:46 ERROR 400: Bad Request.
+

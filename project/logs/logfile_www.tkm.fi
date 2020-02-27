@@ -1,0 +1,12 @@
+--2020-02-25 22:22:41--  http://www.tkm.fi/lehdistokuvat/tekstiiliteollisuusmuseo/Lue_historia.pdf%0D
+Resolving www.tkm.fi (www.tkm.fi)... 83.150.100.178
+Connecting to www.tkm.fi (www.tkm.fi)|83.150.100.178|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:22:41 ERROR 403: Forbidden.
+
+--2020-02-25 22:22:41--  http://www.tkm.fi/lehdistokuvat/tekstiiliteollisuusmuseo/Lue_historia.pdf%0D
+Resolving www.tkm.fi (www.tkm.fi)... 83.150.100.178
+Connecting to www.tkm.fi (www.tkm.fi)|83.150.100.178|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:22:42 ERROR 403: Forbidden.
+

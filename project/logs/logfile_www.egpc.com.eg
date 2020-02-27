@@ -1,0 +1,12 @@
+--2020-02-25 22:12:21--  http://www.egpc.com.eg/pdf/training/Time_Table2017_2018.pdf%0D
+Resolving www.egpc.com.eg (www.egpc.com.eg)... 196.204.6.114
+Connecting to www.egpc.com.eg (www.egpc.com.eg)|196.204.6.114|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:12:22 ERROR 400: Bad Request.
+
+--2020-02-25 22:13:13--  http://www.egpc.com.eg/pdf/training/Time_Table2017_2018.pdf%0D
+Resolving www.egpc.com.eg (www.egpc.com.eg)... 196.204.6.114
+Connecting to www.egpc.com.eg (www.egpc.com.eg)|196.204.6.114|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:13:13 ERROR 400: Bad Request.
+

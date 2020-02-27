@@ -1,0 +1,12 @@
+--2020-02-25 21:32:22--  http://www.puntodincontro.cv/docs/frances/Vins.pdf%0D
+Resolving www.puntodincontro.cv (www.puntodincontro.cv)... 89.26.240.1
+Connecting to www.puntodincontro.cv (www.puntodincontro.cv)|89.26.240.1|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:22 ERROR 404: Not Found.
+
+--2020-02-25 21:35:23--  http://www.puntodincontro.cv/docs/frances/Vins.pdf%0D
+Resolving www.puntodincontro.cv (www.puntodincontro.cv)... 89.26.240.1
+Connecting to www.puntodincontro.cv (www.puntodincontro.cv)|89.26.240.1|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:23 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:46:11--  http://diedd.cn/media/concordat-research-integrity-progress-report.pdf%0D
+Resolving diedd.cn (diedd.cn)... 156.244.31.221
+Connecting to diedd.cn (diedd.cn)|156.244.31.221|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:12 ERROR 400: Bad Request.
+
+--2020-02-25 21:46:27--  http://diedd.cn/media/concordat-research-integrity-progress-report.pdf%0D
+Resolving diedd.cn (diedd.cn)... 156.244.31.221
+Connecting to diedd.cn (diedd.cn)|156.244.31.221|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:28 ERROR 400: Bad Request.
+

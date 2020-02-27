@@ -1,0 +1,6 @@
+--2020-02-25 22:49:46--  https://www.delhipolice.nic.in/Citizen_Charter.pdf%0D
+Resolving www.delhipolice.nic.in (www.delhipolice.nic.in)... 164.100.158.105
+Connecting to www.delhipolice.nic.in (www.delhipolice.nic.in)|164.100.158.105|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:49:48 ERROR 400: Bad Request.
+

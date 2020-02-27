@@ -1,0 +1,12 @@
+--2020-02-25 22:22:55--  http://digamoo.free.fr/brynjolfsson1993.pdf%0D
+Resolving digamoo.free.fr (digamoo.free.fr)... 212.27.63.106
+Connecting to digamoo.free.fr (digamoo.free.fr)|212.27.63.106|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:55 ERROR 404: Not Found.
+
+--2020-02-25 22:22:55--  http://digamoo.free.fr/brynjolfsson1993.pdf%0D
+Resolving digamoo.free.fr (digamoo.free.fr)... 212.27.63.106
+Connecting to digamoo.free.fr (digamoo.free.fr)|212.27.63.106|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:55 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:19:14--  http://www.horizon.co.fk/images/cwfi/docs/broadband/Application%2520for%2520broadband.pdf%0D
+Resolving www.horizon.co.fk (www.horizon.co.fk)... --2020-02-25 22:19:14--  http://www.horizon.co.fk/images/cwfi/docs/broadband/Application%2520for%2520broadband.pdf%0D
+Resolving www.horizon.co.fk (www.horizon.co.fk)... 80.73.216.134
+Connecting to www.horizon.co.fk (www.horizon.co.fk)|80.73.216.134|:80... 80.73.216.134
+Connecting to www.horizon.co.fk (www.horizon.co.fk)|80.73.216.134|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:19:16 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:19:16 ERROR 404: Not Found.
+

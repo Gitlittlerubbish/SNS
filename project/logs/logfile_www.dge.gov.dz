@@ -1,26 +1,22 @@
---2020-02-25 15:33:32--  http://www.dge.gov.dz/files/_1198401690.pdf
+--2020-02-25 20:55:53--  http://www.dge.gov.dz/files/_1198401690.pdf%0D
 Resolving www.dge.gov.dz (www.dge.gov.dz)... 197.112.0.111
 Connecting to www.dge.gov.dz (www.dge.gov.dz)|197.112.0.111|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 146568 (143K) [application/pdf]
+Length: 247 [text/html]
 Saving to: ‘/dev/null’
 
-     0K .......... .......... .......... .......... .......... 34% 20.4M 0s
-    50K .......... .......... .......... .......... .......... 69% 9.10M 0s
-   100K .......... .......... .......... .......... ...       100% 14.0M=0.09s
+     0K                                                       100%  574M=0s
 
-2020-02-25 15:33:33 (13.0 Mb/s) - ‘/dev/null’ saved [146568/146568]
+2020-02-25 20:55:53 (574 Mb/s) - ‘/dev/null’ saved [247/247]
 
---2020-02-25 15:33:33--  http://www.dge.gov.dz/files/_1198401690.pdf
+--2020-02-25 20:55:53--  http://www.dge.gov.dz/files/_1198401690.pdf%0D
 Resolving www.dge.gov.dz (www.dge.gov.dz)... 197.112.0.111
 Connecting to www.dge.gov.dz (www.dge.gov.dz)|197.112.0.111|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 146568 (143K) [application/pdf]
+Length: 247 [text/html]
 Saving to: ‘/dev/null’
 
-     0K .......... .......... .......... .......... .......... 34% 16.4M 0s
-    50K .......... .......... .......... .......... .......... 69% 6.54M 0s
-   100K .......... .......... .......... .......... ...       100% 5.39M=0.2s
+     0K                                                       100%  264M=0s
 
-2020-02-25 15:33:33 (7.66 Mb/s) - ‘/dev/null’ saved [146568/146568]
+2020-02-25 20:55:53 (264 Mb/s) - ‘/dev/null’ saved [247/247]
 

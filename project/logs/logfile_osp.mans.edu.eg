@@ -1,0 +1,12 @@
+--2020-02-25 22:11:48--  http://osp.mans.edu.eg/tmahdy/papers_of_month/0611_difficult_laparoscopic_cholycysectomy.pdf%3Forigin%3Dpublication_detail%0D
+Resolving osp.mans.edu.eg (osp.mans.edu.eg)... --2020-02-25 22:11:49--  http://osp.mans.edu.eg/tmahdy/papers_of_month/0611_difficult_laparoscopic_cholycysectomy.pdf%3Forigin%3Dpublication_detail%0D
+Resolving osp.mans.edu.eg (osp.mans.edu.eg)... 193.227.50.60
+Connecting to osp.mans.edu.eg (osp.mans.edu.eg)|193.227.50.60|:80... 193.227.50.60
+Connecting to osp.mans.edu.eg (osp.mans.edu.eg)|193.227.50.60|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:49 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:11:49 ERROR 400: Bad Request.
+

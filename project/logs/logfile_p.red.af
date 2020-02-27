@@ -1,52 +1,28 @@
---2020-02-25 14:08:57--  http://p.red.af/argo
+--2020-02-25 20:53:20--  http://p.red.af/argo%0D
 Resolving p.red.af (p.red.af)... 45.33.56.104
 Connecting to p.red.af (p.red.af)|45.33.56.104|:80... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: http://jlifflander.com/papers/tpds17_argobots.pdf [following]
---2020-02-25 14:08:57--  http://jlifflander.com/papers/tpds17_argobots.pdf
-Resolving jlifflander.com (jlifflander.com)... 45.33.56.104
+HTTP request sent, awaiting response... 302 Found
+Location: http://p.red.af [following]
+--2020-02-25 20:53:21--  http://p.red.af/
 Reusing existing connection to p.red.af:80.
-HTTP request sent, awaiting response... 200 OK
-Length: 537854 (525K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... ..........  9%  871K 4s
-    50K .......... .......... .......... .......... .......... 19% 2.73M 3s
-   100K .......... .......... .......... .......... .......... 28% 1.12M 2s
-   150K .......... .......... .......... .......... .......... 38% 2.73M 2s
-   200K .......... .......... .......... .......... .......... 47% 1.11M 2s
-   250K .......... .......... .......... .......... .......... 57% 1.65M 1s
-   300K .......... .......... .......... .......... .......... 66% 2.25M 1s
-   350K .......... .......... .......... .......... .......... 76% 2.73M 1s
-   400K .......... .......... .......... .......... .......... 85% 2.79M 0s
-   450K .......... .......... .......... .......... .......... 95%  879K 0s
-   500K .......... .......... .....                           100% 9.61M=2.7s
-
-2020-02-25 14:09:00 (1.58 Mb/s) - ‘/dev/null’ saved [537854/537854]
-
---2020-02-25 14:09:00--  http://p.red.af/argo
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://p.red.af [following]
+--2020-02-25 20:53:21--  https://p.red.af/
+Connecting to p.red.af (p.red.af)|45.33.56.104|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘p.red.af’.
+To connect to p.red.af insecurely, use `--no-check-certificate'.
+--2020-02-25 20:53:21--  http://p.red.af/tree%0D
 Resolving p.red.af (p.red.af)... 45.33.56.104
 Connecting to p.red.af (p.red.af)|45.33.56.104|:80... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: http://jlifflander.com/papers/tpds17_argobots.pdf [following]
---2020-02-25 14:09:01--  http://jlifflander.com/papers/tpds17_argobots.pdf
-Resolving jlifflander.com (jlifflander.com)... 45.33.56.104
+HTTP request sent, awaiting response... 302 Found
+Location: http://p.red.af [following]
+--2020-02-25 20:53:21--  http://p.red.af/
 Reusing existing connection to p.red.af:80.
-HTTP request sent, awaiting response... 200 OK
-Length: 537854 (525K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... ..........  9%  795K 5s
-    50K .......... .......... .......... .......... .......... 19% 1.10M 4s
-   100K .......... .......... .......... .......... .......... 28% 2.64M 3s
-   150K .......... .......... .......... .......... .......... 38% 1.16M 2s
-   200K .......... .......... .......... .......... .......... 47% 1.41M 2s
-   250K .......... .......... .......... .......... .......... 57% 2.46M 1s
-   300K .......... .......... .......... .......... .......... 66% 1.88M 1s
-   350K .......... .......... .......... .......... .......... 76% 1.10M 1s
-   400K .......... .......... .......... .......... .......... 85% 2.53M 0s
-   450K .......... .......... .......... .......... .......... 95% 1.75M 0s
-   500K .......... .......... .....                           100% 1.40M=3.0s
-
-2020-02-25 14:09:04 (1.44 Mb/s) - ‘/dev/null’ saved [537854/537854]
-
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://p.red.af [following]
+--2020-02-25 20:53:22--  https://p.red.af/
+Connecting to p.red.af (p.red.af)|45.33.56.104|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘p.red.af’.
+To connect to p.red.af insecurely, use `--no-check-certificate'.

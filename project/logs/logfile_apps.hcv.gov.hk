@@ -1,0 +1,6 @@
+--2020-02-25 22:46:26--  https://apps.hcv.gov.hk/Documents/FAQs_e.pdf%0D
+Resolving apps.hcv.gov.hk (apps.hcv.gov.hk)... 118.143.8.91
+Connecting to apps.hcv.gov.hk (apps.hcv.gov.hk)|118.143.8.91|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:46:27 ERROR 400: Bad Request.
+

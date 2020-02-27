@@ -1,0 +1,12 @@
+--2020-02-26 00:29:27--  https://www.dwu.ac.pg/en/images/All_Attachements/Degree_Application_Form_2019_Rural_Health.pdf%0D
+Resolving www.dwu.ac.pg (www.dwu.ac.pg)... 104.31.79.237, 104.31.78.237
+Connecting to www.dwu.ac.pg (www.dwu.ac.pg)|104.31.79.237|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:29:29 ERROR 404: Not Found.
+
+--2020-02-26 00:31:40--  https://www.dwu.ac.pg/en/images/All_Attachements/Degree_Application_Form_2019_Rural_Health.pdf%0D
+Resolving www.dwu.ac.pg (www.dwu.ac.pg)... 104.31.78.237, 104.31.79.237
+Connecting to www.dwu.ac.pg (www.dwu.ac.pg)|104.31.78.237|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:31:41 ERROR 404: Not Found.
+

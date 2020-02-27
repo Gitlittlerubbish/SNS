@@ -1,0 +1,12 @@
+--2020-02-25 21:32:28--  http://www.bca.cv/upl/%257B3f316db0-1b7c-48eb-8b72-811101e2c69e%257D.pdf%0D
+Resolving www.bca.cv (www.bca.cv)... 41.221.194.71
+Connecting to www.bca.cv (www.bca.cv)|41.221.194.71|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:32:28 ERROR 400: Bad Request.
+
+--2020-02-25 21:35:27--  http://www.bca.cv/upl/%257B3f316db0-1b7c-48eb-8b72-811101e2c69e%257D.pdf%0D
+Resolving www.bca.cv (www.bca.cv)... 41.221.194.71
+Connecting to www.bca.cv (www.bca.cv)|41.221.194.71|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:35:28 ERROR 400: Bad Request.
+

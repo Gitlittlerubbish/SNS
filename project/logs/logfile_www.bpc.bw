@@ -1,0 +1,12 @@
+--2020-02-25 21:18:38--  https://www.bpc.bw/services-site/Documents/PrepaidVendors.pdf%0D
+Resolving www.bpc.bw (www.bpc.bw)... 168.167.201.22
+Connecting to www.bpc.bw (www.bpc.bw)|168.167.201.22|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:18:39 ERROR 400: Bad Request.
+
+--2020-02-25 21:25:20--  https://www.bpc.bw/services-site/Documents/PrepaidVendors.pdf%0D
+Resolving www.bpc.bw (www.bpc.bw)... 168.167.201.22
+Connecting to www.bpc.bw (www.bpc.bw)|168.167.201.22|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:21 ERROR 400: Bad Request.
+

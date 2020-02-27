@@ -1,0 +1,6 @@
+--2020-02-25 21:04:29--  https://www.may.ag/info/E_MAY_Prospekt_KIGA_Spielplatz_Schirme.pdf%0D
+Resolving www.may.ag (www.may.ag)... 134.119.234.41
+Connecting to www.may.ag (www.may.ag)|134.119.234.41|:443... connected.
+ERROR: cannot verify www.may.ag's certificate, issued by ‘CN=AlphaSSL CA - SHA256 - G2,O=GlobalSign nv-sa,C=BE’:
+  Unable to locally verify the issuer's authority.
+To connect to www.may.ag insecurely, use `--no-check-certificate'.

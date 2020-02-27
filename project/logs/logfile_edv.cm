@@ -1,0 +1,12 @@
+--2020-02-25 21:36:14--  https://edv.cm/CiwjgvFBFsn%0D
+Resolving edv.cm (edv.cm)... 209.170.221.51
+Connecting to edv.cm (edv.cm)|209.170.221.51|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:36:15 ERROR 400: Bad Request.
+
+--2020-02-25 21:38:05--  https://edv.cm/CiwjgvFBFsn%0D
+Resolving edv.cm (edv.cm)... 209.170.221.51
+Connecting to edv.cm (edv.cm)|209.170.221.51|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:38:06 ERROR 400: Bad Request.
+

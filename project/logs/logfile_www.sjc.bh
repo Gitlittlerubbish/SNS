@@ -1,0 +1,12 @@
+--2020-02-25 21:02:56--  http://www.sjc.bh/website/doc_print/56.pdf%0D
+Resolving www.sjc.bh (www.sjc.bh)... 54.77.103.6, 34.250.174.178
+Connecting to www.sjc.bh (www.sjc.bh)|54.77.103.6|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:02:56 ERROR 404: Not Found.
+
+--2020-02-25 21:14:16--  http://www.sjc.bh/website/doc_print/56.pdf%0D
+Resolving www.sjc.bh (www.sjc.bh)... 54.77.103.6, 34.250.174.178
+Connecting to www.sjc.bh (www.sjc.bh)|54.77.103.6|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:16 ERROR 404: Not Found.
+

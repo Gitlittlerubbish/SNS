@@ -1,0 +1,12 @@
+--2020-02-25 21:07:06--  http://bii.by/files/dogovor-prisoedineniya.pdf%0D
+Resolving bii.by (bii.by)... 95.47.99.18
+Connecting to bii.by (bii.by)|95.47.99.18|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:07:06 ERROR 400: Bad Request.
+
+--2020-02-25 21:17:15--  http://bii.by/files/dogovor-prisoedineniya.pdf%0D
+Resolving bii.by (bii.by)... 95.47.99.18
+Connecting to bii.by (bii.by)|95.47.99.18|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:17:15 ERROR 400: Bad Request.
+

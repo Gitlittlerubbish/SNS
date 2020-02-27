@@ -1,0 +1,6 @@
+--2020-02-26 00:43:14--  https://www.qcs.qa/tccbooklet%0D
+Resolving www.qcs.qa (www.qcs.qa)... 104.26.8.227, 104.26.9.227
+Connecting to www.qcs.qa (www.qcs.qa)|104.26.8.227|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

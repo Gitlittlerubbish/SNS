@@ -1,0 +1,6 @@
+--2020-02-26 00:42:13--  http://www.sg.pcm.gov.pt/media/28516/lei_150_2015.pdf%0D
+Resolving www.sg.pcm.gov.pt (www.sg.pcm.gov.pt)... 193.47.185.75
+Connecting to www.sg.pcm.gov.pt (www.sg.pcm.gov.pt)|193.47.185.75|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:42:13 ERROR 400: Bad Request.
+

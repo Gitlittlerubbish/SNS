@@ -1,0 +1,22 @@
+--2020-02-25 23:33:15--  https://www.jobsmalaysia.gov.my/emasco/resource/masco_bi_2008.pdf%0D
+Resolving www.jobsmalaysia.gov.my (www.jobsmalaysia.gov.my)... 202.60.56.13
+Connecting to www.jobsmalaysia.gov.my (www.jobsmalaysia.gov.my)|202.60.56.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3352 (3.3K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 37.8M=0.001s
+
+2020-02-25 23:33:16 (37.8 Mb/s) - ‘/dev/null’ saved [3352/3352]
+
+--2020-02-25 23:33:16--  https://www.jobsmalaysia.gov.my/emasco/resource/masco_bi_2008.pdf%0D
+Resolving www.jobsmalaysia.gov.my (www.jobsmalaysia.gov.my)... 202.60.56.13
+Connecting to www.jobsmalaysia.gov.my (www.jobsmalaysia.gov.my)|202.60.56.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3352 (3.3K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 10.2M=0.003s
+
+2020-02-25 23:33:16 (10.2 Mb/s) - ‘/dev/null’ saved [3352/3352]
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:56:54--  https://shorturl.im/1YMKN%0D
+Resolving shorturl.im (shorturl.im)... 104.219.248.58
+Connecting to shorturl.im (shorturl.im)|104.219.248.58|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:56:55 ERROR 404: Not Found.
+

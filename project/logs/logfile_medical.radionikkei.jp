@@ -1,0 +1,12 @@
+--2020-02-25 23:02:11--  http://medical.radionikkei.jp/kansenshotoday_pdf/kansenshotoday-180124.pdf%0D
+Resolving medical.radionikkei.jp (medical.radionikkei.jp)... 202.210.190.118
+Connecting to medical.radionikkei.jp (medical.radionikkei.jp)|202.210.190.118|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:02:13 ERROR 404: Not Found.
+
+--2020-02-25 23:02:13--  http://medical.radionikkei.jp/kansenshotoday_pdf/kansenshotoday-190206.pdf%0D
+Resolving medical.radionikkei.jp (medical.radionikkei.jp)... 202.210.190.118
+Connecting to medical.radionikkei.jp (medical.radionikkei.jp)|202.210.190.118|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:02:13 ERROR 404: Not Found.
+

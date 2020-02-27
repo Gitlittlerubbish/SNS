@@ -1,0 +1,6 @@
+--2020-02-26 00:27:27--  https://bnpenlinea.banconal.com.pa/DIBS_BANCO_NACIONAL_PANAMA/formas/preguntas_frecuentes.pdf%0D
+Resolving bnpenlinea.banconal.com.pa (bnpenlinea.banconal.com.pa)... 168.77.214.6
+Connecting to bnpenlinea.banconal.com.pa (bnpenlinea.banconal.com.pa)|168.77.214.6|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-26 00:27:28 ERROR 500: Internal Server Error.
+

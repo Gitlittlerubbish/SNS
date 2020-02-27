@@ -1,0 +1,38 @@
+--2020-02-25 23:48:27--  http://cnw.fm/B6dKK%0D
+Resolving cnw.fm (cnw.fm)... 72.47.244.99
+Connecting to cnw.fm (cnw.fm)|72.47.244.99|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://cnw.fm/shortener.php [following]
+--2020-02-25 23:48:27--  http://cnw.fm/shortener.php
+Reusing existing connection to cnw.fm:80.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: login.php [following]
+--2020-02-25 23:48:27--  http://cnw.fm/login.php
+Reusing existing connection to cnw.fm:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      1.41G=0s
+
+2020-02-25 23:48:28 (1.41 Gb/s) - ‘/dev/null’ saved [1046]
+
+--2020-02-25 23:48:28--  http://cnw.fm/B6dKK%0D
+Resolving cnw.fm (cnw.fm)... 72.47.244.99
+Connecting to cnw.fm (cnw.fm)|72.47.244.99|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://cnw.fm/shortener.php [following]
+--2020-02-25 23:48:28--  http://cnw.fm/shortener.php
+Reusing existing connection to cnw.fm:80.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: login.php [following]
+--2020-02-25 23:48:28--  http://cnw.fm/login.php
+Reusing existing connection to cnw.fm:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      1.07G=0s
+
+2020-02-25 23:48:28 (1.07 Gb/s) - ‘/dev/null’ saved [1046]
+

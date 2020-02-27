@@ -1,0 +1,6 @@
+--2020-02-25 22:50:05--  http://mylpg.in/docs/KYC.pdf%0D
+Resolving mylpg.in (mylpg.in)... 164.100.58.102
+Connecting to mylpg.in (mylpg.in)|164.100.58.102|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:50:05 ERROR 404: Not Found.
+

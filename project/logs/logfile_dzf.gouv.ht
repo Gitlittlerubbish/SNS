@@ -1,0 +1,6 @@
+--2020-02-25 22:42:33--  http://dzf.gouv.ht/NouveauxEmplois.pdf%0D
+Resolving dzf.gouv.ht (dzf.gouv.ht)... 38.123.253.62
+Connecting to dzf.gouv.ht (dzf.gouv.ht)|38.123.253.62|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:42:33 ERROR 404: Not Found.
+

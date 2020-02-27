@@ -1,0 +1,6 @@
+--2020-02-25 21:01:35--  http://www.imprensanacional.gov.ao/downloads/file46_pt.pdf%0D
+Resolving www.imprensanacional.gov.ao (www.imprensanacional.gov.ao)... 196.29.207.101
+Connecting to www.imprensanacional.gov.ao (www.imprensanacional.gov.ao)|196.29.207.101|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:35 ERROR 400: Bad Request.
+

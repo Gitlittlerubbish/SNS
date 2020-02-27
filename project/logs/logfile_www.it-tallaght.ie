@@ -1,0 +1,6 @@
+--2020-02-25 22:56:25--  https://www.it-tallaght.ie/organisational-structure%0D
+Resolving www.it-tallaght.ie (www.it-tallaght.ie)... 193.1.123.100
+Connecting to www.it-tallaght.ie (www.it-tallaght.ie)|193.1.123.100|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:56:25 ERROR 400: Bad Request.
+

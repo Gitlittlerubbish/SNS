@@ -1,0 +1,12 @@
+--2020-02-25 22:19:29--  http://www.porkeri.fo/index_htm_files/Roknskapur_2016.pdf%0D
+Resolving www.porkeri.fo (www.porkeri.fo)... --2020-02-25 22:19:29--  http://www.porkeri.fo/index_htm_files/Roknskapur_2016.pdf%0D
+Resolving www.porkeri.fo (www.porkeri.fo)... 185.21.40.149
+Connecting to www.porkeri.fo (www.porkeri.fo)|185.21.40.149|:80... 185.21.40.149
+Connecting to www.porkeri.fo (www.porkeri.fo)|185.21.40.149|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:29 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:19:29 ERROR 400: Bad Request.
+

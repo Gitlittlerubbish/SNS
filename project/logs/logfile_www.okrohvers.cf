@@ -1,0 +1,12 @@
+--2020-02-25 21:40:06--  https://www.okrohvers.cf/download.html%3Fdocument%3D37820%0D
+Resolving www.okrohvers.cf (www.okrohvers.cf)... 104.27.146.163, 104.27.147.163
+Connecting to www.okrohvers.cf (www.okrohvers.cf)|104.27.146.163|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:41:08--  https://www.okrohvers.cf/download.html%3Fdocument%3D37820%0D
+Resolving www.okrohvers.cf (www.okrohvers.cf)... 104.27.147.163, 104.27.146.163
+Connecting to www.okrohvers.cf (www.okrohvers.cf)|104.27.147.163|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

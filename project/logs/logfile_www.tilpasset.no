@@ -1,0 +1,6 @@
+--2020-02-26 00:22:30--  http://www.tilpasset.no/kaldekrigen/5-Koreakrigen.pdf%0D
+Resolving www.tilpasset.no (www.tilpasset.no)... 193.93.253.51
+Connecting to www.tilpasset.no (www.tilpasset.no)|193.93.253.51|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:22:30 ERROR 404: Not Found.
+

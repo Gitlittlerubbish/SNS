@@ -1,26 +1,6 @@
---2020-02-25 15:28:19--  http://www.drcalger.dz/files/A036.pdf
+--2020-02-25 20:55:48--  http://www.drcalger.dz/files/A036.pdf%0D
 Resolving www.drcalger.dz (www.drcalger.dz)... 41.111.156.85
 Connecting to www.drcalger.dz (www.drcalger.dz)|41.111.156.85|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 133294 (130K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 38% 1.11M 1s
-    50K .......... .......... .......... .......... .......... 76% 3.65M 0s
-   100K .......... .......... ..........                      100% 5.01M=0.5s
-
-2020-02-25 15:28:20 (2.01 Mb/s) - ‘/dev/null’ saved [133294/133294]
-
---2020-02-25 15:28:20--  http://www.drcalger.dz/files/A036.pdf
-Resolving www.drcalger.dz (www.drcalger.dz)... 41.111.156.85
-Connecting to www.drcalger.dz (www.drcalger.dz)|41.111.156.85|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 133294 (130K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 38% 1.88M 0s
-    50K .......... .......... .......... .......... .......... 76% 1.91M 0s
-   100K .......... .......... ..........                      100% 4.41M=0.5s
-
-2020-02-25 15:28:21 (2.19 Mb/s) - ‘/dev/null’ saved [133294/133294]
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:55:48 ERROR 404: Not Found.
 

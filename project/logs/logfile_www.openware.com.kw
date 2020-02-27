@@ -1,0 +1,6 @@
+--2020-02-25 23:16:34--  https://www.openware.com.kw/download/KuwaitGeospatialDatabaseSpecification.pdf%0D
+Resolving www.openware.com.kw (www.openware.com.kw)... 185.41.216.230
+Connecting to www.openware.com.kw (www.openware.com.kw)|185.41.216.230|:443... connected.
+ERROR: cannot verify www.openware.com.kw's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.openware.com.kw insecurely, use `--no-check-certificate'.

@@ -1,0 +1,6 @@
+--2020-02-26 00:43:04--  https://www.intercam.com.pr/ContentDocumentHandler.ashx%3FdocumentId%3D62163%0D
+Resolving www.intercam.com.pr (www.intercam.com.pr)... 12.202.0.2
+Connecting to www.intercam.com.pr (www.intercam.com.pr)|12.202.0.2|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:43:05 ERROR 400: Bad Request.
+

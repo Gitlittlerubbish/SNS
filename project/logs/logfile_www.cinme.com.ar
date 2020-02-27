@@ -1,0 +1,6 @@
+--2020-02-25 21:05:44--  http://www.cinme.com.ar/CEI/Ley_26529.pdf%0D
+Resolving www.cinme.com.ar (www.cinme.com.ar)... 190.210.98.4
+Connecting to www.cinme.com.ar (www.cinme.com.ar)|190.210.98.4|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:05:46 ERROR 400: Bad Request.
+

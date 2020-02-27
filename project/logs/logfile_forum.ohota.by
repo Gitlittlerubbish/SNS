@@ -1,0 +1,12 @@
+--2020-02-25 21:07:02--  http://forum.ohota.by/download/file.php%3Fid%3D82409%0D
+Resolving forum.ohota.by (forum.ohota.by)... 80.87.196.245
+Connecting to forum.ohota.by (forum.ohota.by)|80.87.196.245|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:03 ERROR 404: Not Found.
+
+--2020-02-25 21:17:12--  http://forum.ohota.by/download/file.php%3Fid%3D82409%0D
+Resolving forum.ohota.by (forum.ohota.by)... 80.87.196.245
+Connecting to forum.ohota.by (forum.ohota.by)|80.87.196.245|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:12 ERROR 404: Not Found.
+

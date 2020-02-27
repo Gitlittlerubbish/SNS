@@ -1,0 +1,12 @@
+--2020-02-25 22:39:46--  http://san-francisco.sw.gw/journal-du-voleur.pdf%0D
+Resolving san-francisco.sw.gw (san-francisco.sw.gw)... 198.199.108.128
+Connecting to san-francisco.sw.gw (san-francisco.sw.gw)|198.199.108.128|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:39:46 ERROR 500: Internal Server Error.
+
+--2020-02-25 22:39:46--  http://san-francisco.sw.gw/journal-du-voleur.pdf%0D
+Resolving san-francisco.sw.gw (san-francisco.sw.gw)... 198.199.108.128
+Connecting to san-francisco.sw.gw (san-francisco.sw.gw)|198.199.108.128|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:39:46 ERROR 500: Internal Server Error.
+

@@ -1,0 +1,22 @@
+--2020-02-25 21:00:53--  https://www.morabanc.ad/app/uploads/informe2014_es.pdf%0D
+Resolving www.morabanc.ad (www.morabanc.ad)... 91.187.93.215
+Connecting to www.morabanc.ad (www.morabanc.ad)|91.187.93.215|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  532M=0s
+
+2020-02-25 21:00:53 (532 Mb/s) - ‘/dev/null’ saved [188/188]
+
+--2020-02-25 21:00:53--  https://www.morabanc.ad/app/uploads/informe2014_es.pdf%0D
+Resolving www.morabanc.ad (www.morabanc.ad)... 91.187.93.215
+Connecting to www.morabanc.ad (www.morabanc.ad)|91.187.93.215|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  259M=0s
+
+2020-02-25 21:00:54 (259 Mb/s) - ‘/dev/null’ saved [188/188]
+

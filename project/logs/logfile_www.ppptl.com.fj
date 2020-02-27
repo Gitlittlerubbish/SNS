@@ -1,0 +1,12 @@
+--2020-02-25 22:20:14--  http://www.ppptl.com.fj/pdf/Preview_105485.pdf%0D
+Resolving www.ppptl.com.fj (www.ppptl.com.fj)... 66.96.149.21
+Connecting to www.ppptl.com.fj (www.ppptl.com.fj)|66.96.149.21|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:20:14 ERROR 400: Bad Request.
+
+--2020-02-25 22:20:15--  http://www.ppptl.com.fj/pdf/Preview_105485.pdf%0D
+Resolving www.ppptl.com.fj (www.ppptl.com.fj)... 66.96.149.21
+Connecting to www.ppptl.com.fj (www.ppptl.com.fj)|66.96.149.21|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:20:15 ERROR 400: Bad Request.
+

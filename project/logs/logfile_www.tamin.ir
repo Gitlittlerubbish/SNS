@@ -1,0 +1,22 @@
+--2020-02-25 22:54:39--  https://www.tamin.ir/file/file/67007%0D
+Resolving www.tamin.ir (www.tamin.ir)... 185.143.234.5, 185.143.233.5
+Connecting to www.tamin.ir (www.tamin.ir)|185.143.234.5|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1315 (1.3K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 4.25G=0s
+
+2020-02-25 22:54:39 (4.25 Gb/s) - ‘/dev/null’ saved [1315/1315]
+
+--2020-02-25 22:54:39--  https://www.tamin.ir/file/file/67007%0D
+Resolving www.tamin.ir (www.tamin.ir)... 185.143.233.5, 185.143.234.5
+Connecting to www.tamin.ir (www.tamin.ir)|185.143.233.5|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1315 (1.3K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 4.48G=0s
+
+2020-02-25 22:54:39 (4.48 Gb/s) - ‘/dev/null’ saved [1315/1315]
+

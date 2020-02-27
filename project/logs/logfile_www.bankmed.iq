@@ -1,0 +1,6 @@
+--2020-02-25 22:55:42--  http://www.bankmed.iq/resources/files/Circular106.pdf%0D
+Resolving www.bankmed.iq (www.bankmed.iq)... 13.81.172.122
+Connecting to www.bankmed.iq (www.bankmed.iq)|13.81.172.122|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:55:42 ERROR 400: Bad Request.
+

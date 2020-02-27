@@ -1,0 +1,60 @@
+--2020-02-25 20:59:24--  https://www.musiklehre.at/Quintenzirkel_Dur_Moll.pdf%0D
+Resolving www.musiklehre.at (www.musiklehre.at)... 67.209.116.195
+Connecting to www.musiklehre.at (www.musiklehre.at)|67.209.116.195|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.musiklehre.at/error.php [following]
+--2020-02-25 20:59:25--  https://www.musiklehre.at/error.php
+Reusing existing connection to www.musiklehre.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      1.63G=0s
+
+2020-02-25 20:59:25 (1.63 Gb/s) - ‘/dev/null’ saved [2033]
+
+--2020-02-25 20:59:25--  https://www.musiklehre.at/Quintenzirkel_Dur_Moll.pdf%0D
+Resolving www.musiklehre.at (www.musiklehre.at)... 67.209.116.195
+Connecting to www.musiklehre.at (www.musiklehre.at)|67.209.116.195|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.musiklehre.at/error.php [following]
+--2020-02-25 20:59:25--  https://www.musiklehre.at/error.php
+Reusing existing connection to www.musiklehre.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      1.81G=0s
+
+2020-02-25 20:59:25 (1.81 Gb/s) - ‘/dev/null’ saved [2033]
+
+--2020-02-25 21:11:34--  https://www.musiklehre.at/Quintenzirkel_Dur_Moll.pdf%0D
+Resolving www.musiklehre.at (www.musiklehre.at)... 67.209.116.195
+Connecting to www.musiklehre.at (www.musiklehre.at)|67.209.116.195|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.musiklehre.at/error.php [following]
+--2020-02-25 21:11:34--  https://www.musiklehre.at/error.php
+Reusing existing connection to www.musiklehre.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                       666M=0s
+
+2020-02-25 21:11:34 (666 Mb/s) - ‘/dev/null’ saved [2033]
+
+--2020-02-25 21:11:34--  https://www.musiklehre.at/Quintenzirkel_Dur_Moll.pdf%0D
+Resolving www.musiklehre.at (www.musiklehre.at)... 67.209.116.195
+Connecting to www.musiklehre.at (www.musiklehre.at)|67.209.116.195|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.musiklehre.at/error.php [following]
+--2020-02-25 21:11:34--  https://www.musiklehre.at/error.php
+Reusing existing connection to www.musiklehre.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      1.76G=0s
+
+2020-02-25 21:11:34 (1.76 Gb/s) - ‘/dev/null’ saved [2033]
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:37:16--  https://moodle.polymtl.ca/mod/resource/view.php%3Fid%3D288706%0D
+Resolving moodle.polymtl.ca (moodle.polymtl.ca)... 132.207.4.20
+Connecting to moodle.polymtl.ca (moodle.polymtl.ca)|132.207.4.20|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:37:16 ERROR 403: Forbidden.
+
+--2020-02-25 21:38:49--  https://moodle.polymtl.ca/mod/resource/view.php%3Fid%3D288706%0D
+Resolving moodle.polymtl.ca (moodle.polymtl.ca)... 132.207.4.20
+Connecting to moodle.polymtl.ca (moodle.polymtl.ca)|132.207.4.20|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:38:50 ERROR 403: Forbidden.
+

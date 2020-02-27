@@ -1,0 +1,12 @@
+--2020-02-25 21:11:16--  https://royalgazette.bm/files/Savings_Survey_Report.pdf%0D
+Resolving royalgazette.bm (royalgazette.bm)... 52.7.234.98, 52.1.96.30
+Connecting to royalgazette.bm (royalgazette.bm)|52.7.234.98|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘royalgazette.bm’.
+To connect to royalgazette.bm insecurely, use `--no-check-certificate'.
+--2020-02-25 21:20:10--  https://royalgazette.bm/files/Savings_Survey_Report.pdf%0D
+Resolving royalgazette.bm (royalgazette.bm)... 52.7.234.98, 52.1.96.30
+Connecting to royalgazette.bm (royalgazette.bm)|52.7.234.98|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘royalgazette.bm’.
+To connect to royalgazette.bm insecurely, use `--no-check-certificate'.

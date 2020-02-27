@@ -1,0 +1,68 @@
+--2020-02-25 21:59:45--  http://www.snedai.ci/docs/Formulaire_visa.pdf%0D
+Resolving www.snedai.ci (www.snedai.ci)... 213.186.33.17
+Connecting to www.snedai.ci (www.snedai.ci)|213.186.33.17|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.snedai.ci/docs/Formulaire_visa.pdf [following]
+--2020-02-25 21:59:45--  https://www.snedai.ci/docs/Formulaire_visa.pdf
+Connecting to www.snedai.ci (www.snedai.ci)|213.186.33.17|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128087 (125K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 58.6M 0s
+    50K .......... .......... .......... .......... .......... 79%  126M 0s
+   100K .......... .......... .....                           100% 1.59G=0.01s
+
+2020-02-25 21:59:45 (98.9 Mb/s) - ‘/dev/null’ saved [128087/128087]
+
+--2020-02-25 21:59:45--  http://www.snedai.ci/docs/Formulaire_visa.pdf%0D
+Resolving www.snedai.ci (www.snedai.ci)... 213.186.33.17
+Connecting to www.snedai.ci (www.snedai.ci)|213.186.33.17|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.snedai.ci/docs/Formulaire_visa.pdf [following]
+--2020-02-25 21:59:46--  https://www.snedai.ci/docs/Formulaire_visa.pdf
+Connecting to www.snedai.ci (www.snedai.ci)|213.186.33.17|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128087 (125K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39%  121M 0s
+    50K .......... .......... .......... .......... .......... 79%  124M 0s
+   100K .......... .......... .....                           100% 1.86G=0.007s
+
+2020-02-25 21:59:46 (150 Mb/s) - ‘/dev/null’ saved [128087/128087]
+
+--2020-02-25 21:59:47--  http://www.snedai.ci/docs/Formulaire_visa.pdf%0D
+Resolving www.snedai.ci (www.snedai.ci)... 213.186.33.17
+Connecting to www.snedai.ci (www.snedai.ci)|213.186.33.17|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.snedai.ci/docs/Formulaire_visa.pdf [following]
+--2020-02-25 21:59:47--  https://www.snedai.ci/docs/Formulaire_visa.pdf
+Connecting to www.snedai.ci (www.snedai.ci)|213.186.33.17|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128087 (125K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 59.1M 0s
+    50K .......... .......... .......... .......... .......... 79%  125M 0s
+   100K .......... .......... .....                           100% 3.28G=0.01s
+
+2020-02-25 21:59:47 (99.6 Mb/s) - ‘/dev/null’ saved [128087/128087]
+
+--2020-02-25 21:59:47--  http://www.snedai.ci/docs/Formulaire_visa.pdf%0D
+Resolving www.snedai.ci (www.snedai.ci)... 213.186.33.17
+Connecting to www.snedai.ci (www.snedai.ci)|213.186.33.17|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.snedai.ci/docs/Formulaire_visa.pdf [following]
+--2020-02-25 21:59:48--  https://www.snedai.ci/docs/Formulaire_visa.pdf
+Connecting to www.snedai.ci (www.snedai.ci)|213.186.33.17|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128087 (125K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 59.6M 0s
+    50K .......... .......... .......... .......... .......... 79%  128M 0s
+   100K .......... .......... .....                           100% 1.98G=0.01s
+
+2020-02-25 21:59:48 (101 Mb/s) - ‘/dev/null’ saved [128087/128087]
+

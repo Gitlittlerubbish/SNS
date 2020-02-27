@@ -1,0 +1,12 @@
+--2020-02-25 22:17:22--  http://www.kiilto.ee/download_file/132/1450/%0D
+Resolving www.kiilto.ee (www.kiilto.ee)... --2020-02-25 22:17:22--  http://www.kiilto.ee/download_file/132/1450/%0D
+Resolving www.kiilto.ee (www.kiilto.ee)... 37.233.93.43
+Connecting to www.kiilto.ee (www.kiilto.ee)|37.233.93.43|:80... 37.233.93.43
+Connecting to www.kiilto.ee (www.kiilto.ee)|37.233.93.43|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:17:22 ERROR 403: Forbidden.
+
+403 Forbidden
+2020-02-25 22:17:22 ERROR 403: Forbidden.
+

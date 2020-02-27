@@ -1,0 +1,22 @@
+--2020-02-25 21:15:29--  http://www.cadecocruz.org.bo/UserFiles/File/RBC-20mayo2011.pdf%0D
+Resolving www.cadecocruz.org.bo (www.cadecocruz.org.bo)... 192.185.3.142
+Connecting to www.cadecocruz.org.bo (www.cadecocruz.org.bo)|192.185.3.142|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cadecocruz.org.bo/UserFiles/File/RBC-20mayo2011.pdf%0d [following]
+--2020-02-25 21:15:30--  https://cadecocruz.org.bo/UserFiles/File/RBC-20mayo2011.pdf%0d
+Resolving cadecocruz.org.bo (cadecocruz.org.bo)... 192.185.3.142
+Connecting to cadecocruz.org.bo (cadecocruz.org.bo)|192.185.3.142|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:30 ERROR 404: Not Found.
+
+--2020-02-25 21:23:06--  http://www.cadecocruz.org.bo/UserFiles/File/RBC-20mayo2011.pdf%0D
+Resolving www.cadecocruz.org.bo (www.cadecocruz.org.bo)... 192.185.3.142
+Connecting to www.cadecocruz.org.bo (www.cadecocruz.org.bo)|192.185.3.142|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cadecocruz.org.bo/UserFiles/File/RBC-20mayo2011.pdf%0d [following]
+--2020-02-25 21:23:06--  https://cadecocruz.org.bo/UserFiles/File/RBC-20mayo2011.pdf%0d
+Resolving cadecocruz.org.bo (cadecocruz.org.bo)... 192.185.3.142
+Connecting to cadecocruz.org.bo (cadecocruz.org.bo)|192.185.3.142|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:07 ERROR 404: Not Found.
+

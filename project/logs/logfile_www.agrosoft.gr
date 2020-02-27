@@ -1,0 +1,12 @@
+--2020-02-25 22:35:06--  http://www.agrosoft.gr/Pdf/pub06_en.pdf%0D
+Resolving www.agrosoft.gr (www.agrosoft.gr)... 178.23.72.64
+Connecting to www.agrosoft.gr (www.agrosoft.gr)|178.23.72.64|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:35:06 ERROR 400: Bad Request.
+
+--2020-02-25 22:35:08--  http://www.agrosoft.gr/Pdf/pub06_en.pdf%0D
+Resolving www.agrosoft.gr (www.agrosoft.gr)... 178.23.72.64
+Connecting to www.agrosoft.gr (www.agrosoft.gr)|178.23.72.64|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:35:08 ERROR 400: Bad Request.
+

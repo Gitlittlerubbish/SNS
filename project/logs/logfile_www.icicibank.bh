@@ -1,0 +1,24 @@
+--2020-02-25 21:03:08--  http://www.icicibank.bh/managed-assets/docs/EFTS.pdf%0D
+Resolving www.icicibank.bh (www.icicibank.bh)... 203.27.235.25
+Connecting to www.icicibank.bh (www.icicibank.bh)|203.27.235.25|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:03:09 ERROR 400: Bad Request.
+
+--2020-02-25 21:03:09--  http://www.icicibank.bh/managed-assets/docs/International_Bank_Account_Numbe.pdf%0D
+Resolving www.icicibank.bh (www.icicibank.bh)... 203.27.235.25
+Connecting to www.icicibank.bh (www.icicibank.bh)|203.27.235.25|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:03:10 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:26--  http://www.icicibank.bh/managed-assets/docs/EFTS.pdf%0D
+Resolving www.icicibank.bh (www.icicibank.bh)... 203.27.235.25
+Connecting to www.icicibank.bh (www.icicibank.bh)|203.27.235.25|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:26 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:26--  http://www.icicibank.bh/managed-assets/docs/International_Bank_Account_Numbe.pdf%0D
+Resolving www.icicibank.bh (www.icicibank.bh)... 203.27.235.25
+Connecting to www.icicibank.bh (www.icicibank.bh)|203.27.235.25|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:26 ERROR 400: Bad Request.
+

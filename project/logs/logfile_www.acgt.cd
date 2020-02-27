@@ -1,0 +1,12 @@
+--2020-02-25 21:55:49--  http://www.acgt.cd/images/documents/magazines/M007.pdf%0D
+Resolving www.acgt.cd (www.acgt.cd)... --2020-02-25 21:55:49--  http://www.acgt.cd/images/documents/magazines/M007.pdf%0D
+Resolving www.acgt.cd (www.acgt.cd)... 145.239.10.158
+Connecting to www.acgt.cd (www.acgt.cd)|145.239.10.158|:80... connected.
+HTTP request sent, awaiting response... 145.239.10.158
+Connecting to www.acgt.cd (www.acgt.cd)|145.239.10.158|:80... 404 Not Found
+2020-02-25 21:55:50 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:55:50 ERROR 404: Not Found.
+

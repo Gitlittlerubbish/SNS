@@ -1,0 +1,12 @@
+--2020-02-25 21:26:00--  http://www.fisheries.gov.bn/SiteCollectionDocuments/Brochures/Brochure_2.pdf%0D
+Resolving www.fisheries.gov.bn (www.fisheries.gov.bn)... 103.4.188.86
+Connecting to www.fisheries.gov.bn (www.fisheries.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:01 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:17--  http://www.fisheries.gov.bn/SiteCollectionDocuments/Brochures/Brochure_2.pdf%0D
+Resolving www.fisheries.gov.bn (www.fisheries.gov.bn)... 103.4.188.86
+Connecting to www.fisheries.gov.bn (www.fisheries.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:18 ERROR 400: Bad Request.
+

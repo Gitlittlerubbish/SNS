@@ -1,0 +1,12 @@
+--2020-02-25 23:14:10--  http://www.engcenter.co.kr/bbs/data/ENG_PDS2_1432362834.pdf%0D
+Resolving www.engcenter.co.kr (www.engcenter.co.kr)... 13.124.214.110, 15.164.188.143
+Connecting to www.engcenter.co.kr (www.engcenter.co.kr)|13.124.214.110|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:14:11 ERROR 404: Not Found.
+
+--2020-02-25 23:14:17--  http://www.engcenter.co.kr/bbs/data/ENG_PDS2_1432362834.pdf%0D
+Resolving www.engcenter.co.kr (www.engcenter.co.kr)... 13.124.214.110, 15.164.188.143
+Connecting to www.engcenter.co.kr (www.engcenter.co.kr)|13.124.214.110|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:14:18 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:10:17--  http://ign.bj/wp-content/uploads/2016/03/Equip_BORGOU.pdf%0D
+Resolving ign.bj (ign.bj)... 91.216.107.112
+Connecting to ign.bj (ign.bj)|91.216.107.112|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:10:18 ERROR 404: Not Found.
+
+--2020-02-25 21:19:37--  http://ign.bj/wp-content/uploads/2016/03/Equip_BORGOU.pdf%0D
+Resolving ign.bj (ign.bj)... 91.216.107.112
+Connecting to ign.bj (ign.bj)|91.216.107.112|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:38 ERROR 404: Not Found.
+

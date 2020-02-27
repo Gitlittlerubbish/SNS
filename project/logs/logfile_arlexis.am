@@ -1,0 +1,12 @@
+--2020-02-25 20:54:13--  http://arlexis.am/Banners/sahmanadrutyun.pdf%0D
+Resolving arlexis.am (arlexis.am)... 178.213.130.220
+Connecting to arlexis.am (arlexis.am)|178.213.130.220|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:54:13 ERROR 400: Bad Request.
+
+--2020-02-25 21:07:13--  http://arlexis.am/Banners/sahmanadrutyun.pdf%0D
+Resolving arlexis.am (arlexis.am)... 178.213.130.220
+Connecting to arlexis.am (arlexis.am)|178.213.130.220|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:07:13 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:55:07--  http://ajce.aut.ac.ir/article_2735_f3d217f02b324b63101de1252a03cca2.pdf%0D
+Resolving ajce.aut.ac.ir (ajce.aut.ac.ir)... 185.211.88.178
+Connecting to ajce.aut.ac.ir (ajce.aut.ac.ir)|185.211.88.178|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:55:07 ERROR 500: Internal Server Error.
+

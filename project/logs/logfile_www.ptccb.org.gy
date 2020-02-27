@@ -1,0 +1,12 @@
+--2020-02-25 22:41:20--  http://www.ptccb.org.gy/documents/Pesticides_and_Toxic_ChemicalsRegulations.pdf%0D
+Resolving www.ptccb.org.gy (www.ptccb.org.gy)... 162.241.216.101
+Connecting to www.ptccb.org.gy (www.ptccb.org.gy)|162.241.216.101|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:41:21 ERROR 404: Not Found.
+
+--2020-02-25 22:41:21--  http://www.ptccb.org.gy/documents/Ochro.pdf%0D
+Resolving www.ptccb.org.gy (www.ptccb.org.gy)... 162.241.216.101
+Connecting to www.ptccb.org.gy (www.ptccb.org.gy)|162.241.216.101|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:41:21 ERROR 404: Not Found.
+

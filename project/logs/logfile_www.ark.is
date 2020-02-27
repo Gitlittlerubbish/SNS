@@ -1,0 +1,7 @@
+--2020-02-25 22:49:13--  https://www.ark.is/assets/images/Thjodarspegillinn.pdf%0D
+Resolving www.ark.is (www.ark.is)... 185.174.176.226
+Connecting to www.ark.is (www.ark.is)|185.174.176.226|:443... connected.
+HTTP request sent, awaiting response... 503 Service Unavailable
+Could not parse String-Transport-Security header
+2020-02-25 22:49:13 ERROR 503: Service Unavailable.
+

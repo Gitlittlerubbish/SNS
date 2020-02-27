@@ -1,0 +1,12 @@
+--2020-02-25 23:25:42--  https://sistema.tamo.lt/Content/Naudotojo_vadovas_tevams_ir_mokiams.pdf%0D
+Resolving sistema.tamo.lt (sistema.tamo.lt)... 185.38.164.101
+Connecting to sistema.tamo.lt (sistema.tamo.lt)|185.38.164.101|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:25:42 ERROR 400: Bad Request.
+
+--2020-02-25 23:25:45--  https://sistema.tamo.lt/Content/Naudotojo_vadovas_tevams_ir_mokiams.pdf%0D
+Resolving sistema.tamo.lt (sistema.tamo.lt)... 185.38.164.101
+Connecting to sistema.tamo.lt (sistema.tamo.lt)|185.38.164.101|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:25:45 ERROR 400: Bad Request.
+

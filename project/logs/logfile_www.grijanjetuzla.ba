@@ -1,0 +1,12 @@
+--2020-02-25 21:17:22--  http://www.grijanjetuzla.ba/udocs/Afisa%2520MWh%252002.pdf%0D
+Resolving www.grijanjetuzla.ba (www.grijanjetuzla.ba)... 173.249.35.227
+Connecting to www.grijanjetuzla.ba (www.grijanjetuzla.ba)|173.249.35.227|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:17:22 ERROR 400: Bad Request.
+
+--2020-02-25 21:24:34--  http://www.grijanjetuzla.ba/udocs/Afisa%2520MWh%252002.pdf%0D
+Resolving www.grijanjetuzla.ba (www.grijanjetuzla.ba)... 173.249.35.227
+Connecting to www.grijanjetuzla.ba (www.grijanjetuzla.ba)|173.249.35.227|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:24:34 ERROR 400: Bad Request.
+

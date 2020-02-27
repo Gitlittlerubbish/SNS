@@ -1,0 +1,20 @@
+--2020-02-25 20:53:45--  http://www.briztur.do.am/Ankety/IMM5257B.pdf%0D
+Resolving www.briztur.do.am (www.briztur.do.am)... 195.216.243.44
+Connecting to www.briztur.do.am (www.briztur.do.am)|195.216.243.44|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.briztur.do.am/Ankety/IMM5257B.pdf%0D [following]
+--2020-02-25 20:53:46--  https://www.briztur.do.am/Ankety/IMM5257B.pdf%0D
+Connecting to www.briztur.do.am (www.briztur.do.am)|195.216.243.44|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.briztur.do.am’.
+To connect to www.briztur.do.am insecurely, use `--no-check-certificate'.
+--2020-02-25 21:06:58--  http://www.briztur.do.am/Ankety/IMM5257B.pdf%0D
+Resolving www.briztur.do.am (www.briztur.do.am)... 195.216.243.44
+Connecting to www.briztur.do.am (www.briztur.do.am)|195.216.243.44|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.briztur.do.am/Ankety/IMM5257B.pdf%0D [following]
+--2020-02-25 21:06:58--  https://www.briztur.do.am/Ankety/IMM5257B.pdf%0D
+Connecting to www.briztur.do.am (www.briztur.do.am)|195.216.243.44|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.briztur.do.am’.
+To connect to www.briztur.do.am insecurely, use `--no-check-certificate'.

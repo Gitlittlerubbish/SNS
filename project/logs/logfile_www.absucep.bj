@@ -1,0 +1,12 @@
+--2020-02-25 21:09:38--  http://www.absucep.bj/fichiers/telechargeables/ESTONIE_REOUVERTURE.pdf%0D
+Resolving www.absucep.bj (www.absucep.bj)... 178.79.166.163
+Connecting to www.absucep.bj (www.absucep.bj)|178.79.166.163|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:39 ERROR 404: Not Found.
+
+--2020-02-25 21:19:07--  http://www.absucep.bj/fichiers/telechargeables/ESTONIE_REOUVERTURE.pdf%0D
+Resolving www.absucep.bj (www.absucep.bj)... 178.79.166.163
+Connecting to www.absucep.bj (www.absucep.bj)|178.79.166.163|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:07 ERROR 404: Not Found.
+

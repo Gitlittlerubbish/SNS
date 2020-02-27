@@ -1,0 +1,6 @@
+--2020-02-25 23:48:43--  https://www.mycloud.fm/CondGen.pdf%0D
+Resolving www.mycloud.fm (www.mycloud.fm)... 85.236.152.79
+Connecting to www.mycloud.fm (www.mycloud.fm)|85.236.152.79|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:48:43 ERROR 404: Not Found.
+

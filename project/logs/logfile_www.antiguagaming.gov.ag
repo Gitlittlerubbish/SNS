@@ -1,0 +1,6 @@
+--2020-02-25 21:04:22--  http://www.antiguagaming.gov.ag/files/G005_Administrative_systems.pdf%0D
+Resolving www.antiguagaming.gov.ag (www.antiguagaming.gov.ag)... 206.214.22.70
+Connecting to www.antiguagaming.gov.ag (www.antiguagaming.gov.ag)|206.214.22.70|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:04:22 ERROR 400: Bad Request.
+

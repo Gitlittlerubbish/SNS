@@ -1,0 +1,20 @@
+--2020-02-25 22:38:34--  http://www.gso.org.gg/GSO_CPP.pdf%0D
+Resolving www.gso.org.gg (www.gso.org.gg)... --2020-02-25 22:38:34--  http://www.gso.org.gg/GSO_CPP.pdf%0D
+Resolving www.gso.org.gg (www.gso.org.gg)... 206.189.122.188
+Connecting to www.gso.org.gg (www.gso.org.gg)|206.189.122.188|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gso.org.gg/GSO_CPP.pdf%0D [following]
+--2020-02-25 22:38:34--  https://www.gso.org.gg/GSO_CPP.pdf%0D
+Connecting to www.gso.org.gg (www.gso.org.gg)|206.189.122.188|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:38:34 ERROR 404: Not Found.
+
+206.189.122.188
+Connecting to www.gso.org.gg (www.gso.org.gg)|206.189.122.188|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gso.org.gg/GSO_CPP.pdf%0D [following]
+--2020-02-25 22:38:35--  https://www.gso.org.gg/GSO_CPP.pdf%0D
+Connecting to www.gso.org.gg (www.gso.org.gg)|206.189.122.188|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:38:35 ERROR 404: Not Found.
+

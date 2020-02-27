@@ -1,0 +1,7 @@
+--2020-02-26 00:04:35--  https://bolpatra.gov.np/egp/downloadHelpDoc%3FhelpFileName%3DGoN1S2E%0D
+Resolving bolpatra.gov.np (bolpatra.gov.np)... 202.70.78.254, 103.232.155.51
+Connecting to bolpatra.gov.np (bolpatra.gov.np)|202.70.78.254|:443... failed: Connection timed out.
+Connecting to bolpatra.gov.np (bolpatra.gov.np)|103.232.155.51|:443... connected.
+ERROR: cannot verify bolpatra.gov.np's certificate, issued by ‘CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to bolpatra.gov.np insecurely, use `--no-check-certificate'.

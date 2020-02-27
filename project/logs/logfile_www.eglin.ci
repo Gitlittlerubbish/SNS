@@ -1,0 +1,12 @@
+--2020-02-25 22:00:15--  http://www.eglin.ci/media/1416/2014_jaar_press_uk.pdf%0D
+Resolving www.eglin.ci (www.eglin.ci)... --2020-02-25 22:00:15--  http://www.eglin.ci/media/1416/2014_jaar_press_uk.pdf%0D
+Resolving www.eglin.ci (www.eglin.ci)... 89.36.74.115
+Connecting to www.eglin.ci (www.eglin.ci)|89.36.74.115|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:00:15 ERROR 400: Bad Request.
+
+89.36.74.115
+Connecting to www.eglin.ci (www.eglin.ci)|89.36.74.115|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:00:16 ERROR 400: Bad Request.
+

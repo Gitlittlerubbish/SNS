@@ -1,0 +1,12 @@
+--2020-02-25 21:32:11--  http://cvl.cv/phocadownload/Condicoes_de_venda.pdf%0D
+Resolving cvl.cv (cvl.cv)... 195.8.58.186
+Connecting to cvl.cv (cvl.cv)|195.8.58.186|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:11 ERROR 404: Not Found.
+
+--2020-02-25 21:35:16--  http://cvl.cv/phocadownload/Condicoes_de_venda.pdf%0D
+Resolving cvl.cv (cvl.cv)... 195.8.58.186
+Connecting to cvl.cv (cvl.cv)|195.8.58.186|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:16 ERROR 404: Not Found.
+

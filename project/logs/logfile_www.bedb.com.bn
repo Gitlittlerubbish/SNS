@@ -1,0 +1,12 @@
+--2020-02-25 21:25:46--  http://www.bedb.com.bn/presentation/INVESTBN_2019.pdf%0D
+Resolving www.bedb.com.bn (www.bedb.com.bn)... 119.160.132.159
+Connecting to www.bedb.com.bn (www.bedb.com.bn)|119.160.132.159|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:47 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:06--  http://www.bedb.com.bn/presentation/INVESTBN_2019.pdf%0D
+Resolving www.bedb.com.bn (www.bedb.com.bn)... 119.160.132.159
+Connecting to www.bedb.com.bn (www.bedb.com.bn)|119.160.132.159|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:07 ERROR 400: Bad Request.
+

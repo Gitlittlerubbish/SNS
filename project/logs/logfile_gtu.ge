@@ -1,0 +1,12 @@
+--2020-02-25 22:30:34--  https://gtu.ge/book/grela_web_serveri1.pdf%0D
+Resolving gtu.ge (gtu.ge)... --2020-02-25 22:30:34--  https://gtu.ge/book/grela_web_serveri1.pdf%0D
+Resolving gtu.ge (gtu.ge)... 109.205.46.3
+Connecting to gtu.ge (gtu.ge)|109.205.46.3|:443... 109.205.46.3
+Connecting to gtu.ge (gtu.ge)|109.205.46.3|:443... connected.
+connected.
+ERROR: cannot verify gtu.ge's certificate, issued by ‘CN=Sectigo RSA Organization Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to gtu.ge insecurely, use `--no-check-certificate'.
+ERROR: cannot verify gtu.ge's certificate, issued by ‘CN=Sectigo RSA Organization Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to gtu.ge insecurely, use `--no-check-certificate'.

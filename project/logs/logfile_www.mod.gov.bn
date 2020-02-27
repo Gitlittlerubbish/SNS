@@ -1,0 +1,12 @@
+--2020-02-25 21:25:59--  http://www.mod.gov.bn/survey/SitePages/GWI_PartV_Hydrographical.pdf%0D
+Resolving www.mod.gov.bn (www.mod.gov.bn)... 103.4.188.86
+Connecting to www.mod.gov.bn (www.mod.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:00 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:17--  http://www.mod.gov.bn/survey/SitePages/GWI_PartV_Hydrographical.pdf%0D
+Resolving www.mod.gov.bn (www.mod.gov.bn)... 103.4.188.86
+Connecting to www.mod.gov.bn (www.mod.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:17 ERROR 400: Bad Request.
+

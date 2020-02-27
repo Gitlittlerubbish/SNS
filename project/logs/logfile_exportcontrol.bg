@@ -1,0 +1,12 @@
+--2020-02-25 21:27:17--  http://exportcontrol.bg/docs/Regulation_388_2012.pdf%0D
+Resolving exportcontrol.bg (exportcontrol.bg)... 212.122.184.84
+Connecting to exportcontrol.bg (exportcontrol.bg)|212.122.184.84|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:17 ERROR 404: Not Found.
+
+--2020-02-25 21:32:26--  http://exportcontrol.bg/docs/Regulation_388_2012.pdf%0D
+Resolving exportcontrol.bg (exportcontrol.bg)... 212.122.184.84
+Connecting to exportcontrol.bg (exportcontrol.bg)|212.122.184.84|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:26 ERROR 404: Not Found.
+

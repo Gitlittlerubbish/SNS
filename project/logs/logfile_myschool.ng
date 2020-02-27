@@ -1,0 +1,34 @@
+--2020-02-26 00:16:14--  https://myschool.ng/download/blog_files/tshV18sA1VTwh1YA0VQpNb7vSicl8fLr4BGsAM77.pdf%0D
+Resolving myschool.ng (myschool.ng)... 67.205.100.81
+Connecting to myschool.ng (myschool.ng)|67.205.100.81|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://myschool.ng [following]
+--2020-02-26 00:16:15--  https://myschool.ng/
+Reusing existing connection to myschool.ng:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.44M
+    50K .......... .......... .......... .......... .......... 4.20M
+   100K .......... .......... .......... .......... .......    3.98M=0.5s
+
+2020-02-26 00:16:16 (2.52 Mb/s) - ‘/dev/null’ saved [150623]
+
+--2020-02-26 00:16:16--  https://myschool.ng/download/blog_files/tshV18sA1VTwh1YA0VQpNb7vSicl8fLr4BGsAM77.pdf%0D
+Resolving myschool.ng (myschool.ng)... 67.205.100.81
+Connecting to myschool.ng (myschool.ng)|67.205.100.81|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://myschool.ng [following]
+--2020-02-26 00:16:17--  https://myschool.ng/
+Reusing existing connection to myschool.ng:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.48M
+    50K .......... .......... .......... .......... .......... 5.18M
+   100K .......... .......... .......... .......... .......    5.02M=0.3s
+
+2020-02-26 00:16:18 (3.75 Mb/s) - ‘/dev/null’ saved [150626]
+

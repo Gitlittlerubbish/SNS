@@ -1,0 +1,12 @@
+--2020-02-25 21:19:51--  http://www.producao.ufrgs.br/arquivos/disciplinas/507_artigo_1_the_role_of_the_business.pdf%0D
+Resolving www.producao.ufrgs.br (www.producao.ufrgs.br)... 143.54.128.4
+Connecting to www.producao.ufrgs.br (www.producao.ufrgs.br)|143.54.128.4|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:19:52 ERROR 400: Bad Request.
+
+--2020-02-25 21:26:07--  http://www.producao.ufrgs.br/arquivos/disciplinas/507_artigo_1_the_role_of_the_business.pdf%0D
+Resolving www.producao.ufrgs.br (www.producao.ufrgs.br)... 143.54.128.4
+Connecting to www.producao.ufrgs.br (www.producao.ufrgs.br)|143.54.128.4|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:07 ERROR 400: Bad Request.
+

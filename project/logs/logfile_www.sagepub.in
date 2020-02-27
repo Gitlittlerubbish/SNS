@@ -1,0 +1,15 @@
+--2020-02-25 22:50:31--  http://www.sagepub.in/upm-data/23772_Ch7.pdf%0D
+Resolving www.sagepub.in (www.sagepub.in)... 208.88.132.57
+Connecting to www.sagepub.in (www.sagepub.in)|208.88.132.57|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sagepub.in/upm-data/23772_Ch7.pdf%0d [following]
+--2020-02-25 22:50:32--  https://www.sagepub.in/upm-data/23772_Ch7.pdf%0d
+Connecting to www.sagepub.in (www.sagepub.in)|208.88.132.57|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://in.sagepub.com/upm-data/23772_Ch7.pdf%0d [following]
+--2020-02-25 22:50:33--  https://in.sagepub.com/upm-data/23772_Ch7.pdf%0d
+Resolving in.sagepub.com (in.sagepub.com)... 151.101.18.133
+Connecting to in.sagepub.com (in.sagepub.com)|151.101.18.133|:443... connected.
+HTTP request sent, awaiting response... 503 invalid headers
+2020-02-25 22:50:33 ERROR 503: invalid headers.
+

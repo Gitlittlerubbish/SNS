@@ -1,0 +1,12 @@
+--2020-02-25 22:28:03--  https://www.gambiatours.gm/Gambiatours-leaflet.pdf%0D
+Resolving www.gambiatours.gm (www.gambiatours.gm)... --2020-02-25 22:28:03--  https://www.gambiatours.gm/Gambiatours-leaflet.pdf%0D
+Resolving www.gambiatours.gm (www.gambiatours.gm)... 185.151.30.151
+Connecting to www.gambiatours.gm (www.gambiatours.gm)|185.151.30.151|:443... 185.151.30.151
+Connecting to www.gambiatours.gm (www.gambiatours.gm)|185.151.30.151|:443... connected.
+connected.
+ERROR: cannot verify www.gambiatours.gm's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.gambiatours.gm insecurely, use `--no-check-certificate'.
+ERROR: cannot verify www.gambiatours.gm's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.gambiatours.gm insecurely, use `--no-check-certificate'.

@@ -1,0 +1,12 @@
+--2020-02-25 22:19:45--  http://www.renovent.fo/myfiles/files/EXA.pdf%0D
+Resolving www.renovent.fo (www.renovent.fo)... --2020-02-25 22:19:45--  http://www.renovent.fo/myfiles/files/EXA.pdf%0D
+Resolving www.renovent.fo (www.renovent.fo)... 98.129.229.18
+Connecting to www.renovent.fo (www.renovent.fo)|98.129.229.18|:80... 98.129.229.18
+Connecting to www.renovent.fo (www.renovent.fo)|98.129.229.18|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 22:19:45 ERROR 404: Not Found.
+
+2020-02-25 22:19:45 ERROR 404: Not Found.
+

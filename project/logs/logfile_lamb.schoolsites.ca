@@ -1,0 +1,12 @@
+--2020-02-25 21:36:47--  https://lamb.schoolsites.ca/download/123139%0D
+Resolving lamb.schoolsites.ca (lamb.schoolsites.ca)... 104.248.104.143
+Connecting to lamb.schoolsites.ca (lamb.schoolsites.ca)|104.248.104.143|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:48 ERROR 404: Not Found.
+
+--2020-02-25 21:38:29--  https://lamb.schoolsites.ca/download/123139%0D
+Resolving lamb.schoolsites.ca (lamb.schoolsites.ca)... 104.248.104.143
+Connecting to lamb.schoolsites.ca (lamb.schoolsites.ca)|104.248.104.143|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:30 ERROR 404: Not Found.
+

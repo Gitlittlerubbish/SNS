@@ -1,0 +1,6 @@
+--2020-02-25 21:01:38--  https://visauto.co.ao/assets/nh_b90b_b95b.pdf%0D
+Resolving visauto.co.ao (visauto.co.ao)... 194.65.74.138
+Connecting to visauto.co.ao (visauto.co.ao)|194.65.74.138|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:38 ERROR 400: Bad Request.
+

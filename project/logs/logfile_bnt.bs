@@ -1,0 +1,12 @@
+--2020-02-25 21:02:09--  https://bnt.bs/wp-content/uploads/2016/09/reptilelistwestindies.pdf%0D
+Resolving bnt.bs (bnt.bs)... 107.180.40.14
+Connecting to bnt.bs (bnt.bs)|107.180.40.14|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:13:33--  https://bnt.bs/wp-content/uploads/2016/09/reptilelistwestindies.pdf%0D
+Resolving bnt.bs (bnt.bs)... 107.180.40.14
+Connecting to bnt.bs (bnt.bs)|107.180.40.14|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

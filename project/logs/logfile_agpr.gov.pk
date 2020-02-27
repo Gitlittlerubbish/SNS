@@ -1,0 +1,6 @@
+--2020-02-26 00:24:07--  http://agpr.gov.pk/sbg.pdf%0D
+Resolving agpr.gov.pk (agpr.gov.pk)... 210.56.11.83
+Connecting to agpr.gov.pk (agpr.gov.pk)|210.56.11.83|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:24:07 ERROR 400: Bad Request.
+

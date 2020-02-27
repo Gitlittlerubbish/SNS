@@ -1,0 +1,12 @@
+--2020-02-25 21:52:18--  http://giret.ufps.edu.co/cisco/docs/4/normaeiatia568.pdf%0D
+Resolving giret.ufps.edu.co (giret.ufps.edu.co)... --2020-02-25 21:52:18--  http://giret.ufps.edu.co/cisco/docs/4/normaeiatia568.pdf%0D
+Resolving giret.ufps.edu.co (giret.ufps.edu.co)... 200.93.148.18
+Connecting to giret.ufps.edu.co (giret.ufps.edu.co)|200.93.148.18|:80... connected.
+HTTP request sent, awaiting response... 200.93.148.18
+Connecting to giret.ufps.edu.co (giret.ufps.edu.co)|200.93.148.18|:80... 404 Not Found
+2020-02-25 21:52:21 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:52:21 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:03:10--  https://www.irisohyama.co.jp/products/manual/pdf/272041.pdf%0D
+Resolving www.irisohyama.co.jp (www.irisohyama.co.jp)... 61.115.199.4
+Connecting to www.irisohyama.co.jp (www.irisohyama.co.jp)|61.115.199.4|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:03:11 ERROR 400: Bad Request.
+

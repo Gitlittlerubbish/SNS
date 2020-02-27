@@ -1,0 +1,12 @@
+--2020-02-25 21:21:22--  http://site.videobrasil.org.br/downloads/473927%0D
+Resolving site.videobrasil.org.br (site.videobrasil.org.br)... 13.59.246.196
+Connecting to site.videobrasil.org.br (site.videobrasil.org.br)|13.59.246.196|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:22 ERROR 404: Not Found.
+
+--2020-02-25 21:27:07--  http://site.videobrasil.org.br/downloads/473927%0D
+Resolving site.videobrasil.org.br (site.videobrasil.org.br)... 13.59.246.196
+Connecting to site.videobrasil.org.br (site.videobrasil.org.br)|13.59.246.196|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:07 ERROR 404: Not Found.
+

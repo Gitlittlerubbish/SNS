@@ -1,0 +1,6 @@
+--2020-02-26 00:27:04--  https://www.multibank.com.pa/documentos/crs-faqs.pdf%0D
+Resolving www.multibank.com.pa (www.multibank.com.pa)... 149.126.74.206
+Connecting to www.multibank.com.pa (www.multibank.com.pa)|149.126.74.206|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:27:04 ERROR 403: Forbidden.
+

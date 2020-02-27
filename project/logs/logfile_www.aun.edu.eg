@@ -1,0 +1,60 @@
+--2020-02-25 22:11:30--  http://www.aun.edu.eg/dlearn/intro6.pdf%0D
+Resolving www.aun.edu.eg (www.aun.edu.eg)... 193.227.61.27
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.aun.edu.eg/errors.php [following]
+--2020-02-25 22:11:31--  http://www.aun.edu.eg/errors.php
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                       838M=0s
+
+2020-02-25 22:11:31 (838 Mb/s) - ‘/dev/null’ saved [1571]
+
+--2020-02-25 22:11:31--  http://www.aun.edu.eg/dlearn/intro6.pdf%0D
+Resolving www.aun.edu.eg (www.aun.edu.eg)... 193.227.61.27
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.aun.edu.eg/errors.php [following]
+--2020-02-25 22:11:31--  http://www.aun.edu.eg/errors.php
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:11:31--  http://www.aun.edu.eg/dlearn/intro6.pdf%0D
+Resolving www.aun.edu.eg (www.aun.edu.eg)... 193.227.61.27
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                       972M=0s
+
+2020-02-25 22:11:31 (972 Mb/s) - ‘/dev/null’ saved [1571]
+
+302 Found
+Location: http://www.aun.edu.eg/errors.php [following]
+--2020-02-25 22:11:31--  http://www.aun.edu.eg/errors.php
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      2.13G=0s
+
+2020-02-25 22:11:31 (2.13 Gb/s) - ‘/dev/null’ saved [1571]
+
+--2020-02-25 22:11:31--  http://www.aun.edu.eg/dlearn/intro6.pdf%0D
+Resolving www.aun.edu.eg (www.aun.edu.eg)... 193.227.61.27
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.aun.edu.eg/errors.php [following]
+--2020-02-25 22:11:32--  http://www.aun.edu.eg/errors.php
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                       937M=0s
+
+2020-02-25 22:11:32 (937 Mb/s) - ‘/dev/null’ saved [1571]
+

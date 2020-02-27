@@ -1,0 +1,6 @@
+--2020-02-25 22:48:40--  http://www.bifrost.is/Files/Skra_0060598.pdf%0D
+Resolving www.bifrost.is (www.bifrost.is)... 185.118.33.147
+Connecting to www.bifrost.is (www.bifrost.is)|185.118.33.147|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:48:40 ERROR 400: Bad Request.
+

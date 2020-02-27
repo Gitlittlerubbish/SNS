@@ -1,0 +1,6 @@
+--2020-02-25 22:50:41--  http://www.ncert.nic.in/pdf_files/Contribution_of_Indian_Mathematicians.pdf%0D
+Resolving www.ncert.nic.in (www.ncert.nic.in)... 164.100.60.233
+Connecting to www.ncert.nic.in (www.ncert.nic.in)|164.100.60.233|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:41 ERROR 400: Bad Request.
+

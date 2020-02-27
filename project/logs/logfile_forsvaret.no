@@ -1,0 +1,17 @@
+--2020-02-26 00:22:17--  http://forsvaret.no/presse_/ForsvaretDocuments/FST_0807_1407.pdf%0D
+Resolving forsvaret.no (forsvaret.no)... 195.254.223.246
+Connecting to forsvaret.no (forsvaret.no)|195.254.223.246|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://forsvaret.no/presse_/ForsvaretDocuments/FST_0807_1407.pdf%0D [following]
+--2020-02-26 00:22:17--  https://forsvaret.no/presse_/ForsvaretDocuments/FST_0807_1407.pdf%0D
+Connecting to forsvaret.no (forsvaret.no)|195.254.223.246|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:17 ERROR 400: Bad Request.
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-26 00:22:17--  https://forsvaret.no/presse_/ForsvaretDocuments/FST_1111_1711.pdf%0D
+Resolving forsvaret.no (forsvaret.no)... 195.254.223.246
+Connecting to forsvaret.no (forsvaret.no)|195.254.223.246|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:17 ERROR 400: Bad Request.
+

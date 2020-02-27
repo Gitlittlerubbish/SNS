@@ -1,0 +1,12 @@
+--2020-02-25 21:02:01--  https://www.lcis.bs/admissions/application_process/Welcome%2520to%2520the%2520Bahamas_Brochure_LCIS_Final.pdf%0D
+Resolving www.lcis.bs (www.lcis.bs)... 52.14.220.150
+Connecting to www.lcis.bs (www.lcis.bs)|52.14.220.150|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:02:01 ERROR 404: Not Found.
+
+--2020-02-25 21:13:25--  https://www.lcis.bs/admissions/application_process/Welcome%2520to%2520the%2520Bahamas_Brochure_LCIS_Final.pdf%0D
+Resolving www.lcis.bs (www.lcis.bs)... 52.14.220.150
+Connecting to www.lcis.bs (www.lcis.bs)|52.14.220.150|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:26 ERROR 404: Not Found.
+

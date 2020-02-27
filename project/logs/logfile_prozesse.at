@@ -1,0 +1,12 @@
+--2020-02-25 21:00:05--  https://prozesse.at/images/Tool_Masters/BOC.pdf%0D
+Resolving prozesse.at (prozesse.at)... 93.189.28.74
+Connecting to prozesse.at (prozesse.at)|93.189.28.74|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:06 ERROR 404: Not Found.
+
+--2020-02-25 21:12:08--  https://prozesse.at/images/Tool_Masters/BOC.pdf%0D
+Resolving prozesse.at (prozesse.at)... 93.189.28.74
+Connecting to prozesse.at (prozesse.at)|93.189.28.74|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:08 ERROR 404: Not Found.
+

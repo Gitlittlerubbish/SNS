@@ -1,0 +1,12 @@
+--2020-02-26 00:27:18--  http://www.unachi.ac.pa/assets/descargas/recursos_humanos/reglamento_reclasificacion.pdf%0D
+Resolving www.unachi.ac.pa (www.unachi.ac.pa)... 186.74.125.83
+Connecting to www.unachi.ac.pa (www.unachi.ac.pa)|186.74.125.83|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:27:19 ERROR 404: Not Found.
+
+--2020-02-26 00:27:22--  http://www.unachi.ac.pa/assets/descargas/admision/modulo_cientifica.pdf%0D
+Resolving www.unachi.ac.pa (www.unachi.ac.pa)... 186.74.125.83
+Connecting to www.unachi.ac.pa (www.unachi.ac.pa)|186.74.125.83|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:27:23 ERROR 404: Not Found.
+

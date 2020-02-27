@@ -1,0 +1,12 @@
+--2020-02-25 21:00:43--  http://www.elibrary.az/docs/qazet/qzt2019_4144.pdf%0D
+Resolving www.elibrary.az (www.elibrary.az)... 85.132.27.188
+Connecting to www.elibrary.az (www.elibrary.az)|85.132.27.188|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:00:44 ERROR 400: Bad Request.
+
+--2020-02-25 21:12:29--  http://www.elibrary.az/docs/qazet/qzt2019_4144.pdf%0D
+Resolving www.elibrary.az (www.elibrary.az)... 85.132.27.188
+Connecting to www.elibrary.az (www.elibrary.az)|85.132.27.188|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:12:30 ERROR 400: Bad Request.
+

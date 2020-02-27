@@ -1,0 +1,38 @@
+--2020-02-25 22:41:27--  http://www.psc.org.gy/press/BrochurePSC.pdf%0D
+Resolving www.psc.org.gy (www.psc.org.gy)... 184.154.22.45
+Connecting to www.psc.org.gy (www.psc.org.gy)|184.154.22.45|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://psc.org.gy/press/BrochurePSC.pdf [following]
+--2020-02-25 22:41:29--  http://psc.org.gy/press/BrochurePSC.pdf
+Resolving psc.org.gy (psc.org.gy)... 184.154.22.45
+Connecting to psc.org.gy (psc.org.gy)|184.154.22.45|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159827 (156K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 1.51M 1s
+    50K .......... .......... .......... .......... .......... 64% 4.53M 0s
+   100K .......... .......... .......... .......... .......... 96% 4.54M 0s
+   150K ......                                                100% 1.43G=0.5s
+
+2020-02-25 22:41:29 (2.83 Mb/s) - ‘/dev/null’ saved [159827/159827]
+
+--2020-02-25 22:41:29--  http://www.psc.org.gy/press/BrochurePSC.pdf%0D
+Resolving www.psc.org.gy (www.psc.org.gy)... 184.154.22.45
+Connecting to www.psc.org.gy (www.psc.org.gy)|184.154.22.45|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://psc.org.gy/press/BrochurePSC.pdf [following]
+--2020-02-25 22:41:31--  http://psc.org.gy/press/BrochurePSC.pdf
+Resolving psc.org.gy (psc.org.gy)... 184.154.22.45
+Connecting to psc.org.gy (psc.org.gy)|184.154.22.45|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159827 (156K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 2.27M 0s
+    50K .......... .......... .......... .......... .......... 64% 4.52M 0s
+   100K .......... .......... .......... .......... .......... 96% 4.53M 0s
+   150K ......                                                100%  461M=0.4s
+
+2020-02-25 22:41:32 (3.53 Mb/s) - ‘/dev/null’ saved [159827/159827]
+

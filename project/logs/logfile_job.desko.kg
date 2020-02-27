@@ -1,0 +1,6 @@
+--2020-02-25 23:18:05--  http://job.desko.kg/resume/download/2091%0D
+Resolving job.desko.kg (job.desko.kg)... 104.28.2.13, 104.28.3.13
+Connecting to job.desko.kg (job.desko.kg)|104.28.2.13|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:18:06 ERROR 400: Bad Request.
+

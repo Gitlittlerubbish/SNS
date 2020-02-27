@@ -1,0 +1,12 @@
+--2020-02-25 20:54:42--  http://gspi.am/media/pdf/3ebd32dfc0df875197ab44fc58596e27.pdf%0D
+Resolving gspi.am (gspi.am)... 208.91.199.120
+Connecting to gspi.am (gspi.am)|208.91.199.120|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:42 ERROR 404: Not Found.
+
+--2020-02-25 21:07:35--  http://gspi.am/media/pdf/3ebd32dfc0df875197ab44fc58596e27.pdf%0D
+Resolving gspi.am (gspi.am)... 208.91.199.120
+Connecting to gspi.am (gspi.am)|208.91.199.120|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:36 ERROR 404: Not Found.
+

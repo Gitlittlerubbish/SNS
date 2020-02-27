@@ -1,0 +1,22 @@
+--2020-02-25 21:02:50--  https://aicrypto.ai/AIC_WhitePaper_Kor.pdf%0D
+Resolving aicrypto.ai (aicrypto.ai)... 13.124.192.117
+Connecting to aicrypto.ai (aicrypto.ai)|13.124.192.117|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7644 (7.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                               100% 2.39G=0s
+
+2020-02-25 21:02:51 (2.39 Gb/s) - ‘/dev/null’ saved [7644/7644]
+
+--2020-02-25 21:02:51--  https://aicrypto.ai/AIC_WhitePaper_Kor.pdf%0D
+Resolving aicrypto.ai (aicrypto.ai)... 13.124.192.117
+Connecting to aicrypto.ai (aicrypto.ai)|13.124.192.117|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7644 (7.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                               100% 3.24G=0s
+
+2020-02-25 21:02:52 (3.24 Gb/s) - ‘/dev/null’ saved [7644/7644]
+

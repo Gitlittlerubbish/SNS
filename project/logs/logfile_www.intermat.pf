@@ -1,0 +1,12 @@
+--2020-02-25 22:24:16--  http://www.intermat.pf/Equivalents_KRO-Mobil-shell.pdf%0D
+Resolving www.intermat.pf (www.intermat.pf)... --2020-02-25 22:24:16--  http://www.intermat.pf/Equivalents_KRO-Mobil-shell.pdf%0D
+Resolving www.intermat.pf (www.intermat.pf)... 123.50.73.22
+Connecting to www.intermat.pf (www.intermat.pf)|123.50.73.22|:80... 123.50.73.22
+Connecting to www.intermat.pf (www.intermat.pf)|123.50.73.22|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:24:17 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:24:17 ERROR 404: Not Found.
+

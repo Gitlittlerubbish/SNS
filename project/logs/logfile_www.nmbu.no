@@ -1,0 +1,32 @@
+--2020-02-26 00:22:19--  https://www.nmbu.no/download/file/fid/21514%0D
+Resolving www.nmbu.no (www.nmbu.no)... 128.39.186.24
+Connecting to www.nmbu.no (www.nmbu.no)|128.39.186.24|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://violation.nmbu.no/?id=9099867147019514746 [following]
+--2020-02-26 00:22:19--  http://violation.nmbu.no/?id=9099867147019514746
+Resolving violation.nmbu.no (violation.nmbu.no)... 128.39.186.29
+Connecting to violation.nmbu.no (violation.nmbu.no)|128.39.186.29|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                     232M=0s
+
+2020-02-26 00:22:19 (232 Mb/s) - ‘/dev/null’ saved [3130]
+
+--2020-02-26 00:22:19--  https://www.nmbu.no/download/file/fid/21514%0D
+Resolving www.nmbu.no (www.nmbu.no)... 128.39.186.24
+Connecting to www.nmbu.no (www.nmbu.no)|128.39.186.24|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://violation.nmbu.no/?id=9099867147019514754 [following]
+--2020-02-26 00:22:19--  http://violation.nmbu.no/?id=9099867147019514754
+Resolving violation.nmbu.no (violation.nmbu.no)... 128.39.186.29
+Connecting to violation.nmbu.no (violation.nmbu.no)|128.39.186.29|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                     247M=0s
+
+2020-02-26 00:22:19 (247 Mb/s) - ‘/dev/null’ saved [3130]
+

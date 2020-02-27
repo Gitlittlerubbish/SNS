@@ -1,0 +1,12 @@
+--2020-02-25 21:59:20--  https://proimmo.ci/docs/status1.pdf%0D
+Resolving proimmo.ci (proimmo.ci)... 83.166.138.44
+Connecting to proimmo.ci (proimmo.ci)|83.166.138.44|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 21:59:20--  https://proimmo.ci/docs/status1.pdf%0D
+Resolving proimmo.ci (proimmo.ci)... 83.166.138.44
+Connecting to proimmo.ci (proimmo.ci)|83.166.138.44|:443... 404 Not Found
+2020-02-25 21:59:20 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:59:20 ERROR 404: Not Found.
+

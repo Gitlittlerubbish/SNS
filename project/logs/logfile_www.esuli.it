@@ -1,0 +1,6 @@
+--2020-02-25 23:00:21--  http://www.esuli.it/publications/LREC2006.pdf%0D
+Resolving www.esuli.it (www.esuli.it)... 217.64.195.236
+Connecting to www.esuli.it (www.esuli.it)|217.64.195.236|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:00:22 ERROR 500: Internal Server Error.
+

@@ -1,0 +1,24 @@
+--2020-02-25 21:03:23--  http://powerhouse.com.bd/resources/cummins/UCI274C.pdf%0D
+Resolving powerhouse.com.bd (powerhouse.com.bd)... 144.168.41.18
+Connecting to powerhouse.com.bd (powerhouse.com.bd)|144.168.41.18|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:25 ERROR 404: Not Found.
+
+--2020-02-25 21:03:25--  http://powerhouse.com.bd/resources/cummins/UCI224E.pdf%0D
+Resolving powerhouse.com.bd (powerhouse.com.bd)... 144.168.41.18
+Connecting to powerhouse.com.bd (powerhouse.com.bd)|144.168.41.18|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:25 ERROR 404: Not Found.
+
+--2020-02-25 21:14:36--  http://powerhouse.com.bd/resources/cummins/UCI274C.pdf%0D
+Resolving powerhouse.com.bd (powerhouse.com.bd)... 144.168.41.18
+Connecting to powerhouse.com.bd (powerhouse.com.bd)|144.168.41.18|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:37 ERROR 404: Not Found.
+
+--2020-02-25 21:14:37--  http://powerhouse.com.bd/resources/cummins/UCI224E.pdf%0D
+Resolving powerhouse.com.bd (powerhouse.com.bd)... 144.168.41.18
+Connecting to powerhouse.com.bd (powerhouse.com.bd)|144.168.41.18|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:37 ERROR 404: Not Found.
+

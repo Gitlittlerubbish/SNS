@@ -1,0 +1,12 @@
+--2020-02-25 22:06:38--  https://mst.dk/media/118283/rotte_smitterisiko_a4.pdf%0D
+Resolving mst.dk (mst.dk)... 188.64.154.140
+Connecting to mst.dk (mst.dk)|188.64.154.140|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:06:38 ERROR 400: Bad Request.
+
+--2020-02-25 22:06:38--  https://mst.dk/media/118283/rotte_smitterisiko_a4.pdf%0D
+Resolving mst.dk (mst.dk)... 188.64.154.140
+Connecting to mst.dk (mst.dk)|188.64.154.140|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:06:38 ERROR 400: Bad Request.
+

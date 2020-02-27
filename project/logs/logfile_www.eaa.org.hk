@@ -1,0 +1,6 @@
+--2020-02-25 22:46:46--  https://www.eaa.org.hk/Portals/0/Sections/CC/AGuideToTenancy_eng.pdf%0D
+Resolving www.eaa.org.hk (www.eaa.org.hk)... 202.130.86.155
+Connecting to www.eaa.org.hk (www.eaa.org.hk)|202.130.86.155|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:46:47 ERROR 400: Bad Request.
+

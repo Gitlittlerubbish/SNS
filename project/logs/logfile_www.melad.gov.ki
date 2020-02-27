@@ -1,0 +1,6 @@
+--2020-02-25 23:10:30--  https://www.melad.gov.ki/images/Communication_Assistant_TOR__JD.pdf%0D
+Resolving www.melad.gov.ki (www.melad.gov.ki)... 216.194.169.168
+Connecting to www.melad.gov.ki (www.melad.gov.ki)|216.194.169.168|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:10:33 ERROR 500: Internal Server Error.
+

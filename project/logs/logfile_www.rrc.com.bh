@@ -1,0 +1,24 @@
+--2020-02-25 21:02:45--  http://www.rrc.com.bh/media/299600/IA_Sample%2520Material.pdf%0D
+Resolving www.rrc.com.bh (www.rrc.com.bh)... 212.100.255.225
+Connecting to www.rrc.com.bh (www.rrc.com.bh)|212.100.255.225|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:02:45 ERROR 400: Bad Request.
+
+--2020-02-25 21:02:45--  http://www.rrc.com.bh/media/299603/IB_Sample%2520Material.pdf%0D
+Resolving www.rrc.com.bh (www.rrc.com.bh)... 212.100.255.225
+Connecting to www.rrc.com.bh (www.rrc.com.bh)|212.100.255.225|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:02:45 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:06--  http://www.rrc.com.bh/media/299600/IA_Sample%2520Material.pdf%0D
+Resolving www.rrc.com.bh (www.rrc.com.bh)... 212.100.255.225
+Connecting to www.rrc.com.bh (www.rrc.com.bh)|212.100.255.225|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:06 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:06--  http://www.rrc.com.bh/media/299603/IB_Sample%2520Material.pdf%0D
+Resolving www.rrc.com.bh (www.rrc.com.bh)... 212.100.255.225
+Connecting to www.rrc.com.bh (www.rrc.com.bh)|212.100.255.225|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:06 ERROR 400: Bad Request.
+

@@ -1,0 +1,20 @@
+--2020-02-25 21:35:52--  http://www.minfopra.gov.cm/images/pdf/Fiche_Notice_individuelle.pdf%0D
+Resolving www.minfopra.gov.cm (www.minfopra.gov.cm)... 195.24.205.68
+Connecting to www.minfopra.gov.cm (www.minfopra.gov.cm)|195.24.205.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.minfopra.gov.cm/index.php/fr/images/pdf/Fiche_Notice_individuelle.pdf [following]
+--2020-02-25 21:35:53--  http://www.minfopra.gov.cm/index.php/fr/images/pdf/Fiche_Notice_individuelle.pdf
+Reusing existing connection to www.minfopra.gov.cm:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:53 ERROR 404: Not Found.
+
+--2020-02-25 21:37:47--  http://www.minfopra.gov.cm/images/pdf/Fiche_Notice_individuelle.pdf%0D
+Resolving www.minfopra.gov.cm (www.minfopra.gov.cm)... 195.24.205.68
+Connecting to www.minfopra.gov.cm (www.minfopra.gov.cm)|195.24.205.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.minfopra.gov.cm/index.php/fr/images/pdf/Fiche_Notice_individuelle.pdf [following]
+--2020-02-25 21:37:48--  http://www.minfopra.gov.cm/index.php/fr/images/pdf/Fiche_Notice_individuelle.pdf
+Reusing existing connection to www.minfopra.gov.cm:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:49 ERROR 404: Not Found.
+

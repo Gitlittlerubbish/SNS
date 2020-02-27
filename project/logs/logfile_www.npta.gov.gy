@@ -1,0 +1,6 @@
+--2020-02-25 22:41:18--  https://www.npta.gov.gy/docs/Bidding_Consultancy_Other_Services.pdf%0D
+Resolving www.npta.gov.gy (www.npta.gov.gy)... 161.47.124.187
+Connecting to www.npta.gov.gy (www.npta.gov.gy)|161.47.124.187|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.npta.gov.gy’.
+To connect to www.npta.gov.gy insecurely, use `--no-check-certificate'.

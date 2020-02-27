@@ -1,0 +1,12 @@
+--2020-02-25 22:19:30--  https://hg.ns.fo/kunningarskriv.pdf%0D
+--2020-02-25 22:19:30--  https://hg.ns.fo/kunningarskriv.pdf%0D
+Resolving hg.ns.fo (hg.ns.fo)... Resolving hg.ns.fo (hg.ns.fo)... 212.55.53.48
+Connecting to hg.ns.fo (hg.ns.fo)|212.55.53.48|:443... connected.
+HTTP request sent, awaiting response... 212.55.53.48
+Connecting to hg.ns.fo (hg.ns.fo)|212.55.53.48|:443... 400 Bad Request
+2020-02-25 22:19:30 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:30 ERROR 400: Bad Request.
+

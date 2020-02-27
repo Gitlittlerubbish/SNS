@@ -1,0 +1,12 @@
+--2020-02-25 21:17:33--  http://www.mhrr.gov.ba/pdf/konvencija_bos.pdf%0D
+Resolving www.mhrr.gov.ba (www.mhrr.gov.ba)... 80.65.67.68
+Connecting to www.mhrr.gov.ba (www.mhrr.gov.ba)|80.65.67.68|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:17:33 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:24:42--  http://www.mhrr.gov.ba/pdf/konvencija_bos.pdf%0D
+Resolving www.mhrr.gov.ba (www.mhrr.gov.ba)... 80.65.67.68
+Connecting to www.mhrr.gov.ba (www.mhrr.gov.ba)|80.65.67.68|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:24:42 ERROR 500: Internal Server Error.
+

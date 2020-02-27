@@ -1,0 +1,12 @@
+--2020-02-25 21:47:52--  http://husky.cx/pdfs/AGB_Vermietung.pdf%0D
+Resolving husky.cx (husky.cx)... --2020-02-25 21:47:52--  http://husky.cx/pdfs/AGB_Vermietung.pdf%0D
+Resolving husky.cx (husky.cx)... 84.246.121.69
+Connecting to husky.cx (husky.cx)|84.246.121.69|:80... 84.246.121.69
+Connecting to husky.cx (husky.cx)|84.246.121.69|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:47:53 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 21:47:53 ERROR 404: Not Found.
+

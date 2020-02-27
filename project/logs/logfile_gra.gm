@@ -1,0 +1,12 @@
+--2020-02-25 22:28:41--  https://gra.gm/assets/forms/returns/CGT-RETURN.pdf%0D
+Resolving gra.gm (gra.gm)... --2020-02-25 22:28:41--  https://gra.gm/assets/forms/returns/CGT-RETURN.pdf%0D
+Resolving gra.gm (gra.gm)... 66.96.144.190
+Connecting to gra.gm (gra.gm)|66.96.144.190|:443... connected.
+66.96.144.190
+Connecting to gra.gm (gra.gm)|66.96.144.190|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘gra.gm’.
+To connect to gra.gm insecurely, use `--no-check-certificate'.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘gra.gm’.
+To connect to gra.gm insecurely, use `--no-check-certificate'.

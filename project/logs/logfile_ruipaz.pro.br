@@ -1,0 +1,12 @@
+--2020-02-25 21:21:26--  http://ruipaz.pro.br/textos_pos/introducao_pensamentocomplexo.pdf%0D
+Resolving ruipaz.pro.br (ruipaz.pro.br)... 169.57.129.238
+Connecting to ruipaz.pro.br (ruipaz.pro.br)|169.57.129.238|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:27 ERROR 404: Not Found.
+
+--2020-02-25 21:27:11--  http://ruipaz.pro.br/textos_pos/introducao_pensamentocomplexo.pdf%0D
+Resolving ruipaz.pro.br (ruipaz.pro.br)... 169.57.129.238
+Connecting to ruipaz.pro.br (ruipaz.pro.br)|169.57.129.238|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:11 ERROR 404: Not Found.
+

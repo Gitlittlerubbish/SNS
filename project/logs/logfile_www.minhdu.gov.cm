@@ -1,0 +1,12 @@
+--2020-02-25 21:35:38--  http://www.minhdu.gov.cm/documents/loi_2010_020_21dec2010.pdf%0D
+Resolving www.minhdu.gov.cm (www.minhdu.gov.cm)... 197.159.2.130
+Connecting to www.minhdu.gov.cm (www.minhdu.gov.cm)|197.159.2.130|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:39 ERROR 404: Not Found.
+
+--2020-02-25 21:37:35--  http://www.minhdu.gov.cm/documents/loi_2010_020_21dec2010.pdf%0D
+Resolving www.minhdu.gov.cm (www.minhdu.gov.cm)... 197.159.2.130
+Connecting to www.minhdu.gov.cm (www.minhdu.gov.cm)|197.159.2.130|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:35 ERROR 404: Not Found.
+

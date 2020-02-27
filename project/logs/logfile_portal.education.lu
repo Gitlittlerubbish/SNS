@@ -1,0 +1,6 @@
+--2020-02-25 23:26:38--  https://portal.education.lu/Portals/18/secondaire_que_faire.pdf%0D
+Resolving portal.education.lu (portal.education.lu)... 158.64.75.15
+Connecting to portal.education.lu (portal.education.lu)|158.64.75.15|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:26:38 ERROR 400: Bad Request.
+

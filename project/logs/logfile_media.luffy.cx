@@ -1,0 +1,12 @@
+--2020-02-25 21:48:03--  https://media.luffy.cx/files/zabbix.pdf%0D
+Resolving media.luffy.cx (media.luffy.cx)... 116.203.18.48, 95.216.162.158
+Connecting to media.luffy.cx (media.luffy.cx)|116.203.18.48|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 21:48:03--  https://media.luffy.cx/files/zabbix.pdf%0D
+Resolving media.luffy.cx (media.luffy.cx)... 116.203.18.48, 95.216.162.158
+Connecting to media.luffy.cx (media.luffy.cx)|116.203.18.48|:443... 404 Not Found
+2020-02-25 21:48:03 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:48:03 ERROR 404: Not Found.
+

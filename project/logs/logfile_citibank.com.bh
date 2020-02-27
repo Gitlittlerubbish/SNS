@@ -1,0 +1,22 @@
+--2020-02-25 21:03:17--  http://citibank.com.bh/bahrain/bhgcb/pdf/sch_a.pdf%0D
+Resolving citibank.com.bh (citibank.com.bh)... 192.193.218.130, 192.193.102.175
+Connecting to citibank.com.bh (citibank.com.bh)|192.193.218.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.citibank.com/bahrain/bhgcb/pdf/sch_a.pdf%0d [following]
+--2020-02-25 21:03:17--  https://www.citibank.com/bahrain/bhgcb/pdf/sch_a.pdf%0d
+Resolving www.citibank.com (www.citibank.com)... 2.22.137.78
+Connecting to www.citibank.com (www.citibank.com)|2.22.137.78|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:17 ERROR 404: Not Found.
+
+--2020-02-25 21:14:31--  http://citibank.com.bh/bahrain/bhgcb/pdf/sch_a.pdf%0D
+Resolving citibank.com.bh (citibank.com.bh)... 192.193.102.175, 192.193.218.130
+Connecting to citibank.com.bh (citibank.com.bh)|192.193.102.175|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.citibank.com/bahrain/bhgcb/pdf/sch_a.pdf%0d [following]
+--2020-02-25 21:14:32--  https://www.citibank.com/bahrain/bhgcb/pdf/sch_a.pdf%0d
+Resolving www.citibank.com (www.citibank.com)... 2.22.137.78
+Connecting to www.citibank.com (www.citibank.com)|2.22.137.78|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:32 ERROR 404: Not Found.
+

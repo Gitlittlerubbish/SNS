@@ -1,0 +1,12 @@
+--2020-02-25 21:26:09--  http://www.ipa.gov.bn/Downloads/Shift_in_Mindset_Mona%2520Kassim_FINAL.pdf%0D
+Resolving www.ipa.gov.bn (www.ipa.gov.bn)... 103.4.188.86
+Connecting to www.ipa.gov.bn (www.ipa.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:10 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:24--  http://www.ipa.gov.bn/Downloads/Shift_in_Mindset_Mona%2520Kassim_FINAL.pdf%0D
+Resolving www.ipa.gov.bn (www.ipa.gov.bn)... 103.4.188.86
+Connecting to www.ipa.gov.bn (www.ipa.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:25 ERROR 400: Bad Request.
+

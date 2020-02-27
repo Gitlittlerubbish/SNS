@@ -1,0 +1,32 @@
+--2020-02-26 00:01:37--  https://trip.com.na/pdf/Terms_and_Conditions.pdf%0D
+Resolving trip.com.na (trip.com.na)... 154.0.162.107
+Connecting to trip.com.na (trip.com.na)|154.0.162.107|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://trip.com.na [following]
+--2020-02-26 00:01:39--  http://trip.com.na/
+Connecting to trip.com.na (trip.com.na)|154.0.162.107|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  853K
+    50K .......... .......... .......... .......... ........    821K=1.0s
+
+2020-02-26 00:01:40 (837 Kb/s) - ‘/dev/null’ saved [100473]
+
+--2020-02-26 00:01:40--  https://trip.com.na/pdf/Terms_and_Conditions.pdf%0D
+Resolving trip.com.na (trip.com.na)... 154.0.162.107
+Connecting to trip.com.na (trip.com.na)|154.0.162.107|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://trip.com.na [following]
+--2020-02-26 00:01:42--  http://trip.com.na/
+Connecting to trip.com.na (trip.com.na)|154.0.162.107|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  831K
+    50K .......... .......... .......... .......... ........   1.20M=0.8s
+
+2020-02-26 00:01:43 (978 Kb/s) - ‘/dev/null’ saved [100473]
+

@@ -1,0 +1,88 @@
+--2020-02-25 21:04:05--  http://scim.ag/Nocera%0D
+Resolving scim.ag (scim.ag)... 67.199.248.13, 67.199.248.12
+Connecting to scim.ag (scim.ag)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-02-25 21:04:05--  http://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Resolving www.sciencemag.org (www.sciencemag.org)... 52.52.73.120, 54.176.125.70
+Connecting to www.sciencemag.org (www.sciencemag.org)|52.52.73.120|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-02-25 21:04:06--  https://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Connecting to www.sciencemag.org (www.sciencemag.org)|52.52.73.120|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-02-25 21:04:06--  http://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Resolving science.sciencemag.org (science.sciencemag.org)... 104.16.72.12, 104.16.73.12, 104.16.74.12, ...
+Connecting to science.sciencemag.org (science.sciencemag.org)|104.16.72.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-02-25 21:04:06--  https://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Connecting to science.sciencemag.org (science.sciencemag.org)|104.16.72.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://science.sciencemag.org/content/sci/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-02-25 21:04:06--  https://science.sciencemag.org/content/sci/early/2011/10/04/science.1209816.full.pdf
+Reusing existing connection to science.sciencemag.org:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://science.sciencemag.org/content/early/2011/10/04/science.1209816 [following]
+--2020-02-25 21:04:07--  https://science.sciencemag.org/content/early/2011/10/04/science.1209816
+Reusing existing connection to science.sciencemag.org:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://science.sciencemag.org/content/334/6056/645 [following]
+--2020-02-25 21:04:07--  https://science.sciencemag.org/content/334/6056/645
+Reusing existing connection to science.sciencemag.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 204575 (200K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 34.6M 0s
+    50K .......... .......... .......... .......... .......... 50% 41.2M 0s
+   100K .......... .......... .......... .......... .......... 75% 38.1M 0s
+   150K .......... .......... .......... .......... ......... 100% 28.2M=0.05s
+
+2020-02-25 21:04:08 (34.8 Mb/s) - ‘/dev/null’ saved [204575/204575]
+
+--2020-02-25 21:04:08--  http://scim.ag/Nocera%0D
+Resolving scim.ag (scim.ag)... 67.199.248.13, 67.199.248.12
+Connecting to scim.ag (scim.ag)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-02-25 21:04:08--  http://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Resolving www.sciencemag.org (www.sciencemag.org)... 54.176.125.70, 52.52.73.120
+Connecting to www.sciencemag.org (www.sciencemag.org)|54.176.125.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-02-25 21:04:08--  https://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Connecting to www.sciencemag.org (www.sciencemag.org)|54.176.125.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-02-25 21:04:09--  http://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Resolving science.sciencemag.org (science.sciencemag.org)... 104.16.72.12, 104.16.73.12, 104.16.74.12, ...
+Connecting to science.sciencemag.org (science.sciencemag.org)|104.16.72.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-02-25 21:04:09--  https://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Connecting to science.sciencemag.org (science.sciencemag.org)|104.16.72.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://science.sciencemag.org/content/sci/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-02-25 21:04:09--  https://science.sciencemag.org/content/sci/early/2011/10/04/science.1209816.full.pdf
+Reusing existing connection to science.sciencemag.org:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://science.sciencemag.org/content/early/2011/10/04/science.1209816 [following]
+--2020-02-25 21:04:10--  https://science.sciencemag.org/content/early/2011/10/04/science.1209816
+Reusing existing connection to science.sciencemag.org:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://science.sciencemag.org/content/334/6056/645 [following]
+--2020-02-25 21:04:10--  https://science.sciencemag.org/content/334/6056/645
+Reusing existing connection to science.sciencemag.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 204589 (200K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 85.7M 0s
+    50K .......... .......... .......... .......... .......... 50% 86.6M 0s
+   100K .......... .......... .......... .......... .......... 75% 74.9M 0s
+   150K .......... .......... .......... .......... ......... 100% 83.5M=0.02s
+
+2020-02-25 21:04:11 (82.4 Mb/s) - ‘/dev/null’ saved [204589/204589]
+

@@ -1,0 +1,152 @@
+--2020-02-25 21:00:02--  https://test.erb.gv.at/go/wsse_spec%0D
+Resolving test.erb.gv.at (test.erb.gv.at)... 85.158.224.54
+Connecting to test.erb.gv.at (test.erb.gv.at)|85.158.224.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://test.erb.gv.at [following]
+--2020-02-25 21:00:02--  https://test.erb.gv.at/
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /erb [following]
+--2020-02-25 21:00:02--  https://test.erb.gv.at/erb
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                           3.97M=0.02s
+
+2020-02-25 21:00:02 (3.97 Mb/s) - ‘/dev/null’ saved [12058]
+
+--2020-02-25 21:00:02--  https://test.erb.gv.at/go/wsse_spec%0D
+Resolving test.erb.gv.at (test.erb.gv.at)... 85.158.224.54
+Connecting to test.erb.gv.at (test.erb.gv.at)|85.158.224.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://test.erb.gv.at [following]
+--2020-02-25 21:00:02--  https://test.erb.gv.at/
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /erb [following]
+--2020-02-25 21:00:02--  https://test.erb.gv.at/erb
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                           3.86M=0.03s
+
+2020-02-25 21:00:03 (3.86 Mb/s) - ‘/dev/null’ saved [12058]
+
+--2020-02-25 21:00:04--  https://test.erb.gv.at/go/wsse_spec%0D
+Resolving test.erb.gv.at (test.erb.gv.at)... 85.158.224.54
+Connecting to test.erb.gv.at (test.erb.gv.at)|85.158.224.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://test.erb.gv.at [following]
+--2020-02-25 21:00:04--  https://test.erb.gv.at/
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /erb [following]
+--2020-02-25 21:00:04--  https://test.erb.gv.at/erb
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                           3.93M=0.02s
+
+2020-02-25 21:00:04 (3.93 Mb/s) - ‘/dev/null’ saved [12058]
+
+--2020-02-25 21:00:04--  https://test.erb.gv.at/go/wsse_spec%0D
+Resolving test.erb.gv.at (test.erb.gv.at)... 85.158.224.54
+Connecting to test.erb.gv.at (test.erb.gv.at)|85.158.224.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://test.erb.gv.at [following]
+--2020-02-25 21:00:04--  https://test.erb.gv.at/
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /erb [following]
+--2020-02-25 21:00:04--  https://test.erb.gv.at/erb
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                           3.85M=0.03s
+
+2020-02-25 21:00:04 (3.85 Mb/s) - ‘/dev/null’ saved [12058]
+
+--2020-02-25 21:12:05--  https://test.erb.gv.at/go/wsse_spec%0D
+Resolving test.erb.gv.at (test.erb.gv.at)... 85.158.224.54
+Connecting to test.erb.gv.at (test.erb.gv.at)|85.158.224.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://test.erb.gv.at [following]
+--2020-02-25 21:12:05--  https://test.erb.gv.at/
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /erb [following]
+--2020-02-25 21:12:05--  https://test.erb.gv.at/erb
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                           3.86M=0.03s
+
+2020-02-25 21:12:05 (3.86 Mb/s) - ‘/dev/null’ saved [12058]
+
+--2020-02-25 21:12:05--  https://test.erb.gv.at/go/wsse_spec%0D
+Resolving test.erb.gv.at (test.erb.gv.at)... 85.158.224.54
+Connecting to test.erb.gv.at (test.erb.gv.at)|85.158.224.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://test.erb.gv.at [following]
+--2020-02-25 21:12:05--  https://test.erb.gv.at/
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /erb [following]
+--2020-02-25 21:12:05--  https://test.erb.gv.at/erb
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                           3.86M=0.02s
+
+2020-02-25 21:12:06 (3.86 Mb/s) - ‘/dev/null’ saved [12058]
+
+--2020-02-25 21:12:06--  https://test.erb.gv.at/go/wsse_spec%0D
+Resolving test.erb.gv.at (test.erb.gv.at)... 85.158.224.54
+Connecting to test.erb.gv.at (test.erb.gv.at)|85.158.224.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://test.erb.gv.at [following]
+--2020-02-25 21:12:06--  https://test.erb.gv.at/
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /erb [following]
+--2020-02-25 21:12:06--  https://test.erb.gv.at/erb
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                           3.95M=0.02s
+
+2020-02-25 21:12:07 (3.95 Mb/s) - ‘/dev/null’ saved [12058]
+
+--2020-02-25 21:12:07--  https://test.erb.gv.at/go/wsse_spec%0D
+Resolving test.erb.gv.at (test.erb.gv.at)... 85.158.224.54
+Connecting to test.erb.gv.at (test.erb.gv.at)|85.158.224.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://test.erb.gv.at [following]
+--2020-02-25 21:12:07--  https://test.erb.gv.at/
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /erb [following]
+--2020-02-25 21:12:07--  https://test.erb.gv.at/erb
+Reusing existing connection to test.erb.gv.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                           3.89M=0.02s
+
+2020-02-25 21:12:07 (3.89 Mb/s) - ‘/dev/null’ saved [12058]
+

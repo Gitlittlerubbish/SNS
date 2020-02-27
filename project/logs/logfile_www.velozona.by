@@ -1,0 +1,28 @@
+--2020-02-25 21:06:43--  http://www.velozona.by/rassrochka/PrimerDogovora.pdf%0D
+Resolving www.velozona.by (www.velozona.by)... 178.159.245.54
+Connecting to www.velozona.by (www.velozona.by)|178.159.245.54|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.velozona.by/rassrochka/PrimerDogovora.pdf%0d [following]
+--2020-02-25 21:06:44--  https://www.velozona.by/rassrochka/PrimerDogovora.pdf%0d
+Connecting to www.velozona.by (www.velozona.by)|178.159.245.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.velozona.by/404.php [following]
+--2020-02-25 21:06:44--  http://www.velozona.by/404.php
+Connecting to www.velozona.by (www.velozona.by)|178.159.245.54|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:06:45 ERROR 404: Not Found.
+
+--2020-02-25 21:16:57--  http://www.velozona.by/rassrochka/PrimerDogovora.pdf%0D
+Resolving www.velozona.by (www.velozona.by)... 178.159.245.54
+Connecting to www.velozona.by (www.velozona.by)|178.159.245.54|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.velozona.by/rassrochka/PrimerDogovora.pdf%0d [following]
+--2020-02-25 21:16:57--  https://www.velozona.by/rassrochka/PrimerDogovora.pdf%0d
+Connecting to www.velozona.by (www.velozona.by)|178.159.245.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.velozona.by/404.php [following]
+--2020-02-25 21:16:57--  http://www.velozona.by/404.php
+Connecting to www.velozona.by (www.velozona.by)|178.159.245.54|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:58 ERROR 404: Not Found.
+

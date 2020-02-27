@@ -1,0 +1,30 @@
+--2020-02-25 23:19:51--  https://www.alberta-koledza.lv/docs2/5a4d469d05669f228d43e3e652da0287.pdf%0D
+Resolving www.alberta-koledza.lv (www.alberta-koledza.lv)... 195.130.205.77
+Connecting to www.alberta-koledza.lv (www.alberta-koledza.lv)|195.130.205.77|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.alberta-koledza.lv [following]
+--2020-02-25 23:19:54--  https://www.alberta-koledza.lv/
+Reusing existing connection to www.alberta-koledza.lv:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31206 (30K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..........                      100% 2.17M=0.1s
+
+2020-02-25 23:19:54 (2.17 Mb/s) - ‘/dev/null’ saved [31206/31206]
+
+--2020-02-25 23:19:54--  https://www.alberta-koledza.lv/docs2/5a4d469d05669f228d43e3e652da0287.pdf%0D
+Resolving www.alberta-koledza.lv (www.alberta-koledza.lv)... 195.130.205.77
+Connecting to www.alberta-koledza.lv (www.alberta-koledza.lv)|195.130.205.77|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.alberta-koledza.lv [following]
+--2020-02-25 23:19:54--  https://www.alberta-koledza.lv/
+Reusing existing connection to www.alberta-koledza.lv:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31206 (30K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..........                      100% 6.66M=0.04s
+
+2020-02-25 23:19:55 (6.66 Mb/s) - ‘/dev/null’ saved [31206/31206]
+

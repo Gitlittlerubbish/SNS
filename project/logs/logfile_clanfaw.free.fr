@@ -1,0 +1,64 @@
+--2020-02-25 22:22:54--  http://clanfaw.free.fr/1108081057.pdf%0D
+Resolving clanfaw.free.fr (clanfaw.free.fr)... 212.27.63.114
+Connecting to clanfaw.free.fr (clanfaw.free.fr)|212.27.63.114|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.musicologie.org [following]
+--2020-02-25 22:22:54--  http://www.musicologie.org/
+Resolving www.musicologie.org (www.musicologie.org)... --2020-02-25 22:22:54--  http://clanfaw.free.fr/1108081057.pdf%0D
+Resolving clanfaw.free.fr (clanfaw.free.fr)... 212.27.63.114
+Connecting to clanfaw.free.fr (clanfaw.free.fr)|212.27.63.114|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.musicologie.org [following]
+--2020-02-25 22:22:54--  http://www.musicologie.org/
+Resolving www.musicologie.org (www.musicologie.org)... 62.210.16.61
+Connecting to www.musicologie.org (www.musicologie.org)|62.210.16.61|:80... 62.210.16.61
+Connecting to www.musicologie.org (www.musicologie.org)|62.210.16.61|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29693 (29K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...200 OK
+Length: 29693 (29K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ........                        100% 28.4M=0.008s
+
+2020-02-25 22:22:55 (28.4 Mb/s) - ‘/dev/null’ saved [29693/29693]
+
+--2020-02-25 22:22:55--  http://clanfaw.free.fr/1108081057.pdf%0D
+Resolving clanfaw.free.fr (clanfaw.free.fr)... ....... ........                        100% 21.9M=0.01s
+
+2020-02-25 22:22:55 (21.9 Mb/s) - ‘/dev/null’ saved [29693/29693]
+
+212.27.63.114
+Connecting to clanfaw.free.fr (clanfaw.free.fr)|212.27.63.114|:80... --2020-02-25 22:22:55--  http://clanfaw.free.fr/1108081057.pdf%0D
+Resolving clanfaw.free.fr (clanfaw.free.fr)... 212.27.63.114
+Connecting to clanfaw.free.fr (clanfaw.free.fr)|212.27.63.114|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.musicologie.org [following]
+--2020-02-25 22:22:55--  http://www.musicologie.org/
+Resolving www.musicologie.org (www.musicologie.org)... 62.210.16.61
+Connecting to www.musicologie.org (www.musicologie.org)|62.210.16.61|:80... 302 Found
+Location: http://www.musicologie.org [following]
+--2020-02-25 22:22:55--  http://www.musicologie.org/
+Resolving www.musicologie.org (www.musicologie.org)... 62.210.16.61
+Connecting to www.musicologie.org (www.musicologie.org)|62.210.16.61|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29693 (29K) [text/html]
+Saving to: ‘/dev/null’
+200 OK
+Length: 29693 (29K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...
+     0K .......... .......... ............... ........                        100% 29.3M=0.008s
+
+2020-02-25 22:22:55 (29.3 Mb/s) - ‘/dev/null’ saved [29693/29693]
+
+                        100% 30.5M=0.008s
+
+2020-02-25 22:22:55 (30.5 Mb/s) - ‘/dev/null’ saved [29693/29693]
+

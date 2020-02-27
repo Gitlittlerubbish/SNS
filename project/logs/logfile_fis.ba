@@ -1,0 +1,112 @@
+--2020-02-25 21:17:41--  https://fis.ba/media/cjenik-frizerski.pdf%0D
+Resolving fis.ba (fis.ba)... 172.104.225.146
+Connecting to fis.ba (fis.ba)|172.104.225.146|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://fis.ba [following]
+--2020-02-25 21:17:41--  http://fis.ba/
+Connecting to fis.ba (fis.ba)|172.104.225.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://fis.ba/ [following]
+--2020-02-25 21:17:41--  https://fis.ba/
+Connecting to fis.ba (fis.ba)|172.104.225.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 474515 (463K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 36.2M 0s
+    50K .......... .......... .......... .......... .......... 21% 36.0M 0s
+   100K .......... .......... .......... .......... .......... 32% 6.14G 0s
+   150K .......... .......... .......... .......... .......... 43% 7.08G 0s
+   200K .......... .......... .......... .......... .......... 53% 35.7M 0s
+   250K .......... .......... .......... .......... .......... 64% 4.44G 0s
+   300K .......... .......... .......... .......... .......... 75% 3.47G 0s
+   350K .......... .......... .......... .......... .......... 86% 4.34G 0s
+   400K .......... .......... .......... .......... .......... 97% 37.9M 0s
+   450K .......... ...                                        100% 13.4G=0.05s
+
+2020-02-25 21:17:41 (83.5 Mb/s) - ‘/dev/null’ saved [474515/474515]
+
+--2020-02-25 21:17:41--  https://fis.ba/media/cjenik-frizerski.pdf%0D
+Resolving fis.ba (fis.ba)... 172.104.225.146
+Connecting to fis.ba (fis.ba)|172.104.225.146|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://fis.ba [following]
+--2020-02-25 21:17:41--  http://fis.ba/
+Connecting to fis.ba (fis.ba)|172.104.225.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://fis.ba/ [following]
+--2020-02-25 21:17:41--  https://fis.ba/
+Connecting to fis.ba (fis.ba)|172.104.225.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 474515 (463K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 28.4M 0s
+    50K .......... .......... .......... .......... .......... 21% 28.9M 0s
+   100K .......... .......... .......... .......... .......... 32% 2.99G 0s
+   150K .......... .......... .......... .......... .......... 43% 6.92G 0s
+   200K .......... .......... .......... .......... .......... 53% 28.2M 0s
+   250K .......... .......... .......... .......... .......... 64% 5.30G 0s
+   300K .......... .......... .......... .......... .......... 75% 5.68G 0s
+   350K .......... .......... .......... .......... .......... 86% 5.18G 0s
+   400K .......... .......... .......... .......... .......... 97% 29.2M 0s
+   450K .......... ...                                        100% 13.1G=0.06s
+
+2020-02-25 21:17:41 (65.9 Mb/s) - ‘/dev/null’ saved [474515/474515]
+
+--2020-02-25 21:24:46--  https://fis.ba/media/cjenik-frizerski.pdf%0D
+Resolving fis.ba (fis.ba)... 172.104.225.146
+Connecting to fis.ba (fis.ba)|172.104.225.146|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://fis.ba [following]
+--2020-02-25 21:24:46--  http://fis.ba/
+Connecting to fis.ba (fis.ba)|172.104.225.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://fis.ba/ [following]
+--2020-02-25 21:24:47--  https://fis.ba/
+Connecting to fis.ba (fis.ba)|172.104.225.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 474515 (463K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 36.9M 0s
+    50K .......... .......... .......... .......... .......... 21% 35.6M 0s
+   100K .......... .......... .......... .......... .......... 32% 5.43G 0s
+   150K .......... .......... .......... .......... .......... 43% 5.10G 0s
+   200K .......... .......... .......... .......... .......... 53% 36.6M 0s
+   250K .......... .......... .......... .......... .......... 64% 3.70G 0s
+   300K .......... .......... .......... .......... .......... 75% 6.81G 0s
+   350K .......... .......... .......... .......... .......... 86% 5.72G 0s
+   400K .......... .......... .......... .......... .......... 97% 37.2M 0s
+   450K .......... ...                                        100% 11.8G=0.05s
+
+2020-02-25 21:24:47 (84.0 Mb/s) - ‘/dev/null’ saved [474515/474515]
+
+--2020-02-25 21:24:47--  https://fis.ba/media/cjenik-frizerski.pdf%0D
+Resolving fis.ba (fis.ba)... 172.104.225.146
+Connecting to fis.ba (fis.ba)|172.104.225.146|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://fis.ba [following]
+--2020-02-25 21:24:47--  http://fis.ba/
+Connecting to fis.ba (fis.ba)|172.104.225.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://fis.ba/ [following]
+--2020-02-25 21:24:47--  https://fis.ba/
+Connecting to fis.ba (fis.ba)|172.104.225.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 474515 (463K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 36.7M 0s
+    50K .......... .......... .......... .......... .......... 21% 36.3M 0s
+   100K .......... .......... .......... .......... .......... 32% 2.32G 0s
+   150K .......... .......... .......... .......... .......... 43% 4.41G 0s
+   200K .......... .......... .......... .......... .......... 53% 37.8M 0s
+   250K .......... .......... .......... .......... .......... 64% 2.65G 0s
+   300K .......... .......... .......... .......... .......... 75% 7.27G 0s
+   350K .......... .......... .......... .......... .......... 86% 36.8M 0s
+   400K .......... .......... .......... .......... .......... 97% 5.23G 0s
+   450K .......... ...                                        100% 18.4G=0.04s
+
+2020-02-25 21:24:47 (84.4 Mb/s) - ‘/dev/null’ saved [474515/474515]
+

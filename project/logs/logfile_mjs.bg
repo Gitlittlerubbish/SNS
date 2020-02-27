@@ -1,0 +1,12 @@
+--2020-02-25 21:27:14--  https://mjs.bg/Files/Vatreshni_pravila_635495009979119759.pdf%0D
+Resolving mjs.bg (mjs.bg)... 212.122.186.115
+Connecting to mjs.bg (mjs.bg)|212.122.186.115|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:27:14 ERROR 400: Bad Request.
+
+--2020-02-25 21:32:24--  https://mjs.bg/Files/Vatreshni_pravila_635495009979119759.pdf%0D
+Resolving mjs.bg (mjs.bg)... 212.122.186.115
+Connecting to mjs.bg (mjs.bg)|212.122.186.115|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:32:24 ERROR 400: Bad Request.
+

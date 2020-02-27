@@ -1,0 +1,6 @@
+--2020-02-26 00:21:37--  http://storhytta.no/barnehavre_printer.pdf%0D
+Resolving storhytta.no (storhytta.no)... 77.111.240.170
+Connecting to storhytta.no (storhytta.no)|77.111.240.170|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:21:37 ERROR 404: Not Found.
+

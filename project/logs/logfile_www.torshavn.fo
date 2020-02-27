@@ -1,0 +1,12 @@
+--2020-02-25 22:19:23--  https://www.torshavn.fo/get.file%3FID%3D219%0D
+--2020-02-25 22:19:23--  https://www.torshavn.fo/get.file%3FID%3D219%0D
+Resolving www.torshavn.fo (www.torshavn.fo)... Resolving www.torshavn.fo (www.torshavn.fo)... 212.55.50.101
+Connecting to www.torshavn.fo (www.torshavn.fo)|212.55.50.101|:443... 212.55.50.101
+Connecting to www.torshavn.fo (www.torshavn.fo)|212.55.50.101|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:23 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:19:23 ERROR 400: Bad Request.
+

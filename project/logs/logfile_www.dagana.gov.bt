@@ -1,0 +1,12 @@
+--2020-02-25 21:13:28--  http://www.dagana.gov.bt/counter/direct_download/634%0D
+Resolving www.dagana.gov.bt (www.dagana.gov.bt)... 43.230.208.9
+Connecting to www.dagana.gov.bt (www.dagana.gov.bt)|43.230.208.9|:80... connected.
+HTTP request sent, awaiting response... 500 500 Service unavailable (with message)
+2020-02-25 21:13:30 ERROR 500: 500 Service unavailable (with message).
+
+--2020-02-25 21:21:44--  http://www.dagana.gov.bt/counter/direct_download/634%0D
+Resolving www.dagana.gov.bt (www.dagana.gov.bt)... 43.230.208.9
+Connecting to www.dagana.gov.bt (www.dagana.gov.bt)|43.230.208.9|:80... connected.
+HTTP request sent, awaiting response... 500 500 Service unavailable (with message)
+2020-02-25 21:21:44 ERROR 500: 500 Service unavailable (with message).
+

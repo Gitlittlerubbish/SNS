@@ -1,0 +1,6 @@
+--2020-02-26 00:27:25--  https://superseguros.gob.pa/images/files/consulta/ACUERDO_DE_NOTAS_T%25C3%2589CNICAS.pdf%0D
+Resolving superseguros.gob.pa (superseguros.gob.pa)... 200.46.125.179
+Connecting to superseguros.gob.pa (superseguros.gob.pa)|200.46.125.179|:443... connected.
+ERROR: cannot verify superseguros.gob.pa's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to superseguros.gob.pa insecurely, use `--no-check-certificate'.

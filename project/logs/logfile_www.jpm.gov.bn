@@ -1,0 +1,12 @@
+--2020-02-25 21:26:46--  http://www.jpm.gov.bn/Circulars%2520PDF%2520Library/jpmsk12-2000.pdf%0D
+Resolving www.jpm.gov.bn (www.jpm.gov.bn)... 103.4.188.86
+Connecting to www.jpm.gov.bn (www.jpm.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:46 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:57--  http://www.jpm.gov.bn/Circulars%2520PDF%2520Library/jpmsk12-2000.pdf%0D
+Resolving www.jpm.gov.bn (www.jpm.gov.bn)... 103.4.188.86
+Connecting to www.jpm.gov.bn (www.jpm.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:57 ERROR 400: Bad Request.
+

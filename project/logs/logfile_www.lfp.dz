@@ -1,32 +1,6 @@
---2020-02-25 15:40:05--  http://www.lfp.dz/uploads/files/document/fichier_document_Liste_des_interdictions_2017.pdf
+--2020-02-25 20:59:46--  http://www.lfp.dz/uploads/files/document/fichier_document_Liste_des_interdictions_2017.pdf%0D
 Resolving www.lfp.dz (www.lfp.dz)... 51.91.104.141
 Connecting to www.lfp.dz (www.lfp.dz)|51.91.104.141|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 258484 (252K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 19% 8.21M 0s
-    50K .......... .......... .......... .......... .......... 39% 6.98M 0s
-   100K .......... .......... .......... .......... .......... 59% 9.60M 0s
-   150K .......... .......... .......... .......... .......... 79% 9.95M 0s
-   200K .......... .......... .......... .......... .......... 99% 16.8M 0s
-   250K ..                                                    100%  152M=0.2s
-
-2020-02-25 15:40:05 (9.53 Mb/s) - ‘/dev/null’ saved [258484/258484]
-
---2020-02-25 15:40:05--  http://www.lfp.dz/uploads/files/document/fichier_document_Liste_des_interdictions_2017.pdf
-Resolving www.lfp.dz (www.lfp.dz)... 51.91.104.141
-Connecting to www.lfp.dz (www.lfp.dz)|51.91.104.141|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 258484 (252K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 19% 17.3M 0s
-    50K .......... .......... .......... .......... .......... 39% 10.7M 0s
-   100K .......... .......... .......... .......... .......... 59% 14.9M 0s
-   150K .......... .......... .......... .......... .......... 79% 12.2M 0s
-   200K .......... .......... .......... .......... .......... 99% 14.2M 0s
-   250K ..                                                    100%  138M=0.2s
-
-2020-02-25 15:40:06 (13.6 Mb/s) - ‘/dev/null’ saved [258484/258484]
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:46 ERROR 404: Not Found.
 

@@ -1,0 +1,6 @@
+--2020-02-25 21:04:03--  https://rlm.ag/2heTgK%0D
+Resolving rlm.ag (rlm.ag)... 209.18.65.221
+Connecting to rlm.ag (rlm.ag)|209.18.65.221|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:04:04 ERROR 400: Bad Request.
+

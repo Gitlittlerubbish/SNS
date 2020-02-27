@@ -1,0 +1,12 @@
+--2020-02-25 21:25:21--  http://paradox.vg/issues/03.pdf%0D
+Resolving paradox.vg (paradox.vg)... 74.208.236.252
+Connecting to paradox.vg (paradox.vg)|74.208.236.252|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:22 ERROR 400: Bad Request.
+
+--2020-02-25 21:30:44--  http://paradox.vg/issues/03.pdf%0D
+Resolving paradox.vg (paradox.vg)... 74.208.236.252
+Connecting to paradox.vg (paradox.vg)|74.208.236.252|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:30:44 ERROR 400: Bad Request.
+

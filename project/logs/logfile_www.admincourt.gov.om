@@ -1,0 +1,6 @@
+--2020-02-26 00:23:07--  http://www.admincourt.gov.om/pdf/muhammad2.pdf%0D
+Resolving www.admincourt.gov.om (www.admincourt.gov.om)... 212.72.1.236
+Connecting to www.admincourt.gov.om (www.admincourt.gov.om)|212.72.1.236|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:23:07 ERROR 400: Bad Request.
+

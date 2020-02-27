@@ -1,0 +1,6 @@
+--2020-02-26 00:22:54--  http://www.hsl.om/files/download/59a32f948c439bf%0D
+Resolving www.hsl.om (www.hsl.om)... 212.72.1.235
+Connecting to www.hsl.om (www.hsl.om)|212.72.1.235|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:54 ERROR 400: Bad Request.
+

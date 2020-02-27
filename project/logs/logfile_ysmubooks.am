@@ -1,0 +1,12 @@
+--2020-02-25 20:54:01--  https://ysmubooks.am/uploads/gastroenterology.pdf%0D
+Resolving ysmubooks.am (ysmubooks.am)... 104.28.2.163, 104.28.3.163
+Connecting to ysmubooks.am (ysmubooks.am)|104.28.2.163|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:02 ERROR 404: Not Found.
+
+--2020-02-25 21:07:06--  https://ysmubooks.am/uploads/gastroenterology.pdf%0D
+Resolving ysmubooks.am (ysmubooks.am)... 104.28.3.163, 104.28.2.163
+Connecting to ysmubooks.am (ysmubooks.am)|104.28.3.163|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:07 ERROR 404: Not Found.
+

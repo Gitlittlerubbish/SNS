@@ -1,0 +1,12 @@
+--2020-02-25 21:59:46--  https://www.sifca.ci/pdf/rapports_annuels/ra-sifca-2017.pdf%0D
+Resolving www.sifca.ci (www.sifca.ci)... 213.186.33.17
+Connecting to www.sifca.ci (www.sifca.ci)|213.186.33.17|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:59:46 ERROR 403: Forbidden.
+
+--2020-02-25 21:59:48--  https://www.sifca.ci/pdf/rapports_annuels/ra-sifca-2017.pdf%0D
+Resolving www.sifca.ci (www.sifca.ci)... 213.186.33.17
+Connecting to www.sifca.ci (www.sifca.ci)|213.186.33.17|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:59:48 ERROR 403: Forbidden.
+

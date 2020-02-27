@@ -1,0 +1,12 @@
+--2020-02-25 21:25:56--  https://www.telbru.com.bn/media/pdf/NationwideWiFi_Service_TermsOfUse.pdf%0D
+Resolving www.telbru.com.bn (www.telbru.com.bn)... 202.160.6.1
+Connecting to www.telbru.com.bn (www.telbru.com.bn)|202.160.6.1|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:57 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:14--  https://www.telbru.com.bn/media/pdf/NationwideWiFi_Service_TermsOfUse.pdf%0D
+Resolving www.telbru.com.bn (www.telbru.com.bn)... 202.160.6.1
+Connecting to www.telbru.com.bn (www.telbru.com.bn)|202.160.6.1|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:15 ERROR 400: Bad Request.
+

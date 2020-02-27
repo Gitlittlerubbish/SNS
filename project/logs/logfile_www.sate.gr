@@ -1,0 +1,12 @@
+--2020-02-25 22:35:07--  http://www.sate.gr/nea/OOSA_17012019.pdf%0D
+Resolving www.sate.gr (www.sate.gr)... 62.1.160.154
+Connecting to www.sate.gr (www.sate.gr)|62.1.160.154|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:35:07 ERROR 400: Bad Request.
+
+--2020-02-25 22:35:08--  http://www.sate.gr/nea/OOSA_17012019.pdf%0D
+Resolving www.sate.gr (www.sate.gr)... 62.1.160.154
+Connecting to www.sate.gr (www.sate.gr)|62.1.160.154|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:35:09 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:32:11--  https://trainee.enacol.cv/anuncio.pdf%0D
+Resolving trainee.enacol.cv (trainee.enacol.cv)... 41.221.195.68
+Connecting to trainee.enacol.cv (trainee.enacol.cv)|41.221.195.68|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:32:12 ERROR 403: Forbidden.
+
+--2020-02-25 21:35:16--  https://trainee.enacol.cv/anuncio.pdf%0D
+Resolving trainee.enacol.cv (trainee.enacol.cv)... 41.221.195.68
+Connecting to trainee.enacol.cv (trainee.enacol.cv)|41.221.195.68|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:35:16 ERROR 403: Forbidden.
+

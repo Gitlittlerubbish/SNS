@@ -1,0 +1,6 @@
+--2020-02-25 22:55:07--  http://www.kanoon.ir/FileRepository/PdfLessonPlan/13920920P9261i2889.pdf%0D
+Resolving www.kanoon.ir (www.kanoon.ir)... 79.175.165.153
+Connecting to www.kanoon.ir (www.kanoon.ir)|79.175.165.153|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:55:08 ERROR 400: Bad Request.
+

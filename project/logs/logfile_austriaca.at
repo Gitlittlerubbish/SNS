@@ -1,0 +1,56 @@
+--2020-02-25 20:59:25--  https://austriaca.at/0xc1aa500e_0x0036a3ed.pdf%0D
+Resolving austriaca.at (austriaca.at)... 193.170.85.118
+Connecting to austriaca.at (austriaca.at)|193.170.85.118|:443... connected.
+HTTP request sent, awaiting response... 200 Ok
+Length: 596 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.50G=0s
+
+2020-02-25 20:59:25 (1.50 Gb/s) - ‘/dev/null’ saved [596/596]
+
+--2020-02-25 20:59:25--  https://austriaca.at/0xc1aa500e_0x0036a3ed.pdf%0D
+Resolving austriaca.at (austriaca.at)... 193.170.85.118
+Connecting to austriaca.at (austriaca.at)|193.170.85.118|:443... connected.
+HTTP request sent, awaiting response... 200 Ok
+Length: 596 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.53G=0s
+
+2020-02-25 20:59:25 (1.53 Gb/s) - ‘/dev/null’ saved [596/596]
+
+--2020-02-25 21:00:02--  http://austriaca.at/0xc1aa5576%25200x002c7e6e.pdf%0D
+Resolving austriaca.at (austriaca.at)... 193.170.85.118
+Connecting to austriaca.at (austriaca.at)|193.170.85.118|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:02 ERROR 404: Not Found.
+
+--2020-02-25 21:11:34--  https://austriaca.at/0xc1aa500e_0x0036a3ed.pdf%0D
+Resolving austriaca.at (austriaca.at)... 193.170.85.118
+Connecting to austriaca.at (austriaca.at)|193.170.85.118|:443... connected.
+HTTP request sent, awaiting response... 200 Ok
+Length: 596 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.81G=0s
+
+2020-02-25 21:11:34 (1.81 Gb/s) - ‘/dev/null’ saved [596/596]
+
+--2020-02-25 21:11:34--  https://austriaca.at/0xc1aa500e_0x0036a3ed.pdf%0D
+Resolving austriaca.at (austriaca.at)... 193.170.85.118
+Connecting to austriaca.at (austriaca.at)|193.170.85.118|:443... connected.
+HTTP request sent, awaiting response... 200 Ok
+Length: 596 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.78G=0s
+
+2020-02-25 21:11:34 (1.78 Gb/s) - ‘/dev/null’ saved [596/596]
+
+--2020-02-25 21:12:05--  http://austriaca.at/0xc1aa5576%25200x002c7e6e.pdf%0D
+Resolving austriaca.at (austriaca.at)... 193.170.85.118
+Connecting to austriaca.at (austriaca.at)|193.170.85.118|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:05 ERROR 404: Not Found.
+

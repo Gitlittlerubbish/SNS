@@ -1,0 +1,12 @@
+--2020-02-25 21:37:04--  https://www.gpscentral.ca/manuals/Cardo_packtalkBold_Manual.pdf%0D
+Resolving www.gpscentral.ca (www.gpscentral.ca)... 64.71.164.107
+Connecting to www.gpscentral.ca (www.gpscentral.ca)|64.71.164.107|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:04 ERROR 404: Not Found.
+
+--2020-02-25 21:38:42--  https://www.gpscentral.ca/manuals/Cardo_packtalkBold_Manual.pdf%0D
+Resolving www.gpscentral.ca (www.gpscentral.ca)... 64.71.164.107
+Connecting to www.gpscentral.ca (www.gpscentral.ca)|64.71.164.107|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:43 ERROR 404: Not Found.
+

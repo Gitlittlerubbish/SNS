@@ -1,0 +1,12 @@
+--2020-02-25 22:01:01--  http://www.hpd.hr/repo/PREZENTACIJA_Prirodauzivo_Portada_SLADILA_sijecanj_2016.pdf%0D
+Resolving www.hpd.hr (www.hpd.hr)... 213.191.128.17
+Connecting to www.hpd.hr (www.hpd.hr)|213.191.128.17|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:01:01 ERROR 404: Not Found.
+
+--2020-02-25 22:01:02--  http://www.hpd.hr/repo/PREZENTACIJA_Prirodauzivo_Portada_SLADILA_sijecanj_2016.pdf%0D
+Resolving www.hpd.hr (www.hpd.hr)... 213.191.128.17
+Connecting to www.hpd.hr (www.hpd.hr)|213.191.128.17|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:01:02 ERROR 404: Not Found.
+

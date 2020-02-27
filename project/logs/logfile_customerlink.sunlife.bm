@@ -1,0 +1,20 @@
+--2020-02-25 21:11:12--  https://customerlink.sunlife.bm/legal_info.pdf%0D
+Resolving customerlink.sunlife.bm (customerlink.sunlife.bm)... 23.14.193.102
+Connecting to customerlink.sunlife.bm (customerlink.sunlife.bm)|23.14.193.102|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://customerlink.sunlife.bm/open/login/cldown.html?SMERROR=00-0002 [following]
+--2020-02-25 21:11:14--  https://customerlink.sunlife.bm/open/login/cldown.html?SMERROR=00-0002
+Reusing existing connection to customerlink.sunlife.bm:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:16 ERROR 404: Not Found.
+
+--2020-02-25 21:20:08--  https://customerlink.sunlife.bm/legal_info.pdf%0D
+Resolving customerlink.sunlife.bm (customerlink.sunlife.bm)... 23.14.193.102
+Connecting to customerlink.sunlife.bm (customerlink.sunlife.bm)|23.14.193.102|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://customerlink.sunlife.bm/open/login/cldown.html?SMERROR=00-0002 [following]
+--2020-02-25 21:20:10--  https://customerlink.sunlife.bm/open/login/cldown.html?SMERROR=00-0002
+Reusing existing connection to customerlink.sunlife.bm:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:10 ERROR 404: Not Found.
+

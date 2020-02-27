@@ -1,0 +1,12 @@
+--2020-02-25 21:59:38--  http://drhmeasfp.ci/inclusion_de_fichiers/stagelonguedure.pdf%0D
+Resolving drhmeasfp.ci (drhmeasfp.ci)... 195.114.19.218
+Connecting to drhmeasfp.ci (drhmeasfp.ci)|195.114.19.218|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:59:38 ERROR 404: Not Found.
+
+--2020-02-25 21:59:42--  http://drhmeasfp.ci/inclusion_de_fichiers/stagelonguedure.pdf%0D
+Resolving drhmeasfp.ci (drhmeasfp.ci)... 195.114.19.218
+Connecting to drhmeasfp.ci (drhmeasfp.ci)|195.114.19.218|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:59:42 ERROR 404: Not Found.
+

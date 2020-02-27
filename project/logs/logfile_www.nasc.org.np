@@ -1,0 +1,12 @@
+--2020-02-26 00:03:00--  http://www.nasc.org.np/file/80/download%3Ftoken%3Diu2XTmpK%0D
+Resolving www.nasc.org.np (www.nasc.org.np)... 202.45.146.120
+Connecting to www.nasc.org.np (www.nasc.org.np)|202.45.146.120|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:03:02 ERROR 403: Forbidden.
+
+--2020-02-26 00:03:02--  http://www.nasc.org.np/file/83/download%3Ftoken%3DUibYQW40%0D
+Resolving www.nasc.org.np (www.nasc.org.np)... 202.45.146.120
+Connecting to www.nasc.org.np (www.nasc.org.np)|202.45.146.120|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:03:03 ERROR 403: Forbidden.
+

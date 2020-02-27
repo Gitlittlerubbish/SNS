@@ -1,0 +1,12 @@
+--2020-02-25 22:38:39--  http://www.isc.gg/media/1105/our-classes.pdf%0D
+Resolving www.isc.gg (www.isc.gg)... 52.19.103.121
+Connecting to www.isc.gg (www.isc.gg)|52.19.103.121|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:39 ERROR 400: Bad Request.
+
+--2020-02-25 22:38:39--  http://www.isc.gg/media/1105/our-classes.pdf%0D
+Resolving www.isc.gg (www.isc.gg)... 52.19.103.121
+Connecting to www.isc.gg (www.isc.gg)|52.19.103.121|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:39 ERROR 400: Bad Request.
+

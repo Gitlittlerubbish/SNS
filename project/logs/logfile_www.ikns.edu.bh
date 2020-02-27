@@ -1,0 +1,12 @@
+--2020-02-25 21:02:46--  https://www.ikns.edu.bh/pdf/TeacherHandbook.pdf%0D
+Resolving www.ikns.edu.bh (www.ikns.edu.bh)... 50.87.147.94
+Connecting to www.ikns.edu.bh (www.ikns.edu.bh)|50.87.147.94|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:02:47 ERROR 404: Not Found.
+
+--2020-02-25 21:14:07--  https://www.ikns.edu.bh/pdf/TeacherHandbook.pdf%0D
+Resolving www.ikns.edu.bh (www.ikns.edu.bh)... 50.87.147.94
+Connecting to www.ikns.edu.bh (www.ikns.edu.bh)|50.87.147.94|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:07 ERROR 404: Not Found.
+

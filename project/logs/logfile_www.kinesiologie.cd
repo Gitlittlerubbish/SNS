@@ -1,0 +1,12 @@
+--2020-02-25 21:55:02--  http://www.kinesiologie.cd/vitalstoffe.pdf%0D
+Resolving www.kinesiologie.cd (www.kinesiologie.cd)... --2020-02-25 21:55:02--  http://www.kinesiologie.cd/vitalstoffe.pdf%0D
+Resolving www.kinesiologie.cd (www.kinesiologie.cd)... 91.233.85.28
+Connecting to www.kinesiologie.cd (www.kinesiologie.cd)|91.233.85.28|:80... connected.
+HTTP request sent, awaiting response... 91.233.85.28
+Connecting to www.kinesiologie.cd (www.kinesiologie.cd)|91.233.85.28|:80... 404 Not Found
+2020-02-25 21:55:02 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:55:03 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 21:01:39--  http://www.unitelestrelasaopalco.co.ao/Content/Regras.pdf%0D
+Resolving www.unitelestrelasaopalco.co.ao (www.unitelestrelasaopalco.co.ao)... 40.118.100.127
+Connecting to www.unitelestrelasaopalco.co.ao (www.unitelestrelasaopalco.co.ao)|40.118.100.127|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:39 ERROR 400: Bad Request.
+

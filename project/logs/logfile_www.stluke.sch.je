@@ -1,0 +1,6 @@
+--2020-02-25 23:05:14--  https://www.stluke.sch.je/attachments/download.asp%3Ffile%3D424%26type%3Dpdf%0D
+Resolving www.stluke.sch.je (www.stluke.sch.je)... 145.239.254.176, 145.239.254.175
+Connecting to www.stluke.sch.je (www.stluke.sch.je)|145.239.254.176|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:15 ERROR 400: Bad Request.
+

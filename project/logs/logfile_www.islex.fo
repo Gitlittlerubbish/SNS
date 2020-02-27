@@ -1,0 +1,12 @@
+--2020-02-25 22:19:30--  http://www.islex.fo/greinar/GreinISLEX.pdf%0D
+Resolving www.islex.fo (www.islex.fo)... --2020-02-25 22:19:30--  http://www.islex.fo/greinar/GreinISLEX.pdf%0D
+Resolving www.islex.fo (www.islex.fo)... 130.208.165.108
+Connecting to www.islex.fo (www.islex.fo)|130.208.165.108|:80... 130.208.165.108
+Connecting to www.islex.fo (www.islex.fo)|130.208.165.108|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:19:30 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:19:30 ERROR 404: Not Found.
+

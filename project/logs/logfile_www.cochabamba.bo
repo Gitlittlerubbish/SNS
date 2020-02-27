@@ -1,0 +1,12 @@
+--2020-02-25 21:15:10--  https://www.cochabamba.bo/documentos/reglamento_municipal_residuos_solidos.pdf%0D
+Resolving www.cochabamba.bo (www.cochabamba.bo)... 200.58.77.90
+Connecting to www.cochabamba.bo (www.cochabamba.bo)|200.58.77.90|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:11 ERROR 404: Not Found.
+
+--2020-02-25 21:22:50--  https://www.cochabamba.bo/documentos/reglamento_municipal_residuos_solidos.pdf%0D
+Resolving www.cochabamba.bo (www.cochabamba.bo)... 200.58.77.90
+Connecting to www.cochabamba.bo (www.cochabamba.bo)|200.58.77.90|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:22:51 ERROR 404: Not Found.
+

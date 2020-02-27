@@ -1,0 +1,10 @@
+--2020-02-25 21:01:27--  http://www.siac.gv.ao/downloads/SIAC_Manual_de_Servicos.pdf%0D
+Resolving www.siac.gv.ao (www.siac.gv.ao)... 187.45.193.161
+Connecting to www.siac.gv.ao (www.siac.gv.ao)|187.45.193.161|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.siac.gv.ao/pt/downloads/SIAC_Manual_de_Servicos.pdf [following]
+--2020-02-25 21:01:29--  http://www.siac.gv.ao/pt/downloads/SIAC_Manual_de_Servicos.pdf
+Connecting to www.siac.gv.ao (www.siac.gv.ao)|187.45.193.161|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:30 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:00:15--  https://www.apre.it/media/323407/come_compilare_wizard_v7.pdf%0D
+Resolving www.apre.it (www.apre.it)... 95.110.202.106
+Connecting to www.apre.it (www.apre.it)|95.110.202.106|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:15 ERROR 400: Bad Request.
+

@@ -1,0 +1,22 @@
+--2020-02-26 00:23:47--  https://www.nbo.om/en/Download%2520Documents/NBO_Badeel_prepaid_card_terms_conditions.pdf%0D
+Resolving www.nbo.om (www.nbo.om)... 46.40.225.6, 212.72.21.23
+Connecting to www.nbo.om (www.nbo.om)|46.40.225.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 71.2M=0s
+
+2020-02-26 00:23:49 (71.2 Mb/s) - ‘/dev/null’ saved [188/188]
+
+--2020-02-26 00:23:49--  https://www.nbo.om/en/Download%2520Documents/NBO_Badeel_prepaid_card_terms_conditions.pdf%0D
+Resolving www.nbo.om (www.nbo.om)... 212.72.21.23, 46.40.225.6
+Connecting to www.nbo.om (www.nbo.om)|212.72.21.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 68.6M=0s
+
+2020-02-26 00:23:49 (68.6 Mb/s) - ‘/dev/null’ saved [188/188]
+

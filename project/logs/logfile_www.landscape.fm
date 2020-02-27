@@ -1,0 +1,6 @@
+--2020-02-25 23:49:21--  https://www.landscape.fm/s/SF_Instruct.pdf%0D
+Resolving www.landscape.fm (www.landscape.fm)... 198.49.23.144, 198.185.159.145, 198.185.159.144, ...
+Connecting to www.landscape.fm (www.landscape.fm)|198.49.23.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:49:22 ERROR 404: Not Found.
+

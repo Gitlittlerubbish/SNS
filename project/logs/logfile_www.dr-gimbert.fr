@@ -1,0 +1,108 @@
+--2020-02-25 22:22:53--  http://www.dr-gimbert.fr/formations/dextro%0D
+Resolving www.dr-gimbert.fr (www.dr-gimbert.fr)... --2020-02-25 22:22:53--  http://www.dr-gimbert.fr/formations/dextro%0D
+Resolving www.dr-gimbert.fr (www.dr-gimbert.fr)... 212.227.247.112
+Connecting to www.dr-gimbert.fr (www.dr-gimbert.fr)|212.227.247.112|:80... 212.227.247.112
+Connecting to www.dr-gimbert.fr (www.dr-gimbert.fr)|212.227.247.112|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://dr-gimbert.fr/formations/dextro [following]
+--2020-02-25 22:22:53--  http://dr-gimbert.fr/formations/dextro
+Resolving dr-gimbert.fr (dr-gimbert.fr)... 212.227.247.112
+Reusing existing connection to www.dr-gimbert.fr:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 590720 (577K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 14.8M 0s
+    50K .......... .......... .......... .......... .......... 17% 40.2M 0s
+   100K .......... .......... .......... .......... .......... 26% 42.7M 0s
+   150K .......... .......... .......... .......... .......... 34% 68.4M 0s
+   200K .......... .......... .......... .......... .......... 43% 92.0M 0s
+   250K .......... .......... .......... .......... .......... 52%  123M 0s
+   300K .......... .......... .......... .......... .......... 60%  143M 0s
+   350K .......... .......... .......... .......... .......... 69%  116M 0s
+   400K .......... .......... .......... .......... .......... 78%  170M 0s
+   450K .......... .......... .......... .......... .......... 86%  252M 0s
+   500K .......... .......... .......... .......... .......... 95%  197M 0s
+   550K .......... .......... ......                          100%  255M=0.07s
+
+2020-02-25 22:22:53 (63.3 Mb/s) - ‘/dev/null’ saved [590720/590720]
+
+--2020-02-25 22:22:53--  http://www.dr-gimbert.fr/formations/dextro%0D
+Resolving www.dr-gimbert.fr (www.dr-gimbert.fr)... 212.227.247.112
+Connecting to www.dr-gimbert.fr (www.dr-gimbert.fr)|212.227.247.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://dr-gimbert.fr/formations/dextro [following]
+--2020-02-25 22:22:53--  http://dr-gimbert.fr/formations/dextro
+Resolving dr-gimbert.fr (dr-gimbert.fr)... 212.227.247.112
+Reusing existing connection to www.dr-gimbert.fr:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 590720 (577K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 15.1M 0s
+    50K .......... .......... .......... .......... .......... 17% 47.0M 0s
+   100K .......... .......... .......... .......... .......... 26% 36.9M 0s
+   150K .......... .......... .......... .......... .......... 34% 74.9M 0s
+   200K .......... .......... .......... .......... .......... 43% 95.6M 0s
+   250K .......... .......... .......... .......... .......... 52%  141M 0s
+   300K .......... .......... .......... .......... .......... 60%  140M 0s
+   350K .......... .......... .......... .......... .......... 69%  119M 0s
+   400K .......... .......... .......... .......... .......... 78%  139M 0s
+   450K .......... .......... .......... .......... .......... 86%  241M 0s
+   500K .......... .......... .......... .......... .......... 95%  202M 0s
+   550K .......... .......... ......                          100%  232M=0.07s
+
+2020-02-25 22:22:54 (64.2 Mb/s) - ‘/dev/null’ saved [590720/590720]
+
+--2020-02-25 22:22:54--  http://www.dr-gimbert.fr/formations/dextro%0D
+Resolving www.dr-gimbert.fr (www.dr-gimbert.fr)... 212.227.247.112
+Connecting to www.dr-gimbert.fr (www.dr-gimbert.fr)|212.227.247.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://dr-gimbert.fr/formations/dextro [following]
+--2020-02-25 22:22:54--  http://dr-gimbert.fr/formations/dextro
+Resolving dr-gimbert.fr (dr-gimbert.fr)... 212.227.247.112
+Reusing existing connection to www.dr-gimbert.fr:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 590720 (577K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 14.3M 0s
+    50K .......... .......... .......... .......... .......... 17% 40.5M 0s
+   100K .......... .......... .......... .......... .......... 26% 42.1M 0s
+   150K .......... .......... .......... .......... .......... 34% 60.5M 0s
+   200K .......... .......... .......... .......... .......... 43% 94.4M 0s
+   250K .......... .......... .......... .......... .......... 52%  129M 0s
+   300K .......... .......... .......... .......... .......... 60%  147M 0s
+   350K .......... .......... .......... .......... .......... 69%  114M 0s
+   400K .......... .......... .......... .......... .......... 78%  148M 0s
+   450K .......... .......... .......... .......... .......... 86%  229M 0s
+   500K .......... .......... .......... .......... .......... 95%  209M 0s
+   550K .......... .......... ......                          100%  201M=0.08s
+
+2020-02-25 22:22:54 (61.6 Mb/s) - ‘/dev/null’ saved [590720/590720]
+
+301 Moved Permanently
+Location: http://dr-gimbert.fr/formations/dextro [following]
+--2020-02-25 22:22:54--  http://dr-gimbert.fr/formations/dextro
+Resolving dr-gimbert.fr (dr-gimbert.fr)... 212.227.247.112
+Reusing existing connection to www.dr-gimbert.fr:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 590720 (577K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 14.2M 0s
+    50K .......... .......... .......... .......... .......... 17% 29.0M 0s
+   100K .......... .......... .......... .......... .......... 26% 49.8M 0s
+   150K .......... .......... .......... .......... .......... 34% 67.3M 0s
+   200K .......... .......... .......... .......... .......... 43% 89.5M 0s
+   250K .......... .......... .......... .......... .......... 52%  121M 0s
+   300K .......... .......... .......... .......... .......... 60%  150M 0s
+   350K .......... .......... .......... .......... .......... 69%  128M 0s
+   400K .......... .......... .......... .......... .......... 78%  150M 0s
+   450K .......... .......... .......... .......... .......... 86%  209M 0s
+   500K .......... .......... .......... .......... .......... 95%  200M 0s
+   550K .......... .......... ......                          100%  216M=0.08s
+
+2020-02-25 22:22:54 (59.9 Mb/s) - ‘/dev/null’ saved [590720/590720]
+

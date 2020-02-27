@@ -1,0 +1,12 @@
+--2020-02-25 21:38:21--  http://www.thegrove.ky/s/TheGrove_Brochure_V18-WEB.pdf%0D
+Resolving www.thegrove.ky (www.thegrove.ky)... 198.49.23.145, 198.185.159.144, 198.185.159.145, ...
+Connecting to www.thegrove.ky (www.thegrove.ky)|198.49.23.145|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:21 ERROR 404: Not Found.
+
+--2020-02-25 21:39:38--  http://www.thegrove.ky/s/TheGrove_Brochure_V18-WEB.pdf%0D
+Resolving www.thegrove.ky (www.thegrove.ky)... 198.49.23.144, 198.49.23.145, 198.185.159.144, ...
+Connecting to www.thegrove.ky (www.thegrove.ky)|198.49.23.144|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:39:38 ERROR 404: Not Found.
+

@@ -1,0 +1,102 @@
+--2020-02-25 21:01:33--  https://cablela.bs/2ssupid%0D
+Resolving cablela.bs (cablela.bs)... 67.199.248.12, 67.199.248.13
+Connecting to cablela.bs (cablela.bs)|67.199.248.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_CERTIFIED_Vantage_Field_Trial_Highlights.pdf&utm_content=108977418&utm_medium=social&utm_source=twitter&hss_channel=tw-253269500 [following]
+--2020-02-25 21:01:33--  https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_CERTIFIED_Vantage_Field_Trial_Highlights.pdf&utm_content=108977418&utm_medium=social&utm_source=twitter&hss_channel=tw-253269500
+Resolving www.wi-fi.org (www.wi-fi.org)... 205.149.128.94
+Connecting to www.wi-fi.org (www.wi-fi.org)|205.149.128.94|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215673 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.07M 1s
+    50K .......... .......... .......... .......... .......... 47% 4.20M 0s
+   100K .......... .......... .......... .......... .......... 71% 89.5M 0s
+   150K .......... .......... .......... .......... .......... 94% 4.32M 0s
+   200K ..........                                            100%  323M=0.4s
+
+2020-02-25 21:01:34 (4.37 Mb/s) - ‘/dev/null’ saved [215673/215673]
+
+--2020-02-25 21:01:34--  https://cablela.bs/2ssupid%0D
+Resolving cablela.bs (cablela.bs)... 67.199.248.12, 67.199.248.13
+Connecting to cablela.bs (cablela.bs)|67.199.248.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_CERTIFIED_Vantage_Field_Trial_Highlights.pdf&utm_content=108977418&utm_medium=social&utm_source=twitter&hss_channel=tw-253269500 [following]
+--2020-02-25 21:01:34--  https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_CERTIFIED_Vantage_Field_Trial_Highlights.pdf&utm_content=108977418&utm_medium=social&utm_source=twitter&hss_channel=tw-253269500
+Resolving www.wi-fi.org (www.wi-fi.org)... 205.149.128.94
+Connecting to www.wi-fi.org (www.wi-fi.org)|205.149.128.94|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215673 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.08M 1s
+    50K .......... .......... .......... .......... .......... 47% 4.21M 0s
+   100K .......... .......... .......... .......... .......... 71% 94.9M 0s
+   150K .......... .......... .......... .......... .......... 94% 4.43M 0s
+   200K ..........                                            100%  136M=0.4s
+
+2020-02-25 21:01:35 (4.41 Mb/s) - ‘/dev/null’ saved [215673/215673]
+
+--2020-02-25 21:01:51--  https://cablela.bs/lte-wi-fi-aggregation%0D
+Resolving cablela.bs (cablela.bs)... 67.199.248.13, 67.199.248.12
+Connecting to cablela.bs (cablela.bs)|67.199.248.13|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://community.cablelabs.com/wiki/plugins/servlet/cablelabs/alfresco/download?id=fba7d80d-7e3f-4610-86b1-bed5aa19f42a [following]
+--2020-02-25 21:01:52--  https://community.cablelabs.com/wiki/plugins/servlet/cablelabs/alfresco/download?id=fba7d80d-7e3f-4610-86b1-bed5aa19f42a
+Resolving community.cablelabs.com (community.cablelabs.com)... 192.160.73.15
+Connecting to community.cablelabs.com (community.cablelabs.com)|192.160.73.15|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:13:03--  https://cablela.bs/2ssupid%0D
+Resolving cablela.bs (cablela.bs)... 67.199.248.12, 67.199.248.13
+Connecting to cablela.bs (cablela.bs)|67.199.248.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_CERTIFIED_Vantage_Field_Trial_Highlights.pdf&utm_content=108977418&utm_medium=social&utm_source=twitter&hss_channel=tw-253269500 [following]
+--2020-02-25 21:13:03--  https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_CERTIFIED_Vantage_Field_Trial_Highlights.pdf&utm_content=108977418&utm_medium=social&utm_source=twitter&hss_channel=tw-253269500
+Resolving www.wi-fi.org (www.wi-fi.org)... 205.149.128.94
+Connecting to www.wi-fi.org (www.wi-fi.org)|205.149.128.94|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215673 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.07M 1s
+    50K .......... .......... .......... .......... .......... 47% 4.24M 0s
+   100K .......... .......... .......... .......... .......... 71% 96.0M 0s
+   150K .......... .......... .......... .......... .......... 94% 4.46M 0s
+   200K ..........                                            100%  349M=0.4s
+
+2020-02-25 21:13:04 (4.41 Mb/s) - ‘/dev/null’ saved [215673/215673]
+
+--2020-02-25 21:13:04--  https://cablela.bs/2ssupid%0D
+Resolving cablela.bs (cablela.bs)... 67.199.248.12, 67.199.248.13
+Connecting to cablela.bs (cablela.bs)|67.199.248.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_CERTIFIED_Vantage_Field_Trial_Highlights.pdf&utm_content=108977418&utm_medium=social&utm_source=twitter&hss_channel=tw-253269500 [following]
+--2020-02-25 21:13:04--  https://www.wi-fi.org/download.php?file=/sites/default/files/private/Wi-Fi_CERTIFIED_Vantage_Field_Trial_Highlights.pdf&utm_content=108977418&utm_medium=social&utm_source=twitter&hss_channel=tw-253269500
+Resolving www.wi-fi.org (www.wi-fi.org)... 205.149.128.94
+Connecting to www.wi-fi.org (www.wi-fi.org)|205.149.128.94|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215673 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.07M 1s
+    50K .......... .......... .......... .......... .......... 47% 4.24M 0s
+   100K .......... .......... .......... .......... .......... 71% 92.2M 0s
+   150K .......... .......... .......... .......... .......... 94% 4.53M 0s
+   200K ..........                                            100% 47.8M=0.4s
+
+2020-02-25 21:13:05 (4.41 Mb/s) - ‘/dev/null’ saved [215673/215673]
+
+--2020-02-25 21:13:17--  https://cablela.bs/lte-wi-fi-aggregation%0D
+Resolving cablela.bs (cablela.bs)... 67.199.248.12, 67.199.248.13
+Connecting to cablela.bs (cablela.bs)|67.199.248.12|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://community.cablelabs.com/wiki/plugins/servlet/cablelabs/alfresco/download?id=fba7d80d-7e3f-4610-86b1-bed5aa19f42a [following]
+--2020-02-25 21:13:18--  https://community.cablelabs.com/wiki/plugins/servlet/cablelabs/alfresco/download?id=fba7d80d-7e3f-4610-86b1-bed5aa19f42a
+Resolving community.cablelabs.com (community.cablelabs.com)... 192.160.73.15
+Connecting to community.cablelabs.com (community.cablelabs.com)|192.160.73.15|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

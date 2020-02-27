@@ -1,0 +1,10 @@
+--2020-02-25 23:07:23--  http://bourabai.kz/articles/glazev5.pdf%0D
+Resolving bourabai.kz (bourabai.kz)... 185.98.6.190
+Connecting to bourabai.kz (bourabai.kz)|185.98.6.190|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://bourabai.kz/undercon.htm [following]
+--2020-02-25 23:07:23--  http://bourabai.kz/undercon.htm
+Reusing existing connection to bourabai.kz:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:07:24 ERROR 404: Not Found.
+

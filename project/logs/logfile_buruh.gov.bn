@@ -1,0 +1,12 @@
+--2020-02-25 21:26:11--  http://buruh.gov.bn/SiteAssets/Borang%2520Pengecualian_DHLv2.pdf%0D
+Resolving buruh.gov.bn (buruh.gov.bn)... 103.4.188.86
+Connecting to buruh.gov.bn (buruh.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:12 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:26--  http://buruh.gov.bn/SiteAssets/Borang%2520Pengecualian_DHLv2.pdf%0D
+Resolving buruh.gov.bn (buruh.gov.bn)... 103.4.188.86
+Connecting to buruh.gov.bn (buruh.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:27 ERROR 400: Bad Request.
+

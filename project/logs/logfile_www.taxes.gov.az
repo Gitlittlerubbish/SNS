@@ -1,0 +1,12 @@
+--2020-02-25 21:00:50--  https://www.taxes.gov.az/az/redirect/503%0D
+Resolving www.taxes.gov.az (www.taxes.gov.az)... 31.170.236.82
+Connecting to www.taxes.gov.az (www.taxes.gov.az)|31.170.236.82|:443... connected.
+ERROR: cannot verify www.taxes.gov.az's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.taxes.gov.az insecurely, use `--no-check-certificate'.
+--2020-02-25 21:12:34--  https://www.taxes.gov.az/az/redirect/503%0D
+Resolving www.taxes.gov.az (www.taxes.gov.az)... 31.170.236.82
+Connecting to www.taxes.gov.az (www.taxes.gov.az)|31.170.236.82|:443... connected.
+ERROR: cannot verify www.taxes.gov.az's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.taxes.gov.az insecurely, use `--no-check-certificate'.

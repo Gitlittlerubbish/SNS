@@ -1,0 +1,11 @@
+--2020-02-25 23:08:08--  http://www.unesco.kz/education/efa/dfa_rus.pdf%0D
+Resolving www.unesco.kz (www.unesco.kz)... 212.116.234.214
+Connecting to www.unesco.kz (www.unesco.kz)|212.116.234.214|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://old.unesco.kz/education/efa/dfa_rus.pdf%0D [following]
+--2020-02-25 23:08:09--  http://old.unesco.kz/education/efa/dfa_rus.pdf%0D
+Resolving old.unesco.kz (old.unesco.kz)... 212.116.234.214
+Reusing existing connection to www.unesco.kz:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:08:09 ERROR 404: Not Found.
+

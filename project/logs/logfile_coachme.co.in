@@ -1,0 +1,6 @@
+--2020-02-25 22:51:03--  https://coachme.co.in/DownloadDocuments/lone_pair.pdf%0D
+Resolving coachme.co.in (coachme.co.in)... 104.27.179.53, 104.27.178.53
+Connecting to coachme.co.in (coachme.co.in)|104.27.179.53|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:51:04 ERROR 400: Bad Request.
+

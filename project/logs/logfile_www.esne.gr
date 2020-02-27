@@ -1,0 +1,20 @@
+--2020-02-25 22:35:04--  https://www.esne.gr/images/NIOSH_2014.pdf%0D
+Resolving www.esne.gr (www.esne.gr)... 185.4.133.54
+Connecting to www.esne.gr (www.esne.gr)|185.4.133.54|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.esne.gr/index.php/el/images/NIOSH_2014.pdf [following]
+--2020-02-25 22:35:05--  https://www.esne.gr/index.php/el/images/NIOSH_2014.pdf
+Reusing existing connection to www.esne.gr:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:35:05 ERROR 404: Not Found.
+
+--2020-02-25 22:35:07--  https://www.esne.gr/images/NIOSH_2014.pdf%0D
+Resolving www.esne.gr (www.esne.gr)... 185.4.133.54
+Connecting to www.esne.gr (www.esne.gr)|185.4.133.54|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.esne.gr/index.php/el/images/NIOSH_2014.pdf [following]
+--2020-02-25 22:35:07--  https://www.esne.gr/index.php/el/images/NIOSH_2014.pdf
+Reusing existing connection to www.esne.gr:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:35:07 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:35:22--  http://www.mintss.gov.cm/arretes/Liste_des_tableaux_des_MPI_au_Cameroun.pdf%0D
+Resolving www.mintss.gov.cm (www.mintss.gov.cm)... 195.24.203.65
+Connecting to www.mintss.gov.cm (www.mintss.gov.cm)|195.24.203.65|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:35:23 ERROR 403: Forbidden.
+
+--2020-02-25 21:37:26--  http://www.mintss.gov.cm/arretes/Liste_des_tableaux_des_MPI_au_Cameroun.pdf%0D
+Resolving www.mintss.gov.cm (www.mintss.gov.cm)... 195.24.203.65
+Connecting to www.mintss.gov.cm (www.mintss.gov.cm)|195.24.203.65|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:37:27 ERROR 403: Forbidden.
+

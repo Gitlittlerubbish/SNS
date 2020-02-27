@@ -1,0 +1,12 @@
+--2020-02-26 00:26:23--  https://www.up.ac.pa/sites/default/files/transparencia/Memoria_Institucional12.pdf%0D
+Resolving www.up.ac.pa (www.up.ac.pa)... 201.226.239.103
+Connecting to www.up.ac.pa (www.up.ac.pa)|201.226.239.103|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:26:24 ERROR 404: Not Found.
+
+--2020-02-26 00:27:00--  https://www.up.ac.pa/sites/default/files/2018-12/EstatutoAprobado.pdf%0D
+Resolving www.up.ac.pa (www.up.ac.pa)... 201.226.239.103
+Connecting to www.up.ac.pa (www.up.ac.pa)|201.226.239.103|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:27:01 ERROR 404: Not Found.
+

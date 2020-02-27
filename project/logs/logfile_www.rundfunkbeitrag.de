@@ -1,0 +1,12 @@
+--2020-02-25 22:31:58--  https://www.rundfunkbeitrag.de/e175/e4794/Rundfunkbeitragsstaatsvertrag.pdf%0D
+Resolving www.rundfunkbeitrag.de (www.rundfunkbeitrag.de)... 83.169.51.106
+Connecting to www.rundfunkbeitrag.de (www.rundfunkbeitrag.de)|83.169.51.106|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:31:58 ERROR 400: Bad Request.
+
+--2020-02-25 22:31:58--  https://www.rundfunkbeitrag.de/e175/e4794/Rundfunkbeitragsstaatsvertrag.pdf%0D
+Resolving www.rundfunkbeitrag.de (www.rundfunkbeitrag.de)... 83.169.51.106
+Connecting to www.rundfunkbeitrag.de (www.rundfunkbeitrag.de)|83.169.51.106|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:31:58 ERROR 400: Bad Request.
+

@@ -1,0 +1,38 @@
+--2020-02-25 22:58:10--  https://www.aou.im/g/yb17%0D
+Resolving www.aou.im (www.aou.im)... 74.208.87.94
+Connecting to www.aou.im (www.aou.im)|74.208.87.94|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.aou.im/g [following]
+--2020-02-25 22:58:12--  http://www.aou.im/g
+Connecting to www.aou.im (www.aou.im)|74.208.87.94|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.aou.im/g/ [following]
+--2020-02-25 22:58:12--  http://www.aou.im/g/
+Reusing existing connection to www.aou.im:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2350 (2.3K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 4.66G=0s
+
+2020-02-25 22:58:12 (4.66 Gb/s) - ‘/dev/null’ saved [2350/2350]
+
+--2020-02-25 22:58:12--  https://www.aou.im/g/yb17%0D
+Resolving www.aou.im (www.aou.im)... 74.208.87.94
+Connecting to www.aou.im (www.aou.im)|74.208.87.94|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.aou.im/g [following]
+--2020-02-25 22:58:12--  http://www.aou.im/g
+Connecting to www.aou.im (www.aou.im)|74.208.87.94|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.aou.im/g/ [following]
+--2020-02-25 22:58:13--  http://www.aou.im/g/
+Reusing existing connection to www.aou.im:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2350 (2.3K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 4.05G=0s
+
+2020-02-25 22:58:13 (4.05 Gb/s) - ‘/dev/null’ saved [2350/2350]
+

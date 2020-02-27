@@ -1,0 +1,12 @@
+--2020-02-25 21:52:55--  http://www.banque-comores.km/DOCUMENTS/Note_de_conjoncture_2018.pdf%0D
+Resolving www.banque-comores.km (www.banque-comores.km)... --2020-02-25 21:52:56--  http://www.banque-comores.km/DOCUMENTS/Note_de_conjoncture_2018.pdf%0D
+Resolving www.banque-comores.km (www.banque-comores.km)... 128.65.195.96
+Connecting to www.banque-comores.km (www.banque-comores.km)|128.65.195.96|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:52:56 ERROR 404: Not Found.
+
+128.65.195.96
+Connecting to www.banque-comores.km (www.banque-comores.km)|128.65.195.96|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:52:56 ERROR 404: Not Found.
+

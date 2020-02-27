@@ -1,0 +1,6 @@
+--2020-02-25 23:26:48--  https://www.lunchtime.lu/glitter/pdf/events/7_nl.pdf%0D
+Resolving www.lunchtime.lu (www.lunchtime.lu)... 54.154.147.149, 52.18.241.245
+Connecting to www.lunchtime.lu (www.lunchtime.lu)|54.154.147.149|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:26:48 ERROR 400: Bad Request.
+

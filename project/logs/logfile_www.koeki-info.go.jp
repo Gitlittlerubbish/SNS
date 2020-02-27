@@ -1,0 +1,6 @@
+--2020-02-25 23:03:00--  https://www.koeki-info.go.jp/other/pdf/280115_kankoku.pdf%0D
+Resolving www.koeki-info.go.jp (www.koeki-info.go.jp)... 210.149.141.191
+Connecting to www.koeki-info.go.jp (www.koeki-info.go.jp)|210.149.141.191|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:03:01 ERROR 404: Not Found.
+

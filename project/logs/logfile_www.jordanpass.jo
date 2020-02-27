@@ -1,0 +1,12 @@
+--2020-02-25 23:05:27--  https://www.jordanpass.jo/Documents/adventure_covers.pdf%0D
+Resolving www.jordanpass.jo (www.jordanpass.jo)... 13.94.114.13
+Connecting to www.jordanpass.jo (www.jordanpass.jo)|13.94.114.13|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:27 ERROR 400: Bad Request.
+
+--2020-02-25 23:05:27--  https://www.jordanpass.jo/Documents/english_MICE.pdf%0D
+Resolving www.jordanpass.jo (www.jordanpass.jo)... 13.94.114.13
+Connecting to www.jordanpass.jo (www.jordanpass.jo)|13.94.114.13|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:27 ERROR 400: Bad Request.
+

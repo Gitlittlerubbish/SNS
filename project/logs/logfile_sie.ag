@@ -1,0 +1,100 @@
+--2020-02-25 21:03:51--  http://sie.ag/2xE1Bnm%0D
+Resolving sie.ag (sie.ag)... 67.199.248.12, 67.199.248.13
+Connecting to sie.ag (sie.ag)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.siemens.com/investor/pool/en/investor_relations/financial_publications/speeches_and_presentations/PR2017090442COEN.pdf [following]
+--2020-02-25 21:03:52--  https://www.siemens.com/investor/pool/en/investor_relations/financial_publications/speeches_and_presentations/PR2017090442COEN.pdf
+Resolving www.siemens.com (www.siemens.com)... 13.35.198.39, 13.35.198.44, 13.35.198.27, ...
+Connecting to www.siemens.com (www.siemens.com)|13.35.198.39|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184923 (181K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27%  210M 0s
+    50K .......... .......... .......... .......... .......... 55%  444M 0s
+   100K .......... .......... .......... .......... .......... 83%  750M 0s
+   150K .......... .......... ..........                      100% 1.12G=0.004s
+
+2020-02-25 21:03:52 (406 Mb/s) - ‘/dev/null’ saved [184923/184923]
+
+--2020-02-25 21:03:52--  http://sie.ag/2xE1Bnm%0D
+Resolving sie.ag (sie.ag)... 67.199.248.13, 67.199.248.12
+Connecting to sie.ag (sie.ag)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.siemens.com/investor/pool/en/investor_relations/financial_publications/speeches_and_presentations/PR2017090442COEN.pdf [following]
+--2020-02-25 21:03:53--  https://www.siemens.com/investor/pool/en/investor_relations/financial_publications/speeches_and_presentations/PR2017090442COEN.pdf
+Resolving www.siemens.com (www.siemens.com)... 13.35.198.27, 13.35.198.56, 13.35.198.39, ...
+Connecting to www.siemens.com (www.siemens.com)|13.35.198.27|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184923 (181K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27%  170M 0s
+    50K .......... .......... .......... .......... .......... 55%  447M 0s
+   100K .......... .......... .......... .......... .......... 83%  723M 0s
+   150K .......... .......... ..........                      100% 1.44G=0.004s
+
+2020-02-25 21:03:53 (364 Mb/s) - ‘/dev/null’ saved [184923/184923]
+
+--2020-02-25 21:03:53--  http://sie.ag/MindSphere_DevOpsGuide_PRC_ch%0D
+Resolving sie.ag (sie.ag)... 67.199.248.13, 67.199.248.12
+Connecting to sie.ag (sie.ag)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://siemens.mindsphere.io/content/dam/mindsphere/terms/pdf/MindSphere_DevOpsGuide_PRC_ch_v1.2.pdf [following]
+--2020-02-25 21:03:53--  https://siemens.mindsphere.io/content/dam/mindsphere/terms/pdf/MindSphere_DevOpsGuide_PRC_ch_v1.2.pdf
+Resolving siemens.mindsphere.io (siemens.mindsphere.io)... 35.168.155.200, 52.1.65.103
+Connecting to siemens.mindsphere.io (siemens.mindsphere.io)|35.168.155.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 797347 (779K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 2.20M 3s
+    50K .......... .......... .......... .......... .......... 12% 4.41M 2s
+   100K .......... .......... .......... .......... .......... 19%  390M 1s
+   150K .......... .......... .......... .......... .......... 25% 4.46M 1s
+   200K .......... .......... .......... .......... .......... 32%  297M 1s
+   250K .......... .......... .......... .......... .......... 38%  270M 1s
+   300K .......... .......... .......... .......... .......... 44%  248M 0s
+   350K .......... .......... .......... .......... .......... 51%  315M 0s
+   400K .......... .......... .......... .......... .......... 57% 4.70M 0s
+   450K .......... .......... .......... .......... .......... 64%  318M 0s
+   500K .......... .......... .......... .......... .......... 70%  351M 0s
+   550K .......... .......... .......... .......... .......... 77%  359M 0s
+   600K .......... .......... .......... .......... .......... 83%  410M 0s
+   650K .......... .......... .......... .......... .......... 89%  427M 0s
+   700K .......... .......... .......... .......... .......... 96%  443M 0s
+   750K .......... .......... ........                        100%  442M=0.5s
+
+2020-02-25 21:03:54 (13.5 Mb/s) - ‘/dev/null’ saved [797347/797347]
+
+--2020-02-25 21:03:54--  http://sie.ag/MindSphere_DevOpsGuide_PRC_ch%0D
+Resolving sie.ag (sie.ag)... 67.199.248.13, 67.199.248.12
+Connecting to sie.ag (sie.ag)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://siemens.mindsphere.io/content/dam/mindsphere/terms/pdf/MindSphere_DevOpsGuide_PRC_ch_v1.2.pdf [following]
+--2020-02-25 21:03:54--  https://siemens.mindsphere.io/content/dam/mindsphere/terms/pdf/MindSphere_DevOpsGuide_PRC_ch_v1.2.pdf
+Resolving siemens.mindsphere.io (siemens.mindsphere.io)... 35.168.155.200, 52.1.65.103
+Connecting to siemens.mindsphere.io (siemens.mindsphere.io)|35.168.155.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 797347 (779K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 2.75M 2s
+    50K .......... .......... .......... .......... .......... 12% 5.52M 2s
+   100K .......... .......... .......... .......... .......... 19%  180M 1s
+   150K .......... .......... .......... .......... .......... 25% 5.67M 1s
+   200K .......... .......... .......... .......... .......... 32%  475M 1s
+   250K .......... .......... .......... .......... .......... 38%  329M 0s
+   300K .......... .......... .......... .......... .......... 44%  300M 0s
+   350K .......... .......... .......... .......... .......... 51%  301M 0s
+   400K .......... .......... .......... .......... .......... 57% 5.86M 0s
+   450K .......... .......... .......... .......... .......... 64%  286M 0s
+   500K .......... .......... .......... .......... .......... 70%  300M 0s
+   550K .......... .......... .......... .......... .......... 77%  373M 0s
+   600K .......... .......... .......... .......... .......... 83%  319M 0s
+   650K .......... .......... .......... .......... .......... 89%  269M 0s
+   700K .......... .......... .......... .......... .......... 96%  358M 0s
+   750K .......... .......... ........                        100%  398M=0.4s
+
+2020-02-25 21:03:54 (16.7 Mb/s) - ‘/dev/null’ saved [797347/797347]
+

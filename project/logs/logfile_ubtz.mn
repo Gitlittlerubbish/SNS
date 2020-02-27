@@ -1,0 +1,38 @@
+--2020-02-25 23:52:39--  https://ubtz.mn/images/nfile/f79a359c437243d3c041287e9f5994408e988043.pdf%0D
+Resolving ubtz.mn (ubtz.mn)... 202.72.244.194
+Connecting to ubtz.mn (ubtz.mn)|202.72.244.194|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ubtz.mn [following]
+--2020-02-25 23:52:40--  https://ubtz.mn/
+Connecting to ubtz.mn (ubtz.mn)|202.72.244.194|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  680K
+    50K .......... .......... .......... .......... .......... 1.37M
+   100K .......... .......... .......... .......... .......... 99.0M
+   150K .......... .......... .......... .......... .......... 92.9M
+   200K .......... .......... .......... .......... .          1.16M=1.2s
+
+2020-02-25 23:52:43 (1.64 Mb/s) - ‘/dev/null’ saved [247374]
+
+--2020-02-25 23:52:43--  https://ubtz.mn/images/nfile/f79a359c437243d3c041287e9f5994408e988043.pdf%0D
+Resolving ubtz.mn (ubtz.mn)... 202.72.244.194
+Connecting to ubtz.mn (ubtz.mn)|202.72.244.194|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ubtz.mn [following]
+--2020-02-25 23:52:44--  https://ubtz.mn/
+Connecting to ubtz.mn (ubtz.mn)|202.72.244.194|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  744K
+    50K .......... .......... .......... .......... .......... 1.49M
+   100K .......... .......... .......... .......... .......... 95.8M
+   150K .......... .......... .......... .......... .......... 12.4M
+   200K .......... .......... .......... .......... .          1.43M=1.1s
+
+2020-02-25 23:52:46 (1.80 Mb/s) - ‘/dev/null’ saved [247374]
+

@@ -1,0 +1,15 @@
+--2020-02-25 23:26:37--  https://restaurants.pizzahut.lu/pdf/Recrutement_Rodange_D.pdf%0D
+Resolving restaurants.pizzahut.lu (restaurants.pizzahut.lu)... 145.239.198.207
+Connecting to restaurants.pizzahut.lu (restaurants.pizzahut.lu)|145.239.198.207|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://pizzahut.lu/pdf/PizzaHut-menu-2017-FR.pdf [following]
+--2020-02-25 23:26:37--  http://pizzahut.lu/pdf/PizzaHut-menu-2017-FR.pdf
+Resolving pizzahut.lu (pizzahut.lu)... 145.239.198.207
+Connecting to pizzahut.lu (pizzahut.lu)|145.239.198.207|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pizzahut.lu/pdf/PizzaHut-menu-2017-FR.pdf [following]
+--2020-02-25 23:26:37--  https://pizzahut.lu/pdf/PizzaHut-menu-2017-FR.pdf
+Connecting to pizzahut.lu (pizzahut.lu)|145.239.198.207|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:26:37 ERROR 404: Not Found.
+

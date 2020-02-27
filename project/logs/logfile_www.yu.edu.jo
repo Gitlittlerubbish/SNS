@@ -1,0 +1,6 @@
+--2020-02-25 23:05:55--  https://www.yu.edu.jo/images/docs/DEnew2018.pdf%0D
+Resolving www.yu.edu.jo (www.yu.edu.jo)... 87.236.233.10
+Connecting to www.yu.edu.jo (www.yu.edu.jo)|87.236.233.10|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:56 ERROR 400: Bad Request.
+

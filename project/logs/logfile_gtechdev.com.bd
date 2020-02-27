@@ -1,0 +1,20 @@
+--2020-02-25 21:03:49--  http://gtechdev.com.bd/csv/lrc.pdf%0D
+Resolving gtechdev.com.bd (gtechdev.com.bd)... 185.61.154.5
+Connecting to gtechdev.com.bd (gtechdev.com.bd)|185.61.154.5|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://gtechdev.com.bd/csv/lrc.pdf%0d [following]
+--2020-02-25 21:03:50--  https://gtechdev.com.bd/csv/lrc.pdf%0d
+Connecting to gtechdev.com.bd (gtechdev.com.bd)|185.61.154.5|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:52 ERROR 404: Not Found.
+
+--2020-02-25 21:14:53--  http://gtechdev.com.bd/csv/lrc.pdf%0D
+Resolving gtechdev.com.bd (gtechdev.com.bd)... 185.61.154.5
+Connecting to gtechdev.com.bd (gtechdev.com.bd)|185.61.154.5|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://gtechdev.com.bd/csv/lrc.pdf%0d [following]
+--2020-02-25 21:14:53--  https://gtechdev.com.bd/csv/lrc.pdf%0d
+Connecting to gtechdev.com.bd (gtechdev.com.bd)|185.61.154.5|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:54 ERROR 404: Not Found.
+

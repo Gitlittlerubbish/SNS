@@ -1,0 +1,12 @@
+--2020-02-25 21:36:59--  https://www.fieldstree.ca/s/hire_arborist.pdf%0D
+Resolving www.fieldstree.ca (www.fieldstree.ca)... 198.49.23.145, 198.185.159.144, 198.49.23.144, ...
+Connecting to www.fieldstree.ca (www.fieldstree.ca)|198.49.23.145|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:00 ERROR 404: Not Found.
+
+--2020-02-25 21:38:37--  https://www.fieldstree.ca/s/hire_arborist.pdf%0D
+Resolving www.fieldstree.ca (www.fieldstree.ca)... 198.185.159.145, 198.49.23.145, 198.185.159.144, ...
+Connecting to www.fieldstree.ca (www.fieldstree.ca)|198.185.159.145|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:38 ERROR 404: Not Found.
+

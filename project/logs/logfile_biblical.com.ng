@@ -1,0 +1,12 @@
+--2020-02-26 00:15:41--  https://biblical.com.ng/%3Fwpdmdl%3D422%0D
+Resolving biblical.com.ng (biblical.com.ng)... 198.54.125.250
+Connecting to biblical.com.ng (biblical.com.ng)|198.54.125.250|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-26 00:15:45--  https://biblical.com.ng/%3Fwpdmdl%3D760%0D
+Resolving biblical.com.ng (biblical.com.ng)... 198.54.125.250
+Connecting to biblical.com.ng (biblical.com.ng)|198.54.125.250|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:15:46 ERROR 404: Not Found.
+

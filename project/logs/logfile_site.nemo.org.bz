@@ -1,0 +1,12 @@
+--2020-02-25 21:08:40--  http://site.nemo.org.bz/wp-content/publications/Belize_Disaster_Preparedness_and_Response_Act.pdf%0D
+Resolving site.nemo.org.bz (site.nemo.org.bz)... 192.252.146.60
+Connecting to site.nemo.org.bz (site.nemo.org.bz)|192.252.146.60|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:08:40 ERROR 404: Not Found.
+
+--2020-02-25 21:18:24--  http://site.nemo.org.bz/wp-content/publications/Belize_Disaster_Preparedness_and_Response_Act.pdf%0D
+Resolving site.nemo.org.bz (site.nemo.org.bz)... 192.252.146.60
+Connecting to site.nemo.org.bz (site.nemo.org.bz)|192.252.146.60|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:25 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:11:38--  https://www.incometax.gov.eg/pdf/pand/tan-46-2015.pdf%0D
+Resolving www.incometax.gov.eg (www.incometax.gov.eg)... --2020-02-25 22:11:38--  https://www.incometax.gov.eg/pdf/pand/tan-46-2015.pdf%0D
+Resolving www.incometax.gov.eg (www.incometax.gov.eg)... 213.212.253.226
+Connecting to www.incometax.gov.eg (www.incometax.gov.eg)|213.212.253.226|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:39 ERROR 400: Bad Request.
+
+213.212.253.226
+Connecting to www.incometax.gov.eg (www.incometax.gov.eg)|213.212.253.226|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:39 ERROR 400: Bad Request.
+

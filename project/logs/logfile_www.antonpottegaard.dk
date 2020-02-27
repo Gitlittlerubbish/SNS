@@ -1,0 +1,12 @@
+--2020-02-25 22:06:37--  http://www.antonpottegaard.dk/publications/reviews/r11.pdf%0D
+Resolving www.antonpottegaard.dk (www.antonpottegaard.dk)... 46.30.215.140
+Connecting to www.antonpottegaard.dk (www.antonpottegaard.dk)|46.30.215.140|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:06:37 ERROR 404: Not Found.
+
+--2020-02-25 22:06:38--  http://www.antonpottegaard.dk/publications/reviews/r11.pdf%0D
+Resolving www.antonpottegaard.dk (www.antonpottegaard.dk)... 46.30.215.140
+Connecting to www.antonpottegaard.dk (www.antonpottegaard.dk)|46.30.215.140|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:06:38 ERROR 404: Not Found.
+

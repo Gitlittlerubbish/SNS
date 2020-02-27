@@ -1,0 +1,6 @@
+--2020-02-26 00:00:05--  http://www.mcm.org.mz/images/documentos/INCM.pdf%0D
+Resolving www.mcm.org.mz (www.mcm.org.mz)... 196.13.101.11
+Connecting to www.mcm.org.mz (www.mcm.org.mz)|196.13.101.11|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:00:06 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:25:15--  http://www.uob.edu.pk/QEC/HECMinimumQualityCr.pdf%0D
+Resolving www.uob.edu.pk (www.uob.edu.pk)... 121.52.157.105
+Connecting to www.uob.edu.pk (www.uob.edu.pk)|121.52.157.105|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:25:15 ERROR 400: Bad Request.
+

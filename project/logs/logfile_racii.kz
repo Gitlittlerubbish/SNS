@@ -1,0 +1,10 @@
+--2020-02-25 23:06:14--  https://racii.kz/docs/99123/%0D
+Resolving racii.kz (racii.kz)... 91.215.136.27
+Connecting to racii.kz (racii.kz)|91.215.136.27|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://racii.kz/404/ [following]
+--2020-02-25 23:06:15--  http://racii.kz/404/
+Connecting to racii.kz (racii.kz)|91.215.136.27|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 23:06:15 ERROR 403: Forbidden.
+

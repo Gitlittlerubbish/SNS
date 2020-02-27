@@ -1,0 +1,12 @@
+--2020-02-25 22:23:13--  http://www.chu-rouen.fr/crnmba/conseils_alimentation.pdf%0D
+Resolving www.chu-rouen.fr (www.chu-rouen.fr)... --2020-02-25 22:23:13--  http://www.chu-rouen.fr/crnmba/conseils_alimentation.pdf%0D
+Resolving www.chu-rouen.fr (www.chu-rouen.fr)... 194.57.9.15
+Connecting to www.chu-rouen.fr (www.chu-rouen.fr)|194.57.9.15|:80... connected.
+HTTP request sent, awaiting response... 194.57.9.15
+Connecting to www.chu-rouen.fr (www.chu-rouen.fr)|194.57.9.15|:80... 404 Not Found
+2020-02-25 22:23:13 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:13 ERROR 404: Not Found.
+

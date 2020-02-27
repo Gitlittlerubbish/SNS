@@ -1,0 +1,12 @@
+--2020-02-25 20:56:50--  https://mosaicprojects.com.au/WhitePapers/WP1061_PTA.pdf%0D
+Resolving mosaicprojects.com.au (mosaicprojects.com.au)... 103.27.33.137
+Connecting to mosaicprojects.com.au (mosaicprojects.com.au)|103.27.33.137|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:56:53 ERROR 404: Not Found.
+
+--2020-02-25 21:09:23--  https://mosaicprojects.com.au/WhitePapers/WP1061_PTA.pdf%0D
+Resolving mosaicprojects.com.au (mosaicprojects.com.au)... 103.27.33.137
+Connecting to mosaicprojects.com.au (mosaicprojects.com.au)|103.27.33.137|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:25 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:12:42--  http://www.smartcity.or.kr/upload/ac34d9c3_ca0c1b92.pdf%0D
+Resolving www.smartcity.or.kr (www.smartcity.or.kr)... 121.78.158.87
+Connecting to www.smartcity.or.kr (www.smartcity.or.kr)|121.78.158.87|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:12:44 ERROR 400: Bad Request.
+

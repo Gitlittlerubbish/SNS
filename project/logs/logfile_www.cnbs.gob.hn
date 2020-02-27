@@ -1,0 +1,6 @@
+--2020-02-25 22:44:12--  https://www.cnbs.gob.hn/files/superbancos/fatca/FATCAXMLSchemav2-0UserGuide.pdf%0D
+Resolving www.cnbs.gob.hn (www.cnbs.gob.hn)... 201.190.14.132
+Connecting to www.cnbs.gob.hn (www.cnbs.gob.hn)|201.190.14.132|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:44:14 ERROR 404: Not Found.
+

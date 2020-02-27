@@ -1,0 +1,40 @@
+--2020-02-26 00:36:29--  https://solucionespracticas.org.pe/Descargar/561/5086%0D
+Resolving solucionespracticas.org.pe (solucionespracticas.org.pe)... 159.69.41.10
+Connecting to solucionespracticas.org.pe (solucionespracticas.org.pe)|159.69.41.10|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://practicalaction.org.pe/Descargar/561/5086%0d [following]
+--2020-02-26 00:36:29--  https://practicalaction.org.pe/Descargar/561/5086%0d
+Resolving practicalaction.org.pe (practicalaction.org.pe)... 159.69.41.10
+Connecting to practicalaction.org.pe (practicalaction.org.pe)|159.69.41.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://practicalaction.org.pe/publicaciones/ [following]
+--2020-02-26 00:36:29--  https://practicalaction.org.pe/publicaciones/
+Reusing existing connection to practicalaction.org.pe:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ....       8.33M=0.04s
+
+2020-02-26 00:36:30 (8.33 Mb/s) - ‘/dev/null’ saved [45820]
+
+--2020-02-26 00:36:30--  https://solucionespracticas.org.pe/Descargar/561/5086%0D
+Resolving solucionespracticas.org.pe (solucionespracticas.org.pe)... 159.69.41.10
+Connecting to solucionespracticas.org.pe (solucionespracticas.org.pe)|159.69.41.10|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://practicalaction.org.pe/Descargar/561/5086%0d [following]
+--2020-02-26 00:36:30--  https://practicalaction.org.pe/Descargar/561/5086%0d
+Resolving practicalaction.org.pe (practicalaction.org.pe)... 159.69.41.10
+Connecting to practicalaction.org.pe (practicalaction.org.pe)|159.69.41.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://practicalaction.org.pe/publicaciones/ [following]
+--2020-02-26 00:36:30--  https://practicalaction.org.pe/publicaciones/
+Reusing existing connection to practicalaction.org.pe:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ....       8.36M=0.04s
+
+2020-02-26 00:36:30 (8.36 Mb/s) - ‘/dev/null’ saved [45820]
+

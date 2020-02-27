@@ -1,0 +1,12 @@
+--2020-02-25 22:11:42--  http://www.jp.gov.eg/ar/Ministry_of_Justice_Design_of_Legislative_Guide.pdf%0D
+Resolving www.jp.gov.eg (www.jp.gov.eg)... --2020-02-25 22:11:42--  http://www.jp.gov.eg/ar/Ministry_of_Justice_Design_of_Legislative_Guide.pdf%0D
+Resolving www.jp.gov.eg (www.jp.gov.eg)... 52.174.44.217
+Connecting to www.jp.gov.eg (www.jp.gov.eg)|52.174.44.217|:80... 52.174.44.217
+Connecting to www.jp.gov.eg (www.jp.gov.eg)|52.174.44.217|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:43 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:11:43 ERROR 400: Bad Request.
+

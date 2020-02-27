@@ -1,0 +1,6 @@
+--2020-02-25 23:05:52--  https://www.ase.com.jo/ar/download/disclosure/1604454%0D
+Resolving www.ase.com.jo (www.ase.com.jo)... 194.165.154.66
+Connecting to www.ase.com.jo (www.ase.com.jo)|194.165.154.66|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:05:52 ERROR 500: Internal Server Error.
+

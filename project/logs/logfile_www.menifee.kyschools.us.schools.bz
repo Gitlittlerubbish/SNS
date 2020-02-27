@@ -1,0 +1,12 @@
+--2020-02-25 21:09:03--  https://www.menifee.kyschools.us.schools.bz/userfiles/27/Classes/1206/chap03.pdf%0D
+Resolving www.menifee.kyschools.us.schools.bz (www.menifee.kyschools.us.schools.bz)... 34.233.238.60, 35.175.10.172
+Connecting to www.menifee.kyschools.us.schools.bz (www.menifee.kyschools.us.schools.bz)|34.233.238.60|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:09:03 ERROR 400: Bad Request.
+
+--2020-02-25 21:18:38--  https://www.menifee.kyschools.us.schools.bz/userfiles/27/Classes/1206/chap03.pdf%0D
+Resolving www.menifee.kyschools.us.schools.bz (www.menifee.kyschools.us.schools.bz)... 34.233.238.60, 35.175.10.172
+Connecting to www.menifee.kyschools.us.schools.bz (www.menifee.kyschools.us.schools.bz)|34.233.238.60|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:18:38 ERROR 400: Bad Request.
+

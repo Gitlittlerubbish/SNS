@@ -1,0 +1,6 @@
+--2020-02-25 23:48:11--  https://lapem.cfe.gob.mx/normas/construccion/pdfs/0/DCABT000.pdf%0D
+Resolving lapem.cfe.gob.mx (lapem.cfe.gob.mx)... 201.144.12.136
+Connecting to lapem.cfe.gob.mx (lapem.cfe.gob.mx)|201.144.12.136|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:48:12 ERROR 400: Bad Request.
+

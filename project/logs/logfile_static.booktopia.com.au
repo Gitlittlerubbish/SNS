@@ -1,0 +1,12 @@
+--2020-02-25 20:56:19--  http://static.booktopia.com.au/pdf/9780521808842-1.pdf%0D
+Resolving static.booktopia.com.au (static.booktopia.com.au)... 13.35.198.113, 13.35.198.30, 13.35.198.88, ...
+Connecting to static.booktopia.com.au (static.booktopia.com.au)|13.35.198.113|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 20:56:20 ERROR 403: Forbidden.
+
+--2020-02-25 21:08:55--  http://static.booktopia.com.au/pdf/9780521808842-1.pdf%0D
+Resolving static.booktopia.com.au (static.booktopia.com.au)... 13.35.198.113, 13.35.198.88, 13.35.198.30, ...
+Connecting to static.booktopia.com.au (static.booktopia.com.au)|13.35.198.113|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:08:56 ERROR 403: Forbidden.
+

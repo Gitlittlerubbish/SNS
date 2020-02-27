@@ -1,0 +1,50 @@
+--2020-02-25 22:57:23--  http://yildiz.im/secmarket%0D
+Resolving yildiz.im (yildiz.im)... 185.4.210.34
+Connecting to yildiz.im (yildiz.im)|185.4.210.34|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://yildiz.im [following]
+--2020-02-25 22:57:23--  http://yildiz.im/
+Reusing existing connection to yildiz.im:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://yildizholding.com.tr [following]
+--2020-02-25 22:57:23--  http://yildizholding.com.tr/
+Resolving yildizholding.com.tr (yildizholding.com.tr)... 195.155.129.108
+Connecting to yildizholding.com.tr (yildizholding.com.tr)|195.155.129.108|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.yildizholding.com.tr/ [following]
+--2020-02-25 22:57:24--  https://www.yildizholding.com.tr/
+Resolving www.yildizholding.com.tr (www.yildizholding.com.tr)... 195.155.129.108
+Connecting to www.yildizholding.com.tr (www.yildizholding.com.tr)|195.155.129.108|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 31386 (31K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..........                      100% 5.00M=0.05s
+
+2020-02-25 22:57:24 (5.00 Mb/s) - ‘/dev/null’ saved [31386/31386]
+
+--2020-02-25 22:57:24--  http://yildiz.im/secmarket%0D
+Resolving yildiz.im (yildiz.im)... 185.4.210.34
+Connecting to yildiz.im (yildiz.im)|185.4.210.34|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://yildiz.im [following]
+--2020-02-25 22:57:24--  http://yildiz.im/
+Reusing existing connection to yildiz.im:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://yildizholding.com.tr [following]
+--2020-02-25 22:57:24--  http://yildizholding.com.tr/
+Resolving yildizholding.com.tr (yildizholding.com.tr)... 195.155.129.108
+Connecting to yildizholding.com.tr (yildizholding.com.tr)|195.155.129.108|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.yildizholding.com.tr/ [following]
+--2020-02-25 22:57:24--  https://www.yildizholding.com.tr/
+Resolving www.yildizholding.com.tr (www.yildizholding.com.tr)... 195.155.129.108
+Connecting to www.yildizholding.com.tr (www.yildizholding.com.tr)|195.155.129.108|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 31386 (31K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..........                      100% 4.27M=0.06s
+
+2020-02-25 22:57:25 (4.27 Mb/s) - ‘/dev/null’ saved [31386/31386]
+

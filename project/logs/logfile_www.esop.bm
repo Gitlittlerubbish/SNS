@@ -1,0 +1,12 @@
+--2020-02-25 21:11:29--  https://www.esop.bm/documents/InstitutIntlFinishinSchoolinfo2015.pdf%0D
+Resolving www.esop.bm (www.esop.bm)... 194.8.254.229
+Connecting to www.esop.bm (www.esop.bm)|194.8.254.229|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:29 ERROR 400: Bad Request.
+
+--2020-02-25 21:20:20--  https://www.esop.bm/documents/InstitutIntlFinishinSchoolinfo2015.pdf%0D
+Resolving www.esop.bm (www.esop.bm)... 194.8.254.229
+Connecting to www.esop.bm (www.esop.bm)|194.8.254.229|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:20:20 ERROR 400: Bad Request.
+

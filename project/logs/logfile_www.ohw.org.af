@@ -1,0 +1,6 @@
+--2020-02-25 20:53:57--  http://www.ohw.org.af/annual/nc.pdf%0D
+Resolving www.ohw.org.af (www.ohw.org.af)... 98.142.96.66
+Connecting to www.ohw.org.af (www.ohw.org.af)|98.142.96.66|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:53:57 ERROR 404: Not Found.
+

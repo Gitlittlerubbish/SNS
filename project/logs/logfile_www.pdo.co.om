@@ -1,0 +1,6 @@
+--2020-02-26 00:23:06--  https://www.pdo.co.om/Documents/WEBSCH.pdf%0D
+Resolving www.pdo.co.om (www.pdo.co.om)... 185.233.168.237
+Connecting to www.pdo.co.om (www.pdo.co.om)|185.233.168.237|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:23:07 ERROR 400: Bad Request.
+

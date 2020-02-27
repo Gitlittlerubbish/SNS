@@ -1,0 +1,46 @@
+--2020-02-25 21:03:13--  http://crunchbot.ai/resources/Configure_CrunchBot_Analytics_App.pdf%0D
+Resolving crunchbot.ai (crunchbot.ai)... 104.28.31.197, 104.28.30.197
+Connecting to crunchbot.ai (crunchbot.ai)|104.28.31.197|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://crunchbot.ai/resources/Configure_CrunchBot_Analytics_App.pdf%0D [following]
+--2020-02-25 21:03:13--  https://crunchbot.ai/resources/Configure_CrunchBot_Analytics_App.pdf%0D
+Connecting to crunchbot.ai (crunchbot.ai)|104.28.31.197|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://crunchbot.ai/cgi-sys/suspendedpage.cgi [following]
+--2020-02-25 21:03:13--  http://crunchbot.ai/cgi-sys/suspendedpage.cgi
+Connecting to crunchbot.ai (crunchbot.ai)|104.28.31.197|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://crunchbot.ai/cgi-sys/suspendedpage.cgi [following]
+--2020-02-25 21:03:13--  https://crunchbot.ai/cgi-sys/suspendedpage.cgi
+Connecting to crunchbot.ai (crunchbot.ai)|104.28.31.197|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                                3.32M=0.02s
+
+2020-02-25 21:03:14 (3.32 Mb/s) - ‘/dev/null’ saved [7432]
+
+--2020-02-25 21:03:14--  http://crunchbot.ai/resources/Configure_CrunchBot_Analytics_App.pdf%0D
+Resolving crunchbot.ai (crunchbot.ai)... 104.28.31.197, 104.28.30.197
+Connecting to crunchbot.ai (crunchbot.ai)|104.28.31.197|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://crunchbot.ai/resources/Configure_CrunchBot_Analytics_App.pdf%0D [following]
+--2020-02-25 21:03:14--  https://crunchbot.ai/resources/Configure_CrunchBot_Analytics_App.pdf%0D
+Connecting to crunchbot.ai (crunchbot.ai)|104.28.31.197|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://crunchbot.ai/cgi-sys/suspendedpage.cgi [following]
+--2020-02-25 21:03:14--  http://crunchbot.ai/cgi-sys/suspendedpage.cgi
+Connecting to crunchbot.ai (crunchbot.ai)|104.28.31.197|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://crunchbot.ai/cgi-sys/suspendedpage.cgi [following]
+--2020-02-25 21:03:14--  https://crunchbot.ai/cgi-sys/suspendedpage.cgi
+Connecting to crunchbot.ai (crunchbot.ai)|104.28.31.197|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                                 409K=0.1s
+
+2020-02-25 21:03:15 (409 Kb/s) - ‘/dev/null’ saved [7432]
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:01:14--  http://www.emc.az/collateral/TechnicalDocument/docu85469.pdf%0D
+Resolving www.emc.az (www.emc.az)... 104.86.110.251, 104.86.110.216
+Connecting to www.emc.az (www.emc.az)|104.86.110.251|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:12:49--  http://www.emc.az/collateral/TechnicalDocument/docu85469.pdf%0D
+Resolving www.emc.az (www.emc.az)... 104.86.110.251, 104.86.110.216
+Connecting to www.emc.az (www.emc.az)|104.86.110.251|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

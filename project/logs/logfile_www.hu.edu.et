@@ -1,0 +1,12 @@
+--2020-02-25 22:18:01--  http://www.hu.edu.et/hu/images/IoT_Vacancy_Announcement.pdf%0D
+Resolving www.hu.edu.et (www.hu.edu.et)... 213.55.76.169
+Connecting to www.hu.edu.et (www.hu.edu.et)|213.55.76.169|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:18:02 ERROR 403: Forbidden.
+
+--2020-02-25 22:18:03--  http://www.hu.edu.et/hu/images/IoT_Vacancy_Announcement.pdf%0D
+Resolving www.hu.edu.et (www.hu.edu.et)... 213.55.76.169
+Connecting to www.hu.edu.et (www.hu.edu.et)|213.55.76.169|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:18:03 ERROR 403: Forbidden.
+

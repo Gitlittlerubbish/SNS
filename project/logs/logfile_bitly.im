@@ -1,0 +1,6 @@
+--2020-02-25 22:56:55--  https://bitly.im/to1v4%0D
+Resolving bitly.im (bitly.im)... 104.219.248.81
+Connecting to bitly.im (bitly.im)|104.219.248.81|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:56:57 ERROR 404: Not Found.
+

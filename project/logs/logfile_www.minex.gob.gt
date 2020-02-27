@@ -1,0 +1,24 @@
+--2020-02-25 22:37:19--  https://www.minex.gob.gt/Uploads/ProblematicaRuralyCambioClimatico.pdf%0D
+Resolving www.minex.gob.gt (www.minex.gob.gt)... 104.20.163.52, 104.20.162.52
+Connecting to www.minex.gob.gt (www.minex.gob.gt)|104.20.163.52|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:37:19--  https://www.minex.gob.gt/Uploads/ProblematicaRuralyCambioClimatico.pdf%0D
+Resolving www.minex.gob.gt (www.minex.gob.gt)... 104.20.163.52, 104.20.162.52
+Connecting to www.minex.gob.gt (www.minex.gob.gt)|104.20.163.52|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:37:19 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:37:20 ERROR 400: Bad Request.
+
+--2020-02-25 22:37:21--  https://www.minex.gob.gt/Uploads/ProblematicaRuralyCambioClimatico.pdf%0D
+Resolving www.minex.gob.gt (www.minex.gob.gt)... 104.20.162.52, 104.20.163.52
+Connecting to www.minex.gob.gt (www.minex.gob.gt)|104.20.162.52|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:37:21--  https://www.minex.gob.gt/Uploads/ProblematicaRuralyCambioClimatico.pdf%0D
+Resolving www.minex.gob.gt (www.minex.gob.gt)... 104.20.162.52, 104.20.163.52
+Connecting to www.minex.gob.gt (www.minex.gob.gt)|104.20.162.52|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:37:22 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:37:22 ERROR 400: Bad Request.
+

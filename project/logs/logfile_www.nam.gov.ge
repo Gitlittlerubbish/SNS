@@ -1,0 +1,12 @@
+--2020-02-25 22:30:57--  http://www.nam.gov.ge/files/file_1510030.pdf%0D
+Resolving www.nam.gov.ge (www.nam.gov.ge)... --2020-02-25 22:30:57--  http://www.nam.gov.ge/files/file_1510030.pdf%0D
+Resolving www.nam.gov.ge (www.nam.gov.ge)... 185.81.92.9
+Connecting to www.nam.gov.ge (www.nam.gov.ge)|185.81.92.9|:80... 185.81.92.9
+Connecting to www.nam.gov.ge (www.nam.gov.ge)|185.81.92.9|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:30:57 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:30:57 ERROR 404: Not Found.
+

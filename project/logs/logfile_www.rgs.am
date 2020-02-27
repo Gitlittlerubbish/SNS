@@ -1,0 +1,12 @@
+--2020-02-25 20:54:20--  http://www.rgs.am/uploads/DIVIDENDS_ARM.pdf%0D
+Resolving www.rgs.am (www.rgs.am)... 109.68.124.195
+Connecting to www.rgs.am (www.rgs.am)|109.68.124.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:20 ERROR 404: Not Found.
+
+--2020-02-25 21:07:18--  http://www.rgs.am/uploads/DIVIDENDS_ARM.pdf%0D
+Resolving www.rgs.am (www.rgs.am)... 109.68.124.195
+Connecting to www.rgs.am (www.rgs.am)|109.68.124.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:18 ERROR 404: Not Found.
+

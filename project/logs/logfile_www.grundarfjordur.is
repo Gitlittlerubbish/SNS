@@ -1,0 +1,6 @@
+--2020-02-25 22:48:39--  http://www.grundarfjordur.is/Files/Skra_0079294.pdf%0D
+Resolving www.grundarfjordur.is (www.grundarfjordur.is)... 82.221.98.192
+Connecting to www.grundarfjordur.is (www.grundarfjordur.is)|82.221.98.192|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:48:39 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 20:53:32--  https://iosfa.gob.ar/descargas/IOSFA_Recetario.pdf%0D
+Resolving iosfa.gob.ar (iosfa.gob.ar)... 104.31.64.99, 104.31.65.99
+Connecting to iosfa.gob.ar (iosfa.gob.ar)|104.31.64.99|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:53:32 ERROR 404: Not Found.
+
+--2020-02-25 21:06:46--  https://iosfa.gob.ar/descargas/IOSFA_Recetario.pdf%0D
+Resolving iosfa.gob.ar (iosfa.gob.ar)... 104.31.64.99, 104.31.65.99
+Connecting to iosfa.gob.ar (iosfa.gob.ar)|104.31.64.99|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:06:46 ERROR 404: Not Found.
+

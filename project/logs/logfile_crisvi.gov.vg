@@ -1,0 +1,12 @@
+--2020-02-25 21:25:26--  http://crisvi.gov.vg/gis/netdata/forms/newsletter.pdf%0D
+Resolving crisvi.gov.vg (crisvi.gov.vg)... 206.214.27.56
+Connecting to crisvi.gov.vg (crisvi.gov.vg)|206.214.27.56|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:26 ERROR 404: Not Found.
+
+--2020-02-25 21:30:47--  http://crisvi.gov.vg/gis/netdata/forms/newsletter.pdf%0D
+Resolving crisvi.gov.vg (crisvi.gov.vg)... 206.214.27.56
+Connecting to crisvi.gov.vg (crisvi.gov.vg)|206.214.27.56|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:30:47 ERROR 404: Not Found.
+

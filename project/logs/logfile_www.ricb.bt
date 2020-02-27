@@ -1,0 +1,12 @@
+--2020-02-25 21:12:44--  http://www.ricb.bt/downloads/RFP16.pdf%0D
+Resolving www.ricb.bt (www.ricb.bt)... 202.144.145.254
+Connecting to www.ricb.bt (www.ricb.bt)|202.144.145.254|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:12:45 ERROR 400: Bad Request.
+
+--2020-02-25 21:21:20--  http://www.ricb.bt/downloads/RFP16.pdf%0D
+Resolving www.ricb.bt (www.ricb.bt)... 202.144.145.254
+Connecting to www.ricb.bt (www.ricb.bt)|202.144.145.254|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:21:21 ERROR 400: Bad Request.
+

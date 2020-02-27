@@ -1,0 +1,6 @@
+--2020-02-25 23:00:40--  http://www.bbfarma.it/pdf/stampati/037954082.pdf%0D
+Resolving www.bbfarma.it (www.bbfarma.it)... 77.93.252.251
+Connecting to www.bbfarma.it (www.bbfarma.it)|77.93.252.251|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:40 ERROR 400: Bad Request.
+

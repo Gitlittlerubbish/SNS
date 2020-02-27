@@ -1,0 +1,12 @@
+--2020-02-25 21:38:14--  http://www.cpsm.ky/pdf/df60.pdf%0D
+Resolving www.cpsm.ky (www.cpsm.ky)... 66.96.149.32
+Connecting to www.cpsm.ky (www.cpsm.ky)|66.96.149.32|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:38:14 ERROR 400: Bad Request.
+
+--2020-02-25 21:39:32--  http://www.cpsm.ky/pdf/df60.pdf%0D
+Resolving www.cpsm.ky (www.cpsm.ky)... 66.96.149.32
+Connecting to www.cpsm.ky (www.cpsm.ky)|66.96.149.32|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:39:32 ERROR 400: Bad Request.
+

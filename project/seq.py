@@ -65,7 +65,43 @@ def build_model():
     return model
 
 model = build_model()
-model.fit(X_train, Y_train, epochs=80, batch_size=16, verbose=1)
+# model.fit(X_train, Y_train, epochs=80, batch_size=16, verbose=1)
+
+##########
+k = 4
+num_val_samples = len(X_train) // k
+num_epochs = 100
+all_scores = []
+
+for i in range(k):
+    print(f'Processing fold # {i}')
+    val_data = X_train[i * num_val_samples: (i+1) * num_val_samples]
+    val_targets = Y_train[i * num_val_samples: (i+1) * num_val_samples]
+    
+    partial_X_train = np.concatenate(
+                            [X_train[:i * num_val_samples],
+                            X_train[(i+1) * num_val_samples:]],
+                            axis=0)
+
+    print(partial_X_train.shape)
+    partial_Y_train = np.concatenate(
+                            [Y_train[:i * num_val_samples],
+                            Y_train[(i+1)*num_val_samples:]],
+                            axis=0)
+    # model = build_model()
+    model.fit(partial_X_train,
+              partial_Y_train,
+              epochs=num_epochs,
+              batch_size=16,
+              verbose=1)
+    val_mse, val_mae = model.evaluate(val_data, val_targets, verbose=1)
+    all_scores.append(val_mae)
+
+
+print(f'all_scores : {all_scores}')
+print(f'mean all scores : {np.mean(all_scores)}')
+
+##########
 test_mse_score, test_mae_score = model.evaluate(X_test, Y_test, verbose=1)
 
 print(f"test_mse_score:{test_mse_score}\ttest_mae_score:{test_mae_score}")

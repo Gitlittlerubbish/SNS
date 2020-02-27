@@ -1,0 +1,32 @@
+--2020-02-26 00:22:58--  http://www.ncchtoman.gov.om/cdn/download.aspx%3Ffilename%3Dworklaw.pdf%0D
+Resolving www.ncchtoman.gov.om (www.ncchtoman.gov.om)... 212.72.11.44
+Connecting to www.ncchtoman.gov.om (www.ncchtoman.gov.om)|212.72.11.44|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.rop.gov.om [following]
+--2020-02-26 00:22:59--  https://www.rop.gov.om/
+Resolving www.rop.gov.om (www.rop.gov.om)... 212.72.11.44
+Connecting to www.rop.gov.om (www.rop.gov.om)|212.72.11.44|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 366 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.03G=0s
+
+2020-02-26 00:22:59 (1.03 Gb/s) - ‘/dev/null’ saved [366/366]
+
+--2020-02-26 00:22:59--  http://www.ncchtoman.gov.om/cdn/download.aspx%3Ffilename%3Dworklaw.pdf%0D
+Resolving www.ncchtoman.gov.om (www.ncchtoman.gov.om)... 212.72.11.44
+Connecting to www.ncchtoman.gov.om (www.ncchtoman.gov.om)|212.72.11.44|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.rop.gov.om [following]
+--2020-02-26 00:23:00--  https://www.rop.gov.om/
+Resolving www.rop.gov.om (www.rop.gov.om)... 212.72.11.44
+Connecting to www.rop.gov.om (www.rop.gov.om)|212.72.11.44|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 366 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.09G=0s
+
+2020-02-26 00:23:00 (1.09 Gb/s) - ‘/dev/null’ saved [366/366]
+

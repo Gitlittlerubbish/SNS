@@ -1,0 +1,6 @@
+--2020-02-25 21:01:12--  https://www.mascus.it.ao/images/atts/c795e8_Brochure_613_M_R.pdf%0D
+Resolving www.mascus.it.ao (www.mascus.it.ao)... 147.154.237.163, 138.1.85.81, 147.154.232.14
+Connecting to www.mascus.it.ao (www.mascus.it.ao)|147.154.237.163|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:12 ERROR 400: Bad Request.
+

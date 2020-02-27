@@ -1,0 +1,6 @@
+--2020-02-25 23:00:30--  http://www.consorziomedionovarese.it/Download/TabellaSimboli.pdf%0D
+Resolving www.consorziomedionovarese.it (www.consorziomedionovarese.it)... 151.11.50.116
+Connecting to www.consorziomedionovarese.it (www.consorziomedionovarese.it)|151.11.50.116|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:31 ERROR 400: Bad Request.
+

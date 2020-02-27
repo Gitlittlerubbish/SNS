@@ -1,0 +1,12 @@
+--2020-02-25 21:03:17--  https://www.rera.gov.bh/Media/downloads/laws/Resolution_7_2018_Joint_Property_ENG.PDF%0D
+Resolving www.rera.gov.bh (www.rera.gov.bh)... 54.72.47.4
+Connecting to www.rera.gov.bh (www.rera.gov.bh)|54.72.47.4|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:03:17 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:31--  https://www.rera.gov.bh/Media/downloads/laws/Resolution_7_2018_Joint_Property_ENG.PDF%0D
+Resolving www.rera.gov.bh (www.rera.gov.bh)... 54.72.47.4
+Connecting to www.rera.gov.bh (www.rera.gov.bh)|54.72.47.4|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:31 ERROR 400: Bad Request.
+

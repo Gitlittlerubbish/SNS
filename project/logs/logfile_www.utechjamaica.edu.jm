@@ -1,0 +1,12 @@
+--2020-02-25 23:00:58--  http://www.utechjamaica.edu.jm/publications/SOP_JA.pdf%0D
+Resolving www.utechjamaica.edu.jm (www.utechjamaica.edu.jm)... 200.9.115.9
+Connecting to www.utechjamaica.edu.jm (www.utechjamaica.edu.jm)|200.9.115.9|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:59 ERROR 400: Bad Request.
+
+--2020-02-25 23:00:59--  http://www.utechjamaica.edu.jm/enrolment/EnrolmentSteps.pdf%0D
+Resolving www.utechjamaica.edu.jm (www.utechjamaica.edu.jm)... 200.9.115.9
+Connecting to www.utechjamaica.edu.jm (www.utechjamaica.edu.jm)|200.9.115.9|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:59 ERROR 400: Bad Request.
+

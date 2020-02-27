@@ -1,0 +1,108 @@
+--2020-02-25 23:23:31--  http://htl.li/6cmmz%0D
+Resolving htl.li (htl.li)... 54.67.120.65, 54.67.57.56, 54.183.131.91, ...
+Connecting to htl.li (htl.li)|54.67.120.65|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ow.ly [following]
+--2020-02-25 23:23:32--  http://ow.ly/
+Resolving ow.ly (ow.ly)... 54.183.130.144, 54.67.120.65, 54.183.131.91, ...
+Connecting to ow.ly (ow.ly)|54.183.130.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /url/shorten-url [following]
+--2020-02-25 23:23:32--  http://ow.ly/url/shorten-url
+Connecting to ow.ly (ow.ly)|54.183.130.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://hootsuite.com/pages/owly [following]
+--2020-02-25 23:23:32--  https://hootsuite.com/pages/owly
+Resolving hootsuite.com (hootsuite.com)... 3.209.200.243, 52.200.29.168, 34.231.155.24
+Connecting to hootsuite.com (hootsuite.com)|3.209.200.243|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113661 (111K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 5.36M 0s
+    50K .......... .......... .......... .......... .......... 90% 5.38M 0s
+   100K ..........                                            100% 8.22G=0.2s
+
+2020-02-25 23:23:33 (5.96 Mb/s) - ‘/dev/null’ saved [113661/113661]
+
+--2020-02-25 23:23:33--  http://htl.li/6cmmz%0D
+Resolving htl.li (htl.li)... 54.67.57.56, 54.183.131.91, 54.183.130.144, ...
+Connecting to htl.li (htl.li)|54.67.57.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ow.ly [following]
+--2020-02-25 23:23:33--  http://ow.ly/
+Resolving ow.ly (ow.ly)... 54.183.132.164, 54.183.130.144, 54.67.120.65, ...
+Connecting to ow.ly (ow.ly)|54.183.132.164|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /url/shorten-url [following]
+--2020-02-25 23:23:34--  http://ow.ly/url/shorten-url
+Connecting to ow.ly (ow.ly)|54.183.132.164|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://hootsuite.com/pages/owly [following]
+--2020-02-25 23:23:34--  https://hootsuite.com/pages/owly
+Resolving hootsuite.com (hootsuite.com)... 34.231.155.24, 3.209.200.243, 52.200.29.168
+Connecting to hootsuite.com (hootsuite.com)|34.231.155.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113661 (111K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 5.51M 0s
+    50K .......... .......... .......... .......... .......... 90% 5.53M 0s
+   100K ..........                                            100% 9.83G=0.1s
+
+2020-02-25 23:23:34 (6.13 Mb/s) - ‘/dev/null’ saved [113661/113661]
+
+--2020-02-25 23:23:34--  http://htl.li/fmDi30i8xVx%0D
+Resolving htl.li (htl.li)... 54.183.132.164, 54.67.120.65, 54.67.57.56, ...
+Connecting to htl.li (htl.li)|54.183.132.164|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ow.ly [following]
+--2020-02-25 23:23:35--  http://ow.ly/
+Resolving ow.ly (ow.ly)... 54.67.62.204, 54.183.132.164, 54.183.130.144, ...
+Connecting to ow.ly (ow.ly)|54.67.62.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /url/shorten-url [following]
+--2020-02-25 23:23:35--  http://ow.ly/url/shorten-url
+Connecting to ow.ly (ow.ly)|54.67.62.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://hootsuite.com/pages/owly [following]
+--2020-02-25 23:23:35--  https://hootsuite.com/pages/owly
+Resolving hootsuite.com (hootsuite.com)... 52.200.29.168, 34.231.155.24, 3.209.200.243
+Connecting to hootsuite.com (hootsuite.com)|52.200.29.168|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113661 (111K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 2.77M 0s
+    50K .......... .......... .......... .......... .......... 90% 5.56M 0s
+   100K ..........                                            100% 3.39G=0.2s
+
+2020-02-25 23:23:36 (4.11 Mb/s) - ‘/dev/null’ saved [113661/113661]
+
+--2020-02-25 23:23:36--  http://htl.li/fmDi30i8xVx%0D
+Resolving htl.li (htl.li)... 54.67.57.56, 54.183.131.91, 54.183.130.144, ...
+Connecting to htl.li (htl.li)|54.67.57.56|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ow.ly [following]
+--2020-02-25 23:23:36--  http://ow.ly/
+Resolving ow.ly (ow.ly)... 54.67.57.56, 54.67.62.204, 54.183.132.164, ...
+Connecting to ow.ly (ow.ly)|54.67.57.56|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /url/shorten-url [following]
+--2020-02-25 23:23:36--  http://ow.ly/url/shorten-url
+Connecting to ow.ly (ow.ly)|54.67.57.56|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://hootsuite.com/pages/owly [following]
+--2020-02-25 23:23:37--  https://hootsuite.com/pages/owly
+Resolving hootsuite.com (hootsuite.com)... 52.200.29.168, 34.231.155.24, 3.209.200.243
+Connecting to hootsuite.com (hootsuite.com)|52.200.29.168|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113661 (111K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 5.54M 0s
+    50K .......... .......... .......... .......... .......... 90% 5.54M 0s
+   100K ..........                                            100% 7.70G=0.1s
+
+2020-02-25 23:23:37 (6.15 Mb/s) - ‘/dev/null’ saved [113661/113661]
+

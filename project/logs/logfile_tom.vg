@@ -1,0 +1,12 @@
+--2020-02-25 21:25:21--  https://tom.vg/papers/heist_blackhat2016.pdf%0D
+Resolving tom.vg (tom.vg)... 83.137.145.144
+Connecting to tom.vg (tom.vg)|83.137.145.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:21 ERROR 404: Not Found.
+
+--2020-02-25 21:30:44--  https://tom.vg/papers/heist_blackhat2016.pdf%0D
+Resolving tom.vg (tom.vg)... 83.137.145.144
+Connecting to tom.vg (tom.vg)|83.137.145.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:30:44 ERROR 404: Not Found.
+

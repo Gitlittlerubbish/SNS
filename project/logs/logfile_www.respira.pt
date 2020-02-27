@@ -1,0 +1,6 @@
+--2020-02-26 00:41:43--  http://www.respira.pt/content/docs/pneumonia.pdf%0D
+Resolving www.respira.pt (www.respira.pt)... 37.34.51.5
+Connecting to www.respira.pt (www.respira.pt)|37.34.51.5|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:41:44 ERROR 400: Bad Request.
+

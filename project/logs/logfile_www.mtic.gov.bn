@@ -1,0 +1,12 @@
+--2020-02-25 21:26:43--  http://www.mtic.gov.bn/dca/AIP/ENR%25203.4.pdf%0D
+Resolving www.mtic.gov.bn (www.mtic.gov.bn)... 103.4.188.86
+Connecting to www.mtic.gov.bn (www.mtic.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:44 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:55--  http://www.mtic.gov.bn/dca/AIP/ENR%25203.4.pdf%0D
+Resolving www.mtic.gov.bn (www.mtic.gov.bn)... 103.4.188.86
+Connecting to www.mtic.gov.bn (www.mtic.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:56 ERROR 400: Bad Request.
+

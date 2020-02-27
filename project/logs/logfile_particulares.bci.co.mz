@@ -1,0 +1,17 @@
+--2020-02-26 00:00:03--  https://particulares.bci.co.mz/upl/precario_bci_1.pdf%0D
+Resolving particulares.bci.co.mz (particulares.bci.co.mz)... 197.249.241.8
+Connecting to particulares.bci.co.mz (particulares.bci.co.mz)|197.249.241.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        2.67G=0s
+
+2020-02-26 00:00:04 (2.67 Gb/s) - ‘/dev/null’ saved [957]
+
+--2020-02-26 00:00:04--  https://particulares.bci.co.mz/upl/precario_bci_1.pdf%0D
+Resolving particulares.bci.co.mz (particulares.bci.co.mz)... 197.249.241.8
+Connecting to particulares.bci.co.mz (particulares.bci.co.mz)|197.249.241.8|:443... connected.
+HTTP request sent, awaiting response... No data received.
+Giving up.
+

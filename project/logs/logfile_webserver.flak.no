@@ -1,0 +1,6 @@
+--2020-02-26 00:22:22--  http://webserver.flak.no/vbilder/05041_B.pdf%0D
+Resolving webserver.flak.no (webserver.flak.no)... 46.29.223.42
+Connecting to webserver.flak.no (webserver.flak.no)|46.29.223.42|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:22 ERROR 400: Bad Request.
+

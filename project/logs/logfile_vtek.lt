@@ -1,0 +1,36 @@
+--2020-02-25 23:25:24--  https://vtek.lt/images/Privaciu_interesu_deklaravimas_2020.pdf%0D
+Resolving vtek.lt (vtek.lt)... 195.182.95.155
+Connecting to vtek.lt (vtek.lt)|195.182.95.155|:443... connected.
+HTTP request sent, awaiting response... 303 Found
+Location: https://www.vtek.lt/?_event_transid=2202554186 [following]
+--2020-02-25 23:25:24--  https://www.vtek.lt/?_event_transid=2202554186
+Resolving www.vtek.lt (www.vtek.lt)... 195.182.95.155
+Connecting to www.vtek.lt (www.vtek.lt)|195.182.95.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.5M
+    50K .......... .......... .......... .......... .......... 10.6M
+   100K .......... .......... .......... .....                  939M=0.08s
+
+2020-02-25 23:25:25 (14.2 Mb/s) - ‘/dev/null’ saved [138709]
+
+--2020-02-25 23:25:25--  https://vtek.lt/images/Privaciu_interesu_deklaravimas_2020.pdf%0D
+Resolving vtek.lt (vtek.lt)... 195.182.95.155
+Connecting to vtek.lt (vtek.lt)|195.182.95.155|:443... connected.
+HTTP request sent, awaiting response... 303 Found
+Location: https://www.vtek.lt/?_event_transid=2202554188 [following]
+--2020-02-25 23:25:25--  https://www.vtek.lt/?_event_transid=2202554188
+Resolving www.vtek.lt (www.vtek.lt)... 195.182.95.155
+Connecting to www.vtek.lt (www.vtek.lt)|195.182.95.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.6M
+    50K .......... .......... .......... .......... .......... 10.6M
+   100K .......... .......... .......... .....                  809M=0.08s
+
+2020-02-25 23:25:26 (14.3 Mb/s) - ‘/dev/null’ saved [138709]
+

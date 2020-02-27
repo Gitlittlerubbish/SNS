@@ -1,0 +1,12 @@
+--2020-02-25 22:22:57--  https://www.metromobilite.fr/pdf/conseils_conso.pdf%0D
+Resolving www.metromobilite.fr (www.metromobilite.fr)... --2020-02-25 22:22:57--  https://www.metromobilite.fr/pdf/conseils_conso.pdf%0D
+Resolving www.metromobilite.fr (www.metromobilite.fr)... 83.145.98.142
+Connecting to www.metromobilite.fr (www.metromobilite.fr)|83.145.98.142|:443... 83.145.98.142
+Connecting to www.metromobilite.fr (www.metromobilite.fr)|83.145.98.142|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:57 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:22:57 ERROR 404: Not Found.
+

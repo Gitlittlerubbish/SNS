@@ -1,0 +1,22 @@
+--2020-02-25 23:33:32--  https://aduan.skmm.gov.my/Manual/MCMC_User_Guide.pdf%0D
+Resolving aduan.skmm.gov.my (aduan.skmm.gov.my)... 103.222.236.33
+Connecting to aduan.skmm.gov.my (aduan.skmm.gov.my)|103.222.236.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 309 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  326M=0s
+
+2020-02-25 23:33:33 (326 Mb/s) - ‘/dev/null’ saved [309/309]
+
+--2020-02-25 23:33:33--  https://aduan.skmm.gov.my/Manual/MCMC_User_Guide.pdf%0D
+Resolving aduan.skmm.gov.my (aduan.skmm.gov.my)... 103.222.236.33
+Connecting to aduan.skmm.gov.my (aduan.skmm.gov.my)|103.222.236.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 309 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  366M=0s
+
+2020-02-25 23:33:34 (366 Mb/s) - ‘/dev/null’ saved [309/309]
+

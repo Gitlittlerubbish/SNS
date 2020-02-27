@@ -1,0 +1,12 @@
+--2020-02-25 22:21:08--  http://www.ptc.ac.fj/fastpage/downloads/HowToRead.pdf%0D
+Resolving www.ptc.ac.fj (www.ptc.ac.fj)... 107.151.6.226
+Connecting to www.ptc.ac.fj (www.ptc.ac.fj)|107.151.6.226|:80... --2020-02-25 22:21:09--  http://www.ptc.ac.fj/fastpage/downloads/HowToRead.pdf%0D
+Resolving www.ptc.ac.fj (www.ptc.ac.fj)... 107.151.6.226
+Connecting to www.ptc.ac.fj (www.ptc.ac.fj)|107.151.6.226|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:21:09 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:21:09 ERROR 404: Not Found.
+

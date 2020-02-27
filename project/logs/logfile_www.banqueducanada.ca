@@ -1,0 +1,20 @@
+--2020-02-25 21:36:17--  http://www.banqueducanada.ca/fr/%0D
+Resolving www.banqueducanada.ca (www.banqueducanada.ca)... 104.67.20.12
+Connecting to www.banqueducanada.ca (www.banqueducanada.ca)|104.67.20.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.banqueducanada.ca/fr/%0D [following]
+--2020-02-25 21:36:17--  https://www.banqueducanada.ca/fr/%0D
+Connecting to www.banqueducanada.ca (www.banqueducanada.ca)|104.67.20.12|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:18 ERROR 404: Not Found.
+
+--2020-02-25 21:38:07--  http://www.banqueducanada.ca/fr/%0D
+Resolving www.banqueducanada.ca (www.banqueducanada.ca)... 104.67.20.12
+Connecting to www.banqueducanada.ca (www.banqueducanada.ca)|104.67.20.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.banqueducanada.ca/fr/%0D [following]
+--2020-02-25 21:38:07--  https://www.banqueducanada.ca/fr/%0D
+Connecting to www.banqueducanada.ca (www.banqueducanada.ca)|104.67.20.12|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:08 ERROR 404: Not Found.
+

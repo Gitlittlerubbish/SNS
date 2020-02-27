@@ -1,0 +1,6 @@
+--2020-02-26 00:24:48--  http://metacorp.com.pk/Downloads/BCCS_65509877_1335567186_18.pdf%0D
+Resolving metacorp.com.pk (metacorp.com.pk)... 98.142.104.250
+Connecting to metacorp.com.pk (metacorp.com.pk)|98.142.104.250|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:24:48 ERROR 400: Bad Request.
+

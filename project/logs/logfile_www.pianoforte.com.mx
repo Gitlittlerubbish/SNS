@@ -1,0 +1,32 @@
+--2020-02-25 23:46:37--  http://www.pianoforte.com.mx/partituras/debussycdl.pdf%0D
+Resolving www.pianoforte.com.mx (www.pianoforte.com.mx)... 31.220.104.188
+Connecting to www.pianoforte.com.mx (www.pianoforte.com.mx)|31.220.104.188|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pianoforte.com.mx/partituras/debussycdl.pdf [following]
+--2020-02-25 23:46:39--  https://www.pianoforte.com.mx/partituras/debussycdl.pdf
+Connecting to www.pianoforte.com.mx (www.pianoforte.com.mx)|31.220.104.188|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88413 (86K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 1.48M 0s
+    50K .......... .......... .......... ......               100%  585M=0.3s
+
+2020-02-25 23:46:39 (2.55 Mb/s) - ‘/dev/null’ saved [88413/88413]
+
+--2020-02-25 23:46:39--  http://www.pianoforte.com.mx/partituras/debussycdl.pdf%0D
+Resolving www.pianoforte.com.mx (www.pianoforte.com.mx)... 31.220.104.188
+Connecting to www.pianoforte.com.mx (www.pianoforte.com.mx)|31.220.104.188|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pianoforte.com.mx/partituras/debussycdl.pdf [following]
+--2020-02-25 23:46:40--  https://www.pianoforte.com.mx/partituras/debussycdl.pdf
+Connecting to www.pianoforte.com.mx (www.pianoforte.com.mx)|31.220.104.188|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88413 (86K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 2.22M 0s
+    50K .......... .......... .......... ......               100%  512M=0.2s
+
+2020-02-25 23:46:41 (3.82 Mb/s) - ‘/dev/null’ saved [88413/88413]
+

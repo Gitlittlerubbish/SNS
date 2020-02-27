@@ -1,0 +1,9 @@
+--2020-02-25 21:46:22--  http://health.sxws.gov.cn/2020021801.pdf%0D
+Resolving health.sxws.gov.cn (health.sxws.gov.cn)... failed: Connection timed out.
+wget: unable to resolve host address ‘health.sxws.gov.cn’
+--2020-02-25 21:46:32--  http://health.sxws.gov.cn/2020021801.pdf%0D
+Resolving health.sxws.gov.cn (health.sxws.gov.cn)... 61.174.213.37
+Connecting to health.sxws.gov.cn (health.sxws.gov.cn)|61.174.213.37|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:46:33 ERROR 404: Not Found.
+

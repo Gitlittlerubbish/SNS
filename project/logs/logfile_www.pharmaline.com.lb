@@ -1,0 +1,6 @@
+--2020-02-25 23:20:48--  https://www.pharmaline.com.lb/ContentFiles/1670PIL.pdf%0D
+Resolving www.pharmaline.com.lb (www.pharmaline.com.lb)... 212.32.231.235
+Connecting to www.pharmaline.com.lb (www.pharmaline.com.lb)|212.32.231.235|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:20:48 ERROR 400: Bad Request.
+

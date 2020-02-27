@@ -1,0 +1,84 @@
+--2020-02-25 21:12:04--  https://www.selectron.bm/wp-content/uploads/2019/09/6290W-End-user-Sell-Sheet.pdf%0D
+Resolving www.selectron.bm (www.selectron.bm)... 89.145.92.153
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.selectron.bm [following]
+--2020-02-25 21:12:07--  http://www.selectron.bm/
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.selectron.bm/ [following]
+--2020-02-25 21:12:07--  https://www.selectron.bm/
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32.7M
+    50K .......... .......... .......... .......... .......... 92.8M
+   100K .......... .                                           2.71G=0.02s
+
+2020-02-25 21:12:07 (53.7 Mb/s) - ‘/dev/null’ saved [113960]
+
+--2020-02-25 21:12:07--  https://www.selectron.bm/wp-content/uploads/2019/09/6290W-End-user-Sell-Sheet.pdf%0D
+Resolving www.selectron.bm (www.selectron.bm)... 89.145.92.153
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.selectron.bm [following]
+--2020-02-25 21:12:07--  http://www.selectron.bm/
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.selectron.bm/ [following]
+--2020-02-25 21:12:07--  https://www.selectron.bm/
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50.8M
+    50K .......... .......... .......... .......... ..........  108M
+   100K .......... .                                           6.59G=0.01s
+
+2020-02-25 21:12:07 (76.8 Mb/s) - ‘/dev/null’ saved [113960]
+
+--2020-02-25 21:20:50--  https://www.selectron.bm/wp-content/uploads/2019/09/6290W-End-user-Sell-Sheet.pdf%0D
+Resolving www.selectron.bm (www.selectron.bm)... 89.145.92.153
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.selectron.bm [following]
+--2020-02-25 21:20:50--  http://www.selectron.bm/
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.selectron.bm/ [following]
+--2020-02-25 21:20:50--  https://www.selectron.bm/
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42.7M
+    50K .......... .......... .......... .......... .......... 89.7M
+   100K .......... .                                           6.34G=0.01s
+
+2020-02-25 21:20:50 (64.3 Mb/s) - ‘/dev/null’ saved [113960]
+
+--2020-02-25 21:20:50--  https://www.selectron.bm/wp-content/uploads/2019/09/6290W-End-user-Sell-Sheet.pdf%0D
+Resolving www.selectron.bm (www.selectron.bm)... 89.145.92.153
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.selectron.bm [following]
+--2020-02-25 21:20:50--  http://www.selectron.bm/
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.selectron.bm/ [following]
+--2020-02-25 21:20:50--  https://www.selectron.bm/
+Connecting to www.selectron.bm (www.selectron.bm)|89.145.92.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58.8M
+    50K .......... .......... .......... .......... ..........  126M
+   100K .......... .                                           9.08G=0.01s
+
+2020-02-25 21:20:50 (89.2 Mb/s) - ‘/dev/null’ saved [113960]
+

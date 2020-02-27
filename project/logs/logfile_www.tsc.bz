@@ -1,0 +1,12 @@
+--2020-02-25 21:08:37--  http://www.tsc.bz/images/Gislaved_2018.pdf%0D
+Resolving www.tsc.bz (www.tsc.bz)... 52.198.237.80
+Connecting to www.tsc.bz (www.tsc.bz)|52.198.237.80|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:08:38 ERROR 404: Not Found.
+
+--2020-02-25 21:18:22--  http://www.tsc.bz/images/Gislaved_2018.pdf%0D
+Resolving www.tsc.bz (www.tsc.bz)... 52.198.237.80
+Connecting to www.tsc.bz (www.tsc.bz)|52.198.237.80|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:22 ERROR 404: Not Found.
+

@@ -1,0 +1,32 @@
+--2020-02-25 21:31:51--  http://www.cmsal.cv/administracao/planodeactividades2.pdf%0D
+Resolving www.cmsal.cv (www.cmsal.cv)... 213.150.196.36
+Connecting to www.cmsal.cv (www.cmsal.cv)|213.150.196.36|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: http://www.cmsal.cv/administracao/planodeactividades2.pdf%0D?jmglngdjmgdbaimg [following]
+--2020-02-25 21:31:53--  http://www.cmsal.cv/administracao/planodeactividades2.pdf%0D?jmglngdjmgdbaimg
+Connecting to www.cmsal.cv (www.cmsal.cv)|213.150.196.36|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: http://www.cmsal.cv/administracao/planodeactividades2.pdf%0D [following]
+--2020-02-25 21:31:53--  http://www.cmsal.cv/administracao/planodeactividades2.pdf%0D
+Connecting to www.cmsal.cv (www.cmsal.cv)|213.150.196.36|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:31:53 ERROR 404: Not Found.
+
+--2020-02-25 21:31:53--  http://www.cmsal.cv/pdf/cdpmunicipio.pdf%0D
+Resolving www.cmsal.cv (www.cmsal.cv)... 213.150.196.36
+Connecting to www.cmsal.cv (www.cmsal.cv)|213.150.196.36|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:31:53 ERROR 404: Not Found.
+
+--2020-02-25 21:35:03--  http://www.cmsal.cv/administracao/planodeactividades2.pdf%0D
+Resolving www.cmsal.cv (www.cmsal.cv)... 213.150.196.36
+Connecting to www.cmsal.cv (www.cmsal.cv)|213.150.196.36|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:04 ERROR 404: Not Found.
+
+--2020-02-25 21:35:04--  http://www.cmsal.cv/pdf/cdpmunicipio.pdf%0D
+Resolving www.cmsal.cv (www.cmsal.cv)... 213.150.196.36
+Connecting to www.cmsal.cv (www.cmsal.cv)|213.150.196.36|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:04 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:06:17--  http://www.cafephenix.dk/pdf/phenix_menu.pdf%0D
+Resolving www.cafephenix.dk (www.cafephenix.dk)... --2020-02-25 22:06:17--  http://www.cafephenix.dk/pdf/phenix_menu.pdf%0D
+Resolving www.cafephenix.dk (www.cafephenix.dk)... 87.116.7.48
+Connecting to www.cafephenix.dk (www.cafephenix.dk)|87.116.7.48|:80... 87.116.7.48
+Connecting to www.cafephenix.dk (www.cafephenix.dk)|87.116.7.48|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 22:06:17 ERROR 404: Not Found.
+
+2020-02-25 22:06:17 ERROR 404: Not Found.
+

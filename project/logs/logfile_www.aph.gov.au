@@ -1,0 +1,12 @@
+--2020-02-25 20:57:54--  http://www.aph.gov.au/DocumentStore.ashx%3Fid%3D3eae0f25-e894-44fb-9009-c073981b7290%0D
+Resolving www.aph.gov.au (www.aph.gov.au)... 202.14.81.146
+Connecting to www.aph.gov.au (www.aph.gov.au)|202.14.81.146|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:57:54 ERROR 400: Bad Request.
+
+--2020-02-25 21:10:17--  http://www.aph.gov.au/DocumentStore.ashx%3Fid%3D3eae0f25-e894-44fb-9009-c073981b7290%0D
+Resolving www.aph.gov.au (www.aph.gov.au)... 202.14.81.146
+Connecting to www.aph.gov.au (www.aph.gov.au)|202.14.81.146|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:10:18 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:56:24--  https://www.mghygiene.ie/_fileupload/Sumabacspec.pdf%0D
+Resolving www.mghygiene.ie (www.mghygiene.ie)... 79.140.136.153
+Connecting to www.mghygiene.ie (www.mghygiene.ie)|79.140.136.153|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:56:24 ERROR 400: Bad Request.
+

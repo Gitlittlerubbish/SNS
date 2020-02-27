@@ -1,0 +1,12 @@
+--2020-02-25 20:58:27--  https://www.abc.net.au/mediawatch/transcripts/0726_smh.pdf%0D
+Resolving www.abc.net.au (www.abc.net.au)... 2.22.246.192
+Connecting to www.abc.net.au (www.abc.net.au)|2.22.246.192|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:58:28 ERROR 404: Not Found.
+
+--2020-02-25 21:10:43--  https://www.abc.net.au/mediawatch/transcripts/0726_smh.pdf%0D
+Resolving www.abc.net.au (www.abc.net.au)... 2.22.246.192
+Connecting to www.abc.net.au (www.abc.net.au)|2.22.246.192|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:10:43 ERROR 404: Not Found.
+

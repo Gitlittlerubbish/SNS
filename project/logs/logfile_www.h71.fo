@@ -1,0 +1,12 @@
+--2020-02-25 22:19:45--  http://www.h71.fo/Files/Images/News/Akslavenjingar%2520H71.pdf%0D
+Resolving www.h71.fo (www.h71.fo)... --2020-02-25 22:19:45--  http://www.h71.fo/Files/Images/News/Akslavenjingar%2520H71.pdf%0D
+Resolving www.h71.fo (www.h71.fo)... 81.95.244.13
+Connecting to www.h71.fo (www.h71.fo)|81.95.244.13|:80... connected.
+HTTP request sent, awaiting response... 81.95.244.13
+Connecting to www.h71.fo (www.h71.fo)|81.95.244.13|:80... 400 Bad Request
+2020-02-25 22:19:45 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:45 ERROR 400: Bad Request.
+

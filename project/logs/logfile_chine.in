@@ -1,0 +1,6 @@
+--2020-02-25 22:49:46--  https://chine.in/fichiers/jourwest.pdf%0D
+Resolving chine.in (chine.in)... 91.121.38.162
+Connecting to chine.in (chine.in)|91.121.38.162|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:49:46 ERROR 403: Forbidden.
+

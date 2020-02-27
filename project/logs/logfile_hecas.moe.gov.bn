@@ -1,0 +1,12 @@
+--2020-02-25 21:26:10--  https://hecas.moe.gov.bn/pdf/j20-guidelines.pdf%0D
+Resolving hecas.moe.gov.bn (hecas.moe.gov.bn)... 202.93.217.226
+Connecting to hecas.moe.gov.bn (hecas.moe.gov.bn)|202.93.217.226|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:26:11 ERROR 404: Not Found.
+
+--2020-02-25 21:31:25--  https://hecas.moe.gov.bn/pdf/j20-guidelines.pdf%0D
+Resolving hecas.moe.gov.bn (hecas.moe.gov.bn)... 202.93.217.226
+Connecting to hecas.moe.gov.bn (hecas.moe.gov.bn)|202.93.217.226|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:31:26 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:52:23--  https://www.comfacundi.com.co/images/ABRILBOGOTA.pdf%0D
+Resolving www.comfacundi.com.co (www.comfacundi.com.co)... 190.60.104.85
+Connecting to www.comfacundi.com.co (www.comfacundi.com.co)|190.60.104.85|:443... connected.
+ERROR: cannot verify www.comfacundi.com.co's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.comfacundi.com.co insecurely, use `--no-check-certificate'.
+--2020-02-25 21:52:25--  https://www.comfacundi.com.co/images/ABRILBOGOTA.pdf%0D
+Resolving www.comfacundi.com.co (www.comfacundi.com.co)... 190.60.104.85
+Connecting to www.comfacundi.com.co (www.comfacundi.com.co)|190.60.104.85|:443... connected.
+ERROR: cannot verify www.comfacundi.com.co's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.comfacundi.com.co insecurely, use `--no-check-certificate'.

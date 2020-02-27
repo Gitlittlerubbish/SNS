@@ -1,0 +1,12 @@
+--2020-02-25 21:26:01--  http://www.kheu.gov.bn/Rancangan%2520Strategik/RSKHEU_20152019.pdf%0D
+Resolving www.kheu.gov.bn (www.kheu.gov.bn)... 103.4.188.86
+Connecting to www.kheu.gov.bn (www.kheu.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:02 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:18--  http://www.kheu.gov.bn/Rancangan%2520Strategik/RSKHEU_20152019.pdf%0D
+Resolving www.kheu.gov.bn (www.kheu.gov.bn)... 103.4.188.86
+Connecting to www.kheu.gov.bn (www.kheu.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:18 ERROR 400: Bad Request.
+

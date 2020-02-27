@@ -1,0 +1,12 @@
+--2020-02-25 22:21:55--  http://www.engelco.fi/docs/Kytk_ST5122.pdf%0D
+Resolving www.engelco.fi (www.engelco.fi)... 195.197.95.171
+Connecting to www.engelco.fi (www.engelco.fi)|195.197.95.171|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:21:55 ERROR 404: Not Found.
+
+--2020-02-25 22:21:56--  http://www.engelco.fi/docs/Kytk_ST5122.pdf%0D
+Resolving www.engelco.fi (www.engelco.fi)... 195.197.95.171
+Connecting to www.engelco.fi (www.engelco.fi)|195.197.95.171|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:21:56 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:44:16--  http://www.amway.com.hn/downloads/Preguntas_Frecuentes_Fragancias_Ertia.pdf%0D
+Resolving www.amway.com.hn (www.amway.com.hn)... 104.82.241.212
+Connecting to www.amway.com.hn (www.amway.com.hn)|104.82.241.212|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:44:16 ERROR 400: Bad Request.
+

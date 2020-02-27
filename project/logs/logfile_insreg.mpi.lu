@@ -1,0 +1,6 @@
+--2020-02-25 23:26:32--  http://insreg.mpi.lu/EIR-recast.pdf%0D
+Resolving insreg.mpi.lu (insreg.mpi.lu)... 82.192.200.139
+Connecting to insreg.mpi.lu (insreg.mpi.lu)|82.192.200.139|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:26:32 ERROR 404: Not Found.
+

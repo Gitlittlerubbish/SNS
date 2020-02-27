@@ -1,0 +1,6 @@
+--2020-02-25 23:24:18--  http://www.gerd.li/Anmeldung_IB_2019.pdf%0D
+Resolving www.gerd.li (www.gerd.li)... 194.150.248.23
+Connecting to www.gerd.li (www.gerd.li)|194.150.248.23|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:24:19 ERROR 404: Not Found.
+

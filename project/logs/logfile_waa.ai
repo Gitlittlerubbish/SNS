@@ -1,0 +1,60 @@
+--2020-02-25 21:02:14--  https://waa.ai/oQKn%0D
+Resolving waa.ai (waa.ai)... 104.24.112.128, 104.24.113.128
+Connecting to waa.ai (waa.ai)|104.24.112.128|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://waa.ai/error [following]
+--2020-02-25 21:02:14--  https://waa.ai/error
+Reusing existing connection to waa.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                     529M=0s
+
+2020-02-25 21:02:14 (529 Mb/s) - ‘/dev/null’ saved [3563]
+
+--2020-02-25 21:02:14--  https://waa.ai/oQKn%0D
+Resolving waa.ai (waa.ai)... 104.24.113.128, 104.24.112.128
+Connecting to waa.ai (waa.ai)|104.24.113.128|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://waa.ai/error [following]
+--2020-02-25 21:02:14--  https://waa.ai/error
+Reusing existing connection to waa.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                     494M=0s
+
+2020-02-25 21:02:15 (494 Mb/s) - ‘/dev/null’ saved [3563]
+
+--2020-02-25 21:02:15--  https://waa.ai/vc8u%0D
+Resolving waa.ai (waa.ai)... 104.24.113.128, 104.24.112.128
+Connecting to waa.ai (waa.ai)|104.24.113.128|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://waa.ai/error [following]
+--2020-02-25 21:02:15--  https://waa.ai/error
+Reusing existing connection to waa.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                    1.17G=0s
+
+2020-02-25 21:02:15 (1.17 Gb/s) - ‘/dev/null’ saved [3563]
+
+--2020-02-25 21:02:15--  https://waa.ai/vc8u%0D
+Resolving waa.ai (waa.ai)... 104.24.112.128, 104.24.113.128
+Connecting to waa.ai (waa.ai)|104.24.112.128|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://waa.ai/error [following]
+--2020-02-25 21:02:15--  https://waa.ai/error
+Reusing existing connection to waa.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                    1.09G=0s
+
+2020-02-25 21:02:16 (1.09 Gb/s) - ‘/dev/null’ saved [3563]
+

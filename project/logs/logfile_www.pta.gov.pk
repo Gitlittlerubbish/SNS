@@ -1,0 +1,10 @@
+--2020-02-26 00:25:01--  https://www.pta.gov.pk/media/how_to_apply_uan_tollfree_210116.pdf%0D
+Resolving www.pta.gov.pk (www.pta.gov.pk)... 203.101.184.123
+Connecting to www.pta.gov.pk (www.pta.gov.pk)|203.101.184.123|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.pta.gov.pk/en/media/how_to_apply_uan_tollfree_210116.pdf%0D [following]
+--2020-02-26 00:25:02--  https://www.pta.gov.pk/en/media/how_to_apply_uan_tollfree_210116.pdf%0D
+Reusing existing connection to www.pta.gov.pk:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:25:02 ERROR 404: Not Found.
+

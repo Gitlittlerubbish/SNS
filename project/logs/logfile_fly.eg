@@ -1,0 +1,12 @@
+--2020-02-25 22:11:35--  https://fly.eg/Conditions_%26_terms.pdf%0D
+Resolving fly.eg (fly.eg)... 188.40.68.212
+Connecting to fly.eg (fly.eg)|188.40.68.212|:443... connected.
+--2020-02-25 22:11:35--  https://fly.eg/Conditions_%26_terms.pdf%0D
+Resolving fly.eg (fly.eg)... 188.40.68.212
+Connecting to fly.eg (fly.eg)|188.40.68.212|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:35 ERROR 400: Bad Request.
+
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:35 ERROR 400: Bad Request.
+

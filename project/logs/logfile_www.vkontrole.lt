@@ -1,0 +1,6 @@
+--2020-02-25 23:25:44--  https://www.vkontrole.lt/failas.aspx%3Fid%3D3690%0D
+Resolving www.vkontrole.lt (www.vkontrole.lt)... 195.182.95.246
+Connecting to www.vkontrole.lt (www.vkontrole.lt)|195.182.95.246|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:25:44 ERROR 400: Bad Request.
+

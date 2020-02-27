@@ -1,0 +1,6 @@
+--2020-02-25 23:00:22--  http://www.aiutoafrica.it/documenti/diritti_umani_ONU_it.pdf%0D
+Resolving www.aiutoafrica.it (www.aiutoafrica.it)... 31.11.34.106
+Connecting to www.aiutoafrica.it (www.aiutoafrica.it)|31.11.34.106|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:22 ERROR 400: Bad Request.
+

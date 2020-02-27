@@ -1,0 +1,6 @@
+--2020-02-25 23:11:58--  http://www.pet3.co.kr/include/images/KPMG.pdf%0D
+Resolving www.pet3.co.kr (www.pet3.co.kr)... 183.111.79.137
+Connecting to www.pet3.co.kr (www.pet3.co.kr)|183.111.79.137|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:11:58 ERROR 400: Bad Request.
+

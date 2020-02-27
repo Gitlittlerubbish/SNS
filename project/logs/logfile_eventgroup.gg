@@ -1,0 +1,24 @@
+--2020-02-25 22:38:32--  http://eventgroup.gg/files/te_aroha_boat_charter_info.pdf%0D
+Resolving eventgroup.gg (eventgroup.gg)... --2020-02-25 22:38:32--  http://eventgroup.gg/files/te_aroha_boat_charter_info.pdf%0D
+Resolving eventgroup.gg (eventgroup.gg)... 109.75.172.112
+Connecting to eventgroup.gg (eventgroup.gg)|109.75.172.112|:80... 109.75.172.112
+Connecting to eventgroup.gg (eventgroup.gg)|109.75.172.112|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:33 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:38:33 ERROR 400: Bad Request.
+
+--2020-02-25 22:38:56--  http://eventgroup.gg/files/managed/marquee_clearance_sale.pdf%0D
+Resolving eventgroup.gg (eventgroup.gg)... 109.75.172.112
+Connecting to eventgroup.gg (eventgroup.gg)|109.75.172.112|:80... --2020-02-25 22:38:56--  http://eventgroup.gg/files/managed/marquee_clearance_sale.pdf%0D
+Resolving eventgroup.gg (eventgroup.gg)... 109.75.172.112
+Connecting to eventgroup.gg (eventgroup.gg)|109.75.172.112|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:56 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:38:56 ERROR 400: Bad Request.
+

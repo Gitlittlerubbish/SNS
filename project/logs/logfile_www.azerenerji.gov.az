@@ -1,0 +1,12 @@
+--2020-02-25 21:00:49--  http://www.azerenerji.gov.az/files/2016_12_27_13_06_42_9017.pdf%0D
+Resolving www.azerenerji.gov.az (www.azerenerji.gov.az)... 31.170.236.83
+Connecting to www.azerenerji.gov.az (www.azerenerji.gov.az)|31.170.236.83|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:50 ERROR 404: Not Found.
+
+--2020-02-25 21:12:34--  http://www.azerenerji.gov.az/files/2016_12_27_13_06_42_9017.pdf%0D
+Resolving www.azerenerji.gov.az (www.azerenerji.gov.az)... 31.170.236.83
+Connecting to www.azerenerji.gov.az (www.azerenerji.gov.az)|31.170.236.83|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:34 ERROR 404: Not Found.
+

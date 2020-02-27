@@ -1,0 +1,12 @@
+--2020-02-25 20:59:29--  https://www.ihs.ac.at/publications/lib/ep2.pdf%0D
+Resolving www.ihs.ac.at (www.ihs.ac.at)... 78.104.136.166
+Connecting to www.ihs.ac.at (www.ihs.ac.at)|78.104.136.166|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:31 ERROR 404: Not Found.
+
+--2020-02-25 21:11:38--  https://www.ihs.ac.at/publications/lib/ep2.pdf%0D
+Resolving www.ihs.ac.at (www.ihs.ac.at)... 78.104.136.166
+Connecting to www.ihs.ac.at (www.ihs.ac.at)|78.104.136.166|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:38 ERROR 404: Not Found.
+

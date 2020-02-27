@@ -1,0 +1,10 @@
+--2020-02-25 23:25:20--  http://www.elmega.lt/documents/legrand_plexo_bendras.pdf%0D
+Resolving www.elmega.lt (www.elmega.lt)... 79.98.26.141
+Connecting to www.elmega.lt (www.elmega.lt)|79.98.26.141|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.elmega.lt/documents/legrand_plexo_bendras.pdf%0d [following]
+--2020-02-25 23:25:20--  https://www.elmega.lt/documents/legrand_plexo_bendras.pdf%0d
+Connecting to www.elmega.lt (www.elmega.lt)|79.98.26.141|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:25:21 ERROR 404: Not Found.
+

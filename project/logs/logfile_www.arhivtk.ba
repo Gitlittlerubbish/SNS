@@ -1,0 +1,12 @@
+--2020-02-25 21:16:59--  http://www.arhivtk.ba/VODIC/vodic6.pdf%0D
+Resolving www.arhivtk.ba (www.arhivtk.ba)... 78.46.75.139
+Connecting to www.arhivtk.ba (www.arhivtk.ba)|78.46.75.139|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:59 ERROR 404: Not Found.
+
+--2020-02-25 21:24:16--  http://www.arhivtk.ba/VODIC/vodic6.pdf%0D
+Resolving www.arhivtk.ba (www.arhivtk.ba)... 78.46.75.139
+Connecting to www.arhivtk.ba (www.arhivtk.ba)|78.46.75.139|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:16 ERROR 404: Not Found.
+

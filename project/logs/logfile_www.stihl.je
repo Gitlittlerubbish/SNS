@@ -1,0 +1,6 @@
+--2020-02-25 23:04:51--  http://www.stihl.je/p/media/download/VIKING_Haeckslerbroschuere_2015_EN__.pdf%0D
+Resolving www.stihl.je (www.stihl.je)... 46.22.43.205
+Connecting to www.stihl.je (www.stihl.je)|46.22.43.205|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:04:52 ERROR 400: Bad Request.
+

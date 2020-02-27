@@ -1,0 +1,12 @@
+--2020-02-25 21:05:27--  https://www.pppo.gov.bd/download/ppp_office/Policy_G2G_Partnership-2017.pdf%0D
+Resolving www.pppo.gov.bd (www.pppo.gov.bd)... 128.199.231.172
+Connecting to www.pppo.gov.bd (www.pppo.gov.bd)|128.199.231.172|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:05:28 ERROR 404: Not Found.
+
+--2020-02-25 21:15:56--  https://www.pppo.gov.bd/download/ppp_office/Policy_G2G_Partnership-2017.pdf%0D
+Resolving www.pppo.gov.bd (www.pppo.gov.bd)... 128.199.231.172
+Connecting to www.pppo.gov.bd (www.pppo.gov.bd)|128.199.231.172|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:56 ERROR 404: Not Found.
+

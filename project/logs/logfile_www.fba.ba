@@ -1,0 +1,7 @@
+--2020-02-25 21:17:28--  https://www.fba.ba/images/Publikacije_Banke/Preliminarna_studija_QIS_bos.pdf%0D
+Resolving www.fba.ba (www.fba.ba)... failed: Connection timed out.
+wget: unable to resolve host address ‘www.fba.ba’
+--2020-02-25 21:24:38--  https://www.fba.ba/images/Publikacije_Banke/Preliminarna_studija_QIS_bos.pdf%0D
+Resolving www.fba.ba (www.fba.ba)... 185.91.158.50
+Connecting to www.fba.ba (www.fba.ba)|185.91.158.50|:443... connected.
+Unable to establish SSL connection.

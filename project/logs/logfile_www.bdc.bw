@@ -1,0 +1,12 @@
+--2020-02-25 21:18:31--  http://www.bdc.bw/sites/default/files/BDCannualReport2009_0.pdf%0D
+Resolving www.bdc.bw (www.bdc.bw)... 168.167.71.11
+Connecting to www.bdc.bw (www.bdc.bw)|168.167.71.11|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:32 ERROR 404: Not Found.
+
+--2020-02-25 21:25:15--  http://www.bdc.bw/sites/default/files/BDCannualReport2009_0.pdf%0D
+Resolving www.bdc.bw (www.bdc.bw)... 168.167.71.11
+Connecting to www.bdc.bw (www.bdc.bw)|168.167.71.11|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:17 ERROR 404: Not Found.
+

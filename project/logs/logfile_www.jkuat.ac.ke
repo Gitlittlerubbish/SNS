@@ -1,0 +1,12 @@
+--2020-02-25 23:09:35--  http://www.jkuat.ac.ke/campuses/kigali/wp-content/uploads/2014/12/BCOM.pdf%0D
+Resolving www.jkuat.ac.ke (www.jkuat.ac.ke)... 198.1.75.23
+Connecting to www.jkuat.ac.ke (www.jkuat.ac.ke)|198.1.75.23|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:09:36 ERROR 404: Not Found.
+
+--2020-02-25 23:10:00--  https://www.jkuat.ac.ke/wp-content/uploads/2015/10/Jkuat-Ewaste-Policy-Final.pdf%0D
+Resolving www.jkuat.ac.ke (www.jkuat.ac.ke)... 198.1.75.23
+Connecting to www.jkuat.ac.ke (www.jkuat.ac.ke)|198.1.75.23|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:10:02 ERROR 404: Not Found.
+

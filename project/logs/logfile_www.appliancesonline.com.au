@@ -1,0 +1,12 @@
+--2020-02-25 20:58:14--  https://www.appliancesonline.com.au/manuals/erce9025bk/erce9025bk.pdf%0D
+Resolving www.appliancesonline.com.au (www.appliancesonline.com.au)... 167.172.76.155, 206.189.147.150, 167.71.202.237, ...
+Connecting to www.appliancesonline.com.au (www.appliancesonline.com.au)|167.172.76.155|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:58:15 ERROR 404: Not Found.
+
+--2020-02-25 21:10:34--  https://www.appliancesonline.com.au/manuals/erce9025bk/erce9025bk.pdf%0D
+Resolving www.appliancesonline.com.au (www.appliancesonline.com.au)... 167.71.202.237, 206.189.147.150, 167.172.76.155, ...
+Connecting to www.appliancesonline.com.au (www.appliancesonline.com.au)|167.71.202.237|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:10:35 ERROR 404: Not Found.
+

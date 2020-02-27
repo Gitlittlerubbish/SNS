@@ -1,0 +1,12 @@
+--2020-02-25 22:19:24--  http://ic.fo/images/publications/J11-030.pdf%0D
+Resolving ic.fo (ic.fo)... --2020-02-25 22:19:24--  http://ic.fo/images/publications/J11-030.pdf%0D
+Resolving ic.fo (ic.fo)... 185.132.137.2
+Connecting to ic.fo (ic.fo)|185.132.137.2|:80... 185.132.137.2
+Connecting to ic.fo (ic.fo)|185.132.137.2|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:19:25 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:19:25 ERROR 404: Not Found.
+

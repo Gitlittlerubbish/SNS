@@ -1,0 +1,10 @@
+--2020-02-25 23:11:48--  http://labmed.hallym.ac.kr/hematol/APL.pdf%0D
+Resolving labmed.hallym.ac.kr (labmed.hallym.ac.kr)... 210.115.225.13
+Connecting to labmed.hallym.ac.kr (labmed.hallym.ac.kr)|210.115.225.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://labmed.hallym.ac.kr/hematol/APL.pdf%0d [following]
+--2020-02-25 23:11:50--  https://labmed.hallym.ac.kr/hematol/APL.pdf%0d
+Connecting to labmed.hallym.ac.kr (labmed.hallym.ac.kr)|210.115.225.13|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:11:51 ERROR 404: Not Found.
+

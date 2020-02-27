@@ -1,0 +1,92 @@
+--2020-02-25 21:59:18--  https://www.nexans.ci/eservice/IvoryCoast-en/documentDownload_112129/TITANEX_BV_Marine%0D
+Resolving www.nexans.ci (www.nexans.ci)... 185.67.149.26
+Connecting to www.nexans.ci (www.nexans.ci)|185.67.149.26|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nexans.ci/France/2019/Titanex_Marine_BV%202019.pdf [following]
+--2020-02-25 21:59:19--  https://www.nexans.ci/France/2019/Titanex_Marine_BV%202019.pdf
+Reusing existing connection to www.nexans.ci:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 424077 (414K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 15.9M 0s
+    50K .......... .......... .......... .......... .......... 24% 48.0M 0s
+   100K .......... .......... .......... .......... .......... 36% 47.8M 0s
+   150K .......... .......... .......... .......... .......... 48% 50.4M 0s
+   200K .......... .......... .......... .......... .......... 60%  470M 0s
+   250K .......... .......... .......... .......... .......... 72% 52.8M 0s
+   300K .......... .......... .......... .......... .......... 84%  529M 0s
+   350K .......... .......... .......... .......... .......... 96%  466M 0s
+   400K .......... ....                                       100% 17.9M=0.07s
+
+2020-02-25 21:59:19 (50.1 Mb/s) - ‘/dev/null’ saved [424077/424077]
+
+--2020-02-25 21:59:19--  https://www.nexans.ci/eservice/IvoryCoast-en/documentDownload_112129/TITANEX_BV_Marine%0D
+Resolving www.nexans.ci (www.nexans.ci)... 185.67.149.26
+Connecting to www.nexans.ci (www.nexans.ci)|185.67.149.26|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nexans.ci/France/2019/Titanex_Marine_BV%202019.pdf [following]
+--2020-02-25 21:59:19--  https://www.nexans.ci/France/2019/Titanex_Marine_BV%202019.pdf
+Reusing existing connection to www.nexans.ci:443.
+HTTP request sent, awaiting response... --2020-02-25 21:59:19--  https://www.nexans.ci/eservice/IvoryCoast-en/documentDownload_112129/TITANEX_BV_Marine%0D
+200 OK
+Length: 424077 (414K) [application/pdf]
+Saving to: ‘/dev/null’
+Resolving www.nexans.ci (www.nexans.ci)... 185.67.149.26
+Connecting to www.nexans.ci (www.nexans.ci)|185.67.149.26|:443... 
+     0K .......... ......connected.
+.... .......... .......... .......... 12% 16.9M 0s
+    50K .......... .......... .......... .......... ......HTTP request sent, awaiting response... .... 24% 23.2M 0s
+   100K .......... .......... .......... .......... .......... 36% 46.6M 0s
+   150K .......... .......... .......... .......... .......... 48% 45.8M 0s
+   200K .......... .......... .......... .......... .......... 60%  853M 0s
+   250K ......302 Found
+Location: https://www.nexans.ci/France/2019/Titanex_Marine_BV%202019.pdf [following]
+--2020-02-25 21:59:19--  https://www.nexans.ci/France/2019/Titanex_Marine_BV%202019.pdf
+Reusing existing connection to www.nexans.ci:443.
+HTTP request sent, awaiting response... .... .......... .......... .......... .......... 72% 47.5M 0s
+   300K .......... .......... .......... .......... .......... 84%  462M 0s
+   350K ..200 OK
+Length: 424077 (414K) [application/pdf]
+Saving to: ‘/dev/null’
+........ .......... .......... .......... .......... 96% 52.1M 0s
+   400K .......... ....                                       100%  522M=0.08s
+
+2020-02-25 21:59:19 (43.7 Mb/s) - ‘/dev/null’ saved [424077/424077]
+
+
+     0K .......... .......... .......... .......... .......... 12% 24.1M 0s
+    50K .......... .......... .......... .......... .......... 24% 24.5M 0s
+   100K .......... .......... .......... .......... .......... 36%  817M 0s
+   150K .......... .......... .......... .......... .......... 48% 50.3M 0s
+   200K .......... .......... .......... .......... .......... 60%  583M 0s
+   250K .......... .......... .......... .......... .......... 72% 53.6M 0s
+   300K .......... .......... .......... .......... .......... 84%  506M 0s
+   350K .......... .......... .......... .......... .......... 96%  470M 0s
+   400K .......... ....                                       100%  482M=0.05s
+
+2020-02-25 21:59:19 (64.4 Mb/s) - ‘/dev/null’ saved [424077/424077]
+
+--2020-02-25 21:59:19--  https://www.nexans.ci/eservice/IvoryCoast-en/documentDownload_112129/TITANEX_BV_Marine%0D
+Resolving www.nexans.ci (www.nexans.ci)... 185.67.149.26
+Connecting to www.nexans.ci (www.nexans.ci)|185.67.149.26|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nexans.ci/France/2019/Titanex_Marine_BV%202019.pdf [following]
+--2020-02-25 21:59:19--  https://www.nexans.ci/France/2019/Titanex_Marine_BV%202019.pdf
+Reusing existing connection to www.nexans.ci:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 424077 (414K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 16.4M 0s
+    50K .......... .......... .......... .......... .......... 24% 48.6M 0s
+   100K .......... .......... .......... .......... .......... 36% 48.4M 0s
+   150K .......... .......... .......... .......... .......... 48% 1.15G 0s
+   200K .......... .......... .......... .......... .......... 60% 51.0M 0s
+   250K .......... .......... .......... .......... .......... 72%  541M 0s
+   300K .......... .......... .......... .......... .......... 84% 53.9M 0s
+   350K .......... .......... .......... .......... .......... 96%  737M 0s
+   400K .......... ....                                       100%  430M=0.06s
+
+2020-02-25 21:59:19 (57.0 Mb/s) - ‘/dev/null’ saved [424077/424077]
+

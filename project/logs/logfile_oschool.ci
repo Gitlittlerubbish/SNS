@@ -1,0 +1,64 @@
+--2020-02-25 21:59:53--  https://oschool.ci/wp-content/uploads/2017/05/sql_2.pdf%0D
+Resolving oschool.ci (oschool.ci)... 163.172.192.138
+Connecting to oschool.ci (oschool.ci)|163.172.192.138|:443... connected.
+--2020-02-25 21:59:53--  https://oschool.ci/wp-content/uploads/2017/05/sql_2.pdf%0D
+Resolving oschool.ci (oschool.ci)... 163.172.192.138
+Connecting to oschool.ci (oschool.ci)|163.172.192.138|:443... connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://oschool.ci/erreur-404/ [following]
+--2020-02-25 21:59:54--  https://oschool.ci/erreur-404/
+Reusing existing connection to oschool.ci:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://oschool.ci/erreur-404/ [following]
+--2020-02-25 21:59:54--  https://oschool.ci/erreur-404/
+Reusing existing connection to oschool.ci:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52.5M
+    50K .......... .......... .......... ......                2.66M=0.1s
+
+2020-02-25 21:59:55 (5.87 Mb/s) - ‘/dev/null’ saved [88927]
+
+--2020-02-25 21:59:55--  https://oschool.ci/wp-content/uploads/2017/05/sql_2.pdf%0D
+Resolving oschool.ci (oschool.ci)... 163.172.192.138
+Connecting to oschool.ci (oschool.ci)|163.172.192.138|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49.9M
+    50K .......... .......... .......... ......                3.06M=0.1s
+
+2020-02-25 21:59:56 (6.65 Mb/s) - ‘/dev/null’ saved [88927]
+
+--2020-02-25 21:59:56--  https://oschool.ci/wp-content/uploads/2017/05/sql_2.pdf%0D
+Resolving oschool.ci (oschool.ci)... 163.172.192.138
+Connecting to oschool.ci (oschool.ci)|163.172.192.138|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://oschool.ci/erreur-404/ [following]
+--2020-02-25 21:59:56--  https://oschool.ci/erreur-404/
+Reusing existing connection to oschool.ci:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://oschool.ci/erreur-404/ [following]
+--2020-02-25 21:59:57--  https://oschool.ci/erreur-404/
+Reusing existing connection to oschool.ci:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47.6M
+    50K .......... .......... .......... ......                4.65M=0.07s
+
+2020-02-25 21:59:57 (9.68 Mb/s) - ‘/dev/null’ saved [88927]
+
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47.1M
+    50K .......... .......... .......... ......                2.79M=0.1s
+
+2020-02-25 21:59:58 (6.09 Mb/s) - ‘/dev/null’ saved [88927]
+

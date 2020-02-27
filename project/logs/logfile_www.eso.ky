@@ -1,0 +1,14 @@
+--2020-02-25 21:38:11--  https://www.eso.ky/docum1/docum161.pdf%0D
+Resolving www.eso.ky (www.eso.ky)... 104.26.13.89, 104.26.12.89
+Connecting to www.eso.ky (www.eso.ky)|104.26.13.89|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+Cookie coming from www.eso.ky attempted to set domain to eso.ky
+2020-02-25 21:38:11 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:39:29--  https://www.eso.ky/docum1/docum161.pdf%0D
+Resolving www.eso.ky (www.eso.ky)... 104.26.12.89, 104.26.13.89
+Connecting to www.eso.ky (www.eso.ky)|104.26.12.89|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+Cookie coming from www.eso.ky attempted to set domain to eso.ky
+2020-02-25 21:39:29 ERROR 500: Internal Server Error.
+

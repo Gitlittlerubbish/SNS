@@ -1,0 +1,9 @@
+--2020-02-25 22:20:06--  https://rbf.gov.fj/docs/2004_01_wp.pdf%0D
+Resolving rbf.gov.fj (rbf.gov.fj)... --2020-02-25 22:20:06--  https://rbf.gov.fj/docs/2004_01_wp.pdf%0D
+Resolving rbf.gov.fj (rbf.gov.fj)... 103.244.230.120
+Connecting to rbf.gov.fj (rbf.gov.fj)|103.244.230.120|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:20:08 ERROR 400: Bad Request.
+
+failed: Connection timed out.
+wget: unable to resolve host address ‘rbf.gov.fj’

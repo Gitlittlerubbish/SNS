@@ -1,0 +1,6 @@
+--2020-02-25 23:05:56--  http://zu.edu.jo/FileResource/Regulation_Pdf/04.pdf%0D
+Resolving zu.edu.jo (zu.edu.jo)... 212.35.78.193
+Connecting to zu.edu.jo (zu.edu.jo)|212.35.78.193|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:56 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:59:06--  http://www.sintimex.co.mz/output_efile.aspx%3Fid_file%3D32964%0D
+Resolving www.sintimex.co.mz (www.sintimex.co.mz)... 93.104.209.173
+Connecting to www.sintimex.co.mz (www.sintimex.co.mz)|93.104.209.173|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:59:06 ERROR 400: Bad Request.
+

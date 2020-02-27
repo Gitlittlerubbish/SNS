@@ -1,0 +1,6 @@
+--2020-02-25 23:26:47--  http://ebook.cev.lu/general/FIVBSportRegulations/FIVB_Sports_Regulations.pdf%0D
+Resolving ebook.cev.lu (ebook.cev.lu)... 213.186.33.5
+Connecting to ebook.cev.lu (ebook.cev.lu)|213.186.33.5|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:26:47 ERROR 400: Bad Request.
+

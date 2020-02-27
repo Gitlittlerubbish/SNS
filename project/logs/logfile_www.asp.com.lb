@@ -1,0 +1,6 @@
+--2020-02-25 23:20:44--  http://www.asp.com.lb/catalog.pdf%0D
+Resolving www.asp.com.lb (www.asp.com.lb)... 69.90.145.10
+Connecting to www.asp.com.lb (www.asp.com.lb)|69.90.145.10|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:20:44 ERROR 400: Bad Request.
+

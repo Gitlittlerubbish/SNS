@@ -1,0 +1,28 @@
+--2020-02-25 21:31:55--  https://www.cne.cv/images/Docs/Decreto_Presidencial_legislativas.pdf%0D
+Resolving www.cne.cv (www.cne.cv)... 213.150.196.36
+Connecting to www.cne.cv (www.cne.cv)|213.150.196.36|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...        2.34M=0.2s
+
+2020-02-25 21:31:56 (2.34 Mb/s) - ‘/dev/null’ saved [45027]
+
+--2020-02-25 21:31:56--  https://www.cne.cv/images/Docs/Decreto_Presidencial_legislativas.pdf%0D
+Resolving www.cne.cv (www.cne.cv)... 213.150.196.36
+Connecting to www.cne.cv (www.cne.cv)|213.150.196.36|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...        2.48M=0.1s
+
+2020-02-25 21:31:57 (2.48 Mb/s) - ‘/dev/null’ saved [45027]
+
+--2020-02-25 21:35:05--  https://www.cne.cv/images/Docs/Decreto_Presidencial_legislativas.pdf%0D
+Resolving www.cne.cv (www.cne.cv)... 213.150.196.36
+Connecting to www.cne.cv (www.cne.cv)|213.150.196.36|:443... connected.
+HTTP request sent, awaiting response... 508 Loop Detected
+2020-02-25 21:35:05 ERROR 508: Loop Detected.
+

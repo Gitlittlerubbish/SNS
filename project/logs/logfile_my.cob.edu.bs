@@ -1,0 +1,12 @@
+--2020-02-25 21:01:50--  http://my.cob.edu.bs/resource/resmgr/COB_07_Giving_Report-FINWEB.pdf%0D
+Resolving my.cob.edu.bs (my.cob.edu.bs)... 35.169.50.49, 35.174.132.21, 35.173.82.140
+Connecting to my.cob.edu.bs (my.cob.edu.bs)|35.169.50.49|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:50 ERROR 400: Bad Request.
+
+--2020-02-25 21:13:16--  http://my.cob.edu.bs/resource/resmgr/COB_07_Giving_Report-FINWEB.pdf%0D
+Resolving my.cob.edu.bs (my.cob.edu.bs)... 35.174.132.21, 35.173.82.140, 35.169.50.49
+Connecting to my.cob.edu.bs (my.cob.edu.bs)|35.174.132.21|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:13:16 ERROR 400: Bad Request.
+

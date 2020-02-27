@@ -1,22 +1,6 @@
---2020-02-25 15:36:19--  http://www.douanemobile.dz/IMG/pdf/guideoperateur.pdf
+--2020-02-25 20:59:38--  http://www.douanemobile.dz/IMG/pdf/guideoperateur.pdf%0D
 Resolving www.douanemobile.dz (www.douanemobile.dz)... 80.246.1.129
 Connecting to www.douanemobile.dz (www.douanemobile.dz)|80.246.1.129|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 21874 (21K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .                               100% 4.17M=0.04s
-
-2020-02-25 15:36:19 (4.17 Mb/s) - ‘/dev/null’ saved [21874/21874]
-
---2020-02-25 15:36:19--  http://www.douanemobile.dz/IMG/pdf/guideoperateur.pdf
-Resolving www.douanemobile.dz (www.douanemobile.dz)... 80.246.1.129
-Connecting to www.douanemobile.dz (www.douanemobile.dz)|80.246.1.129|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 21874 (21K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .                               100% 3.04M=0.06s
-
-2020-02-25 15:36:19 (3.04 Mb/s) - ‘/dev/null’ saved [21874/21874]
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:38 ERROR 404: Not Found.
 

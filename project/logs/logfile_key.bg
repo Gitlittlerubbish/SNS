@@ -1,0 +1,28 @@
+--2020-02-25 21:27:23--  http://key.bg/add_images/radiocomando_fr1.pdf%0D
+Resolving key.bg (key.bg)... 164.138.223.113
+Connecting to key.bg (key.bg)|164.138.223.113|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://key.bg/add_images/radiocomando_fr1.pdf%0d [following]
+--2020-02-25 21:27:24--  https://key.bg/add_images/radiocomando_fr1.pdf%0d
+Connecting to key.bg (key.bg)|164.138.223.113|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://key.bg/bg/404 [following]
+--2020-02-25 21:27:24--  https://key.bg/bg/404
+Reusing existing connection to key.bg:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:24 ERROR 404: Not Found.
+
+--2020-02-25 21:32:31--  http://key.bg/add_images/radiocomando_fr1.pdf%0D
+Resolving key.bg (key.bg)... 164.138.223.113
+Connecting to key.bg (key.bg)|164.138.223.113|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://key.bg/add_images/radiocomando_fr1.pdf%0d [following]
+--2020-02-25 21:32:31--  https://key.bg/add_images/radiocomando_fr1.pdf%0d
+Connecting to key.bg (key.bg)|164.138.223.113|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://key.bg/bg/404 [following]
+--2020-02-25 21:32:31--  https://key.bg/bg/404
+Reusing existing connection to key.bg:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:31 ERROR 404: Not Found.
+

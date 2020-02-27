@@ -1,0 +1,12 @@
+--2020-02-25 21:39:08--  https://oam.com.ky/documents/ARF-CS-08.pdf%0D
+Resolving oam.com.ky (oam.com.ky)... 132.148.26.25
+Connecting to oam.com.ky (oam.com.ky)|132.148.26.25|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:39:09 ERROR 404: Not Found.
+
+--2020-02-25 21:40:19--  https://oam.com.ky/documents/ARF-CS-08.pdf%0D
+Resolving oam.com.ky (oam.com.ky)... 132.148.26.25
+Connecting to oam.com.ky (oam.com.ky)|132.148.26.25|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:40:19 ERROR 404: Not Found.
+

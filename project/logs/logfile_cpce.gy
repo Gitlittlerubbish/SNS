@@ -1,0 +1,6 @@
+--2020-02-25 22:41:32--  http://cpce.gy/Application_Form_2018_Trained_Teachers_Certificate_(three_years).pdf%0D
+Resolving cpce.gy (cpce.gy)... 66.96.147.159
+Connecting to cpce.gy (cpce.gy)|66.96.147.159|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:41:32 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 20:59:51--  http://www.mhuv.gov.dz/Fichiers/Entreprises_Qualifiees/Guide_Entreprise.pdf%0D
+Resolving www.mhuv.gov.dz (www.mhuv.gov.dz)... 193.251.169.114
+Connecting to www.mhuv.gov.dz (www.mhuv.gov.dz)|193.251.169.114|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:59:51 ERROR 400: Bad Request.
+

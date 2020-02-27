@@ -1,0 +1,6 @@
+--2020-02-26 00:13:41--  https://www.kdec.school.nz/media/Kahoot_Academy_Getting_Started_Guide_2nd_Ed_-_June_2016.pdf%0D
+Resolving www.kdec.school.nz (www.kdec.school.nz)... 104.27.143.156, 104.27.142.156
+Connecting to www.kdec.school.nz (www.kdec.school.nz)|104.27.143.156|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:13:41 ERROR 400: Bad Request.
+

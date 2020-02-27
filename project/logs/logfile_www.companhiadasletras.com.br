@@ -1,0 +1,44 @@
+--2020-02-25 21:21:31--  https://www.companhiadasletras.com.br/trechos/10233.pdf%0D
+Resolving www.companhiadasletras.com.br (www.companhiadasletras.com.br)... 52.7.72.5, 34.204.162.158
+Connecting to www.companhiadasletras.com.br (www.companhiadasletras.com.br)|52.7.72.5|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                2.42M=0.07s
+
+2020-02-25 21:21:31 (2.42 Mb/s) - ‘/dev/null’ saved [22283]
+
+--2020-02-25 21:21:31--  https://www.companhiadasletras.com.br/trechos/10233.pdf%0D
+Resolving www.companhiadasletras.com.br (www.companhiadasletras.com.br)... 52.7.72.5, 34.204.162.158
+Connecting to www.companhiadasletras.com.br (www.companhiadasletras.com.br)|52.7.72.5|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                2.38M=0.08s
+
+2020-02-25 21:21:32 (2.38 Mb/s) - ‘/dev/null’ saved [22283]
+
+--2020-02-25 21:27:14--  https://www.companhiadasletras.com.br/trechos/10233.pdf%0D
+Resolving www.companhiadasletras.com.br (www.companhiadasletras.com.br)... 34.204.162.158, 52.7.72.5
+Connecting to www.companhiadasletras.com.br (www.companhiadasletras.com.br)|34.204.162.158|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                2.37M=0.08s
+
+2020-02-25 21:27:14 (2.37 Mb/s) - ‘/dev/null’ saved [22283]
+
+--2020-02-25 21:27:14--  https://www.companhiadasletras.com.br/trechos/10233.pdf%0D
+Resolving www.companhiadasletras.com.br (www.companhiadasletras.com.br)... 34.204.162.158, 52.7.72.5
+Connecting to www.companhiadasletras.com.br (www.companhiadasletras.com.br)|34.204.162.158|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                2.26M=0.08s
+
+2020-02-25 21:27:15 (2.26 Mb/s) - ‘/dev/null’ saved [22283]
+

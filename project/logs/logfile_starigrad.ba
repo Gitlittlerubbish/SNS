@@ -1,0 +1,12 @@
+--2020-02-25 21:17:41--  http://starigrad.ba/userfiles/file/1312_vodic_salter.pdf%0D
+Resolving starigrad.ba (starigrad.ba)... 80.65.162.78
+Connecting to starigrad.ba (starigrad.ba)|80.65.162.78|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:41 ERROR 404: Not Found.
+
+--2020-02-25 21:24:46--  http://starigrad.ba/userfiles/file/1312_vodic_salter.pdf%0D
+Resolving starigrad.ba (starigrad.ba)... 80.65.162.78
+Connecting to starigrad.ba (starigrad.ba)|80.65.162.78|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:46 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:36:30--  http://www.peru.gob.pe/docs/Estado.pdf%0D
+Resolving www.peru.gob.pe (www.peru.gob.pe)... 200.48.76.74
+Connecting to www.peru.gob.pe (www.peru.gob.pe)|200.48.76.74|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:36:31 ERROR 400: Bad Request.
+

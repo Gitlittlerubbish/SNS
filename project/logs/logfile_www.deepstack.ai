@@ -1,0 +1,6 @@
+--2020-02-25 21:03:08--  https://www.deepstack.ai/s/DeepStack.pdf%0D
+Resolving www.deepstack.ai (www.deepstack.ai)... 198.185.159.145, 198.49.23.144, 198.49.23.145, ...
+Connecting to www.deepstack.ai (www.deepstack.ai)|198.185.159.145|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:08 ERROR 404: Not Found.
+

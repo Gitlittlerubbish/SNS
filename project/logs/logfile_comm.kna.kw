@@ -1,0 +1,12 @@
+--2020-02-25 23:15:47--  http://comm.kna.kw/sattachments/attachsub4_21_2019103700AM_352704440.PDF%0D
+Resolving comm.kna.kw (comm.kna.kw)... 195.78.74.84
+Connecting to comm.kna.kw (comm.kna.kw)|195.78.74.84|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 23:15:47 ERROR 403: Forbidden.
+
+--2020-02-25 23:15:47--  http://comm.kna.kw/sattachments/6_14_2017114916AM_1004451500_a.PDF%0D
+Resolving comm.kna.kw (comm.kna.kw)... 195.78.74.84
+Connecting to comm.kna.kw (comm.kna.kw)|195.78.74.84|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 23:15:48 ERROR 403: Forbidden.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:43:56--  http://energie.mq/wp-content/uploads/2013/07/Guide-ECODOM%2B.pdf%0D
+Resolving energie.mq (energie.mq)... 213.186.33.3
+Connecting to energie.mq (energie.mq)|213.186.33.3|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:43:58 ERROR 404: Not Found.
+

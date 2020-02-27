@@ -1,0 +1,12 @@
+--2020-02-25 21:47:28--  http://svlwe.cn/maps/images/campus_map.pdf%0D
+Resolving svlwe.cn (svlwe.cn)... --2020-02-25 21:47:28--  http://svlwe.cn/maps/images/campus_map.pdf%0D
+Resolving svlwe.cn (svlwe.cn)... 154.86.171.219
+Connecting to svlwe.cn (svlwe.cn)|154.86.171.219|:80... 154.86.171.219
+Connecting to svlwe.cn (svlwe.cn)|154.86.171.219|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:47:28 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 21:47:28 ERROR 400: Bad Request.
+

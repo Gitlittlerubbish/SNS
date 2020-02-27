@@ -1,0 +1,12 @@
+--2020-02-25 21:25:42--  http://www.utb.edu.bn/prospectus.pdf%0D
+Resolving www.utb.edu.bn (www.utb.edu.bn)... 202.152.82.205
+Connecting to www.utb.edu.bn (www.utb.edu.bn)|202.152.82.205|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:25:43 ERROR 403: Forbidden.
+
+--2020-02-25 21:31:03--  http://www.utb.edu.bn/prospectus.pdf%0D
+Resolving www.utb.edu.bn (www.utb.edu.bn)... 202.152.82.205
+Connecting to www.utb.edu.bn (www.utb.edu.bn)|202.152.82.205|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:31:04 ERROR 403: Forbidden.
+

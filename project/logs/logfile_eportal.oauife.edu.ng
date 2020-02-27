@@ -1,0 +1,6 @@
+--2020-02-26 00:16:29--  http://eportal.oauife.edu.ng/20192020resumption.pdf%0D
+Resolving eportal.oauife.edu.ng (eportal.oauife.edu.ng)... 196.27.128.7
+Connecting to eportal.oauife.edu.ng (eportal.oauife.edu.ng)|196.27.128.7|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-26 00:16:29 ERROR 500: Internal Server Error.
+

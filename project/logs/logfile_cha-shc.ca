@@ -1,0 +1,12 @@
+--2020-02-25 21:37:29--  https://cha-shc.ca/_uploads/5c38abe2c34a7.pdf%0D
+Resolving cha-shc.ca (cha-shc.ca)... 205.204.84.230
+Connecting to cha-shc.ca (cha-shc.ca)|205.204.84.230|:443... connected.
+HTTP request sent, awaiting response... 404 Resource not found
+2020-02-25 21:37:31 ERROR 404: Resource not found.
+
+--2020-02-25 21:39:00--  https://cha-shc.ca/_uploads/5c38abe2c34a7.pdf%0D
+Resolving cha-shc.ca (cha-shc.ca)... 205.204.84.230
+Connecting to cha-shc.ca (cha-shc.ca)|205.204.84.230|:443... connected.
+HTTP request sent, awaiting response... 404 Resource not found
+2020-02-25 21:39:01 ERROR 404: Resource not found.
+

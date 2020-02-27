@@ -1,0 +1,30 @@
+--2020-02-25 23:02:04--  https://www.jfrl.or.jp/storage/file/news_vol3_no19.pdf%0D
+Resolving www.jfrl.or.jp (www.jfrl.or.jp)... 13.115.11.183, 13.112.243.180
+Connecting to www.jfrl.or.jp (www.jfrl.or.jp)|13.115.11.183|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.jfrl.or.jp [following]
+--2020-02-25 23:02:05--  https://www.jfrl.or.jp/
+Reusing existing connection to www.jfrl.or.jp:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ....                   417M=0.001s
+
+2020-02-25 23:02:06 (417 Mb/s) - ‘/dev/null’ saved [34848]
+
+--2020-02-25 23:02:06--  https://www.jfrl.or.jp/storage/file/news_vol3_no19.pdf%0D
+Resolving www.jfrl.or.jp (www.jfrl.or.jp)... 13.112.243.180, 13.115.11.183
+Connecting to www.jfrl.or.jp (www.jfrl.or.jp)|13.112.243.180|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.jfrl.or.jp [following]
+--2020-02-25 23:02:07--  https://www.jfrl.or.jp/
+Reusing existing connection to www.jfrl.or.jp:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ....                  1.27M=0.2s
+
+2020-02-25 23:02:08 (1.27 Mb/s) - ‘/dev/null’ saved [34848]
+

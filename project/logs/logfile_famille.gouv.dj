@@ -1,0 +1,12 @@
+--2020-02-25 22:06:40--  https://famille.gouv.dj/uploads/publications/697a581ccde22c7b18e462a5129f8329.pdf%0D
+Resolving famille.gouv.dj (famille.gouv.dj)... --2020-02-25 22:06:40--  https://famille.gouv.dj/uploads/publications/697a581ccde22c7b18e462a5129f8329.pdf%0D
+Resolving famille.gouv.dj (famille.gouv.dj)... 197.241.36.22
+Connecting to famille.gouv.dj (famille.gouv.dj)|197.241.36.22|:443... connected.
+197.241.36.22
+Connecting to famille.gouv.dj (famille.gouv.dj)|197.241.36.22|:443... ERROR: cannot verify famille.gouv.dj's certificate, issued by ‘CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE’:
+  Unable to locally verify the issuer's authority.
+To connect to famille.gouv.dj insecurely, use `--no-check-certificate'.
+connected.
+ERROR: cannot verify famille.gouv.dj's certificate, issued by ‘CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE’:
+  Unable to locally verify the issuer's authority.
+To connect to famille.gouv.dj insecurely, use `--no-check-certificate'.

@@ -1,0 +1,10 @@
+--2020-02-25 23:26:23--  http://www.cc.lu/uploads/tx_userccpublications/VivreetTravailler_FR_2009.pdf%0D
+Resolving www.cc.lu (www.cc.lu)... 88.99.105.45
+Connecting to www.cc.lu (www.cc.lu)|88.99.105.45|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cc.lu/uploads/tx_userccpublications/VivreetTravailler_FR_2009.pdf%0d [following]
+--2020-02-25 23:26:23--  https://www.cc.lu/uploads/tx_userccpublications/VivreetTravailler_FR_2009.pdf%0d
+Connecting to www.cc.lu (www.cc.lu)|88.99.105.45|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:26:23 ERROR 404: Not Found.
+

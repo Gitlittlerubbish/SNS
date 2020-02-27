@@ -1,0 +1,12 @@
+--2020-02-25 22:31:42--  https://www.delta-hamburg.de/speisekarte.pdf%0D
+Resolving www.delta-hamburg.de (www.delta-hamburg.de)... 185.41.104.155
+Connecting to www.delta-hamburg.de (www.delta-hamburg.de)|185.41.104.155|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:31:43--  https://www.delta-hamburg.de/speisekarte.pdf%0D
+404 Not Found
+Resolving www.delta-hamburg.de (www.delta-hamburg.de)... 185.41.104.155
+Connecting to www.delta-hamburg.de (www.delta-hamburg.de)|185.41.104.155|:443... 2020-02-25 22:31:43 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:31:43 ERROR 404: Not Found.
+

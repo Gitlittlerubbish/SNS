@@ -1,0 +1,12 @@
+--2020-02-25 22:23:03--  http://www.fernandmeunier.fr/la-chambre-claire.pdf%0D
+Resolving www.fernandmeunier.fr (www.fernandmeunier.fr)... 81.169.145.85
+Connecting to www.fernandmeunier.fr (www.fernandmeunier.fr)|81.169.145.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:04 ERROR 404: Not Found.
+
+--2020-02-25 22:23:04--  http://www.fernandmeunier.fr/la-chambre-claire.pdf%0D
+Resolving www.fernandmeunier.fr (www.fernandmeunier.fr)... 81.169.145.85
+Connecting to www.fernandmeunier.fr (www.fernandmeunier.fr)|81.169.145.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:04 ERROR 404: Not Found.
+

@@ -1,0 +1,11 @@
+--2020-02-25 22:51:24--  https://sku.id/catalog/skuid_whitepaper02.pdf%0D
+Resolving sku.id (sku.id)... 104.16.95.60, 104.16.96.60
+Connecting to sku.id (sku.id)|104.16.95.60|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://trustlogin.com/catalog/skuid_whitepaper02.pdf%0d [following]
+--2020-02-25 22:51:25--  https://trustlogin.com/catalog/skuid_whitepaper02.pdf%0d
+Resolving trustlogin.com (trustlogin.com)... 104.16.52.63, 104.16.51.63
+Connecting to trustlogin.com (trustlogin.com)|104.16.52.63|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:51:27 ERROR 404: Not Found.
+

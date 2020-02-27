@@ -1,0 +1,12 @@
+--2020-02-25 21:01:57--  http://scb.gov.bs/documents/ACT-InvestmentFundsAct2003.pdf%0D
+Resolving scb.gov.bs (scb.gov.bs)... 66.96.146.52
+Connecting to scb.gov.bs (scb.gov.bs)|66.96.146.52|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:58 ERROR 400: Bad Request.
+
+--2020-02-25 21:13:23--  http://scb.gov.bs/documents/ACT-InvestmentFundsAct2003.pdf%0D
+Resolving scb.gov.bs (scb.gov.bs)... 66.96.146.52
+Connecting to scb.gov.bs (scb.gov.bs)|66.96.146.52|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:13:23 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:14:33--  https://www.citizenservices.gov.bt/JobPortal/manuals/Jobportal_Manual.pdf%0D
+Resolving www.citizenservices.gov.bt (www.citizenservices.gov.bt)... 103.78.116.143
+Connecting to www.citizenservices.gov.bt (www.citizenservices.gov.bt)|103.78.116.143|:443... connected.
+HTTP request sent, awaiting response... 503 Service Temporarily Unavailable
+2020-02-25 21:14:35 ERROR 503: Service Temporarily Unavailable.
+
+--2020-02-25 21:22:25--  https://www.citizenservices.gov.bt/JobPortal/manuals/Jobportal_Manual.pdf%0D
+Resolving www.citizenservices.gov.bt (www.citizenservices.gov.bt)... 103.78.116.143
+Connecting to www.citizenservices.gov.bt (www.citizenservices.gov.bt)|103.78.116.143|:443... connected.
+HTTP request sent, awaiting response... 503 Service Temporarily Unavailable
+2020-02-25 21:22:26 ERROR 503: Service Temporarily Unavailable.
+

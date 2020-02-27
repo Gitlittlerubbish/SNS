@@ -1,0 +1,20 @@
+--2020-02-25 22:58:19--  https://brazil.progress.im/sites/default/files/attachments/bula_lexapro.pdf%0D
+Resolving brazil.progress.im (brazil.progress.im)... 35.158.231.75
+Connecting to brazil.progress.im (brazil.progress.im)|35.158.231.75|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://brazil.progress.im/pt-br/sites/default/files/attachments/bula_lexapro.pdf%0D [following]
+--2020-02-25 22:58:19--  https://brazil.progress.im/pt-br/sites/default/files/attachments/bula_lexapro.pdf%0D
+Reusing existing connection to brazil.progress.im:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:58:19 ERROR 404: Not Found.
+
+--2020-02-25 22:58:19--  https://brazil.progress.im/sites/default/files/attachments/bula_clopixol.pdf%0D
+Resolving brazil.progress.im (brazil.progress.im)... 35.158.231.75
+Connecting to brazil.progress.im (brazil.progress.im)|35.158.231.75|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://brazil.progress.im/pt-br/sites/default/files/attachments/bula_clopixol.pdf%0D [following]
+--2020-02-25 22:58:19--  https://brazil.progress.im/pt-br/sites/default/files/attachments/bula_clopixol.pdf%0D
+Reusing existing connection to brazil.progress.im:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:58:19 ERROR 404: Not Found.
+

@@ -1,0 +1,20 @@
+--2020-02-25 21:08:30--  http://www.businesslounge.bz/RIUNIONI-AZIENDALI.pdf%0D
+Resolving www.businesslounge.bz (www.businesslounge.bz)... 213.92.49.94
+Connecting to www.businesslounge.bz (www.businesslounge.bz)|213.92.49.94|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.businesslounge.bz/RIUNIONI-AZIENDALI.pdf%0d [following]
+--2020-02-25 21:08:30--  https://www.businesslounge.bz/RIUNIONI-AZIENDALI.pdf%0d
+Connecting to www.businesslounge.bz (www.businesslounge.bz)|213.92.49.94|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:08:31 ERROR 404: Not Found.
+
+--2020-02-25 21:18:16--  http://www.businesslounge.bz/RIUNIONI-AZIENDALI.pdf%0D
+Resolving www.businesslounge.bz (www.businesslounge.bz)... 213.92.49.94
+Connecting to www.businesslounge.bz (www.businesslounge.bz)|213.92.49.94|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.businesslounge.bz/RIUNIONI-AZIENDALI.pdf%0d [following]
+--2020-02-25 21:18:16--  https://www.businesslounge.bz/RIUNIONI-AZIENDALI.pdf%0d
+Connecting to www.businesslounge.bz (www.businesslounge.bz)|213.92.49.94|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:16 ERROR 404: Not Found.
+

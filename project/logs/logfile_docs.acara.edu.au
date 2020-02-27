@@ -1,0 +1,12 @@
+--2020-02-25 20:59:13--  https://docs.acara.edu.au/resources/About_icsea_2014.pdf%0D
+Resolving docs.acara.edu.au (docs.acara.edu.au)... 104.20.237.24, 104.20.236.24
+Connecting to docs.acara.edu.au (docs.acara.edu.au)|104.20.237.24|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:59:14 ERROR 400: Bad Request.
+
+--2020-02-25 21:11:20--  https://docs.acara.edu.au/resources/About_icsea_2014.pdf%0D
+Resolving docs.acara.edu.au (docs.acara.edu.au)... 104.20.236.24, 104.20.237.24
+Connecting to docs.acara.edu.au (docs.acara.edu.au)|104.20.236.24|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:21 ERROR 400: Bad Request.
+

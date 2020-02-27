@@ -1,0 +1,64 @@
+--2020-02-25 21:46:32--  http://paper.medlive.cn/fulltext/download/12474%0D
+Resolving paper.medlive.cn (paper.medlive.cn)... 211.103.157.135
+Connecting to paper.medlive.cn (paper.medlive.cn)|211.103.157.135|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.medlive.cn:80/auth/login?service=http%3A%2F%2Fpaper.medlive.cn%2Ffulltext%2Fdownload%2F12474%250D [following]
+--2020-02-25 21:46:33--  http://www.medlive.cn/auth/login?service=http%3A%2F%2Fpaper.medlive.cn%2Ffulltext%2Fdownload%2F12474%250D
+Resolving www.medlive.cn (www.medlive.cn)... 211.103.157.135
+Reusing existing connection to paper.medlive.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                 914K=0.2s
+
+2020-02-25 21:46:33 (914 Kb/s) - ‘/dev/null’ saved [21663]
+
+--2020-02-25 21:46:33--  http://paper.medlive.cn/fulltext/download/12474%0D
+Resolving paper.medlive.cn (paper.medlive.cn)... 211.103.157.135
+Connecting to paper.medlive.cn (paper.medlive.cn)|211.103.157.135|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.medlive.cn:80/auth/login?service=http%3A%2F%2Fpaper.medlive.cn%2Ffulltext%2Fdownload%2F12474%250D [following]
+--2020-02-25 21:46:34--  http://www.medlive.cn/auth/login?service=http%3A%2F%2Fpaper.medlive.cn%2Ffulltext%2Fdownload%2F12474%250D
+Resolving www.medlive.cn (www.medlive.cn)... 211.103.157.135
+Reusing existing connection to paper.medlive.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                 978K=0.2s
+
+2020-02-25 21:46:34 (978 Kb/s) - ‘/dev/null’ saved [21663]
+
+--2020-02-25 21:46:36--  http://paper.medlive.cn/fulltext/download/12474%0D
+Resolving paper.medlive.cn (paper.medlive.cn)... 211.103.157.135
+Connecting to paper.medlive.cn (paper.medlive.cn)|211.103.157.135|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.medlive.cn:80/auth/login?service=http%3A%2F%2Fpaper.medlive.cn%2Ffulltext%2Fdownload%2F12474%250D [following]
+--2020-02-25 21:46:36--  http://www.medlive.cn/auth/login?service=http%3A%2F%2Fpaper.medlive.cn%2Ffulltext%2Fdownload%2F12474%250D
+Resolving www.medlive.cn (www.medlive.cn)... 211.103.157.135
+Reusing existing connection to paper.medlive.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                1.05M=0.2s
+
+2020-02-25 21:46:37 (1.05 Mb/s) - ‘/dev/null’ saved [21663]
+
+--2020-02-25 21:46:37--  http://paper.medlive.cn/fulltext/download/12474%0D
+Resolving paper.medlive.cn (paper.medlive.cn)... 211.103.157.135
+Connecting to paper.medlive.cn (paper.medlive.cn)|211.103.157.135|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.medlive.cn:80/auth/login?service=http%3A%2F%2Fpaper.medlive.cn%2Ffulltext%2Fdownload%2F12474%250D [following]
+--2020-02-25 21:46:37--  http://www.medlive.cn/auth/login?service=http%3A%2F%2Fpaper.medlive.cn%2Ffulltext%2Fdownload%2F12474%250D
+Resolving www.medlive.cn (www.medlive.cn)... 211.103.157.135
+Reusing existing connection to paper.medlive.cn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                1.04M=0.2s
+
+2020-02-25 21:46:38 (1.04 Mb/s) - ‘/dev/null’ saved [21663]
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:05:05--  http://www.ie.com.bd/adminview/productDatasheetDownload/600.pdf%0D
+Resolving www.ie.com.bd (www.ie.com.bd)... 192.185.96.107
+Connecting to www.ie.com.bd (www.ie.com.bd)|192.185.96.107|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:05:05 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:15:39--  http://www.ie.com.bd/adminview/productDatasheetDownload/600.pdf%0D
+Resolving www.ie.com.bd (www.ie.com.bd)... 192.185.96.107
+Connecting to www.ie.com.bd (www.ie.com.bd)|192.185.96.107|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:15:40 ERROR 500: Internal Server Error.
+

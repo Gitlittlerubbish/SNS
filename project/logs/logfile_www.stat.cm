@@ -1,0 +1,12 @@
+--2020-02-25 21:35:01--  http://www.stat.cm/downloads/GATS_CMR_report_Final.pdf%0D
+Resolving www.stat.cm (www.stat.cm)... 209.236.71.57
+Connecting to www.stat.cm (www.stat.cm)|209.236.71.57|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:02 ERROR 404: Not Found.
+
+--2020-02-25 21:37:16--  http://www.stat.cm/downloads/GATS_CMR_report_Final.pdf%0D
+Resolving www.stat.cm (www.stat.cm)... 209.236.71.57
+Connecting to www.stat.cm (www.stat.cm)|209.236.71.57|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:16 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:00:13--  http://yric.az/GTK_Book_2.pdf%0D
+Resolving yric.az (yric.az)... 160.153.16.30
+Connecting to yric.az (yric.az)|160.153.16.30|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:13 ERROR 404: Not Found.
+
+--2020-02-25 21:12:13--  http://yric.az/GTK_Book_2.pdf%0D
+Resolving yric.az (yric.az)... 160.153.16.30
+Connecting to yric.az (yric.az)|160.153.16.30|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:13 ERROR 404: Not Found.
+

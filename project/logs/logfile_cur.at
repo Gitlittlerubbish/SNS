@@ -1,0 +1,12 @@
+--2020-02-25 20:59:24--  https://cur.at/rXTP1m1%0D
+Resolving cur.at (cur.at)... 109.107.35.239
+Connecting to cur.at (cur.at)|109.107.35.239|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:24 ERROR 404: Not Found.
+
+--2020-02-25 21:11:33--  https://cur.at/rXTP1m1%0D
+Resolving cur.at (cur.at)... 109.107.35.239
+Connecting to cur.at (cur.at)|109.107.35.239|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:33 ERROR 404: Not Found.
+

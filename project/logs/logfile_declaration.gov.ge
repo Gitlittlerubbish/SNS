@@ -1,0 +1,12 @@
+--2020-02-25 22:30:49--  https://declaration.gov.ge/Home/DownloadPdf/115509%0D
+Resolving declaration.gov.ge (declaration.gov.ge)... 5.159.20.8
+Connecting to declaration.gov.ge (declaration.gov.ge)|5.159.20.8|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:30:50 ERROR 400: Bad Request.
+
+--2020-02-25 22:30:50--  https://declaration.gov.ge/Home/DownloadPdf/115509%0D
+Resolving declaration.gov.ge (declaration.gov.ge)... 5.159.20.8
+Connecting to declaration.gov.ge (declaration.gov.ge)|5.159.20.8|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:30:51 ERROR 400: Bad Request.
+

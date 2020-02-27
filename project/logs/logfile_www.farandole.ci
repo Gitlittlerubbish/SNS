@@ -1,0 +1,12 @@
+--2020-02-25 21:59:49--  http://www.farandole.ci/documents/Engagement_bonne_conduite_sn.pdf%0D
+Resolving www.farandole.ci (www.farandole.ci)... 80.86.198.10
+Connecting to www.farandole.ci (www.farandole.ci)|80.86.198.10|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:59:49 ERROR 404: Not Found.
+
+--2020-02-25 21:59:50--  http://www.farandole.ci/documents/Engagement_bonne_conduite_sn.pdf%0D
+Resolving www.farandole.ci (www.farandole.ci)... 80.86.198.10
+Connecting to www.farandole.ci (www.farandole.ci)|80.86.198.10|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:59:50 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:22:32--  https://www.vtt.fi/inf/pdf/publications/2001/P446.pdf%0D
+Resolving www.vtt.fi (www.vtt.fi)... 91.197.85.151
+Connecting to www.vtt.fi (www.vtt.fi)|91.197.85.151|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:22:32 ERROR 400: Bad Request.
+
+--2020-02-25 22:22:32--  https://www.vtt.fi/inf/pdf/publications/2001/P446.pdf%0D
+Resolving www.vtt.fi (www.vtt.fi)... 91.197.85.151
+Connecting to www.vtt.fi (www.vtt.fi)|91.197.85.151|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:22:32 ERROR 400: Bad Request.
+

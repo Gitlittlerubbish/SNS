@@ -1,0 +1,6 @@
+--2020-02-25 23:10:56--  http://www.ftc.info.ki/wp-content/uploads/2012/08/link1.pdf%0D
+Resolving www.ftc.info.ki (www.ftc.info.ki)... 64.111.126.136
+Connecting to www.ftc.info.ki (www.ftc.info.ki)|64.111.126.136|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:10:58 ERROR 404: Not Found.
+

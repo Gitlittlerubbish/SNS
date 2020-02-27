@@ -1,0 +1,6 @@
+--2020-02-25 22:47:26--  http://simplepartner.hu/PaymentService/Fizetesi_tajekoztato.pdf%0D
+Resolving simplepartner.hu (simplepartner.hu)... 94.199.53.96
+Connecting to simplepartner.hu (simplepartner.hu)|94.199.53.96|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:47:26 ERROR 404: Not Found.
+

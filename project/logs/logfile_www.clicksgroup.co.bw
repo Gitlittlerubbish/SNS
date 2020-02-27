@@ -1,0 +1,12 @@
+--2020-02-25 21:18:26--  https://www.clicksgroup.co.bw/IRDownloads/IntegratedAnnualReport2018/Clicks_CorpGov_2018_online.pdf%0D
+Resolving www.clicksgroup.co.bw (www.clicksgroup.co.bw)... 196.38.93.10
+Connecting to www.clicksgroup.co.bw (www.clicksgroup.co.bw)|196.38.93.10|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.clicksgroup.co.bw’.
+To connect to www.clicksgroup.co.bw insecurely, use `--no-check-certificate'.
+--2020-02-25 21:25:13--  https://www.clicksgroup.co.bw/IRDownloads/IntegratedAnnualReport2018/Clicks_CorpGov_2018_online.pdf%0D
+Resolving www.clicksgroup.co.bw (www.clicksgroup.co.bw)... 196.38.93.10
+Connecting to www.clicksgroup.co.bw (www.clicksgroup.co.bw)|196.38.93.10|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.clicksgroup.co.bw’.
+To connect to www.clicksgroup.co.bw insecurely, use `--no-check-certificate'.

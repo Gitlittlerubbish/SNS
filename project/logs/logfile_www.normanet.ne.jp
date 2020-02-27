@@ -1,0 +1,10 @@
+--2020-02-25 23:03:02--  http://www.normanet.ne.jp/~SIJ/pdf/sabekai_leaflet_p.pdf%0D
+Resolving www.normanet.ne.jp (www.normanet.ne.jp)... 54.64.193.217, 54.249.61.48
+Connecting to www.normanet.ne.jp (www.normanet.ne.jp)|54.64.193.217|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.normanet.ne.jp:443/~SIJ/pdf/sabekai_leaflet_p.pdf%0D [following]
+--2020-02-25 23:03:03--  https://www.normanet.ne.jp/~SIJ/pdf/sabekai_leaflet_p.pdf%0D
+Connecting to www.normanet.ne.jp (www.normanet.ne.jp)|54.64.193.217|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:03:04 ERROR 404: Not Found.
+

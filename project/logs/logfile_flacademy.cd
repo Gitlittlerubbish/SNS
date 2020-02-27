@@ -1,0 +1,24 @@
+--2020-02-25 21:55:26--  http://flacademy.cd/docs/grade2.pdf%0D
+Resolving flacademy.cd (flacademy.cd)... --2020-02-25 21:55:26--  http://flacademy.cd/docs/grade2.pdf%0D
+Resolving flacademy.cd (flacademy.cd)... 154.72.53.85
+Connecting to flacademy.cd (flacademy.cd)|154.72.53.85|:80... 154.72.53.85
+Connecting to flacademy.cd (flacademy.cd)|154.72.53.85|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:55:27 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 21:55:27 ERROR 404: Not Found.
+
+--2020-02-25 21:55:27--  http://flacademy.cd/docs/grade7.pdf%0D
+Resolving flacademy.cd (flacademy.cd)... --2020-02-25 21:55:27--  http://flacademy.cd/docs/grade7.pdf%0D
+Resolving flacademy.cd (flacademy.cd)... 154.72.53.85
+Connecting to flacademy.cd (flacademy.cd)|154.72.53.85|:80... 154.72.53.85
+Connecting to flacademy.cd (flacademy.cd)|154.72.53.85|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:55:27 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 21:55:27 ERROR 404: Not Found.
+

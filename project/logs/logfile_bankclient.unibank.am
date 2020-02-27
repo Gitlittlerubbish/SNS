@@ -1,0 +1,12 @@
+--2020-02-25 20:54:48--  https://bankclient.unibank.am/help/HELP_ARM.pdf%0D
+Resolving bankclient.unibank.am (bankclient.unibank.am)... 91.103.26.253, 212.34.241.68
+Connecting to bankclient.unibank.am (bankclient.unibank.am)|91.103.26.253|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:54:48 ERROR 400: Bad Request.
+
+--2020-02-25 21:07:40--  https://bankclient.unibank.am/help/HELP_ARM.pdf%0D
+Resolving bankclient.unibank.am (bankclient.unibank.am)... 212.34.241.68, 91.103.26.253
+Connecting to bankclient.unibank.am (bankclient.unibank.am)|212.34.241.68|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:07:40 ERROR 400: Bad Request.
+

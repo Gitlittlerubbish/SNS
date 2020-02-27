@@ -1,0 +1,12 @@
+--2020-02-25 22:23:09--  https://www.seb.fr/medias/%3Fcontext%3DbWFzdGVyfHJvb3R8OTk1ODEyfGFwcGxpY2F0aW9uL3BkZnxoNWUvaGJjLzEyNDcwMTI1MzMwNDYyLnBkZnw1YTlhMzJjMmNlMmY4YjExMGU0MzRlYmNlMGVlZDk4ZWYxNmUzYmVkNDA0MWE3Mzc0N2FiNTkzNDhmZGE2NjJk%0D
+Resolving www.seb.fr (www.seb.fr)... 13.35.198.76, 13.35.198.49, 13.35.198.127, ...
+Connecting to www.seb.fr (www.seb.fr)|13.35.198.76|:443... connected.
+--2020-02-25 22:23:09--  https://www.seb.fr/medias/%3Fcontext%3DbWFzdGVyfHJvb3R8OTk1ODEyfGFwcGxpY2F0aW9uL3BkZnxoNWUvaGJjLzEyNDcwMTI1MzMwNDYyLnBkZnw1YTlhMzJjMmNlMmY4YjExMGU0MzRlYmNlMGVlZDk4ZWYxNmUzYmVkNDA0MWE3Mzc0N2FiNTkzNDhmZGE2NjJk%0D
+HTTP request sent, awaiting response... Resolving www.seb.fr (www.seb.fr)... 13.35.198.76, 13.35.198.49, 13.35.198.127, ...
+Connecting to www.seb.fr (www.seb.fr)|13.35.198.76|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:23:09 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:23:09 ERROR 400: Bad Request.
+

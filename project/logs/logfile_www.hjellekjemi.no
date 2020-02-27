@@ -1,0 +1,6 @@
+--2020-02-26 00:22:11--  https://www.hjellekjemi.no/productor_doc/ECOonline1400162041_20140515160450188.pdf%0D
+Resolving www.hjellekjemi.no (www.hjellekjemi.no)... 91.189.172.21
+Connecting to www.hjellekjemi.no (www.hjellekjemi.no)|91.189.172.21|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:11 ERROR 400: Bad Request.
+

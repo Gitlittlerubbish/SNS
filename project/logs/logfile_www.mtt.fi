@@ -1,0 +1,60 @@
+--2020-02-25 22:22:01--  http://www.mtt.fi/mtts/pdf/mtts78.pdf%0D
+Resolving www.mtt.fi (www.mtt.fi)... 193.166.18.143
+Connecting to www.mtt.fi (www.mtt.fi)|193.166.18.143|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.mtt.fi/virhe.html [following]
+--2020-02-25 22:22:01--  http://www.mtt.fi/virhe.html
+Connecting to www.mtt.fi (www.mtt.fi)|193.166.18.143|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2922 (2.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 6.30G=0s
+
+2020-02-25 22:22:01 (6.30 Gb/s) - ‘/dev/null’ saved [2922/2922]
+
+--2020-02-25 22:22:01--  http://www.mtt.fi/mtts/pdf/mtts78.pdf%0D
+Resolving www.mtt.fi (www.mtt.fi)... 193.166.18.143
+Connecting to www.mtt.fi (www.mtt.fi)|193.166.18.143|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.mtt.fi/virhe.html [following]
+--2020-02-25 22:22:01--  http://www.mtt.fi/virhe.html
+Connecting to www.mtt.fi (www.mtt.fi)|193.166.18.143|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2922 (2.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 2.68G=0s
+
+2020-02-25 22:22:01 (2.68 Gb/s) - ‘/dev/null’ saved [2922/2922]
+
+--2020-02-25 22:22:01--  http://www.mtt.fi/mtts/pdf/mtts78.pdf%0D
+Resolving www.mtt.fi (www.mtt.fi)... 193.166.18.143
+Connecting to www.mtt.fi (www.mtt.fi)|193.166.18.143|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.mtt.fi/virhe.html [following]
+--2020-02-25 22:22:01--  http://www.mtt.fi/virhe.html
+Connecting to www.mtt.fi (www.mtt.fi)|193.166.18.143|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2922 (2.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 6.15G=0s
+
+2020-02-25 22:22:01 (6.15 Gb/s) - ‘/dev/null’ saved [2922/2922]
+
+--2020-02-25 22:22:01--  http://www.mtt.fi/mtts/pdf/mtts78.pdf%0D
+Resolving www.mtt.fi (www.mtt.fi)... 193.166.18.143
+Connecting to www.mtt.fi (www.mtt.fi)|193.166.18.143|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.mtt.fi/virhe.html [following]
+--2020-02-25 22:22:01--  http://www.mtt.fi/virhe.html
+Connecting to www.mtt.fi (www.mtt.fi)|193.166.18.143|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2922 (2.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 5.89G=0s
+
+2020-02-25 22:22:02 (5.89 Gb/s) - ‘/dev/null’ saved [2922/2922]
+

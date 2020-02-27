@@ -1,0 +1,12 @@
+--2020-02-25 21:16:15--  http://www.amazonia.bo/administrador/imgnoticia/enganche.pdf%0D
+Resolving www.amazonia.bo (www.amazonia.bo)... 162.241.216.203
+Connecting to www.amazonia.bo (www.amazonia.bo)|162.241.216.203|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:16 ERROR 404: Not Found.
+
+--2020-02-25 21:23:46--  http://www.amazonia.bo/administrador/imgnoticia/enganche.pdf%0D
+Resolving www.amazonia.bo (www.amazonia.bo)... 162.241.216.203
+Connecting to www.amazonia.bo (www.amazonia.bo)|162.241.216.203|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:46 ERROR 404: Not Found.
+

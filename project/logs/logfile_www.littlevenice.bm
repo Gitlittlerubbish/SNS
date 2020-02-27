@@ -1,0 +1,12 @@
+--2020-02-25 21:11:37--  http://www.littlevenice.bm/menu-wine-list.pdf%0D
+Resolving www.littlevenice.bm (www.littlevenice.bm)... 50.116.16.213
+Connecting to www.littlevenice.bm (www.littlevenice.bm)|50.116.16.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:37 ERROR 404: Not Found.
+
+--2020-02-25 21:20:28--  http://www.littlevenice.bm/menu-wine-list.pdf%0D
+Resolving www.littlevenice.bm (www.littlevenice.bm)... 50.116.16.213
+Connecting to www.littlevenice.bm (www.littlevenice.bm)|50.116.16.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:29 ERROR 404: Not Found.
+

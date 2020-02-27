@@ -1,0 +1,12 @@
+--2020-02-25 21:33:28--  http://www.ecosocc.gov.kh/images/regulations/20190509161926_Anukret_129_BK.pdf%0D
+Resolving www.ecosocc.gov.kh (www.ecosocc.gov.kh)... 143.95.1.207
+Connecting to www.ecosocc.gov.kh (www.ecosocc.gov.kh)|143.95.1.207|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:33:30 ERROR 404: Not Found.
+
+--2020-02-25 21:36:15--  http://www.ecosocc.gov.kh/images/regulations/20190509161926_Anukret_129_BK.pdf%0D
+Resolving www.ecosocc.gov.kh (www.ecosocc.gov.kh)... 143.95.1.207
+Connecting to www.ecosocc.gov.kh (www.ecosocc.gov.kh)|143.95.1.207|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:15 ERROR 404: Not Found.
+

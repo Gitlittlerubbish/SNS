@@ -1,0 +1,60 @@
+--2020-02-25 22:42:11--  http://wig.ht/29sP%0D
+Resolving wig.ht (wig.ht)... 176.58.122.189
+Connecting to wig.ht (wig.ht)|176.58.122.189|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://wig.ht [following]
+--2020-02-25 22:42:11--  http://wig.ht/
+Reusing existing connection to wig.ht:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 455 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  317M=0s
+
+2020-02-25 22:42:11 (317 Mb/s) - ‘/dev/null’ saved [455/455]
+
+--2020-02-25 22:42:11--  http://wig.ht/29sP%0D
+Resolving wig.ht (wig.ht)... 176.58.122.189
+Connecting to wig.ht (wig.ht)|176.58.122.189|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://wig.ht [following]
+--2020-02-25 22:42:11--  http://wig.ht/
+Reusing existing connection to wig.ht:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 455 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.34G=0s
+
+2020-02-25 22:42:11 (1.34 Gb/s) - ‘/dev/null’ saved [455/455]
+
+--2020-02-25 22:42:11--  http://wig.ht/2d8q%0D
+Resolving wig.ht (wig.ht)... 176.58.122.189
+Connecting to wig.ht (wig.ht)|176.58.122.189|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://wig.ht [following]
+--2020-02-25 22:42:11--  http://wig.ht/
+Reusing existing connection to wig.ht:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 455 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.24G=0s
+
+2020-02-25 22:42:11 (1.24 Gb/s) - ‘/dev/null’ saved [455/455]
+
+--2020-02-25 22:42:11--  http://wig.ht/2d8q%0D
+Resolving wig.ht (wig.ht)... 176.58.122.189
+Connecting to wig.ht (wig.ht)|176.58.122.189|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://wig.ht [following]
+--2020-02-25 22:42:11--  http://wig.ht/
+Reusing existing connection to wig.ht:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 455 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  518M=0s
+
+2020-02-25 22:42:11 (518 Mb/s) - ‘/dev/null’ saved [455/455]
+

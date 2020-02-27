@@ -1,0 +1,12 @@
+--2020-02-25 20:56:04--  https://www.seqwater.com.au/document/728%0D
+Resolving www.seqwater.com.au (www.seqwater.com.au)... 104.20.214.28, 104.20.215.28
+Connecting to www.seqwater.com.au (www.seqwater.com.au)|104.20.214.28|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:56:07 ERROR 404: Not Found.
+
+--2020-02-25 21:08:43--  https://www.seqwater.com.au/document/728%0D
+Resolving www.seqwater.com.au (www.seqwater.com.au)... 104.20.214.28, 104.20.215.28
+Connecting to www.seqwater.com.au (www.seqwater.com.au)|104.20.214.28|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:08:46 ERROR 404: Not Found.
+

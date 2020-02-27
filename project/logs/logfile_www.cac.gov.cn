@@ -1,0 +1,12 @@
+--2020-02-25 21:46:52--  http://www.cac.gov.cn/wxb_pdf/0228043.pdf%0D
+Resolving www.cac.gov.cn (www.cac.gov.cn)... --2020-02-25 21:46:52--  http://www.cac.gov.cn/wxb_pdf/0228043.pdf%0D
+Resolving www.cac.gov.cn (www.cac.gov.cn)... 183.222.96.214, 1.31.128.203
+Connecting to www.cac.gov.cn (www.cac.gov.cn)|183.222.96.214|:80... 122.228.238.92, 112.90.216.93
+Connecting to www.cac.gov.cn (www.cac.gov.cn)|122.228.238.92|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:46:53 ERROR 404: Not Found.
+
+Read error (Connection timed out) in headers.
+Giving up.
+

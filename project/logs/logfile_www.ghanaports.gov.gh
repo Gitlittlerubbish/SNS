@@ -1,0 +1,12 @@
+--2020-02-25 22:32:39--  http://www.ghanaports.gov.gh/files/TRANSMEDITERRANEANSERVICESLIMITED_TRANSMEDITERRANEANSERVICESLIMITED_9a397c356f3446c2a52ebf97de4a2e4c.pdf%0D
+Resolving www.ghanaports.gov.gh (www.ghanaports.gov.gh)... 204.93.216.55
+Connecting to www.ghanaports.gov.gh (www.ghanaports.gov.gh)|204.93.216.55|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:32:40 ERROR 400: Bad Request.
+
+--2020-02-25 22:32:41--  http://www.ghanaports.gov.gh/files/TRANSMEDITERRANEANSERVICESLIMITED_TRANSMEDITERRANEANSERVICESLIMITED_9a397c356f3446c2a52ebf97de4a2e4c.pdf%0D
+Resolving www.ghanaports.gov.gh (www.ghanaports.gov.gh)... 204.93.216.55
+Connecting to www.ghanaports.gov.gh (www.ghanaports.gov.gh)|204.93.216.55|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:32:41 ERROR 400: Bad Request.
+

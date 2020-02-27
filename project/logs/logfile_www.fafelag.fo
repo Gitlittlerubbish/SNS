@@ -1,0 +1,12 @@
+--2020-02-25 22:19:39--  https://www.fafelag.fo/media/1243/beguntigelsesregler.pdf%0D
+Resolving www.fafelag.fo (www.fafelag.fo)... 63.32.38.184, 34.255.33.161
+Connecting to www.fafelag.fo (www.fafelag.fo)|63.32.38.184|:443... --2020-02-25 22:19:39--  https://www.fafelag.fo/media/1243/beguntigelsesregler.pdf%0D
+connected.
+Resolving www.fafelag.fo (www.fafelag.fo)... 63.32.38.184, 34.255.33.161
+Connecting to www.fafelag.fo (www.fafelag.fo)|63.32.38.184|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:39 ERROR 403: Forbidden.
+
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:39 ERROR 403: Forbidden.
+

@@ -1,0 +1,56 @@
+--2020-02-26 00:30:16--  http://www.pngccm.org.pg/usip-essay.pdf%0D
+Resolving www.pngccm.org.pg (www.pngccm.org.pg)... 146.66.91.70
+Connecting to www.pngccm.org.pg (www.pngccm.org.pg)|146.66.91.70|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-26 00:30:20--  http://www.pngccm.org.pg/data-analys.pdf%0D
+Resolving www.pngccm.org.pg (www.pngccm.org.pg)... 146.66.91.70
+Connecting to www.pngccm.org.pg (www.pngccm.org.pg)|146.66.91.70|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-26 00:32:00--  http://www.pngccm.org.pg/usip-essay.pdf%0D
+Resolving www.pngccm.org.pg (www.pngccm.org.pg)... 146.66.91.70
+Connecting to www.pngccm.org.pg (www.pngccm.org.pg)|146.66.91.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        68.4M=0s
+
+2020-02-26 00:32:02 (68.4 Mb/s) - ‘/dev/null’ saved [57]
+
+--2020-02-26 00:32:02--  http://www.pngccm.org.pg/usip-essay.pdf%0D
+Resolving www.pngccm.org.pg (www.pngccm.org.pg)... 146.66.91.70
+Connecting to www.pngccm.org.pg (www.pngccm.org.pg)|146.66.91.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        85.2M=0s
+
+2020-02-26 00:32:04 (85.2 Mb/s) - ‘/dev/null’ saved [57]
+
+--2020-02-26 00:32:04--  http://www.pngccm.org.pg/data-analys.pdf%0D
+Resolving www.pngccm.org.pg (www.pngccm.org.pg)... 146.66.91.70
+Connecting to www.pngccm.org.pg (www.pngccm.org.pg)|146.66.91.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        90.1M=0s
+
+2020-02-26 00:32:06 (90.1 Mb/s) - ‘/dev/null’ saved [57]
+
+--2020-02-26 00:32:06--  http://www.pngccm.org.pg/data-analys.pdf%0D
+Resolving www.pngccm.org.pg (www.pngccm.org.pg)... 146.66.91.70
+Connecting to www.pngccm.org.pg (www.pngccm.org.pg)|146.66.91.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        79.8M=0s
+
+2020-02-26 00:32:08 (79.8 Mb/s) - ‘/dev/null’ saved [57]
+

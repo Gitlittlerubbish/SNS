@@ -1,0 +1,12 @@
+--2020-02-25 20:56:25--  https://medicines.org.au/files/gcppanos.pdf%0D
+Resolving medicines.org.au (medicines.org.au)... 13.54.163.191
+Connecting to medicines.org.au (medicines.org.au)|13.54.163.191|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:56:27 ERROR 404: Not Found.
+
+--2020-02-25 21:09:00--  https://medicines.org.au/files/gcppanos.pdf%0D
+Resolving medicines.org.au (medicines.org.au)... 13.54.163.191
+Connecting to medicines.org.au (medicines.org.au)|13.54.163.191|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:01 ERROR 404: Not Found.
+

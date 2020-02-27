@@ -1,0 +1,22 @@
+--2020-02-26 00:13:44--  https://www.thesleepstore.co.nz/images/upload/gro_clock_manual_2011.pdf%0D
+Resolving www.thesleepstore.co.nz (www.thesleepstore.co.nz)... 143.204.175.4, 143.204.175.9, 143.204.175.125, ...
+Connecting to www.thesleepstore.co.nz (www.thesleepstore.co.nz)|143.204.175.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 0
+Saving to: ‘/dev/null’
+
+     0K                                                        0.00 =0s
+
+2020-02-26 00:13:45 (0.00 b/s) - ‘/dev/null’ saved [0/0]
+
+--2020-02-26 00:13:45--  https://www.thesleepstore.co.nz/images/upload/gro_clock_manual_2011.pdf%0D
+Resolving www.thesleepstore.co.nz (www.thesleepstore.co.nz)... 143.204.175.125, 143.204.175.104, 143.204.175.4, ...
+Connecting to www.thesleepstore.co.nz (www.thesleepstore.co.nz)|143.204.175.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 0
+Saving to: ‘/dev/null’
+
+     0K                                                        0.00 =0s
+
+2020-02-26 00:13:45 (0.00 b/s) - ‘/dev/null’ saved [0/0]
+

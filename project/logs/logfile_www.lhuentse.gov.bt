@@ -1,0 +1,12 @@
+--2020-02-25 21:13:39--  http://www.lhuentse.gov.bt/counter/direct_download/269%0D
+Resolving www.lhuentse.gov.bt (www.lhuentse.gov.bt)... 43.230.208.9
+Connecting to www.lhuentse.gov.bt (www.lhuentse.gov.bt)|43.230.208.9|:80... connected.
+HTTP request sent, awaiting response... 500 500 Service unavailable (with message)
+2020-02-25 21:13:41 ERROR 500: 500 Service unavailable (with message).
+
+--2020-02-25 21:21:48--  http://www.lhuentse.gov.bt/counter/direct_download/269%0D
+Resolving www.lhuentse.gov.bt (www.lhuentse.gov.bt)... 43.230.208.9
+Connecting to www.lhuentse.gov.bt (www.lhuentse.gov.bt)|43.230.208.9|:80... connected.
+HTTP request sent, awaiting response... 500 500 Service unavailable (with message)
+2020-02-25 21:21:49 ERROR 500: 500 Service unavailable (with message).
+

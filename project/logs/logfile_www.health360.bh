@@ -1,0 +1,12 @@
+--2020-02-25 21:03:10--  https://www.health360.bh/Downloads/H360_mobile%2520application.pdf%0D
+Resolving www.health360.bh (www.health360.bh)... 40.68.60.179
+Connecting to www.health360.bh (www.health360.bh)|40.68.60.179|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:03:11 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:27--  https://www.health360.bh/Downloads/H360_mobile%2520application.pdf%0D
+Resolving www.health360.bh (www.health360.bh)... 40.68.60.179
+Connecting to www.health360.bh (www.health360.bh)|40.68.60.179|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:27 ERROR 400: Bad Request.
+

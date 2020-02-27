@@ -1,0 +1,12 @@
+--2020-02-25 21:11:34--  https://www.argus.bm/media/2883/he_evidence_insurability_.pdf%0D
+Resolving www.argus.bm (www.argus.bm)... 40.76.95.84
+Connecting to www.argus.bm (www.argus.bm)|40.76.95.84|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:34 ERROR 400: Bad Request.
+
+--2020-02-25 21:20:24--  https://www.argus.bm/media/2883/he_evidence_insurability_.pdf%0D
+Resolving www.argus.bm (www.argus.bm)... 40.76.95.84
+Connecting to www.argus.bm (www.argus.bm)|40.76.95.84|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:20:24 ERROR 400: Bad Request.
+

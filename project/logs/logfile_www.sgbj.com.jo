@@ -1,0 +1,6 @@
+--2020-02-25 23:05:36--  http://www.sgbj.com.jo/contentfiles/1959file.pdf%0D
+Resolving www.sgbj.com.jo (www.sgbj.com.jo)... 104.20.75.209, 104.20.76.209
+Connecting to www.sgbj.com.jo (www.sgbj.com.jo)|104.20.75.209|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:37 ERROR 400: Bad Request.
+

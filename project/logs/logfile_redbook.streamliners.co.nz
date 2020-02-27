@@ -1,0 +1,6 @@
+--2020-02-26 00:12:48--  https://redbook.streamliners.co.nz/commonlyuseddrugs.pdf%0D
+Resolving redbook.streamliners.co.nz (redbook.streamliners.co.nz)... 202.124.113.88
+Connecting to redbook.streamliners.co.nz (redbook.streamliners.co.nz)|202.124.113.88|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:12:50 ERROR 400: Bad Request.
+

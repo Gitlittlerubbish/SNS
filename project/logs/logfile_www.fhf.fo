@@ -1,0 +1,12 @@
+--2020-02-25 22:19:25--  http://www.fhf.fo/data/arsfr_2016.pdf%0D
+Resolving www.fhf.fo (www.fhf.fo)... --2020-02-25 22:19:25--  http://www.fhf.fo/data/arsfr_2016.pdf%0D
+Resolving www.fhf.fo (www.fhf.fo)... 46.227.118.147
+Connecting to www.fhf.fo (www.fhf.fo)|46.227.118.147|:80... 46.227.118.147
+Connecting to www.fhf.fo (www.fhf.fo)|46.227.118.147|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:25 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:19:25 ERROR 400: Bad Request.
+

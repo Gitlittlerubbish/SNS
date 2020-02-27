@@ -1,0 +1,48 @@
+--2020-02-25 23:07:31--  http://www.enu.kz/downloads/ppg.pdf%0D
+Resolving www.enu.kz (www.enu.kz)... 5.63.119.40
+Connecting to www.enu.kz (www.enu.kz)|5.63.119.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.05M
+    50K .......... ..........                                  1.67M=0.3s
+
+2020-02-25 23:07:32 (1.93 Mb/s) - ‘/dev/null’ saved [71952]
+
+--2020-02-25 23:07:32--  http://www.enu.kz/downloads/ppg.pdf%0D
+Resolving www.enu.kz (www.enu.kz)... 5.63.119.40
+Connecting to www.enu.kz (www.enu.kz)|5.63.119.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.39M
+    50K .......... ..........                                   111M=0.3s
+
+2020-02-25 23:07:33 (1.94 Mb/s) - ‘/dev/null’ saved [71952]
+
+--2020-02-25 23:07:40--  http://www.enu.kz/downloads/novosti-enu/FINAL-sengirbai.pdf%0D
+Resolving www.enu.kz (www.enu.kz)... 5.63.119.40
+Connecting to www.enu.kz (www.enu.kz)|5.63.119.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.16M
+    50K .......... ..........                                  1.80M=0.3s
+
+2020-02-25 23:07:40 (2.04 Mb/s) - ‘/dev/null’ saved [72100]
+
+--2020-02-25 23:07:40--  http://www.enu.kz/downloads/novosti-enu/FINAL-sengirbai.pdf%0D
+Resolving www.enu.kz (www.enu.kz)... 5.63.119.40
+Connecting to www.enu.kz (www.enu.kz)|5.63.119.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.16M
+    50K .......... ..........                                  1.76M=0.3s
+
+2020-02-25 23:07:41 (2.03 Mb/s) - ‘/dev/null’ saved [72100]
+

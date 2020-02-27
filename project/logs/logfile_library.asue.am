@@ -1,0 +1,12 @@
+--2020-02-25 20:54:37--  http://library.asue.am/open/4872.pdf%0D
+Resolving library.asue.am (library.asue.am)... 109.75.34.126
+Connecting to library.asue.am (library.asue.am)|109.75.34.126|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:39 ERROR 404: Not Found.
+
+--2020-02-25 21:07:31--  http://library.asue.am/open/4872.pdf%0D
+Resolving library.asue.am (library.asue.am)... 109.75.34.126
+Connecting to library.asue.am (library.asue.am)|109.75.34.126|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:33 ERROR 404: Not Found.
+

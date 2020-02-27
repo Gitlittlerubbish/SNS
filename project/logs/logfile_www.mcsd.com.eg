@@ -1,0 +1,44 @@
+--2020-02-25 22:11:37--  http://www.mcsd.com.eg/mcdr/Arabic/documents/Depository_Forms.pdf%0D
+Resolving www.mcsd.com.eg (www.mcsd.com.eg)... 41.128.174.139, 217.139.241.10
+Connecting to www.mcsd.com.eg (www.mcsd.com.eg)|41.128.174.139|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  491M=0s
+
+2020-02-25 22:11:37 (491 Mb/s) - ‘/dev/null’ saved [187/187]
+
+--2020-02-25 22:11:37--  http://www.mcsd.com.eg/mcdr/Arabic/documents/Depository_Forms.pdf%0D
+Resolving www.mcsd.com.eg (www.mcsd.com.eg)... 41.128.174.139, 217.139.241.10
+Connecting to www.mcsd.com.eg (www.mcsd.com.eg)|41.128.174.139|:80... --2020-02-25 22:11:37--  http://www.mcsd.com.eg/mcdr/Arabic/documents/Depository_Forms.pdf%0D
+Resolving www.mcsd.com.eg (www.mcsd.com.eg)... 217.139.241.10, 41.128.174.139
+Connecting to www.mcsd.com.eg (www.mcsd.com.eg)|217.139.241.10|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  384M=0s
+
+2020-02-25 22:11:37 (384 Mb/s) - ‘/dev/null’ saved [187/187]
+
+200 OK
+Length: 187 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  143M=0s
+
+2020-02-25 22:11:37 (143 Mb/s) - ‘/dev/null’ saved [187/187]
+
+--2020-02-25 22:11:37--  http://www.mcsd.com.eg/mcdr/Arabic/documents/Depository_Forms.pdf%0D
+Resolving www.mcsd.com.eg (www.mcsd.com.eg)... 217.139.241.10, 41.128.174.139
+Connecting to www.mcsd.com.eg (www.mcsd.com.eg)|217.139.241.10|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  195M=0s
+
+2020-02-25 22:11:38 (195 Mb/s) - ‘/dev/null’ saved [187/187]
+

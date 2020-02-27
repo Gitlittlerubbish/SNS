@@ -1,0 +1,6 @@
+--2020-02-25 23:11:30--  https://www.korfilm.com.kp/home/download/film3.pdf%0D
+Resolving www.korfilm.com.kp (www.korfilm.com.kp)... 175.45.176.91
+Connecting to www.korfilm.com.kp (www.korfilm.com.kp)|175.45.176.91|:443... connected.
+ERROR: cannot verify www.korfilm.com.kp's certificate, issued by ‘emailAddress=eitc@star-co.net.kp,CN=www.dprk.gov.kp,OU=dprk,O=dprk,L=Pyongyang City,ST=Pyongyang,C=KP’:
+  Unable to locally verify the issuer's authority.
+To connect to www.korfilm.com.kp insecurely, use `--no-check-certificate'.

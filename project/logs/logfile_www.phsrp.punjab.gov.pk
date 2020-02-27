@@ -1,0 +1,6 @@
+--2020-02-26 00:25:26--  http://www.phsrp.punjab.gov.pk/bhus/Jhang.pdf%0D
+Resolving www.phsrp.punjab.gov.pk (www.phsrp.punjab.gov.pk)... 221.120.222.48
+Connecting to www.phsrp.punjab.gov.pk (www.phsrp.punjab.gov.pk)|221.120.222.48|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:25:27 ERROR 400: Bad Request.
+

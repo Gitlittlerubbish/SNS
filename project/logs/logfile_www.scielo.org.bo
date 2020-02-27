@@ -1,0 +1,12 @@
+--2020-02-25 21:15:29--  http://www.scielo.org.bo/pdf/jsars/v1n1/a02.pdf%0D
+Resolving www.scielo.org.bo (www.scielo.org.bo)... 200.105.141.249
+Connecting to www.scielo.org.bo (www.scielo.org.bo)|200.105.141.249|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:29 ERROR 404: Not Found.
+
+--2020-02-25 21:23:06--  http://www.scielo.org.bo/pdf/jsars/v1n1/a02.pdf%0D
+Resolving www.scielo.org.bo (www.scielo.org.bo)... 200.105.141.249
+Connecting to www.scielo.org.bo (www.scielo.org.bo)|200.105.141.249|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:06 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:44:38--  http://zxxy.sxu.edu.cn/docs/20131021165532588466.pdf%0D
+Resolving zxxy.sxu.edu.cn (zxxy.sxu.edu.cn)... --2020-02-25 21:44:38--  http://zxxy.sxu.edu.cn/docs/20131021165532588466.pdf%0D
+Resolving zxxy.sxu.edu.cn (zxxy.sxu.edu.cn)... 119.188.95.115, 183.61.189.168, 27.221.108.52, ...
+Connecting to zxxy.sxu.edu.cn (zxxy.sxu.edu.cn)|119.188.95.115|:80... 119.188.95.115, 183.61.189.168, 27.221.108.52, ...
+Connecting to zxxy.sxu.edu.cn (zxxy.sxu.edu.cn)|119.188.95.115|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:44:41 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 21:44:41 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:01:17--  http://palijativna-skrb.hr/files/Saveti_za_ishranu_onkoloskih_bolesnika.pdf%0D
+Resolving palijativna-skrb.hr (palijativna-skrb.hr)... --2020-02-25 22:01:17--  http://palijativna-skrb.hr/files/Saveti_za_ishranu_onkoloskih_bolesnika.pdf%0D
+Resolving palijativna-skrb.hr (palijativna-skrb.hr)... 178.218.173.36
+Connecting to palijativna-skrb.hr (palijativna-skrb.hr)|178.218.173.36|:80... connected.
+HTTP request sent, awaiting response... 178.218.173.36
+Connecting to palijativna-skrb.hr (palijativna-skrb.hr)|178.218.173.36|:80... 400 Bad Request
+2020-02-25 22:01:17 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:17 ERROR 400: Bad Request.
+

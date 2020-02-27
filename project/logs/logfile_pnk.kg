@@ -1,0 +1,20 @@
+--2020-02-25 23:17:48--  http://pnk.kg/pdf/2012/2.pdf%0D
+Resolving pnk.kg (pnk.kg)... 176.126.165.32
+Connecting to pnk.kg (pnk.kg)|176.126.165.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pnk.kg/index.php/ru/pdf/2012/2.pdf [following]
+--2020-02-25 23:17:48--  http://pnk.kg/index.php/ru/pdf/2012/2.pdf
+Reusing existing connection to pnk.kg:80.
+HTTP request sent, awaiting response... 404 Материал не найден
+2020-02-25 23:17:49 ERROR 404: Материал не найден.
+
+--2020-02-25 23:17:50--  http://pnk.kg/pdf/2012/2.pdf%0D
+Resolving pnk.kg (pnk.kg)... 176.126.165.32
+Connecting to pnk.kg (pnk.kg)|176.126.165.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pnk.kg/index.php/ru/pdf/2012/2.pdf [following]
+--2020-02-25 23:17:50--  http://pnk.kg/index.php/ru/pdf/2012/2.pdf
+Reusing existing connection to pnk.kg:80.
+HTTP request sent, awaiting response... 404 Материал не найден
+2020-02-25 23:17:51 ERROR 404: Материал не найден.
+

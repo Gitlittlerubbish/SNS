@@ -1,0 +1,6 @@
+--2020-02-25 23:05:35--  http://www.bankaudi.com.jo/contentfiles/11110PDFFile.pdf%0D
+Resolving www.bankaudi.com.jo (www.bankaudi.com.jo)... 88.221.134.225, 88.221.134.233
+Connecting to www.bankaudi.com.jo (www.bankaudi.com.jo)|88.221.134.225|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:35 ERROR 400: Bad Request.
+

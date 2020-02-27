@@ -1,0 +1,12 @@
+--2020-02-25 22:36:56--  http://ns.gov.gu/Chamoru.philosophy.pdf%0D
+Resolving ns.gov.gu (ns.gov.gu)... --2020-02-25 22:36:56--  http://ns.gov.gu/Chamoru.philosophy.pdf%0D
+Resolving ns.gov.gu (ns.gov.gu)... 168.123.129.22
+Connecting to ns.gov.gu (ns.gov.gu)|168.123.129.22|:80... 168.123.129.22
+Connecting to ns.gov.gu (ns.gov.gu)|168.123.129.22|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:36:57 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:36:57 ERROR 400: Bad Request.
+

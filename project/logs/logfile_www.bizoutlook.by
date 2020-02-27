@@ -1,0 +1,12 @@
+--2020-02-25 21:06:53--  http://www.bizoutlook.by/pdf/Patterns_of_Enterprise_Application_Architecture.pdf%0D
+Resolving www.bizoutlook.by (www.bizoutlook.by)... 93.125.99.180
+Connecting to www.bizoutlook.by (www.bizoutlook.by)|93.125.99.180|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:06:53 ERROR 400: Bad Request.
+
+--2020-02-25 21:17:03--  http://www.bizoutlook.by/pdf/Patterns_of_Enterprise_Application_Architecture.pdf%0D
+Resolving www.bizoutlook.by (www.bizoutlook.by)... 93.125.99.180
+Connecting to www.bizoutlook.by (www.bizoutlook.by)|93.125.99.180|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:17:03 ERROR 400: Bad Request.
+

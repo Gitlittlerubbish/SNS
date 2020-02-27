@@ -1,0 +1,20 @@
+--2020-02-25 21:56:14--  https://societegenerale.cg/fileadmin/user_upload/Congo/PLAQUETTE_TARIFAIRE_ENTREPRISES_ET_PROFESSIONNELS.pdf%0D
+Resolving societegenerale.cg (societegenerale.cg)... 194.177.39.82
+Connecting to societegenerale.cg (societegenerale.cg)|194.177.39.82|:443... connected.
+HTTP request sent, awaiting response... 301 TYPO3 RealURL redirect M956
+Location: https://societegenerale.cg/fileadmin/user_upload/Congo/PLAQUETTE_TARIFAIRE_ENTREPRISES_ET_PROFESSIONNELS.pdf%0D/ [following]
+--2020-02-25 21:56:14--  https://societegenerale.cg/fileadmin/user_upload/Congo/PLAQUETTE_TARIFAIRE_ENTREPRISES_ET_PROFESSIONNELS.pdf%0D/
+Reusing existing connection to societegenerale.cg:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:56:14 ERROR 404: Not Found.
+
+--2020-02-25 21:56:14--  https://societegenerale.cg/fileadmin/user_upload/Congo/PLAQUETTE_TARIFAIRE_ENTREPRISES_ET_PROFESSIONNELS.pdf%0D
+Resolving societegenerale.cg (societegenerale.cg)... 194.177.39.82
+Connecting to societegenerale.cg (societegenerale.cg)|194.177.39.82|:443... connected.
+HTTP request sent, awaiting response... 301 TYPO3 RealURL redirect M956
+Location: https://societegenerale.cg/fileadmin/user_upload/Congo/PLAQUETTE_TARIFAIRE_ENTREPRISES_ET_PROFESSIONNELS.pdf%0D/ [following]
+--2020-02-25 21:56:14--  https://societegenerale.cg/fileadmin/user_upload/Congo/PLAQUETTE_TARIFAIRE_ENTREPRISES_ET_PROFESSIONNELS.pdf%0D/
+Reusing existing connection to societegenerale.cg:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:56:15 ERROR 404: Not Found.
+

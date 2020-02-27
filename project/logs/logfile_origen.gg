@@ -1,0 +1,12 @@
+--2020-02-25 22:38:28--  https://origen.gg/origen_launch.pdf%0D
+Resolving origen.gg (origen.gg)... 94.231.103.167
+Connecting to origen.gg (origen.gg)|94.231.103.167|:443... connected.
+HTTP request sent, awaiting response... 406 Not Acceptable
+2020-02-25 22:38:28 ERROR 406: Not Acceptable.
+
+--2020-02-25 22:38:29--  https://origen.gg/origen_launch.pdf%0D
+Resolving origen.gg (origen.gg)... 94.231.103.167
+Connecting to origen.gg (origen.gg)|94.231.103.167|:443... connected.
+HTTP request sent, awaiting response... 406 Not Acceptable
+2020-02-25 22:38:29 ERROR 406: Not Acceptable.
+

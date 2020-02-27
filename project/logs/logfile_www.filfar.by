@@ -1,0 +1,12 @@
+--2020-02-25 21:06:32--  http://www.filfar.by/PDF/leuze/426527.pdf%0D
+Resolving www.filfar.by (www.filfar.by)... 178.172.136.58
+Connecting to www.filfar.by (www.filfar.by)|178.172.136.58|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:06:33 ERROR 404: Not Found.
+
+--2020-02-25 21:16:47--  http://www.filfar.by/PDF/leuze/426527.pdf%0D
+Resolving www.filfar.by (www.filfar.by)... 178.172.136.58
+Connecting to www.filfar.by (www.filfar.by)|178.172.136.58|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:47 ERROR 404: Not Found.
+

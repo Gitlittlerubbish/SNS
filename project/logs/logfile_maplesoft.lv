@@ -1,0 +1,6 @@
+--2020-02-25 23:20:07--  http://maplesoft.lv/documentation_center/Maplesoft_EULA.pdf%0D
+Resolving maplesoft.lv (maplesoft.lv)... 199.71.183.26
+Connecting to maplesoft.lv (maplesoft.lv)|199.71.183.26|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:20:07 ERROR 400: Bad Request.
+

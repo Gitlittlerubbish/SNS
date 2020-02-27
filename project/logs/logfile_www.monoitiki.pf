@@ -1,0 +1,72 @@
+--2020-02-25 22:24:44--  https://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF%0D
+Resolving www.monoitiki.pf (www.monoitiki.pf)... --2020-02-25 22:24:44--  https://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF%0D
+Resolving www.monoitiki.pf (www.monoitiki.pf)... 213.186.33.16
+Connecting to www.monoitiki.pf (www.monoitiki.pf)|213.186.33.16|:443... 213.186.33.16
+Connecting to www.monoitiki.pf (www.monoitiki.pf)|213.186.33.16|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF [following]
+--2020-02-25 22:24:44--  http://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF
+Connecting to www.monoitiki.pf (www.monoitiki.pf)|213.186.33.16|:80... 301 Moved Permanently
+Location: http://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF [following]
+--2020-02-25 22:24:44--  http://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF
+Connecting to www.monoitiki.pf (www.monoitiki.pf)|213.186.33.16|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197580 (193K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ..200 OK
+Length: 197580 (193K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ........... .......... ................. .......... .......... .. .......... 25% 61.5M 0s
+    50K .......... .......... .......... .......... ............... 25% 61.6M 0s
+    50K .......... .......... .......... .......... ........... 51%  111M 0s
+   100K .......... .......... .......... .......... .......... 77% 4.55G 0s
+   150K .......... .......... .......... .......... .... 51%  103M 0s
+   100K .......... .......... .......... .......... .......... 77% 12.0G 0s
+   150K .......... .......... .......... .......... ..        100% 6.08G=0.01s
+
+2020-02-25 22:24:44 (151 Mb/s) - ‘/dev/null’ saved [197580/197580]
+
+        100% 14.7G=0.01s
+
+2020-02-25 22:24:44 (148 Mb/s) - ‘/dev/null’ saved [197580/197580]
+
+--2020-02-25 22:24:44--  https://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF%0D
+--2020-02-25 22:24:44--  https://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF%0D
+Resolving www.monoitiki.pf (www.monoitiki.pf)... Resolving www.monoitiki.pf (www.monoitiki.pf)... 213.186.33.16
+Connecting to www.monoitiki.pf (www.monoitiki.pf)|213.186.33.16|:443... 213.186.33.16
+Connecting to www.monoitiki.pf (www.monoitiki.pf)|213.186.33.16|:443... connected.
+connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF [following]
+--2020-02-25 22:24:44--  http://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF
+Connecting to www.monoitiki.pf (www.monoitiki.pf)|213.186.33.16|:80... HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF [following]
+--2020-02-25 22:24:44--  http://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF
+Connecting to www.monoitiki.pf (www.monoitiki.pf)|213.186.33.16|:80... 200 OK
+Length: 197580 (193K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ...connected.
+HTTP request sent, awaiting response... ....... .......... .......... ..200 OK
+Length: 197580 (193K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... 25% 61.3M 0s
+    50K .......... .......... .......... .......... ................ .......... ............ 51%  128M 0s
+   100K .......... .......... .......... .......... .......... 77% 2.52G 0s
+   150K .......... .......... .......... .......... ..        100% 14.2G=0.01s
+
+2020-02-25 22:24:44 (157 Mb/s) - ‘/dev/null’ saved [197580/197580]
+
+ .......... 25% 63.1M 0s
+    50K .......... .......... .......... .......... .......... 51%  119M 0s
+   100K .......... .......... .......... .......... .......... 77% 9.69G 0s
+   150K .......... .......... .......... .......... ..        100% 8.19G=0.01s
+
+2020-02-25 22:24:44 (158 Mb/s) - ‘/dev/null’ saved [197580/197580]
+

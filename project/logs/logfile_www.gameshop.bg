@@ -1,0 +1,12 @@
+--2020-02-25 21:27:17--  https://www.gameshop.bg/media/ingenious_rules_us_low_2.pdf%0D
+Resolving www.gameshop.bg (www.gameshop.bg)... 164.138.217.79
+Connecting to www.gameshop.bg (www.gameshop.bg)|164.138.217.79|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:17 ERROR 404: Not Found.
+
+--2020-02-25 21:32:25--  https://www.gameshop.bg/media/ingenious_rules_us_low_2.pdf%0D
+Resolving www.gameshop.bg (www.gameshop.bg)... 164.138.217.79
+Connecting to www.gameshop.bg (www.gameshop.bg)|164.138.217.79|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:26 ERROR 404: Not Found.
+

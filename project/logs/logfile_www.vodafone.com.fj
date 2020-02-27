@@ -1,0 +1,12 @@
+--2020-02-25 22:20:54--  https://www.vodafone.com.fj/FoundationMaster/Jeevan/jeevan26.pdf%0D
+Resolving www.vodafone.com.fj (www.vodafone.com.fj)... --2020-02-25 22:20:54--  https://www.vodafone.com.fj/FoundationMaster/Jeevan/jeevan26.pdf%0D
+Resolving www.vodafone.com.fj (www.vodafone.com.fj)... 183.81.133.234
+Connecting to www.vodafone.com.fj (www.vodafone.com.fj)|183.81.133.234|:443... 183.81.133.234
+Connecting to www.vodafone.com.fj (www.vodafone.com.fj)|183.81.133.234|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:20:55 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:20:55 ERROR 400: Bad Request.
+

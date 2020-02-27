@@ -1,0 +1,12 @@
+--2020-02-25 22:31:10--  http://www.moecs.ge/contentimage/konkursebi/sagamocdo_direqtorebi.pdf%0D
+Resolving www.moecs.ge (www.moecs.ge)... 217.147.227.90
+Connecting to www.moecs.ge (www.moecs.ge)|217.147.227.90|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:31:11--  http://www.moecs.ge/contentimage/konkursebi/sagamocdo_direqtorebi.pdf%0D
+Resolving www.moecs.ge (www.moecs.ge)... 217.147.227.90
+Connecting to www.moecs.ge (www.moecs.ge)|217.147.227.90|:80... 404 Not Found
+2020-02-25 22:31:11 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:31:11 ERROR 404: Not Found.
+

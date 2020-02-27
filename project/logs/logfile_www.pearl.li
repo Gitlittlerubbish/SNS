@@ -1,0 +1,11 @@
+--2020-02-25 23:24:09--  http://www.pearl.li/pdocs/PX6812_11_92399.pdf%0D
+Resolving www.pearl.li (www.pearl.li)... 178.209.43.117, 178.209.43.118
+Connecting to www.pearl.li (www.pearl.li)|178.209.43.117|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.pearl.ch/pdocs/PX6812_11_92399.pdf%0D [following]
+--2020-02-25 23:24:09--  https://www.pearl.ch/pdocs/PX6812_11_92399.pdf%0D
+Resolving www.pearl.ch (www.pearl.ch)... 178.209.43.118, 178.209.43.117
+Connecting to www.pearl.ch (www.pearl.ch)|178.209.43.118|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:24:09 ERROR 404: Not Found.
+

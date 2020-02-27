@@ -1,0 +1,12 @@
+--2020-02-25 22:11:39--  http://www.garpad.gov.eg/pdf/615.pdf%0D
+Resolving www.garpad.gov.eg (www.garpad.gov.eg)... 41.196.200.144
+Connecting to www.garpad.gov.eg (www.garpad.gov.eg)|41.196.200.144|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:11:39 ERROR 403: Forbidden.
+
+--2020-02-25 22:11:39--  http://www.garpad.gov.eg/pdf/615.pdf%0D
+Resolving www.garpad.gov.eg (www.garpad.gov.eg)... 41.196.200.144
+Connecting to www.garpad.gov.eg (www.garpad.gov.eg)|41.196.200.144|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:11:40 ERROR 403: Forbidden.
+

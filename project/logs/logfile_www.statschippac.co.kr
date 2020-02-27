@@ -1,0 +1,6 @@
+--2020-02-25 23:13:59--  http://www.statschippac.co.kr/up_file/woori_tuition.pdf%0D
+Resolving www.statschippac.co.kr (www.statschippac.co.kr)... 220.126.190.9
+Connecting to www.statschippac.co.kr (www.statschippac.co.kr)|220.126.190.9|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:14:00 ERROR 400: Bad Request.
+

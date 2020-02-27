@@ -1,0 +1,12 @@
+--2020-02-25 23:08:56--  http://ku.ac.ke/accommodation/images/stories/docs/2016/ParklandsDec2016Upload.pdf%0D
+Resolving ku.ac.ke (ku.ac.ke)... 41.89.10.16
+Connecting to ku.ac.ke (ku.ac.ke)|41.89.10.16|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:08:56 ERROR 404: Not Found.
+
+--2020-02-25 23:08:59--  http://ku.ac.ke/accommodation/images/stories/docs/2016/ParklandsDec2016Upload.pdf%0D
+Resolving ku.ac.ke (ku.ac.ke)... 41.89.10.16
+Connecting to ku.ac.ke (ku.ac.ke)|41.89.10.16|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:08:59 ERROR 404: Not Found.
+

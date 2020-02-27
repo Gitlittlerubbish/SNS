@@ -1,0 +1,12 @@
+--2020-02-25 21:02:43--  https://www.egovaward.bh/Attachments/eGov_booklet_2019_Eng_v8.pdf%0D
+Resolving www.egovaward.bh (www.egovaward.bh)... 54.154.100.240, 52.49.81.72
+Connecting to www.egovaward.bh (www.egovaward.bh)|54.154.100.240|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:02:43 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:02--  https://www.egovaward.bh/Attachments/eGov_booklet_2019_Eng_v8.pdf%0D
+Resolving www.egovaward.bh (www.egovaward.bh)... 54.154.100.240, 52.49.81.72
+Connecting to www.egovaward.bh (www.egovaward.bh)|54.154.100.240|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:02 ERROR 400: Bad Request.
+

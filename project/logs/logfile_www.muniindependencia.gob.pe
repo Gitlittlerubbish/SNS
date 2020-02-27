@@ -1,0 +1,30 @@
+--2020-02-26 00:36:43--  https://www.muniindependencia.gob.pe/data_files/DIRECTORIO_CODISEC.pdf%0D
+Resolving www.muniindependencia.gob.pe (www.muniindependencia.gob.pe)... 167.250.206.199
+Connecting to www.muniindependencia.gob.pe (www.muniindependencia.gob.pe)|167.250.206.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.09M
+    50K .......... .......... .......... .......... .......... 2.20M
+   100K .......... .......... .......... .......... ..........  120M
+   150K .......... .......... .......... .......... .......... 2.22M
+   200K .......... .......... .......... .......... ..          195M=0.8s
+
+2020-02-26 00:36:46 (2.64 Mb/s) - ‘/dev/null’ saved [248262]
+
+--2020-02-26 00:36:46--  https://www.muniindependencia.gob.pe/data_files/DIRECTORIO_CODISEC.pdf%0D
+Resolving www.muniindependencia.gob.pe (www.muniindependencia.gob.pe)... 167.250.206.199
+Connecting to www.muniindependencia.gob.pe (www.muniindependencia.gob.pe)|167.250.206.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.08M
+    50K .......... .......... .......... .......... .......... 2.19M
+   100K .......... .......... .......... .......... ..........  115M
+   150K .......... .......... .......... .......... .......... 2.21M
+   200K .......... .......... .......... .......... ..          204M=0.8s
+
+2020-02-26 00:36:47 (2.62 Mb/s) - ‘/dev/null’ saved [248262]
+

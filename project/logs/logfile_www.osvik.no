@@ -1,0 +1,3 @@
+--2020-02-26 00:22:12--  http://www.osvik.no/pub/cache.pdf%0D
+Resolving www.osvik.no (www.osvik.no)... failed: Name or service not known.
+wget: unable to resolve host address ‘www.osvik.no’

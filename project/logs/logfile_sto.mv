@@ -1,0 +1,6 @@
+--2020-02-25 23:41:23--  https://sto.mv/Uploads/Download/sto_job_application_form_v14.pdf%0D
+Resolving sto.mv (sto.mv)... 52.187.17.126
+Connecting to sto.mv (sto.mv)|52.187.17.126|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:41:24 ERROR 400: Bad Request.
+

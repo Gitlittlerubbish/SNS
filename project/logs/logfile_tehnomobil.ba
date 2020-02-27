@@ -1,0 +1,12 @@
+--2020-02-25 21:16:59--  http://tehnomobil.ba/upload/15_Secure1000.pdf%0D
+Resolving tehnomobil.ba (tehnomobil.ba)... 159.69.67.214
+Connecting to tehnomobil.ba (tehnomobil.ba)|159.69.67.214|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:00 ERROR 404: Not Found.
+
+--2020-02-25 21:24:16--  http://tehnomobil.ba/upload/15_Secure1000.pdf%0D
+Resolving tehnomobil.ba (tehnomobil.ba)... 159.69.67.214
+Connecting to tehnomobil.ba (tehnomobil.ba)|159.69.67.214|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:16 ERROR 404: Not Found.
+

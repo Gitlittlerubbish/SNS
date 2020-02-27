@@ -1,0 +1,60 @@
+--2020-02-25 22:15:56--  http://www.werberman.gq/download/Leitfaden_polygoCard_DB-Automat.pdf%0D
+Resolving www.werberman.gq (www.werberman.gq)... 104.27.162.12, 104.27.163.12
+Connecting to www.werberman.gq (www.werberman.gq)|104.27.162.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.01M
+    50K .......... .......... .......... .......... .......... 11.0M
+   100K .......... .......... .......... .......... ..........  212M
+   150K .......... .......... .......... .......... ..........  334M
+   200K .......... .......... ....                             5.03M=0.2s
+
+2020-02-25 22:15:56 (11.3 Mb/s) - ‘/dev/null’ saved [230101]
+
+--2020-02-25 22:15:56--  http://www.werberman.gq/download/Leitfaden_polygoCard_DB-Automat.pdf%0D
+Resolving www.werberman.gq (www.werberman.gq)... 104.27.163.12, 104.27.162.12
+Connecting to www.werberman.gq (www.werberman.gq)|104.27.163.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.14M
+    50K .......... .......... .......... .......... .......... 9.45M
+   100K                                                        12288G=0.1s
+
+2020-02-25 22:15:57 (6.71 Mb/s) - ‘/dev/null’ saved [103168]
+
+--2020-02-25 22:16:09--  http://www.werberman.gq/download/Leitfaden_polygoCard_DB-Automat.pdf%0D
+Resolving www.werberman.gq (www.werberman.gq)... 104.27.163.12, 104.27.162.12
+Connecting to www.werberman.gq (www.werberman.gq)|104.27.163.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.19M
+    50K .......... .......... .......... .......... .......... 14.8M
+   100K .......... .......... .......... .......... ..........  101M
+   150K .......... .......... .......... .......... .......... 2.41G
+   200K .....                                                  8.13G=0.09s
+
+2020-02-25 22:16:10 (18.9 Mb/s) - ‘/dev/null’ saved [210277]
+
+--2020-02-25 22:16:10--  http://www.werberman.gq/download/Leitfaden_polygoCard_DB-Automat.pdf%0D
+Resolving www.werberman.gq (www.werberman.gq)... 104.27.163.12, 104.27.162.12
+Connecting to www.werberman.gq (www.werberman.gq)|104.27.163.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.36M
+    50K .......... .......... .......... .......... .......... 14.0M
+   100K .......... .......... .......... .......... .......... 14.4M
+   150K .......... .......... .......... .......... ..........  162M
+   200K .......... .......... .......... .......... .......... 14.3M
+   250K .......... .......... .......... .......... .......... 14.8M
+   300K                                                        9888G=0.2s
+
+2020-02-25 22:16:10 (14.3 Mb/s) - ‘/dev/null’ saved [307818]
+

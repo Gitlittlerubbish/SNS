@@ -1,0 +1,12 @@
+--2020-02-25 22:47:14--  http://www.vac.hu/docs/25_vacpiac.pdf%0D
+Resolving www.vac.hu (www.vac.hu)... 62.77.254.6
+Connecting to www.vac.hu (www.vac.hu)|62.77.254.6|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:47:14 ERROR 404: Not Found.
+
+--2020-02-25 22:47:23--  http://www.vac.hu/docs/25_vacpiac.pdf%0D
+Resolving www.vac.hu (www.vac.hu)... 62.77.254.6
+Connecting to www.vac.hu (www.vac.hu)|62.77.254.6|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:47:23 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:16:22--  https://www.axis.com.kw/files/datasheet/ds_license_plate_verifier_t10125059_it_1804.pdf%0D
+Resolving www.axis.com.kw (www.axis.com.kw)... 195.60.68.98
+Connecting to www.axis.com.kw (www.axis.com.kw)|195.60.68.98|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.axis.com.kw’.
+To connect to www.axis.com.kw insecurely, use `--no-check-certificate'.

@@ -1,0 +1,12 @@
+--2020-02-25 21:21:37--  http://www.hinariodigital.com.br/hdcif/425.pdf%0D
+Resolving www.hinariodigital.com.br (www.hinariodigital.com.br)... 186.202.153.106
+Connecting to www.hinariodigital.com.br (www.hinariodigital.com.br)|186.202.153.106|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:38 ERROR 404: Not Found.
+
+--2020-02-25 21:27:19--  http://www.hinariodigital.com.br/hdcif/425.pdf%0D
+Resolving www.hinariodigital.com.br (www.hinariodigital.com.br)... 186.202.153.106
+Connecting to www.hinariodigital.com.br (www.hinariodigital.com.br)|186.202.153.106|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:19 ERROR 404: Not Found.
+

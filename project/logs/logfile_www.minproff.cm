@@ -1,0 +1,12 @@
+--2020-02-25 21:34:43--  http://www.minproff.cm/4.pdf%0D
+Resolving www.minproff.cm (www.minproff.cm)... 154.70.118.59
+Connecting to www.minproff.cm (www.minproff.cm)|154.70.118.59|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:34:48 ERROR 404: Not Found.
+
+--2020-02-25 21:37:06--  http://www.minproff.cm/4.pdf%0D
+Resolving www.minproff.cm (www.minproff.cm)... 154.70.118.59
+Connecting to www.minproff.cm (www.minproff.cm)|154.70.118.59|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:10 ERROR 404: Not Found.
+

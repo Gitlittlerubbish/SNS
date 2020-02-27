@@ -1,0 +1,20 @@
+--2020-02-25 21:27:41--  http://www.mu-pleven.bg/forms/Synopses_Physiology_2016.pdf%0D
+Resolving www.mu-pleven.bg (www.mu-pleven.bg)... 194.141.67.7
+Connecting to www.mu-pleven.bg (www.mu-pleven.bg)|194.141.67.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.mu-pleven.bg/index.php/bg/forms/Synopses_Physiology_2016.pdf [following]
+--2020-02-25 21:27:42--  http://www.mu-pleven.bg/index.php/bg/forms/Synopses_Physiology_2016.pdf
+Reusing existing connection to www.mu-pleven.bg:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:42 ERROR 404: Not Found.
+
+--2020-02-25 21:32:43--  http://www.mu-pleven.bg/forms/Synopses_Physiology_2016.pdf%0D
+Resolving www.mu-pleven.bg (www.mu-pleven.bg)... 194.141.67.7
+Connecting to www.mu-pleven.bg (www.mu-pleven.bg)|194.141.67.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.mu-pleven.bg/index.php/bg/forms/Synopses_Physiology_2016.pdf [following]
+--2020-02-25 21:32:44--  http://www.mu-pleven.bg/index.php/bg/forms/Synopses_Physiology_2016.pdf
+Reusing existing connection to www.mu-pleven.bg:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:44 ERROR 404: Not Found.
+

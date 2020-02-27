@@ -1,0 +1,10 @@
+--2020-02-26 00:41:46--  http://www.stcp.pt/fotos/noticias/transgressoes_em_transportes_58080864559b8178c9fc53.pdf%0D
+Resolving www.stcp.pt (www.stcp.pt)... 85.88.140.71
+Connecting to www.stcp.pt (www.stcp.pt)|85.88.140.71|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.stcp.pt/fotos/noticias/transgressoes_em_transportes_58080864559b8178c9fc53.pdf%0D [following]
+--2020-02-26 00:41:46--  https://www.stcp.pt/fotos/noticias/transgressoes_em_transportes_58080864559b8178c9fc53.pdf%0D
+Connecting to www.stcp.pt (www.stcp.pt)|85.88.140.71|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:41:47 ERROR 404: Not Found.
+

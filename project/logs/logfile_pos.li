@@ -1,0 +1,6 @@
+--2020-02-25 23:23:51--  https://pos.li/2bs8sk%0D
+Resolving pos.li (pos.li)... 45.56.111.15
+Connecting to pos.li (pos.li)|45.56.111.15|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:23:51 ERROR 404: Not Found.
+

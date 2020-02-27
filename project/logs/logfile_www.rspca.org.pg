@@ -1,0 +1,18 @@
+--2020-02-26 00:27:47--  http://www.rspca.org.pg/RSPCA_Constitution.pdf%0D
+Resolving www.rspca.org.pg (www.rspca.org.pg)... 202.146.211.75
+Connecting to www.rspca.org.pg (www.rspca.org.pg)|202.146.211.75|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:27:49 ERROR 404: Not Found.
+
+--2020-02-26 00:27:49--  http://www.rspca.org.pg/Membership_Application.pdf%0D
+Resolving www.rspca.org.pg (www.rspca.org.pg)... 202.146.211.75
+Connecting to www.rspca.org.pg (www.rspca.org.pg)|202.146.211.75|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:27:50 ERROR 404: Not Found.
+
+--2020-02-26 00:30:36--  http://www.rspca.org.pg/RSPCA_Constitution.pdf%0D
+Resolving www.rspca.org.pg (www.rspca.org.pg)... 202.146.211.75
+Connecting to www.rspca.org.pg (www.rspca.org.pg)|202.146.211.75|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:30:37 ERROR 404: Not Found.
+

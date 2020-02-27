@@ -1,0 +1,6 @@
+--2020-02-25 21:01:00--  https://inss.gv.ao/Noticias/Documents/Decreto_Executivo.pdf%0D
+Resolving inss.gv.ao (inss.gv.ao)... 66.110.114.100
+Connecting to inss.gv.ao (inss.gv.ao)|66.110.114.100|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:00 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:19:42--  https://ufmg.br/calendario2019.pdf%0D
+Resolving ufmg.br (ufmg.br)... 150.164.30.19
+Connecting to ufmg.br (ufmg.br)|150.164.30.19|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:44 ERROR 404: Not Found.
+
+--2020-02-25 21:25:56--  https://ufmg.br/calendario2019.pdf%0D
+Resolving ufmg.br (ufmg.br)... 150.164.30.19
+Connecting to ufmg.br (ufmg.br)|150.164.30.19|:443... connected.
+HTTP request sent, awaiting response... No data received.
+Giving up.
+

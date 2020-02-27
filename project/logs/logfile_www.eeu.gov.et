@@ -1,0 +1,11 @@
+--2020-02-25 22:17:53--  http://www.eeu.gov.et/images/International_Finance_Reporting_System_and_FAIR_Program_Office.doc.pdf%0D
+Resolving www.eeu.gov.et (www.eeu.gov.et)... --2020-02-25 22:17:53--  http://www.eeu.gov.et/images/International_Finance_Reporting_System_and_FAIR_Program_Office.doc.pdf%0D
+Resolving www.eeu.gov.et (www.eeu.gov.et)... 197.156.69.62
+Connecting to www.eeu.gov.et (www.eeu.gov.et)|197.156.69.62|:80... 197.156.69.62
+Connecting to www.eeu.gov.et (www.eeu.gov.et)|197.156.69.62|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:17:54 ERROR 403: Forbidden.
+
+failed: Connection timed out.
+Giving up.
+

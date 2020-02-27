@@ -1,0 +1,11 @@
+--2020-02-25 23:18:42--  http://cet.la/download/93/%0D
+Resolving cet.la (cet.la)... 198.27.88.111
+Connecting to cet.la (cet.la)|198.27.88.111|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.cet.la/download/93/%0d [following]
+--2020-02-25 23:18:42--  https://www.cet.la/download/93/%0d
+Resolving www.cet.la (www.cet.la)... 198.27.88.111
+Connecting to www.cet.la (www.cet.la)|198.27.88.111|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

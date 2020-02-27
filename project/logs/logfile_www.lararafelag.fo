@@ -1,0 +1,12 @@
+--2020-02-25 22:19:49--  http://www.lararafelag.fo/Files/Files/Arbeidstidin_4_mars_2016.pdf%0D
+Resolving www.lararafelag.fo (www.lararafelag.fo)... 81.95.243.210
+Connecting to www.lararafelag.fo (www.lararafelag.fo)|81.95.243.210|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:49 ERROR 400: Bad Request.
+
+--2020-02-25 22:19:49--  http://www.lararafelag.fo/Files/Files/Arbeidstidin_4_mars_2016.pdf%0D
+Resolving www.lararafelag.fo (www.lararafelag.fo)... 81.95.243.210
+Connecting to www.lararafelag.fo (www.lararafelag.fo)|81.95.243.210|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:49 ERROR 400: Bad Request.
+

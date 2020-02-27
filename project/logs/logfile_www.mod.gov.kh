@@ -1,0 +1,12 @@
+--2020-02-25 21:33:20--  https://www.mod.gov.kh/messages/107/download%0D
+Resolving www.mod.gov.kh (www.mod.gov.kh)... 175.100.28.206
+Connecting to www.mod.gov.kh (www.mod.gov.kh)|175.100.28.206|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:33:21 ERROR 404: Not Found.
+
+--2020-02-25 21:36:10--  https://www.mod.gov.kh/messages/107/download%0D
+Resolving www.mod.gov.kh (www.mod.gov.kh)... 175.100.28.206
+Connecting to www.mod.gov.kh (www.mod.gov.kh)|175.100.28.206|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:11 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:36:18--  https://www.presidencia.gob.pe/normas/DS_037_2017_PCM.pdf%0D
+Resolving www.presidencia.gob.pe (www.presidencia.gob.pe)... 190.102.152.21
+Connecting to www.presidencia.gob.pe (www.presidencia.gob.pe)|190.102.152.21|:443... connected.
+ERROR: cannot verify www.presidencia.gob.pe's certificate, issued by ‘CN=COMODO RSA Organization Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.presidencia.gob.pe insecurely, use `--no-check-certificate'.

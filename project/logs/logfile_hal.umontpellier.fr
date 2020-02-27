@@ -1,0 +1,12 @@
+--2020-02-25 22:23:07--  https://hal.umontpellier.fr/hal-01756210/document%0D
+Resolving hal.umontpellier.fr (hal.umontpellier.fr)... --2020-02-25 22:23:07--  https://hal.umontpellier.fr/hal-01756210/document%0D
+Resolving hal.umontpellier.fr (hal.umontpellier.fr)... 193.48.96.10
+Connecting to hal.umontpellier.fr (hal.umontpellier.fr)|193.48.96.10|:443... 193.48.96.10
+Connecting to hal.umontpellier.fr (hal.umontpellier.fr)|193.48.96.10|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:08 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:23:08 ERROR 404: Not Found.
+

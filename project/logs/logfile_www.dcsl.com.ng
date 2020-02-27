@@ -1,0 +1,22 @@
+--2020-02-26 00:16:51--  https://www.dcsl.com.ng/data/content/_1356019455_Q601M64UZ4.pdf%0D
+Resolving www.dcsl.com.ng (www.dcsl.com.ng)... 50.116.93.78
+Connecting to www.dcsl.com.ng (www.dcsl.com.ng)|50.116.93.78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         100M=0s
+
+2020-02-26 00:16:52 (100 Mb/s) - ‘/dev/null’ saved [71]
+
+--2020-02-26 00:16:52--  https://www.dcsl.com.ng/data/content/_1356019455_Q601M64UZ4.pdf%0D
+Resolving www.dcsl.com.ng (www.dcsl.com.ng)... 50.116.93.78
+Connecting to www.dcsl.com.ng (www.dcsl.com.ng)|50.116.93.78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        16.8M=0s
+
+2020-02-26 00:16:52 (16.8 Mb/s) - ‘/dev/null’ saved [71]
+

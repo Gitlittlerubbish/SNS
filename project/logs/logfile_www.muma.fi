@@ -1,0 +1,12 @@
+--2020-02-25 22:22:41--  https://www.muma.fi/files/1209/Maksasairaus_ja_ruokavalio.pdf%0D
+Resolving www.muma.fi (www.muma.fi)... 193.93.134.83
+Connecting to www.muma.fi (www.muma.fi)|193.93.134.83|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:22:42--  https://www.muma.fi/files/1209/Maksasairaus_ja_ruokavalio.pdf%0D
+Resolving www.muma.fi (www.muma.fi)... 193.93.134.83
+Connecting to www.muma.fi (www.muma.fi)|193.93.134.83|:443... connected.
+404 Not Found
+2020-02-25 22:22:42 ERROR 404: Not Found.
+
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:42 ERROR 404: Not Found.
+

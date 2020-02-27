@@ -1,0 +1,12 @@
+--2020-02-25 20:54:52--  http://www.mud.am/inter/4-CountryProfile_ENG.pdf%0D
+Resolving www.mud.am (www.mud.am)... 91.221.229.206
+Connecting to www.mud.am (www.mud.am)|91.221.229.206|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:52 ERROR 404: Not Found.
+
+--2020-02-25 21:07:43--  http://www.mud.am/inter/4-CountryProfile_ENG.pdf%0D
+Resolving www.mud.am (www.mud.am)... 91.221.229.206
+Connecting to www.mud.am (www.mud.am)|91.221.229.206|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:44 ERROR 404: Not Found.
+

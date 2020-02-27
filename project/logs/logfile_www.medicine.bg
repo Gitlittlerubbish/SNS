@@ -1,0 +1,12 @@
+--2020-02-25 21:27:47--  http://www.medicine.bg/public/listovka/16371d.pdf%0D
+Resolving www.medicine.bg (www.medicine.bg)... 148.251.15.180
+Connecting to www.medicine.bg (www.medicine.bg)|148.251.15.180|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:47 ERROR 404: Not Found.
+
+--2020-02-25 21:32:48--  http://www.medicine.bg/public/listovka/16371d.pdf%0D
+Resolving www.medicine.bg (www.medicine.bg)... 148.251.15.180
+Connecting to www.medicine.bg (www.medicine.bg)|148.251.15.180|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:48 ERROR 404: Not Found.
+

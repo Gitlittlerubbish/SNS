@@ -1,0 +1,12 @@
+--2020-02-25 22:17:19--  http://www.consultion.ee/lugemisvara/elamu_dets08.pdf%0D
+Resolving www.consultion.ee (www.consultion.ee)... --2020-02-25 22:17:19--  http://www.consultion.ee/lugemisvara/elamu_dets08.pdf%0D
+Resolving www.consultion.ee (www.consultion.ee)... 194.126.114.228
+Connecting to www.consultion.ee (www.consultion.ee)|194.126.114.228|:80... 194.126.114.228
+Connecting to www.consultion.ee (www.consultion.ee)|194.126.114.228|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:19 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:17:19 ERROR 404: Not Found.
+

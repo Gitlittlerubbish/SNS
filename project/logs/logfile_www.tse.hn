@@ -1,0 +1,12 @@
+--2020-02-25 22:43:54--  https://www.tse.hn/web/documentos/observadores_2009/03_Obser_nac_eg09.PDF%0D
+Resolving www.tse.hn (www.tse.hn)... 201.220.140.180, 181.210.23.187
+Connecting to www.tse.hn (www.tse.hn)|201.220.140.180|:443... connected.
+ERROR: cannot verify www.tse.hn's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Issued certificate has expired.
+To connect to www.tse.hn insecurely, use `--no-check-certificate'.
+--2020-02-25 22:43:55--  https://www.tse.hn/WEB/documentos/Propuestas_de_Ley_2019/Proyecto_de_Ley_Procesal_Electoral.pdf%0D
+Resolving www.tse.hn (www.tse.hn)... 201.220.140.180, 181.210.23.187
+Connecting to www.tse.hn (www.tse.hn)|201.220.140.180|:443... connected.
+ERROR: cannot verify www.tse.hn's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Issued certificate has expired.
+To connect to www.tse.hn insecurely, use `--no-check-certificate'.

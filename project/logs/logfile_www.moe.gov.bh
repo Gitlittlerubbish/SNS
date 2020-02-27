@@ -1,0 +1,12 @@
+--2020-02-25 21:02:50--  http://www.moe.gov.bh/images/teachers_names.pdf%0D
+Resolving www.moe.gov.bh (www.moe.gov.bh)... 34.243.156.160
+Connecting to www.moe.gov.bh (www.moe.gov.bh)|34.243.156.160|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:02:50 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:12--  http://www.moe.gov.bh/images/teachers_names.pdf%0D
+Resolving www.moe.gov.bh (www.moe.gov.bh)... 34.243.156.160
+Connecting to www.moe.gov.bh (www.moe.gov.bh)|34.243.156.160|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:12 ERROR 400: Bad Request.
+

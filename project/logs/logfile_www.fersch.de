@@ -1,0 +1,12 @@
+--2020-02-25 22:31:41--  https://www.fersch.de/pdfdoc/Mathematik.pdf%0D
+Resolving www.fersch.de (www.fersch.de)... 5.175.1.248
+Connecting to www.fersch.de (www.fersch.de)|5.175.1.248|:443... connected.
+--2020-02-25 22:31:41--  https://www.fersch.de/pdfdoc/Mathematik.pdf%0D
+HTTP request sent, awaiting response... Resolving www.fersch.de (www.fersch.de)... 5.175.1.248
+Connecting to www.fersch.de (www.fersch.de)|5.175.1.248|:443... 400 Bad Request
+2020-02-25 22:31:41 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:31:41 ERROR 400: Bad Request.
+

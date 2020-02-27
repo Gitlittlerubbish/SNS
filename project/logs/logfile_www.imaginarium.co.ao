@@ -1,0 +1,10 @@
+--2020-02-25 21:01:33--  http://www.imaginarium.co.ao/pdfs/58520_1.pdf%0D
+Resolving www.imaginarium.co.ao (www.imaginarium.co.ao)... 195.55.84.69
+Connecting to www.imaginarium.co.ao (www.imaginarium.co.ao)|195.55.84.69|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.imaginarium.co.ao/pdfs/58520_1.pdf%0d [following]
+--2020-02-25 21:01:33--  https://www.imaginarium.co.ao/pdfs/58520_1.pdf%0d
+Connecting to www.imaginarium.co.ao (www.imaginarium.co.ao)|195.55.84.69|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:33 ERROR 404: Not Found.
+

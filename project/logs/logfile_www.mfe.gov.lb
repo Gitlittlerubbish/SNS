@@ -1,0 +1,6 @@
+--2020-02-25 23:20:59--  http://www.mfe.gov.lb/memos/21_3_2018.pdf%0D
+Resolving www.mfe.gov.lb (www.mfe.gov.lb)... 93.185.92.42
+Connecting to www.mfe.gov.lb (www.mfe.gov.lb)|93.185.92.42|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:20:59 ERROR 400: Bad Request.
+

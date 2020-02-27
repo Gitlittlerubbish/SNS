@@ -1,0 +1,12 @@
+--2020-02-25 23:16:37--  http://bookfair.nccal.gov.kw/en/ExhibitionCatalog/PublisherReleases/1280%0D
+Resolving bookfair.nccal.gov.kw (bookfair.nccal.gov.kw)... 209.212.145.111
+Connecting to bookfair.nccal.gov.kw (bookfair.nccal.gov.kw)|209.212.145.111|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:16:37 ERROR 400: Bad Request.
+
+--2020-02-25 23:16:37--  http://bookfair.nccal.gov.kw/ar/ExhibitionCatalog/PublisherReleases/1195%0D
+Resolving bookfair.nccal.gov.kw (bookfair.nccal.gov.kw)... 209.212.145.111
+Connecting to bookfair.nccal.gov.kw (bookfair.nccal.gov.kw)|209.212.145.111|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:16:37 ERROR 400: Bad Request.
+

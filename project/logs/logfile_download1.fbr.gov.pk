@@ -1,0 +1,6 @@
+--2020-02-26 00:25:27--  http://download1.fbr.gov.pk/Docs/201410281410236560AssistancePackageforFamilies.pdf%0D
+Resolving download1.fbr.gov.pk (download1.fbr.gov.pk)... 202.125.159.109
+Connecting to download1.fbr.gov.pk (download1.fbr.gov.pk)|202.125.159.109|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:25:27 ERROR 400: Bad Request.
+

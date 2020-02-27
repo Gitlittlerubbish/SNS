@@ -1,0 +1,6 @@
+--2020-02-25 23:34:03--  http://www.energy.gov.mv/v1/download/21%0D
+Resolving www.energy.gov.mv (www.energy.gov.mv)... 202.1.207.53
+Connecting to www.energy.gov.mv (www.energy.gov.mv)|202.1.207.53|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:34:05 ERROR 404: Not Found.
+

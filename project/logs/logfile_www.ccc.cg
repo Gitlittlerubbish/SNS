@@ -1,0 +1,12 @@
+--2020-02-25 21:56:22--  http://www.ccc.cg/reglementation/DECRETS/DECRET_2013-487du26-09-2013.pdf%0D
+Resolving www.ccc.cg (www.ccc.cg)... 178.208.37.220
+Connecting to www.ccc.cg (www.ccc.cg)|178.208.37.220|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:56:22 ERROR 400: Bad Request.
+
+--2020-02-25 21:56:22--  http://www.ccc.cg/reglementation/DECRETS/DECRET_2013-487du26-09-2013.pdf%0D
+Resolving www.ccc.cg (www.ccc.cg)... 178.208.37.220
+Connecting to www.ccc.cg (www.ccc.cg)|178.208.37.220|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:56:22 ERROR 400: Bad Request.
+

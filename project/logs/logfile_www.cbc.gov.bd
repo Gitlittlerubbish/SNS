@@ -1,0 +1,12 @@
+--2020-02-25 21:03:48--  http://www.cbc.gov.bd/images/vat_jurisdiction_final.pdf%0D
+Resolving www.cbc.gov.bd (www.cbc.gov.bd)... 154.16.116.154
+Connecting to www.cbc.gov.bd (www.cbc.gov.bd)|154.16.116.154|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:49 ERROR 404: Not Found.
+
+--2020-02-25 21:14:52--  http://www.cbc.gov.bd/images/vat_jurisdiction_final.pdf%0D
+Resolving www.cbc.gov.bd (www.cbc.gov.bd)... 154.16.116.154
+Connecting to www.cbc.gov.bd (www.cbc.gov.bd)|154.16.116.154|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:53 ERROR 404: Not Found.
+

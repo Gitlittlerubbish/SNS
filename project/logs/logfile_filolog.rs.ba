@@ -1,0 +1,12 @@
+--2020-02-25 21:17:32--  https://filolog.rs.ba/docs/broj17.pdf%0D
+Resolving filolog.rs.ba (filolog.rs.ba)... 173.249.24.143
+Connecting to filolog.rs.ba (filolog.rs.ba)|173.249.24.143|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:32 ERROR 404: Not Found.
+
+--2020-02-25 21:24:42--  https://filolog.rs.ba/docs/broj17.pdf%0D
+Resolving filolog.rs.ba (filolog.rs.ba)... 173.249.24.143
+Connecting to filolog.rs.ba (filolog.rs.ba)|173.249.24.143|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:42 ERROR 404: Not Found.
+

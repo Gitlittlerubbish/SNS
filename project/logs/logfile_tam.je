@@ -1,0 +1,14 @@
+--2020-02-25 23:04:32--  http://tam.je/jah%0D
+Resolving tam.je (tam.je)... 81.95.99.253
+Connecting to tam.je (tam.je)|81.95.99.253|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tam.je/jah%0D [following]
+--2020-02-25 23:04:32--  https://tam.je/jah%0D
+Connecting to tam.je (tam.je)|81.95.99.253|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /jah%0D/ [following]
+--2020-02-25 23:04:32--  https://tam.je/jah%0D/
+Reusing existing connection to tam.je:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:04:33 ERROR 404: Not Found.
+

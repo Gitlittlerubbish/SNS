@@ -1,0 +1,10 @@
+--2020-02-25 23:25:13--  http://www.paciolis.lt/files/Journals/9018%0D
+Resolving www.paciolis.lt (www.paciolis.lt)... 92.61.37.124
+Connecting to www.paciolis.lt (www.paciolis.lt)|92.61.37.124|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.paciolis.lt/files/Journals/9018%0d [following]
+--2020-02-25 23:25:13--  https://www.paciolis.lt/files/Journals/9018%0d
+Connecting to www.paciolis.lt (www.paciolis.lt)|92.61.37.124|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:25:13 ERROR 404: Not Found.
+

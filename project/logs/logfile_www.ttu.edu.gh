@@ -1,0 +1,24 @@
+--2020-02-25 22:33:01--  http://www.ttu.edu.gh/ttu/downloads/1/file2017711_20027.pdf%0D
+Resolving www.ttu.edu.gh (www.ttu.edu.gh)... --2020-02-25 22:33:01--  http://www.ttu.edu.gh/ttu/downloads/1/file2017711_20027.pdf%0D
+Resolving www.ttu.edu.gh (www.ttu.edu.gh)... 143.95.239.85
+Connecting to www.ttu.edu.gh (www.ttu.edu.gh)|143.95.239.85|:80... 143.95.239.85
+Connecting to www.ttu.edu.gh (www.ttu.edu.gh)|143.95.239.85|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:33:02 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:33:02 ERROR 404: Not Found.
+
+--2020-02-25 22:33:06--  http://www.ttu.edu.gh/ttu/downloads/1/file2017711_20027.pdf%0D
+Resolving www.ttu.edu.gh (www.ttu.edu.gh)... 143.95.239.85
+Connecting to www.ttu.edu.gh (www.ttu.edu.gh)|143.95.239.85|:80... --2020-02-25 22:33:06--  http://www.ttu.edu.gh/ttu/downloads/1/file2017711_20027.pdf%0D
+Resolving www.ttu.edu.gh (www.ttu.edu.gh)... 143.95.239.85
+Connecting to www.ttu.edu.gh (www.ttu.edu.gh)|143.95.239.85|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:33:07 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:33:07 ERROR 404: Not Found.
+

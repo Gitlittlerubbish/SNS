@@ -1,0 +1,12 @@
+--2020-02-25 21:33:46--  http://cnv.org.kh/cnv_THS_publications/20sep10_CambodiaYear10-bodytext.pdf%0D
+Resolving cnv.org.kh (cnv.org.kh)... 203.223.32.4
+Connecting to cnv.org.kh (cnv.org.kh)|203.223.32.4|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:33:48 ERROR 404: Not Found.
+
+--2020-02-25 21:36:28--  http://cnv.org.kh/cnv_THS_publications/20sep10_CambodiaYear10-bodytext.pdf%0D
+Resolving cnv.org.kh (cnv.org.kh)... 203.223.32.4
+Connecting to cnv.org.kh (cnv.org.kh)|203.223.32.4|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:29 ERROR 404: Not Found.
+

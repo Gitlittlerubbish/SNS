@@ -1,0 +1,12 @@
+--2020-02-25 21:10:20--  https://www.cena.bj/wp-content/uploads/2019/02/Formulaire_de_demande_d_accreditation.pdf%0D
+Resolving www.cena.bj (www.cena.bj)... 91.216.107.112
+Connecting to www.cena.bj (www.cena.bj)|91.216.107.112|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:10:21 ERROR 404: Not Found.
+
+--2020-02-25 21:19:39--  https://www.cena.bj/wp-content/uploads/2019/02/Formulaire_de_demande_d_accreditation.pdf%0D
+Resolving www.cena.bj (www.cena.bj)... 91.216.107.112
+Connecting to www.cena.bj (www.cena.bj)|91.216.107.112|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:40 ERROR 404: Not Found.
+

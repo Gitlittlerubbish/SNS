@@ -1,0 +1,12 @@
+--2020-02-25 23:25:59--  https://www.lta.lu/assets/jahrbuch_lta2013_lowres.pdf%0D
+Resolving www.lta.lu (www.lta.lu)... 158.64.1.63
+Connecting to www.lta.lu (www.lta.lu)|158.64.1.63|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:25:59 ERROR 404: Not Found.
+
+--2020-02-25 23:25:59--  https://www.lta.lu/assets/jahrbuch_lta2010_lowres.pdf%0D
+Resolving www.lta.lu (www.lta.lu)... 158.64.1.63
+Connecting to www.lta.lu (www.lta.lu)|158.64.1.63|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:25:59 ERROR 404: Not Found.
+

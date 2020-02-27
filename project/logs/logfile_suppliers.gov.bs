@@ -1,0 +1,12 @@
+--2020-02-25 21:02:25--  https://suppliers.gov.bs/wp-content/uploads/2019/06/ISIC-CODES.pdf%0D
+Resolving suppliers.gov.bs (suppliers.gov.bs)... 24.51.118.24, 108.60.224.24
+Connecting to suppliers.gov.bs (suppliers.gov.bs)|24.51.118.24|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:02:26 ERROR 404: Not Found.
+
+--2020-02-25 21:13:46--  https://suppliers.gov.bs/wp-content/uploads/2019/06/ISIC-CODES.pdf%0D
+Resolving suppliers.gov.bs (suppliers.gov.bs)... 108.60.224.24, 24.51.118.24
+Connecting to suppliers.gov.bs (suppliers.gov.bs)|108.60.224.24|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:47 ERROR 404: Not Found.
+

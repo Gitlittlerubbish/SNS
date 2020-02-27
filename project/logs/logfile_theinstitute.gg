@@ -1,0 +1,12 @@
+--2020-02-25 22:38:39--  http://theinstitute.gg/CHttpHandler.ashx%3Fid%3D117767%26p%3D0%0D
+Resolving theinstitute.gg (theinstitute.gg)... 195.226.152.43
+Connecting to theinstitute.gg (theinstitute.gg)|195.226.152.43|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:39 ERROR 400: Bad Request.
+
+--2020-02-25 22:38:39--  http://theinstitute.gg/CHttpHandler.ashx%3Fid%3D117767%26p%3D0%0D
+Resolving theinstitute.gg (theinstitute.gg)... 195.226.152.43
+Connecting to theinstitute.gg (theinstitute.gg)|195.226.152.43|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:39 ERROR 400: Bad Request.
+

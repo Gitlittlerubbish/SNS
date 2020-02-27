@@ -1,0 +1,20 @@
+--2020-02-25 21:38:52--  http://www.cincb.ky/helpcenter/cincb-credit_policy_handbook-executive_summary_v3.pdf%0D
+Resolving www.cincb.ky (www.cincb.ky)... 151.101.130.159
+Connecting to www.cincb.ky (www.cincb.ky)|151.101.130.159|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cincb.ky/helpcenter/cincb-credit_policy_handbook-executive_summary_v3.pdf%0D [following]
+--2020-02-25 21:38:52--  https://www.cincb.ky/helpcenter/cincb-credit_policy_handbook-executive_summary_v3.pdf%0D
+Connecting to www.cincb.ky (www.cincb.ky)|151.101.130.159|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:54 ERROR 404: Not Found.
+
+--2020-02-25 21:40:04--  http://www.cincb.ky/helpcenter/cincb-credit_policy_handbook-executive_summary_v3.pdf%0D
+Resolving www.cincb.ky (www.cincb.ky)... 151.101.130.159
+Connecting to www.cincb.ky (www.cincb.ky)|151.101.130.159|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cincb.ky/helpcenter/cincb-credit_policy_handbook-executive_summary_v3.pdf%0D [following]
+--2020-02-25 21:40:04--  https://www.cincb.ky/helpcenter/cincb-credit_policy_handbook-executive_summary_v3.pdf%0D
+Connecting to www.cincb.ky (www.cincb.ky)|151.101.130.159|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:40:05 ERROR 404: Not Found.
+

@@ -1,0 +1,20 @@
+--2020-02-25 22:26:50--  https://tele.ga/d/5948558562845262138.pdf%0D
+Resolving tele.ga (tele.ga)... 108.61.32.116
+Connecting to tele.ga (tele.ga)|108.61.32.116|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /d/ [following]
+--2020-02-25 22:26:50--  https://tele.ga/d/
+Reusing existing connection to tele.ga:443.
+HTTP request sent, awaiting response... --2020-02-25 22:26:52--  https://tele.ga/d/5948558562845262138.pdf%0D
+Resolving tele.ga (tele.ga)... 108.61.32.116
+Connecting to tele.ga (tele.ga)|108.61.32.116|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /d/ [following]
+--2020-02-25 22:26:52--  https://tele.ga/d/
+Reusing existing connection to tele.ga:443.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+Read error (Connection timed out) in headers.
+Giving up.
+

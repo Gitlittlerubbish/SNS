@@ -1,0 +1,10 @@
+--2020-02-26 00:03:47--  https://www.mohp.gov.np/downloads/Progress_Report_MOHP.pdf%0D
+Resolving www.mohp.gov.np (www.mohp.gov.np)... 202.45.144.31
+Connecting to www.mohp.gov.np (www.mohp.gov.np)|202.45.144.31|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mohp.gov.np/en/downloads/Progress_Report_MOHP.pdf [following]
+--2020-02-26 00:03:48--  https://www.mohp.gov.np/en/downloads/Progress_Report_MOHP.pdf
+Reusing existing connection to www.mohp.gov.np:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:03:49 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:25:23--  https://nationalbank.vg/eng/downloads/710/%0D
+Resolving nationalbank.vg (nationalbank.vg)... 208.88.73.129
+Connecting to nationalbank.vg (nationalbank.vg)|208.88.73.129|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:23 ERROR 400: Bad Request.
+
+--2020-02-25 21:30:45--  https://nationalbank.vg/eng/downloads/710/%0D
+Resolving nationalbank.vg (nationalbank.vg)... 208.88.73.129
+Connecting to nationalbank.vg (nationalbank.vg)|208.88.73.129|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:30:45 ERROR 400: Bad Request.
+

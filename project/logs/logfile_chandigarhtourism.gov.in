@@ -1,0 +1,6 @@
+--2020-02-25 22:50:19--  http://chandigarhtourism.gov.in/images/list.pdf%0D
+Resolving chandigarhtourism.gov.in (chandigarhtourism.gov.in)... 164.100.185.29
+Connecting to chandigarhtourism.gov.in (chandigarhtourism.gov.in)|164.100.185.29|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:20 ERROR 400: Bad Request.
+

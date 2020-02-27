@@ -1,0 +1,6 @@
+--2020-02-26 00:37:45--  http://www.postgradoune.edu.pe/pdf/manual-apa.pdf%0D
+Resolving www.postgradoune.edu.pe (www.postgradoune.edu.pe)... 200.48.31.85
+Connecting to www.postgradoune.edu.pe (www.postgradoune.edu.pe)|200.48.31.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:37:46 ERROR 404: Not Found.
+

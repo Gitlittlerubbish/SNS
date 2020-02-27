@@ -1,0 +1,12 @@
+--2020-02-25 21:17:52--  http://www.gov.bw/globalassets/portal-team/botswanaexcellencestrategynovembero8.pdf%0D
+Resolving www.gov.bw (www.gov.bw)... 196.216.163.23
+Connecting to www.gov.bw (www.gov.bw)|196.216.163.23|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:17:53 ERROR 400: Bad Request.
+
+--2020-02-25 21:24:53--  http://www.gov.bw/globalassets/portal-team/botswanaexcellencestrategynovembero8.pdf%0D
+Resolving www.gov.bw (www.gov.bw)... 196.216.163.23
+Connecting to www.gov.bw (www.gov.bw)|196.216.163.23|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:24:54 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:21:53--  https://www.skyss.no/link/877b983fa2c44616811f042db1f7fe5f.aspx%0D
+Resolving www.skyss.no (www.skyss.no)... 109.70.85.21
+Connecting to www.skyss.no (www.skyss.no)|109.70.85.21|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:21:54 ERROR 400: Bad Request.
+

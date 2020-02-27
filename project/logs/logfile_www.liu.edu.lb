@@ -1,0 +1,6 @@
+--2020-02-25 23:20:56--  http://www.liu.edu.lb/metaData/BMGT.pdf%0D
+Resolving www.liu.edu.lb (www.liu.edu.lb)... 69.172.201.29
+Connecting to www.liu.edu.lb (www.liu.edu.lb)|69.172.201.29|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:20:56 ERROR 404: Not Found.
+

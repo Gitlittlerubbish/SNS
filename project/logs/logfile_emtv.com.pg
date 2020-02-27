@@ -1,0 +1,12 @@
+--2020-02-26 00:29:44--  https://emtv.com.pg/tv-guide-wc-07012019-13012019/%0D
+Resolving emtv.com.pg (emtv.com.pg)... 192.169.249.204
+Connecting to emtv.com.pg (emtv.com.pg)|192.169.249.204|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:29:49 ERROR 404: Not Found.
+
+--2020-02-26 00:31:53--  https://emtv.com.pg/tv-guide-wc-07012019-13012019/%0D
+Resolving emtv.com.pg (emtv.com.pg)... 192.169.249.204
+Connecting to emtv.com.pg (emtv.com.pg)|192.169.249.204|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:31:55 ERROR 404: Not Found.
+

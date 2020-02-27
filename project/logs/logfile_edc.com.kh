@@ -1,0 +1,12 @@
+--2020-02-25 21:33:16--  http://edc.com.kh/images/list_of_edc_tariff_2019.pdf%0D
+Resolving edc.com.kh (edc.com.kh)... 162.210.97.196
+Connecting to edc.com.kh (edc.com.kh)|162.210.97.196|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:33:17 ERROR 404: Not Found.
+
+--2020-02-25 21:36:07--  http://edc.com.kh/images/list_of_edc_tariff_2019.pdf%0D
+Resolving edc.com.kh (edc.com.kh)... 162.210.97.196
+Connecting to edc.com.kh (edc.com.kh)|162.210.97.196|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:08 ERROR 404: Not Found.
+

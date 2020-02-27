@@ -1,0 +1,6 @@
+--2020-02-25 20:53:28--  http://ahcgrp.com.af/electrical.pdf%0D
+Resolving ahcgrp.com.af (ahcgrp.com.af)... 107.190.136.210
+Connecting to ahcgrp.com.af (ahcgrp.com.af)|107.190.136.210|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:53:29 ERROR 404: Not Found.
+

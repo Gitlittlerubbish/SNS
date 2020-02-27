@@ -1,0 +1,6 @@
+--2020-02-26 00:27:01--  https://www.idaan.gob.pa/wp-content/uploads/2016/04/copanit_23_395reglamentotecnico_99.pdf%0D
+Resolving www.idaan.gob.pa (www.idaan.gob.pa)... 45.60.65.147
+Connecting to www.idaan.gob.pa (www.idaan.gob.pa)|45.60.65.147|:443... connected.
+ERROR: cannot verify www.idaan.gob.pa's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.idaan.gob.pa insecurely, use `--no-check-certificate'.

@@ -1,0 +1,12 @@
+--2020-02-25 22:33:11--  https://www.gcbbank.com.gh/images/docs/info/gcb_2014_tarrif_guide.pdf%0D
+Resolving www.gcbbank.com.gh (www.gcbbank.com.gh)... --2020-02-25 22:33:11--  https://www.gcbbank.com.gh/images/docs/info/gcb_2014_tarrif_guide.pdf%0D
+Resolving www.gcbbank.com.gh (www.gcbbank.com.gh)... 149.126.74.176
+Connecting to www.gcbbank.com.gh (www.gcbbank.com.gh)|149.126.74.176|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:33:12 ERROR 403: Forbidden.
+
+149.126.74.176
+Connecting to www.gcbbank.com.gh (www.gcbbank.com.gh)|149.126.74.176|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:33:12 ERROR 403: Forbidden.
+

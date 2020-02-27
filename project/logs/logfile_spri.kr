@@ -1,0 +1,6 @@
+--2020-02-25 23:11:40--  https://spri.kr/download/16341/%0D
+Resolving spri.kr (spri.kr)... 211.253.135.102
+Connecting to spri.kr (spri.kr)|211.253.135.102|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:11:42 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:32:41--  https://cmpdoc.gov.cv/public//Deliberacoes/Del_2013_19.pdf%0D
+Resolving cmpdoc.gov.cv (cmpdoc.gov.cv)... 213.150.194.64
+Connecting to cmpdoc.gov.cv (cmpdoc.gov.cv)|213.150.194.64|:443... connected.
+HTTP request sent, awaiting response... 503 Service Unavailable
+2020-02-25 21:32:41 ERROR 503: Service Unavailable.
+
+--2020-02-25 21:35:38--  https://cmpdoc.gov.cv/public//Deliberacoes/Del_2013_19.pdf%0D
+Resolving cmpdoc.gov.cv (cmpdoc.gov.cv)... 213.150.194.64
+Connecting to cmpdoc.gov.cv (cmpdoc.gov.cv)|213.150.194.64|:443... connected.
+HTTP request sent, awaiting response... 503 Service Unavailable
+2020-02-25 21:35:38 ERROR 503: Service Unavailable.
+

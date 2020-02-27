@@ -1,0 +1,6 @@
+--2020-02-26 00:04:31--  http://www.minpun.com.np/get_file.php%3Fid%3D185%0D
+Resolving www.minpun.com.np (www.minpun.com.np)... 107.180.0.174
+Connecting to www.minpun.com.np (www.minpun.com.np)|107.180.0.174|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:04:31 ERROR 400: Bad Request.
+

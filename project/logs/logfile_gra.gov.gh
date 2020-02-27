@@ -1,0 +1,24 @@
+--2020-02-25 22:32:34--  https://gra.gov.gh/wp-content/uploads/2018/11/ge_trust_fund_act.pdf%0D
+Resolving gra.gov.gh (gra.gov.gh)... --2020-02-25 22:32:34--  https://gra.gov.gh/wp-content/uploads/2018/11/ge_trust_fund_act.pdf%0D
+Resolving gra.gov.gh (gra.gov.gh)... 197.253.124.98
+Connecting to gra.gov.gh (gra.gov.gh)|197.253.124.98|:443... 197.253.124.98
+Connecting to gra.gov.gh (gra.gov.gh)|197.253.124.98|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:32:35 ERROR 404: Not Found.
+
+--2020-02-25 22:32:35--  https://gra.gov.gh/wp-content/uploads/2018/11/DT_22a_22b_transfer_pricing_form.pdf%0D
+Resolving gra.gov.gh (gra.gov.gh)... 197.253.124.98
+Connecting to gra.gov.gh (gra.gov.gh)|197.253.124.98|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:32:37 ERROR 404: Not Found.
+
+--2020-02-25 22:32:37--  https://gra.gov.gh/wp-content/uploads/2018/11/DT_22a_22b_transfer_pricing_form.pdf%0D
+Resolving gra.gov.gh (gra.gov.gh)... 197.253.124.98
+Connecting to gra.gov.gh (gra.gov.gh)|197.253.124.98|:443... 404 Not Found
+connected.
+2020-02-25 22:32:37 ERROR 404: Not Found.
+
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:32:39 ERROR 404: Not Found.
+

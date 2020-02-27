@@ -1,0 +1,6 @@
+--2020-02-25 23:12:39--  https://www.eventservice.kr/atlassian/file/1207_Atlassian_busan_HandsOnLabs03.pdf%0D
+Resolving www.eventservice.kr (www.eventservice.kr)... 143.204.175.103, 143.204.175.97, 143.204.175.43, ...
+Connecting to www.eventservice.kr (www.eventservice.kr)|143.204.175.103|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:12:40 ERROR 400: Bad Request.
+

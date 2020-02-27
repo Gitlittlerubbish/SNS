@@ -1,0 +1,6 @@
+--2020-02-26 00:42:53--  https://recovery.pr/documents/ASR_Fact_Sheet_Feb2017_COMPLIANT.pdf%0D
+Resolving recovery.pr (recovery.pr)... 64.178.217.130
+Connecting to recovery.pr (recovery.pr)|64.178.217.130|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:42:54 ERROR 400: Bad Request.
+

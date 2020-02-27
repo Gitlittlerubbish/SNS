@@ -1,0 +1,44 @@
+--2020-02-25 23:51:58--  http://www.eri.mn/download/qxvj3rok%0D
+Resolving www.eri.mn (www.eri.mn)... 43.231.112.46
+Connecting to www.eri.mn (www.eri.mn)|43.231.112.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                            337M=0s
+
+2020-02-25 23:51:59 (337 Mb/s) - ‘/dev/null’ saved [11924]
+
+--2020-02-25 23:51:59--  http://www.eri.mn/download/qxvj3rok%0D
+Resolving www.eri.mn (www.eri.mn)... 43.231.112.46
+Connecting to www.eri.mn (www.eri.mn)|43.231.112.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                            105M=0.001s
+
+2020-02-25 23:51:59 (105 Mb/s) - ‘/dev/null’ saved [11924]
+
+--2020-02-25 23:51:59--  http://www.eri.mn/download/u8vm8q5x%0D
+Resolving www.eri.mn (www.eri.mn)... 43.231.112.46
+Connecting to www.eri.mn (www.eri.mn)|43.231.112.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                            352M=0s
+
+2020-02-25 23:52:00 (352 Mb/s) - ‘/dev/null’ saved [11924]
+
+--2020-02-25 23:52:00--  http://www.eri.mn/download/u8vm8q5x%0D
+Resolving www.eri.mn (www.eri.mn)... 43.231.112.46
+Connecting to www.eri.mn (www.eri.mn)|43.231.112.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                            226M=0s
+
+2020-02-25 23:52:00 (226 Mb/s) - ‘/dev/null’ saved [11924]
+

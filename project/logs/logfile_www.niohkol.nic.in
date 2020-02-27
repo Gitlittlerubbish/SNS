@@ -1,0 +1,6 @@
+--2020-02-25 22:50:12--  http://www.niohkol.nic.in/Medical_Fitness_Certificate.pdf%0D
+Resolving www.niohkol.nic.in (www.niohkol.nic.in)... 164.100.178.139
+Connecting to www.niohkol.nic.in (www.niohkol.nic.in)|164.100.178.139|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:13 ERROR 400: Bad Request.
+

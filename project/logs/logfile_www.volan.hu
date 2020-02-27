@@ -1,0 +1,6 @@
+--2020-02-25 22:47:36--  http://www.volan.hu/dijszab/jegyar.pdf%0D
+Resolving www.volan.hu (www.volan.hu)... 79.172.201.60
+Connecting to www.volan.hu (www.volan.hu)|79.172.201.60|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:47:36 ERROR 404: Not Found.
+

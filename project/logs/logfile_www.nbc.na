@@ -1,0 +1,6 @@
+--2020-02-26 00:02:26--  http://www.nbc.na/sites/default/files/pdf/19_7_advert.pdf%0D
+Resolving www.nbc.na (www.nbc.na)... 162.214.29.108
+Connecting to www.nbc.na (www.nbc.na)|162.214.29.108|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:02:28 ERROR 404: Not Found.
+

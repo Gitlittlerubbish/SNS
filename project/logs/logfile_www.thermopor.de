@@ -1,0 +1,112 @@
+--2020-02-25 22:31:39--  http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf%0D
+Resolving www.thermopor.de (www.thermopor.de)... 217.160.0.57
+Connecting to www.thermopor.de (www.thermopor.de)|217.160.0.57|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf [following]
+--2020-02-25 22:31:39--  http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf
+Reusing existing connection to www.thermopor.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 666885 (651K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 13.0M 0s
+    50K .......... .......... .......... .......... .......... 15% 37.9M 0s
+   100K .......... .......... .......... .......... .......... 23% 35.9M 0s
+   150K .......... .......... .......... .......... .......... 30% 57.0M 0s
+   200K .......... .......... .......... .......... .......... 38% 91.8M 0s
+   250K .......... .......... .......... .......... .......... 46%  121M 0s
+   300K .......... .......... .......... .......... .......... 53%  102M 0s
+   350K .......... .......... .......... .......... .......... 61%  140M 0s
+   400K .......... .......... .......... .......... .......... 69%  169M 0s
+   450K .......... .......... .......... .......... .......... 76%  151M 0s
+   500K .......... .......... .......... .......... .......... 84%  181M 0s
+   550K .......... .......... .......... .......... .......... 92%  366M 0s
+   600K .......... .......... .......... .......... .......... 99%  169M 0s
+   650K .                                                     100%  743M=0.09s
+
+2020-02-25 22:31:39 (61.5 Mb/s) - ‘/dev/null’ saved [666885/666885]
+
+--2020-02-25 22:31:39--  http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf%0D
+Resolving www.thermopor.de (www.thermopor.de)... 217.160.0.57
+Connecting to www.thermopor.de (www.thermopor.de)|217.160.0.57|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf [following]
+--2020-02-25 22:31:39--  http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf
+Reusing existing connection to www.thermopor.de:80.
+HTTP request sent, awaiting response... --2020-02-25 22:31:39--  http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf%0D
+Resolving www.thermopor.de (www.thermopor.de)... 217.160.0.57
+Connecting to www.thermopor.de (www.thermopor.de)|217.160.0.57|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 666885 (651K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 13.0M 0s
+    50K .......... .......... .......... .......... .......... 15% 36.3M 0s
+   100K .......... .......... .......... .......... .......... 23% 38.4M 0s
+   150K .......... .......... .......... .......... .......... 30% 56.7M 0s
+   200K .......... .......... .......... .......... .......... 38% 83.5M 0s
+   250K .......... .......... .......... .......... .......... 46%  112M 0s
+   300K .......... .......... .......... .......... .......... 53%  122M 0s
+   350K .......... .......... .......... .......... .......... 61%  106M 0s
+   400K .......... .......... .......... .......... .......... 69%  145M 0s
+   450K .......... .......... .......... .......... .......... 76%  216M 0s
+   500K .......... .......... .......... .......... .......... 84%  172M 0s
+   550K .......... .......... .......... .......... .......... 92%  257M 0s
+   600K .......... .......... .......... .......... .......... 99%  215M 0s
+   650K .                                                     100% 20560G=0.09s
+
+2020-02-25 22:31:39 (61.4 Mb/s) - ‘/dev/null’ saved [666885/666885]
+
+301 Moved Permanently
+Location: http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf [following]
+--2020-02-25 22:31:40--  http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf
+Reusing existing connection to www.thermopor.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 666885 (651K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 13.0M 0s
+    50K .......... .......... .......... .......... .......... 15% 36.8M 0s
+   100K .......... .......... .......... .......... .......... 23% 37.1M 0s
+   150K .......... .......... .......... .......... .......... 30% 57.5M 0s
+   200K .......... .......... .......... .......... .......... 38% 84.2M 0s
+   250K .......... .......... .......... .......... .......... 46%  111M 0s
+   300K .......... .......... .......... .......... .......... 53%  126M 0s
+   350K .......... .......... .......... .......... .......... 61%  108M 0s
+   400K .......... .......... .......... .......... .......... 69%  135M 0s
+   450K .......... .......... .......... .......... .......... 76%  198M 0s
+   500K .......... .......... .......... .......... .......... 84%  186M 0s
+   550K .......... .......... .......... .......... .......... 92%  229M 0s
+   600K .......... .......... .......... .......... .......... 99%  227M 0s
+   650K .                                                     100% 20560G=0.09s
+
+2020-02-25 22:31:40 (61.0 Mb/s) - ‘/dev/null’ saved [666885/666885]
+
+--2020-02-25 22:31:40--  http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf%0D
+Resolving www.thermopor.de (www.thermopor.de)... 217.160.0.57
+Connecting to www.thermopor.de (www.thermopor.de)|217.160.0.57|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf [following]
+--2020-02-25 22:31:40--  http://www.thermopor.de/download/Schlitze_und_Aussparungen.pdf
+Reusing existing connection to www.thermopor.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 666885 (651K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 13.0M 0s
+    50K .......... .......... .......... .......... .......... 15% 37.2M 0s
+   100K .......... .......... .......... .......... .......... 23% 37.8M 0s
+   150K .......... .......... .......... .......... .......... 30% 57.4M 0s
+   200K .......... .......... .......... .......... .......... 38% 91.3M 0s
+   250K .......... .......... .......... .......... .......... 46%  119M 0s
+   300K .......... .......... .......... .......... .......... 53%  141M 0s
+   350K .......... .......... .......... .......... .......... 61% 97.8M 0s
+   400K .......... .......... .......... .......... .......... 69%  147M 0s
+   450K .......... .......... .......... .......... .......... 76%  207M 0s
+   500K .......... .......... .......... .......... .......... 84%  183M 0s
+   550K .......... .......... .......... .......... .......... 92%  274M 0s
+   600K .......... .......... .......... .......... .......... 99%  216M 0s
+   650K .                                                     100% 20560G=0.09s
+
+2020-02-25 22:31:40 (62.0 Mb/s) - ‘/dev/null’ saved [666885/666885]
+

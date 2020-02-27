@@ -1,0 +1,24 @@
+--2020-02-25 21:32:04--  http://www.anas.gov.cv/images/PDF/CNAS_e_ANAS_Estatutos.pdf%0D
+Resolving www.anas.gov.cv (www.anas.gov.cv)... 213.150.196.36
+Connecting to www.anas.gov.cv (www.anas.gov.cv)|213.150.196.36|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:32:04 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:32:04--  https://www.anas.gov.cv/images/PDF/bo_26_2016_Politicatarifariadosetoraguaesaneamento.pdf%0D
+Resolving www.anas.gov.cv (www.anas.gov.cv)... 213.150.196.36
+Connecting to www.anas.gov.cv (www.anas.gov.cv)|213.150.196.36|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:32:05 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:35:11--  http://www.anas.gov.cv/images/PDF/CNAS_e_ANAS_Estatutos.pdf%0D
+Resolving www.anas.gov.cv (www.anas.gov.cv)... 213.150.196.36
+Connecting to www.anas.gov.cv (www.anas.gov.cv)|213.150.196.36|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:35:11 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:35:11--  https://www.anas.gov.cv/images/PDF/bo_26_2016_Politicatarifariadosetoraguaesaneamento.pdf%0D
+Resolving www.anas.gov.cv (www.anas.gov.cv)... 213.150.196.36
+Connecting to www.anas.gov.cv (www.anas.gov.cv)|213.150.196.36|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:35:12 ERROR 500: Internal Server Error.
+

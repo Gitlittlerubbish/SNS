@@ -1,0 +1,6 @@
+--2020-02-25 23:46:34--  https://www.anestesia.com.mx/edema.pdf%0D
+Resolving www.anestesia.com.mx (www.anestesia.com.mx)... 148.72.3.159
+Connecting to www.anestesia.com.mx (www.anestesia.com.mx)|148.72.3.159|:443... connected.
+ERROR: cannot verify www.anestesia.com.mx's certificate, issued by ‘CN=anestesia.interdata.mx’:
+  Self-signed certificate encountered.
+To connect to www.anestesia.com.mx insecurely, use `--no-check-certificate'.

@@ -1,0 +1,12 @@
+--2020-02-25 20:58:17--  http://www.prostate.org.au/media/305374/what_you_need_to_know_about_prostate_cancer_chinese.pdf%0D
+Resolving www.prostate.org.au (www.prostate.org.au)... 202.129.141.49
+Connecting to www.prostate.org.au (www.prostate.org.au)|202.129.141.49|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:58:18 ERROR 400: Bad Request.
+
+--2020-02-25 21:10:36--  http://www.prostate.org.au/media/305374/what_you_need_to_know_about_prostate_cancer_chinese.pdf%0D
+Resolving www.prostate.org.au (www.prostate.org.au)... 202.129.141.49
+Connecting to www.prostate.org.au (www.prostate.org.au)|202.129.141.49|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:10:37 ERROR 400: Bad Request.
+

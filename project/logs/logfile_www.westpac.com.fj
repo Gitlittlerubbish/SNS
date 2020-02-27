@@ -1,0 +1,60 @@
+--2020-02-25 22:21:45--  https://www.westpac.com.fj/content/dam/public/fiji/documents/Visa_Conditions_of_Use.pdf%0D
+Resolving www.westpac.com.fj (www.westpac.com.fj)... --2020-02-25 22:21:45--  https://www.westpac.com.fj/content/dam/public/fiji/documents/Visa_Conditions_of_Use.pdf%0D
+Resolving www.westpac.com.fj (www.westpac.com.fj)... 13.35.198.4, 13.35.198.106, 13.35.198.80, ...
+Connecting to www.westpac.com.fj (www.westpac.com.fj)|13.35.198.4|:443... connected.
+HTTP request sent, awaiting response... 13.35.198.106, 13.35.198.80, 13.35.198.40, ...
+Connecting to www.westpac.com.fj (www.westpac.com.fj)|13.35.198.106|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /error.html [following]
+--2020-02-25 22:21:46--  https://www.westpac.com.fj/error.html
+Reusing existing connection to www.westpac.com.fj:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /error.html [following]
+--2020-02-25 22:21:46--  https://www.westpac.com.fj/error.html
+Reusing existing connection to www.westpac.com.fj:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 30232 (30K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...200 OK
+Length: 30232 (30K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ............. ............. .........                       100%  119M=0.002s
+
+2020-02-25 22:21:48 (119 Mb/s) - ‘/dev/null’ saved [30232/30232]
+
+                       100%  148M=0.002s
+
+2020-02-25 22:21:48 (148 Mb/s) - ‘/dev/null’ saved [30232/30232]
+
+--2020-02-25 22:21:48--  https://www.westpac.com.fj/content/dam/public/fiji/documents/Visa_Conditions_of_Use.pdf%0D
+--2020-02-25 22:21:48--  https://www.westpac.com.fj/content/dam/public/fiji/documents/Visa_Conditions_of_Use.pdf%0D
+Resolving www.westpac.com.fj (www.westpac.com.fj)... Resolving www.westpac.com.fj (www.westpac.com.fj)... 13.35.198.80, 13.35.198.40, 13.35.198.4, ...
+Connecting to www.westpac.com.fj (www.westpac.com.fj)|13.35.198.80|:443... 13.35.198.106, 13.35.198.80, 13.35.198.40, ...
+Connecting to www.westpac.com.fj (www.westpac.com.fj)|13.35.198.106|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /error.html [following]
+--2020-02-25 22:21:48--  https://www.westpac.com.fj/error.html
+Reusing existing connection to www.westpac.com.fj:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /error.html [following]
+--2020-02-25 22:21:48--  https://www.westpac.com.fj/error.html
+Reusing existing connection to www.westpac.com.fj:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 30232 (30K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .....200 OK
+Length: 30232 (30K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .........                       100%  399M=0.001s
+
+2020-02-25 22:21:48 (399 Mb/s) - ‘/dev/null’ saved [30232/30232]
+
+..... .........                       100%  217M=0.001s
+
+2020-02-25 22:21:48 (217 Mb/s) - ‘/dev/null’ saved [30232/30232]
+

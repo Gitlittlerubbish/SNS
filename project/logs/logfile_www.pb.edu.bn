@@ -1,0 +1,24 @@
+--2020-02-25 21:25:47--  http://www.pb.edu.bn/SiteCollectionDocuments/FP_2019.pdf%0D
+Resolving www.pb.edu.bn (www.pb.edu.bn)... 103.4.188.86
+Connecting to www.pb.edu.bn (www.pb.edu.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:48 ERROR 400: Bad Request.
+
+--2020-02-25 21:25:52--  http://www.pb.edu.bn/SiteCollectionDocuments/CHECKLIST2020.pdf%0D
+Resolving www.pb.edu.bn (www.pb.edu.bn)... 103.4.188.86
+Connecting to www.pb.edu.bn (www.pb.edu.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:52 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:07--  http://www.pb.edu.bn/SiteCollectionDocuments/FP_2019.pdf%0D
+Resolving www.pb.edu.bn (www.pb.edu.bn)... 103.4.188.86
+Connecting to www.pb.edu.bn (www.pb.edu.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:07 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:11--  http://www.pb.edu.bn/SiteCollectionDocuments/CHECKLIST2020.pdf%0D
+Resolving www.pb.edu.bn (www.pb.edu.bn)... 103.4.188.86
+Connecting to www.pb.edu.bn (www.pb.edu.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:11 ERROR 400: Bad Request.
+

@@ -1,0 +1,152 @@
+--2020-02-25 21:34:30--  http://lb.cm/programmheft%0D
+Resolving lb.cm (lb.cm)... 66.228.41.149
+Connecting to lb.cm (lb.cm)|66.228.41.149|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lb.cm/programmheft%0d [following]
+--2020-02-25 21:34:30--  https://lb.cm/programmheft%0d
+Connecting to lb.cm (lb.cm)|66.228.41.149|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://lb.cm/ [following]
+--2020-02-25 21:34:31--  https://lb.cm/
+Reusing existing connection to lb.cm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3327 (3.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 2.75G=0s
+
+2020-02-25 21:34:31 (2.75 Gb/s) - ‘/dev/null’ saved [3327/3327]
+
+--2020-02-25 21:34:31--  http://lb.cm/programmheft%0D
+Resolving lb.cm (lb.cm)... 66.228.41.149
+Connecting to lb.cm (lb.cm)|66.228.41.149|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lb.cm/programmheft%0d [following]
+--2020-02-25 21:34:31--  https://lb.cm/programmheft%0d
+Connecting to lb.cm (lb.cm)|66.228.41.149|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://lb.cm/ [following]
+--2020-02-25 21:34:31--  https://lb.cm/
+Reusing existing connection to lb.cm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3327 (3.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 1.30G=0s
+
+2020-02-25 21:34:31 (1.30 Gb/s) - ‘/dev/null’ saved [3327/3327]
+
+--2020-02-25 21:34:31--  http://lb.cm/bukuInduk%0D
+Resolving lb.cm (lb.cm)... 66.228.41.149
+Connecting to lb.cm (lb.cm)|66.228.41.149|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lb.cm/bukuInduk%0d [following]
+--2020-02-25 21:34:32--  https://lb.cm/bukuInduk%0d
+Connecting to lb.cm (lb.cm)|66.228.41.149|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://lb.cm/ [following]
+--2020-02-25 21:34:32--  https://lb.cm/
+Reusing existing connection to lb.cm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3327 (3.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 1.26G=0s
+
+2020-02-25 21:34:32 (1.26 Gb/s) - ‘/dev/null’ saved [3327/3327]
+
+--2020-02-25 21:34:32--  http://lb.cm/bukuInduk%0D
+Resolving lb.cm (lb.cm)... 66.228.41.149
+Connecting to lb.cm (lb.cm)|66.228.41.149|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lb.cm/bukuInduk%0d [following]
+--2020-02-25 21:34:32--  https://lb.cm/bukuInduk%0d
+Connecting to lb.cm (lb.cm)|66.228.41.149|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://lb.cm/ [following]
+--2020-02-25 21:34:33--  https://lb.cm/
+Reusing existing connection to lb.cm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3327 (3.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 3.14G=0s
+
+2020-02-25 21:34:33 (3.14 Gb/s) - ‘/dev/null’ saved [3327/3327]
+
+--2020-02-25 21:36:55--  http://lb.cm/programmheft%0D
+Resolving lb.cm (lb.cm)... 66.228.41.149
+Connecting to lb.cm (lb.cm)|66.228.41.149|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lb.cm/programmheft%0d [following]
+--2020-02-25 21:36:56--  https://lb.cm/programmheft%0d
+Connecting to lb.cm (lb.cm)|66.228.41.149|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://lb.cm/ [following]
+--2020-02-25 21:36:56--  https://lb.cm/
+Reusing existing connection to lb.cm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3327 (3.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 2.85G=0s
+
+2020-02-25 21:36:56 (2.85 Gb/s) - ‘/dev/null’ saved [3327/3327]
+
+--2020-02-25 21:36:56--  http://lb.cm/programmheft%0D
+Resolving lb.cm (lb.cm)... 66.228.41.149
+Connecting to lb.cm (lb.cm)|66.228.41.149|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lb.cm/programmheft%0d [following]
+--2020-02-25 21:36:56--  https://lb.cm/programmheft%0d
+Connecting to lb.cm (lb.cm)|66.228.41.149|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://lb.cm/ [following]
+--2020-02-25 21:36:56--  https://lb.cm/
+Reusing existing connection to lb.cm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3327 (3.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100%  810M=0s
+
+2020-02-25 21:36:57 (810 Mb/s) - ‘/dev/null’ saved [3327/3327]
+
+--2020-02-25 21:36:57--  http://lb.cm/bukuInduk%0D
+Resolving lb.cm (lb.cm)... 66.228.41.149
+Connecting to lb.cm (lb.cm)|66.228.41.149|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lb.cm/bukuInduk%0d [following]
+--2020-02-25 21:36:57--  https://lb.cm/bukuInduk%0d
+Connecting to lb.cm (lb.cm)|66.228.41.149|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://lb.cm/ [following]
+--2020-02-25 21:36:57--  https://lb.cm/
+Reusing existing connection to lb.cm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3327 (3.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 1.23G=0s
+
+2020-02-25 21:36:57 (1.23 Gb/s) - ‘/dev/null’ saved [3327/3327]
+
+--2020-02-25 21:36:57--  http://lb.cm/bukuInduk%0D
+Resolving lb.cm (lb.cm)... 66.228.41.149
+Connecting to lb.cm (lb.cm)|66.228.41.149|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lb.cm/bukuInduk%0d [following]
+--2020-02-25 21:36:57--  https://lb.cm/bukuInduk%0d
+Connecting to lb.cm (lb.cm)|66.228.41.149|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://lb.cm/ [following]
+--2020-02-25 21:36:58--  https://lb.cm/
+Reusing existing connection to lb.cm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3327 (3.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 2.95G=0s
+
+2020-02-25 21:36:58 (2.95 Gb/s) - ‘/dev/null’ saved [3327/3327]
+

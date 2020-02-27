@@ -1,0 +1,78 @@
+--2020-02-25 23:51:35--  http://sgk.mn/2WUlMe1%0D
+Resolving sgk.mn (sgk.mn)... 67.199.248.13, 67.199.248.12
+Connecting to sgk.mn (sgk.mn)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastReconstruction.pdf [following]
+--2020-02-25 23:51:35--  https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastReconstruction.pdf
+Resolving ww5.komen.org (ww5.komen.org)... 40.74.234.191
+Connecting to ww5.komen.org (ww5.komen.org)|40.74.234.191|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134484 (131K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 1.95M 0s
+    50K .......... .......... .......... .......... .......... 76% 3.91M 0s
+   100K .......... .......... .......... .                    100% 7.44G=0.3s
+
+2020-02-25 23:51:36 (3.41 Mb/s) - ‘/dev/null’ saved [134484/134484]
+
+--2020-02-25 23:51:36--  http://sgk.mn/2WUlMe1%0D
+Resolving sgk.mn (sgk.mn)... 67.199.248.13, 67.199.248.12
+Connecting to sgk.mn (sgk.mn)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastReconstruction.pdf [following]
+--2020-02-25 23:51:36--  https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastReconstruction.pdf
+Resolving ww5.komen.org (ww5.komen.org)... 40.74.234.191
+Connecting to ww5.komen.org (ww5.komen.org)|40.74.234.191|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134484 (131K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 1.95M 0s
+    50K .......... .......... .......... .......... .......... 76% 3.90M 0s
+   100K .......... .......... .......... .                    100% 5.42G=0.3s
+
+2020-02-25 23:51:37 (3.41 Mb/s) - ‘/dev/null’ saved [134484/134484]
+
+--2020-02-25 23:51:37--  http://sgk.mn/2K45wkO%0D
+Resolving sgk.mn (sgk.mn)... 67.199.248.12, 67.199.248.13
+Connecting to sgk.mn (sgk.mn)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastCancerPrognosis.pdf [following]
+--2020-02-25 23:51:37--  https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastCancerPrognosis.pdf
+Resolving ww5.komen.org (ww5.komen.org)... 40.74.234.191
+Connecting to ww5.komen.org (ww5.komen.org)|40.74.234.191|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287472 (281K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.95M 1s
+    50K .......... .......... .......... .......... .......... 35% 3.90M 1s
+   100K .......... .......... .......... .......... .......... 53% 7.00G 0s
+   150K .......... .......... .......... .......... .......... 71% 3.89M 0s
+   200K .......... .......... .......... .......... .......... 89% 6.76G 0s
+   250K .......... .......... ..........                      100% 2.40M=0.5s
+
+2020-02-25 23:51:38 (4.38 Mb/s) - ‘/dev/null’ saved [287472/287472]
+
+--2020-02-25 23:51:38--  http://sgk.mn/2K45wkO%0D
+Resolving sgk.mn (sgk.mn)... 67.199.248.12, 67.199.248.13
+Connecting to sgk.mn (sgk.mn)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastCancerPrognosis.pdf [following]
+--2020-02-25 23:51:38--  https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastCancerPrognosis.pdf
+Resolving ww5.komen.org (ww5.komen.org)... 40.74.234.191
+Connecting to ww5.komen.org (ww5.komen.org)|40.74.234.191|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287472 (281K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.96M 1s
+    50K .......... .......... .......... .......... .......... 35% 3.90M 1s
+   100K .......... .......... .......... .......... .......... 53% 3.91M 0s
+   150K .......... .......... .......... .......... .......... 71% 5.29G 0s
+   200K .......... .......... .......... .......... .......... 89% 3.90M 0s
+   250K .......... .......... ..........                      100% 6.53G=0.5s
+
+2020-02-25 23:51:39 (4.39 Mb/s) - ‘/dev/null’ saved [287472/287472]
+

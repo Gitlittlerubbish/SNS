@@ -1,0 +1,18 @@
+--2020-02-25 23:08:24--  https://devolutionhub.or.ke/file/baba07911c2d298f01703d2ac33d7099.pdf%0D
+Resolving devolutionhub.or.ke (devolutionhub.or.ke)... 18.197.59.117
+Connecting to devolutionhub.or.ke (devolutionhub.or.ke)|18.197.59.117|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:08:24 ERROR 404: Not Found.
+
+--2020-02-25 23:08:24--  https://devolutionhub.or.ke/file/baba07911c2d298f01703d2ac33d7099.pdf%0D
+Resolving devolutionhub.or.ke (devolutionhub.or.ke)... 18.197.59.117
+Connecting to devolutionhub.or.ke (devolutionhub.or.ke)|18.197.59.117|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:08:24 ERROR 404: Not Found.
+
+--2020-02-25 23:08:24--  http://devolutionhub.or.ke/file/a0f0016eafcdfe6f09468f25153256d8.pdf%0D
+Resolving devolutionhub.or.ke (devolutionhub.or.ke)... 18.197.59.117
+Connecting to devolutionhub.or.ke (devolutionhub.or.ke)|18.197.59.117|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:08:24 ERROR 500: Internal Server Error.
+

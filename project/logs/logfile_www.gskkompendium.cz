@@ -1,0 +1,12 @@
+--2020-02-25 22:05:32--  https://www.gskkompendium.cz/pil-bactroban%0D
+Resolving www.gskkompendium.cz (www.gskkompendium.cz)... 34.192.19.115, 52.7.67.53, 18.210.59.197
+Connecting to www.gskkompendium.cz (www.gskkompendium.cz)|34.192.19.115|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:05:32 ERROR 400: Bad Request.
+
+--2020-02-25 22:05:32--  https://www.gskkompendium.cz/pil-bactroban%0D
+Resolving www.gskkompendium.cz (www.gskkompendium.cz)... 34.192.19.115, 52.7.67.53, 18.210.59.197
+Connecting to www.gskkompendium.cz (www.gskkompendium.cz)|34.192.19.115|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:05:33 ERROR 400: Bad Request.
+

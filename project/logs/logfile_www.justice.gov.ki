@@ -1,0 +1,6 @@
+--2020-02-25 23:10:34--  https://www.justice.gov.ki/wp-content/uploads/2018/09/REGISTRATION.pdf%0D
+Resolving www.justice.gov.ki (www.justice.gov.ki)... 74.124.218.173
+Connecting to www.justice.gov.ki (www.justice.gov.ki)|74.124.218.173|:443... connected.
+ERROR: cannot verify www.justice.gov.ki's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Issued certificate has expired.
+To connect to www.justice.gov.ki insecurely, use `--no-check-certificate'.

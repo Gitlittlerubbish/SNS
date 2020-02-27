@@ -1,0 +1,6 @@
+--2020-02-26 00:22:31--  https://www.princessbutikken.no/files/Pdf/VEDIKEHOLD_AV_DUN.pdf%0D
+Resolving www.princessbutikken.no (www.princessbutikken.no)... 185.35.187.169
+Connecting to www.princessbutikken.no (www.princessbutikken.no)|185.35.187.169|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:31 ERROR 400: Bad Request.
+

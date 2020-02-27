@@ -1,0 +1,12 @@
+--2020-02-25 21:11:18--  https://www.cybertips.bm/images/TechAwards10yrAnnpdf.pdf%0D
+Resolving www.cybertips.bm (www.cybertips.bm)... 40.117.42.249
+Connecting to www.cybertips.bm (www.cybertips.bm)|40.117.42.249|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:18 ERROR 404: Not Found.
+
+--2020-02-25 21:20:12--  https://www.cybertips.bm/images/TechAwards10yrAnnpdf.pdf%0D
+Resolving www.cybertips.bm (www.cybertips.bm)... 40.117.42.249
+Connecting to www.cybertips.bm (www.cybertips.bm)|40.117.42.249|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:12 ERROR 404: Not Found.
+

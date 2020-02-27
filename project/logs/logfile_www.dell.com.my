@@ -1,0 +1,8 @@
+--2020-02-25 23:31:35--  http://www.dell.com.my/serprogressreport%0D
+Resolving www.dell.com.my (www.dell.com.my)... 143.166.83.38
+Connecting to www.dell.com.my (www.dell.com.my)|143.166.83.38|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+Cookie coming from www.dell.com.my attempted to set domain to dell.com
+Cookie coming from www.dell.com.my attempted to set domain to dell.com
+2020-02-25 23:31:36 ERROR 400: Bad Request.
+

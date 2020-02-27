@@ -1,0 +1,12 @@
+--2020-02-25 21:13:01--  https://books.google.bt/intl/en//googlebooks/ideagroup.pdf%0D
+Resolving books.google.bt (books.google.bt)... 216.58.213.14
+Connecting to books.google.bt (books.google.bt)|216.58.213.14|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:02 ERROR 404: Not Found.
+
+--2020-02-25 21:21:30--  https://books.google.bt/intl/en//googlebooks/ideagroup.pdf%0D
+Resolving books.google.bt (books.google.bt)... 216.58.213.14
+Connecting to books.google.bt (books.google.bt)|216.58.213.14|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:30 ERROR 404: Not Found.
+

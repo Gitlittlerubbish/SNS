@@ -1,0 +1,6 @@
+--2020-02-26 00:42:25--  https://www.sonae.pt/fotos/comunicados/plano_para_a_igualdade_pt_20191008_19452582165d9cabb7adf1d.pdf%0D
+Resolving www.sonae.pt (www.sonae.pt)... 3.120.253.91
+Connecting to www.sonae.pt (www.sonae.pt)|3.120.253.91|:443... connected.
+ERROR: cannot verify www.sonae.pt's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.sonae.pt insecurely, use `--no-check-certificate'.

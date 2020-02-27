@@ -1,0 +1,22 @@
+--2020-02-25 22:50:58--  https://www.unionbankonline.co.in/Disclaimer/FAQ.pdf%0D
+Resolving www.unionbankonline.co.in (www.unionbankonline.co.in)... 59.160.35.102
+Connecting to www.unionbankonline.co.in (www.unionbankonline.co.in)|59.160.35.102|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2537 (2.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 6.57G=0s
+
+2020-02-25 22:50:59 (6.57 Gb/s) - ‘/dev/null’ saved [2537/2537]
+
+--2020-02-25 22:50:59--  https://www.unionbankonline.co.in/Disclaimer/FAQ.pdf%0D
+Resolving www.unionbankonline.co.in (www.unionbankonline.co.in)... 59.160.35.102
+Connecting to www.unionbankonline.co.in (www.unionbankonline.co.in)|59.160.35.102|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2537 (2.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 3.07G=0s
+
+2020-02-25 22:51:00 (3.07 Gb/s) - ‘/dev/null’ saved [2537/2537]
+

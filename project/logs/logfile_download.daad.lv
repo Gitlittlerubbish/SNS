@@ -1,0 +1,12 @@
+--2020-02-25 23:19:57--  http://download.daad.lv/Elternflyer_RU1.pdf%0D
+Resolving download.daad.lv (download.daad.lv)... 92.240.74.195
+Connecting to download.daad.lv (download.daad.lv)|92.240.74.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:19:57 ERROR 404: Not Found.
+
+--2020-02-25 23:20:05--  http://download.daad.lv/Studieren_LV.pdf%0D
+Resolving download.daad.lv (download.daad.lv)... 92.240.74.195
+Connecting to download.daad.lv (download.daad.lv)|92.240.74.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:20:06 ERROR 404: Not Found.
+

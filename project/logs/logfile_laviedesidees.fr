@@ -1,0 +1,88 @@
+--2020-02-25 22:23:05--  https://laviedesidees.fr/IMG/pdf/20200219_ascetes.pdf%0D
+Resolving laviedesidees.fr (laviedesidees.fr)... 176.31.34.74
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                     2.94G=0s
+
+2020-02-25 22:23:05 (2.94 Gb/s) - ‘/dev/null’ saved [17869]
+
+--2020-02-25 22:23:05--  https://laviedesidees.fr/IMG/pdf/20200219_ascetes.pdf%0D
+Resolving laviedesidees.fr (laviedesidees.fr)... 176.31.34.74
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                     5.88G=0s
+
+2020-02-25 22:23:05 (5.88 Gb/s) - ‘/dev/null’ saved [17869]
+
+--2020-02-25 22:23:05--  https://laviedesidees.fr/IMG/pdf/20200217_tenret.pdf%0D
+Resolving laviedesidees.fr (laviedesidees.fr)... 176.31.34.74
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                     3.05G=0s
+
+2020-02-25 22:23:05 (3.05 Gb/s) - ‘/dev/null’ saved [17863]
+
+--2020-02-25 22:23:05--  https://laviedesidees.fr/IMG/pdf/20200217_tenret.pdf%0D
+Resolving laviedesidees.fr (laviedesidees.fr)... 176.31.34.74
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                     4.46G=0s
+
+2020-02-25 22:23:06 (4.46 Gb/s) - ‘/dev/null’ saved [17863]
+
+--2020-02-25 22:23:06--  https://laviedesidees.fr/IMG/pdf/20200219_ascetes.pdf%0D
+Resolving laviedesidees.fr (laviedesidees.fr)... 176.31.34.74
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                     3.14G=0s
+
+2020-02-25 22:23:06 (3.14 Gb/s) - ‘/dev/null’ saved [17869]
+
+--2020-02-25 22:23:06--  https://laviedesidees.fr/IMG/pdf/20200219_ascetes.pdf%0D
+Resolving laviedesidees.fr (laviedesidees.fr)... 176.31.34.74
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                     2.20G=0s
+
+2020-02-25 22:23:06 (2.20 Gb/s) - ‘/dev/null’ saved [17869]
+
+--2020-02-25 22:23:06--  https://laviedesidees.fr/IMG/pdf/20200217_tenret.pdf%0D
+Resolving laviedesidees.fr (laviedesidees.fr)... 176.31.34.74
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                     1.25G=0s
+
+2020-02-25 22:23:06 (1.25 Gb/s) - ‘/dev/null’ saved [17863]
+
+--2020-02-25 22:23:06--  https://laviedesidees.fr/IMG/pdf/20200217_tenret.pdf%0D
+Resolving laviedesidees.fr (laviedesidees.fr)... 176.31.34.74
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                     4.15G=0s
+
+2020-02-25 22:23:06 (4.15 Gb/s) - ‘/dev/null’ saved [17863]
+

@@ -1,0 +1,12 @@
+--2020-02-25 20:54:44--  http://www.azgk.am/doc/Amos/3.pdf%0D
+Resolving www.azgk.am (www.azgk.am)... 217.113.3.234
+Connecting to www.azgk.am (www.azgk.am)|217.113.3.234|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:44 ERROR 404: Not Found.
+
+--2020-02-25 21:07:37--  http://www.azgk.am/doc/Amos/3.pdf%0D
+Resolving www.azgk.am (www.azgk.am)... 217.113.3.234
+Connecting to www.azgk.am (www.azgk.am)|217.113.3.234|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:37 ERROR 404: Not Found.
+

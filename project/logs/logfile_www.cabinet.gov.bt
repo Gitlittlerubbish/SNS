@@ -1,0 +1,12 @@
+--2020-02-25 21:13:21--  https://www.cabinet.gov.bt/executiveorder/kingsbrithday.pdf%0D
+Resolving www.cabinet.gov.bt (www.cabinet.gov.bt)... 43.230.208.14
+Connecting to www.cabinet.gov.bt (www.cabinet.gov.bt)|43.230.208.14|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:23 ERROR 404: Not Found.
+
+--2020-02-25 21:21:38--  https://www.cabinet.gov.bt/executiveorder/kingsbrithday.pdf%0D
+Resolving www.cabinet.gov.bt (www.cabinet.gov.bt)... 43.230.208.14
+Connecting to www.cabinet.gov.bt (www.cabinet.gov.bt)|43.230.208.14|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:40 ERROR 404: Not Found.
+

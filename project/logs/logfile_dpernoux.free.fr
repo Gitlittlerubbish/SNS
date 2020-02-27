@@ -1,0 +1,12 @@
+--2020-02-25 22:22:56--  http://dpernoux.free.fr/suites.pdf%0D
+Resolving dpernoux.free.fr (dpernoux.free.fr)... 212.27.63.108
+Connecting to dpernoux.free.fr (dpernoux.free.fr)|212.27.63.108|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:56 ERROR 404: Not Found.
+
+--2020-02-25 22:22:56--  http://dpernoux.free.fr/suites.pdf%0D
+Resolving dpernoux.free.fr (dpernoux.free.fr)... 212.27.63.108
+Connecting to dpernoux.free.fr (dpernoux.free.fr)|212.27.63.108|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:56 ERROR 404: Not Found.
+

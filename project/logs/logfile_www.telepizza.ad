@@ -1,0 +1,6 @@
+--2020-02-25 21:00:46--  https://www.telepizza.ad/docs/adheridas.pdf%0D
+Resolving www.telepizza.ad (www.telepizza.ad)... 45.60.47.42
+Connecting to www.telepizza.ad (www.telepizza.ad)|45.60.47.42|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:00:46 ERROR 403: Forbidden.
+

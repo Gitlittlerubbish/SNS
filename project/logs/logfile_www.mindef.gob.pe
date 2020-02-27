@@ -1,0 +1,6 @@
+--2020-02-26 00:37:43--  https://www.mindef.gob.pe/informacion/transparencia/ley_27588.pdf%0D
+Resolving www.mindef.gob.pe (www.mindef.gob.pe)... 161.132.207.70
+Connecting to www.mindef.gob.pe (www.mindef.gob.pe)|161.132.207.70|:443... connected.
+ERROR: cannot verify www.mindef.gob.pe's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.mindef.gob.pe insecurely, use `--no-check-certificate'.

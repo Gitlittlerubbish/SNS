@@ -1,0 +1,12 @@
+--2020-02-25 22:39:45--  http://ressan-gb.gw/index.php/documentos/34-analise-caju-esadr-2013%0D
+Resolving ressan-gb.gw (ressan-gb.gw)... --2020-02-25 22:39:45--  http://ressan-gb.gw/index.php/documentos/34-analise-caju-esadr-2013%0D
+Resolving ressan-gb.gw (ressan-gb.gw)... 173.212.226.160
+Connecting to ressan-gb.gw (ressan-gb.gw)|173.212.226.160|:80... 173.212.226.160
+Connecting to ressan-gb.gw (ressan-gb.gw)|173.212.226.160|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:39:46 ERROR 500: Internal Server Error.
+
+500 Internal Server Error
+2020-02-25 22:39:46 ERROR 500: Internal Server Error.
+

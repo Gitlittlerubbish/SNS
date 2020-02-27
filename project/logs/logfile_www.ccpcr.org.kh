@@ -1,0 +1,12 @@
+--2020-02-25 21:34:12--  http://www.ccpcr.org.kh/assets/uploads/documents/ccpcr_newfile_eda917a9b0270824fc5468cc0c8978b82018_01_29_22_22_30.pdf%0D
+Resolving www.ccpcr.org.kh (www.ccpcr.org.kh)... 64.247.179.218
+Connecting to www.ccpcr.org.kh (www.ccpcr.org.kh)|64.247.179.218|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:34:13 ERROR 404: Not Found.
+
+--2020-02-25 21:36:48--  http://www.ccpcr.org.kh/assets/uploads/documents/ccpcr_newfile_eda917a9b0270824fc5468cc0c8978b82018_01_29_22_22_30.pdf%0D
+Resolving www.ccpcr.org.kh (www.ccpcr.org.kh)... 64.247.179.218
+Connecting to www.ccpcr.org.kh (www.ccpcr.org.kh)|64.247.179.218|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:49 ERROR 404: Not Found.
+

@@ -1,0 +1,48 @@
+--2020-02-25 21:04:29--  http://www.anaesthesie.ag/fges_2020_c.pdf%0D
+Resolving www.anaesthesie.ag (www.anaesthesie.ag)... 217.160.231.194
+Connecting to www.anaesthesie.ag (www.anaesthesie.ag)|217.160.231.194|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.anaesthesie.ag/fges_2020_c.pdf [following]
+--2020-02-25 21:04:29--  http://www.anaesthesie.ag/fges_2020_c.pdf
+Reusing existing connection to www.anaesthesie.ag:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 492601 (481K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 13.4M 0s
+    50K .......... .......... .......... .......... .......... 20% 37.1M 0s
+   100K .......... .......... .......... .......... .......... 31% 36.5M 0s
+   150K .......... .......... .......... .......... .......... 41% 61.0M 0s
+   200K .......... .......... .......... .......... .......... 51% 82.7M 0s
+   250K .......... .......... .......... .......... .......... 62%  115M 0s
+   300K .......... .......... .......... .......... .......... 72%  118M 0s
+   350K .......... .......... .......... .......... .......... 83%  114M 0s
+   400K .......... .......... .......... .......... .......... 93%  134M 0s
+   450K .......... .......... .......... .                    100%  215M=0.08s
+
+2020-02-25 21:04:29 (49.6 Mb/s) - ‘/dev/null’ saved [492601/492601]
+
+--2020-02-25 21:04:29--  http://www.anaesthesie.ag/fges_2020_c.pdf%0D
+Resolving www.anaesthesie.ag (www.anaesthesie.ag)... 217.160.231.194
+Connecting to www.anaesthesie.ag (www.anaesthesie.ag)|217.160.231.194|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.anaesthesie.ag/fges_2020_c.pdf [following]
+--2020-02-25 21:04:30--  http://www.anaesthesie.ag/fges_2020_c.pdf
+Reusing existing connection to www.anaesthesie.ag:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 492601 (481K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 13.3M 0s
+    50K .......... .......... .......... .......... .......... 20% 39.8M 0s
+   100K .......... .......... .......... .......... .......... 31% 34.8M 0s
+   150K .......... .......... .......... .......... .......... 41% 60.9M 0s
+   200K .......... .......... .......... .......... .......... 51% 81.2M 0s
+   250K .......... .......... .......... .......... .......... 62%  119M 0s
+   300K .......... .......... .......... .......... .......... 72%  136M 0s
+   350K .......... .......... .......... .......... .......... 83%  106M 0s
+   400K .......... .......... .......... .......... .......... 93%  117M 0s
+   450K .......... .......... .......... .                    100%  199M=0.08s
+
+2020-02-25 21:04:30 (49.5 Mb/s) - ‘/dev/null’ saved [492601/492601]
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:32:07--  http://sita.cv/boletins_tecnicos/VINYLMATT.pdf%0D
+Resolving sita.cv (sita.cv)... 195.8.58.186
+Connecting to sita.cv (sita.cv)|195.8.58.186|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:08 ERROR 404: Not Found.
+
+--2020-02-25 21:35:13--  http://sita.cv/boletins_tecnicos/VINYLMATT.pdf%0D
+Resolving sita.cv (sita.cv)... 195.8.58.186
+Connecting to sita.cv (sita.cv)|195.8.58.186|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:14 ERROR 404: Not Found.
+

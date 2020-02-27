@@ -1,0 +1,17 @@
+--2020-02-25 21:50:22--  http://g.co/SurveysWhitePaper%0D
+Resolving g.co (g.co)... 172.217.169.46
+Connecting to g.co (g.co)|172.217.169.46|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://g.co/SurveysWhitePaper%0D [following]
+--2020-02-25 21:50:22--  https://g.co/SurveysWhitePaper%0D
+Connecting to g.co (g.co)|172.217.169.46|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:50:22 ERROR 400: Bad Request.
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 21:50:27--  https://g.co/SurveysWhitePaper%0D
+Resolving g.co (g.co)... 172.217.169.46
+Connecting to g.co (g.co)|172.217.169.46|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:50:27 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:31:58--  https://fcf.cv/bfd_download/3926/%0D
+Resolving fcf.cv (fcf.cv)... 195.8.58.186
+Connecting to fcf.cv (fcf.cv)|195.8.58.186|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:02 ERROR 404: Not Found.
+
+--2020-02-25 21:35:06--  https://fcf.cv/bfd_download/3926/%0D
+Resolving fcf.cv (fcf.cv)... 195.8.58.186
+Connecting to fcf.cv (fcf.cv)|195.8.58.186|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:09 ERROR 404: Not Found.
+

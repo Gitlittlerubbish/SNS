@@ -1,0 +1,12 @@
+--2020-02-25 21:27:27--  http://www.corpbank.bg/content/%25D0%25A3%25D0%25BA%25D0%25B0%25D0%25B7%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5_%25D0%25A2%25D0%25A0.pdf%0D
+Resolving www.corpbank.bg (www.corpbank.bg)... 193.104.165.51
+Connecting to www.corpbank.bg (www.corpbank.bg)|193.104.165.51|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:27:28 ERROR 403: Forbidden.
+
+--2020-02-25 21:32:34--  http://www.corpbank.bg/content/%25D0%25A3%25D0%25BA%25D0%25B0%25D0%25B7%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5_%25D0%25A2%25D0%25A0.pdf%0D
+Resolving www.corpbank.bg (www.corpbank.bg)... 193.104.165.51
+Connecting to www.corpbank.bg (www.corpbank.bg)|193.104.165.51|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:32:34 ERROR 403: Forbidden.
+

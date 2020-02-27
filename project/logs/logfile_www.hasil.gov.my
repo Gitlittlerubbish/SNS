@@ -1,0 +1,12 @@
+--2020-02-25 23:33:16--  http://www.hasil.gov.my/pdf/pdfam/ProgramMemfailBN_2020_1.pdf%0D
+Resolving www.hasil.gov.my (www.hasil.gov.my)... 113.11.237.1
+Connecting to www.hasil.gov.my (www.hasil.gov.my)|113.11.237.1|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:33:17 ERROR 500: Internal Server Error.
+
+--2020-02-25 23:33:17--  http://www.hasil.gov.my/pdf/pdfam/Selangor_1.pdf%0D
+Resolving www.hasil.gov.my (www.hasil.gov.my)... 113.11.237.1
+Connecting to www.hasil.gov.my (www.hasil.gov.my)|113.11.237.1|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:33:18 ERROR 500: Internal Server Error.
+

@@ -1,0 +1,6 @@
+--2020-02-25 21:02:52--  https://www.h2o.ai/h2o-2/%0D
+Resolving www.h2o.ai (www.h2o.ai)... 151.101.18.217
+Connecting to www.h2o.ai (www.h2o.ai)|151.101.18.217|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:02:53 ERROR 404: Not Found.
+

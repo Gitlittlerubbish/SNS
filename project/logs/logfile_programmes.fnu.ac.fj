@@ -1,0 +1,40 @@
+--2020-02-25 22:19:54--  http://programmes.fnu.ac.fj/Files/201612210450Bachelor_of_Science_in_Agriculture.pdf%0D
+Resolving programmes.fnu.ac.fj (programmes.fnu.ac.fj)... --2020-02-25 22:19:55--  http://programmes.fnu.ac.fj/Files/201612210450Bachelor_of_Science_in_Agriculture.pdf%0D
+Resolving programmes.fnu.ac.fj (programmes.fnu.ac.fj)... 103.99.43.9
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:80... connected.
+HTTP request sent, awaiting response... 103.99.43.9
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:80... 302 Redirect
+Location: https://programmes.fnu.ac.fj/Files/201612210450Bachelor_of_Science_in_Agriculture.pdf%0D [following]
+--2020-02-25 22:19:56--  https://programmes.fnu.ac.fj/Files/201612210450Bachelor_of_Science_in_Agriculture.pdf%0D
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:443... connected.
+HTTP request sent, awaiting response... connected.
+302 Redirect
+Location: https://programmes.fnu.ac.fj/Files/201612210450Bachelor_of_Science_in_Agriculture.pdf%0D [following]
+--2020-02-25 22:19:56--  https://programmes.fnu.ac.fj/Files/201612210450Bachelor_of_Science_in_Agriculture.pdf%0D
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:57 ERROR 400: Bad Request.
+
+--2020-02-25 22:19:57--  http://programmes.fnu.ac.fj/Files/2016122104737Bachelor_of_Science_in_Fisheries.pdf%0D
+Resolving programmes.fnu.ac.fj (programmes.fnu.ac.fj)... 103.99.43.9
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:80... HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:57 ERROR 400: Bad Request.
+
+--2020-02-25 22:19:57--  http://programmes.fnu.ac.fj/Files/2016122104737Bachelor_of_Science_in_Fisheries.pdf%0D
+Resolving programmes.fnu.ac.fj (programmes.fnu.ac.fj)... 103.99.43.9
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:80... 302 Redirect
+Location: https://programmes.fnu.ac.fj/Files/2016122104737Bachelor_of_Science_in_Fisheries.pdf%0D [following]
+--2020-02-25 22:19:57--  https://programmes.fnu.ac.fj/Files/2016122104737Bachelor_of_Science_in_Fisheries.pdf%0D
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:443... connected.
+HTTP request sent, awaiting response... connected.
+302 Redirect
+Location: https://programmes.fnu.ac.fj/Files/2016122104737Bachelor_of_Science_in_Fisheries.pdf%0D [following]
+--2020-02-25 22:19:58--  https://programmes.fnu.ac.fj/Files/2016122104737Bachelor_of_Science_in_Fisheries.pdf%0D
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:59 ERROR 400: Bad Request.
+
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:59 ERROR 400: Bad Request.
+

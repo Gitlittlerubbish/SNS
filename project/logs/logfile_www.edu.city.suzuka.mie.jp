@@ -1,0 +1,12 @@
+--2020-02-25 23:04:02--  http://www.edu.city.suzuka.mie.jp/shido/cos/el110_sougo.pdf%0D
+Resolving www.edu.city.suzuka.mie.jp (www.edu.city.suzuka.mie.jp)... 61.120.141.74
+Connecting to www.edu.city.suzuka.mie.jp (www.edu.city.suzuka.mie.jp)|61.120.141.74|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:04:03 ERROR 404: Not Found.
+
+--2020-02-25 23:04:03--  http://www.edu.city.suzuka.mie.jp/shido/cos/jh030_soc.pdf%0D
+Resolving www.edu.city.suzuka.mie.jp (www.edu.city.suzuka.mie.jp)... 61.120.141.74
+Connecting to www.edu.city.suzuka.mie.jp (www.edu.city.suzuka.mie.jp)|61.120.141.74|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:04:03 ERROR 404: Not Found.
+

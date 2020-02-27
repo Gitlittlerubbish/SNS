@@ -1,0 +1,30 @@
+--2020-02-25 23:30:34--  http://www.nao.gov.mw/phocadownload/ethics/Code_of_Ethics.pdf%0D
+Resolving www.nao.gov.mw (www.nao.gov.mw)... 196.11.82.10
+Connecting to www.nao.gov.mw (www.nao.gov.mw)|196.11.82.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nao.gov.mw/phocadownload/ethics/Code_of_Ethics.pdf [following]
+--2020-02-25 23:30:34--  https://www.nao.gov.mw/phocadownload/ethics/Code_of_Ethics.pdf
+Connecting to www.nao.gov.mw (www.nao.gov.mw)|196.11.82.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46682 (46K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....     100% 1.10M=0.3s
+
+2020-02-25 23:30:35 (1.10 Mb/s) - ‘/dev/null’ saved [46682/46682]
+
+--2020-02-25 23:30:35--  http://www.nao.gov.mw/phocadownload/ethics/Code_of_Ethics.pdf%0D
+Resolving www.nao.gov.mw (www.nao.gov.mw)... 196.11.82.10
+Connecting to www.nao.gov.mw (www.nao.gov.mw)|196.11.82.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nao.gov.mw/phocadownload/ethics/Code_of_Ethics.pdf [following]
+--2020-02-25 23:30:36--  https://www.nao.gov.mw/phocadownload/ethics/Code_of_Ethics.pdf
+Connecting to www.nao.gov.mw (www.nao.gov.mw)|196.11.82.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46682 (46K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....     100% 1.11M=0.3s
+
+2020-02-25 23:30:37 (1.11 Mb/s) - ‘/dev/null’ saved [46682/46682]
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:21:55--  http://vilkka.fi/books/Laadullisen_tutkimuksen.pdf%0D
+Resolving vilkka.fi (vilkka.fi)... 185.168.212.76
+Connecting to vilkka.fi (vilkka.fi)|185.168.212.76|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:21:56 ERROR 404: Not Found.
+
+--2020-02-25 22:21:56--  http://vilkka.fi/books/Laadullisen_tutkimuksen.pdf%0D
+Resolving vilkka.fi (vilkka.fi)... 185.168.212.76
+Connecting to vilkka.fi (vilkka.fi)|185.168.212.76|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:21:57 ERROR 404: Not Found.
+

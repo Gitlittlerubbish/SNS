@@ -1,0 +1,30 @@
+--2020-02-25 22:34:47--  http://www.adac.gr/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf%0D
+Resolving www.adac.gr (www.adac.gr)... 62.116.130.8
+Connecting to www.adac.gr (www.adac.gr)|62.116.130.8|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:34:47--  http://www.adac.gr/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf%0D
+Resolving www.adac.gr (www.adac.gr)... 62.116.130.8
+Connecting to www.adac.gr (www.adac.gr)|62.116.130.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.adac.de/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf\r [following]
+--2020-02-25 22:34:47--  https://www.adac.de/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf%5Cr
+Resolving www.adac.de (www.adac.de)... 301 Moved Permanently
+Location: https://www.adac.de/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf\r [following]
+--2020-02-25 22:34:47--  https://www.adac.de/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf%5Cr
+Resolving www.adac.de (www.adac.de)... 193.30.38.230
+Connecting to www.adac.de (www.adac.de)|193.30.38.230|:443... 193.30.38.230
+Connecting to www.adac.de (www.adac.de)|193.30.38.230|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.adac.de/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf/r/ [following]
+--2020-02-25 22:34:47--  https://www.adac.de/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf/r/
+Reusing existing connection to www.adac.de:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.adac.de/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf/r/ [following]
+--2020-02-25 22:34:47--  https://www.adac.de/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf/r/
+Reusing existing connection to www.adac.de:443.
+HTTP request sent, awaiting response... 404 Not found
+2020-02-25 22:34:47 ERROR 404: Not found.
+
+404 Not found
+2020-02-25 22:34:47 ERROR 404: Not found.
+

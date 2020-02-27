@@ -1,0 +1,6 @@
+--2020-02-25 22:44:15--  http://richmond.com.hn/ss/SSpathwaytoscience_g.pdf%0D
+Resolving richmond.com.hn (richmond.com.hn)... 34.238.101.91, 34.225.172.62
+Connecting to richmond.com.hn (richmond.com.hn)|34.238.101.91|:80... connected.
+HTTP request sent, awaiting response... 404 Category not found
+2020-02-25 22:44:16 ERROR 404: Category not found.
+

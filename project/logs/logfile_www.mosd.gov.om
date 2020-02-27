@@ -1,0 +1,6 @@
+--2020-02-26 00:23:22--  https://www.mosd.gov.om/images/social_study/family.pdf%0D
+Resolving www.mosd.gov.om (www.mosd.gov.om)... 212.72.1.236
+Connecting to www.mosd.gov.om (www.mosd.gov.om)|212.72.1.236|:443... connected.
+ERROR: cannot verify www.mosd.gov.om's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.mosd.gov.om insecurely, use `--no-check-certificate'.

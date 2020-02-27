@@ -1,0 +1,12 @@
+--2020-02-25 21:10:56--  https://www.bcb.bm/media/137105/Form_J_Document_Certification_Guidance.pdf%0D
+Resolving www.bcb.bm (www.bcb.bm)... 199.68.195.52
+Connecting to www.bcb.bm (www.bcb.bm)|199.68.195.52|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:10:59 ERROR 400: Bad Request.
+
+--2020-02-25 21:19:59--  https://www.bcb.bm/media/137105/Form_J_Document_Certification_Guidance.pdf%0D
+Resolving www.bcb.bm (www.bcb.bm)... 199.68.195.52
+Connecting to www.bcb.bm (www.bcb.bm)|199.68.195.52|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:19:59 ERROR 400: Bad Request.
+

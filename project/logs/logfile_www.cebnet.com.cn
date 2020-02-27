@@ -1,0 +1,12 @@
+--2020-02-25 21:47:34--  http://www.cebnet.com.cn/upload/Tencent_TrustSQL_WhitePaper.pdf%0D
+Resolving www.cebnet.com.cn (www.cebnet.com.cn)... --2020-02-25 21:47:34--  http://www.cebnet.com.cn/upload/Tencent_TrustSQL_WhitePaper.pdf%0D
+Resolving www.cebnet.com.cn (www.cebnet.com.cn)... 219.143.35.121
+Connecting to www.cebnet.com.cn (www.cebnet.com.cn)|219.143.35.121|:80... 219.143.35.121
+Connecting to www.cebnet.com.cn (www.cebnet.com.cn)|219.143.35.121|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:47:34 ERROR 403: Forbidden.
+
+403 Forbidden
+2020-02-25 21:47:34 ERROR 403: Forbidden.
+

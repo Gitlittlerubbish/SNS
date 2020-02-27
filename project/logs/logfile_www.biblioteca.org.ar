@@ -1,0 +1,6 @@
+--2020-02-25 21:05:05--  https://www.biblioteca.org.ar/libros/153675.pdf%0D
+Resolving www.biblioteca.org.ar (www.biblioteca.org.ar)... 52.144.47.138
+Connecting to www.biblioteca.org.ar (www.biblioteca.org.ar)|52.144.47.138|:443... connected.
+ERROR: cannot verify www.biblioteca.org.ar's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.biblioteca.org.ar insecurely, use `--no-check-certificate'.

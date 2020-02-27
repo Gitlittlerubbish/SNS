@@ -1,0 +1,6 @@
+--2020-02-25 23:21:13--  http://www.osteos.org.lb/admin/uploads/10p.pdf%0D
+Resolving www.osteos.org.lb (www.osteos.org.lb)... 69.167.189.43
+Connecting to www.osteos.org.lb (www.osteos.org.lb)|69.167.189.43|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 23:21:14 ERROR 403: Forbidden.
+

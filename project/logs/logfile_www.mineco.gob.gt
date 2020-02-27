@@ -1,0 +1,12 @@
+--2020-02-25 22:38:16--  https://www.mineco.gob.gt/sites/default/files/02_decision_on_annulment_05_de_abril_de_2016.pdf%0D
+Resolving www.mineco.gob.gt (www.mineco.gob.gt)... 170.239.57.10
+Connecting to www.mineco.gob.gt (www.mineco.gob.gt)|170.239.57.10|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:38:17 ERROR 403: Forbidden.
+
+--2020-02-25 22:38:21--  https://www.mineco.gob.gt/sites/default/files/02_decision_on_annulment_05_de_abril_de_2016.pdf%0D
+Resolving www.mineco.gob.gt (www.mineco.gob.gt)... 170.239.57.10
+Connecting to www.mineco.gob.gt (www.mineco.gob.gt)|170.239.57.10|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:38:21 ERROR 403: Forbidden.
+

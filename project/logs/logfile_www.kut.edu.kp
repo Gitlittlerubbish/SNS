@@ -1,0 +1,20 @@
+--2020-02-25 23:11:12--  http://www.kut.edu.kp/assets/pdf_paper5.pdf%0D
+Resolving www.kut.edu.kp (www.kut.edu.kp)... 175.45.176.91
+Connecting to www.kut.edu.kp (www.kut.edu.kp)|175.45.176.91|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /hPnZl/assets/pdf_paper5.pdf%0D [following]
+--2020-02-25 23:11:14--  http://www.kut.edu.kp/hPnZl/assets/pdf_paper5.pdf%0D
+Connecting to www.kut.edu.kp (www.kut.edu.kp)|175.45.176.91|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /assets/pdf_paper5.pdf%0D [following]
+--2020-02-25 23:11:14--  http://www.kut.edu.kp/assets/pdf_paper5.pdf%0D
+Connecting to www.kut.edu.kp (www.kut.edu.kp)|175.45.176.91|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:11:15 ERROR 404: Not Found.
+
+--2020-02-25 23:11:15--  http://www.kut.edu.kp/assets/pdf_paper22.pdf%0D
+Resolving www.kut.edu.kp (www.kut.edu.kp)... 175.45.176.91
+Connecting to www.kut.edu.kp (www.kut.edu.kp)|175.45.176.91|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:11:15 ERROR 404: Not Found.
+

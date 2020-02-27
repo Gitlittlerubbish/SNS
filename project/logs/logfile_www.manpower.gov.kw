@@ -1,0 +1,22 @@
+--2020-02-25 23:15:52--  http://www.manpower.gov.kw/docs/pdf_proceduresGuide.pdf%0D
+Resolving www.manpower.gov.kw (www.manpower.gov.kw)... 91.140.151.100
+Connecting to www.manpower.gov.kw (www.manpower.gov.kw)|91.140.151.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        1.55G=0s
+
+2020-02-25 23:15:53 (1.55 Gb/s) - ‘/dev/null’ saved [606]
+
+--2020-02-25 23:15:53--  http://www.manpower.gov.kw/docs/pdf_proceduresGuide.pdf%0D
+Resolving www.manpower.gov.kw (www.manpower.gov.kw)... 91.140.151.100
+Connecting to www.manpower.gov.kw (www.manpower.gov.kw)|91.140.151.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        1.45G=0s
+
+2020-02-25 23:15:53 (1.45 Gb/s) - ‘/dev/null’ saved [606]
+

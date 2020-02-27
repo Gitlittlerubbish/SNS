@@ -1,0 +1,12 @@
+--2020-02-25 22:37:38--  http://www.bvnsa.com.gt/wpaginas/noticias/Amara0209.pdf%0D
+Resolving www.bvnsa.com.gt (www.bvnsa.com.gt)... 200.119.133.147, 200.6.237.162
+Connecting to www.bvnsa.com.gt (www.bvnsa.com.gt)|200.119.133.147|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:37:38 ERROR 400: Bad Request.
+
+--2020-02-25 22:37:38--  http://www.bvnsa.com.gt/wpaginas/noticias/Amara0209.pdf%0D
+Resolving www.bvnsa.com.gt (www.bvnsa.com.gt)... 200.6.237.162, 200.119.133.147
+Connecting to www.bvnsa.com.gt (www.bvnsa.com.gt)|200.6.237.162|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:37:39 ERROR 400: Bad Request.
+

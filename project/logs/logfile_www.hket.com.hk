@@ -1,0 +1,6 @@
+--2020-02-25 22:46:06--  https://www.hket.com.hk/ratecard/2018_Ratecard_Color2.pdf%0D
+Resolving www.hket.com.hk (www.hket.com.hk)... 118.143.30.129
+Connecting to www.hket.com.hk (www.hket.com.hk)|118.143.30.129|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.hket.com.hk’.
+To connect to www.hket.com.hk insecurely, use `--no-check-certificate'.

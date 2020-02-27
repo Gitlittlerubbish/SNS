@@ -1,0 +1,12 @@
+--2020-02-25 21:05:02--  https://getco.com.bd/docs/getco-profile.pdf%0D
+Resolving getco.com.bd (getco.com.bd)... 67.227.211.81
+Connecting to getco.com.bd (getco.com.bd)|67.227.211.81|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:05:03 ERROR 404: Not Found.
+
+--2020-02-25 21:15:38--  https://getco.com.bd/docs/getco-profile.pdf%0D
+Resolving getco.com.bd (getco.com.bd)... 67.227.211.81
+Connecting to getco.com.bd (getco.com.bd)|67.227.211.81|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:38 ERROR 404: Not Found.
+

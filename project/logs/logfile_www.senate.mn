@@ -1,0 +1,6 @@
+--2020-02-25 23:53:33--  https://www.senate.mn/rules/2017/tempjointrules2017.pdf%0D
+Resolving www.senate.mn (www.senate.mn)... 156.98.77.245
+Connecting to www.senate.mn (www.senate.mn)|156.98.77.245|:443... connected.
+ERROR: cannot verify www.senate.mn's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.senate.mn insecurely, use `--no-check-certificate'.

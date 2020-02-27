@@ -1,0 +1,12 @@
+--2020-02-25 21:00:52--  https://saas.ad/Uploads/MenuHome/andorra_18042018121505.pdf%0D
+Resolving saas.ad (saas.ad)... 194.158.80.51
+Connecting to saas.ad (saas.ad)|194.158.80.51|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:00:52 ERROR 400: Bad Request.
+
+--2020-02-25 21:00:52--  https://saas.ad/images/PDFS/AsmaGuiaescola.pdf%0D
+Resolving saas.ad (saas.ad)... 194.158.80.51
+Connecting to saas.ad (saas.ad)|194.158.80.51|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:00:52 ERROR 400: Bad Request.
+

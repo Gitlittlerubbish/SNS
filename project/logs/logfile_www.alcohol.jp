@@ -1,0 +1,6 @@
+--2020-02-25 23:03:42--  http://www.alcohol.jp/general/riyou.pdf%0D
+Resolving www.alcohol.jp (www.alcohol.jp)... 180.37.189.203
+Connecting to www.alcohol.jp (www.alcohol.jp)|180.37.189.203|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:03:43 ERROR 404: Not Found.
+

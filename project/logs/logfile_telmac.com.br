@@ -1,0 +1,12 @@
+--2020-02-25 21:21:11--  http://telmac.com.br/pdf/produtos.pdf%0D
+Resolving telmac.com.br (telmac.com.br)... 186.202.87.116
+Connecting to telmac.com.br (telmac.com.br)|186.202.87.116|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:21:11 ERROR 400: Bad Request.
+
+--2020-02-25 21:27:02--  http://telmac.com.br/pdf/produtos.pdf%0D
+Resolving telmac.com.br (telmac.com.br)... 186.202.87.116
+Connecting to telmac.com.br (telmac.com.br)|186.202.87.116|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:27:02 ERROR 400: Bad Request.
+

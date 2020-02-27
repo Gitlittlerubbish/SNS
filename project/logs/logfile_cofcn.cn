@@ -1,0 +1,12 @@
+--2020-02-25 21:46:55--  http://cofcn.cn/adni-publications/nihms551465.pdf%0D
+Resolving cofcn.cn (cofcn.cn)... 45.195.71.162
+Connecting to cofcn.cn (cofcn.cn)|45.195.71.162|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:56 ERROR 400: Bad Request.
+
+--2020-02-25 21:46:56--  http://cofcn.cn/adni-publications/nihms551465.pdf%0D
+Resolving cofcn.cn (cofcn.cn)... 45.195.71.162
+Connecting to cofcn.cn (cofcn.cn)|45.195.71.162|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:57 ERROR 400: Bad Request.
+

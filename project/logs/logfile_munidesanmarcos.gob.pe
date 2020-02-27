@@ -1,0 +1,24 @@
+--2020-02-26 00:36:08--  https://munidesanmarcos.gob.pe/MOFPDF/1%0D
+Resolving munidesanmarcos.gob.pe (munidesanmarcos.gob.pe)... 69.73.183.21
+Connecting to munidesanmarcos.gob.pe (munidesanmarcos.gob.pe)|69.73.183.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67768 (66K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 75% 2.43M 0s
+    50K .......... ......                                     100% 1.57M=0.3s
+
+2020-02-26 00:36:09 (2.15 Mb/s) - ‘/dev/null’ saved [67768/67768]
+
+--2020-02-26 00:36:09--  https://munidesanmarcos.gob.pe/MOFPDF/1%0D
+Resolving munidesanmarcos.gob.pe (munidesanmarcos.gob.pe)... 69.73.183.21
+Connecting to munidesanmarcos.gob.pe (munidesanmarcos.gob.pe)|69.73.183.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67768 (66K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 75% 1.62M 0s
+    50K .......... ......                                     100% 1.57M=0.3s
+
+2020-02-26 00:36:10 (1.61 Mb/s) - ‘/dev/null’ saved [67768/67768]
+

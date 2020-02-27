@@ -1,0 +1,24 @@
+--2020-02-25 22:22:54--  http://gesd.free.fr/sachsrobots.pdf%0D
+Resolving gesd.free.fr (gesd.free.fr)... 212.27.63.105
+Connecting to gesd.free.fr (gesd.free.fr)|212.27.63.105|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:54 ERROR 404: Not Found.
+
+--2020-02-25 22:22:54--  http://gesd.free.fr/freyosborne.pdf%0D
+Resolving gesd.free.fr (gesd.free.fr)... 212.27.63.105
+Connecting to gesd.free.fr (gesd.free.fr)|212.27.63.105|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:54 ERROR 404: Not Found.
+
+--2020-02-25 22:22:54--  http://gesd.free.fr/sachsrobots.pdf%0D
+Resolving gesd.free.fr (gesd.free.fr)... 212.27.63.105
+Connecting to gesd.free.fr (gesd.free.fr)|212.27.63.105|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:54 ERROR 404: Not Found.
+
+--2020-02-25 22:22:54--  http://gesd.free.fr/freyosborne.pdf%0D
+Resolving gesd.free.fr (gesd.free.fr)... 212.27.63.105
+Connecting to gesd.free.fr (gesd.free.fr)|212.27.63.105|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:54 ERROR 404: Not Found.
+

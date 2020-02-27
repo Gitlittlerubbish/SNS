@@ -1,0 +1,12 @@
+--2020-02-25 21:00:22--  https://www.clb.az/dosyalar/2070.pdf%0D
+Resolving www.clb.az (www.clb.az)... 67.222.52.67
+Connecting to www.clb.az (www.clb.az)|67.222.52.67|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:23 ERROR 404: Not Found.
+
+--2020-02-25 21:12:17--  https://www.clb.az/dosyalar/2070.pdf%0D
+Resolving www.clb.az (www.clb.az)... 67.222.52.67
+Connecting to www.clb.az (www.clb.az)|67.222.52.67|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:18 ERROR 404: Not Found.
+

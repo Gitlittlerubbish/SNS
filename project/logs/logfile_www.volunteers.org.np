@@ -1,0 +1,60 @@
+--2020-02-26 00:02:50--  http://www.volunteers.org.np/nepali_primer.pdf%0D
+Resolving www.volunteers.org.np (www.volunteers.org.np)... 104.218.54.134
+Connecting to www.volunteers.org.np (www.volunteers.org.np)|104.218.54.134|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.volunteers.org.np/index.php [following]
+--2020-02-26 00:02:50--  http://www.volunteers.org.np/index.php
+Reusing existing connection to www.volunteers.org.np:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                   4.09M=0.07s
+
+2020-02-26 00:02:50 (4.09 Mb/s) - ‘/dev/null’ saved [34374]
+
+--2020-02-26 00:02:50--  http://www.volunteers.org.np/nepali_primer.pdf%0D
+Resolving www.volunteers.org.np (www.volunteers.org.np)... 104.218.54.134
+Connecting to www.volunteers.org.np (www.volunteers.org.np)|104.218.54.134|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.volunteers.org.np/index.php [following]
+--2020-02-26 00:02:50--  http://www.volunteers.org.np/index.php
+Reusing existing connection to www.volunteers.org.np:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                   4.02M=0.07s
+
+2020-02-26 00:02:51 (4.02 Mb/s) - ‘/dev/null’ saved [34374]
+
+--2020-02-26 00:02:51--  http://www.volunteers.org.np/nepali_english_glossary.pdf%0D
+Resolving www.volunteers.org.np (www.volunteers.org.np)... 104.218.54.134
+Connecting to www.volunteers.org.np (www.volunteers.org.np)|104.218.54.134|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.volunteers.org.np/index.php [following]
+--2020-02-26 00:02:51--  http://www.volunteers.org.np/index.php
+Reusing existing connection to www.volunteers.org.np:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                   4.09M=0.07s
+
+2020-02-26 00:02:51 (4.09 Mb/s) - ‘/dev/null’ saved [34374]
+
+--2020-02-26 00:02:51--  http://www.volunteers.org.np/nepali_english_glossary.pdf%0D
+Resolving www.volunteers.org.np (www.volunteers.org.np)... 104.218.54.134
+Connecting to www.volunteers.org.np (www.volunteers.org.np)|104.218.54.134|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.volunteers.org.np/index.php [following]
+--2020-02-26 00:02:51--  http://www.volunteers.org.np/index.php
+Reusing existing connection to www.volunteers.org.np:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                   4.09M=0.07s
+
+2020-02-26 00:02:51 (4.09 Mb/s) - ‘/dev/null’ saved [34374]
+

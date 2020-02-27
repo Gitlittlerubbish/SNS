@@ -1,0 +1,12 @@
+--2020-02-25 21:06:48--  http://izr.by/doc/zr39.pdf%0D
+Resolving izr.by (izr.by)... 195.50.4.216
+Connecting to izr.by (izr.by)|195.50.4.216|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:06:49 ERROR 400: Bad Request.
+
+--2020-02-25 21:17:00--  http://izr.by/doc/zr39.pdf%0D
+Resolving izr.by (izr.by)... 195.50.4.216
+Connecting to izr.by (izr.by)|195.50.4.216|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:17:00 ERROR 400: Bad Request.
+

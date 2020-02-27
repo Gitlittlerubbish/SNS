@@ -1,0 +1,76 @@
+--2020-02-25 22:43:25--  https://iii.hm/ory%0D
+Resolving iii.hm (iii.hm)... 104.27.154.192, 104.27.155.192
+Connecting to iii.hm (iii.hm)|104.27.154.192|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://iii.hm [following]
+--2020-02-25 22:43:25--  https://iii.hm/
+Reusing existing connection to iii.hm:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /user/plugins/hm-multi-user/index.php [following]
+--2020-02-25 22:43:25--  https://iii.hm/user/plugins/hm-multi-user/index.php
+Reusing existing connection to iii.hm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                    1.08G=0s
+
+2020-02-25 22:43:26 (1.08 Gb/s) - ‘/dev/null’ saved [3590]
+
+--2020-02-25 22:43:26--  https://iii.hm/ory%0D
+Resolving iii.hm (iii.hm)... 104.27.154.192, 104.27.155.192
+Connecting to iii.hm (iii.hm)|104.27.154.192|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://iii.hm [following]
+--2020-02-25 22:43:26--  https://iii.hm/
+Reusing existing connection to iii.hm:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /user/plugins/hm-multi-user/index.php [following]
+--2020-02-25 22:43:26--  https://iii.hm/user/plugins/hm-multi-user/index.php
+Reusing existing connection to iii.hm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                     861M=0s
+
+2020-02-25 22:43:26 (861 Mb/s) - ‘/dev/null’ saved [3590]
+
+--2020-02-25 22:43:26--  https://iii.hm/29c%0D
+Resolving iii.hm (iii.hm)... 104.27.154.192, 104.27.155.192
+Connecting to iii.hm (iii.hm)|104.27.154.192|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://iii.hm [following]
+--2020-02-25 22:43:26--  https://iii.hm/
+Reusing existing connection to iii.hm:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /user/plugins/hm-multi-user/index.php [following]
+--2020-02-25 22:43:26--  https://iii.hm/user/plugins/hm-multi-user/index.php
+Reusing existing connection to iii.hm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                     691M=0s
+
+2020-02-25 22:43:26 (691 Mb/s) - ‘/dev/null’ saved [3590]
+
+--2020-02-25 22:43:26--  https://iii.hm/29c%0D
+Resolving iii.hm (iii.hm)... 104.27.154.192, 104.27.155.192
+Connecting to iii.hm (iii.hm)|104.27.154.192|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://iii.hm [following]
+--2020-02-25 22:43:26--  https://iii.hm/
+Reusing existing connection to iii.hm:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /user/plugins/hm-multi-user/index.php [following]
+--2020-02-25 22:43:26--  https://iii.hm/user/plugins/hm-multi-user/index.php
+Reusing existing connection to iii.hm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                    1.05G=0s
+
+2020-02-25 22:43:26 (1.05 Gb/s) - ‘/dev/null’ saved [3590]
+

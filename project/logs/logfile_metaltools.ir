@@ -1,0 +1,32 @@
+--2020-02-25 22:54:35--  http://metaltools.ir/downlods/Helicoil.pdf%0D
+Resolving metaltools.ir (metaltools.ir)... 185.94.97.250
+Connecting to metaltools.ir (metaltools.ir)|185.94.97.250|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: / [following]
+--2020-02-25 22:54:35--  http://metaltools.ir/
+Connecting to metaltools.ir (metaltools.ir)|185.94.97.250|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.12M
+    50K .......                                                3.35G=0.4s
+
+2020-02-25 22:54:36 (1.29 Mb/s) - ‘/dev/null’ saved [59088]
+
+--2020-02-25 22:54:36--  http://metaltools.ir/downlods/Helicoil.pdf%0D
+Resolving metaltools.ir (metaltools.ir)... 185.94.97.250
+Connecting to metaltools.ir (metaltools.ir)|185.94.97.250|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: / [following]
+--2020-02-25 22:54:37--  http://metaltools.ir/
+Connecting to metaltools.ir (metaltools.ir)|185.94.97.250|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.12M
+    50K .......                                                3.52M=0.4s
+
+2020-02-25 22:54:38 (1.23 Mb/s) - ‘/dev/null’ saved [59088]
+

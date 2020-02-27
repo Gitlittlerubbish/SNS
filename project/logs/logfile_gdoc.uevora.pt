@@ -1,0 +1,38 @@
+--2020-02-26 00:41:42--  http://gdoc.uevora.pt/400760%0D
+Resolving gdoc.uevora.pt (gdoc.uevora.pt)... 193.136.216.66
+Connecting to gdoc.uevora.pt (gdoc.uevora.pt)|193.136.216.66|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://gdoc.uevora.pt/400760%0d [following]
+--2020-02-26 00:41:42--  https://gdoc.uevora.pt/400760%0d
+Connecting to gdoc.uevora.pt (gdoc.uevora.pt)|193.136.216.66|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://gdoc.uevora.pt/auth [following]
+--2020-02-26 00:41:42--  https://gdoc.uevora.pt/auth
+Reusing existing connection to gdoc.uevora.pt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2519 (2.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 2.67G=0s
+
+2020-02-26 00:41:42 (2.67 Gb/s) - ‘/dev/null’ saved [2519/2519]
+
+--2020-02-26 00:41:42--  http://gdoc.uevora.pt/400760%0D
+Resolving gdoc.uevora.pt (gdoc.uevora.pt)... 193.136.216.66
+Connecting to gdoc.uevora.pt (gdoc.uevora.pt)|193.136.216.66|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://gdoc.uevora.pt/400760%0d [following]
+--2020-02-26 00:41:42--  https://gdoc.uevora.pt/400760%0d
+Connecting to gdoc.uevora.pt (gdoc.uevora.pt)|193.136.216.66|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://gdoc.uevora.pt/auth [following]
+--2020-02-26 00:41:42--  https://gdoc.uevora.pt/auth
+Reusing existing connection to gdoc.uevora.pt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2519 (2.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 2.13G=0s
+
+2020-02-26 00:41:42 (2.13 Gb/s) - ‘/dev/null’ saved [2519/2519]
+

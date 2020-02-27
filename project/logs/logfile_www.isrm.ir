@@ -1,0 +1,6 @@
+--2020-02-25 22:54:39--  http://www.isrm.ir/ArticlesFile/5936PIIS1472648318303134.pdf%0D
+Resolving www.isrm.ir (www.isrm.ir)... 185.55.224.212
+Connecting to www.isrm.ir (www.isrm.ir)|185.55.224.212|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:54:40 ERROR 400: Bad Request.
+

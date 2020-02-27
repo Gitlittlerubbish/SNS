@@ -1,0 +1,12 @@
+--2020-02-25 21:17:37--  http://www.djeca.rs.ba/uploaded/2011_PRAVILNIK_IZVAN_RS.pdf%0D
+Resolving www.djeca.rs.ba (www.djeca.rs.ba)... 217.23.192.171
+Connecting to www.djeca.rs.ba (www.djeca.rs.ba)|217.23.192.171|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:37 ERROR 404: Not Found.
+
+--2020-02-25 21:24:46--  http://www.djeca.rs.ba/uploaded/2011_PRAVILNIK_IZVAN_RS.pdf%0D
+Resolving www.djeca.rs.ba (www.djeca.rs.ba)... 217.23.192.171
+Connecting to www.djeca.rs.ba (www.djeca.rs.ba)|217.23.192.171|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:46 ERROR 404: Not Found.
+

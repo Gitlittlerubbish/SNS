@@ -1,0 +1,12 @@
+--2020-02-25 22:22:50--  http://www.ccpaysroussillonnais.fr/horaires_et_dechets_dechetteries_2016.pdf%0D
+Resolving www.ccpaysroussillonnais.fr (www.ccpaysroussillonnais.fr)... 46.227.16.164
+Connecting to www.ccpaysroussillonnais.fr (www.ccpaysroussillonnais.fr)|46.227.16.164|:80... --2020-02-25 22:22:50--  http://www.ccpaysroussillonnais.fr/horaires_et_dechets_dechetteries_2016.pdf%0D
+Resolving www.ccpaysroussillonnais.fr (www.ccpaysroussillonnais.fr)... 46.227.16.164
+Connecting to www.ccpaysroussillonnais.fr (www.ccpaysroussillonnais.fr)|46.227.16.164|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:50 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:22:50 ERROR 404: Not Found.
+

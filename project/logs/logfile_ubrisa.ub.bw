@@ -1,0 +1,12 @@
+--2020-02-25 21:18:04--  http://ubrisa.ub.bw/jspui/retrieve/1389%0D
+Resolving ubrisa.ub.bw (ubrisa.ub.bw)... 168.167.8.130
+Connecting to ubrisa.ub.bw (ubrisa.ub.bw)|168.167.8.130|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:05 ERROR 404: Not Found.
+
+--2020-02-25 21:25:01--  http://ubrisa.ub.bw/jspui/retrieve/1389%0D
+Resolving ubrisa.ub.bw (ubrisa.ub.bw)... 168.167.8.130
+Connecting to ubrisa.ub.bw (ubrisa.ub.bw)|168.167.8.130|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:01 ERROR 404: Not Found.
+

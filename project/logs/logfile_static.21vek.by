@@ -1,0 +1,12 @@
+--2020-02-25 21:07:04--  https://static.21vek.by/img/galleries/476/986/dbr15_yamaha_5ad1d03051063.pdf%0D
+Resolving static.21vek.by (static.21vek.by)... 104.22.1.86, 104.22.0.86
+Connecting to static.21vek.by (static.21vek.by)|104.22.1.86|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:04 ERROR 404: Not Found.
+
+--2020-02-25 21:17:14--  https://static.21vek.by/img/galleries/476/986/dbr15_yamaha_5ad1d03051063.pdf%0D
+Resolving static.21vek.by (static.21vek.by)... 104.22.0.86, 104.22.1.86
+Connecting to static.21vek.by (static.21vek.by)|104.22.0.86|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:14 ERROR 404: Not Found.
+

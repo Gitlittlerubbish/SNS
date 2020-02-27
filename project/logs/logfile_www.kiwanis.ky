@@ -1,0 +1,12 @@
+--2020-02-25 21:39:09--  http://www.kiwanis.ky/newsletter/KNews-2010-10-31.pdf%0D
+Resolving www.kiwanis.ky (www.kiwanis.ky)... 107.180.57.148
+Connecting to www.kiwanis.ky (www.kiwanis.ky)|107.180.57.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:39:10 ERROR 404: Not Found.
+
+--2020-02-25 21:40:20--  http://www.kiwanis.ky/newsletter/KNews-2010-10-31.pdf%0D
+Resolving www.kiwanis.ky (www.kiwanis.ky)... 107.180.57.148
+Connecting to www.kiwanis.ky (www.kiwanis.ky)|107.180.57.148|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:40:20 ERROR 404: Not Found.
+

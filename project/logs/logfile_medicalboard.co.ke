@@ -1,0 +1,12 @@
+--2020-02-25 23:08:31--  http://medicalboard.co.ke/resources/Medical_and_Dental_Professional_Fees_2016.pdf%0D
+Resolving medicalboard.co.ke (medicalboard.co.ke)... 170.10.161.42
+Connecting to medicalboard.co.ke (medicalboard.co.ke)|170.10.161.42|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:08:33 ERROR 404: Not Found.
+
+--2020-02-25 23:08:43--  http://medicalboard.co.ke/resources/Medical_and_Dental_Professional_Fees_2016.pdf%0D
+Resolving medicalboard.co.ke (medicalboard.co.ke)... 170.10.161.42
+Connecting to medicalboard.co.ke (medicalboard.co.ke)|170.10.161.42|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:08:44 ERROR 404: Not Found.
+

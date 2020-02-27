@@ -1,0 +1,12 @@
+--2020-02-25 23:49:31--  https://lenprom.fm/userfiles/file/catalog_bfe_for_site.pdf%0D
+Resolving lenprom.fm (lenprom.fm)... 195.182.132.228
+Connecting to lenprom.fm (lenprom.fm)|195.182.132.228|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘lenprom.fm’.
+To connect to lenprom.fm insecurely, use `--no-check-certificate'.
+--2020-02-25 23:49:33--  https://lenprom.fm/userfiles/file/catalog_bfe_for_site.pdf%0D
+Resolving lenprom.fm (lenprom.fm)... 195.182.132.228
+Connecting to lenprom.fm (lenprom.fm)|195.182.132.228|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘lenprom.fm’.
+To connect to lenprom.fm insecurely, use `--no-check-certificate'.

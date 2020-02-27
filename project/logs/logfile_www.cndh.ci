@@ -1,0 +1,22 @@
+--2020-02-25 21:59:12--  http://www.cndh.ci/download/171013122404.pdf%0D
+Resolving www.cndh.ci (www.cndh.ci)... 160.153.133.225
+Connecting to www.cndh.ci (www.cndh.ci)|160.153.133.225|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 21:59:12--  http://www.cndh.ci/download/171013122404.pdf%0D
+Resolving www.cndh.ci (www.cndh.ci)... 160.153.133.225
+Connecting to www.cndh.ci (www.cndh.ci)|160.153.133.225|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://cndh.ci/download/171013122404.pdf [following]
+--2020-02-25 21:59:12--  http://cndh.ci/download/171013122404.pdf
+Resolving cndh.ci (cndh.ci)... 160.153.133.225
+Reusing existing connection to www.cndh.ci:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://cndh.ci/download/171013122404.pdf [following]
+--2020-02-25 21:59:12--  http://cndh.ci/download/171013122404.pdf
+Resolving cndh.ci (cndh.ci)... 160.153.133.225
+Reusing existing connection to www.cndh.ci:80.
+HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 21:59:13 ERROR 404: Not Found.
+
+2020-02-25 21:59:13 ERROR 404: Not Found.
+

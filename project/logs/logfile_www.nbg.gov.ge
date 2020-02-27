@@ -1,0 +1,12 @@
+--2020-02-25 22:30:57--  https://www.nbg.gov.ge/uploads/repo_operations.pdf%0D
+Resolving www.nbg.gov.ge (www.nbg.gov.ge)... --2020-02-25 22:30:57--  https://www.nbg.gov.ge/uploads/repo_operations.pdf%0D
+Resolving www.nbg.gov.ge (www.nbg.gov.ge)... 91.208.144.19
+Connecting to www.nbg.gov.ge (www.nbg.gov.ge)|91.208.144.19|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:30:57 ERROR 404: Not Found.
+
+91.208.144.19
+Connecting to www.nbg.gov.ge (www.nbg.gov.ge)|91.208.144.19|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:31:00 ERROR 404: Not Found.
+

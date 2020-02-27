@@ -1,0 +1,12 @@
+--2020-02-25 23:18:47--  http://www.ilp.gov.la/Laws_in_Lao/41.pdf%0D
+Resolving www.ilp.gov.la (www.ilp.gov.la)... 198.38.83.24
+Connecting to www.ilp.gov.la (www.ilp.gov.la)|198.38.83.24|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:18:47 ERROR 400: Bad Request.
+
+--2020-02-25 23:18:47--  http://www.ilp.gov.la/Laws_in_Lao/11.pdf%0D
+Resolving www.ilp.gov.la (www.ilp.gov.la)... 198.38.83.24
+Connecting to www.ilp.gov.la (www.ilp.gov.la)|198.38.83.24|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:18:47 ERROR 400: Bad Request.
+

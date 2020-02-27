@@ -1,0 +1,60 @@
+--2020-02-25 22:19:34--  http://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D
+Resolving www.livdin.fo (www.livdin.fo)... --2020-02-25 22:19:34--  http://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D
+Resolving www.livdin.fo (www.livdin.fo)... 74.124.194.161
+Connecting to www.livdin.fo (www.livdin.fo)|74.124.194.161|:80... 74.124.194.161
+Connecting to www.livdin.fo (www.livdin.fo)|74.124.194.161|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D [following]
+301 Moved Permanently
+Location: https://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D [following]
+--2020-02-25 22:19:35--  https://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D
+Connecting to www.livdin.fo (www.livdin.fo)|74.124.194.161|:443... --2020-02-25 22:19:35--  https://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D
+Connecting to www.livdin.fo (www.livdin.fo)|74.124.194.161|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         892M=0s
+
+2020-02-25 22:19:37 (892 Mb/s) - ‘/dev/null’ saved [551]
+
+--2020-02-25 22:19:37--  http://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D
+Resolving www.livdin.fo (www.livdin.fo)... 74.124.194.161
+Connecting to www.livdin.fo (www.livdin.fo)|74.124.194.161|:80... 
+     0K                                                         812M=0s
+
+2020-02-25 22:19:37 (812 Mb/s) - ‘/dev/null’ saved [551]
+
+--2020-02-25 22:19:37--  http://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D
+Resolving www.livdin.fo (www.livdin.fo)... 74.124.194.161
+Connecting to www.livdin.fo (www.livdin.fo)|74.124.194.161|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D [following]
+301 Moved Permanently
+Location: https://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D [following]
+--2020-02-25 22:19:38--  https://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D
+Connecting to www.livdin.fo (www.livdin.fo)|74.124.194.161|:443... --2020-02-25 22:19:38--  https://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf%0D
+Connecting to www.livdin.fo (www.livdin.fo)|74.124.194.161|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         766M=0s
+
+2020-02-25 22:19:39 (766 Mb/s) - ‘/dev/null’ saved [551]
+
+
+     0K                                                         887M=0s
+
+2020-02-25 22:19:39 (887 Mb/s) - ‘/dev/null’ saved [551]
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:08:36--  https://www.simplegreen.bz/downloads/SDS_EN_SimpleGreenLimeScaleRemover.pdf%0D
+Resolving www.simplegreen.bz (www.simplegreen.bz)... 162.241.156.19
+Connecting to www.simplegreen.bz (www.simplegreen.bz)|162.241.156.19|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.simplegreen.bz’.
+To connect to www.simplegreen.bz insecurely, use `--no-check-certificate'.
+--2020-02-25 21:18:21--  https://www.simplegreen.bz/downloads/SDS_EN_SimpleGreenLimeScaleRemover.pdf%0D
+Resolving www.simplegreen.bz (www.simplegreen.bz)... 162.241.156.19
+Connecting to www.simplegreen.bz (www.simplegreen.bz)|162.241.156.19|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.simplegreen.bz’.
+To connect to www.simplegreen.bz insecurely, use `--no-check-certificate'.

@@ -1,0 +1,12 @@
+--2020-02-25 22:11:41--  http://asa.gov.eg/attach/asa_law_reg.pdf%0D
+Resolving asa.gov.eg (asa.gov.eg)... 41.179.253.56
+Connecting to asa.gov.eg (asa.gov.eg)|41.179.253.56|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:41 ERROR 400: Bad Request.
+
+--2020-02-25 22:11:42--  http://asa.gov.eg/attach/asa_law_reg.pdf%0D
+Resolving asa.gov.eg (asa.gov.eg)... 41.179.253.56
+Connecting to asa.gov.eg (asa.gov.eg)|41.179.253.56|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:42 ERROR 400: Bad Request.
+

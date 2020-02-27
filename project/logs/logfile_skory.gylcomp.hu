@@ -1,0 +1,13 @@
+--2020-02-25 22:46:59--  http://skory.gylcomp.hu/alkatresz/BT137_SERIES.pdf%0D
+Resolving skory.gylcomp.hu (skory.gylcomp.hu)... 185.106.113.62
+Connecting to skory.gylcomp.hu (skory.gylcomp.hu)|185.106.113.62|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://z-net.hu/error404 [following]
+--2020-02-25 22:46:59--  http://z-net.hu/error404
+Resolving z-net.hu (z-net.hu)... 194.143.229.202
+Connecting to z-net.hu (z-net.hu)|194.143.229.202|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.z-net.huerror404 [following]
+--2020-02-25 22:47:00--  https://www.z-net.huerror404/
+Resolving www.z-net.huerror404 (www.z-net.huerror404)... failed: Name or service not known.
+wget: unable to resolve host address ‘www.z-net.huerror404’

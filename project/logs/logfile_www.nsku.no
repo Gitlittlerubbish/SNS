@@ -1,0 +1,6 @@
+--2020-02-26 00:22:14--  http://www.nsku.no/docs/noteringsskjema.pdf%0D
+Resolving www.nsku.no (www.nsku.no)... 5.249.226.75
+Connecting to www.nsku.no (www.nsku.no)|5.249.226.75|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:22:14 ERROR 404: Not Found.
+

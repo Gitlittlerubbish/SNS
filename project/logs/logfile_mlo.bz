@@ -1,0 +1,20 @@
+--2020-02-25 21:08:11--  http://mlo.bz/Xkxa6%0D
+Resolving mlo.bz (mlo.bz)... 206.188.193.228
+Connecting to mlo.bz (mlo.bz)|206.188.193.228|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://mlo.bz [following]
+--2020-02-25 21:08:12--  http://mlo.bz/
+Reusing existing connection to mlo.bz:80.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:08:12 ERROR 403: Forbidden.
+
+--2020-02-25 21:18:02--  http://mlo.bz/Xkxa6%0D
+Resolving mlo.bz (mlo.bz)... 206.188.193.228
+Connecting to mlo.bz (mlo.bz)|206.188.193.228|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://mlo.bz [following]
+--2020-02-25 21:18:03--  http://mlo.bz/
+Reusing existing connection to mlo.bz:80.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:18:03 ERROR 403: Forbidden.
+

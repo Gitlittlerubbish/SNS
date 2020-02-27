@@ -1,0 +1,12 @@
+--2020-02-25 21:26:39--  http://www.gerbangbahasa.gov.bn/filebase/files/201404/5666545023RiakBahasaBil.%25203.pdf%0D
+Resolving www.gerbangbahasa.gov.bn (www.gerbangbahasa.gov.bn)... 103.4.188.25
+Connecting to www.gerbangbahasa.gov.bn (www.gerbangbahasa.gov.bn)|103.4.188.25|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:39 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:52--  http://www.gerbangbahasa.gov.bn/filebase/files/201404/5666545023RiakBahasaBil.%25203.pdf%0D
+Resolving www.gerbangbahasa.gov.bn (www.gerbangbahasa.gov.bn)... 103.4.188.25
+Connecting to www.gerbangbahasa.gov.bn (www.gerbangbahasa.gov.bn)|103.4.188.25|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:52 ERROR 400: Bad Request.
+

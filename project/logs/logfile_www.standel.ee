@@ -1,0 +1,24 @@
+--2020-02-25 22:17:24--  http://www.standel.ee/files/Omron_pdf/L084_E1_06A_H3CR_Datasheet.pdf%0D
+Resolving www.standel.ee (www.standel.ee)... --2020-02-25 22:17:24--  http://www.standel.ee/files/Omron_pdf/L084_E1_06A_H3CR_Datasheet.pdf%0D
+Resolving www.standel.ee (www.standel.ee)... 217.146.69.4
+Connecting to www.standel.ee (www.standel.ee)|217.146.69.4|:80... 217.146.69.4
+Connecting to www.standel.ee (www.standel.ee)|217.146.69.4|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:24 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:17:24 ERROR 404: Not Found.
+
+--2020-02-25 22:17:28--  http://www.standel.ee/files/Omron_pdf/L084_E1_06A_H3CR_Datasheet.pdf%0D
+Resolving www.standel.ee (www.standel.ee)... 217.146.69.4
+Connecting to www.standel.ee (www.standel.ee)|217.146.69.4|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:28 ERROR 404: Not Found.
+
+--2020-02-25 22:17:30--  http://www.standel.ee/files/Omron_pdf/L084_E1_06A_H3CR_Datasheet.pdf%0D
+Resolving www.standel.ee (www.standel.ee)... 217.146.69.4
+Connecting to www.standel.ee (www.standel.ee)|217.146.69.4|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:30 ERROR 404: Not Found.
+

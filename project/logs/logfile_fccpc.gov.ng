@@ -1,0 +1,24 @@
+--2020-02-26 00:17:14--  http://fccpc.gov.ng/uploads/FCCPA%25202019.pdf%0D
+Resolving fccpc.gov.ng (fccpc.gov.ng)... 54.194.240.118
+Connecting to fccpc.gov.ng (fccpc.gov.ng)|54.194.240.118|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82325 (80K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62% 16.1M 0s
+    50K .......... .......... ..........                      100% 8.72G=0.03s
+
+2020-02-26 00:17:14 (25.9 Mb/s) - ‘/dev/null’ saved [82325/82325]
+
+--2020-02-26 00:17:14--  http://fccpc.gov.ng/uploads/FCCPA%25202019.pdf%0D
+Resolving fccpc.gov.ng (fccpc.gov.ng)... 54.194.240.118
+Connecting to fccpc.gov.ng (fccpc.gov.ng)|54.194.240.118|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82325 (80K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62% 17.9M 0s
+    50K .......... .......... ..........                      100% 8.51G=0.02s
+
+2020-02-26 00:17:14 (28.7 Mb/s) - ‘/dev/null’ saved [82325/82325]
+

@@ -1,0 +1,22 @@
+--2020-02-25 22:06:52--  http://www.portable.dj/manuals/GODJ_users_manual_JP.pdf%0D
+Resolving www.portable.dj (www.portable.dj)... --2020-02-25 22:06:52--  http://www.portable.dj/manuals/GODJ_users_manual_JP.pdf%0D
+Resolving www.portable.dj (www.portable.dj)... 49.212.198.106
+Connecting to www.portable.dj (www.portable.dj)|49.212.198.106|:80... 49.212.198.106
+Connecting to www.portable.dj (www.portable.dj)|49.212.198.106|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.jdsound.co.jp/manuals/GODJ_users_manual_JP.pdf%0d [following]
+--2020-02-25 22:06:53--  https://www.jdsound.co.jp/manuals/GODJ_users_manual_JP.pdf%0d
+Resolving www.jdsound.co.jp (www.jdsound.co.jp)... 301 Moved Permanently
+Location: https://www.jdsound.co.jp/manuals/GODJ_users_manual_JP.pdf%0d [following]
+--2020-02-25 22:06:53--  https://www.jdsound.co.jp/manuals/GODJ_users_manual_JP.pdf%0d
+Resolving www.jdsound.co.jp (www.jdsound.co.jp)... 49.212.198.106
+Connecting to www.jdsound.co.jp (www.jdsound.co.jp)|49.212.198.106|:443... 49.212.198.106
+Connecting to www.jdsound.co.jp (www.jdsound.co.jp)|49.212.198.106|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:06:54 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:06:55 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:33:26--  https://www.maybank2u.com.kh/pdf/Maybank-AR18_Eng.pdf%0D
+Resolving www.maybank2u.com.kh (www.maybank2u.com.kh)... 2.22.139.45
+Connecting to www.maybank2u.com.kh (www.maybank2u.com.kh)|2.22.139.45|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:33:27 ERROR 404: Not Found.
+
+--2020-02-25 21:36:14--  https://www.maybank2u.com.kh/pdf/Maybank-AR18_Eng.pdf%0D
+Resolving www.maybank2u.com.kh (www.maybank2u.com.kh)... 2.22.139.45
+Connecting to www.maybank2u.com.kh (www.maybank2u.com.kh)|2.22.139.45|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:14 ERROR 404: Not Found.
+

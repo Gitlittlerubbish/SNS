@@ -1,0 +1,6 @@
+--2020-02-25 23:59:25--  http://www.itl.ac.mz/doc/editalii.pdf%0D
+Resolving www.itl.ac.mz (www.itl.ac.mz)... 41.77.129.230
+Connecting to www.itl.ac.mz (www.itl.ac.mz)|41.77.129.230|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:59:26 ERROR 404: Not Found.
+

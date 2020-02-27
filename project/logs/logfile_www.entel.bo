@@ -1,0 +1,12 @@
+--2020-02-25 21:16:41--  https://www.entel.bo/inicio3.0/files/Especificaciones_Tecnicas_Obras_Civiles.pdf%0D
+Resolving www.entel.bo (www.entel.bo)... 190.129.60.198
+Connecting to www.entel.bo (www.entel.bo)|190.129.60.198|:443... connected.
+ERROR: cannot verify www.entel.bo's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.entel.bo insecurely, use `--no-check-certificate'.
+--2020-02-25 21:24:05--  https://www.entel.bo/inicio3.0/files/Especificaciones_Tecnicas_Obras_Civiles.pdf%0D
+Resolving www.entel.bo (www.entel.bo)... 190.129.60.135
+Connecting to www.entel.bo (www.entel.bo)|190.129.60.135|:443... connected.
+ERROR: cannot verify www.entel.bo's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.entel.bo insecurely, use `--no-check-certificate'.

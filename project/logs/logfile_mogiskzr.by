@@ -1,0 +1,12 @@
+--2020-02-25 21:06:49--  http://mogiskzr.by/doc/Edinie_treb_izm24.pdf%0D
+Resolving mogiskzr.by (mogiskzr.by)... 93.125.99.79
+Connecting to mogiskzr.by (mogiskzr.by)|93.125.99.79|:80... connected.
+HTTP request sent, awaiting response... 404 Представление не найдено [name, type, prefix]: category, pdf, contentView
+2020-02-25 21:06:49 ERROR 404: Представление не найдено [name, type, prefix]: category, pdf, contentView.
+
+--2020-02-25 21:17:00--  http://mogiskzr.by/doc/Edinie_treb_izm24.pdf%0D
+Resolving mogiskzr.by (mogiskzr.by)... 93.125.99.79
+Connecting to mogiskzr.by (mogiskzr.by)|93.125.99.79|:80... connected.
+HTTP request sent, awaiting response... 404 Представление не найдено [name, type, prefix]: category, pdf, contentView
+2020-02-25 21:17:01 ERROR 404: Представление не найдено [name, type, prefix]: category, pdf, contentView.
+

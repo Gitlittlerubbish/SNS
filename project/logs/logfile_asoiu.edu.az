@@ -1,0 +1,12 @@
+--2020-02-25 21:00:43--  http://asoiu.edu.az/photos/adnsuQ.pdf%0D
+Resolving asoiu.edu.az (asoiu.edu.az)... 94.20.20.121
+Connecting to asoiu.edu.az (asoiu.edu.az)|94.20.20.121|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:43 ERROR 404: Not Found.
+
+--2020-02-25 21:12:29--  http://asoiu.edu.az/photos/adnsuQ.pdf%0D
+Resolving asoiu.edu.az (asoiu.edu.az)... 94.20.20.121
+Connecting to asoiu.edu.az (asoiu.edu.az)|94.20.20.121|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:29 ERROR 404: Not Found.
+

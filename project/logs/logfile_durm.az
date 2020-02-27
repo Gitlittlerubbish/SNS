@@ -1,0 +1,12 @@
+--2020-02-25 21:00:15--  http://durm.az/zubuk_1-2/%0D
+Resolving durm.az (durm.az)... 185.224.137.224
+Connecting to durm.az (durm.az)|185.224.137.224|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:17 ERROR 404: Not Found.
+
+--2020-02-25 21:12:13--  http://durm.az/zubuk_1-2/%0D
+Resolving durm.az (durm.az)... 185.224.137.224
+Connecting to durm.az (durm.az)|185.224.137.224|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:14 ERROR 404: Not Found.
+

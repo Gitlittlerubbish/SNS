@@ -1,0 +1,6 @@
+--2020-02-25 23:05:35--  https://www.exchange.jo/ar/download/disclosure/1490322%0D
+Resolving www.exchange.jo (www.exchange.jo)... 194.165.154.66
+Connecting to www.exchange.jo (www.exchange.jo)|194.165.154.66|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:05:36 ERROR 500: Internal Server Error.
+

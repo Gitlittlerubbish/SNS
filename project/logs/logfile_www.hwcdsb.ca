@@ -1,0 +1,12 @@
+--2020-02-25 21:37:13--  https://www.hwcdsb.ca/%3FfileID%3D443786%0D
+Resolving www.hwcdsb.ca (www.hwcdsb.ca)... 207.107.99.46
+Connecting to www.hwcdsb.ca (www.hwcdsb.ca)|207.107.99.46|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:37:14 ERROR 400: Bad Request.
+
+--2020-02-25 21:38:48--  https://www.hwcdsb.ca/%3FfileID%3D443786%0D
+Resolving www.hwcdsb.ca (www.hwcdsb.ca)... 207.107.99.46
+Connecting to www.hwcdsb.ca (www.hwcdsb.ca)|207.107.99.46|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:38:48 ERROR 400: Bad Request.
+

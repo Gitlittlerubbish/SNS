@@ -1,0 +1,12 @@
+--2020-02-25 22:16:35--  https://vse.ee/ha%0D
+Resolving vse.ee (vse.ee)... 94.130.131.168
+Connecting to vse.ee (vse.ee)|94.130.131.168|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:16:35 ERROR 404: Not Found.
+
+--2020-02-25 22:16:46--  https://vse.ee/ha%0D
+Resolving vse.ee (vse.ee)... 94.130.131.168
+Connecting to vse.ee (vse.ee)|94.130.131.168|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:16:46 ERROR 404: Not Found.
+

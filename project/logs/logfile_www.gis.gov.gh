@@ -1,0 +1,12 @@
+--2020-02-25 22:33:58--  http://www.gis.gov.gh/PDFs/criminal%2520procedure%2520code.pdf%0D
+Resolving www.gis.gov.gh (www.gis.gov.gh)... 197.253.124.98
+Connecting to www.gis.gov.gh (www.gis.gov.gh)|197.253.124.98|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:33:58 ERROR 404: Not Found.
+
+--2020-02-25 22:33:59--  http://www.gis.gov.gh/PDFs/criminal%2520procedure%2520code.pdf%0D
+Resolving www.gis.gov.gh (www.gis.gov.gh)... 197.253.124.98
+Connecting to www.gis.gov.gh (www.gis.gov.gh)|197.253.124.98|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:33:59 ERROR 404: Not Found.
+

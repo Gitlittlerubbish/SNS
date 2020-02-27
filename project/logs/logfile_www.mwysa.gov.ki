@@ -1,0 +1,6 @@
+--2020-02-25 23:10:49--  https://www.mwysa.gov.ki/downloads-section.raw%3Fview%3Ddocument%26id%3D8%0D
+Resolving www.mwysa.gov.ki (www.mwysa.gov.ki)... 209.182.200.165
+Connecting to www.mwysa.gov.ki (www.mwysa.gov.ki)|209.182.200.165|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:10:52 ERROR 500: Internal Server Error.
+

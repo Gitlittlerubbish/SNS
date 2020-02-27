@@ -1,0 +1,64 @@
+--2020-02-25 22:17:59--  https://www.jju.edu.et/docs/sm/uml.pdf%0D
+Resolving www.jju.edu.et (www.jju.edu.et)... 98.142.109.50
+Connecting to www.jju.edu.et (www.jju.edu.et)|98.142.109.50|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.jju.edu.et/404.php [following]
+--2020-02-25 22:17:59--  https://www.jju.edu.et/404.php
+Connecting to www.jju.edu.et (www.jju.edu.et)|98.142.109.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62332 (61K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 82% 2.22M 0s
+    50K ..........                                            100% 4.09G=0.2s
+
+2020-02-25 22:18:00 (2.70 Mb/s) - ‘/dev/null’ saved [62332/62332]
+
+--2020-02-25 22:18:00--  https://www.jju.edu.et/docs/sm/uml.pdf%0D
+Resolving www.jju.edu.et (www.jju.edu.et)... 98.142.109.50
+Connecting to www.jju.edu.et (www.jju.edu.et)|98.142.109.50|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.jju.edu.et/404.php [following]
+--2020-02-25 22:18:00--  https://www.jju.edu.et/404.php
+Connecting to www.jju.edu.et (www.jju.edu.et)|98.142.109.50|:443... connected.
+--2020-02-25 22:18:01--  https://www.jju.edu.et/docs/sm/uml.pdf%0D
+Resolving www.jju.edu.et (www.jju.edu.et)... 98.142.109.50
+Connecting to www.jju.edu.et (www.jju.edu.et)|98.142.109.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62332 (61K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .HTTP request sent, awaiting response... ......... .......... ..........302 Found
+Location: https://www.jju.edu.et/404.php [following]
+--2020-02-25 22:18:01--  https://www.jju.edu.et/404.php
+Connecting to www.jju.edu.et (www.jju.edu.et)|98.142.109.50|:443...  .......... 82% 2.22M 0s
+    50K ..........                                            100%  358M=0.2s
+
+2020-02-25 22:18:01 (2.70 Mb/s) - ‘/dev/null’ saved [62332/62332]
+
+connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62332 (61K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 82% 2.22M 0s
+    50K ..........                                            100%  318M=0.2s
+
+2020-02-25 22:18:02 (2.70 Mb/s) - ‘/dev/null’ saved [62332/62332]
+
+--2020-02-25 22:18:02--  https://www.jju.edu.et/docs/sm/uml.pdf%0D
+Resolving www.jju.edu.et (www.jju.edu.et)... 98.142.109.50
+Connecting to www.jju.edu.et (www.jju.edu.et)|98.142.109.50|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.jju.edu.et/404.php [following]
+--2020-02-25 22:18:02--  https://www.jju.edu.et/404.php
+Connecting to www.jju.edu.et (www.jju.edu.et)|98.142.109.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62332 (61K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 82% 2.22M 0s
+    50K ..........                                            100% 2.47G=0.2s
+
+2020-02-25 22:18:03 (2.71 Mb/s) - ‘/dev/null’ saved [62332/62332]
+

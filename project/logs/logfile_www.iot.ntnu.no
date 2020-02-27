@@ -1,0 +1,6 @@
+--2020-02-26 00:22:12--  http://www.iot.ntnu.no/users/sjurw/%0D
+Resolving www.iot.ntnu.no (www.iot.ntnu.no)... 129.241.155.21
+Connecting to www.iot.ntnu.no (www.iot.ntnu.no)|129.241.155.21|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:12 ERROR 400: Bad Request.
+

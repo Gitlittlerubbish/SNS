@@ -1,0 +1,22 @@
+--2020-02-25 22:20:45--  https://www.bpfbi.ac.fj/documents/20161228_news.pdf%0D
+Resolving www.bpfbi.ac.fj (www.bpfbi.ac.fj)... --2020-02-25 22:20:46--  https://www.bpfbi.ac.fj/documents/20161228_news.pdf%0D
+Resolving www.bpfbi.ac.fj (www.bpfbi.ac.fj)... 157.7.107.88
+Connecting to www.bpfbi.ac.fj (www.bpfbi.ac.fj)|157.7.107.88|:443... 157.7.107.88
+Connecting to www.bpfbi.ac.fj (www.bpfbi.ac.fj)|157.7.107.88|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.freebirdsecondary.com/documents/20161228_news.pdf%0d [following]
+--2020-02-25 22:20:47--  https://www.freebirdsecondary.com/documents/20161228_news.pdf%0d
+Resolving www.freebirdsecondary.com (www.freebirdsecondary.com)... 301 Moved Permanently
+Location: https://www.freebirdsecondary.com/documents/20161228_news.pdf%0d [following]
+--2020-02-25 22:20:47--  https://www.freebirdsecondary.com/documents/20161228_news.pdf%0d
+Resolving www.freebirdsecondary.com (www.freebirdsecondary.com)... 150.60.159.198
+Connecting to www.freebirdsecondary.com (www.freebirdsecondary.com)|150.60.159.198|:443... 150.60.159.198
+Connecting to www.freebirdsecondary.com (www.freebirdsecondary.com)|150.60.159.198|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:20:48 ERROR 403: Forbidden.
+
+403 Forbidden
+2020-02-25 22:20:48 ERROR 403: Forbidden.
+

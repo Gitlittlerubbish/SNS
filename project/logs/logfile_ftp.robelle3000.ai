@@ -1,0 +1,12 @@
+--2020-02-25 21:03:35--  ftp://ftp.robelle3000.ai/qrg/suprqrg56.pdf%0D
+           => ‘/dev/null’
+Resolving ftp.robelle3000.ai (ftp.robelle3000.ai)... 66.39.146.26
+Connecting to ftp.robelle3000.ai (ftp.robelle3000.ai)|66.39.146.26|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /qrg ... done.
+==> SIZE suprqrg56.pdf\r ... done.
+
+==> PASV ... done.    ==> RETR suprqrg56.pdf\r ... 
+No such file ‘suprqrg56.pdf\r’.
+

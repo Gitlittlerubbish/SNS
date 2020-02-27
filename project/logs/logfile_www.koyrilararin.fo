@@ -1,0 +1,96 @@
+--2020-02-25 22:19:43--  http://www.koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf%0D
+Resolving www.koyrilararin.fo (www.koyrilararin.fo)... --2020-02-25 22:19:43--  http://www.koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf%0D
+Resolving www.koyrilararin.fo (www.koyrilararin.fo)... 104.24.106.172, 104.24.107.172
+Connecting to www.koyrilararin.fo (www.koyrilararin.fo)|104.24.106.172|:80... 104.24.106.172, 104.24.107.172
+Connecting to www.koyrilararin.fo (www.koyrilararin.fo)|104.24.106.172|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf [following]
+--2020-02-25 22:19:43--  http://koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf
+Resolving koyrilararin.fo (koyrilararin.fo)... 104.24.106.172, 104.24.107.172
+Reusing existing connection to www.koyrilararin.fo:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf [following]
+--2020-02-25 22:19:43--  http://koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf
+Resolving koyrilararin.fo (koyrilararin.fo)... 104.24.106.172, 104.24.107.172
+Reusing existing connection to www.koyrilararin.fo:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 439440 (429K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11%  152M 0s
+    50K .......... .......... .......... .......... .......... 23%  211M 0s
+   100K .......... .......... .......... .......... .......... 34% 57.3M 0s
+   150K .......... .......... .......... .......... ........200 OK
+Length: 439440 (429K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ........... 46% 91.0M 0s
+   200K ....... .......... .......... 11%  869M 0s
+    50K .......... .......... .......... .......... .......... 23% 2.06G 0s
+   100K .......... .......... .......... .......... .......... 34% 1.03G 0s
+   150K .......... .......... .......... .......... .......... 46% 3.41G 0s
+   200K .......... .......... .............. .......... .......... .......... .......... 58%  125M 0s
+   250K .......... .......... .......... .......... .......... 69% 89.7M 0s
+   300K .......... .......... .......... .......... .......... 81%  278M 0s
+   350K .......... .......... .......... .......... .......... 93%  140M 0s
+   400K .......... .......... .........                       100% 4.79G=0.03s
+
+2020-02-25 22:19:43 (123 Mb/s) - ‘/dev/null’ saved [439440/439440]
+
+--2020-02-25 22:19:43--  http://www.koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf%0D
+Resolving www.koyrilararin.fo (www.koyrilararin.fo)... 104.24.106.172, 104.24.107.172
+Connecting to www.koyrilararin.fo (www.koyrilararin.fo)|104.24.106.172|:80... connected.
+HTTP request sent, awaiting response...  .......... .......... 58% 20.7M 0s
+   250K .......... .......... .......... .......... .......... 69% 13.3G 0s
+   300K .......... .......... .......... .......... .......... 81% 10.7G 0s
+   350K .......... .......... .......... .......... .......... 93% 12.1G 0s
+   400K .......... .......... .........                       100% 15.8G=0.02s
+
+2020-02-25 22:19:43 (167 Mb/s) - ‘/dev/null’ saved [439440/439440]
+
+--2020-02-25 22:19:43--  http://www.koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf%0D
+Resolving www.koyrilararin.fo (www.koyrilararin.fo)... 104.24.106.172, 104.24.107.172
+Connecting to www.koyrilararin.fo (www.koyrilararin.fo)|104.24.106.172|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf [following]
+--2020-02-25 22:19:43--  http://koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf
+Resolving koyrilararin.fo (koyrilararin.fo)... 104.24.106.172, 104.24.107.172
+Reusing existing connection to www.koyrilararin.fo:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 439440 (429K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11%  494M 0s
+    50K .......... .......... .......... .......... .......... 23% 1.71G 0s
+   100K .......... .......... .......... .......... ...301 Moved Permanently
+Location: http://koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf [following]
+--2020-02-25 22:19:43--  http://koyrilararin.fo/uploads/helper/hjalparin_2011_ferdslumerkingar.pdf
+Resolving koyrilararin.fo (koyrilararin.fo)... ....... 34%  440M 0s
+   150K .......... .......... .......... .......... .......... 46% 1.64G 0s
+   200K .......... .......... .........104.24.106.172, 104.24.107.172
+. .......... .......... 58% 1.52G 0s
+   250K ......Reusing existing connection to www.koyrilararin.fo:80.
+HTTP request sent, awaiting response... .... .......... .......... .......... .......... 69% 1.62G 0s
+   300K .......... .......... .......... .......... .......... 81% 3.78G 0s
+   350K .......... .......... .......... .......... .......... 93% 1.90G 0s
+   400K .......... .......... .........                       100% 2.30G=0.003s
+
+2020-02-25 22:19:43 (1.10 Gb/s) - ‘/dev/null’ saved [439440/439440]
+
+200 OK
+Length: 439440 (429K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11%  796M 0s
+    50K .......... .......... .......... .......... .......... 23% 6.65G 0s
+   100K .......... .......... .......... .......... .......... 34%  904M 0s
+   150K .......... .......... .......... .......... .......... 46% 1.41G 0s
+   200K .......... .......... .......... .......... .......... 58% 3.43G 0s
+   250K .......... .......... .......... .......... .......... 69% 2.25G 0s
+   300K .......... .......... .......... .......... .......... 81% 2.23G 0s
+   350K .......... .......... .......... .......... .......... 93% 5.76G 0s
+   400K .......... .......... .........                       100%  985M=0.002s
+
+2020-02-25 22:19:43 (1.66 Gb/s) - ‘/dev/null’ saved [439440/439440]
+

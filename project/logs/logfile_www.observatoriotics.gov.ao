@@ -1,0 +1,6 @@
+--2020-02-25 21:01:39--  http://www.observatoriotics.gov.ao/docs/relatorio_upu.pdf%0D
+Resolving www.observatoriotics.gov.ao (www.observatoriotics.gov.ao)... 154.116.255.131
+Connecting to www.observatoriotics.gov.ao (www.observatoriotics.gov.ao)|154.116.255.131|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:39 ERROR 400: Bad Request.
+

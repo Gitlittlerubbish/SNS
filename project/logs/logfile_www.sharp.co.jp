@@ -1,0 +1,11 @@
+--2020-02-25 23:02:52--  http://www.sharp.co.jp/support/air_purifier/doc/kcc_cleaning.pdf%0D
+Resolving www.sharp.co.jp (www.sharp.co.jp)... 87.248.214.1, 87.248.214.129
+Connecting to www.sharp.co.jp (www.sharp.co.jp)|87.248.214.1|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jp.sharp/support/air_purifier/doc/kcc_cleaning.pdf%0D [following]
+--2020-02-25 23:02:52--  https://jp.sharp/support/air_purifier/doc/kcc_cleaning.pdf%0D
+Resolving jp.sharp (jp.sharp)... 87.248.214.108, 87.248.214.163
+Connecting to jp.sharp (jp.sharp)|87.248.214.108|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:02:53 ERROR 404: Not Found.
+

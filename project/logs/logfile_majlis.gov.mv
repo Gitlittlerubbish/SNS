@@ -1,0 +1,6 @@
+--2020-02-25 23:33:56--  https://majlis.gov.mv/ipu.pdf%0D
+Resolving majlis.gov.mv (majlis.gov.mv)... 104.28.16.73, 104.28.17.73
+Connecting to majlis.gov.mv (majlis.gov.mv)|104.28.16.73|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:33:56 ERROR 404: Not Found.
+

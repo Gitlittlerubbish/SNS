@@ -1,0 +1,24 @@
+--2020-02-25 22:31:51--  https://www.lilly-pharma.de/de/pdf/gebrauchsinformationen/urologie/gebrauchsinformation_cialis_20mg.pdf%0D
+Resolving www.lilly-pharma.de (www.lilly-pharma.de)... 13.35.198.50, 13.35.198.110, 13.35.198.18, ...
+Connecting to www.lilly-pharma.de (www.lilly-pharma.de)|13.35.198.50|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:31:51 ERROR 400: Bad Request.
+
+--2020-02-25 22:31:51--  https://www.lilly-pharma.de/de/pdf/gebrauchsinformationen/urologie/gebrauchsinformation_cialis_20mg.pdf%0D
+Resolving www.lilly-pharma.de (www.lilly-pharma.de)... 13.35.198.106, 13.35.198.50, 13.35.198.110, ...
+Connecting to www.lilly-pharma.de (www.lilly-pharma.de)|13.35.198.106|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:31:51 ERROR 400: Bad Request.
+
+--2020-02-25 22:31:53--  https://www.lilly-pharma.de/de/pdf/gebrauchsinformationen/urologie/gebrauchsinformation_cialis_20mg.pdf%0D
+Resolving www.lilly-pharma.de (www.lilly-pharma.de)... 13.35.198.110, 13.35.198.18, 13.35.198.106, ...
+Connecting to www.lilly-pharma.de (www.lilly-pharma.de)|13.35.198.110|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:31:53 ERROR 400: Bad Request.
+
+--2020-02-25 22:31:53--  https://www.lilly-pharma.de/de/pdf/gebrauchsinformationen/urologie/gebrauchsinformation_cialis_20mg.pdf%0D
+Resolving www.lilly-pharma.de (www.lilly-pharma.de)... 13.35.198.110, 13.35.198.18, 13.35.198.106, ...
+Connecting to www.lilly-pharma.de (www.lilly-pharma.de)|13.35.198.110|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:31:53 ERROR 400: Bad Request.
+

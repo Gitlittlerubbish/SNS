@@ -1,0 +1,12 @@
+--2020-02-25 20:54:29--  https://www.un.am/up/file/Convention_on_chemical_weapons.pdf%0D
+Resolving www.un.am (www.un.am)... 108.167.141.196
+Connecting to www.un.am (www.un.am)|108.167.141.196|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:31 ERROR 404: Not Found.
+
+--2020-02-25 21:07:27--  https://www.un.am/up/file/Convention_on_chemical_weapons.pdf%0D
+Resolving www.un.am (www.un.am)... 108.167.141.196
+Connecting to www.un.am (www.un.am)|108.167.141.196|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:29 ERROR 404: Not Found.
+

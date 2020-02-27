@@ -1,0 +1,6 @@
+--2020-02-25 23:00:29--  http://www.galtirrenico.it/doc/guidance_clld_local_actors_it_traduzione_testo_sett_2014.pdf%0D
+Resolving www.galtirrenico.it (www.galtirrenico.it)... 31.11.33.138
+Connecting to www.galtirrenico.it (www.galtirrenico.it)|31.11.33.138|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:29 ERROR 400: Bad Request.
+

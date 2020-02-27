@@ -1,0 +1,6 @@
+--2020-02-25 23:08:10--  http://idea.pushkinlibrary.kz/text/ethics2009.pdf%0D
+Resolving idea.pushkinlibrary.kz (idea.pushkinlibrary.kz)... 82.200.247.240
+Connecting to idea.pushkinlibrary.kz (idea.pushkinlibrary.kz)|82.200.247.240|:80... connected.
+HTTP request sent, awaiting response... 500 Представление не найдено [name, type, prefix]: category, pdf, contentView
+2020-02-25 23:08:10 ERROR 500: Представление не найдено [name, type, prefix]: category, pdf, contentView.
+

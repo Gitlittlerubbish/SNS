@@ -1,0 +1,22 @@
+--2020-02-26 00:22:31--  https://www.idunn.no/file/ci/54913151/Bokspalte.pdf%0D
+Resolving www.idunn.no (www.idunn.no)... 87.238.34.206
+Connecting to www.idunn.no (www.idunn.no)|87.238.34.206|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29897 (29K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .........                       100% 6.87G=0s
+
+2020-02-26 00:22:32 (6.87 Gb/s) - ‘/dev/null’ saved [29897/29897]
+
+--2020-02-26 00:22:32--  https://www.idunn.no/file/ci/54913151/Bokspalte.pdf%0D
+Resolving www.idunn.no (www.idunn.no)... 87.238.34.206
+Connecting to www.idunn.no (www.idunn.no)|87.238.34.206|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29897 (29K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .........                       100% 6.19M=0.04s
+
+2020-02-26 00:22:32 (6.19 Mb/s) - ‘/dev/null’ saved [29897/29897]
+

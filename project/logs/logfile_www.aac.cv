@@ -1,0 +1,12 @@
+--2020-02-25 21:31:53--  https://www.aac.cv/documento/opendoc/1568304114_pt.pdf%0D
+Resolving www.aac.cv (www.aac.cv)... 108.167.165.122
+Connecting to www.aac.cv (www.aac.cv)|108.167.165.122|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:31:54 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:35:04--  https://www.aac.cv/documento/opendoc/1568304114_pt.pdf%0D
+Resolving www.aac.cv (www.aac.cv)... 108.167.165.122
+Connecting to www.aac.cv (www.aac.cv)|108.167.165.122|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:35:05 ERROR 500: Internal Server Error.
+

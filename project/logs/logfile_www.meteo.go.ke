@@ -1,0 +1,6 @@
+--2020-02-25 23:08:22--  https://www.meteo.go.ke/pdf/seasonal.pdf%0D
+Resolving www.meteo.go.ke (www.meteo.go.ke)... 41.215.70.187
+Connecting to www.meteo.go.ke (www.meteo.go.ke)|41.215.70.187|:443... connected.
+ERROR: cannot verify www.meteo.go.ke's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.meteo.go.ke insecurely, use `--no-check-certificate'.

@@ -1,0 +1,6 @@
+--2020-02-25 22:46:55--  http://www.sze.hu/~nemethgy/tetoszerkezetek.pdf%0D
+Resolving www.sze.hu (www.sze.hu)... 193.224.128.1
+Connecting to www.sze.hu (www.sze.hu)|193.224.128.1|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:46:55 ERROR 403: Forbidden.
+

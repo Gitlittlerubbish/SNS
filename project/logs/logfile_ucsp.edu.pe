@@ -1,0 +1,6 @@
+--2020-02-26 00:36:55--  http://ucsp.edu.pe/archivos/plano_de_ubicacion.pdf%0D
+Resolving ucsp.edu.pe (ucsp.edu.pe)... 70.32.81.160
+Connecting to ucsp.edu.pe (ucsp.edu.pe)|70.32.81.160|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:36:57 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:30:40--  http://www.zoetis.co.mw/_locale-assets/zoetis_brochure_alpha_final_9gq3dg.pdf%0D
+Resolving www.zoetis.co.mw (www.zoetis.co.mw)... 54.214.236.57, 54.245.242.205
+Connecting to www.zoetis.co.mw (www.zoetis.co.mw)|54.214.236.57|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:30:41 ERROR 400: Bad Request.
+

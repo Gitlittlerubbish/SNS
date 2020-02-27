@@ -1,0 +1,12 @@
+--2020-02-25 21:47:38--  http://qr.cx/D9is%0D
+Resolving qr.cx (qr.cx)... --2020-02-25 21:47:38--  http://qr.cx/D9is%0D
+Resolving qr.cx (qr.cx)... 188.40.208.65
+Connecting to qr.cx (qr.cx)|188.40.208.65|:80... 188.40.208.65
+Connecting to qr.cx (qr.cx)|188.40.208.65|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 21:47:38 ERROR 404: Not Found.
+
+2020-02-25 21:47:38 ERROR 404: Not Found.
+

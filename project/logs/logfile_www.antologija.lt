@@ -1,0 +1,11 @@
+--2020-02-25 23:25:18--  http://www.antologija.lt/pdf/59.pdf%0D
+Resolving www.antologija.lt (www.antologija.lt)... 185.5.53.22
+Connecting to www.antologija.lt (www.antologija.lt)|185.5.53.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://antologija.lt/pdf/59.pdf%0d [following]
+--2020-02-25 23:25:18--  http://antologija.lt/pdf/59.pdf%0d
+Resolving antologija.lt (antologija.lt)... 185.5.53.22
+Reusing existing connection to www.antologija.lt:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:25:18 ERROR 404: Not Found.
+

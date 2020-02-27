@@ -1,0 +1,12 @@
+--2020-02-25 21:17:32--  http://zuko.ba/pdf/pocetna/poduzeca_kontni_plan.pdf%0D
+Resolving zuko.ba (zuko.ba)... 199.250.201.8
+Connecting to zuko.ba (zuko.ba)|199.250.201.8|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:32 ERROR 404: Not Found.
+
+--2020-02-25 21:24:41--  http://zuko.ba/pdf/pocetna/poduzeca_kontni_plan.pdf%0D
+Resolving zuko.ba (zuko.ba)... 199.250.201.8
+Connecting to zuko.ba (zuko.ba)|199.250.201.8|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:41 ERROR 404: Not Found.
+

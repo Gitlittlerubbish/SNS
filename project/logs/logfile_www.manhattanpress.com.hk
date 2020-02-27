@@ -1,0 +1,6 @@
+--2020-02-25 22:46:22--  https://www.manhattanpress.com.hk/cgi-bin/sbGeog123/doc/Ebook/pdf/F1Ch10.pdf%0D
+Resolving www.manhattanpress.com.hk (www.manhattanpress.com.hk)... 202.74.40.127
+Connecting to www.manhattanpress.com.hk (www.manhattanpress.com.hk)|202.74.40.127|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:46:23 ERROR 400: Bad Request.
+

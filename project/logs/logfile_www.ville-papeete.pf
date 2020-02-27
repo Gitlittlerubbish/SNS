@@ -1,0 +1,12 @@
+--2020-02-25 22:24:50--  http://www.ville-papeete.pf/UserFiles/File/download/hono5.pdf%0D
+Resolving www.ville-papeete.pf (www.ville-papeete.pf)... --2020-02-25 22:24:50--  http://www.ville-papeete.pf/UserFiles/File/download/hono5.pdf%0D
+Resolving www.ville-papeete.pf (www.ville-papeete.pf)... 198.199.114.121
+Connecting to www.ville-papeete.pf (www.ville-papeete.pf)|198.199.114.121|:80... 198.199.114.121
+Connecting to www.ville-papeete.pf (www.ville-papeete.pf)|198.199.114.121|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:24:51 ERROR 403: Forbidden.
+
+403 Forbidden
+2020-02-25 22:24:51 ERROR 403: Forbidden.
+

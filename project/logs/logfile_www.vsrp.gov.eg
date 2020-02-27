@@ -1,0 +1,12 @@
+--2020-02-25 22:11:48--  http://www.vsrp.gov.eg/pdf/Bidding.pdf%0D
+Resolving www.vsrp.gov.eg (www.vsrp.gov.eg)... --2020-02-25 22:11:48--  http://www.vsrp.gov.eg/pdf/Bidding.pdf%0D
+Resolving www.vsrp.gov.eg (www.vsrp.gov.eg)... 23.97.208.18
+Connecting to www.vsrp.gov.eg (www.vsrp.gov.eg)|23.97.208.18|:80... connected.
+HTTP request sent, awaiting response... 23.97.208.18
+Connecting to www.vsrp.gov.eg (www.vsrp.gov.eg)|23.97.208.18|:80... 400 Bad Request
+2020-02-25 22:11:48 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:48 ERROR 400: Bad Request.
+

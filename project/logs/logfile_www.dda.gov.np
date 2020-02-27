@@ -1,0 +1,22 @@
+--2020-02-26 00:04:08--  http://www.dda.gov.np/download/Drugs_Act_2035.pdf%0D
+Resolving www.dda.gov.np (www.dda.gov.np)... 202.45.144.44
+Connecting to www.dda.gov.np (www.dda.gov.np)|202.45.144.44|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 49.9M=0s
+
+2020-02-26 00:04:09 (49.9 Mb/s) - ‘/dev/null’ saved [24/24]
+
+--2020-02-26 00:04:09--  http://www.dda.gov.np/download/Drugs_Act_2035.pdf%0D
+Resolving www.dda.gov.np (www.dda.gov.np)... 202.45.144.44
+Connecting to www.dda.gov.np (www.dda.gov.np)|202.45.144.44|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 48.9M=0s
+
+2020-02-26 00:04:10 (48.9 Mb/s) - ‘/dev/null’ saved [24/24]
+

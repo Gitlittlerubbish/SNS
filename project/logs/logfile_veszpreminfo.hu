@@ -1,0 +1,12 @@
+--2020-02-25 22:47:13--  https://veszpreminfo.hu/resources/downloadfile/852808%0D
+Resolving veszpreminfo.hu (veszpreminfo.hu)... 213.136.73.45
+Connecting to veszpreminfo.hu (veszpreminfo.hu)|213.136.73.45|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:47:13 ERROR 400: Bad Request.
+
+--2020-02-25 22:47:17--  https://veszpreminfo.hu/resources/downloadfile/852808%0D
+Resolving veszpreminfo.hu (veszpreminfo.hu)... 213.136.73.45
+Connecting to veszpreminfo.hu (veszpreminfo.hu)|213.136.73.45|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:47:17 ERROR 400: Bad Request.
+

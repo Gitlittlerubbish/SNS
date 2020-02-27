@@ -1,0 +1,12 @@
+--2020-02-25 21:21:24--  http://www.sbai.org.br/imageBank/loreni_anafilaxia_revisado.pdf%0D
+Resolving www.sbai.org.br (www.sbai.org.br)... 191.252.45.199
+Connecting to www.sbai.org.br (www.sbai.org.br)|191.252.45.199|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:21:25 ERROR 400: Bad Request.
+
+--2020-02-25 21:27:08--  http://www.sbai.org.br/imageBank/loreni_anafilaxia_revisado.pdf%0D
+Resolving www.sbai.org.br (www.sbai.org.br)... 191.252.45.199
+Connecting to www.sbai.org.br (www.sbai.org.br)|191.252.45.199|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:27:09 ERROR 400: Bad Request.
+

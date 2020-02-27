@@ -1,0 +1,6 @@
+--2020-02-25 23:05:00--  http://www.jerseycamping.org.je/newsletters/Jul-2011-Newsletter.pdf%0D
+Resolving www.jerseycamping.org.je (www.jerseycamping.org.je)... 193.201.42.23
+Connecting to www.jerseycamping.org.je (www.jerseycamping.org.je)|193.201.42.23|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 23:05:00 ERROR 403: Forbidden.
+

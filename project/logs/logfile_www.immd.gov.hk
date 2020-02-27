@@ -1,0 +1,12 @@
+--2020-02-25 22:44:56--  https://www.immd.gov.hk/pdforms/ID997.pdf%0D
+Resolving www.immd.gov.hk (www.immd.gov.hk)... 104.19.149.67, 104.19.148.67
+Connecting to www.immd.gov.hk (www.immd.gov.hk)|104.19.149.67|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:44:57 ERROR 404: Not Found.
+
+--2020-02-25 22:44:57--  https://www.immd.gov.hk/pdforms/ID990B.pdf%0D
+Resolving www.immd.gov.hk (www.immd.gov.hk)... 104.19.148.67, 104.19.149.67
+Connecting to www.immd.gov.hk (www.immd.gov.hk)|104.19.148.67|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:44:57 ERROR 404: Not Found.
+

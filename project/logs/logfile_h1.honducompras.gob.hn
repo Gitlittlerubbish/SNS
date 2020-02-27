@@ -1,0 +1,6 @@
+--2020-02-25 22:44:42--  http://h1.honducompras.gob.hn/ONCAE_DIAGRAMA/HTMLB/LCAE.pdf%0D
+Resolving h1.honducompras.gob.hn (h1.honducompras.gob.hn)... 192.100.171.30
+Connecting to h1.honducompras.gob.hn (h1.honducompras.gob.hn)|192.100.171.30|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:44:42 ERROR 400: Bad Request.
+

@@ -1,0 +1,22 @@
+--2020-02-26 00:23:10--  https://www.manpower.gov.om/OpenData/Incubator/Download%0D
+Resolving www.manpower.gov.om (www.manpower.gov.om)... 46.40.216.19
+Connecting to www.manpower.gov.om (www.manpower.gov.om)|46.40.216.19|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 47.1M=0s
+
+2020-02-26 00:23:11 (47.1 Mb/s) - ‘/dev/null’ saved [247/247]
+
+--2020-02-26 00:23:11--  https://www.manpower.gov.om/OpenData/Incubator/Download%0D
+Resolving www.manpower.gov.om (www.manpower.gov.om)... 46.40.216.19
+Connecting to www.manpower.gov.om (www.manpower.gov.om)|46.40.216.19|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 87.8M=0s
+
+2020-02-26 00:23:12 (87.8 Mb/s) - ‘/dev/null’ saved [247/247]
+

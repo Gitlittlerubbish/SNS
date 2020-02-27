@@ -1,0 +1,12 @@
+--2020-02-25 20:54:51--  https://www.e-register.am/am/docs/394%0D
+Resolving www.e-register.am (www.e-register.am)... 91.221.228.249
+Connecting to www.e-register.am (www.e-register.am)|91.221.228.249|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:52 ERROR 404: Not Found.
+
+--2020-02-25 21:07:43--  https://www.e-register.am/am/docs/394%0D
+Resolving www.e-register.am (www.e-register.am)... 91.221.228.249
+Connecting to www.e-register.am (www.e-register.am)|91.221.228.249|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:43 ERROR 404: Not Found.
+

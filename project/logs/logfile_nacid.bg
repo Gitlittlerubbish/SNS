@@ -1,0 +1,12 @@
+--2020-02-25 21:27:09--  https://nacid.bg/bg/att_files/KAP_QUAL_VUZ/Prilozhenie_2_2017.pdf%0D
+Resolving nacid.bg (nacid.bg)... 212.72.207.6
+Connecting to nacid.bg (nacid.bg)|212.72.207.6|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:27:09 ERROR 403: Forbidden.
+
+--2020-02-25 21:32:16--  https://nacid.bg/bg/att_files/KAP_QUAL_VUZ/Prilozhenie_2_2017.pdf%0D
+Resolving nacid.bg (nacid.bg)... 212.72.207.6
+Connecting to nacid.bg (nacid.bg)|212.72.207.6|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:32:16 ERROR 403: Forbidden.
+

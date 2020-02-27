@@ -1,0 +1,12 @@
+--2020-02-25 21:11:25--  http://www.latrattoria.bm/menu/dinner.pdf%0D
+Resolving www.latrattoria.bm (www.latrattoria.bm)... 50.116.16.213
+Connecting to www.latrattoria.bm (www.latrattoria.bm)|50.116.16.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:25 ERROR 404: Not Found.
+
+--2020-02-25 21:20:17--  http://www.latrattoria.bm/menu/dinner.pdf%0D
+Resolving www.latrattoria.bm (www.latrattoria.bm)... 50.116.16.213
+Connecting to www.latrattoria.bm (www.latrattoria.bm)|50.116.16.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:17 ERROR 404: Not Found.
+

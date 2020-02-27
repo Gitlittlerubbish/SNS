@@ -1,0 +1,12 @@
+--2020-02-25 20:58:24--  https://www.practicalcontrol.com.au/pdf_files/electrochemical/GMH3610_GMH3630_brochure.pdf%0D
+Resolving www.practicalcontrol.com.au (www.practicalcontrol.com.au)... 118.88.26.36
+Connecting to www.practicalcontrol.com.au (www.practicalcontrol.com.au)|118.88.26.36|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:58:26 ERROR 404: Not Found.
+
+--2020-02-25 21:10:40--  https://www.practicalcontrol.com.au/pdf_files/electrochemical/GMH3610_GMH3630_brochure.pdf%0D
+Resolving www.practicalcontrol.com.au (www.practicalcontrol.com.au)... 118.88.26.36
+Connecting to www.practicalcontrol.com.au (www.practicalcontrol.com.au)|118.88.26.36|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:10:42 ERROR 404: Not Found.
+

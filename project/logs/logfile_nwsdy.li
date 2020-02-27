@@ -1,0 +1,37 @@
+--2020-02-25 23:24:04--  http://nwsdy.li/socialsecurity2014%0D
+Resolving nwsdy.li (nwsdy.li)... 67.199.248.13, 67.199.248.12
+Connecting to nwsdy.li (nwsdy.li)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ssa.gov/news/press/factsheets/colafacts2014.html [following]
+--2020-02-25 23:24:04--  http://www.ssa.gov/news/press/factsheets/colafacts2014.html
+Resolving www.ssa.gov (www.ssa.gov)... 137.200.4.16
+Connecting to www.ssa.gov (www.ssa.gov)|137.200.4.16|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ssa.gov/news/press/factsheets/colafacts2014.html [following]
+--2020-02-25 23:24:05--  https://www.ssa.gov/news/press/factsheets/colafacts2014.html
+Connecting to www.ssa.gov (www.ssa.gov)|137.200.4.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 95.1M=0s
+
+2020-02-25 23:24:05 (95.1 Mb/s) - ‘/dev/null’ saved [85/85]
+
+--2020-02-25 23:24:05--  http://nwsdy.li/socialsecurity2014%0D
+Resolving nwsdy.li (nwsdy.li)... 67.199.248.13, 67.199.248.12
+Connecting to nwsdy.li (nwsdy.li)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ssa.gov/news/press/factsheets/colafacts2014.html [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 23:24:05--  https://www.ssa.gov/news/press/factsheets/colafacts2014.html
+Resolving www.ssa.gov (www.ssa.gov)... 137.200.4.16
+Connecting to www.ssa.gov (www.ssa.gov)|137.200.4.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  213M=0s
+
+2020-02-25 23:24:06 (213 Mb/s) - ‘/dev/null’ saved [85/85]
+

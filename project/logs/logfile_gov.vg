@@ -1,0 +1,24 @@
+--2020-02-25 21:25:22--  http://gov.vg/sites/default/files/resources/scv_code_july_2017.pdf%0D
+Resolving gov.vg (gov.vg)... 206.214.27.55
+Connecting to gov.vg (gov.vg)|206.214.27.55|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:23 ERROR 400: Bad Request.
+
+--2020-02-25 21:25:25--  http://gov.vg/sites/default/files/vacancy_05_of_2017_public_health_officer_i_health_surveillance_mhsd.pdf%0D
+Resolving gov.vg (gov.vg)... 206.214.27.55
+Connecting to gov.vg (gov.vg)|206.214.27.55|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:25 ERROR 400: Bad Request.
+
+--2020-02-25 21:30:44--  http://gov.vg/sites/default/files/resources/scv_code_july_2017.pdf%0D
+Resolving gov.vg (gov.vg)... 206.214.27.55
+Connecting to gov.vg (gov.vg)|206.214.27.55|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:30:45 ERROR 400: Bad Request.
+
+--2020-02-25 21:30:46--  http://gov.vg/sites/default/files/vacancy_05_of_2017_public_health_officer_i_health_surveillance_mhsd.pdf%0D
+Resolving gov.vg (gov.vg)... 206.214.27.55
+Connecting to gov.vg (gov.vg)|206.214.27.55|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:30:46 ERROR 400: Bad Request.
+

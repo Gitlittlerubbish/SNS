@@ -1,0 +1,6 @@
+--2020-02-25 22:56:26--  https://www.cwps.ie/_files/2015121591210_c8a5b43d.pdf%0D
+Resolving www.cwps.ie (www.cwps.ie)... 89.185.147.228
+Connecting to www.cwps.ie (www.cwps.ie)|89.185.147.228|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:56:27 ERROR 400: Bad Request.
+

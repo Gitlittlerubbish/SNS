@@ -1,0 +1,25 @@
+--2020-02-25 21:03:45--  https://www.sonalibank.com.bd/upload/fxrate.pdf%0D
+Resolving www.sonalibank.com.bd (www.sonalibank.com.bd)... failed: Connection timed out.
+wget: unable to resolve host address ‘www.sonalibank.com.bd’
+--2020-02-25 21:14:51--  https://www.sonalibank.com.bd/upload/fxrate.pdf%0D
+Resolving www.sonalibank.com.bd (www.sonalibank.com.bd)... 206.225.83.57
+Connecting to www.sonalibank.com.bd (www.sonalibank.com.bd)|206.225.83.57|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......                           136M=0.002s
+
+2020-02-25 21:14:52 (136 Mb/s) - ‘/dev/null’ saved [28154]
+
+--2020-02-25 21:14:52--  https://www.sonalibank.com.bd/upload/fxrate.pdf%0D
+Resolving www.sonalibank.com.bd (www.sonalibank.com.bd)... 206.225.83.57
+Connecting to www.sonalibank.com.bd (www.sonalibank.com.bd)|206.225.83.57|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......                           265M=0.001s
+
+2020-02-25 21:14:52 (265 Mb/s) - ‘/dev/null’ saved [28154]
+

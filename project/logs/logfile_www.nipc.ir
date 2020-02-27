@@ -1,0 +1,10 @@
+--2020-02-25 22:54:32--  http://www.nipc.ir/uploads/Ethical_decision_9905.pdf%0D
+Resolving www.nipc.ir (www.nipc.ir)... 185.143.234.5, 185.143.233.5
+Connecting to www.nipc.ir (www.nipc.ir)|185.143.234.5|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nipc.ir/uploads/Ethical_decision_9905.pdf%0D [following]
+--2020-02-25 22:54:32--  https://www.nipc.ir/uploads/Ethical_decision_9905.pdf%0D
+Connecting to www.nipc.ir (www.nipc.ir)|185.143.234.5|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:54:33 ERROR 400: Bad Request.
+

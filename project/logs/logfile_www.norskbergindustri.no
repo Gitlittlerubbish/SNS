@@ -1,0 +1,6 @@
+--2020-02-26 00:22:18--  https://www.norskbergindustri.no/siteassets/publikasjoner/veikart.pdf%0D
+Resolving www.norskbergindustri.no (www.norskbergindustri.no)... 193.213.245.70
+Connecting to www.norskbergindustri.no (www.norskbergindustri.no)|193.213.245.70|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:18 ERROR 400: Bad Request.
+

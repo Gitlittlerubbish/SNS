@@ -1,0 +1,12 @@
+--2020-02-25 21:17:12--  http://lawinstitute.ba/docs/Finalna_analiza_web.pdf%0D
+Resolving lawinstitute.ba (lawinstitute.ba)... 204.93.174.136
+Connecting to lawinstitute.ba (lawinstitute.ba)|204.93.174.136|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:24:24--  http://lawinstitute.ba/docs/Finalna_analiza_web.pdf%0D
+Resolving lawinstitute.ba (lawinstitute.ba)... 204.93.174.136
+Connecting to lawinstitute.ba (lawinstitute.ba)|204.93.174.136|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:27 ERROR 404: Not Found.
+

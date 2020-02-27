@@ -1,0 +1,6 @@
+--2020-02-25 23:01:55--  http://www.rehab.go.jp/ddis_pdf/105l.pdf%0D
+Resolving www.rehab.go.jp (www.rehab.go.jp)... 210.146.67.5
+Connecting to www.rehab.go.jp (www.rehab.go.jp)|210.146.67.5|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:01:56 ERROR 404: Not Found.
+

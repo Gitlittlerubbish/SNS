@@ -1,0 +1,30 @@
+--2020-02-25 22:00:15--  http://www.sgg.gouv.ci/photo_doc/1399281952Decret_N_2013_279_du_24_avril_2013.pdf%0D
+Resolving www.sgg.gouv.ci (www.sgg.gouv.ci)... 164.160.41.77
+Connecting to www.sgg.gouv.ci (www.sgg.gouv.ci)|164.160.41.77|:80... --2020-02-25 22:00:16--  http://www.sgg.gouv.ci/photo_doc/1399281952Decret_N_2013_279_du_24_avril_2013.pdf%0D
+Resolving www.sgg.gouv.ci (www.sgg.gouv.ci)... 164.160.41.77
+Connecting to www.sgg.gouv.ci (www.sgg.gouv.ci)|164.160.41.77|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 22:00:16--  http://secure.sndi.ci/Interdit.xml
+Resolving secure.sndi.ci (secure.sndi.ci)... 164.160.41.79
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:80... 302 Found
+Location: http://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 22:00:16--  http://secure.sndi.ci/Interdit.xml
+Resolving secure.sndi.ci (secure.sndi.ci)... 164.160.41.79
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 22:00:16--  https://secure.sndi.ci/Interdit.xml
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:443... 301 Moved Permanently
+Location: https://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 22:00:16--  https://secure.sndi.ci/Interdit.xml
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 503 Service Temporarily Unavailable
+2020-02-25 22:00:16 ERROR 503: Service Temporarily Unavailable.
+
+503 Service Temporarily Unavailable
+2020-02-25 22:00:16 ERROR 503: Service Temporarily Unavailable.
+

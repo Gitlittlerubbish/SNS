@@ -1,0 +1,12 @@
+--2020-02-25 21:11:18--  https://www.bermudamotors.bm/s/land_cruiser70.pdf%0D
+Resolving www.bermudamotors.bm (www.bermudamotors.bm)... 198.185.159.145, 198.49.23.144, 198.49.23.145, ...
+Connecting to www.bermudamotors.bm (www.bermudamotors.bm)|198.185.159.145|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:19 ERROR 404: Not Found.
+
+--2020-02-25 21:20:12--  https://www.bermudamotors.bm/s/land_cruiser70.pdf%0D
+Resolving www.bermudamotors.bm (www.bermudamotors.bm)... 198.49.23.144, 198.49.23.145, 198.185.159.144, ...
+Connecting to www.bermudamotors.bm (www.bermudamotors.bm)|198.49.23.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:13 ERROR 404: Not Found.
+

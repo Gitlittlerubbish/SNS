@@ -1,0 +1,12 @@
+--2020-02-25 22:06:36--  https://danskebank.dk/PDF/GDPR/Danske_Bank_privacy_notice.pdf%0D
+Resolving danskebank.dk (danskebank.dk)... --2020-02-25 22:06:36--  https://danskebank.dk/PDF/GDPR/Danske_Bank_privacy_notice.pdf%0D
+Resolving danskebank.dk (danskebank.dk)... 212.93.61.104, 212.93.59.104
+Connecting to danskebank.dk (danskebank.dk)|212.93.61.104|:443... 212.93.61.104, 212.93.59.104
+Connecting to danskebank.dk (danskebank.dk)|212.93.61.104|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:06:37 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:06:37 ERROR 400: Bad Request.
+

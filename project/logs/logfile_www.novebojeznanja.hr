@@ -1,0 +1,12 @@
+--2020-02-25 22:01:13--  http://www.novebojeznanja.hr/UserDocsImages/datoteke/KB_web.pdf%0D
+Resolving www.novebojeznanja.hr (www.novebojeznanja.hr)... --2020-02-25 22:01:13--  http://www.novebojeznanja.hr/UserDocsImages/datoteke/KB_web.pdf%0D
+Resolving www.novebojeznanja.hr (www.novebojeznanja.hr)... 185.20.29.90
+Connecting to www.novebojeznanja.hr (www.novebojeznanja.hr)|185.20.29.90|:80... 185.20.29.90
+Connecting to www.novebojeznanja.hr (www.novebojeznanja.hr)|185.20.29.90|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:14 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:01:14 ERROR 400: Bad Request.
+

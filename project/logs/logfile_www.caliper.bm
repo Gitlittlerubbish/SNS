@@ -1,0 +1,24 @@
+--2020-02-25 21:11:40--  http://www.caliper.bm/hse/environment/Health070423.pdf%0D
+Resolving www.caliper.bm (www.caliper.bm)... 173.254.28.76
+Connecting to www.caliper.bm (www.caliper.bm)|173.254.28.76|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:40 ERROR 404: Not Found.
+
+--2020-02-25 21:11:53--  http://www.caliper.bm/hse/safety/safety-20070115.pdf%0D
+Resolving www.caliper.bm (www.caliper.bm)... 173.254.28.76
+Connecting to www.caliper.bm (www.caliper.bm)|173.254.28.76|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:53 ERROR 404: Not Found.
+
+--2020-02-25 21:20:31--  http://www.caliper.bm/hse/environment/Health070423.pdf%0D
+Resolving www.caliper.bm (www.caliper.bm)... 173.254.28.76
+Connecting to www.caliper.bm (www.caliper.bm)|173.254.28.76|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:31 ERROR 404: Not Found.
+
+--2020-02-25 21:20:42--  http://www.caliper.bm/hse/safety/safety-20070115.pdf%0D
+Resolving www.caliper.bm (www.caliper.bm)... 173.254.28.76
+Connecting to www.caliper.bm (www.caliper.bm)|173.254.28.76|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:42 ERROR 404: Not Found.
+

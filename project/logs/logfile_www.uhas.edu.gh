@@ -1,0 +1,76 @@
+--2020-02-25 22:32:56--  http://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0D
+Resolving www.uhas.edu.gh (www.uhas.edu.gh)... --2020-02-25 22:32:56--  http://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0D
+Resolving www.uhas.edu.gh (www.uhas.edu.gh)... 192.185.99.222
+Connecting to www.uhas.edu.gh (www.uhas.edu.gh)|192.185.99.222|:80... 192.185.99.222
+Connecting to www.uhas.edu.gh (www.uhas.edu.gh)|192.185.99.222|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0d [following]
+--2020-02-25 22:32:56--  https://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0d
+Connecting to www.uhas.edu.gh (www.uhas.edu.gh)|192.185.99.222|:443... 301 Moved Permanently
+Location: https://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0d [following]
+--2020-02-25 22:32:56--  https://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0d
+Connecting to www.uhas.edu.gh (www.uhas.edu.gh)|192.185.99.222|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 303 See other
+Location: https://www.uhas.edu.gh/en/downloads/sahs/TIPS_FOR_INTERVIEW.pdf [following]
+--2020-02-25 22:32:57--  https://www.uhas.edu.gh/en/downloads/sahs/TIPS_FOR_INTERVIEW.pdf
+303 See other
+Reusing existing connection to www.uhas.edu.gh:443.
+HTTP request sent, awaiting response... Location: https://www.uhas.edu.gh/en/downloads/sahs/TIPS_FOR_INTERVIEW.pdf [following]
+--2020-02-25 22:32:57--  https://www.uhas.edu.gh/en/downloads/sahs/TIPS_FOR_INTERVIEW.pdf
+Reusing existing connection to www.uhas.edu.gh:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         730M=0s
+
+2020-02-25 22:32:58 (730 Mb/s) - ‘/dev/null’ saved [544]
+
+--2020-02-25 22:32:58--  http://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0D
+Resolving www.uhas.edu.gh (www.uhas.edu.gh)... 192.185.99.222
+Connecting to www.uhas.edu.gh (www.uhas.edu.gh)|192.185.99.222|:80... 
+     0K                                                         795M=0s
+
+2020-02-25 22:32:58 (795 Mb/s) - ‘/dev/null’ saved [544]
+
+--2020-02-25 22:32:58--  http://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0D
+Resolving www.uhas.edu.gh (www.uhas.edu.gh)... 192.185.99.222
+Connecting to www.uhas.edu.gh (www.uhas.edu.gh)|192.185.99.222|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0d [following]
+--2020-02-25 22:32:58--  https://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0d
+Connecting to www.uhas.edu.gh (www.uhas.edu.gh)|192.185.99.222|:443... 301 Moved Permanently
+Location: https://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0d [following]
+--2020-02-25 22:32:58--  https://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf%0d
+Connecting to www.uhas.edu.gh (www.uhas.edu.gh)|192.185.99.222|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 303 See other
+Location: https://www.uhas.edu.gh/en/downloads/sahs/TIPS_FOR_INTERVIEW.pdf [following]
+--2020-02-25 22:32:59--  https://www.uhas.edu.gh/en/downloads/sahs/TIPS_FOR_INTERVIEW.pdf
+Reusing existing connection to www.uhas.edu.gh:443.
+HTTP request sent, awaiting response... 303 See other
+Location: https://www.uhas.edu.gh/en/downloads/sahs/TIPS_FOR_INTERVIEW.pdf [following]
+--2020-02-25 22:32:59--  https://www.uhas.edu.gh/en/downloads/sahs/TIPS_FOR_INTERVIEW.pdf
+Reusing existing connection to www.uhas.edu.gh:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         741M=0s
+
+2020-02-25 22:32:59 (741 Mb/s) - ‘/dev/null’ saved [544]
+
+
+     0K                                                         894M=0s
+
+2020-02-25 22:32:59 (894 Mb/s) - ‘/dev/null’ saved [544]
+

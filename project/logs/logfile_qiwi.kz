@@ -1,0 +1,12 @@
+--2020-02-25 23:07:21--  https://qiwi.kz/data/Dogovor_na_okazanie_platezhnih_uslug_agent_rus.pdf%0D
+Resolving qiwi.kz (qiwi.kz)... 185.146.1.121
+Connecting to qiwi.kz (qiwi.kz)|185.146.1.121|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:07:21 ERROR 400: Bad Request.
+
+--2020-02-25 23:07:31--  https://qiwi.kz/Data/oferta_qvp.pdf%0D
+Resolving qiwi.kz (qiwi.kz)... 185.146.1.121
+Connecting to qiwi.kz (qiwi.kz)|185.146.1.121|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:07:31 ERROR 400: Bad Request.
+

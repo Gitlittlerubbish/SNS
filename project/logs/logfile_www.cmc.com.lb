@@ -1,0 +1,12 @@
+--2020-02-25 23:21:14--  https://www.cmc.com.lb/uploads/physicians/Claude_Tayar.pdf%0D
+Resolving www.cmc.com.lb (www.cmc.com.lb)... 179.61.137.120
+Connecting to www.cmc.com.lb (www.cmc.com.lb)|179.61.137.120|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:21:15 ERROR 500: Internal Server Error.
+
+--2020-02-25 23:21:15--  https://www.cmc.com.lb/uploads/physicians/Ammar_Ghazale.pdf%0D
+Resolving www.cmc.com.lb (www.cmc.com.lb)... 179.61.137.120
+Connecting to www.cmc.com.lb (www.cmc.com.lb)|179.61.137.120|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:21:15 ERROR 500: Internal Server Error.
+

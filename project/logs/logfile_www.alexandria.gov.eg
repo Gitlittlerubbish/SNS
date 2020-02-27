@@ -1,0 +1,12 @@
+--2020-02-25 22:11:56--  http://www.alexandria.gov.eg/invest/DocLib4/3.pdf%0D
+Resolving www.alexandria.gov.eg (www.alexandria.gov.eg)... 52.164.240.34
+Connecting to www.alexandria.gov.eg (www.alexandria.gov.eg)|52.164.240.34|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:56 ERROR 400: Bad Request.
+
+--2020-02-25 22:11:57--  http://www.alexandria.gov.eg/invest/DocLib4/3.pdf%0D
+Resolving www.alexandria.gov.eg (www.alexandria.gov.eg)... 52.164.240.34
+Connecting to www.alexandria.gov.eg (www.alexandria.gov.eg)|52.164.240.34|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:57 ERROR 400: Bad Request.
+

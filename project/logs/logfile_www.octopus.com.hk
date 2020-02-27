@@ -1,0 +1,6 @@
+--2020-02-25 22:45:09--  http://www.octopus.com.hk/coi/tc%0D
+Resolving www.octopus.com.hk (www.octopus.com.hk)... 2.22.135.157
+Connecting to www.octopus.com.hk (www.octopus.com.hk)|2.22.135.157|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:45:10 ERROR 404: Not Found.
+

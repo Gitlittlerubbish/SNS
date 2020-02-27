@@ -1,0 +1,40 @@
+--2020-02-25 22:55:52--  http://meteoseism.gov.iq/upload/upfile/ar/1203.pdf%0D
+Resolving meteoseism.gov.iq (meteoseism.gov.iq)... 66.111.53.230
+Connecting to meteoseism.gov.iq (meteoseism.gov.iq)|66.111.53.230|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://firewallgateway.com/error/browsernotallowed [following]
+--2020-02-25 22:55:52--  http://firewallgateway.com/error/browsernotallowed
+Resolving firewallgateway.com (firewallgateway.com)... 50.116.92.26
+Connecting to firewallgateway.com (firewallgateway.com)|50.116.92.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://firewallgateway.com/error/browsernotallowed/ [following]
+--2020-02-25 22:55:52--  http://firewallgateway.com/error/browsernotallowed/
+Reusing existing connection to firewallgateway.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2796 (2.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 5.81G=0s
+
+2020-02-25 22:55:52 (5.81 Gb/s) - ‘/dev/null’ saved [2796/2796]
+
+--2020-02-25 22:55:52--  http://meteoseism.gov.iq/upload/upfile/ar/1203.pdf%0D
+Resolving meteoseism.gov.iq (meteoseism.gov.iq)... 66.111.53.230
+Connecting to meteoseism.gov.iq (meteoseism.gov.iq)|66.111.53.230|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://firewallgateway.com/error/browsernotallowed [following]
+--2020-02-25 22:55:53--  http://firewallgateway.com/error/browsernotallowed
+Resolving firewallgateway.com (firewallgateway.com)... 50.116.92.26
+Connecting to firewallgateway.com (firewallgateway.com)|50.116.92.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://firewallgateway.com/error/browsernotallowed/ [following]
+--2020-02-25 22:55:53--  http://firewallgateway.com/error/browsernotallowed/
+Reusing existing connection to firewallgateway.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2796 (2.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 2.58G=0s
+
+2020-02-25 22:55:53 (2.58 Gb/s) - ‘/dev/null’ saved [2796/2796]
+

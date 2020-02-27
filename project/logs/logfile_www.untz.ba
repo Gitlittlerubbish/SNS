@@ -1,0 +1,12 @@
+--2020-02-25 21:16:56--  http://www.untz.ba/uploads/file/akti/Pravilnik_o_postupku_direktnog_sporazuma_na_UNTZ_24_03_2015.pdf%0D
+Resolving www.untz.ba (www.untz.ba)... 80.65.66.243
+Connecting to www.untz.ba (www.untz.ba)|80.65.66.243|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:56 ERROR 404: Not Found.
+
+--2020-02-25 21:24:13--  http://www.untz.ba/uploads/file/akti/Pravilnik_o_postupku_direktnog_sporazuma_na_UNTZ_24_03_2015.pdf%0D
+Resolving www.untz.ba (www.untz.ba)... 80.65.66.243
+Connecting to www.untz.ba (www.untz.ba)|80.65.66.243|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:13 ERROR 404: Not Found.
+

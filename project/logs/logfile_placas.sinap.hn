@@ -1,0 +1,10 @@
+--2020-02-25 22:44:08--  http://placas.sinap.hn/Formularios/150%0D
+Resolving placas.sinap.hn (placas.sinap.hn)... 181.189.229.242
+Connecting to placas.sinap.hn (placas.sinap.hn)|181.189.229.242|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:44:09 ERROR 400: Bad Request.
+
+--2020-02-25 22:44:12--  https://placas.sinap.hn/Formularios/500%0D
+Resolving placas.sinap.hn (placas.sinap.hn)... 181.189.229.242
+Connecting to placas.sinap.hn (placas.sinap.hn)|181.189.229.242|:443... connected.
+Unable to establish SSL connection.

@@ -1,0 +1,12 @@
+--2020-02-25 20:58:21--  http://www.caninecancer.org.au/Onco%2520Hemangiosarcoma.pdf%0D
+Resolving www.caninecancer.org.au (www.caninecancer.org.au)... 66.96.149.27
+Connecting to www.caninecancer.org.au (www.caninecancer.org.au)|66.96.149.27|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:58:21 ERROR 400: Bad Request.
+
+--2020-02-25 21:10:38--  http://www.caninecancer.org.au/Onco%2520Hemangiosarcoma.pdf%0D
+Resolving www.caninecancer.org.au (www.caninecancer.org.au)... 66.96.149.27
+Connecting to www.caninecancer.org.au (www.caninecancer.org.au)|66.96.149.27|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:10:38 ERROR 400: Bad Request.
+

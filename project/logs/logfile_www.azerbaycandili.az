@@ -1,0 +1,12 @@
+--2020-02-25 21:01:23--  http://www.azerbaycandili.az/Literatures/Download/85/Turk_dili.pdf%0D
+Resolving www.azerbaycandili.az (www.azerbaycandili.az)... 185.147.24.3
+Connecting to www.azerbaycandili.az (www.azerbaycandili.az)|185.147.24.3|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:23 ERROR 400: Bad Request.
+
+--2020-02-25 21:12:56--  http://www.azerbaycandili.az/Literatures/Download/85/Turk_dili.pdf%0D
+Resolving www.azerbaycandili.az (www.azerbaycandili.az)... 185.147.24.3
+Connecting to www.azerbaycandili.az (www.azerbaycandili.az)|185.147.24.3|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:12:56 ERROR 400: Bad Request.
+

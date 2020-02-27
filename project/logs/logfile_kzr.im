@@ -1,0 +1,10 @@
+--2020-02-25 22:57:23--  https://kzr.im/IssKX%0D
+Resolving kzr.im (kzr.im)... 195.154.40.252
+Connecting to kzr.im (kzr.im)|195.154.40.252|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://kzr.im [following]
+--2020-02-25 22:57:23--  https://kzr.im/
+Reusing existing connection to kzr.im:443.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:57:23 ERROR 403: Forbidden.
+

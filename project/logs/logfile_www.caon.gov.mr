@@ -1,0 +1,6 @@
+--2020-02-25 23:44:16--  http://www.caon.gov.mr/img/pdf/Guide_FIDA_S_E_module_8.pdf%0D
+Resolving www.caon.gov.mr (www.caon.gov.mr)... 82.151.65.232
+Connecting to www.caon.gov.mr (www.caon.gov.mr)|82.151.65.232|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:44:17 ERROR 400: Bad Request.
+

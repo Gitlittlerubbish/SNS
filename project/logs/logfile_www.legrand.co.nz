@@ -1,0 +1,6 @@
+--2020-02-26 00:13:10--  http://www.legrand.co.nz/uploads/tx_sbdownloader/Legrand_Lighting_Management_Sensor_Brochure_AU_03_18082017.pdf%0D
+Resolving www.legrand.co.nz (www.legrand.co.nz)... 54.252.214.18
+Connecting to www.legrand.co.nz (www.legrand.co.nz)|54.252.214.18|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:13:11 ERROR 403: Forbidden.
+

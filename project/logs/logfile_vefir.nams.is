@@ -1,0 +1,12 @@
+--2020-02-25 22:49:07--  https://vefir.nams.is/thrautir/thrautir.pdf%0D
+Resolving vefir.nams.is (vefir.nams.is)... 104.27.175.51, 104.27.174.51
+Connecting to vefir.nams.is (vefir.nams.is)|104.27.175.51|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://vefir.mms.is/thrautir/thrautir.pdf%0D [following]
+--2020-02-25 22:49:07--  https://vefir.mms.is/thrautir/thrautir.pdf%0D
+Resolving vefir.mms.is (vefir.mms.is)... 104.26.7.146, 104.26.6.146
+Connecting to vefir.mms.is (vefir.mms.is)|104.26.7.146|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Cookie coming from vefir.mms.is attempted to set domain to mms.is
+2020-02-25 22:49:08 ERROR 404: Not Found.
+

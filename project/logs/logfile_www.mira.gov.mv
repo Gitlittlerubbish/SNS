@@ -1,0 +1,6 @@
+--2020-02-25 23:33:58--  https://www.mira.gov.mv/laws_regulations/BPT_Regulation_English2.pdf%0D
+Resolving www.mira.gov.mv (www.mira.gov.mv)... 202.1.195.140
+Connecting to www.mira.gov.mv (www.mira.gov.mv)|202.1.195.140|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:33:59 ERROR 400: Bad Request.
+

@@ -1,0 +1,20 @@
+--2020-02-25 21:08:06--  http://mng.bz/nQZK%0D
+Resolving mng.bz (mng.bz)... 35.166.24.88
+Connecting to mng.bz (mng.bz)|35.166.24.88|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mng.bz/nQZK%0D [following]
+--2020-02-25 21:08:07--  https://mng.bz/nQZK%0D
+Connecting to mng.bz (mng.bz)|35.166.24.88|:443... connected.
+ERROR: cannot verify mng.bz's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to mng.bz insecurely, use `--no-check-certificate'.
+--2020-02-25 21:17:59--  http://mng.bz/nQZK%0D
+Resolving mng.bz (mng.bz)... 35.166.24.88
+Connecting to mng.bz (mng.bz)|35.166.24.88|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mng.bz/nQZK%0D [following]
+--2020-02-25 21:18:00--  https://mng.bz/nQZK%0D
+Connecting to mng.bz (mng.bz)|35.166.24.88|:443... connected.
+ERROR: cannot verify mng.bz's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to mng.bz insecurely, use `--no-check-certificate'.

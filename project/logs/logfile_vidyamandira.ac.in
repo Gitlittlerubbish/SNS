@@ -1,0 +1,6 @@
+--2020-02-25 22:51:02--  http://vidyamandira.ac.in/pdfs/exam_regulations_for_UG_students.pdf%0D
+Resolving vidyamandira.ac.in (vidyamandira.ac.in)... 103.53.40.15
+Connecting to vidyamandira.ac.in (vidyamandira.ac.in)|103.53.40.15|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:51:03 ERROR 400: Bad Request.
+

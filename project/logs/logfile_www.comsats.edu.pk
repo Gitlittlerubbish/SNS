@@ -1,0 +1,6 @@
+--2020-02-26 00:24:43--  https://www.comsats.edu.pk/NEFiles/eligibilitycriteria.pdf%0D
+Resolving www.comsats.edu.pk (www.comsats.edu.pk)... 210.56.11.84
+Connecting to www.comsats.edu.pk (www.comsats.edu.pk)|210.56.11.84|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:24:44 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:41:46--  http://www.ipv.pt/despacho17ei16.pdf%0D
+Resolving www.ipv.pt (www.ipv.pt)... 193.137.7.225
+Connecting to www.ipv.pt (www.ipv.pt)|193.137.7.225|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:41:46 ERROR 400: Bad Request.
+

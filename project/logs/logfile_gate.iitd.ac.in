@@ -1,0 +1,12 @@
+--2020-02-25 22:49:27--  http://gate.iitd.ac.in/OldQP/2019QP_AR.pdf%0D
+Resolving gate.iitd.ac.in (gate.iitd.ac.in)... 103.27.9.172
+Connecting to gate.iitd.ac.in (gate.iitd.ac.in)|103.27.9.172|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:49:28 ERROR 404: Not Found.
+
+--2020-02-25 22:49:28--  http://gate.iitd.ac.in/OldQP/2019QP_CH.pdf%0D
+Resolving gate.iitd.ac.in (gate.iitd.ac.in)... 103.27.9.172
+Connecting to gate.iitd.ac.in (gate.iitd.ac.in)|103.27.9.172|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:49:28 ERROR 404: Not Found.
+

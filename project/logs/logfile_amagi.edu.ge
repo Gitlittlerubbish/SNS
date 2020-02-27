@@ -1,0 +1,44 @@
+--2020-02-25 22:31:03--  http://amagi.edu.ge/tinyImage/employer.pdf%0D
+Resolving amagi.edu.ge (amagi.edu.ge)... 91.212.213.12
+Connecting to amagi.edu.ge (amagi.edu.ge)|91.212.213.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ..--2020-02-25 22:31:04--  http://amagi.edu.ge/tinyImage/employer.pdf%0D
+Resolving amagi.edu.ge (amagi.edu.ge)... 91.212.213.12
+Connecting to amagi.edu.ge (amagi.edu.ge)|91.212.213.12|:80... ........ ...                              2.13M=0.09s
+
+2020-02-25 22:31:04 (2.13 Mb/s) - ‘/dev/null’ saved [23852]
+
+--2020-02-25 22:31:04--  http://amagi.edu.ge/tinyImage/employer.pdf%0D
+Resolving amagi.edu.ge (amagi.edu.ge)... 91.212.213.12
+Connecting to amagi.edu.ge (amagi.edu.ge)|91.212.213.12|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ..200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                              2.07M=0.09s
+
+2020-02-25 22:31:04 (2.07 Mb/s) - ‘/dev/null’ saved [23852]
+
+--2020-02-25 22:31:04--  http://amagi.edu.ge/tinyImage/employer.pdf%0D
+Resolving amagi.edu.ge (amagi.edu.ge)... 91.212.213.12
+Connecting to amagi.edu.ge (amagi.edu.ge)|91.212.213.12|:80... ........ ...                              2.09M=0.09s
+
+2020-02-25 22:31:04 (2.09 Mb/s) - ‘/dev/null’ saved [23852]
+
+connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                              2.13M=0.09s
+
+2020-02-25 22:31:04 (2.13 Mb/s) - ‘/dev/null’ saved [23852]
+

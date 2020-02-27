@@ -1,0 +1,22 @@
+--2020-02-25 21:05:06--  http://www.ssl.com.bd/download/file/fid/906%0D
+Resolving www.ssl.com.bd (www.ssl.com.bd)... 192.185.103.141
+Connecting to www.ssl.com.bd (www.ssl.com.bd)|192.185.103.141|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ssl.com.bd/download/file/fid/906%0d [following]
+--2020-02-25 21:05:06--  https://ssl.com.bd/download/file/fid/906%0d
+Resolving ssl.com.bd (ssl.com.bd)... 192.185.103.141
+Connecting to ssl.com.bd (ssl.com.bd)|192.185.103.141|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:05:09 ERROR 404: Not Found.
+
+--2020-02-25 21:15:41--  http://www.ssl.com.bd/download/file/fid/906%0D
+Resolving www.ssl.com.bd (www.ssl.com.bd)... 192.185.103.141
+Connecting to www.ssl.com.bd (www.ssl.com.bd)|192.185.103.141|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ssl.com.bd/download/file/fid/906%0d [following]
+--2020-02-25 21:15:41--  https://ssl.com.bd/download/file/fid/906%0d
+Resolving ssl.com.bd (ssl.com.bd)... 192.185.103.141
+Connecting to ssl.com.bd (ssl.com.bd)|192.185.103.141|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:42 ERROR 404: Not Found.
+

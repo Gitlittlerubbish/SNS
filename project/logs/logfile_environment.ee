@@ -1,0 +1,12 @@
+--2020-02-25 22:16:58--  http://environment.ee/upload/content/8_basic-08_3a_measuring_principle.pdf%0D
+Resolving environment.ee (environment.ee)... 159.148.111.36
+Connecting to environment.ee (environment.ee)|159.148.111.36|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:16:58 ERROR 404: Not Found.
+
+--2020-02-25 22:17:02--  http://environment.ee/upload/content/8_basic-08_3a_measuring_principle.pdf%0D
+Resolving environment.ee (environment.ee)... 159.148.111.36
+Connecting to environment.ee (environment.ee)|159.148.111.36|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:03 ERROR 404: Not Found.
+

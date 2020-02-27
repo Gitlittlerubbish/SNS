@@ -1,0 +1,12 @@
+--2020-02-25 21:07:05--  http://sdo.institutemvd.by/mod/resource/view.php%3Fid%3D6615%0D
+Resolving sdo.institutemvd.by (sdo.institutemvd.by)... 178.172.235.48
+Connecting to sdo.institutemvd.by (sdo.institutemvd.by)|178.172.235.48|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:05 ERROR 404: Not Found.
+
+--2020-02-25 21:17:14--  http://sdo.institutemvd.by/mod/resource/view.php%3Fid%3D6615%0D
+Resolving sdo.institutemvd.by (sdo.institutemvd.by)... 178.172.235.48
+Connecting to sdo.institutemvd.by (sdo.institutemvd.by)|178.172.235.48|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:15 ERROR 404: Not Found.
+

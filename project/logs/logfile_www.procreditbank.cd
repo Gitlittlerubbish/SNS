@@ -1,0 +1,12 @@
+--2020-02-25 21:55:14--  http://www.procreditbank.cd/downloads/Recruitement_Test1_SAMPLE.pdf%0D
+Resolving www.procreditbank.cd (www.procreditbank.cd)... 88.198.176.147
+Connecting to www.procreditbank.cd (www.procreditbank.cd)|88.198.176.147|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:55:14 ERROR 404: Not Found.
+
+--2020-02-25 21:55:16--  http://www.procreditbank.cd/downloads/Recruitement_Test1_SAMPLE.pdf%0D
+Resolving www.procreditbank.cd (www.procreditbank.cd)... 88.198.176.147
+Connecting to www.procreditbank.cd (www.procreditbank.cd)|88.198.176.147|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:55:16 ERROR 404: Not Found.
+

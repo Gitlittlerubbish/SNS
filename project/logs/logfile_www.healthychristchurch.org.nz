@@ -1,0 +1,6 @@
+--2020-02-26 00:13:17--  http://www.healthychristchurch.org.nz/media/62726/winterwarmthsheet_nepali.pdf%0D
+Resolving www.healthychristchurch.org.nz (www.healthychristchurch.org.nz)... 111.65.228.92
+Connecting to www.healthychristchurch.org.nz (www.healthychristchurch.org.nz)|111.65.228.92|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:13:18 ERROR 400: Bad Request.
+

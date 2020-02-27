@@ -1,0 +1,14 @@
+--2020-02-25 23:00:06--  http://dlvr.it/4p63pQ%0D
+Resolving dlvr.it (dlvr.it)... 34.210.232.106, 54.70.140.22
+Connecting to dlvr.it (dlvr.it)|34.210.232.106|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Cookie coming from dlvr.it attempted to set domain to dlvrit.com
+2020-02-25 23:00:06 ERROR 404: Not Found.
+
+--2020-02-25 23:00:06--  http://dlvr.it/RLB5cr%0D
+Resolving dlvr.it (dlvr.it)... 34.210.232.106, 54.70.140.22
+Connecting to dlvr.it (dlvr.it)|34.210.232.106|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Cookie coming from dlvr.it attempted to set domain to dlvrit.com
+2020-02-25 23:00:07 ERROR 404: Not Found.
+

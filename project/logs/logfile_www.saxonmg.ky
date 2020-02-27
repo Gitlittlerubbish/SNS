@@ -1,0 +1,20 @@
+--2020-02-25 21:38:54--  http://www.saxonmg.ky/upimages/pressrelease/file/CongratulateStudentInvestors_1445631419.pdf%0D
+Resolving www.saxonmg.ky (www.saxonmg.ky)... 167.71.85.247
+Connecting to www.saxonmg.ky (www.saxonmg.ky)|167.71.85.247|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.saxonmg.ky/upimages/pressrelease/file/CongratulateStudentInvestors_1445631419.pdf%0d [following]
+--2020-02-25 21:38:55--  https://www.saxonmg.ky/upimages/pressrelease/file/CongratulateStudentInvestors_1445631419.pdf%0d
+Connecting to www.saxonmg.ky (www.saxonmg.ky)|167.71.85.247|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:55 ERROR 404: Not Found.
+
+--2020-02-25 21:40:05--  http://www.saxonmg.ky/upimages/pressrelease/file/CongratulateStudentInvestors_1445631419.pdf%0D
+Resolving www.saxonmg.ky (www.saxonmg.ky)... 167.71.85.247
+Connecting to www.saxonmg.ky (www.saxonmg.ky)|167.71.85.247|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.saxonmg.ky/upimages/pressrelease/file/CongratulateStudentInvestors_1445631419.pdf%0d [following]
+--2020-02-25 21:40:05--  https://www.saxonmg.ky/upimages/pressrelease/file/CongratulateStudentInvestors_1445631419.pdf%0d
+Connecting to www.saxonmg.ky (www.saxonmg.ky)|167.71.85.247|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:40:06 ERROR 404: Not Found.
+

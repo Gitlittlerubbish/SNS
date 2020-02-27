@@ -1,0 +1,6 @@
+--2020-02-26 00:11:00--  http://www.easygate.co.nz/SlidingGateInstallation.pdf%0D
+Resolving www.easygate.co.nz (www.easygate.co.nz)... 202.169.196.10
+Connecting to www.easygate.co.nz (www.easygate.co.nz)|202.169.196.10|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:11:01 ERROR 403: Forbidden.
+

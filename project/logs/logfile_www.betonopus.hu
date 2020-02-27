@@ -1,0 +1,6 @@
+--2020-02-25 22:47:06--  http://www.betonopus.hu/notesz/kutyanyelv/anyagsuruseg.pdf%0D
+Resolving www.betonopus.hu (www.betonopus.hu)... 89.46.67.93
+Connecting to www.betonopus.hu (www.betonopus.hu)|89.46.67.93|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:47:07 ERROR 400: Bad Request.
+

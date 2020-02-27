@@ -1,0 +1,18 @@
+--2020-02-25 21:55:09--  https://equitybank.cd/downloads/Recruitement_Test1_SAMPLE.pdf%0D
+--2020-02-25 21:55:09--  https://equitybank.cd/downloads/Recruitement_Test1_SAMPLE.pdf%0D
+Resolving equitybank.cd (equitybank.cd)... Resolving equitybank.cd (equitybank.cd)... 136.243.165.58
+Connecting to equitybank.cd (equitybank.cd)|136.243.165.58|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://localhost/procredit/errorPage.html [following]
+--2020-02-25 21:55:10--  http://localhost/procredit/errorPage.html
+Resolving localhost (localhost)... 127.0.0.1, 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:80... failed: Connection refused.
+Connecting to localhost (localhost)|127.0.0.1|:80... failed: Connection refused.
+136.243.165.58
+Connecting to equitybank.cd (equitybank.cd)|136.243.165.58|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://localhost/procredit/errorPage.html [following]
+--2020-02-25 21:55:10--  http://localhost/procredit/errorPage.html
+Resolving localhost (localhost)... 127.0.0.1, 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:80... failed: Connection refused.
+Connecting to localhost (localhost)|127.0.0.1|:80... failed: Connection refused.

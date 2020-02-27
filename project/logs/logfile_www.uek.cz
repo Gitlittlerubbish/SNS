@@ -1,0 +1,12 @@
+--2020-02-25 22:05:47--  http://www.uek.cz/download/zmena.pdf%0D
+Resolving www.uek.cz (www.uek.cz)... --2020-02-25 22:05:47--  http://www.uek.cz/download/zmena.pdf%0D
+Resolving www.uek.cz (www.uek.cz)... 81.92.148.121
+Connecting to www.uek.cz (www.uek.cz)|81.92.148.121|:80... 81.92.148.121
+Connecting to www.uek.cz (www.uek.cz)|81.92.148.121|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:05:48 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:05:48 ERROR 404: Not Found.
+

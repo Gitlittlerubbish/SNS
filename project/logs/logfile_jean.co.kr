@@ -1,0 +1,24 @@
+--2020-02-25 23:12:09--  http://jean.co.kr/shop/book/pdf/94.pdf%0D
+Resolving jean.co.kr (jean.co.kr)... 222.231.2.241
+Connecting to jean.co.kr (jean.co.kr)|222.231.2.241|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:12:10 ERROR 404: Not Found.
+
+--2020-02-25 23:12:10--  http://jean.co.kr/shop/book/pdf/100.pdf%0D
+Resolving jean.co.kr (jean.co.kr)... 222.231.2.241
+Connecting to jean.co.kr (jean.co.kr)|222.231.2.241|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:12:10 ERROR 404: Not Found.
+
+--2020-02-25 23:12:16--  http://jean.co.kr/shop/book/pdf/94.pdf%0D
+Resolving jean.co.kr (jean.co.kr)... 222.231.2.241
+Connecting to jean.co.kr (jean.co.kr)|222.231.2.241|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:12:17 ERROR 404: Not Found.
+
+--2020-02-25 23:12:17--  http://jean.co.kr/shop/book/pdf/100.pdf%0D
+Resolving jean.co.kr (jean.co.kr)... 222.231.2.241
+Connecting to jean.co.kr (jean.co.kr)|222.231.2.241|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:12:17 ERROR 404: Not Found.
+

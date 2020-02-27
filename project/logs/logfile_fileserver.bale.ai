@@ -1,0 +1,6 @@
+--2020-02-25 21:03:05--  https://fileserver.bale.ai/702407732-1172712713906679037%0D
+Resolving fileserver.bale.ai (fileserver.bale.ai)... 185.13.231.69
+Connecting to fileserver.bale.ai (fileserver.bale.ai)|185.13.231.69|:443... connected.
+HTTP request sent, awaiting response... 404 Sepid getDownloadURLfromToken() error, message=InvalidToken
+2020-02-25 21:03:05 ERROR 404: Sepid getDownloadURLfromToken() error, message=InvalidToken.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:05:03--  https://www.jerseydevelopment.je/media/7446533/2017-annual-report-accounts.pdf%0D
+Resolving www.jerseydevelopment.je (www.jerseydevelopment.je)... 54.72.118.82
+Connecting to www.jerseydevelopment.je (www.jerseydevelopment.je)|54.72.118.82|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:04 ERROR 400: Bad Request.
+

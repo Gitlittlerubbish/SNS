@@ -1,0 +1,12 @@
+--2020-02-25 22:21:26--  https://www.ats.com.fj/getattachment/Careers/cooks-asst.pdf%0D
+Resolving www.ats.com.fj (www.ats.com.fj)... --2020-02-25 22:21:26--  https://www.ats.com.fj/getattachment/Careers/cooks-asst.pdf%0D
+Resolving www.ats.com.fj (www.ats.com.fj)... 103.244.230.120
+Connecting to www.ats.com.fj (www.ats.com.fj)|103.244.230.120|:443... connected.
+103.244.230.120
+Connecting to www.ats.com.fj (www.ats.com.fj)|103.244.230.120|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:21:27 ERROR 400: Bad Request.
+
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:21:28 ERROR 400: Bad Request.
+

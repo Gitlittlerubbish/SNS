@@ -1,0 +1,22 @@
+--2020-02-25 22:01:06--  http://www.ecc-croatia.hr/resources/JP_Izvjesce.pdf%0D
+Resolving www.ecc-croatia.hr (www.ecc-croatia.hr)... --2020-02-25 22:01:06--  http://www.ecc-croatia.hr/resources/JP_Izvjesce.pdf%0D
+Resolving www.ecc-croatia.hr (www.ecc-croatia.hr)... 138.201.223.6
+Connecting to www.ecc-croatia.hr (www.ecc-croatia.hr)|138.201.223.6|:80... 138.201.223.6
+Connecting to www.ecc-croatia.hr (www.ecc-croatia.hr)|138.201.223.6|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://ecc-croatia.hr/resources/JP_Izvjesce.pdf%0d [following]
+--2020-02-25 22:01:06--  http://ecc-croatia.hr/resources/JP_Izvjesce.pdf%0d
+Resolving ecc-croatia.hr (ecc-croatia.hr)... 301 Moved Permanently
+Location: http://ecc-croatia.hr/resources/JP_Izvjesce.pdf%0d [following]
+--2020-02-25 22:01:06--  http://ecc-croatia.hr/resources/JP_Izvjesce.pdf%0d
+Resolving ecc-croatia.hr (ecc-croatia.hr)... 138.201.223.6
+138.201.223.6
+Reusing existing connection to www.ecc-croatia.hr:80.
+HTTP request sent, awaiting response... Reusing existing connection to www.ecc-croatia.hr:80.
+HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 22:01:07 ERROR 404: Not Found.
+
+2020-02-25 22:01:07 ERROR 404: Not Found.
+

@@ -1,0 +1,30 @@
+--2020-02-26 00:16:31--  http://www.million.com.ng/doc/frm.pdf%0D
+Resolving www.million.com.ng (www.million.com.ng)... 23.95.103.114
+Connecting to www.million.com.ng (www.million.com.ng)|23.95.103.114|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.million.com.ng/cgi-sys/suspendedpage.cgi [following]
+--2020-02-26 00:16:31--  http://www.million.com.ng/cgi-sys/suspendedpage.cgi
+Reusing existing connection to www.million.com.ng:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                      121M=0s
+
+2020-02-26 00:16:32 (121 Mb/s) - ‘/dev/null’ saved [2147]
+
+--2020-02-26 00:16:32--  http://www.million.com.ng/doc/frm.pdf%0D
+Resolving www.million.com.ng (www.million.com.ng)... 23.95.103.114
+Connecting to www.million.com.ng (www.million.com.ng)|23.95.103.114|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.million.com.ng/cgi-sys/suspendedpage.cgi [following]
+--2020-02-26 00:16:32--  http://www.million.com.ng/cgi-sys/suspendedpage.cgi
+Reusing existing connection to www.million.com.ng:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                     49.2M=0s
+
+2020-02-26 00:16:32 (49.2 Mb/s) - ‘/dev/null’ saved [2147]
+

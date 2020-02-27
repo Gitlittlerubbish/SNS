@@ -1,0 +1,12 @@
+--2020-02-25 22:24:50--  http://observatoire.criobe.pf/document/DataStoreObs/meta/mana.pdf%0D
+Resolving observatoire.criobe.pf (observatoire.criobe.pf)... --2020-02-25 22:24:50--  http://observatoire.criobe.pf/document/DataStoreObs/meta/mana.pdf%0D
+Resolving observatoire.criobe.pf (observatoire.criobe.pf)... 91.121.41.229
+Connecting to observatoire.criobe.pf (observatoire.criobe.pf)|91.121.41.229|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:24:50 ERROR 404: Not Found.
+
+91.121.41.229
+Connecting to observatoire.criobe.pf (observatoire.criobe.pf)|91.121.41.229|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:24:50 ERROR 404: Not Found.
+

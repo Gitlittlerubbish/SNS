@@ -1,0 +1,12 @@
+--2020-02-25 21:16:06--  http://www.endecorani.bo/images/memorias/MEMORIA_CORANI_2015.pdf%0D
+Resolving www.endecorani.bo (www.endecorani.bo)... 186.121.202.68
+Connecting to www.endecorani.bo (www.endecorani.bo)|186.121.202.68|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:07 ERROR 404: Not Found.
+
+--2020-02-25 21:23:37--  http://www.endecorani.bo/images/memorias/MEMORIA_CORANI_2015.pdf%0D
+Resolving www.endecorani.bo (www.endecorani.bo)... 186.121.202.68
+Connecting to www.endecorani.bo (www.endecorani.bo)|186.121.202.68|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:37 ERROR 404: Not Found.
+

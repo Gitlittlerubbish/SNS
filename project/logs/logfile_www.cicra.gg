@@ -1,0 +1,12 @@
+--2020-02-25 22:38:38--  https://www.cicra.gg/media/597602/m1305j-decision.pdf%0D
+Resolving www.cicra.gg (www.cicra.gg)... 54.72.118.82
+Connecting to www.cicra.gg (www.cicra.gg)|54.72.118.82|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:38 ERROR 400: Bad Request.
+
+--2020-02-25 22:38:39--  https://www.cicra.gg/media/597602/m1305j-decision.pdf%0D
+Resolving www.cicra.gg (www.cicra.gg)... 54.72.118.82
+Connecting to www.cicra.gg (www.cicra.gg)|54.72.118.82|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:39 ERROR 400: Bad Request.
+

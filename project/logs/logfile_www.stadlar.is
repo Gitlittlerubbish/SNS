@@ -1,0 +1,6 @@
+--2020-02-25 22:48:39--  https://www.stadlar.is/media/26699/h%25C3%25B6nnun%2520rafkerfa.pdf%0D
+Resolving www.stadlar.is (www.stadlar.is)... 82.221.73.203
+Connecting to www.stadlar.is (www.stadlar.is)|82.221.73.203|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:48:39 ERROR 400: Bad Request.
+

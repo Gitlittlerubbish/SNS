@@ -1,0 +1,12 @@
+--2020-02-25 21:04:20--  http://omron.keal.com.bd/data_pdf/cat/sysmac-xr015_p119-e1_2_1_csm1055316.pdf%0D
+Resolving omron.keal.com.bd (omron.keal.com.bd)... 170.10.162.86
+Connecting to omron.keal.com.bd (omron.keal.com.bd)|170.10.162.86|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:04:20 ERROR 404: Not Found.
+
+--2020-02-25 21:15:09--  http://omron.keal.com.bd/data_pdf/cat/sysmac-xr015_p119-e1_2_1_csm1055316.pdf%0D
+Resolving omron.keal.com.bd (omron.keal.com.bd)... 170.10.162.86
+Connecting to omron.keal.com.bd (omron.keal.com.bd)|170.10.162.86|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:09 ERROR 404: Not Found.
+

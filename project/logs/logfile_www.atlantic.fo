@@ -1,0 +1,12 @@
+--2020-02-25 22:19:41--  https://www.atlantic.fo/media/1518/raettindi_hja_atlantic_airways_ferandi_fo.pdf%0D
+Resolving www.atlantic.fo (www.atlantic.fo)... 104.20.42.138, 104.20.41.138
+Connecting to www.atlantic.fo (www.atlantic.fo)|104.20.42.138|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:19:41--  https://www.atlantic.fo/media/1518/raettindi_hja_atlantic_airways_ferandi_fo.pdf%0D
+Resolving www.atlantic.fo (www.atlantic.fo)... 104.20.41.138, 104.20.42.138
+Connecting to www.atlantic.fo (www.atlantic.fo)|104.20.41.138|:443... connected.
+400 Bad Request
+2020-02-25 22:19:41 ERROR 400: Bad Request.
+
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:41 ERROR 400: Bad Request.
+

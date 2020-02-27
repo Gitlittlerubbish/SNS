@@ -1,0 +1,12 @@
+--2020-02-25 22:22:46--  https://www.ameli.fr/node/132%0D
+Resolving www.ameli.fr (www.ameli.fr)... --2020-02-25 22:22:46--  https://www.ameli.fr/node/132%0D
+Resolving www.ameli.fr (www.ameli.fr)... 31.15.27.86
+Connecting to www.ameli.fr (www.ameli.fr)|31.15.27.86|:443... 31.15.27.86
+Connecting to www.ameli.fr (www.ameli.fr)|31.15.27.86|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:47 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:22:48 ERROR 404: Not Found.
+

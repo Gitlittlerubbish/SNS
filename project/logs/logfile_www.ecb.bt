@@ -1,0 +1,20 @@
+--2020-02-25 21:12:48--  https://www.ecb.bt/Rules/sms.pdf%0D
+Resolving www.ecb.bt (www.ecb.bt)... 118.103.143.1, 119.2.116.101
+Connecting to www.ecb.bt (www.ecb.bt)|118.103.143.1|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ecb.bt/Rules/sms.pdf/ [following]
+--2020-02-25 21:12:51--  https://www.ecb.bt/Rules/sms.pdf/
+Reusing existing connection to www.ecb.bt:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:51 ERROR 404: Not Found.
+
+--2020-02-25 21:21:22--  https://www.ecb.bt/Rules/sms.pdf%0D
+Resolving www.ecb.bt (www.ecb.bt)... 118.103.143.1, 119.2.116.101
+Connecting to www.ecb.bt (www.ecb.bt)|118.103.143.1|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ecb.bt/Rules/sms.pdf/ [following]
+--2020-02-25 21:21:24--  https://www.ecb.bt/Rules/sms.pdf/
+Reusing existing connection to www.ecb.bt:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:24 ERROR 404: Not Found.
+

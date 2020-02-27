@@ -1,0 +1,12 @@
+--2020-02-25 23:16:21--  https://citra.gov.kw/sites/en/LegalReferences/MVNO_en.pdf%0D
+Resolving citra.gov.kw (citra.gov.kw)... 104.31.93.224, 104.31.92.224
+Connecting to citra.gov.kw (citra.gov.kw)|104.31.93.224|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:16:21 ERROR 404: Not Found.
+
+--2020-02-25 23:16:29--  https://citra.gov.kw/sites/en/LegalReferences/MVNO_en.pdf%0D
+Resolving citra.gov.kw (citra.gov.kw)... 104.31.92.224, 104.31.93.224
+Connecting to citra.gov.kw (citra.gov.kw)|104.31.92.224|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:16:29 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:17:54--  http://www.ofag.gov.et/ofag/%3Fwpfb_dl%3D134%0D
+Resolving www.ofag.gov.et (www.ofag.gov.et)... 197.156.69.65
+Connecting to www.ofag.gov.et (www.ofag.gov.et)|197.156.69.65|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:17:54 ERROR 403: Forbidden.
+
+--2020-02-25 22:17:56--  http://www.ofag.gov.et/ofag/%3Fwpfb_dl%3D134%0D
+Resolving www.ofag.gov.et (www.ofag.gov.et)... 197.156.69.65
+Connecting to www.ofag.gov.et (www.ofag.gov.et)|197.156.69.65|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:17:57 ERROR 403: Forbidden.
+

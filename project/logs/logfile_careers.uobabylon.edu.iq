@@ -1,0 +1,6 @@
+--2020-02-25 22:55:29--  http://careers.uobabylon.edu.iq/Application.pdf%0D
+Resolving careers.uobabylon.edu.iq (careers.uobabylon.edu.iq)... 5.77.37.165
+Connecting to careers.uobabylon.edu.iq (careers.uobabylon.edu.iq)|5.77.37.165|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:55:29 ERROR 400: Bad Request.
+

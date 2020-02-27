@@ -1,0 +1,12 @@
+--2020-02-25 21:55:37--  http://www.ucgraben.ac.cd/files/6z9j5qnskhdyfr4o803m.pdf%0D
+Resolving www.ucgraben.ac.cd (www.ucgraben.ac.cd)... --2020-02-25 21:55:38--  http://www.ucgraben.ac.cd/files/6z9j5qnskhdyfr4o803m.pdf%0D
+Resolving www.ucgraben.ac.cd (www.ucgraben.ac.cd)... 158.69.117.235
+Connecting to www.ucgraben.ac.cd (www.ucgraben.ac.cd)|158.69.117.235|:80... 158.69.117.235
+Connecting to www.ucgraben.ac.cd (www.ucgraben.ac.cd)|158.69.117.235|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:55:38 ERROR 403: Forbidden.
+
+403 Forbidden
+2020-02-25 21:55:38 ERROR 403: Forbidden.
+

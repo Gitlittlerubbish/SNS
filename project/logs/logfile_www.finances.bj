@@ -1,0 +1,22 @@
+--2020-02-25 21:09:42--  https://www.finances.bj/fileadmin/user_upload/circulaire_0070001.pdf%0D
+Resolving www.finances.bj (www.finances.bj)... 146.88.232.24
+Connecting to www.finances.bj (www.finances.bj)|146.88.232.24|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://finances.bj/fileadmin/user_upload/circulaire_0070001.pdf [following]
+--2020-02-25 21:09:42--  https://finances.bj/fileadmin/user_upload/circulaire_0070001.pdf
+Resolving finances.bj (finances.bj)... 146.88.232.24
+Connecting to finances.bj (finances.bj)|146.88.232.24|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:43 ERROR 404: Not Found.
+
+--2020-02-25 21:19:07--  https://www.finances.bj/fileadmin/user_upload/circulaire_0070001.pdf%0D
+Resolving www.finances.bj (www.finances.bj)... 146.88.232.24
+Connecting to www.finances.bj (www.finances.bj)|146.88.232.24|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://finances.bj/fileadmin/user_upload/circulaire_0070001.pdf [following]
+--2020-02-25 21:19:07--  https://finances.bj/fileadmin/user_upload/circulaire_0070001.pdf
+Resolving finances.bj (finances.bj)... 146.88.232.24
+Connecting to finances.bj (finances.bj)|146.88.232.24|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:08 ERROR 404: Not Found.
+

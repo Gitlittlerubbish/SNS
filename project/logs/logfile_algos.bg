@@ -1,0 +1,12 @@
+--2020-02-25 21:27:18--  http://algos.bg/downloads/Mehanizym_za_obratno_nachislqvane.pdf%0D
+Resolving algos.bg (algos.bg)... 87.120.40.54
+Connecting to algos.bg (algos.bg)|87.120.40.54|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:18 ERROR 404: Not Found.
+
+--2020-02-25 21:32:26--  http://algos.bg/downloads/Mehanizym_za_obratno_nachislqvane.pdf%0D
+Resolving algos.bg (algos.bg)... 87.120.40.54
+Connecting to algos.bg (algos.bg)|87.120.40.54|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:26 ERROR 404: Not Found.
+

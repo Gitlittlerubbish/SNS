@@ -1,0 +1,12 @@
+--2020-02-25 21:15:11--  http://culturatributaria.impuestos.gob.bo/assets/guia_tributaria.pdf%0D
+Resolving culturatributaria.impuestos.gob.bo (culturatributaria.impuestos.gob.bo)... 170.82.244.138
+Connecting to culturatributaria.impuestos.gob.bo (culturatributaria.impuestos.gob.bo)|170.82.244.138|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:15:12 ERROR 400: Bad Request.
+
+--2020-02-25 21:22:51--  http://culturatributaria.impuestos.gob.bo/assets/guia_tributaria.pdf%0D
+Resolving culturatributaria.impuestos.gob.bo (culturatributaria.impuestos.gob.bo)... 170.82.244.138
+Connecting to culturatributaria.impuestos.gob.bo (culturatributaria.impuestos.gob.bo)|170.82.244.138|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:22:51 ERROR 400: Bad Request.
+

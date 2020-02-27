@@ -1,0 +1,6 @@
+--2020-02-25 22:48:48--  http://v2.nepal.is/Files/Skra_0040117.pdf%0D
+Resolving v2.nepal.is (v2.nepal.is)... 82.221.98.195
+Connecting to v2.nepal.is (v2.nepal.is)|82.221.98.195|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:48:48 ERROR 400: Bad Request.
+

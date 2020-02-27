@@ -1,0 +1,12 @@
+--2020-02-25 21:00:31--  http://azqartelecom.az/pdf/p1_1_3.pdf%0D
+Resolving azqartelecom.az (azqartelecom.az)... 85.10.223.163
+Connecting to azqartelecom.az (azqartelecom.az)|85.10.223.163|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:32 ERROR 404: Not Found.
+
+--2020-02-25 21:12:23--  http://azqartelecom.az/pdf/p1_1_3.pdf%0D
+Resolving azqartelecom.az (azqartelecom.az)... 85.10.223.163
+Connecting to azqartelecom.az (azqartelecom.az)|85.10.223.163|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:23 ERROR 404: Not Found.
+

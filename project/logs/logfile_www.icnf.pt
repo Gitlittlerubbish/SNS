@@ -1,0 +1,6 @@
+--2020-02-26 00:42:34--  https://www.icnf.pt/api/file/doc/2b91845923770ef7%0D
+Resolving www.icnf.pt (www.icnf.pt)... 212.18.175.85
+Connecting to www.icnf.pt (www.icnf.pt)|212.18.175.85|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:42:35 ERROR 400: Bad Request.
+

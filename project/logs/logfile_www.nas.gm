@@ -1,0 +1,12 @@
+--2020-02-25 22:28:23--  http://www.nas.gm/images/mat/national.pdf%0D
+Resolving www.nas.gm (www.nas.gm)... --2020-02-25 22:28:23--  http://www.nas.gm/images/mat/national.pdf%0D
+Resolving www.nas.gm (www.nas.gm)... 173.254.28.89
+Connecting to www.nas.gm (www.nas.gm)|173.254.28.89|:80... 173.254.28.89
+Connecting to www.nas.gm (www.nas.gm)|173.254.28.89|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Category not found
+404 Category not found
+2020-02-25 22:28:25 ERROR 404: Category not found.
+
+2020-02-25 22:28:25 ERROR 404: Category not found.
+

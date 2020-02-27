@@ -1,0 +1,76 @@
+--2020-02-25 22:30:25--  http://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0D
+Resolving civics.ge (civics.ge)... --2020-02-25 22:30:25--  http://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0D
+Resolving civics.ge (civics.ge)... 178.63.78.104
+Connecting to civics.ge (civics.ge)|178.63.78.104|:80... 178.63.78.104
+Connecting to civics.ge (civics.ge)|178.63.78.104|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0d [following]
+--2020-02-25 22:30:25--  https://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0d
+Connecting to civics.ge (civics.ge)|178.63.78.104|:443... 301 Moved Permanently
+Location: https://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0d [following]
+--2020-02-25 22:30:25--  https://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0d
+Connecting to civics.ge (civics.ge)|178.63.78.104|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: https://civics.ge/404-not-found/ [following]
+--2020-02-25 22:30:25--  https://civics.ge/404-not-found/
+Reusing existing connection to civics.ge:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://civics.ge/404-not-found/ [following]
+--2020-02-25 22:30:26--  https://civics.ge/404-not-found/
+Reusing existing connection to civics.ge:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .....                                       7.67G=0s
+
+2020-02-25 22:30:26 (7.67 Gb/s) - ‘/dev/null’ saved [15885]
+
+--2020-02-25 22:30:26--  http://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0D
+Resolving civics.ge (civics.ge)... 178.63.78.104
+Connecting to civics.ge (civics.ge)|178.63.78.104|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0d [following]
+--2020-02-25 22:30:26--  https://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0d
+Connecting to civics.ge (civics.ge)|178.63.78.104|:443... connected.
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .....                                       6.87G=0s
+
+2020-02-25 22:30:26 (6.87 Gb/s) - ‘/dev/null’ saved [15885]
+
+--2020-02-25 22:30:26--  http://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0D
+Resolving civics.ge (civics.ge)... 178.63.78.104
+Connecting to civics.ge (civics.ge)|178.63.78.104|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0d [following]
+--2020-02-25 22:30:26--  https://civics.ge/uploads/getstartedwithskypeintheclassroom.pdf%0d
+Connecting to civics.ge (civics.ge)|178.63.78.104|:443... HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://civics.ge/404-not-found/ [following]
+--2020-02-25 22:30:27--  https://civics.ge/404-not-found/
+Reusing existing connection to civics.ge:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://civics.ge/404-not-found/ [following]
+--2020-02-25 22:30:27--  https://civics.ge/404-not-found/
+Reusing existing connection to civics.ge:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .....200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .....                                       8.29G=0s
+
+2020-02-25 22:30:27 (8.29 Gb/s) - ‘/dev/null’ saved [15885]
+
+                                       8.00G=0s
+
+2020-02-25 22:30:27 (8.00 Gb/s) - ‘/dev/null’ saved [15885]
+

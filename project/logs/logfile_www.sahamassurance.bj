@@ -1,0 +1,12 @@
+--2020-02-25 21:10:30--  http://www.sahamassurance.bj/sites/default/files/Devis_0.pdf%0D
+Resolving www.sahamassurance.bj (www.sahamassurance.bj)... 41.77.119.154
+Connecting to www.sahamassurance.bj (www.sahamassurance.bj)|41.77.119.154|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:10:31 ERROR 404: Not Found.
+
+--2020-02-25 21:19:44--  http://www.sahamassurance.bj/sites/default/files/Devis_0.pdf%0D
+Resolving www.sahamassurance.bj (www.sahamassurance.bj)... 41.77.119.154
+Connecting to www.sahamassurance.bj (www.sahamassurance.bj)|41.77.119.154|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:45 ERROR 404: Not Found.
+

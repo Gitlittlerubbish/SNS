@@ -1,0 +1,10 @@
+--2020-02-26 00:40:27--  http://as.pn/gj%0D
+Resolving as.pn (as.pn)... 50.19.199.119
+Connecting to as.pn (as.pn)|50.19.199.119|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://as.pn [following]
+--2020-02-26 00:40:27--  http://as.pn/
+Reusing existing connection to as.pn:80.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:40:27 ERROR 403: Forbidden.
+

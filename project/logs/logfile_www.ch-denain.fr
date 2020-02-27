@@ -1,0 +1,12 @@
+--2020-02-25 22:23:06--  https://www.ch-denain.fr/fichs/16259.pdf%0D
+Resolving www.ch-denain.fr (www.ch-denain.fr)... 87.98.168.168
+Connecting to www.ch-denain.fr (www.ch-denain.fr)|87.98.168.168|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:06 ERROR 404: Not Found.
+
+--2020-02-25 22:23:07--  https://www.ch-denain.fr/fichs/16259.pdf%0D
+Resolving www.ch-denain.fr (www.ch-denain.fr)... 87.98.168.168
+Connecting to www.ch-denain.fr (www.ch-denain.fr)|87.98.168.168|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:07 ERROR 404: Not Found.
+

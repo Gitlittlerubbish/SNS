@@ -1,0 +1,12 @@
+--2020-02-25 21:20:53--  https://www.nexgardbrasil.com.br/arquivos/bula.pdf%0D
+Resolving www.nexgardbrasil.com.br (www.nexgardbrasil.com.br)... 64.106.209.186
+Connecting to www.nexgardbrasil.com.br (www.nexgardbrasil.com.br)|64.106.209.186|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:53 ERROR 404: Not Found.
+
+--2020-02-25 21:26:49--  https://www.nexgardbrasil.com.br/arquivos/bula.pdf%0D
+Resolving www.nexgardbrasil.com.br (www.nexgardbrasil.com.br)... 64.106.209.186
+Connecting to www.nexgardbrasil.com.br (www.nexgardbrasil.com.br)|64.106.209.186|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:26:49 ERROR 404: Not Found.
+

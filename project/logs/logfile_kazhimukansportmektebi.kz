@@ -1,0 +1,14 @@
+--2020-02-25 23:07:03--  http://kazhimukansportmektebi.kz/uploads/voud.pdf%0D
+Resolving kazhimukansportmektebi.kz (kazhimukansportmektebi.kz)... 88.99.211.68
+Connecting to kazhimukansportmektebi.kz (kazhimukansportmektebi.kz)|88.99.211.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kazhimukansportmektebi.kz/uploads/voud.pdf%0d [following]
+--2020-02-25 23:07:03--  https://kazhimukansportmektebi.kz/uploads/voud.pdf%0d
+Connecting to kazhimukansportmektebi.kz (kazhimukansportmektebi.kz)|88.99.211.68|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kazhimukansportmektebi.kz/ru/uploads/voud.pdf [following]
+--2020-02-25 23:07:04--  https://kazhimukansportmektebi.kz/ru/uploads/voud.pdf
+Reusing existing connection to kazhimukansportmektebi.kz:443.
+HTTP request sent, awaiting response... 404 Категория не найдена
+2020-02-25 23:07:04 ERROR 404: Категория не найдена.
+

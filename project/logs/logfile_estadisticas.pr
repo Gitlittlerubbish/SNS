@@ -1,0 +1,6 @@
+--2020-02-26 00:42:53--  https://estadisticas.pr/files/IDH_Capitulo_VII.pdf%0D
+Resolving estadisticas.pr (estadisticas.pr)... 34.211.68.74
+Connecting to estadisticas.pr (estadisticas.pr)|34.211.68.74|:443... connected.
+ERROR: cannot verify estadisticas.pr's certificate, issued by ‘CN=RapidSSL RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to estadisticas.pr insecurely, use `--no-check-certificate'.

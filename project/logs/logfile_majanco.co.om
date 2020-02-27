@@ -1,0 +1,22 @@
+--2020-02-26 00:23:31--  http://majanco.co.om/portals/0/Connection_Guidelines.pdf%0D
+Resolving majanco.co.om (majanco.co.om)... 185.64.24.112
+Connecting to majanco.co.om (majanco.co.om)|185.64.24.112|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  421M=0s
+
+2020-02-26 00:23:32 (421 Mb/s) - ‘/dev/null’ saved [246/246]
+
+--2020-02-26 00:23:32--  http://majanco.co.om/portals/0/Connection_Guidelines.pdf%0D
+Resolving majanco.co.om (majanco.co.om)... 185.64.24.112
+Connecting to majanco.co.om (majanco.co.om)|185.64.24.112|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 12.1M=0s
+
+2020-02-26 00:23:32 (12.1 Mb/s) - ‘/dev/null’ saved [247/247]
+

@@ -1,0 +1,44 @@
+--2020-02-25 21:38:08--  http://aravis.ky/files/download/450%0D
+Resolving aravis.ky (aravis.ky)... 199.184.144.27
+Connecting to aravis.ky (aravis.ky)|199.184.144.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      23.1M=0.001s
+
+2020-02-25 21:38:08 (23.1 Mb/s) - ‘/dev/null’ saved [1557]
+
+--2020-02-25 21:38:08--  http://aravis.ky/files/download/450%0D
+Resolving aravis.ky (aravis.ky)... 199.184.144.27
+Connecting to aravis.ky (aravis.ky)|199.184.144.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      46.6M=0s
+
+2020-02-25 21:38:08 (46.6 Mb/s) - ‘/dev/null’ saved [1557]
+
+--2020-02-25 21:39:27--  http://aravis.ky/files/download/450%0D
+Resolving aravis.ky (aravis.ky)... 199.184.144.27
+Connecting to aravis.ky (aravis.ky)|199.184.144.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      42.3M=0s
+
+2020-02-25 21:39:27 (42.3 Mb/s) - ‘/dev/null’ saved [1557]
+
+--2020-02-25 21:39:27--  http://aravis.ky/files/download/450%0D
+Resolving aravis.ky (aravis.ky)... 199.184.144.27
+Connecting to aravis.ky (aravis.ky)|199.184.144.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      28.9M=0s
+
+2020-02-25 21:39:27 (28.9 Mb/s) - ‘/dev/null’ saved [1557]
+

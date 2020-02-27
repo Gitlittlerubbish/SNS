@@ -1,0 +1,12 @@
+--2020-02-25 22:19:44--  http://flisan.fo/images/fl_pdf/camelot15.pdf%0D
+Resolving flisan.fo (flisan.fo)... --2020-02-25 22:19:44--  http://flisan.fo/images/fl_pdf/camelot15.pdf%0D
+Resolving flisan.fo (flisan.fo)... 178.21.73.86
+Connecting to flisan.fo (flisan.fo)|178.21.73.86|:80... 178.21.73.86
+Connecting to flisan.fo (flisan.fo)|178.21.73.86|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+500 Internal Server Error
+2020-02-25 22:19:45 ERROR 500: Internal Server Error.
+
+2020-02-25 22:19:45 ERROR 500: Internal Server Error.
+

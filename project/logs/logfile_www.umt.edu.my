@@ -1,0 +1,12 @@
+--2020-02-25 23:32:37--  https://www.umt.edu.my/doc/fakta_ringkas.pdf%0D
+Resolving www.umt.edu.my (www.umt.edu.my)... 103.255.170.68
+Connecting to www.umt.edu.my (www.umt.edu.my)|103.255.170.68|:443... connected.
+ERROR: cannot verify www.umt.edu.my's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.umt.edu.my insecurely, use `--no-check-certificate'.
+--2020-02-25 23:32:38--  https://www.umt.edu.my/albusyra/albusyra01.pdf%0D
+Resolving www.umt.edu.my (www.umt.edu.my)... 103.255.170.68
+Connecting to www.umt.edu.my (www.umt.edu.my)|103.255.170.68|:443... connected.
+ERROR: cannot verify www.umt.edu.my's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.umt.edu.my insecurely, use `--no-check-certificate'.

@@ -1,0 +1,12 @@
+--2020-02-25 21:27:44--  https://technika.bg/userfiles/product_files_shared/274817.pdf%0D
+Resolving technika.bg (technika.bg)... 159.69.12.1
+Connecting to technika.bg (technika.bg)|159.69.12.1|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:45 ERROR 404: Not Found.
+
+--2020-02-25 21:32:45--  https://technika.bg/userfiles/product_files_shared/274817.pdf%0D
+Resolving technika.bg (technika.bg)... 159.69.12.1
+Connecting to technika.bg (technika.bg)|159.69.12.1|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:46 ERROR 404: Not Found.
+

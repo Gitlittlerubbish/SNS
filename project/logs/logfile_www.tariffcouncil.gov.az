@@ -1,0 +1,12 @@
+--2020-02-25 21:01:19--  http://www.tariffcouncil.gov.az/documents/Q-4.pdf%0D
+Resolving www.tariffcouncil.gov.az (www.tariffcouncil.gov.az)... 31.170.236.85
+Connecting to www.tariffcouncil.gov.az (www.tariffcouncil.gov.az)|31.170.236.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:19 ERROR 404: Not Found.
+
+--2020-02-25 21:12:52--  http://www.tariffcouncil.gov.az/documents/Q-4.pdf%0D
+Resolving www.tariffcouncil.gov.az (www.tariffcouncil.gov.az)... 31.170.236.85
+Connecting to www.tariffcouncil.gov.az (www.tariffcouncil.gov.az)|31.170.236.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:52 ERROR 404: Not Found.
+

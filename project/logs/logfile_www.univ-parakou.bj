@@ -1,0 +1,12 @@
+--2020-02-25 21:09:51--  http://www.univ-parakou.bj/uploads/on/up_on_file_32055.pdf%0D
+Resolving www.univ-parakou.bj (www.univ-parakou.bj)... 41.85.184.117
+Connecting to www.univ-parakou.bj (www.univ-parakou.bj)|41.85.184.117|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:52 ERROR 404: Not Found.
+
+--2020-02-25 21:19:15--  http://www.univ-parakou.bj/uploads/on/up_on_file_32055.pdf%0D
+Resolving www.univ-parakou.bj (www.univ-parakou.bj)... 41.85.184.117
+Connecting to www.univ-parakou.bj (www.univ-parakou.bj)|41.85.184.117|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:15 ERROR 404: Not Found.
+

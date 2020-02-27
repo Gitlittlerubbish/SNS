@@ -1,0 +1,12 @@
+--2020-02-25 20:55:04--  http://hvaccenter.am/media/docs/stockholm_declaration_1972.pdf%0D
+Resolving hvaccenter.am (hvaccenter.am)... 146.120.224.59
+Connecting to hvaccenter.am (hvaccenter.am)|146.120.224.59|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:55:04 ERROR 404: Not Found.
+
+--2020-02-25 21:07:55--  http://hvaccenter.am/media/docs/stockholm_declaration_1972.pdf%0D
+Resolving hvaccenter.am (hvaccenter.am)... 146.120.224.59
+Connecting to hvaccenter.am (hvaccenter.am)|146.120.224.59|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:55 ERROR 404: Not Found.
+

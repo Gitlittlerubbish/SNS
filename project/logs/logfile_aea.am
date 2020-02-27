@@ -1,0 +1,12 @@
+--2020-02-25 20:54:43--  http://aea.am/files/papers/w1506.pdf%0D
+Resolving aea.am (aea.am)... 98.137.244.37
+Connecting to aea.am (aea.am)|98.137.244.37|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:43 ERROR 404: Not Found.
+
+--2020-02-25 21:07:36--  http://aea.am/files/papers/w1506.pdf%0D
+Resolving aea.am (aea.am)... 98.137.244.37
+Connecting to aea.am (aea.am)|98.137.244.37|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:36 ERROR 404: Not Found.
+

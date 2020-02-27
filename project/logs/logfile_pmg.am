@@ -1,0 +1,40 @@
+--2020-02-25 20:54:19--  http://pmg.am/images/convention_human_rights.pdf%0D
+Resolving pmg.am (pmg.am)... 198.54.115.16
+Connecting to pmg.am (pmg.am)|198.54.115.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pmg.am/hy/images/convention_human_rights.pdf [following]
+--2020-02-25 20:54:19--  http://pmg.am/hy/images/convention_human_rights.pdf
+Reusing existing connection to pmg.am:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:19 ERROR 404: Not Found.
+
+--2020-02-25 20:54:19--  http://pmg.am/images/Qreakan_orensgirq.pdf%0D
+Resolving pmg.am (pmg.am)... 198.54.115.16
+Connecting to pmg.am (pmg.am)|198.54.115.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pmg.am/hy/images/Qreakan_orensgirq.pdf [following]
+--2020-02-25 20:54:19--  http://pmg.am/hy/images/Qreakan_orensgirq.pdf
+Reusing existing connection to pmg.am:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:20 ERROR 404: Not Found.
+
+--2020-02-25 21:07:17--  http://pmg.am/images/convention_human_rights.pdf%0D
+Resolving pmg.am (pmg.am)... 198.54.115.16
+Connecting to pmg.am (pmg.am)|198.54.115.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pmg.am/hy/images/convention_human_rights.pdf [following]
+--2020-02-25 21:07:18--  http://pmg.am/hy/images/convention_human_rights.pdf
+Reusing existing connection to pmg.am:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:18 ERROR 404: Not Found.
+
+--2020-02-25 21:07:18--  http://pmg.am/images/Qreakan_orensgirq.pdf%0D
+Resolving pmg.am (pmg.am)... 198.54.115.16
+Connecting to pmg.am (pmg.am)|198.54.115.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pmg.am/hy/images/Qreakan_orensgirq.pdf [following]
+--2020-02-25 21:07:18--  http://pmg.am/hy/images/Qreakan_orensgirq.pdf
+Reusing existing connection to pmg.am:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:18 ERROR 404: Not Found.
+

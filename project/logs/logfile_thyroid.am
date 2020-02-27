@@ -1,0 +1,12 @@
+--2020-02-25 20:54:01--  http://thyroid.am/files/5.pdf%0D
+Resolving thyroid.am (thyroid.am)... 82.146.53.170
+Connecting to thyroid.am (thyroid.am)|82.146.53.170|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:01 ERROR 404: Not Found.
+
+--2020-02-25 21:07:06--  http://thyroid.am/files/5.pdf%0D
+Resolving thyroid.am (thyroid.am)... 82.146.53.170
+Connecting to thyroid.am (thyroid.am)|82.146.53.170|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:06 ERROR 404: Not Found.
+

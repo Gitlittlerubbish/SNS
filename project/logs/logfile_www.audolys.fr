@@ -1,0 +1,12 @@
+--2020-02-25 22:22:56--  https://www.audolys.fr/pdf/Votre_alimentation_sous_AVK.pdf%0D
+Resolving www.audolys.fr (www.audolys.fr)... --2020-02-25 22:22:56--  https://www.audolys.fr/pdf/Votre_alimentation_sous_AVK.pdf%0D
+Resolving www.audolys.fr (www.audolys.fr)... 109.234.164.43
+Connecting to www.audolys.fr (www.audolys.fr)|109.234.164.43|:443... 109.234.164.43
+Connecting to www.audolys.fr (www.audolys.fr)|109.234.164.43|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 22:22:57 ERROR 404: Not Found.
+
+2020-02-25 22:22:57 ERROR 404: Not Found.
+

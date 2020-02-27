@@ -1,0 +1,32 @@
+--2020-02-25 21:38:41--  http://www.crescentbeach.ky/files/DV-3032KV_DV-3032V_DV-2032K_DV-2032_Safety-Cautions.pdf%0D
+Resolving www.crescentbeach.ky (www.crescentbeach.ky)... 176.34.241.253, 23.253.58.227, 162.242.150.89
+Connecting to www.crescentbeach.ky (www.crescentbeach.ky)|176.34.241.253|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.crescentbeachcayman.com/files/DV-3032KV_DV-3032V_DV-2032K_DV-2032_Safety-Cautions.pdf%0D [following]
+--2020-02-25 21:38:41--  http://www.crescentbeachcayman.com/files/DV-3032KV_DV-3032V_DV-2032K_DV-2032_Safety-Cautions.pdf%0D
+Resolving www.crescentbeachcayman.com (www.crescentbeachcayman.com)... 160.153.96.130
+Connecting to www.crescentbeachcayman.com (www.crescentbeachcayman.com)|160.153.96.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://crescentbeachcayman.com/files/DV-3032KV_DV-3032V_DV-2032K_DV-2032_Safety-Cautions.pdf%0d [following]
+--2020-02-25 21:38:41--  https://crescentbeachcayman.com/files/DV-3032KV_DV-3032V_DV-2032K_DV-2032_Safety-Cautions.pdf%0d
+Resolving crescentbeachcayman.com (crescentbeachcayman.com)... 160.153.96.130
+Connecting to crescentbeachcayman.com (crescentbeachcayman.com)|160.153.96.130|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:41 ERROR 404: Not Found.
+
+--2020-02-25 21:39:53--  http://www.crescentbeach.ky/files/DV-3032KV_DV-3032V_DV-2032K_DV-2032_Safety-Cautions.pdf%0D
+Resolving www.crescentbeach.ky (www.crescentbeach.ky)... 162.242.150.89, 176.34.241.253, 23.253.58.227
+Connecting to www.crescentbeach.ky (www.crescentbeach.ky)|162.242.150.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.crescentbeachcayman.com/files/DV-3032KV_DV-3032V_DV-2032K_DV-2032_Safety-Cautions.pdf%0D [following]
+--2020-02-25 21:39:54--  http://www.crescentbeachcayman.com/files/DV-3032KV_DV-3032V_DV-2032K_DV-2032_Safety-Cautions.pdf%0D
+Resolving www.crescentbeachcayman.com (www.crescentbeachcayman.com)... 160.153.96.130
+Connecting to www.crescentbeachcayman.com (www.crescentbeachcayman.com)|160.153.96.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://crescentbeachcayman.com/files/DV-3032KV_DV-3032V_DV-2032K_DV-2032_Safety-Cautions.pdf%0d [following]
+--2020-02-25 21:39:54--  https://crescentbeachcayman.com/files/DV-3032KV_DV-3032V_DV-2032K_DV-2032_Safety-Cautions.pdf%0d
+Resolving crescentbeachcayman.com (crescentbeachcayman.com)... 160.153.96.130
+Connecting to crescentbeachcayman.com (crescentbeachcayman.com)|160.153.96.130|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:39:54 ERROR 404: Not Found.
+

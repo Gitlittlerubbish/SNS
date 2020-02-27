@@ -1,0 +1,12 @@
+--2020-02-25 22:37:01--  http://guam.org.gu/gary.heathcote.muscle/Vilar2012.pdf%0D
+Resolving guam.org.gu (guam.org.gu)... --2020-02-25 22:37:01--  http://guam.org.gu/gary.heathcote.muscle/Vilar2012.pdf%0D
+Resolving guam.org.gu (guam.org.gu)... 168.123.129.22
+Connecting to guam.org.gu (guam.org.gu)|168.123.129.22|:80... 168.123.129.22
+Connecting to guam.org.gu (guam.org.gu)|168.123.129.22|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:37:02 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:37:02 ERROR 400: Bad Request.
+

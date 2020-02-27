@@ -1,0 +1,12 @@
+--2020-02-25 21:18:42--  https://www.parliament.gov.bw/images/files/CONSTITUENCIES_FINAL_14022013.pdf%0D
+Resolving www.parliament.gov.bw (www.parliament.gov.bw)... 196.216.163.113
+Connecting to www.parliament.gov.bw (www.parliament.gov.bw)|196.216.163.113|:443... connected.
+ERROR: cannot verify www.parliament.gov.bw's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Issued certificate has expired.
+To connect to www.parliament.gov.bw insecurely, use `--no-check-certificate'.
+--2020-02-25 21:25:23--  https://www.parliament.gov.bw/images/files/CONSTITUENCIES_FINAL_14022013.pdf%0D
+Resolving www.parliament.gov.bw (www.parliament.gov.bw)... 196.216.163.113
+Connecting to www.parliament.gov.bw (www.parliament.gov.bw)|196.216.163.113|:443... connected.
+ERROR: cannot verify www.parliament.gov.bw's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Issued certificate has expired.
+To connect to www.parliament.gov.bw insecurely, use `--no-check-certificate'.

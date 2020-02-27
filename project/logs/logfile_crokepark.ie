@@ -1,0 +1,6 @@
+--2020-02-25 22:56:50--  https://crokepark.ie/BlankSite/media/Images/croke_park_map.pdf%0D
+Resolving crokepark.ie (crokepark.ie)... 104.20.207.107, 104.20.208.107
+Connecting to crokepark.ie (crokepark.ie)|104.20.207.107|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:56:50 ERROR 400: Bad Request.
+

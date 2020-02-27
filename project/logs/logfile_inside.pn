@@ -1,0 +1,42 @@
+--2020-02-26 00:40:29--  http://inside.pn/qBT4q%0D
+Resolving inside.pn (inside.pn)... 54.241.242.72
+Connecting to inside.pn (inside.pn)|54.241.242.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.precisionnutrition.com [following]
+--2020-02-26 00:40:29--  http://www.precisionnutrition.com/
+Resolving www.precisionnutrition.com (www.precisionnutrition.com)... 104.20.193.104, 104.20.194.104
+Connecting to www.precisionnutrition.com (www.precisionnutrition.com)|104.20.193.104|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.precisionnutrition.com/ [following]
+--2020-02-26 00:40:29--  https://www.precisionnutrition.com/
+Connecting to www.precisionnutrition.com (www.precisionnutrition.com)|104.20.193.104|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.06M
+    50K .......... .......... .......... .......... .........  33.0M=0.1s
+
+2020-02-26 00:40:30 (7.20 Mb/s) - ‘/dev/null’ saved [101811]
+
+--2020-02-26 00:40:30--  http://inside.pn/qBT4q%0D
+Resolving inside.pn (inside.pn)... 54.241.242.72
+Connecting to inside.pn (inside.pn)|54.241.242.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.precisionnutrition.com [following]
+--2020-02-26 00:40:30--  http://www.precisionnutrition.com/
+Resolving www.precisionnutrition.com (www.precisionnutrition.com)... 104.20.193.104, 104.20.194.104
+Connecting to www.precisionnutrition.com (www.precisionnutrition.com)|104.20.193.104|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.precisionnutrition.com/ [following]
+--2020-02-26 00:40:30--  https://www.precisionnutrition.com/
+Connecting to www.precisionnutrition.com (www.precisionnutrition.com)|104.20.193.104|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 3.96M
+    50K .......... .......... .......... .......... .........  45.1M=0.1s
+
+2020-02-26 00:40:31 (7.24 Mb/s) - ‘/dev/null’ saved [101811]
+

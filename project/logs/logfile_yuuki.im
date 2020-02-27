@@ -1,0 +1,11 @@
+--2020-02-25 22:58:26--  https://yuuki.im/uploads/slides/lambdamart.pdf%0D
+Resolving yuuki.im (yuuki.im)... 119.28.113.108
+Connecting to yuuki.im (yuuki.im)|119.28.113.108|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://liam.page/uploads/slides/lambdamart.pdf%0D [following]
+--2020-02-25 22:58:28--  https://liam.page/uploads/slides/lambdamart.pdf%0D
+Resolving liam.page (liam.page)... 185.199.111.153, 185.199.108.153, 185.199.109.153, ...
+Connecting to liam.page (liam.page)|185.199.111.153|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:58:28 ERROR 404: Not Found.
+

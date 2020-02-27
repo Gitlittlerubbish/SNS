@@ -1,0 +1,53 @@
+--2020-02-25 22:16:33--  http://marqforsoc.gq/zv/bekanntmachungen/bekanntm_50_2012.pdf%0D
+Resolving marqforsoc.gq (marqforsoc.gq)... 104.31.77.215, 104.31.76.215
+Connecting to marqforsoc.gq (marqforsoc.gq)|104.31.77.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.12M
+    50K .......... .......... .......... .......... .......... 10.4M
+   100K .......... .......... .......... .......... .....       257M=0.1s
+
+2020-02-25 22:16:33 (9.88 Mb/s) - ‘/dev/null’ saved [149421]
+
+--2020-02-25 22:16:33--  http://marqforsoc.gq/zv/bekanntmachungen/bekanntm_50_2012.pdf%0D
+Resolving marqforsoc.gq (marqforsoc.gq)... 104.31.76.215, 104.31.77.215
+Connecting to marqforsoc.gq (marqforsoc.gq)|104.31.76.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.00M
+    50K .......... .......... .......... .......... .......... 11.5M
+   100K .......... .......... .......... .......... ..........  235M
+   150K .......... .......... .......... .......... ..........  473M
+   200K .....                                                   246M=0.1s
+
+2020-02-25 22:16:33 (14.0 Mb/s) - ‘/dev/null’ saved [210277]
+
+--2020-02-25 22:16:44--  http://marqforsoc.gq/zv/bekanntmachungen/bekanntm_50_2012.pdf%0D
+Resolving marqforsoc.gq (marqforsoc.gq)... 104.31.77.215, 104.31.76.215
+Connecting to marqforsoc.gq (marqforsoc.gq)|104.31.77.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.16M
+    50K .......... .......... .........                         160M=0.06s
+
+2020-02-25 22:16:44 (11.0 Mb/s) - ‘/dev/null’ saved [81040]
+
+--2020-02-25 22:16:44--  http://marqforsoc.gq/zv/bekanntmachungen/bekanntm_50_2012.pdf%0D
+Resolving marqforsoc.gq (marqforsoc.gq)... 104.31.76.215, 104.31.77.215
+Connecting to marqforsoc.gq (marqforsoc.gq)|104.31.76.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.14M
+    50K .......... .......... .......... .......... .......... 9.81M
+   100K .......... .......... .......                          5.46G=0.1s
+
+2020-02-25 22:16:44 (8.57 Mb/s) - ‘/dev/null’ saved [130106]
+

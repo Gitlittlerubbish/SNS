@@ -1,0 +1,20 @@
+--2020-02-25 22:01:14--  http://www.adopta.hr/images/pdf/adopted_children.pdf%0D
+Resolving www.adopta.hr (www.adopta.hr)... --2020-02-25 22:01:14--  http://www.adopta.hr/images/pdf/adopted_children.pdf%0D
+Resolving www.adopta.hr (www.adopta.hr)... 178.218.165.68
+Connecting to www.adopta.hr (www.adopta.hr)|178.218.165.68|:80... 178.218.165.68
+Connecting to www.adopta.hr (www.adopta.hr)|178.218.165.68|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.adopta.hr/images/pdf/adopted_children.pdf%0D [following]
+--2020-02-25 22:01:15--  https://www.adopta.hr/images/pdf/adopted_children.pdf%0D
+Connecting to www.adopta.hr (www.adopta.hr)|178.218.165.68|:443... 301 Moved Permanently
+Location: https://www.adopta.hr/images/pdf/adopted_children.pdf%0D [following]
+--2020-02-25 22:01:15--  https://www.adopta.hr/images/pdf/adopted_children.pdf%0D
+Connecting to www.adopta.hr (www.adopta.hr)|178.218.165.68|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:01:15 ERROR 500: Internal Server Error.
+
+500 Internal Server Error
+2020-02-25 22:01:15 ERROR 500: Internal Server Error.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:48:02--  http://www.kirschner.cx/files/mazda_1.pdf%0D
+Resolving www.kirschner.cx (www.kirschner.cx)... --2020-02-25 21:48:02--  http://www.kirschner.cx/files/mazda_1.pdf%0D
+Resolving www.kirschner.cx (www.kirschner.cx)... 195.122.209.248
+Connecting to www.kirschner.cx (www.kirschner.cx)|195.122.209.248|:80... 195.122.209.248
+Connecting to www.kirschner.cx (www.kirschner.cx)|195.122.209.248|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:48:02 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 21:48:02 ERROR 404: Not Found.
+

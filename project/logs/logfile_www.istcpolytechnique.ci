@@ -1,0 +1,12 @@
+--2020-02-25 22:00:32--  http://www.istcpolytechnique.ci/Reglement%2520interieur.pdf%0D
+Resolving www.istcpolytechnique.ci (www.istcpolytechnique.ci)... 164.160.35.252
+Connecting to www.istcpolytechnique.ci (www.istcpolytechnique.ci)|164.160.35.252|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:00:32 ERROR 404: Not Found.
+
+--2020-02-25 22:00:33--  http://www.istcpolytechnique.ci/Reglement%2520interieur.pdf%0D
+Resolving www.istcpolytechnique.ci (www.istcpolytechnique.ci)... 164.160.35.252
+Connecting to www.istcpolytechnique.ci (www.istcpolytechnique.ci)|164.160.35.252|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:00:34 ERROR 404: Not Found.
+

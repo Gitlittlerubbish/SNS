@@ -1,0 +1,6 @@
+--2020-02-25 23:13:39--  http://data.leocom.kr/datasheets/326221_86250.pdf%0D
+Resolving data.leocom.kr (data.leocom.kr)... 211.218.126.248
+Connecting to data.leocom.kr (data.leocom.kr)|211.218.126.248|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:13:40 ERROR 400: Bad Request.
+

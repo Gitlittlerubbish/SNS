@@ -1,0 +1,12 @@
+--2020-02-25 21:07:12--  http://www.academy.edu.by/files/Prof_post.pdf%0D
+Resolving www.academy.edu.by (www.academy.edu.by)... 134.17.5.230
+Connecting to www.academy.edu.by (www.academy.edu.by)|134.17.5.230|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:07:12 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:17:21--  http://www.academy.edu.by/files/Prof_post.pdf%0D
+Resolving www.academy.edu.by (www.academy.edu.by)... 134.17.5.230
+Connecting to www.academy.edu.by (www.academy.edu.by)|134.17.5.230|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:17:22 ERROR 500: Internal Server Error.
+

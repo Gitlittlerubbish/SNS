@@ -1,0 +1,12 @@
+--2020-02-25 21:35:42--  http://score.premierbet.cm/pdf/goals.pdf%0D
+Resolving score.premierbet.cm (score.premierbet.cm)... 104.17.214.6, 104.17.215.6
+Connecting to score.premierbet.cm (score.premierbet.cm)|104.17.214.6|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:42 ERROR 404: Not Found.
+
+--2020-02-25 21:37:38--  http://score.premierbet.cm/pdf/goals.pdf%0D
+Resolving score.premierbet.cm (score.premierbet.cm)... 104.17.215.6, 104.17.214.6
+Connecting to score.premierbet.cm (score.premierbet.cm)|104.17.215.6|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:39 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:04:59--  https://www.du.ac.bd/download/others/fee_for_student.pdf%0D
+Resolving www.du.ac.bd (www.du.ac.bd)... 103.221.255.100
+Connecting to www.du.ac.bd (www.du.ac.bd)|103.221.255.100|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:05:00 ERROR 404: Not Found.
+
+--2020-02-25 21:15:35--  https://www.du.ac.bd/download/others/fee_for_student.pdf%0D
+Resolving www.du.ac.bd (www.du.ac.bd)... 103.221.255.100
+Connecting to www.du.ac.bd (www.du.ac.bd)|103.221.255.100|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:36 ERROR 404: Not Found.
+

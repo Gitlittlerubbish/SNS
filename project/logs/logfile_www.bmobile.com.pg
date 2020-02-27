@@ -1,0 +1,12 @@
+--2020-02-26 00:27:50--  http://www.bmobile.com.pg/Home/ViewTerms%0D
+Resolving www.bmobile.com.pg (www.bmobile.com.pg)... 202.52.133.130
+Connecting to www.bmobile.com.pg (www.bmobile.com.pg)|202.52.133.130|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:27:52 ERROR 400: Bad Request.
+
+--2020-02-26 00:30:37--  http://www.bmobile.com.pg/Home/ViewTerms%0D
+Resolving www.bmobile.com.pg (www.bmobile.com.pg)... 202.52.133.130
+Connecting to www.bmobile.com.pg (www.bmobile.com.pg)|202.52.133.130|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:30:38 ERROR 400: Bad Request.
+

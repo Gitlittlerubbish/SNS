@@ -1,0 +1,12 @@
+--2020-02-25 23:09:15--  https://agilecloud.co.ke/Content/Datasheets/splunk.pdf%0D
+Resolving agilecloud.co.ke (agilecloud.co.ke)... 23.101.125.65
+Connecting to agilecloud.co.ke (agilecloud.co.ke)|23.101.125.65|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:09:15 ERROR 400: Bad Request.
+
+--2020-02-25 23:09:23--  https://agilecloud.co.ke/Content/Datasheets/splunk.pdf%0D
+Resolving agilecloud.co.ke (agilecloud.co.ke)... 23.101.125.65
+Connecting to agilecloud.co.ke (agilecloud.co.ke)|23.101.125.65|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:09:23 ERROR 400: Bad Request.
+

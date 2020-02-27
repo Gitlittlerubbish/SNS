@@ -1,0 +1,12 @@
+--2020-02-25 20:57:47--  https://headspace.org.au/schools/research-and-evaluation/page-not-found/%0D
+Resolving headspace.org.au (headspace.org.au)... 203.219.48.193
+Connecting to headspace.org.au (headspace.org.au)|203.219.48.193|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: unspecified
+ERROR: Redirection (301) without location.
+--2020-02-25 21:10:11--  https://headspace.org.au/schools/research-and-evaluation/page-not-found/%0D
+Resolving headspace.org.au (headspace.org.au)... 203.219.48.193
+Connecting to headspace.org.au (headspace.org.au)|203.219.48.193|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: unspecified
+ERROR: Redirection (301) without location.

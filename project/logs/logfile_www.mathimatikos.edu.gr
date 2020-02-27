@@ -1,0 +1,30 @@
+--2020-02-25 22:35:11--  http://www.mathimatikos.edu.gr/EXERCISES/Lykeio/A/typologio/Exisoseis2ndGrade.pdf%0D
+Resolving www.mathimatikos.edu.gr (www.mathimatikos.edu.gr)... --2020-02-25 22:35:11--  http://www.mathimatikos.edu.gr/EXERCISES/Lykeio/A/typologio/Exisoseis2ndGrade.pdf%0D
+Resolving www.mathimatikos.edu.gr (www.mathimatikos.edu.gr)... 185.4.133.228
+Connecting to www.mathimatikos.edu.gr (www.mathimatikos.edu.gr)|185.4.133.228|:80... 185.4.133.228
+Connecting to www.mathimatikos.edu.gr (www.mathimatikos.edu.gr)|185.4.133.228|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.mathimatikos.com/EXERCISES/Lykeio/A/typologio/Exisoseis2ndGrade.pdf%0d [following]
+--2020-02-25 22:35:11--  http://www.mathimatikos.com/EXERCISES/Lykeio/A/typologio/Exisoseis2ndGrade.pdf%0d
+Resolving www.mathimatikos.com (www.mathimatikos.com)... 301 Moved Permanently
+Location: http://www.mathimatikos.com/EXERCISES/Lykeio/A/typologio/Exisoseis2ndGrade.pdf%0d [following]
+--2020-02-25 22:35:11--  http://www.mathimatikos.com/EXERCISES/Lykeio/A/typologio/Exisoseis2ndGrade.pdf%0d
+Resolving www.mathimatikos.com (www.mathimatikos.com)... 185.4.133.228
+Reusing existing connection to www.mathimatikos.edu.gr:80.
+HTTP request sent, awaiting response... 185.4.133.228
+Reusing existing connection to www.mathimatikos.edu.gr:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mathimatikos.com/EXERCISES/Lykeio/A/typologio/Exisoseis2ndGrade.pdf%0d [following]
+--2020-02-25 22:35:12--  https://www.mathimatikos.com/EXERCISES/Lykeio/A/typologio/Exisoseis2ndGrade.pdf%0d
+Connecting to www.mathimatikos.com (www.mathimatikos.com)|185.4.133.228|:443... 301 Moved Permanently
+Location: https://www.mathimatikos.com/EXERCISES/Lykeio/A/typologio/Exisoseis2ndGrade.pdf%0d [following]
+--2020-02-25 22:35:12--  https://www.mathimatikos.com/EXERCISES/Lykeio/A/typologio/Exisoseis2ndGrade.pdf%0d
+Connecting to www.mathimatikos.com (www.mathimatikos.com)|185.4.133.228|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:35:12 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:35:12 ERROR 404: Not Found.
+

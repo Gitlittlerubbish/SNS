@@ -1,0 +1,6 @@
+--2020-02-25 21:01:53--  http://instalmed.co.ao/media/27498/eli_150c_por_spec_rev_1lr.pdf%0D
+Resolving instalmed.co.ao (instalmed.co.ao)... 94.46.181.130
+Connecting to instalmed.co.ao (instalmed.co.ao)|94.46.181.130|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:53 ERROR 400: Bad Request.
+

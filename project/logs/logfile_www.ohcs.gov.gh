@@ -1,0 +1,12 @@
+--2020-02-25 22:33:58--  http://www.ohcs.gov.gh/sites/default/files/2017%2520CSAPR.pdf%0D
+Resolving www.ohcs.gov.gh (www.ohcs.gov.gh)... 197.253.124.56
+Connecting to www.ohcs.gov.gh (www.ohcs.gov.gh)|197.253.124.56|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:33:59--  http://www.ohcs.gov.gh/sites/default/files/2017%2520CSAPR.pdf%0D
+Resolving www.ohcs.gov.gh (www.ohcs.gov.gh)... 197.253.124.56
+Connecting to www.ohcs.gov.gh (www.ohcs.gov.gh)|197.253.124.56|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:33:59 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:33:59 ERROR 404: Not Found.
+

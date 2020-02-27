@@ -1,0 +1,12 @@
+--2020-02-25 22:19:44--  https://www.heilsutrygd.fo/get.file%3FID%3D15885%0D
+Resolving www.heilsutrygd.fo (www.heilsutrygd.fo)... 63.32.38.184, 34.255.33.161
+Connecting to www.heilsutrygd.fo (www.heilsutrygd.fo)|63.32.38.184|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:44 ERROR 403: Forbidden.
+
+--2020-02-25 22:19:44--  https://www.heilsutrygd.fo/get.file%3FID%3D15885%0D
+Resolving www.heilsutrygd.fo (www.heilsutrygd.fo)... 63.32.38.184, 34.255.33.161
+Connecting to www.heilsutrygd.fo (www.heilsutrygd.fo)|63.32.38.184|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:44 ERROR 403: Forbidden.
+

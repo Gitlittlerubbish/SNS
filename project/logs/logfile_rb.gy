@@ -1,0 +1,152 @@
+--2020-02-25 22:40:04--  https://rb.gy/4ed1b0%0D
+Resolving rb.gy (rb.gy)... --2020-02-25 22:40:04--  https://rb.gy/4ed1b0%0D
+Resolving rb.gy (rb.gy)... 13.248.148.104, 76.223.20.46
+Connecting to rb.gy (rb.gy)|13.248.148.104|:443... 13.248.148.104, 76.223.20.46
+Connecting to rb.gy (rb.gy)|13.248.148.104|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: https://free-url-shortener.rb.gy/ [following]
+--2020-02-25 22:40:04--  https://free-url-shortener.rb.gy/
+Resolving free-url-shortener.rb.gy (free-url-shortener.rb.gy)... 302 Found
+Location: https://free-url-shortener.rb.gy/ [following]
+--2020-02-25 22:40:04--  https://free-url-shortener.rb.gy/
+Resolving free-url-shortener.rb.gy (free-url-shortener.rb.gy)... 13.35.198.80, 13.35.198.40, 13.35.198.106, ...
+Connecting to free-url-shortener.rb.gy (free-url-shortener.rb.gy)|13.35.198.80|:443... connected.
+HTTP request sent, awaiting response... 143.204.175.19, 143.204.175.55, 143.204.175.72, ...
+Connecting to free-url-shortener.rb.gy (free-url-shortener.rb.gy)|143.204.175.19|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200684 (196K) [text/html]
+Saving to: ‘/dev/null’
+200 OK
+Length: 200684 (196K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  199M 0s
+    50K .......... .......... .......... .......... .......... 51%  382M 0s
+   100K .......... .......... .......... .......... .......... 76%  214M 0s
+   150K .......... .......... .......... .......... .....     100% 1.22G=0.005s
+
+2020-02-25 22:40:04 (300 Mb/s) - ‘/dev/null’ saved [200684/200684]
+
+--2020-02-25 22:40:04--  https://rb.gy/4ed1b0%0D
+Resolving rb.gy (rb.gy)... 13.248.148.104, 76.223.20.46
+Connecting to rb.gy (rb.gy)|13.248.148.104|:443... 
+     0K .......... .......... .......... ...connected.
+....... .......... 25% 2.77M 0s
+    50K .......... .......... .......... .......... .......... 51%  402M 0s
+   100K .......... .......... .......... .......... .......... 76% 5.45M 0s
+   150K .......... .......... .......... .......... .....     100%  283M=0.2s
+
+2020-02-25 22:40:05 (7.12 Mb/s) - ‘/dev/null’ saved [200684/200684]
+
+--2020-02-25 22:40:05--  https://rb.gy/4ed1b0%0D
+Resolving rb.gy (rb.gy)... 76.223.20.46, 13.248.148.104
+Connecting to rb.gy (rb.gy)|76.223.20.46|:443... HTTP request sent, awaiting response... connected.
+302 Found
+Location: https://free-url-shortener.rb.gy/ [following]
+--2020-02-25 22:40:05--  https://free-url-shortener.rb.gy/
+Resolving free-url-shortener.rb.gy (free-url-shortener.rb.gy)... 143.204.175.72, 143.204.175.60, 143.204.175.19, ...
+Connecting to free-url-shortener.rb.gy (free-url-shortener.rb.gy)|143.204.175.72|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200684 (196K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  138M 0s
+    50K .......... .......... .......... .......... .......... 51%  310M 0s
+   100K .......... .......... .......... .......... .......... 76%  458M 0s
+   150K .......... .......... .......... .......... .....     100%  577M=0.006s
+
+2020-02-25 22:40:05 (275 Mb/s) - ‘/dev/null’ saved [200684/200684]
+
+--2020-02-25 22:40:05--  https://rb.gy/eevpp4%0D
+Resolving rb.gy (rb.gy)... 13.248.148.104, 76.223.20.46
+Connecting to rb.gy (rb.gy)|13.248.148.104|:443... HTTP request sent, awaiting response... connected.
+302 Found
+Location: https://free-url-shortener.rb.gy/ [following]
+--2020-02-25 22:40:05--  https://free-url-shortener.rb.gy/
+Resolving free-url-shortener.rb.gy (free-url-shortener.rb.gy)... 143.204.175.19, 143.204.175.55, 143.204.175.72, ...
+Connecting to free-url-shortener.rb.gy (free-url-shortener.rb.gy)|143.204.175.19|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200684 (196K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  196M 0s
+    50K .......... .......... .......... .......... .......... 51%  449M 0s
+   100K .......... .......... .......... .......... .......... 76%  658M 0s
+   150K .......... .......... .......... .......... .....     100%  814M=0.004s
+
+2020-02-25 22:40:05 (392 Mb/s) - ‘/dev/null’ saved [200684/200684]
+
+--2020-02-25 22:40:05--  https://rb.gy/eevpp4%0D
+Resolving rb.gy (rb.gy)... 13.248.148.104, 76.223.20.46
+Connecting to rb.gy (rb.gy)|13.248.148.104|:443... HTTP request sent, awaiting response... connected.
+302 Found
+Location: https://free-url-shortener.rb.gy/ [following]
+--2020-02-25 22:40:05--  https://free-url-shortener.rb.gy/
+Resolving free-url-shortener.rb.gy (free-url-shortener.rb.gy)... 143.204.175.19, 143.204.175.55, 143.204.175.72, ...
+Connecting to free-url-shortener.rb.gy (free-url-shortener.rb.gy)|143.204.175.19|:443... connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: https://free-url-shortener.rb.gy/ [following]
+--2020-02-25 22:40:05--  https://free-url-shortener.rb.gy/
+Resolving free-url-shortener.rb.gy (free-url-shortener.rb.gy)... 143.204.175.60, 143.204.175.19, 143.204.175.55, ...
+Connecting to free-url-shortener.rb.gy (free-url-shortener.rb.gy)|143.204.175.60|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200684 (196K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .....200 OK
+Length: 200684 (196K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...... .......... ........... ................ .......... 25%  215M 0s
+    50K ........ 25%  195M 0s
+    50K .......... ........ .......... .......... .......... ............ .......... .......... .......... 51%  534M 0s
+   100K .......... ...... 51%  402M 0s
+   100K .......... .......... ................ .......... .......... ...... .......... .......... 76%  634M 0s
+   150K ................ 76%  425M 0s
+   150K ......... .......... ....... .......... .......... .......... ..... .......... .....     100%  753M=0.004s
+
+2020-02-25 22:40:06 (377 Mb/s) - ‘/dev/null’ saved [200684/200684]
+
+--2020-02-25 22:40:06--  https://rb.gy/eevpp4%0D
+Resolving rb.gy (rb.gy)... ....     100%  907M=0.004s
+
+2020-02-25 22:40:06 (396 Mb/s) - ‘/dev/null’ saved [200684/200684]
+
+76.223.20.46, 13.248.148.104
+Connecting to rb.gy (rb.gy)|76.223.20.46|:443... --2020-02-25 22:40:06--  https://rb.gy/eevpp4%0D
+Resolving rb.gy (rb.gy)... 76.223.20.46, 13.248.148.104
+Connecting to rb.gy (rb.gy)|76.223.20.46|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: https://free-url-shortener.rb.gy/ [following]
+--2020-02-25 22:40:06--  https://free-url-shortener.rb.gy/
+Resolving free-url-shortener.rb.gy (free-url-shortener.rb.gy)... 143.204.175.72, 143.204.175.60, 143.204.175.19, ...
+Connecting to free-url-shortener.rb.gy (free-url-shortener.rb.gy)|143.204.175.72|:443... connected.
+302 Found
+Location: https://free-url-shortener.rb.gy/ [following]
+--2020-02-25 22:40:06--  https://free-url-shortener.rb.gy/
+Resolving free-url-shortener.rb.gy (free-url-shortener.rb.gy)... 143.204.175.19, 143.204.175.55, 143.204.175.72, ...
+Connecting to free-url-shortener.rb.gy (free-url-shortener.rb.gy)|143.204.175.19|:443... connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: 200684 (196K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .....200 OK
+Length: 200684 (196K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...... .......... ........... ................ .......... 25%  196M 0s
+    50K .......... .... 25%  204M 0s
+    50K .......... ........... ........... .......... .......... .......... .......... ............ 51%  406M 0s
+   100K .............. 51%  420M 0s
+   100K .......... .. .......... .............. ............ .......... .... .............. 76%  757M 0s
+   150K ............ ...... .......... .......... 76%  685M 0s
+   150K .......... .......... .......... .......... ........ .......... .....     100%  862M=0.004s
+
+2020-02-25 22:40:06 (394 Mb/s) - ‘/dev/null’ saved [200684/200684]
+
+...     100% 97.6M=0.007s
+
+2020-02-25 22:40:06 (216 Mb/s) - ‘/dev/null’ saved [200684/200684]
+

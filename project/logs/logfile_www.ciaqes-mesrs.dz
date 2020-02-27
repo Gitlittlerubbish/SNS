@@ -1,28 +1,12 @@
---2020-02-25 15:37:51--  http://www.ciaqes-mesrs.dz/documentation/ENQA_2005_report.pdf
+--2020-02-25 20:59:43--  http://www.ciaqes-mesrs.dz/documentation/ENQA_2005_report.pdf%0D
 Resolving www.ciaqes-mesrs.dz (www.ciaqes-mesrs.dz)... 193.194.90.27
 Connecting to www.ciaqes-mesrs.dz (www.ciaqes-mesrs.dz)|193.194.90.27|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 171640 (168K) [application/pdf]
-Saving to: ‘/dev/null’
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:43 ERROR 404: Not Found.
 
-     0K .......... .......... .......... .......... .......... 29% 3.17M 0s
-    50K .......... .......... .......... .......... .......... 59% 4.93M 0s
-   100K .......... .......... .......... .......... .......... 89% 7.02M 0s
-   150K .......... .......                                    100% 3.77M=0.3s
-
-2020-02-25 15:37:52 (4.44 Mb/s) - ‘/dev/null’ saved [171640/171640]
-
---2020-02-25 15:37:52--  http://www.ciaqes-mesrs.dz/documentation/ENQA_2005_report.pdf
+--2020-02-25 20:59:43--  http://www.ciaqes-mesrs.dz/documentation/ENQA_2005_report.pdf%0D
 Resolving www.ciaqes-mesrs.dz (www.ciaqes-mesrs.dz)... 193.194.90.27
 Connecting to www.ciaqes-mesrs.dz (www.ciaqes-mesrs.dz)|193.194.90.27|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 171640 (168K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 29% 3.48M 0s
-    50K .......... .......... .......... .......... .......... 59% 4.05M 0s
-   100K .......... .......... .......... .......... .......... 89% 5.00M 0s
-   150K .......... .......                                    100% 15.0M=0.3s
-
-2020-02-25 15:37:53 (4.43 Mb/s) - ‘/dev/null’ saved [171640/171640]
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:43 ERROR 404: Not Found.
 

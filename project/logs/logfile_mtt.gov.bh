@@ -1,0 +1,12 @@
+--2020-02-25 21:03:12--  https://mtt.gov.bh/sites/default/files/f168.pdf%0D
+Resolving mtt.gov.bh (mtt.gov.bh)... 192.124.249.68
+Connecting to mtt.gov.bh (mtt.gov.bh)|192.124.249.68|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:03:12 ERROR 403: Forbidden.
+
+--2020-02-25 21:14:28--  https://mtt.gov.bh/sites/default/files/f168.pdf%0D
+Resolving mtt.gov.bh (mtt.gov.bh)... 192.124.249.68
+Connecting to mtt.gov.bh (mtt.gov.bh)|192.124.249.68|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:14:28 ERROR 403: Forbidden.
+

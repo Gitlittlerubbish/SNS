@@ -1,0 +1,12 @@
+--2020-02-25 21:08:21--  http://aito.bz/catalog/2019all.pdf%0D
+Resolving aito.bz (aito.bz)... 157.7.107.219
+Connecting to aito.bz (aito.bz)|157.7.107.219|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:08:24 ERROR 404: Not Found.
+
+--2020-02-25 21:18:09--  http://aito.bz/catalog/2019all.pdf%0D
+Resolving aito.bz (aito.bz)... 157.7.107.219
+Connecting to aito.bz (aito.bz)|157.7.107.219|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:11 ERROR 404: Not Found.
+

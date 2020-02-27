@@ -1,0 +1,28 @@
+--2020-02-25 23:47:35--  https://www.unach.mx/component/k2/download/333_7db25e820b3482cac9179ca5b01f00b8%0D
+Resolving www.unach.mx (www.unach.mx)... 148.222.11.36
+Connecting to www.unach.mx (www.unach.mx)|148.222.11.36|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 167909 (164K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 1.41M 1s
+    50K .......... .......... .......... .......... .......... 60% 2.83M 0s
+   100K .......... .......... .......... .......... .......... 91% 1.29G 0s
+   150K .......... ...                                        100% 3.96G=0.4s
+
+2020-02-25 23:47:36 (3.09 Mb/s) - ‘/dev/null’ saved [167909/167909]
+
+--2020-02-25 23:47:36--  https://www.unach.mx/component/k2/download/333_7db25e820b3482cac9179ca5b01f00b8%0D
+Resolving www.unach.mx (www.unach.mx)... 148.222.11.36
+Connecting to www.unach.mx (www.unach.mx)|148.222.11.36|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 167909 (164K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 1.41M 1s
+    50K .......... .......... .......... .......... .......... 60% 2.83M 0s
+   100K .......... .......... .......... .......... .......... 91% 1.05G 0s
+   150K .......... ...                                        100% 4.05G=0.4s
+
+2020-02-25 23:47:37 (3.09 Mb/s) - ‘/dev/null’ saved [167909/167909]
+

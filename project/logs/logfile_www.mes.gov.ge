@@ -1,0 +1,44 @@
+--2020-02-25 22:30:51--  http://www.mes.gov.ge/uploads/224.pdf%0D
+Resolving www.mes.gov.ge (www.mes.gov.ge)... 194.60.250.210
+Connecting to www.mes.gov.ge (www.mes.gov.ge)|194.60.250.210|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        2.03G=0s
+
+2020-02-25 22:30:51 (2.03 Gb/s) - ‘/dev/null’ saved [730]
+
+--2020-02-25 22:30:51--  http://www.mes.gov.ge/uploads/224.pdf%0D
+Resolving www.mes.gov.ge (www.mes.gov.ge)... 194.60.250.210
+Connecting to www.mes.gov.ge (www.mes.gov.ge)|194.60.250.210|:80... --2020-02-25 22:30:51--  http://www.mes.gov.ge/uploads/224.pdf%0D
+Resolving www.mes.gov.ge (www.mes.gov.ge)... 194.60.250.210
+Connecting to www.mes.gov.ge (www.mes.gov.ge)|194.60.250.210|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         836M=0s
+
+2020-02-25 22:30:52 (836 Mb/s) - ‘/dev/null’ saved [730]
+
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        1.76G=0s
+
+2020-02-25 22:30:52 (1.76 Gb/s) - ‘/dev/null’ saved [730]
+
+--2020-02-25 22:30:52--  http://www.mes.gov.ge/uploads/224.pdf%0D
+Resolving www.mes.gov.ge (www.mes.gov.ge)... 194.60.250.210
+Connecting to www.mes.gov.ge (www.mes.gov.ge)|194.60.250.210|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        2.05G=0s
+
+2020-02-25 22:30:52 (2.05 Gb/s) - ‘/dev/null’ saved [730]
+

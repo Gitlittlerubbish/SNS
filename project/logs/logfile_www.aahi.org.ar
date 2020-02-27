@@ -1,0 +1,6 @@
+--2020-02-25 21:05:21--  http://www.aahi.org.ar/jsc160012.pdf%0D
+Resolving www.aahi.org.ar (www.aahi.org.ar)... 69.25.11.28
+Connecting to www.aahi.org.ar (www.aahi.org.ar)|69.25.11.28|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:05:23 ERROR 404: Not Found.
+

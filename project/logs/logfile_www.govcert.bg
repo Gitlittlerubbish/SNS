@@ -1,0 +1,12 @@
+--2020-02-25 21:27:25--  https://www.govcert.bg/EN/Documents/CSIRT%2520Handbook.pdf%0D
+Resolving www.govcert.bg (www.govcert.bg)... 212.122.185.249
+Connecting to www.govcert.bg (www.govcert.bg)|212.122.185.249|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:27:25 ERROR 400: Bad Request.
+
+--2020-02-25 21:32:32--  https://www.govcert.bg/EN/Documents/CSIRT%2520Handbook.pdf%0D
+Resolving www.govcert.bg (www.govcert.bg)... 212.122.185.249
+Connecting to www.govcert.bg (www.govcert.bg)|212.122.185.249|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:32:32 ERROR 400: Bad Request.
+

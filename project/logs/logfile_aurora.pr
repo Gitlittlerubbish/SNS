@@ -1,0 +1,6 @@
+--2020-02-26 00:43:01--  http://aurora.pr/assets/documents/declaracion_de_privacidad.pdf%0D
+Resolving aurora.pr (aurora.pr)... 50.62.160.246
+Connecting to aurora.pr (aurora.pr)|50.62.160.246|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:43:01 ERROR 400: Bad Request.
+

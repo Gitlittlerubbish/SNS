@@ -1,0 +1,7 @@
+--2020-02-25 22:46:51--  http://www.nye.hu/telefonkonyv/telefonkonyv.pdf%0D
+Resolving www.nye.hu (www.nye.hu)... 193.224.106.238
+Connecting to www.nye.hu (www.nye.hu)|193.224.106.238|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Cookie coming from www.nye.hu attempted to set domain to nye.hu
+2020-02-25 22:46:52 ERROR 404: Not Found.
+

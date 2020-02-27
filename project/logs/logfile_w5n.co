@@ -1,0 +1,49 @@
+--2020-02-25 21:50:50--  http://w5n.co/1000%0D
+Resolving w5n.co (w5n.co)... failed: Connection timed out.
+wget: unable to resolve host address ‘w5n.co’
+--2020-02-25 21:50:54--  http://w5n.co/1000%0D
+Resolving w5n.co (w5n.co)... 67.199.248.13, 67.199.248.12
+Connecting to w5n.co (w5n.co)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.studyphim.vn/assets/img/1000cumtuthongdungnhat.pdf [following]
+--2020-02-25 21:50:56--  https://www.studyphim.vn/assets/img/1000cumtuthongdungnhat.pdf
+Resolving www.studyphim.vn (www.studyphim.vn)... 124.158.12.196
+Connecting to www.studyphim.vn (www.studyphim.vn)|124.158.12.196|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 358965 (351K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 1.01M 2s
+    50K .......... .......... .......... .......... .......... 28% 1.01M 2s
+   100K .......... .......... .......... .......... .......... 42% 1.01M 2s
+   150K .......... .......... .......... .......... .......... 57% 2.03M 1s
+   200K .......... .......... .......... .......... .......... 71% 1.38G 1s
+   250K .......... .......... .......... .......... .......... 85% 2.03M 0s
+   300K .......... .......... .......... .......... .......... 99% 1.19G 0s
+   350K                                                       100% 9040G=1.6s
+
+2020-02-25 21:50:59 (1.78 Mb/s) - ‘/dev/null’ saved [358965/358965]
+
+--2020-02-25 21:50:59--  http://w5n.co/1000%0D
+Resolving w5n.co (w5n.co)... 67.199.248.13, 67.199.248.12
+Connecting to w5n.co (w5n.co)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.studyphim.vn/assets/img/1000cumtuthongdungnhat.pdf [following]
+--2020-02-25 21:50:59--  https://www.studyphim.vn/assets/img/1000cumtuthongdungnhat.pdf
+Resolving www.studyphim.vn (www.studyphim.vn)... 124.158.12.196
+Connecting to www.studyphim.vn (www.studyphim.vn)|124.158.12.196|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 358965 (351K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14%  930K 3s
+    50K .......... .......... .......... .......... .......... 28%  932K 2s
+   100K .......... .......... .......... .......... .......... 42% 1.86M 1s
+   150K .......... .......... .......... .......... .......... 57% 1.86M 1s
+   200K .......... .......... .......... .......... .......... 71% 1.86M 1s
+   250K .......... .......... .......... .......... .......... 85% 1.42G 0s
+   300K .......... .......... .......... .......... .......... 99% 1.86M 0s
+   350K                                                       100% 9040G=1.8s
+
+2020-02-25 21:51:02 (1.63 Mb/s) - ‘/dev/null’ saved [358965/358965]
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:26:24--  http://www.agc.gov.bn/AGC%2520Images/LAWS/ACT_PDF/cap119.pdf%0D
+Resolving www.agc.gov.bn (www.agc.gov.bn)... 103.4.188.86
+Connecting to www.agc.gov.bn (www.agc.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:25 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:36--  http://www.agc.gov.bn/AGC%2520Images/LAWS/ACT_PDF/cap119.pdf%0D
+Resolving www.agc.gov.bn (www.agc.gov.bn)... 103.4.188.86
+Connecting to www.agc.gov.bn (www.agc.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:36 ERROR 400: Bad Request.
+

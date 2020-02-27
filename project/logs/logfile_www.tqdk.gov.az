@@ -1,0 +1,12 @@
+--2020-02-25 21:00:33--  http://www.tqdk.gov.az/upload/iblock/d88/d885d5eb090ff0c80e90b24262150767.pdf%0D
+Resolving www.tqdk.gov.az (www.tqdk.gov.az)... 31.170.236.82
+Connecting to www.tqdk.gov.az (www.tqdk.gov.az)|31.170.236.82|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:34 ERROR 404: Not Found.
+
+--2020-02-25 21:12:24--  http://www.tqdk.gov.az/upload/iblock/d88/d885d5eb090ff0c80e90b24262150767.pdf%0D
+Resolving www.tqdk.gov.az (www.tqdk.gov.az)... 31.170.236.82
+Connecting to www.tqdk.gov.az (www.tqdk.gov.az)|31.170.236.82|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:24 ERROR 404: Not Found.
+

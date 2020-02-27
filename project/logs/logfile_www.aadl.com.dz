@@ -1,0 +1,22 @@
+--2020-02-25 20:55:53--  http://www.aadl.com.dz/notaire/declaration.pdf%0D
+Resolving www.aadl.com.dz (www.aadl.com.dz)... 197.112.0.36
+Connecting to www.aadl.com.dz (www.aadl.com.dz)|197.112.0.36|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  648M=0s
+
+2020-02-25 20:55:53 (648 Mb/s) - ‘/dev/null’ saved [247/247]
+
+--2020-02-25 20:55:53--  http://www.aadl.com.dz/notaire/declaration.pdf%0D
+Resolving www.aadl.com.dz (www.aadl.com.dz)... 197.112.0.36
+Connecting to www.aadl.com.dz (www.aadl.com.dz)|197.112.0.36|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  243M=0s
+
+2020-02-25 20:55:54 (243 Mb/s) - ‘/dev/null’ saved [247/247]
+

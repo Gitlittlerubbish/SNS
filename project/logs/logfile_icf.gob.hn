@@ -1,0 +1,6 @@
+--2020-02-25 22:44:31--  http://icf.gob.hn/wp-content/uploads/2018/07/ENCTI-WEB.pdf%0D
+Resolving icf.gob.hn (icf.gob.hn)... 190.92.36.178
+Connecting to icf.gob.hn (icf.gob.hn)|190.92.36.178|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:44:32 ERROR 403: Forbidden.
+

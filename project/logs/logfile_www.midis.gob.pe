@@ -1,0 +1,6 @@
+--2020-02-26 00:36:42--  http://www.midis.gob.pe/dmdocuments/Ley_29792_CreacionMIDIS.pdf%0D
+Resolving www.midis.gob.pe (www.midis.gob.pe)... 200.41.85.81
+Connecting to www.midis.gob.pe (www.midis.gob.pe)|200.41.85.81|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:36:43 ERROR 404: Not Found.
+

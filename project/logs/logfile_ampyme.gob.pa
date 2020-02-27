@@ -1,0 +1,22 @@
+--2020-02-26 00:26:29--  https://ampyme.gob.pa/%3Fattachment_id%3D30019%0D
+Resolving ampyme.gob.pa (ampyme.gob.pa)... 168.77.211.234
+Connecting to ampyme.gob.pa (ampyme.gob.pa)|168.77.211.234|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  106M=0s
+
+2020-02-26 00:26:30 (106 Mb/s) - ‘/dev/null’ saved [246/246]
+
+--2020-02-26 00:26:30--  https://ampyme.gob.pa/%3Fattachment_id%3D30019%0D
+Resolving ampyme.gob.pa (ampyme.gob.pa)... 168.77.211.234
+Connecting to ampyme.gob.pa (ampyme.gob.pa)|168.77.211.234|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  109M=0s
+
+2020-02-26 00:26:31 (109 Mb/s) - ‘/dev/null’ saved [246/246]
+

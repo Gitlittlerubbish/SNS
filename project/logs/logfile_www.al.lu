@@ -1,0 +1,6 @@
+--2020-02-25 23:26:33--  http://www.al.lu/pdf/IB/Brochure_OPEN_DAY.pdf%0D
+Resolving www.al.lu (www.al.lu)... 158.64.21.5
+Connecting to www.al.lu (www.al.lu)|158.64.21.5|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:26:33 ERROR 400: Bad Request.
+

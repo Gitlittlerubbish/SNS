@@ -1,0 +1,12 @@
+--2020-02-25 21:32:34--  https://www.sisp.cv/docs/Relatorio_e_Contas_SISP_2018_%2520Assinado_Reduzido.pdf%0D
+Resolving www.sisp.cv (www.sisp.cv)... 41.221.198.100
+Connecting to www.sisp.cv (www.sisp.cv)|41.221.198.100|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:32:35 ERROR 400: Bad Request.
+
+--2020-02-25 21:35:33--  https://www.sisp.cv/docs/Relatorio_e_Contas_SISP_2018_%2520Assinado_Reduzido.pdf%0D
+Resolving www.sisp.cv (www.sisp.cv)... 41.221.198.100
+Connecting to www.sisp.cv (www.sisp.cv)|41.221.198.100|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:35:33 ERROR 400: Bad Request.
+

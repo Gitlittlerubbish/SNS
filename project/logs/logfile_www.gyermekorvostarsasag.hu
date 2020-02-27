@@ -1,0 +1,6 @@
+--2020-02-25 22:47:08--  http://www.gyermekorvostarsasag.hu/upload/gyermekorvostarsasag/document/Gyermekgyogyaszat_2003_jun_04_Ujszulottkori_apnoe.pdf%0D
+Resolving www.gyermekorvostarsasag.hu (www.gyermekorvostarsasag.hu)... 195.56.189.73
+Connecting to www.gyermekorvostarsasag.hu (www.gyermekorvostarsasag.hu)|195.56.189.73|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:47:08 ERROR 400: Bad Request.
+

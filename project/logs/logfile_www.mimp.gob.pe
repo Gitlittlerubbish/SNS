@@ -1,0 +1,6 @@
+--2020-02-26 00:37:26--  https://www.mimp.gob.pe/adultomayor/archivos/Norma_A_120.pdf%0D
+Resolving www.mimp.gob.pe (www.mimp.gob.pe)... 151.139.128.10
+Connecting to www.mimp.gob.pe (www.mimp.gob.pe)|151.139.128.10|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:37:26 ERROR 403: Forbidden.
+

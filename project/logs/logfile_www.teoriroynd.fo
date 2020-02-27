@@ -1,0 +1,12 @@
+--2020-02-25 22:19:30--  https://www.teoriroynd.fo/files/teoribog2.pdf%0D
+Resolving www.teoriroynd.fo (www.teoriroynd.fo)... --2020-02-25 22:19:30--  https://www.teoriroynd.fo/files/teoribog2.pdf%0D
+Resolving www.teoriroynd.fo (www.teoriroynd.fo)... 89.188.72.141
+Connecting to www.teoriroynd.fo (www.teoriroynd.fo)|89.188.72.141|:443... 89.188.72.141
+Connecting to www.teoriroynd.fo (www.teoriroynd.fo)|89.188.72.141|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:30 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:19:30 ERROR 400: Bad Request.
+

@@ -1,0 +1,32 @@
+--2020-02-25 23:07:27--  http://www.kazakhinstrakh.kz/files/reestr_010718.pdf%0D
+Resolving www.kazakhinstrakh.kz (www.kazakhinstrakh.kz)... 185.98.7.148
+Connecting to www.kazakhinstrakh.kz (www.kazakhinstrakh.kz)|185.98.7.148|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.halyksk.kz [following]
+--2020-02-25 23:07:28--  http://www.halyksk.kz/
+Resolving www.halyksk.kz (www.halyksk.kz)... 185.98.7.148
+Reusing existing connection to www.kazakhinstrakh.kz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ....                  2.15M=0.1s
+
+2020-02-25 23:07:29 (2.15 Mb/s) - ‘/dev/null’ saved [35725]
+
+--2020-02-25 23:07:29--  http://www.kazakhinstrakh.kz/files/reestr_010718.pdf%0D
+Resolving www.kazakhinstrakh.kz (www.kazakhinstrakh.kz)... 185.98.7.148
+Connecting to www.kazakhinstrakh.kz (www.kazakhinstrakh.kz)|185.98.7.148|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.halyksk.kz [following]
+--2020-02-25 23:07:29--  http://www.halyksk.kz/
+Resolving www.halyksk.kz (www.halyksk.kz)... 185.98.7.148
+Reusing existing connection to www.kazakhinstrakh.kz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ....                  2.18M=0.1s
+
+2020-02-25 23:07:31 (2.18 Mb/s) - ‘/dev/null’ saved [35725]
+

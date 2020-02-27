@@ -1,0 +1,6 @@
+--2020-02-25 22:45:57--  https://www.nwstbus.com.hk/fareConcession/22_c_pack_dtl_txt.pdf%0D
+Resolving www.nwstbus.com.hk (www.nwstbus.com.hk)... 61.244.16.41
+Connecting to www.nwstbus.com.hk (www.nwstbus.com.hk)|61.244.16.41|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:45:58 ERROR 400: Bad Request.
+

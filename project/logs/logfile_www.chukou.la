@@ -1,0 +1,6 @@
+--2020-02-25 23:18:59--  http://www.chukou.la/img/chukoula.pdf%0D
+Resolving www.chukou.la (www.chukou.la)... 121.41.114.118
+Connecting to www.chukou.la (www.chukou.la)|121.41.114.118|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:19:00 ERROR 400: Bad Request.
+

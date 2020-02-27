@@ -1,0 +1,16 @@
+--2020-02-25 22:55:33--  https://www.uotechnology.edu.iq/dep-production/laith/DCLec10.pdf%0D
+Resolving www.uotechnology.edu.iq (www.uotechnology.edu.iq)... 104.26.13.60, 104.26.12.60
+Connecting to www.uotechnology.edu.iq (www.uotechnology.edu.iq)|104.26.13.60|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:55:33 ERROR 404: Not Found.
+
+--2020-02-25 22:55:33--  http://www.uotechnology.edu.iq/dep-production/laith/DCLec11.pdf%0D
+Resolving www.uotechnology.edu.iq (www.uotechnology.edu.iq)... 104.26.13.60, 104.26.12.60
+Connecting to www.uotechnology.edu.iq (www.uotechnology.edu.iq)|104.26.13.60|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uotechnology.edu.iq/dep-production/laith/DCLec11.pdf%0D [following]
+--2020-02-25 22:55:33--  https://www.uotechnology.edu.iq/dep-production/laith/DCLec11.pdf%0D
+Connecting to www.uotechnology.edu.iq (www.uotechnology.edu.iq)|104.26.13.60|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:55:33 ERROR 404: Not Found.
+

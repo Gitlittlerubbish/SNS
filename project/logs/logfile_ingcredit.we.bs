@@ -1,0 +1,6 @@
+--2020-02-25 21:01:50--  https://ingcredit.we.bs/ing.au/pdf/SA_Terms_and_Conditions.pdf%0D
+Resolving ingcredit.we.bs (ingcredit.we.bs)... failed: Name or service not known.
+wget: unable to resolve host address ‘ingcredit.we.bs’
+--2020-02-25 21:13:16--  https://ingcredit.we.bs/ing.au/pdf/SA_Terms_and_Conditions.pdf%0D
+Resolving ingcredit.we.bs (ingcredit.we.bs)... failed: Name or service not known.
+wget: unable to resolve host address ‘ingcredit.we.bs’

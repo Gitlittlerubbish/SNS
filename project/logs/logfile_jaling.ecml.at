@@ -1,0 +1,12 @@
+--2020-02-25 20:59:27--  http://jaling.ecml.at/pdfdocs/hawkins.pdf%0D
+Resolving jaling.ecml.at (jaling.ecml.at)... 91.118.6.247
+Connecting to jaling.ecml.at (jaling.ecml.at)|91.118.6.247|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:59:27 ERROR 400: Bad Request.
+
+--2020-02-25 21:11:35--  http://jaling.ecml.at/pdfdocs/hawkins.pdf%0D
+Resolving jaling.ecml.at (jaling.ecml.at)... 91.118.6.247
+Connecting to jaling.ecml.at (jaling.ecml.at)|91.118.6.247|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:35 ERROR 400: Bad Request.
+

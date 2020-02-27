@@ -1,0 +1,12 @@
+--2020-02-25 21:21:11--  http://www.resol.com.br/cartilhas/manual_de_gestion_integral_de_residuos.pdf%0D
+Resolving www.resol.com.br (www.resol.com.br)... 187.45.240.73
+Connecting to www.resol.com.br (www.resol.com.br)|187.45.240.73|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:12 ERROR 404: Not Found.
+
+--2020-02-25 21:27:02--  http://www.resol.com.br/cartilhas/manual_de_gestion_integral_de_residuos.pdf%0D
+Resolving www.resol.com.br (www.resol.com.br)... 187.45.240.73
+Connecting to www.resol.com.br (www.resol.com.br)|187.45.240.73|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:02 ERROR 404: Not Found.
+

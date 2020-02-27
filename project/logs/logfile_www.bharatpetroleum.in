@@ -1,0 +1,6 @@
+--2020-02-25 22:50:09--  https://www.bharatpetroleum.in/pdf/BPCL_LPG_sms_Booking.pdf%0D
+Resolving www.bharatpetroleum.in (www.bharatpetroleum.in)... 13.235.148.133, 13.235.107.222
+Connecting to www.bharatpetroleum.in (www.bharatpetroleum.in)|13.235.148.133|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:11 ERROR 400: Bad Request.
+

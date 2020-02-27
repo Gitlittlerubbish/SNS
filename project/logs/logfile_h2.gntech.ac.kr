@@ -1,0 +1,22 @@
+--2020-02-25 23:14:16--  http://h2.gntech.ac.kr/publication/04.pdf%0D
+Resolving h2.gntech.ac.kr (h2.gntech.ac.kr)... 203.232.192.28
+Connecting to h2.gntech.ac.kr (h2.gntech.ac.kr)|203.232.192.28|:80... connected.
+HTTP request sent, awaiting response... 205 Reset Content
+Length: 385
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.04G=0s
+
+2020-02-25 23:14:17 (1.04 Gb/s) - ‘/dev/null’ saved [385/385]
+
+--2020-02-25 23:14:17--  http://h2.gntech.ac.kr/publication/04.pdf%0D
+Resolving h2.gntech.ac.kr (h2.gntech.ac.kr)... 203.232.192.28
+Connecting to h2.gntech.ac.kr (h2.gntech.ac.kr)|203.232.192.28|:80... connected.
+HTTP request sent, awaiting response... 205 Reset Content
+Length: 385
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  943M=0s
+
+2020-02-25 23:14:17 (943 Mb/s) - ‘/dev/null’ saved [385/385]
+

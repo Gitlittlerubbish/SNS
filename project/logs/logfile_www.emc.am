@@ -1,0 +1,12 @@
+--2020-02-25 20:55:08--  http://www.emc.am/collateral/TechnicalDocument/docu79471.pdf%0D
+Resolving www.emc.am (www.emc.am)... 104.86.110.251, 104.86.110.216
+Connecting to www.emc.am (www.emc.am)|104.86.110.251|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:07:58--  http://www.emc.am/collateral/TechnicalDocument/docu79471.pdf%0D
+Resolving www.emc.am (www.emc.am)... 104.86.110.251, 104.86.110.216
+Connecting to www.emc.am (www.emc.am)|104.86.110.251|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

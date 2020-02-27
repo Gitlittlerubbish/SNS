@@ -1,0 +1,12 @@
+--2020-02-25 20:58:42--  https://www.racgp.org.au/afp/200603/200603keks.pdf%0D
+Resolving www.racgp.org.au (www.racgp.org.au)... 203.44.18.45
+Connecting to www.racgp.org.au (www.racgp.org.au)|203.44.18.45|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:58:44 ERROR 400: Bad Request.
+
+--2020-02-25 21:10:53--  https://www.racgp.org.au/afp/200603/200603keks.pdf%0D
+Resolving www.racgp.org.au (www.racgp.org.au)... 203.44.18.45
+Connecting to www.racgp.org.au (www.racgp.org.au)|203.44.18.45|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:10:55 ERROR 400: Bad Request.
+

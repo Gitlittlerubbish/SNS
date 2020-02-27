@@ -1,0 +1,12 @@
+--2020-02-25 21:03:18--  https://www.csb.gov.bh/media/document/sixteen.pdf.pdf%0D
+Resolving www.csb.gov.bh (www.csb.gov.bh)... 89.31.192.126
+Connecting to www.csb.gov.bh (www.csb.gov.bh)|89.31.192.126|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:19 ERROR 404: Not Found.
+
+--2020-02-25 21:14:32--  https://www.csb.gov.bh/media/document/sixteen.pdf.pdf%0D
+Resolving www.csb.gov.bh (www.csb.gov.bh)... 89.31.192.126
+Connecting to www.csb.gov.bh (www.csb.gov.bh)|89.31.192.126|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:33 ERROR 404: Not Found.
+

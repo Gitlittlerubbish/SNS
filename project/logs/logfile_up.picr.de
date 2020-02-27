@@ -1,0 +1,44 @@
+--2020-02-25 22:31:37--  http://up.picr.de/27009335ck.pdf%0D
+Resolving up.picr.de (up.picr.de)... 136.243.3.25, 95.216.14.216
+Connecting to up.picr.de (up.picr.de)|136.243.3.25|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/gif]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 46.5M=0s
+
+2020-02-25 22:31:37 (46.5 Mb/s) - ‘/dev/null’ saved [43/43]
+
+--2020-02-25 22:31:37--  http://up.picr.de/27009335ck.pdf%0D
+Resolving up.picr.de (up.picr.de)... 95.216.14.216, 136.243.3.25
+Connecting to up.picr.de (up.picr.de)|95.216.14.216|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/gif]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  102M=0s
+
+2020-02-25 22:31:37 (102 Mb/s) - ‘/dev/null’ saved [43/43]
+
+--2020-02-25 22:31:37--  http://up.picr.de/27009335ck.pdf%0D
+Resolving up.picr.de (up.picr.de)... 136.243.3.25, 95.216.14.216
+Connecting to up.picr.de (up.picr.de)|136.243.3.25|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/gif]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  108M=0s
+
+2020-02-25 22:31:37 (108 Mb/s) - ‘/dev/null’ saved [43/43]
+
+--2020-02-25 22:31:37--  http://up.picr.de/27009335ck.pdf%0D
+Resolving up.picr.de (up.picr.de)... 95.216.14.216, 136.243.3.25
+Connecting to up.picr.de (up.picr.de)|95.216.14.216|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/gif]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 46.8M=0s
+
+2020-02-25 22:31:37 (46.8 Mb/s) - ‘/dev/null’ saved [43/43]
+

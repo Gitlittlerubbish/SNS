@@ -1,0 +1,12 @@
+--2020-02-25 20:56:44--  http://www.thetentruths.com.au/Downloads/First_break_all_the_rules_exec_summary.pdf%0D
+Resolving www.thetentruths.com.au (www.thetentruths.com.au)... 205.186.179.144
+Connecting to www.thetentruths.com.au (www.thetentruths.com.au)|205.186.179.144|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:56:47 ERROR 404: Not Found.
+
+--2020-02-25 21:09:17--  http://www.thetentruths.com.au/Downloads/First_break_all_the_rules_exec_summary.pdf%0D
+Resolving www.thetentruths.com.au (www.thetentruths.com.au)... 205.186.179.144
+Connecting to www.thetentruths.com.au (www.thetentruths.com.au)|205.186.179.144|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:20 ERROR 404: Not Found.
+

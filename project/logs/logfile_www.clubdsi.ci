@@ -1,0 +1,12 @@
+--2020-02-25 21:59:34--  https://www.clubdsi.ci/Publications/CDSI_ESATIC_PENTEST.pdf%0D
+Resolving www.clubdsi.ci (www.clubdsi.ci)... 164.160.35.252
+Connecting to www.clubdsi.ci (www.clubdsi.ci)|164.160.35.252|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:59:38 ERROR 404: Not Found.
+
+--2020-02-25 21:59:39--  https://www.clubdsi.ci/Publications/CDSI_ESATIC_PENTEST.pdf%0D
+Resolving www.clubdsi.ci (www.clubdsi.ci)... 164.160.35.252
+Connecting to www.clubdsi.ci (www.clubdsi.ci)|164.160.35.252|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:59:42 ERROR 404: Not Found.
+

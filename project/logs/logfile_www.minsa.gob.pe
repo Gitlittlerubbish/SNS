@@ -1,0 +1,6 @@
+--2020-02-26 00:37:02--  http://www.minsa.gob.pe/descargas/aficheSISOL.pdf%0D
+Resolving www.minsa.gob.pe (www.minsa.gob.pe)... 104.20.92.58, 104.20.91.58
+Connecting to www.minsa.gob.pe (www.minsa.gob.pe)|104.20.92.58|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:37:03 ERROR 400: Bad Request.
+

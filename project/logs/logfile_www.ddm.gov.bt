@@ -1,0 +1,12 @@
+--2020-02-25 21:13:11--  http://www.ddm.gov.bt/download/Bhutan_DRM_Status_Review.pdf%0D
+Resolving www.ddm.gov.bt (www.ddm.gov.bt)... 202.144.148.130
+Connecting to www.ddm.gov.bt (www.ddm.gov.bt)|202.144.148.130|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:13 ERROR 404: Not Found.
+
+--2020-02-25 21:21:34--  http://www.ddm.gov.bt/download/Bhutan_DRM_Status_Review.pdf%0D
+Resolving www.ddm.gov.bt (www.ddm.gov.bt)... 202.144.148.130
+Connecting to www.ddm.gov.bt (www.ddm.gov.bt)|202.144.148.130|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:34 ERROR 404: Not Found.
+

@@ -1,0 +1,20 @@
+--2020-02-25 22:31:18--  https://www.che.de/downloads/50_Jahre_HAW.pdf%0D
+Resolving www.che.de (www.che.de)... --2020-02-25 22:31:18--  https://www.che.de/downloads/50_Jahre_HAW.pdf%0D
+Resolving www.che.de (www.che.de)... 185.57.240.156
+Connecting to www.che.de (www.che.de)|185.57.240.156|:443... 185.57.240.156
+Connecting to www.che.de (www.che.de)|185.57.240.156|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.che.de/wp-content/uploads/upload/50_Jahre_HAW.pdf%0d [following]
+--2020-02-25 22:31:18--  https://www.che.de/wp-content/uploads/upload/50_Jahre_HAW.pdf%0d
+Reusing existing connection to www.che.de:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.che.de/wp-content/uploads/upload/50_Jahre_HAW.pdf%0d [following]
+--2020-02-25 22:31:18--  https://www.che.de/wp-content/uploads/upload/50_Jahre_HAW.pdf%0d
+Reusing existing connection to www.che.de:443.
+HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 22:31:18 ERROR 404: Not Found.
+
+2020-02-25 22:31:18 ERROR 404: Not Found.
+

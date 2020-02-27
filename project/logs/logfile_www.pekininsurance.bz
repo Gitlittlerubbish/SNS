@@ -1,0 +1,12 @@
+--2020-02-25 21:08:59--  http://www.pekininsurance.bz/GPSservCenter/Forms/0019BUHS00190710WASHINGTONTOWNSHIP.pdf%0D
+Resolving www.pekininsurance.bz (www.pekininsurance.bz)... 12.32.176.57
+Connecting to www.pekininsurance.bz (www.pekininsurance.bz)|12.32.176.57|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:09:00 ERROR 400: Bad Request.
+
+--2020-02-25 21:18:35--  http://www.pekininsurance.bz/GPSservCenter/Forms/0019BUHS00190710WASHINGTONTOWNSHIP.pdf%0D
+Resolving www.pekininsurance.bz (www.pekininsurance.bz)... 12.32.176.57
+Connecting to www.pekininsurance.bz (www.pekininsurance.bz)|12.32.176.57|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:18:35 ERROR 400: Bad Request.
+

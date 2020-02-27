@@ -1,0 +1,12 @@
+--2020-02-25 21:15:35--  https://posgrado.usfx.bo/posgrado/recursos/archivos/doc/Memoria2017.pdf%0D
+Resolving posgrado.usfx.bo (posgrado.usfx.bo)... 72.29.82.157
+Connecting to posgrado.usfx.bo (posgrado.usfx.bo)|72.29.82.157|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:36 ERROR 404: Not Found.
+
+--2020-02-25 21:23:10--  https://posgrado.usfx.bo/posgrado/recursos/archivos/doc/Memoria2017.pdf%0D
+Resolving posgrado.usfx.bo (posgrado.usfx.bo)... 72.29.82.157
+Connecting to posgrado.usfx.bo (posgrado.usfx.bo)|72.29.82.157|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:11 ERROR 404: Not Found.
+

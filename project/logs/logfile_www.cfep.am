@@ -1,0 +1,20 @@
+--2020-02-25 20:54:56--  http://www.cfep.am/files/legislation/538.pdf%0D
+Resolving www.cfep.am (www.cfep.am)... 213.136.82.91
+Connecting to www.cfep.am (www.cfep.am)|213.136.82.91|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /en/404/ [following]
+--2020-02-25 20:54:56--  http://www.cfep.am/en/404/
+Reusing existing connection to www.cfep.am:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:56 ERROR 404: Not Found.
+
+--2020-02-25 21:07:47--  http://www.cfep.am/files/legislation/538.pdf%0D
+Resolving www.cfep.am (www.cfep.am)... 213.136.82.91
+Connecting to www.cfep.am (www.cfep.am)|213.136.82.91|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /en/404/ [following]
+--2020-02-25 21:07:47--  http://www.cfep.am/en/404/
+Reusing existing connection to www.cfep.am:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:47 ERROR 404: Not Found.
+

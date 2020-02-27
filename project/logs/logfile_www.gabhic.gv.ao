@@ -1,0 +1,6 @@
+--2020-02-25 21:01:56--  http://www.gabhic.gv.ao/output_efile.aspx%3Fid_file%3D1454%0D
+Resolving www.gabhic.gv.ao (www.gabhic.gv.ao)... 93.104.209.173
+Connecting to www.gabhic.gv.ao (www.gabhic.gv.ao)|93.104.209.173|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:57 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:25:45--  http://ragaine.su.lt/tests/KOMP_TINKLAI.pdf%0D
+Resolving ragaine.su.lt (ragaine.su.lt)... 193.219.168.10
+Connecting to ragaine.su.lt (ragaine.su.lt)|193.219.168.10|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:25:45 ERROR 404: Not Found.
+

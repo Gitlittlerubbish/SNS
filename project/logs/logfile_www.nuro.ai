@@ -1,0 +1,11 @@
+--2020-02-25 21:02:40--  http://www.nuro.ai/safety%0D
+Resolving www.nuro.ai (www.nuro.ai)... 198.185.159.144, 198.185.159.145, 198.49.23.144, ...
+Connecting to www.nuro.ai (www.nuro.ai)|198.185.159.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://nuro.ai/safety%0D [following]
+--2020-02-25 21:02:41--  https://nuro.ai/safety%0D
+Resolving nuro.ai (nuro.ai)... 198.49.23.144, 198.185.159.145, 198.185.159.144, ...
+Connecting to nuro.ai (nuro.ai)|198.49.23.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:02:42 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:10:46--  https://www.branz.co.nz/cms_show_download.php%3Fid%3Df8ded3a75da02806a106e8bc05cd049771992189%0D
+Resolving www.branz.co.nz (www.branz.co.nz)... 104.26.0.140, 104.26.1.140
+Connecting to www.branz.co.nz (www.branz.co.nz)|104.26.0.140|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:10:46 ERROR 403: Forbidden.
+

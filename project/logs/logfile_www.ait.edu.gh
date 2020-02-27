@@ -1,0 +1,12 @@
+--2020-02-25 22:33:21--  https://www.ait.edu.gh/downloads/The%2520AIT%2520Open%2520University%2520Brochure.pdf%0D
+Resolving www.ait.edu.gh (www.ait.edu.gh)... --2020-02-25 22:33:21--  https://www.ait.edu.gh/downloads/The%2520AIT%2520Open%2520University%2520Brochure.pdf%0D
+Resolving www.ait.edu.gh (www.ait.edu.gh)... 67.210.119.160
+Connecting to www.ait.edu.gh (www.ait.edu.gh)|67.210.119.160|:443... 67.210.119.160
+Connecting to www.ait.edu.gh (www.ait.edu.gh)|67.210.119.160|:443... connected.
+connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:33:22 ERROR 403: Forbidden.
+
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:33:22 ERROR 403: Forbidden.
+

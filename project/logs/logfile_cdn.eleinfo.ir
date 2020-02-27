@@ -1,0 +1,6 @@
+--2020-02-25 22:55:06--  https://cdn.eleinfo.ir/96/CMOS_Circuit_Design_Layout_and_Simulation.pdf%0D
+Resolving cdn.eleinfo.ir (cdn.eleinfo.ir)... 192.3.201.85
+Connecting to cdn.eleinfo.ir (cdn.eleinfo.ir)|192.3.201.85|:443... connected.
+ERROR: cannot verify cdn.eleinfo.ir's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Issued certificate has expired.
+To connect to cdn.eleinfo.ir insecurely, use `--no-check-certificate'.

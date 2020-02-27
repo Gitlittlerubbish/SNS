@@ -1,0 +1,12 @@
+--2020-02-26 00:28:16--  http://www.ago.gov.pg/images/Report_No4_ManagementReportingTrustAccounts.pdf%0D
+Resolving www.ago.gov.pg (www.ago.gov.pg)... 75.103.113.123
+Connecting to www.ago.gov.pg (www.ago.gov.pg)|75.103.113.123|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:28:17 ERROR 404: Not Found.
+
+--2020-02-26 00:30:52--  http://www.ago.gov.pg/images/Report_No4_ManagementReportingTrustAccounts.pdf%0D
+Resolving www.ago.gov.pg (www.ago.gov.pg)... 75.103.113.123
+Connecting to www.ago.gov.pg (www.ago.gov.pg)|75.103.113.123|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:30:52 ERROR 404: Not Found.
+

@@ -1,0 +1,28 @@
+--2020-02-26 00:24:07--  https://ogra.org.pk/download/609%0D
+Resolving ogra.org.pk (ogra.org.pk)... 203.82.48.218
+Connecting to ogra.org.pk (ogra.org.pk)|203.82.48.218|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161217 (157K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31%  946K 1s
+    50K .......... .......... .......... .......... .......... 63% 1.42M 0s
+   100K .......... .......... .......... .......... .......... 95% 2.84M 0s
+   150K .......                                               100% 1.04G=0.9s
+
+2020-02-26 00:24:09 (1.49 Mb/s) - ‘/dev/null’ saved [161217/161217]
+
+--2020-02-26 00:24:09--  https://ogra.org.pk/download/609%0D
+Resolving ogra.org.pk (ogra.org.pk)... 203.82.48.218
+Connecting to ogra.org.pk (ogra.org.pk)|203.82.48.218|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161217 (157K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31%  952K 1s
+    50K .......... .......... .......... .......... .......... 63% 1.43M 0s
+   100K .......... .......... .......... .......... .......... 95% 2.86M 0s
+   150K .......                                               100%  119M=0.9s
+
+2020-02-26 00:24:11 (1.50 Mb/s) - ‘/dev/null’ saved [161217/161217]
+

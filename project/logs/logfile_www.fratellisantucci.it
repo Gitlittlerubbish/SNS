@@ -1,0 +1,32 @@
+--2020-02-25 23:00:26--  https://www.fratellisantucci.it/file/veicoli_non_soggetti_alla_legge_298_1974.pdf%0D
+Resolving www.fratellisantucci.it (www.fratellisantucci.it)... 81.4.103.99
+Connecting to www.fratellisantucci.it (www.fratellisantucci.it)|81.4.103.99|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.fratellisantucci.it/paginanontrovata.php [following]
+--2020-02-25 23:00:26--  https://www.fratellisantucci.it/paginanontrovata.php
+Reusing existing connection to www.fratellisantucci.it:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 6.85M
+    50K .......... .                                           10.2M=0.07s
+
+2020-02-25 23:00:26 (7.29 Mb/s) - ‘/dev/null’ saved [62592]
+
+--2020-02-25 23:00:26--  https://www.fratellisantucci.it/file/veicoli_non_soggetti_alla_legge_298_1974.pdf%0D
+Resolving www.fratellisantucci.it (www.fratellisantucci.it)... 81.4.103.99
+Connecting to www.fratellisantucci.it (www.fratellisantucci.it)|81.4.103.99|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.fratellisantucci.it/paginanontrovata.php [following]
+--2020-02-25 23:00:26--  https://www.fratellisantucci.it/paginanontrovata.php
+Reusing existing connection to www.fratellisantucci.it:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18.9M
+    50K .......... .                                           34.8M=0.02s
+
+2020-02-25 23:00:26 (20.6 Mb/s) - ‘/dev/null’ saved [62592]
+

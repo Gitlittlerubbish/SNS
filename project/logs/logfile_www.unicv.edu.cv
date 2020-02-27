@@ -1,0 +1,12 @@
+--2020-02-25 21:32:12--  https://www.unicv.edu.cv/images/CEICV_ATAS_FINAL1.pdf%0D
+Resolving www.unicv.edu.cv (www.unicv.edu.cv)... 213.150.196.36
+Connecting to www.unicv.edu.cv (www.unicv.edu.cv)|213.150.196.36|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:13 ERROR 404: Not Found.
+
+--2020-02-25 21:35:17--  https://www.unicv.edu.cv/images/CEICV_ATAS_FINAL1.pdf%0D
+Resolving www.unicv.edu.cv (www.unicv.edu.cv)... 213.150.196.36
+Connecting to www.unicv.edu.cv (www.unicv.edu.cv)|213.150.196.36|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:17 ERROR 404: Not Found.
+

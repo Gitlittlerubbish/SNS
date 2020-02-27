@@ -1,0 +1,68 @@
+--2020-02-25 21:34:01--  http://www.hlb.com.kh/files/2018/HLBCAM_Privacy_Policy_13_Mar_2018.pdf%0D
+Resolving www.hlb.com.kh (www.hlb.com.kh)... 211.25.68.160
+Connecting to www.hlb.com.kh (www.hlb.com.kh)|211.25.68.160|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Syntax error in Set-Cookie: HttpOnly;Secure at position 9.
+Location: / [following]
+--2020-02-25 21:34:03--  http://www.hlb.com.kh/
+Reusing existing connection to www.hlb.com.kh:80.
+HTTP request sent, awaiting response... 200 OK
+Syntax error in Set-Cookie: HttpOnly;Secure at position 9.
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........    378M=0.001s
+
+2020-02-25 21:34:03 (378 Mb/s) - ‘/dev/null’ saved [49794]
+
+--2020-02-25 21:34:03--  http://www.hlb.com.kh/files/2018/HLBCAM_Privacy_Policy_13_Mar_2018.pdf%0D
+Resolving www.hlb.com.kh (www.hlb.com.kh)... 211.25.68.160
+Connecting to www.hlb.com.kh (www.hlb.com.kh)|211.25.68.160|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Syntax error in Set-Cookie: HttpOnly;Secure at position 9.
+Location: / [following]
+--2020-02-25 21:34:04--  http://www.hlb.com.kh/
+Reusing existing connection to www.hlb.com.kh:80.
+HTTP request sent, awaiting response... 200 OK
+Syntax error in Set-Cookie: HttpOnly;Secure at position 9.
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........    429M=0.001s
+
+2020-02-25 21:34:04 (429 Mb/s) - ‘/dev/null’ saved [49633]
+
+--2020-02-25 21:36:35--  http://www.hlb.com.kh/files/2018/HLBCAM_Privacy_Policy_13_Mar_2018.pdf%0D
+Resolving www.hlb.com.kh (www.hlb.com.kh)... 121.120.89.60
+Connecting to www.hlb.com.kh (www.hlb.com.kh)|121.120.89.60|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Syntax error in Set-Cookie: HttpOnly;Secure at position 9.
+Location: / [following]
+--2020-02-25 21:36:36--  http://www.hlb.com.kh/
+Reusing existing connection to www.hlb.com.kh:80.
+HTTP request sent, awaiting response... 200 OK
+Syntax error in Set-Cookie: HttpOnly;Secure at position 9.
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........    296K=1.3s
+
+2020-02-25 21:36:38 (296 Kb/s) - ‘/dev/null’ saved [49794]
+
+--2020-02-25 21:36:38--  http://www.hlb.com.kh/files/2018/HLBCAM_Privacy_Policy_13_Mar_2018.pdf%0D
+Resolving www.hlb.com.kh (www.hlb.com.kh)... 121.120.89.60
+Connecting to www.hlb.com.kh (www.hlb.com.kh)|121.120.89.60|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Syntax error in Set-Cookie: HttpOnly;Secure at position 9.
+Location: / [following]
+--2020-02-25 21:36:40--  http://www.hlb.com.kh/
+Reusing existing connection to www.hlb.com.kh:80.
+HTTP request sent, awaiting response... 200 OK
+Syntax error in Set-Cookie: HttpOnly;Secure at position 9.
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........    619K=0.6s
+
+2020-02-25 21:36:41 (619 Kb/s) - ‘/dev/null’ saved [49633]
+

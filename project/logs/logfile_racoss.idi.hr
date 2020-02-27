@@ -1,0 +1,12 @@
+--2020-02-25 22:00:56--  http://racoss.idi.hr/ecil2018bookofabstracts.pdf%0D
+Resolving racoss.idi.hr (racoss.idi.hr)... 31.147.204.246
+Connecting to racoss.idi.hr (racoss.idi.hr)|31.147.204.246|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:00:57 ERROR 400: Bad Request.
+
+--2020-02-25 22:00:57--  http://racoss.idi.hr/ecil2018bookofabstracts.pdf%0D
+Resolving racoss.idi.hr (racoss.idi.hr)... 31.147.204.246
+Connecting to racoss.idi.hr (racoss.idi.hr)|31.147.204.246|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:00:57 ERROR 400: Bad Request.
+

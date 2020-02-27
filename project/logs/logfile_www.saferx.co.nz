@@ -1,0 +1,6 @@
+--2020-02-26 00:10:52--  https://www.saferx.co.nz/RAC_crushing_intro.pdf%0D
+Resolving www.saferx.co.nz (www.saferx.co.nz)... 149.126.74.202
+Connecting to www.saferx.co.nz (www.saferx.co.nz)|149.126.74.202|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:10:52 ERROR 403: Forbidden.
+

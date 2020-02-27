@@ -1,0 +1,10 @@
+--2020-02-25 22:56:31--  https://www.pila.ie/download/pdf/ordermtdaiken.pdf%0D
+Resolving www.pila.ie (www.pila.ie)... 83.96.163.82
+Connecting to www.pila.ie (www.pila.ie)|83.96.163.82|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pila.ie/assets/files/pdf/ordermtdaiken.pdf%0d [following]
+--2020-02-25 22:56:32--  https://www.pila.ie/assets/files/pdf/ordermtdaiken.pdf%0d
+Reusing existing connection to www.pila.ie:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:56:32 ERROR 404: Not Found.
+

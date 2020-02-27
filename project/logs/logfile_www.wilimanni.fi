@@ -1,0 +1,12 @@
+--2020-02-25 22:22:05--  http://www.wilimanni.fi/menu.pdf%0D
+Resolving www.wilimanni.fi (www.wilimanni.fi)... 89.166.51.5
+Connecting to www.wilimanni.fi (www.wilimanni.fi)|89.166.51.5|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:06 ERROR 404: Not Found.
+
+--2020-02-25 22:22:06--  http://www.wilimanni.fi/menu.pdf%0D
+Resolving www.wilimanni.fi (www.wilimanni.fi)... 89.166.51.5
+Connecting to www.wilimanni.fi (www.wilimanni.fi)|89.166.51.5|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:06 ERROR 404: Not Found.
+

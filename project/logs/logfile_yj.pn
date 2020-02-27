@@ -1,0 +1,42 @@
+--2020-02-26 00:40:31--  http://yj.pn/RLd-dJ%0D
+Resolving yj.pn (yj.pn)... 182.22.2.15, 183.79.102.32
+Connecting to yj.pn (yj.pn)|182.22.2.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from yj.pn attempted to set domain to yahoo.jp
+Location: http://www.greenaction-japan.org/internal/110817_Fukushima_human_rights_UN_submission.pdf [following]
+--2020-02-26 00:40:32--  http://www.greenaction-japan.org/internal/110817_Fukushima_human_rights_UN_submission.pdf
+Resolving www.greenaction-japan.org (www.greenaction-japan.org)... 192.232.216.147
+Connecting to www.greenaction-japan.org (www.greenaction-japan.org)|192.232.216.147|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241009 (235K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.24M 1s
+    50K .......... .......... .......... .......... .......... 42% 2.48M 1s
+   100K .......... .......... .......... .......... .......... 63% 2.48M 0s
+   150K .......... .......... .......... .......... .......... 84%  351M 0s
+   200K .......... .......... .......... .....                100%  256M=0.7s
+
+2020-02-26 00:40:34 (2.91 Mb/s) - ‘/dev/null’ saved [241009/241009]
+
+--2020-02-26 00:40:34--  http://yj.pn/RLd-dJ%0D
+Resolving yj.pn (yj.pn)... 183.79.102.32, 182.22.2.15
+Connecting to yj.pn (yj.pn)|183.79.102.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from yj.pn attempted to set domain to yahoo.jp
+Location: http://www.greenaction-japan.org/internal/110817_Fukushima_human_rights_UN_submission.pdf [following]
+--2020-02-26 00:40:34--  http://www.greenaction-japan.org/internal/110817_Fukushima_human_rights_UN_submission.pdf
+Resolving www.greenaction-japan.org (www.greenaction-japan.org)... 192.232.216.147
+Connecting to www.greenaction-japan.org (www.greenaction-japan.org)|192.232.216.147|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241009 (235K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.27M 1s
+    50K .......... .......... .......... .......... .......... 42% 1.27M 1s
+   100K .......... .......... .......... .......... .......... 63%  273M 0s
+   150K .......... .......... .......... .......... .......... 84% 2.55M 0s
+   200K .......... .......... .......... .....                100%  257M=0.8s
+
+2020-02-26 00:40:35 (2.38 Mb/s) - ‘/dev/null’ saved [241009/241009]
+

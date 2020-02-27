@@ -1,0 +1,92 @@
+--2020-02-25 22:06:04--  https://www.sujb.cz/fileadmin/sujb/docs/kkc/02_EPR_D_web.pdf%0D
+Resolving www.sujb.cz (www.sujb.cz)... --2020-02-25 22:06:04--  https://www.sujb.cz/fileadmin/sujb/docs/kkc/02_EPR_D_web.pdf%0D
+Resolving www.sujb.cz (www.sujb.cz)... 80.95.112.246
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... 80.95.112.246
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 TYPO3 RealURL Redirect
+Location: https://www.sujb.cz/0D [following]
+--2020-02-25 22:06:04--  https://www.sujb.cz/0D
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... 301 TYPO3 RealURL Redirect
+Location: https://www.sujb.cz/0D [following]
+--2020-02-25 22:06:04--  https://www.sujb.cz/0D
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 TYPO3 RealURL Redirect
+Location: https://www.sujb.cz/ [following]
+--2020-02-25 22:06:04--  https://www.sujb.cz/
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... 301 TYPO3 RealURL Redirect
+Location: https://www.sujb.cz/ [following]
+--2020-02-25 22:06:04--  https://www.sujb.cz/
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: https://www.sujb.cz/uvod/ [following]
+--2020-02-25 22:06:05--  https://www.sujb.cz/uvod/
+Reusing existing connection to www.sujb.cz:443.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: https://www.sujb.cz/uvod/ [following]
+--2020-02-25 22:06:05--  https://www.sujb.cz/uvod/
+Reusing existing connection to www.sujb.cz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 19225 (19K) [text/html]
+Saving to: ‘/dev/null’
+200 OK
+Length: 19225 (19K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ........                                   100% 5.85M=0.03s
+
+2020-02-25 22:06:05 (5.85 Mb/s) - ‘/dev/null’ saved [19225/19225]
+
+--2020-02-25 22:06:05--  https://www.sujb.cz/fileadmin/sujb/docs/kkc/02_EPR_D_web.pdf%0D
+Resolving www.sujb.cz (www.sujb.cz)... 80.95.112.246
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... 
+     0K .......... ........                                   100% 5.48M=0.03s
+
+2020-02-25 22:06:05 (5.48 Mb/s) - ‘/dev/null’ saved [19225/19225]
+
+--2020-02-25 22:06:05--  https://www.sujb.cz/fileadmin/sujb/docs/kkc/02_EPR_D_web.pdf%0D
+Resolving www.sujb.cz (www.sujb.cz)... 80.95.112.246
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 TYPO3 RealURL Redirect
+Location: https://www.sujb.cz/0D [following]
+--2020-02-25 22:06:05--  https://www.sujb.cz/0D
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... 301 TYPO3 RealURL Redirect
+Location: https://www.sujb.cz/0D [following]
+--2020-02-25 22:06:05--  https://www.sujb.cz/0D
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 TYPO3 RealURL Redirect
+Location: https://www.sujb.cz/ [following]
+--2020-02-25 22:06:05--  https://www.sujb.cz/
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... 301 TYPO3 RealURL Redirect
+Location: https://www.sujb.cz/ [following]
+--2020-02-25 22:06:05--  https://www.sujb.cz/
+Connecting to www.sujb.cz (www.sujb.cz)|80.95.112.246|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: https://www.sujb.cz/uvod/ [following]
+--2020-02-25 22:06:05--  https://www.sujb.cz/uvod/
+307 Temporary Redirect
+Reusing existing connection to www.sujb.cz:443.
+HTTP request sent, awaiting response... Location: https://www.sujb.cz/uvod/ [following]
+--2020-02-25 22:06:05--  https://www.sujb.cz/uvod/
+Reusing existing connection to www.sujb.cz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 19225 (19K) [text/html]
+Saving to: ‘/dev/null’
+200 OK
+Length: 19225 (19K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ........                                   100% 6.22M=0.02s
+
+2020-02-25 22:06:05 (6.22 Mb/s) - ‘/dev/null’ saved [19225/19225]
+
+
+     0K .......... ........                                   100% 5.46M=0.03s
+
+2020-02-25 22:06:05 (5.46 Mb/s) - ‘/dev/null’ saved [19225/19225]
+

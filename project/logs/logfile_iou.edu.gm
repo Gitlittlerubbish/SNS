@@ -1,0 +1,20 @@
+--2020-02-25 22:28:28--  http://iou.edu.gm/mou/KU_IOU_MOU__Arabic_Original_.pdf%0D
+Resolving iou.edu.gm (iou.edu.gm)... 138.68.107.54
+Connecting to iou.edu.gm (iou.edu.gm)|138.68.107.54|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://iou.edu.gm/mou/KU_IOU_MOU__Arabic_Original_.pdf%0D [following]
+--2020-02-25 22:28:28--  https://iou.edu.gm/mou/KU_IOU_MOU__Arabic_Original_.pdf%0D
+Connecting to iou.edu.gm (iou.edu.gm)|138.68.107.54|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:28:29--  http://iou.edu.gm/mou/KU_IOU_MOU__Arabic_Original_.pdf%0D
+Resolving iou.edu.gm (iou.edu.gm)... 138.68.107.54
+Connecting to iou.edu.gm (iou.edu.gm)|138.68.107.54|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://iou.edu.gm/mou/KU_IOU_MOU__Arabic_Original_.pdf%0D [following]
+--2020-02-25 22:28:29--  https://iou.edu.gm/mou/KU_IOU_MOU__Arabic_Original_.pdf%0D
+Connecting to iou.edu.gm (iou.edu.gm)|138.68.107.54|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 22:28:30 ERROR 404: Not Found.
+
+2020-02-25 22:28:30 ERROR 404: Not Found.
+

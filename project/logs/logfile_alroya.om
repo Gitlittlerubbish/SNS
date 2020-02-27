@@ -1,0 +1,22 @@
+--2020-02-26 00:23:04--  https://alroya.om/uploads/documents/08dc222cbeb726097e77dacd7bfef4b8.pdf%0D
+Resolving alroya.om (alroya.om)... 136.243.148.202
+Connecting to alroya.om (alroya.om)|136.243.148.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘/dev/null’
+
+     0K .......                                                1.29G=0s
+
+2020-02-26 00:23:04 (1.29 Gb/s) - ‘/dev/null’ saved [7407]
+
+--2020-02-26 00:23:04--  https://alroya.om/uploads/documents/08dc222cbeb726097e77dacd7bfef4b8.pdf%0D
+Resolving alroya.om (alroya.om)... 136.243.148.202
+Connecting to alroya.om (alroya.om)|136.243.148.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘/dev/null’
+
+     0K .......                                                3.44G=0s
+
+2020-02-26 00:23:04 (3.44 Gb/s) - ‘/dev/null’ saved [7407]
+

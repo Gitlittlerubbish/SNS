@@ -1,0 +1,10 @@
+--2020-02-25 22:43:45--  https://www.vaticanstate.va/images/pdf/planimetria.pdf%0D
+Resolving www.vaticanstate.va (www.vaticanstate.va)... 212.77.4.171
+Connecting to www.vaticanstate.va (www.vaticanstate.va)|212.77.4.171|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.vaticanstate.va/it/images/pdf/planimetria.pdf [following]
+--2020-02-25 22:43:46--  https://www.vaticanstate.va/it/images/pdf/planimetria.pdf
+Reusing existing connection to www.vaticanstate.va:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:43:46 ERROR 404: Not Found.
+

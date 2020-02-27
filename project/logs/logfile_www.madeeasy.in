@@ -1,0 +1,6 @@
+--2020-02-25 22:50:40--  https://www.madeeasy.in/uploads/Files/671purl_CE_GATE_2020_Forenoon.pdf%0D
+Resolving www.madeeasy.in (www.madeeasy.in)... 104.26.15.157, 104.26.14.157
+Connecting to www.madeeasy.in (www.madeeasy.in)|104.26.15.157|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:41 ERROR 400: Bad Request.
+

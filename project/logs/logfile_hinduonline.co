@@ -1,0 +1,12 @@
+--2020-02-25 21:52:34--  http://hinduonline.co/DigitalLibrary/SmallBooks/TheWilltoPowerEng.pdf%0D
+Resolving hinduonline.co (hinduonline.co)... 182.50.130.37
+Connecting to hinduonline.co (hinduonline.co)|182.50.130.37|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 21:52:34--  http://hinduonline.co/DigitalLibrary/SmallBooks/TheWilltoPowerEng.pdf%0D
+Resolving hinduonline.co (hinduonline.co)... 182.50.130.37
+Connecting to hinduonline.co (hinduonline.co)|182.50.130.37|:80... 400 Bad Request
+2020-02-25 21:52:34 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:52:34 ERROR 400: Bad Request.
+

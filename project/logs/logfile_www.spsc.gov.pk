@@ -1,0 +1,30 @@
+--2020-02-26 00:24:57--  https://www.spsc.gov.pk/syllabus-cce.pdf%0D
+Resolving www.spsc.gov.pk (www.spsc.gov.pk)... 50.116.94.136
+Connecting to www.spsc.gov.pk (www.spsc.gov.pk)|50.116.94.136|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.spsc.gov.pk/applyonline/error.html [following]
+--2020-02-26 00:24:58--  http://www.spsc.gov.pk/applyonline/error.html
+Connecting to www.spsc.gov.pk (www.spsc.gov.pk)|50.116.94.136|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1935 (1.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 3.88G=0s
+
+2020-02-26 00:24:58 (3.88 Gb/s) - ‘/dev/null’ saved [1935/1935]
+
+--2020-02-26 00:24:58--  https://www.spsc.gov.pk/syllabus-cce.pdf%0D
+Resolving www.spsc.gov.pk (www.spsc.gov.pk)... 50.116.94.136
+Connecting to www.spsc.gov.pk (www.spsc.gov.pk)|50.116.94.136|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.spsc.gov.pk/applyonline/error.html [following]
+--2020-02-26 00:24:58--  http://www.spsc.gov.pk/applyonline/error.html
+Connecting to www.spsc.gov.pk (www.spsc.gov.pk)|50.116.94.136|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1935 (1.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 4.06G=0s
+
+2020-02-26 00:24:59 (4.06 Gb/s) - ‘/dev/null’ saved [1935/1935]
+

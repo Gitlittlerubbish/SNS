@@ -1,0 +1,18 @@
+--2020-02-25 21:00:38--  https://www.lamassana.ad/uploads/declaracio_dinquilinat_53_20190828105903.pdf%0D
+Resolving www.lamassana.ad (www.lamassana.ad)... 194.158.80.39
+Connecting to www.lamassana.ad (www.lamassana.ad)|194.158.80.39|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:00:38 ERROR 400: Bad Request.
+
+--2020-02-25 21:00:38--  https://www.lamassana.ad/uploads/sollicitud_dinscripcio_cens_poblacio_53_20191129142923.pdf%0D
+Resolving www.lamassana.ad (www.lamassana.ad)... 194.158.80.39
+Connecting to www.lamassana.ad (www.lamassana.ad)|194.158.80.39|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:00:38 ERROR 400: Bad Request.
+
+--2020-02-25 21:00:58--  https://www.lamassana.ad/uploads/sollicitud_dinscripcio_cens_poblacio_53_20191129142923.pdf%0D
+Resolving www.lamassana.ad (www.lamassana.ad)... 194.158.80.39
+Connecting to www.lamassana.ad (www.lamassana.ad)|194.158.80.39|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:00:59 ERROR 400: Bad Request.
+

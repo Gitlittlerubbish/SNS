@@ -1,0 +1,6 @@
+--2020-02-25 23:01:59--  https://www.jreast.co.jp/press/2019/20200204_ho01.pdf%0D
+Resolving www.jreast.co.jp (www.jreast.co.jp)... 14.0.41.210, 220.242.176.60
+Connecting to www.jreast.co.jp (www.jreast.co.jp)|14.0.41.210|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:02:00 ERROR 400: Bad Request.
+

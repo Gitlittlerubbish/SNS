@@ -1,0 +1,12 @@
+--2020-02-25 21:39:13--  http://doe.ky/wp-content/uploads/2019/04/Flicker_41.pdf%0D
+Resolving doe.ky (doe.ky)... 104.28.13.138, 104.28.12.138
+Connecting to doe.ky (doe.ky)|104.28.13.138|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:39:13 ERROR 403: Forbidden.
+
+--2020-02-25 21:40:22--  http://doe.ky/wp-content/uploads/2019/04/Flicker_41.pdf%0D
+Resolving doe.ky (doe.ky)... 104.28.12.138, 104.28.13.138
+Connecting to doe.ky (doe.ky)|104.28.12.138|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:40:22 ERROR 403: Forbidden.
+

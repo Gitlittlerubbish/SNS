@@ -1,0 +1,6 @@
+--2020-02-25 22:56:22--  https://www.checktheregister.ie/appforms/RFA5_English_Form.pdf%0D
+Resolving www.checktheregister.ie (www.checktheregister.ie)... 193.178.30.63
+Connecting to www.checktheregister.ie (www.checktheregister.ie)|193.178.30.63|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:56:22 ERROR 400: Bad Request.
+

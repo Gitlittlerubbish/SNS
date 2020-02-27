@@ -1,0 +1,6 @@
+--2020-02-25 20:56:40--  http://www.smallwood.com.au/documents/FAO_Food_and_Agriculture.pdf%0D
+Resolving www.smallwood.com.au (www.smallwood.com.au)... failed: Connection timed out.
+wget: unable to resolve host address ‘www.smallwood.com.au’
+--2020-02-25 21:09:13--  http://www.smallwood.com.au/documents/FAO_Food_and_Agriculture.pdf%0D
+Resolving www.smallwood.com.au (www.smallwood.com.au)... failed: Connection timed out.
+wget: unable to resolve host address ‘www.smallwood.com.au’

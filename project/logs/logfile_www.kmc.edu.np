@@ -1,0 +1,22 @@
+--2020-02-26 00:03:08--  https://www.kmc.edu.np/kmctimes/kmctimes_201612_issue9.pdf%0D
+Resolving www.kmc.edu.np (www.kmc.edu.np)... 188.165.124.119
+Connecting to www.kmc.edu.np (www.kmc.edu.np)|188.165.124.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                           10.4M=0.02s
+
+2020-02-26 00:03:08 (10.4 Mb/s) - ‘/dev/null’ saved [26887]
+
+--2020-02-26 00:03:08--  https://www.kmc.edu.np/kmctimes/kmctimes_201612_issue9.pdf%0D
+Resolving www.kmc.edu.np (www.kmc.edu.np)... 188.165.124.119
+Connecting to www.kmc.edu.np (www.kmc.edu.np)|188.165.124.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                           10.7M=0.02s
+
+2020-02-26 00:03:08 (10.7 Mb/s) - ‘/dev/null’ saved [26887]
+

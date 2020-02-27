@@ -1,0 +1,6 @@
+--2020-02-26 00:41:44--  https://www.amd.pt/dec_clausulas_contratuais.pdf%0D
+Resolving www.amd.pt (www.amd.pt)... 185.90.56.136
+Connecting to www.amd.pt (www.amd.pt)|185.90.56.136|:443... connected.
+HTTP request sent, awaiting response... 503 Service Unavailable
+2020-02-26 00:41:44 ERROR 503: Service Unavailable.
+

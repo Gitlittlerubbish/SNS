@@ -1,0 +1,6 @@
+--2020-02-25 23:44:04--  https://www.edf.mq/sites/default/files/SEI/sei_ref_15_-_avenant_ce_pour_autoconso_totale_sup36kva.pdf%0D
+Resolving www.edf.mq (www.edf.mq)... 104.84.244.188
+Connecting to www.edf.mq (www.edf.mq)|104.84.244.188|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:44:04 ERROR 404: Not Found.
+

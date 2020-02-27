@@ -1,0 +1,12 @@
+--2020-02-25 21:03:10--  https://www.fdpm.gov.bh/downloads/government_action_plan_2019-2022.pdf%0D
+Resolving www.fdpm.gov.bh (www.fdpm.gov.bh)... 34.255.50.58
+Connecting to www.fdpm.gov.bh (www.fdpm.gov.bh)|34.255.50.58|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:03:10 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:27--  https://www.fdpm.gov.bh/downloads/government_action_plan_2019-2022.pdf%0D
+Resolving www.fdpm.gov.bh (www.fdpm.gov.bh)... 34.255.50.58
+Connecting to www.fdpm.gov.bh (www.fdpm.gov.bh)|34.255.50.58|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:27 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:55:41--  http://www.mof.gov.iq/Documents/4314.pdf%0D
+Resolving www.mof.gov.iq (www.mof.gov.iq)... 52.156.249.167
+Connecting to www.mof.gov.iq (www.mof.gov.iq)|52.156.249.167|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:55:41 ERROR 400: Bad Request.
+

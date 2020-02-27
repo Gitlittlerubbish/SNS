@@ -1,0 +1,12 @@
+--2020-02-25 22:22:51--  http://ecomaison.chez-alice.fr/Documentation/plafonds.pdf%0D
+Resolving ecomaison.chez-alice.fr (ecomaison.chez-alice.fr)... --2020-02-25 22:22:51--  http://ecomaison.chez-alice.fr/Documentation/plafonds.pdf%0D
+Resolving ecomaison.chez-alice.fr (ecomaison.chez-alice.fr)... 212.27.63.127
+Connecting to ecomaison.chez-alice.fr (ecomaison.chez-alice.fr)|212.27.63.127|:80... 212.27.63.127
+Connecting to ecomaison.chez-alice.fr (ecomaison.chez-alice.fr)|212.27.63.127|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:51 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:22:51 ERROR 404: Not Found.
+

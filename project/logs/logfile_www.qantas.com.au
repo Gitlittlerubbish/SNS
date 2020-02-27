@@ -1,0 +1,12 @@
+--2020-02-25 20:56:00--  http://www.qantas.com.au/flightinfo/qf_pdfTimetable_QantasLink.pdf%0D
+Resolving www.qantas.com.au (www.qantas.com.au)... 2.22.131.57
+Connecting to www.qantas.com.au (www.qantas.com.au)|2.22.131.57|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:56:02 ERROR 404: Not Found.
+
+--2020-02-25 21:08:41--  http://www.qantas.com.au/flightinfo/qf_pdfTimetable_QantasLink.pdf%0D
+Resolving www.qantas.com.au (www.qantas.com.au)... 2.22.131.57
+Connecting to www.qantas.com.au (www.qantas.com.au)|2.22.131.57|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:08:42 ERROR 404: Not Found.
+

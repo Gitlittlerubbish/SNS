@@ -1,0 +1,12 @@
+--2020-02-25 21:27:09--  http://shu.bg/tadmin/upload/storage/2383.pdf%0D
+Resolving shu.bg (shu.bg)... 85.196.164.46
+Connecting to shu.bg (shu.bg)|85.196.164.46|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:10 ERROR 404: Not Found.
+
+--2020-02-25 21:32:16--  http://shu.bg/tadmin/upload/storage/2383.pdf%0D
+Resolving shu.bg (shu.bg)... 85.196.164.46
+Connecting to shu.bg (shu.bg)|85.196.164.46|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:17 ERROR 404: Not Found.
+

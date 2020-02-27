@@ -1,0 +1,10 @@
+--2020-02-25 23:04:53--  http://www.jerseylawsociety.je/index.php/download_file/1196/579/%0D
+Resolving www.jerseylawsociety.je (www.jerseylawsociety.je)... 141.0.161.7
+Connecting to www.jerseylawsociety.je (www.jerseylawsociety.je)|141.0.161.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.jerseylawsociety.je/index.php/download_file/1196/579/%0d [following]
+--2020-02-25 23:04:53--  https://www.jerseylawsociety.je/index.php/download_file/1196/579/%0d
+Connecting to www.jerseylawsociety.je (www.jerseylawsociety.je)|141.0.161.7|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:04:54 ERROR 404: Not Found.
+

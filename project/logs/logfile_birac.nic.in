@@ -1,0 +1,6 @@
+--2020-02-25 22:50:57--  https://birac.nic.in/webcontent/1568955483_birac_sitare_gyti_biis_guidelines.pdf%0D
+Resolving birac.nic.in (birac.nic.in)... 164.100.228.150
+Connecting to birac.nic.in (birac.nic.in)|164.100.228.150|:443... connected.
+ERROR: cannot verify birac.nic.in's certificate, issued by ‘CN=GlobalSign Domain Validation CA - SHA256 - G2,O=GlobalSign nv-sa,C=BE’:
+  Unable to locally verify the issuer's authority.
+To connect to birac.nic.in insecurely, use `--no-check-certificate'.

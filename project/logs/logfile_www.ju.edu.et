@@ -1,0 +1,12 @@
+--2020-02-25 22:18:02--  https://www.ju.edu.et/sites/default/files/Policy_Brief_22.pdf%0D
+Resolving www.ju.edu.et (www.ju.edu.et)... 213.55.92.84
+Connecting to www.ju.edu.et (www.ju.edu.et)|213.55.92.84|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+--2020-02-25 22:18:03--  https://www.ju.edu.et/sites/default/files/Policy_Brief_22.pdf%0D
+Resolving www.ju.edu.et (www.ju.edu.et)... 213.55.92.84
+Connecting to www.ju.edu.et (www.ju.edu.et)|213.55.92.84|:443... 2020-02-25 22:18:03 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:18:04 ERROR 404: Not Found.
+

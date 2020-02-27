@@ -1,0 +1,24 @@
+--2020-02-25 22:06:39--  http://prosound.dj/upload/pdf/2958.pdf%0D
+Resolving prosound.dj (prosound.dj)... --2020-02-25 22:06:39--  http://prosound.dj/upload/pdf/2958.pdf%0D
+Resolving prosound.dj (prosound.dj)... 46.254.20.33
+Connecting to prosound.dj (prosound.dj)|46.254.20.33|:80... connected.
+HTTP request sent, awaiting response... 46.254.20.33
+Connecting to prosound.dj (prosound.dj)|46.254.20.33|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:06:40 ERROR 404: Not Found.
+
+--2020-02-25 22:06:40--  http://prosound.dj/upload/pdf/956.pdf%0D
+Resolving prosound.dj (prosound.dj)... 46.254.20.33
+Connecting to prosound.dj (prosound.dj)|46.254.20.33|:80... 404 Not Found
+2020-02-25 22:06:40 ERROR 404: Not Found.
+
+--2020-02-25 22:06:40--  http://prosound.dj/upload/pdf/956.pdf%0D
+Resolving prosound.dj (prosound.dj)... connected.
+HTTP request sent, awaiting response... 46.254.20.33
+Connecting to prosound.dj (prosound.dj)|46.254.20.33|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:06:40 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:06:40 ERROR 404: Not Found.
+

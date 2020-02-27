@@ -1,0 +1,12 @@
+--2020-02-25 21:34:51--  http://www.royaltyline.cm/royalty_line_catalog_2016_web.pdf%0D
+Resolving www.royaltyline.cm (www.royaltyline.cm)... 178.238.236.229
+Connecting to www.royaltyline.cm (www.royaltyline.cm)|178.238.236.229|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:34:52 ERROR 400: Bad Request.
+
+--2020-02-25 21:37:12--  http://www.royaltyline.cm/royalty_line_catalog_2016_web.pdf%0D
+Resolving www.royaltyline.cm (www.royaltyline.cm)... 178.238.236.229
+Connecting to www.royaltyline.cm (www.royaltyline.cm)|178.238.236.229|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:37:12 ERROR 400: Bad Request.
+

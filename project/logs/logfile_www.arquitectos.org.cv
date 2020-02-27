@@ -1,0 +1,12 @@
+--2020-02-25 21:32:14--  http://www.arquitectos.org.cv/IMG/CodigoLaboral.pdf%0D
+Resolving www.arquitectos.org.cv (www.arquitectos.org.cv)... 64.90.49.253
+Connecting to www.arquitectos.org.cv (www.arquitectos.org.cv)|64.90.49.253|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:32:15 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:35:17--  http://www.arquitectos.org.cv/IMG/CodigoLaboral.pdf%0D
+Resolving www.arquitectos.org.cv (www.arquitectos.org.cv)... 64.90.49.253
+Connecting to www.arquitectos.org.cv (www.arquitectos.org.cv)|64.90.49.253|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:35:17 ERROR 500: Internal Server Error.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:24:11--  http://www.pcret.gov.pk/Experience.pdf%0D
+Resolving www.pcret.gov.pk (www.pcret.gov.pk)... 203.101.184.121
+Connecting to www.pcret.gov.pk (www.pcret.gov.pk)|203.101.184.121|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:24:14 ERROR 400: Bad Request.
+

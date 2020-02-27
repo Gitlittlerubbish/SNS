@@ -1,0 +1,20 @@
+--2020-02-25 23:05:24--  http://www.ammanchamber.org.jo/6955.pdf%0D
+Resolving www.ammanchamber.org.jo (www.ammanchamber.org.jo)... 77.245.4.27
+Connecting to www.ammanchamber.org.jo (www.ammanchamber.org.jo)|77.245.4.27|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ammanchamber.org.jo:443/6955.pdf%0d [following]
+--2020-02-25 23:05:25--  https://www.ammanchamber.org.jo/6955.pdf%0d
+Connecting to www.ammanchamber.org.jo (www.ammanchamber.org.jo)|77.245.4.27|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:25 ERROR 400: Bad Request.
+
+--2020-02-25 23:05:25--  http://www.ammanchamber.org.jo/3162.pdf%0D
+Resolving www.ammanchamber.org.jo (www.ammanchamber.org.jo)... 77.245.4.27
+Connecting to www.ammanchamber.org.jo (www.ammanchamber.org.jo)|77.245.4.27|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ammanchamber.org.jo:443/3162.pdf%0d [following]
+--2020-02-25 23:05:25--  https://www.ammanchamber.org.jo/3162.pdf%0d
+Connecting to www.ammanchamber.org.jo (www.ammanchamber.org.jo)|77.245.4.27|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:26 ERROR 400: Bad Request.
+

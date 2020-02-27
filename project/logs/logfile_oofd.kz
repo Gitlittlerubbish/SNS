@@ -1,0 +1,32 @@
+--2020-02-25 23:06:55--  https://oofd.kz/docs/ManOFD_online_sign.pdf%0D
+Resolving oofd.kz (oofd.kz)... 37.150.215.186
+Connecting to oofd.kz (oofd.kz)|37.150.215.186|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oofd.kz/ [following]
+--2020-02-25 23:06:55--  https://oofd.kz/
+Reusing existing connection to oofd.kz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.91M
+    50K ...                                                     897M=0.2s
+
+2020-02-25 23:06:56 (2.04 Mb/s) - ‘/dev/null’ saved [54799]
+
+--2020-02-25 23:06:56--  https://oofd.kz/docs/ManOFD_online_sign.pdf%0D
+Resolving oofd.kz (oofd.kz)... 37.150.215.186
+Connecting to oofd.kz (oofd.kz)|37.150.215.186|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://oofd.kz/ [following]
+--2020-02-25 23:06:56--  https://oofd.kz/
+Reusing existing connection to oofd.kz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.81M
+    50K ...                                                     869M=0.2s
+
+2020-02-25 23:06:57 (1.93 Mb/s) - ‘/dev/null’ saved [54799]
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:50:03--  http://www.satiengg.in/PDF/AICTEregulationsJanuary2010.pdf%0D
+Resolving www.satiengg.in (www.satiengg.in)... 192.206.5.35
+Connecting to www.satiengg.in (www.satiengg.in)|192.206.5.35|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:03 ERROR 400: Bad Request.
+

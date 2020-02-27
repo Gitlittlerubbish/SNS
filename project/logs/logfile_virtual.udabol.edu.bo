@@ -1,0 +1,12 @@
+--2020-02-25 21:16:18--  http://virtual.udabol.edu.bo/mod/resource/view.php%3Fid%3D105434%0D
+Resolving virtual.udabol.edu.bo (virtual.udabol.edu.bo)... 167.114.64.105
+Connecting to virtual.udabol.edu.bo (virtual.udabol.edu.bo)|167.114.64.105|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:18 ERROR 404: Not Found.
+
+--2020-02-25 21:23:47--  http://virtual.udabol.edu.bo/mod/resource/view.php%3Fid%3D105434%0D
+Resolving virtual.udabol.edu.bo (virtual.udabol.edu.bo)... 167.114.64.105
+Connecting to virtual.udabol.edu.bo (virtual.udabol.edu.bo)|167.114.64.105|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:48 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:27:05--  http://www.unwe.bg/Uploads/Trustees/trustees_04572_ViolinaMarinova.pdf%0D
+Resolving www.unwe.bg (www.unwe.bg)... 194.141.32.4
+Connecting to www.unwe.bg (www.unwe.bg)|194.141.32.4|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:27:06 ERROR 400: Bad Request.
+
+--2020-02-25 21:32:14--  http://www.unwe.bg/Uploads/Trustees/trustees_04572_ViolinaMarinova.pdf%0D
+Resolving www.unwe.bg (www.unwe.bg)... 194.141.32.4
+Connecting to www.unwe.bg (www.unwe.bg)|194.141.32.4|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:32:14 ERROR 400: Bad Request.
+

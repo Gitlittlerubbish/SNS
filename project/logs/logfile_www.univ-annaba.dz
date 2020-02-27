@@ -1,0 +1,7 @@
+--2020-02-25 20:55:49--  http://www.univ-annaba.dz/files/17-18/3.pdf%0D
+Resolving www.univ-annaba.dz (www.univ-annaba.dz)... 193.194.84.194, 193.194.84.198
+Connecting to www.univ-annaba.dz (www.univ-annaba.dz)|193.194.84.194|:80... failed: Connection timed out.
+Connecting to www.univ-annaba.dz (www.univ-annaba.dz)|193.194.84.198|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:55:52 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:07:06--  http://www.miu.by/kaf_new/mpp/062.pdf%0D
+Resolving www.miu.by (www.miu.by)... 37.17.54.190
+Connecting to www.miu.by (www.miu.by)|37.17.54.190|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:06 ERROR 404: Not Found.
+
+--2020-02-25 21:17:15--  http://www.miu.by/kaf_new/mpp/062.pdf%0D
+Resolving www.miu.by (www.miu.by)... 37.17.54.190
+Connecting to www.miu.by (www.miu.by)|37.17.54.190|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:16 ERROR 404: Not Found.
+

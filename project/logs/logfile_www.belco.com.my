@@ -1,0 +1,6 @@
+--2020-02-25 23:32:38--  http://www.belco.com.my/specs/EXOS.pdf%0D
+Resolving www.belco.com.my (www.belco.com.my)... 103.6.196.121
+Connecting to www.belco.com.my (www.belco.com.my)|103.6.196.121|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:32:39 ERROR 404: Not Found.
+

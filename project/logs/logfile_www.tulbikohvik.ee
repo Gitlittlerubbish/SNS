@@ -1,0 +1,12 @@
+--2020-02-25 22:16:55--  http://www.tulbikohvik.ee/menyy.pdf%0D
+Resolving www.tulbikohvik.ee (www.tulbikohvik.ee)... 217.146.69.24
+Connecting to www.tulbikohvik.ee (www.tulbikohvik.ee)|217.146.69.24|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:16:55 ERROR 404: Not Found.
+
+--2020-02-25 22:17:01--  http://www.tulbikohvik.ee/menyy.pdf%0D
+Resolving www.tulbikohvik.ee (www.tulbikohvik.ee)... 217.146.69.24
+Connecting to www.tulbikohvik.ee (www.tulbikohvik.ee)|217.146.69.24|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:01 ERROR 404: Not Found.
+

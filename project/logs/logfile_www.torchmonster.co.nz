@@ -1,0 +1,6 @@
+--2020-02-26 00:10:45--  https://www.torchmonster.co.nz/assets/brochures/MT21C.pdf%0D
+Resolving www.torchmonster.co.nz (www.torchmonster.co.nz)... 104.17.102.211, 104.17.100.211, 104.17.101.211, ...
+Connecting to www.torchmonster.co.nz (www.torchmonster.co.nz)|104.17.102.211|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:10:46 ERROR 404: Not Found.
+

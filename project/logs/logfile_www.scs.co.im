@@ -1,0 +1,6 @@
+--2020-02-25 22:58:34--  http://www.scs.co.im/documents/HeatEmitterGuide.pdf%0D
+Resolving www.scs.co.im (www.scs.co.im)... 217.23.163.46
+Connecting to www.scs.co.im (www.scs.co.im)|217.23.163.46|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:58:36 ERROR 404: Not Found.
+

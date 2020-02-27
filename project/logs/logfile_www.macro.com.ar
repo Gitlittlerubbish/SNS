@@ -1,0 +1,22 @@
+--2020-02-25 21:05:10--  https://www.macro.com.ar/1517356342368/tarifario_b.pdf%0D
+Resolving www.macro.com.ar (www.macro.com.ar)... 200.71.232.197
+Connecting to www.macro.com.ar (www.macro.com.ar)|200.71.232.197|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 94.1M=0s
+
+2020-02-25 21:05:11 (94.1 Mb/s) - ‘/dev/null’ saved [246/246]
+
+--2020-02-25 21:05:11--  https://www.macro.com.ar/1517356342368/tarifario_b.pdf%0D
+Resolving www.macro.com.ar (www.macro.com.ar)... 200.71.232.197
+Connecting to www.macro.com.ar (www.macro.com.ar)|200.71.232.197|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  109M=0s
+
+2020-02-25 21:05:12 (109 Mb/s) - ‘/dev/null’ saved [247/247]
+

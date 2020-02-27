@@ -1,0 +1,12 @@
+--2020-02-25 22:06:21--  https://login.koreklar.dk/faerdselstavler.pdf%0D
+Resolving login.koreklar.dk (login.koreklar.dk)... 185.152.201.71
+Connecting to login.koreklar.dk (login.koreklar.dk)|185.152.201.71|:443... connected.
+--2020-02-25 22:06:21--  https://login.koreklar.dk/faerdselstavler.pdf%0D
+Resolving login.koreklar.dk (login.koreklar.dk)... 185.152.201.71
+Connecting to login.koreklar.dk (login.koreklar.dk)|185.152.201.71|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:06:21 ERROR 400: Bad Request.
+
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:06:21 ERROR 400: Bad Request.
+

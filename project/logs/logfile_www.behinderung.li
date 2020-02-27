@@ -1,0 +1,6 @@
+--2020-02-25 23:24:30--  http://www.behinderung.li/extern/928.html%0D
+Resolving www.behinderung.li (www.behinderung.li)... 185.64.114.79
+Connecting to www.behinderung.li (www.behinderung.li)|185.64.114.79|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:24:30 ERROR 400: Bad Request.
+

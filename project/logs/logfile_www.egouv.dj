@@ -1,0 +1,24 @@
+--2020-02-25 22:06:59--  http://www.egouv.dj/Administration/Formulaires/f32676223eeab521091a8403e1d697ae.pdf%0D
+Resolving www.egouv.dj (www.egouv.dj)... --2020-02-25 22:06:59--  http://www.egouv.dj/Administration/Formulaires/f32676223eeab521091a8403e1d697ae.pdf%0D
+Resolving www.egouv.dj (www.egouv.dj)... 197.241.36.16
+Connecting to www.egouv.dj (www.egouv.dj)|197.241.36.16|:80... 197.241.36.16
+Connecting to www.egouv.dj (www.egouv.dj)|197.241.36.16|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:07:01 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:07:01 ERROR 404: Not Found.
+
+--2020-02-25 22:07:02--  http://www.egouv.dj/Administration/Formulaires/f32676223eeab521091a8403e1d697ae.pdf%0D
+Resolving www.egouv.dj (www.egouv.dj)... 197.241.36.16
+Connecting to www.egouv.dj (www.egouv.dj)|197.241.36.16|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:07:02 ERROR 404: Not Found.
+
+--2020-02-25 22:07:02--  http://www.egouv.dj/Administration/Formulaires/f32676223eeab521091a8403e1d697ae.pdf%0D
+Resolving www.egouv.dj (www.egouv.dj)... 197.241.36.16
+Connecting to www.egouv.dj (www.egouv.dj)|197.241.36.16|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:07:02 ERROR 404: Not Found.
+

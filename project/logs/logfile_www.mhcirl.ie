@@ -1,0 +1,6 @@
+--2020-02-25 22:56:21--  https://www.mhcirl.ie/File/Leaflet_MR200110.pdf%0D
+Resolving www.mhcirl.ie (www.mhcirl.ie)... 34.249.86.25
+Connecting to www.mhcirl.ie (www.mhcirl.ie)|34.249.86.25|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:56:21 ERROR 400: Bad Request.
+

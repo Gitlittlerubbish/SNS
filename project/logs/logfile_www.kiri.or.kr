@@ -1,0 +1,12 @@
+--2020-02-25 23:12:06--  http://www.kiri.or.kr/report/downloadFile.do%3FdocId%3D1052%0D
+Resolving www.kiri.or.kr (www.kiri.or.kr)... 221.139.0.55
+Connecting to www.kiri.or.kr (www.kiri.or.kr)|221.139.0.55|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:12:08 ERROR 400: Bad Request.
+
+--2020-02-25 23:12:15--  http://www.kiri.or.kr/report/downloadFile.do%3FdocId%3D1052%0D
+Resolving www.kiri.or.kr (www.kiri.or.kr)... 221.139.0.55
+Connecting to www.kiri.or.kr (www.kiri.or.kr)|221.139.0.55|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:12:16 ERROR 400: Bad Request.
+

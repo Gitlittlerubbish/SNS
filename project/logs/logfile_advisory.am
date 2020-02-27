@@ -1,0 +1,12 @@
+--2020-02-25 20:54:01--  http://advisory.am/pdf/30_ieo2019.pdf%0D
+Resolving advisory.am (advisory.am)... 136.243.2.176
+Connecting to advisory.am (advisory.am)|136.243.2.176|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:01 ERROR 404: Not Found.
+
+--2020-02-25 21:07:06--  http://advisory.am/pdf/30_ieo2019.pdf%0D
+Resolving advisory.am (advisory.am)... 136.243.2.176
+Connecting to advisory.am (advisory.am)|136.243.2.176|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:06 ERROR 404: Not Found.
+

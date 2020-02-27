@@ -1,0 +1,20 @@
+--2020-02-25 21:33:05--  http://open.org.kh/research/phones_2014.pdf%0D
+Resolving open.org.kh (open.org.kh)... 91.226.177.83
+Connecting to open.org.kh (open.org.kh)|91.226.177.83|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://open.org.kh/research/phones_2014.pdf%0d [following]
+--2020-02-25 21:33:05--  https://open.org.kh/research/phones_2014.pdf%0d
+Connecting to open.org.kh (open.org.kh)|91.226.177.83|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:33:05 ERROR 404: Not Found.
+
+--2020-02-25 21:35:57--  http://open.org.kh/research/phones_2014.pdf%0D
+Resolving open.org.kh (open.org.kh)... 91.226.177.83
+Connecting to open.org.kh (open.org.kh)|91.226.177.83|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://open.org.kh/research/phones_2014.pdf%0d [following]
+--2020-02-25 21:35:57--  https://open.org.kh/research/phones_2014.pdf%0d
+Connecting to open.org.kh (open.org.kh)|91.226.177.83|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:57 ERROR 404: Not Found.
+

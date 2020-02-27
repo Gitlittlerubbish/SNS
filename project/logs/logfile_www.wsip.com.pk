@@ -1,0 +1,6 @@
+--2020-02-26 00:24:50--  http://www.wsip.com.pk/documents/wb_consultant.pdf%0D
+Resolving www.wsip.com.pk (www.wsip.com.pk)... 198.38.83.23
+Connecting to www.wsip.com.pk (www.wsip.com.pk)|198.38.83.23|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:24:51 ERROR 400: Bad Request.
+

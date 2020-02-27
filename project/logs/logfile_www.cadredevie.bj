@@ -1,0 +1,64 @@
+--2020-02-25 21:10:01--  http://www.cadredevie.bj/images/APPEL_OFFRES/Appel-064.pdf%0D
+Resolving www.cadredevie.bj (www.cadredevie.bj)... 192.232.223.224
+Connecting to www.cadredevie.bj (www.cadredevie.bj)|192.232.223.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /component/content/article?id=121&Itemid=470 [following]
+--2020-02-25 21:10:02--  http://www.cadredevie.bj/component/content/article?id=121&Itemid=470
+Connecting to www.cadredevie.bj (www.cadredevie.bj)|192.232.223.224|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.25M
+    50K .......... .......... .......... .                      480M=0.3s
+
+2020-02-25 21:10:04 (2.03 Mb/s) - ‘/dev/null’ saved [83346]
+
+--2020-02-25 21:10:04--  http://www.cadredevie.bj/images/APPEL_OFFRES/Appel-064.pdf%0D
+Resolving www.cadredevie.bj (www.cadredevie.bj)... 192.232.223.224
+Connecting to www.cadredevie.bj (www.cadredevie.bj)|192.232.223.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /component/content/article?id=121&Itemid=470 [following]
+--2020-02-25 21:10:05--  http://www.cadredevie.bj/component/content/article?id=121&Itemid=470
+Connecting to www.cadredevie.bj (www.cadredevie.bj)|192.232.223.224|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.27M
+    50K .......... .......... .......... .                      516M=0.3s
+
+2020-02-25 21:10:07 (2.07 Mb/s) - ‘/dev/null’ saved [83346]
+
+--2020-02-25 21:19:22--  http://www.cadredevie.bj/images/APPEL_OFFRES/Appel-064.pdf%0D
+Resolving www.cadredevie.bj (www.cadredevie.bj)... 192.232.223.224
+Connecting to www.cadredevie.bj (www.cadredevie.bj)|192.232.223.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /component/content/article?id=121&Itemid=470 [following]
+--2020-02-25 21:19:23--  http://www.cadredevie.bj/component/content/article?id=121&Itemid=470
+Connecting to www.cadredevie.bj (www.cadredevie.bj)|192.232.223.224|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.26M
+    50K .......... .......... .......... .                      325M=0.3s
+
+2020-02-25 21:19:26 (2.05 Mb/s) - ‘/dev/null’ saved [83346]
+
+--2020-02-25 21:19:26--  http://www.cadredevie.bj/images/APPEL_OFFRES/Appel-064.pdf%0D
+Resolving www.cadredevie.bj (www.cadredevie.bj)... 192.232.223.224
+Connecting to www.cadredevie.bj (www.cadredevie.bj)|192.232.223.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /component/content/article?id=121&Itemid=470 [following]
+--2020-02-25 21:19:27--  http://www.cadredevie.bj/component/content/article?id=121&Itemid=470
+Connecting to www.cadredevie.bj (www.cadredevie.bj)|192.232.223.224|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.28M
+    50K .......... .......... .......... .                      301M=0.3s
+
+2020-02-25 21:19:29 (2.07 Mb/s) - ‘/dev/null’ saved [83346]
+

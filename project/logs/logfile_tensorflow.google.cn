@@ -1,0 +1,12 @@
+--2020-02-25 21:47:15--  https://tensorflow.google.cn/extras/tensorflow_brand_guidelines.pdf%0D
+Resolving tensorflow.google.cn (tensorflow.google.cn)... 216.58.198.163
+Connecting to tensorflow.google.cn (tensorflow.google.cn)|216.58.198.163|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 21:47:15--  https://tensorflow.google.cn/extras/tensorflow_brand_guidelines.pdf%0D
+Resolving tensorflow.google.cn (tensorflow.google.cn)... 216.58.198.163
+Connecting to tensorflow.google.cn (tensorflow.google.cn)|216.58.198.163|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:47:16 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 21:47:16 ERROR 404: Not Found.
+

@@ -1,0 +1,20 @@
+--2020-02-25 23:24:57--  https://www.lgt.li/shared/.content/publikationen/bankdienstleistungen/FL_5410_de.pdf%0D
+Resolving www.lgt.li (www.lgt.li)... 194.147.69.132
+Connecting to www.lgt.li (www.lgt.li)|194.147.69.132|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: /error_path/400.html?al_req_id=XlWsySHUgmudTfcbFxLwoQAAAPw [following]
+--2020-02-25 23:24:57--  https://www.lgt.li/error_path/400.html?al_req_id=XlWsySHUgmudTfcbFxLwoQAAAPw
+Reusing existing connection to www.lgt.li:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:24:57 ERROR 400: Bad Request.
+
+--2020-02-25 23:25:01--  https://www.lgt.li/shared/.content/publikationen/bankdienstleistungen/FL_5410_de.pdf%0D
+Resolving www.lgt.li (www.lgt.li)... 194.147.69.132
+Connecting to www.lgt.li (www.lgt.li)|194.147.69.132|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: /error_path/400.html?al_req_id=XlWszeuBwoSqZWMVW7yNPAAAAGM [following]
+--2020-02-25 23:25:01--  https://www.lgt.li/error_path/400.html?al_req_id=XlWszeuBwoSqZWMVW7yNPAAAAGM
+Reusing existing connection to www.lgt.li:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:25:01 ERROR 400: Bad Request.
+

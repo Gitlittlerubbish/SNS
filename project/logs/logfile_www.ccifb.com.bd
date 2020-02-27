@@ -1,0 +1,12 @@
+--2020-02-25 21:05:01--  http://www.ccifb.com.bd/wp-content/uploads/2018/01/Visa-Form.pdf%0D
+Resolving www.ccifb.com.bd (www.ccifb.com.bd)... 182.160.96.130
+Connecting to www.ccifb.com.bd (www.ccifb.com.bd)|182.160.96.130|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:05:02 ERROR 404: Not Found.
+
+--2020-02-25 21:15:37--  http://www.ccifb.com.bd/wp-content/uploads/2018/01/Visa-Form.pdf%0D
+Resolving www.ccifb.com.bd (www.ccifb.com.bd)... 182.160.96.130
+Connecting to www.ccifb.com.bd (www.ccifb.com.bd)|182.160.96.130|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:38 ERROR 404: Not Found.
+

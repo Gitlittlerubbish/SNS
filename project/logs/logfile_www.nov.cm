@@ -1,0 +1,68 @@
+--2020-02-25 21:36:03--  http://www.nov.cm/WorkArea/DownloadAsset.aspx%3Fid%3D12705%0D
+Resolving www.nov.cm (www.nov.cm)... 208.92.229.147
+Connecting to www.nov.cm (www.nov.cm)|208.92.229.147|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nov.com [following]
+--2020-02-25 21:36:03--  https://www.nov.com/
+Resolving www.nov.com (www.nov.com)... 104.18.21.232, 104.18.20.232
+Connecting to www.nov.com (www.nov.com)|104.18.21.232|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.20G
+    50K .......... .........                                   1.31G=0s
+
+2020-02-25 21:36:04 (1.23 Gb/s) - ‘/dev/null’ saved [70675]
+
+--2020-02-25 21:36:04--  http://www.nov.cm/WorkArea/DownloadAsset.aspx%3Fid%3D12705%0D
+Resolving www.nov.cm (www.nov.cm)... 208.92.229.147
+Connecting to www.nov.cm (www.nov.cm)|208.92.229.147|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nov.com [following]
+--2020-02-25 21:36:04--  https://www.nov.com/
+Resolving www.nov.com (www.nov.com)... 104.18.20.232, 104.18.21.232
+Connecting to www.nov.com (www.nov.com)|104.18.20.232|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  379M
+    50K .......... .........                                   1.82G=0.001s
+
+2020-02-25 21:36:05 (484 Mb/s) - ‘/dev/null’ saved [70675]
+
+--2020-02-25 21:37:56--  http://www.nov.cm/WorkArea/DownloadAsset.aspx%3Fid%3D12705%0D
+Resolving www.nov.cm (www.nov.cm)... 208.92.229.147
+Connecting to www.nov.cm (www.nov.cm)|208.92.229.147|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nov.com [following]
+--2020-02-25 21:37:56--  https://www.nov.com/
+Resolving www.nov.com (www.nov.com)... 104.18.21.232, 104.18.20.232
+Connecting to www.nov.com (www.nov.com)|104.18.21.232|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  329M
+    50K .......... .........                                    542M=0.002s
+
+2020-02-25 21:37:56 (369 Mb/s) - ‘/dev/null’ saved [70675]
+
+--2020-02-25 21:37:56--  http://www.nov.cm/WorkArea/DownloadAsset.aspx%3Fid%3D12705%0D
+Resolving www.nov.cm (www.nov.cm)... 208.92.229.147
+Connecting to www.nov.cm (www.nov.cm)|208.92.229.147|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nov.com [following]
+--2020-02-25 21:37:57--  https://www.nov.com/
+Resolving www.nov.com (www.nov.com)... 104.18.21.232, 104.18.20.232
+Connecting to www.nov.com (www.nov.com)|104.18.21.232|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  213M
+    50K .......... .........                                   2.29G=0.002s
+
+2020-02-25 21:37:57 (284 Mb/s) - ‘/dev/null’ saved [70675]
+

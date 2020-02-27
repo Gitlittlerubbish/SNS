@@ -1,0 +1,6 @@
+--2020-02-25 22:50:06--  http://www.rajeduboard.rajasthan.gov.in/books/mod_10/Sanskrit.pdf%0D
+Resolving www.rajeduboard.rajasthan.gov.in (www.rajeduboard.rajasthan.gov.in)... 103.203.136.113
+Connecting to www.rajeduboard.rajasthan.gov.in (www.rajeduboard.rajasthan.gov.in)|103.203.136.113|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:07 ERROR 400: Bad Request.
+

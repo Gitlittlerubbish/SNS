@@ -1,0 +1,22 @@
+--2020-02-25 21:02:50--  http://islam.org.bh/files/Taweya_23_web.pdf%0D
+Resolving islam.org.bh (islam.org.bh)... 64.90.48.253
+Connecting to islam.org.bh (islam.org.bh)|64.90.48.253|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.tawiya.org/missing.html [following]
+--2020-02-25 21:02:51--  http://www.tawiya.org/missing.html
+Resolving www.tawiya.org (www.tawiya.org)... 50.63.202.77
+Connecting to www.tawiya.org (www.tawiya.org)|50.63.202.77|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Giving up.
+
+--2020-02-25 21:14:12--  http://islam.org.bh/files/Taweya_23_web.pdf%0D
+Resolving islam.org.bh (islam.org.bh)... 64.90.48.253
+Connecting to islam.org.bh (islam.org.bh)|64.90.48.253|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.tawiya.org/missing.html [following]
+--2020-02-25 21:14:12--  http://www.tawiya.org/missing.html
+Resolving www.tawiya.org (www.tawiya.org)... 50.63.202.68
+Connecting to www.tawiya.org (www.tawiya.org)|50.63.202.68|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Giving up.
+

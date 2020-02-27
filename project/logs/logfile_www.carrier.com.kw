@@ -1,0 +1,6 @@
+--2020-02-25 23:15:49--  http://www.carrier.com.kw/pdf/40RM.pdf%0D
+Resolving www.carrier.com.kw (www.carrier.com.kw)... 173.233.83.165
+Connecting to www.carrier.com.kw (www.carrier.com.kw)|173.233.83.165|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:15:52 ERROR 400: Bad Request.
+

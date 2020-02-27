@@ -1,0 +1,12 @@
+--2020-02-25 21:26:04--  https://ibte.edu.bn/page/konvo/27/27.pdf%0D
+Resolving ibte.edu.bn (ibte.edu.bn)... 202.93.217.225
+Connecting to ibte.edu.bn (ibte.edu.bn)|202.93.217.225|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:26:06 ERROR 404: Not Found.
+
+--2020-02-25 21:31:20--  https://ibte.edu.bn/page/konvo/27/27.pdf%0D
+Resolving ibte.edu.bn (ibte.edu.bn)... 202.93.217.225
+Connecting to ibte.edu.bn (ibte.edu.bn)|202.93.217.225|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:31:22 ERROR 404: Not Found.
+

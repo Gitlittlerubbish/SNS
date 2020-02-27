@@ -1,0 +1,6 @@
+--2020-02-25 22:56:27--  https://www.lawreform.ie/_fileupload/Reports/rAdoption.pdf%0D
+Resolving www.lawreform.ie (www.lawreform.ie)... 185.152.4.156
+Connecting to www.lawreform.ie (www.lawreform.ie)|185.152.4.156|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:56:28 ERROR 400: Bad Request.
+

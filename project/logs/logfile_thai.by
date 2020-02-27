@@ -1,0 +1,12 @@
+--2020-02-25 21:07:11--  http://thai.by/images/suvanapum-big.pdf%0D
+Resolving thai.by (thai.by)... 212.98.168.170
+Connecting to thai.by (thai.by)|212.98.168.170|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:12 ERROR 404: Not Found.
+
+--2020-02-25 21:17:19--  http://thai.by/images/suvanapum-big.pdf%0D
+Resolving thai.by (thai.by)... 212.98.168.170
+Connecting to thai.by (thai.by)|212.98.168.170|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:21 ERROR 404: Not Found.
+

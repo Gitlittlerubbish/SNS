@@ -1,0 +1,6 @@
+--2020-02-26 00:12:01--  https://www.gowifi.co.nz/specs/udm_ds.pdf%0D
+Resolving www.gowifi.co.nz (www.gowifi.co.nz)... 104.20.168.70, 104.20.169.70
+Connecting to www.gowifi.co.nz (www.gowifi.co.nz)|104.20.168.70|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:12:03 ERROR 404: Not Found.
+

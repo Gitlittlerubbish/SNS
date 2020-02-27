@@ -1,0 +1,12 @@
+--2020-02-25 22:19:29--  http://www.hav.fo/PDF/Prikkafiskur_TemaNord.pdf%0D
+Resolving www.hav.fo (www.hav.fo)... --2020-02-25 22:19:29--  http://www.hav.fo/PDF/Prikkafiskur_TemaNord.pdf%0D
+Resolving www.hav.fo (www.hav.fo)... 81.25.190.152
+Connecting to www.hav.fo (www.hav.fo)|81.25.190.152|:80... 81.25.190.152
+Connecting to www.hav.fo (www.hav.fo)|81.25.190.152|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:19:30 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:19:30 ERROR 404: Not Found.
+

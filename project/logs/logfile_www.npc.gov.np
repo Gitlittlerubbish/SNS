@@ -1,0 +1,6 @@
+--2020-02-26 00:04:23--  https://www.npc.gov.np/images/category/Budget_forumuatlion_Guidelines_2075.pdf%0D
+Resolving www.npc.gov.np (www.npc.gov.np)... 202.45.144.178
+Connecting to www.npc.gov.np (www.npc.gov.np)|202.45.144.178|:443... connected.
+ERROR: cannot verify www.npc.gov.np's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.npc.gov.np insecurely, use `--no-check-certificate'.

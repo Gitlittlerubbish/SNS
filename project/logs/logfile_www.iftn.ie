@@ -1,0 +1,6 @@
+--2020-02-25 22:56:23--  http://www.iftn.ie/downloads/BBCAnnualReport06.pdf%0D
+Resolving www.iftn.ie (www.iftn.ie)... 217.115.113.32
+Connecting to www.iftn.ie (www.iftn.ie)|217.115.113.32|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:56:23 ERROR 404: Not Found.
+

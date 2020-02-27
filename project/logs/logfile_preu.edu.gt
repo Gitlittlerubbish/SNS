@@ -1,0 +1,60 @@
+--2020-02-25 22:37:40--  https://preu.edu.gt/Padre%2520Rico%2520Padre%2520Pobre.pdf%0D
+Resolving preu.edu.gt (preu.edu.gt)... --2020-02-25 22:37:40--  https://preu.edu.gt/Padre%2520Rico%2520Padre%2520Pobre.pdf%0D
+Resolving preu.edu.gt (preu.edu.gt)... 107.161.189.250
+Connecting to preu.edu.gt (preu.edu.gt)|107.161.189.250|:443... 107.161.189.250
+Connecting to preu.edu.gt (preu.edu.gt)|107.161.189.250|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: https://preu.edu.gt/cgi-sys/suspendedpage.cgi [following]
+--2020-02-25 22:37:41--  https://preu.edu.gt/cgi-sys/suspendedpage.cgi
+Connecting to preu.edu.gt (preu.edu.gt)|107.161.189.250|:443... 302 Found
+Location: https://preu.edu.gt/cgi-sys/suspendedpage.cgi [following]
+--2020-02-25 22:37:41--  https://preu.edu.gt/cgi-sys/suspendedpage.cgi
+Connecting to preu.edu.gt (preu.edu.gt)|107.161.189.250|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: 215 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  687M=0s
+
+2020-02-25 22:37:41 (687 Mb/s) - ‘/dev/null’ saved [215/215]
+
+--2020-02-25 22:37:41--  https://preu.edu.gt/Padre%2520Rico%2520Padre%2520Pobre.pdf%0D
+Resolving preu.edu.gt (preu.edu.gt)... 107.161.189.250
+Connecting to preu.edu.gt (preu.edu.gt)|107.161.189.250|:443... 200 OK
+Length: 215 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  286M=0s
+
+2020-02-25 22:37:41 (286 Mb/s) - ‘/dev/null’ saved [215/215]
+
+--2020-02-25 22:37:41--  https://preu.edu.gt/Padre%2520Rico%2520Padre%2520Pobre.pdf%0D
+Resolving preu.edu.gt (preu.edu.gt)... 107.161.189.250
+Connecting to preu.edu.gt (preu.edu.gt)|107.161.189.250|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: https://preu.edu.gt/cgi-sys/suspendedpage.cgi [following]
+--2020-02-25 22:37:42--  https://preu.edu.gt/cgi-sys/suspendedpage.cgi
+Connecting to preu.edu.gt (preu.edu.gt)|107.161.189.250|:443... 302 Found
+Location: https://preu.edu.gt/cgi-sys/suspendedpage.cgi [following]
+--2020-02-25 22:37:42--  https://preu.edu.gt/cgi-sys/suspendedpage.cgi
+Connecting to preu.edu.gt (preu.edu.gt)|107.161.189.250|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: 215 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  272M=0s
+
+2020-02-25 22:37:43 (272 Mb/s) - ‘/dev/null’ saved [215/215]
+
+200 OK
+Length: 215 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  734M=0s
+
+2020-02-25 22:37:43 (734 Mb/s) - ‘/dev/null’ saved [215/215]
+

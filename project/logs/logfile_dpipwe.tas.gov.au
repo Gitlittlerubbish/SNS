@@ -1,0 +1,12 @@
+--2020-02-25 20:58:55--  https://dpipwe.tas.gov.au/Documents/jackjumperfactsheet.pdf%0D
+Resolving dpipwe.tas.gov.au (dpipwe.tas.gov.au)... 147.109.249.95
+Connecting to dpipwe.tas.gov.au (dpipwe.tas.gov.au)|147.109.249.95|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:58:57 ERROR 400: Bad Request.
+
+--2020-02-25 21:11:06--  https://dpipwe.tas.gov.au/Documents/jackjumperfactsheet.pdf%0D
+Resolving dpipwe.tas.gov.au (dpipwe.tas.gov.au)... 147.109.249.95
+Connecting to dpipwe.tas.gov.au (dpipwe.tas.gov.au)|147.109.249.95|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:07 ERROR 400: Bad Request.
+

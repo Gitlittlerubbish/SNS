@@ -1,0 +1,6 @@
+--2020-02-25 22:41:35--  https://moc.gov.gy/wp-content/uploads/2016/09/LocalDemocraticOrgansActCap2809.pdf%0D
+Resolving moc.gov.gy (moc.gov.gy)... 161.47.124.187
+Connecting to moc.gov.gy (moc.gov.gy)|161.47.124.187|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:41:36 ERROR 400: Bad Request.
+

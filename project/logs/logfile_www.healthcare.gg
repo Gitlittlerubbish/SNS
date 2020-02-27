@@ -1,0 +1,68 @@
+--2020-02-25 22:38:50--  http://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf%0D
+Resolving www.healthcare.gg (www.healthcare.gg)... --2020-02-25 22:38:50--  http://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf%0D
+Resolving www.healthcare.gg (www.healthcare.gg)... 80.244.176.38
+Connecting to www.healthcare.gg (www.healthcare.gg)|80.244.176.38|:80... connected.
+HTTP request sent, awaiting response... 80.244.176.38
+Connecting to www.healthcare.gg (www.healthcare.gg)|80.244.176.38|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf [following]
+--2020-02-25 22:38:50--  https://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf
+Connecting to www.healthcare.gg (www.healthcare.gg)|80.244.176.38|:443... connected.
+301 Moved Permanently
+Location: https://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf [following]
+HTTP request sent, awaiting response... 200 OK
+Length: 107534 (105K) [application/pdf]
+Saving to: ‘/dev/null’
+--2020-02-25 22:38:50--  https://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf
+Connecting to www.healthcare.gg (www.healthcare.gg)|80.244.176.38|:443... 
+     0K .......... ......connected.
+.... .......... .......... .......... 47% 19.4M 0s
+    50K .......... .......... .......... .......... .......... 95% 1.02G 0s
+   100K .....                                                 100% 3.95G=0.02s
+
+2020-02-25 22:38:50 (40.0 Mb/s) - ‘/dev/null’ saved [107534/107534]
+
+--2020-02-25 22:38:50--  http://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf%0D
+Resolving www.healthcare.gg (www.healthcare.gg)... 80.244.176.38
+Connecting to www.healthcare.gg (www.healthcare.gg)|80.244.176.38|:80... HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107534 (105K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 29.7M 0s
+    50K .......... .......... .......... .......... .......... 95% 60.0M 0s
+   100K .....                                                 100% 4.31G=0.02s
+
+2020-02-25 22:38:50 (41.7 Mb/s) - ‘/dev/null’ saved [107534/107534]
+
+--2020-02-25 22:38:50--  http://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf%0D
+Resolving www.healthcare.gg (www.healthcare.gg)... 80.244.176.38
+Connecting to www.healthcare.gg (www.healthcare.gg)|80.244.176.38|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf [following]
+--2020-02-25 22:38:51--  https://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf
+Connecting to www.healthcare.gg (www.healthcare.gg)|80.244.176.38|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf [following]
+200 OK
+Length: 107534 (105K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..--2020-02-25 22:38:51--  https://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf
+Connecting to www.healthcare.gg (www.healthcare.gg)|80.244.176.38|:443... ........ .......... 47% 29.7M 0s
+    50K .......... .......... ..........connected.
+ .......... .......... 95% 58.2M 0s
+   100K .....                                                 100% 2.03G=0.02s
+
+2020-02-25 22:38:51 (41.3 Mb/s) - ‘/dev/null’ saved [107534/107534]
+
+HTTP request sent, awaiting response... 200 OK
+Length: 107534 (105K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 19.8M 0s
+    50K .......... .......... .......... .......... .......... 95% 1.35G 0s
+   100K .....                                                 100% 4.97G=0.02s
+
+2020-02-25 22:38:51 (41.0 Mb/s) - ‘/dev/null’ saved [107534/107534]
+

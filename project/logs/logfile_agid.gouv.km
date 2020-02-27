@@ -1,0 +1,24 @@
+--2020-02-25 21:53:06--  http://agid.gouv.km/file/concours/NOTICE%2520CONCOURS.pdf%0D
+Resolving agid.gouv.km (agid.gouv.km)... 199.59.247.89
+Connecting to agid.gouv.km (agid.gouv.km)|199.59.247.89|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:53:06 ERROR 404: Not Found.
+
+--2020-02-25 21:53:06--  http://agid.gouv.km/file/actes_officiels/brigade_mixte.pdf%0D
+Resolving agid.gouv.km (agid.gouv.km)... 199.59.247.89
+Connecting to agid.gouv.km (agid.gouv.km)|199.59.247.89|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:53:06 ERROR 404: Not Found.
+
+--2020-02-25 21:53:07--  http://agid.gouv.km/file/concours/NOTICE%2520CONCOURS.pdf%0D
+Resolving agid.gouv.km (agid.gouv.km)... 199.59.247.89
+Connecting to agid.gouv.km (agid.gouv.km)|199.59.247.89|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:53:07 ERROR 404: Not Found.
+
+--2020-02-25 21:53:07--  http://agid.gouv.km/file/actes_officiels/brigade_mixte.pdf%0D
+Resolving agid.gouv.km (agid.gouv.km)... 199.59.247.89
+Connecting to agid.gouv.km (agid.gouv.km)|199.59.247.89|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:53:07 ERROR 404: Not Found.
+

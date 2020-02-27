@@ -1,0 +1,12 @@
+--2020-02-25 21:11:40--  https://www.bermudajobboard.bm/UploadedFiles/ResourceDocs/SEPInstructions.pdf%0D
+Resolving www.bermudajobboard.bm (www.bermudajobboard.bm)... 69.17.200.236
+Connecting to www.bermudajobboard.bm (www.bermudajobboard.bm)|69.17.200.236|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:41 ERROR 400: Bad Request.
+
+--2020-02-25 21:20:31--  https://www.bermudajobboard.bm/UploadedFiles/ResourceDocs/SEPInstructions.pdf%0D
+Resolving www.bermudajobboard.bm (www.bermudajobboard.bm)... 69.17.200.236
+Connecting to www.bermudajobboard.bm (www.bermudajobboard.bm)|69.17.200.236|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:20:32 ERROR 400: Bad Request.
+

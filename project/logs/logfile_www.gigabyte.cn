@@ -1,0 +1,12 @@
+--2020-02-25 21:46:25--  https://www.gigabyte.cn/MicroSite/121/flashbios_qflash.pdf%0D
+Resolving www.gigabyte.cn (www.gigabyte.cn)... 163.171.146.54
+Connecting to www.gigabyte.cn (www.gigabyte.cn)|163.171.146.54|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:26 ERROR 400: Bad Request.
+
+--2020-02-25 21:46:33--  https://www.gigabyte.cn/MicroSite/121/flashbios_qflash.pdf%0D
+Resolving www.gigabyte.cn (www.gigabyte.cn)... 163.171.146.54
+Connecting to www.gigabyte.cn (www.gigabyte.cn)|163.171.146.54|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:34 ERROR 400: Bad Request.
+

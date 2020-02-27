@@ -1,0 +1,12 @@
+--2020-02-25 21:25:57--  http://sbe.ubd.edu.bn/download/GenNEXT_Rules_and_Regulation_Aug_2016.pdf%0D
+Resolving sbe.ubd.edu.bn (sbe.ubd.edu.bn)... 202.160.1.57
+Connecting to sbe.ubd.edu.bn (sbe.ubd.edu.bn)|202.160.1.57|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:58 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:15--  http://sbe.ubd.edu.bn/download/GenNEXT_Rules_and_Regulation_Aug_2016.pdf%0D
+Resolving sbe.ubd.edu.bn (sbe.ubd.edu.bn)... 202.160.1.57
+Connecting to sbe.ubd.edu.bn (sbe.ubd.edu.bn)|202.160.1.57|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:16 ERROR 400: Bad Request.
+

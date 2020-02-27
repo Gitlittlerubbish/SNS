@@ -1,0 +1,22 @@
+--2020-02-26 00:43:27--  http://www.cbq.qa/EIMG/php_60_seconds_tc_19092017.pdf%0D
+Resolving www.cbq.qa (www.cbq.qa)... 212.77.202.11
+Connecting to www.cbq.qa (www.cbq.qa)|212.77.202.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  280M=0s
+
+2020-02-26 00:43:28 (280 Mb/s) - ‘/dev/null’ saved [246/246]
+
+--2020-02-26 00:43:28--  http://www.cbq.qa/EIMG/php_60_seconds_tc_19092017.pdf%0D
+Resolving www.cbq.qa (www.cbq.qa)... 212.77.202.11
+Connecting to www.cbq.qa (www.cbq.qa)|212.77.202.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  610M=0s
+
+2020-02-26 00:43:28 (610 Mb/s) - ‘/dev/null’ saved [246/246]
+

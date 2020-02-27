@@ -1,0 +1,6 @@
+--2020-02-25 23:00:27--  https://www.figc.it/Utility/ExportAllegatiPdf%3Fid%3D1300%0D
+Resolving www.figc.it (www.figc.it)... 217.61.41.70
+Connecting to www.figc.it (www.figc.it)|217.61.41.70|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:27 ERROR 400: Bad Request.
+

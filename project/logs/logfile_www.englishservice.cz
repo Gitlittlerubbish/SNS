@@ -1,0 +1,12 @@
+--2020-02-25 22:05:18--  http://www.englishservice.cz/download/pet_reading_and_writing.pdf%0D
+Resolving www.englishservice.cz (www.englishservice.cz)... 46.28.105.79
+Connecting to www.englishservice.cz (www.englishservice.cz)|46.28.105.79|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:05:18 ERROR 404: Not Found.
+
+--2020-02-25 22:05:20--  http://www.englishservice.cz/download/pet_reading_and_writing.pdf%0D
+Resolving www.englishservice.cz (www.englishservice.cz)... 46.28.105.79
+Connecting to www.englishservice.cz (www.englishservice.cz)|46.28.105.79|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:05:20 ERROR 404: Not Found.
+

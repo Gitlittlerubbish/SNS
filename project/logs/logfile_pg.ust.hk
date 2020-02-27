@@ -1,0 +1,10 @@
+--2020-02-25 22:45:03--  http://pg.ust.hk/pics%0D
+Resolving pg.ust.hk (pg.ust.hk)... 143.89.190.139
+Connecting to pg.ust.hk (pg.ust.hk)|143.89.190.139|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://pg.ust.hk/pics%0d [following]
+--2020-02-25 22:45:04--  https://pg.ust.hk/pics%0d
+Connecting to pg.ust.hk (pg.ust.hk)|143.89.190.139|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:45:05 ERROR 404: Not Found.
+

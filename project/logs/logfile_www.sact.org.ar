@@ -1,0 +1,38 @@
+--2020-02-25 21:05:41--  http://www.sact.org.ar/docs/relato_2014_empiema.pdf%0D
+Resolving www.sact.org.ar (www.sact.org.ar)... 107.180.40.28
+Connecting to www.sact.org.ar (www.sact.org.ar)|107.180.40.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sact.org.ar/wp [following]
+--2020-02-25 21:05:41--  http://www.sact.org.ar/wp
+Reusing existing connection to www.sact.org.ar:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sact.org.ar/wp/ [following]
+--2020-02-25 21:05:41--  http://www.sact.org.ar/wp/
+Reusing existing connection to www.sact.org.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..         1.11M=0.3s
+
+2020-02-25 21:05:42 (1.11 Mb/s) - ‘/dev/null’ saved [44005]
+
+--2020-02-25 21:05:42--  http://www.sact.org.ar/docs/relato_2014_empiema.pdf%0D
+Resolving www.sact.org.ar (www.sact.org.ar)... 107.180.40.28
+Connecting to www.sact.org.ar (www.sact.org.ar)|107.180.40.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sact.org.ar/wp [following]
+--2020-02-25 21:05:42--  http://www.sact.org.ar/wp
+Reusing existing connection to www.sact.org.ar:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sact.org.ar/wp/ [following]
+--2020-02-25 21:05:43--  http://www.sact.org.ar/wp/
+Reusing existing connection to www.sact.org.ar:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..         1.23M=0.3s
+
+2020-02-25 21:05:44 (1.23 Mb/s) - ‘/dev/null’ saved [44005]
+

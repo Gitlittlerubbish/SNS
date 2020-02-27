@@ -1,0 +1,9 @@
+--2020-02-25 22:19:52--  http://www.met.gov.fj/icao/Manual.pdf%0D
+Resolving www.met.gov.fj (www.met.gov.fj)... --2020-02-25 22:19:52--  http://www.met.gov.fj/icao/Manual.pdf%0D
+Resolving www.met.gov.fj (www.met.gov.fj)... 202.62.118.46
+Connecting to www.met.gov.fj (www.met.gov.fj)|202.62.118.46|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:19:54 ERROR 500: Internal Server Error.
+
+failed: Connection timed out.
+wget: unable to resolve host address ‘www.met.gov.fj’

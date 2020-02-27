@@ -1,0 +1,44 @@
+--2020-02-25 22:19:47--  https://www.klaksvik.fo/download/file/d686a5e7e7ef2d738aa08744b52edb565aae966d.pdf%0D
+Resolving www.klaksvik.fo (www.klaksvik.fo)... --2020-02-25 22:19:47--  https://www.klaksvik.fo/download/file/d686a5e7e7ef2d738aa08744b52edb565aae966d.pdf%0D
+Resolving www.klaksvik.fo (www.klaksvik.fo)... 188.166.61.248
+Connecting to www.klaksvik.fo (www.klaksvik.fo)|188.166.61.248|:443... connected.
+HTTP request sent, awaiting response... 188.166.61.248
+Connecting to www.klaksvik.fo (www.klaksvik.fo)|188.166.61.248|:443... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        35.0M=0s
+
+2020-02-25 22:19:47 (35.0 Mb/s) - ‘/dev/null’ saved [21]
+
+--2020-02-25 22:19:47--  https://www.klaksvik.fo/download/file/d686a5e7e7ef2d738aa08744b52edb565aae966d.pdf%0D
+Resolving www.klaksvik.fo (www.klaksvik.fo)... 188.166.61.248
+Connecting to www.klaksvik.fo (www.klaksvik.fo)|188.166.61.248|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        14.7M=0s
+
+2020-02-25 22:19:47 (14.7 Mb/s) - ‘/dev/null’ saved [21]
+
+--2020-02-25 22:19:47--  https://www.klaksvik.fo/download/file/d686a5e7e7ef2d738aa08744b52edb565aae966d.pdf%0D
+Resolving www.klaksvik.fo (www.klaksvik.fo)... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        38.5M=0s
+
+2020-02-25 22:19:47 (38.5 Mb/s) - ‘/dev/null’ saved [21]
+
+188.166.61.248
+Connecting to www.klaksvik.fo (www.klaksvik.fo)|188.166.61.248|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        38.1M=0s
+
+2020-02-25 22:19:47 (38.1 Mb/s) - ‘/dev/null’ saved [21]
+

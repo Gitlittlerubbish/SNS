@@ -1,0 +1,6 @@
+--2020-02-25 23:25:11--  https://www.klaipeda.lt/data/wfiles/file14670.pdf%0D
+Resolving www.klaipeda.lt (www.klaipeda.lt)... 195.182.76.6
+Connecting to www.klaipeda.lt (www.klaipeda.lt)|195.182.76.6|:443... connected.
+ERROR: cannot verify www.klaipeda.lt's certificate, issued by ‘CN=Sectigo RSA Organization Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.klaipeda.lt insecurely, use `--no-check-certificate'.

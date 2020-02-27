@@ -1,0 +1,46 @@
+--2020-02-25 23:59:44--  http://liftech.co.mz/imgs/produtos/catalogo_elevadores_particulares_domuslift.pdf%0D
+Resolving liftech.co.mz (liftech.co.mz)... 94.126.168.66
+Connecting to liftech.co.mz (liftech.co.mz)|94.126.168.66|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.liftech.co.mz/imgs/produtos/catalogo_elevadores_particulares_domuslift.pdf%0d [following]
+--2020-02-25 23:59:44--  http://www.liftech.co.mz/imgs/produtos/catalogo_elevadores_particulares_domuslift.pdf%0d
+Resolving www.liftech.co.mz (www.liftech.co.mz)... 94.126.168.66
+Reusing existing connection to liftech.co.mz:80.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.liftech.pt/index.php [following]
+--2020-02-25 23:59:44--  https://www.liftech.pt/index.php
+Resolving www.liftech.pt (www.liftech.pt)... 94.126.168.66
+Connecting to www.liftech.pt (www.liftech.pt)|94.126.168.66|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.49M
+    50K .......... .......... .......... .......... .......... 6.23M
+   100K .......... ..                                          1.38G=0.2s
+
+2020-02-25 23:59:46 (3.99 Mb/s) - ‘/dev/null’ saved [114768]
+
+--2020-02-25 23:59:46--  http://liftech.co.mz/imgs/produtos/catalogo_elevadores_particulares_domuslift.pdf%0D
+Resolving liftech.co.mz (liftech.co.mz)... 94.126.168.66
+Connecting to liftech.co.mz (liftech.co.mz)|94.126.168.66|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.liftech.co.mz/imgs/produtos/catalogo_elevadores_particulares_domuslift.pdf%0d [following]
+--2020-02-25 23:59:46--  http://www.liftech.co.mz/imgs/produtos/catalogo_elevadores_particulares_domuslift.pdf%0d
+Resolving www.liftech.co.mz (www.liftech.co.mz)... 94.126.168.66
+Reusing existing connection to liftech.co.mz:80.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.liftech.pt/index.php [following]
+--2020-02-25 23:59:46--  https://www.liftech.pt/index.php
+Resolving www.liftech.pt (www.liftech.pt)... 94.126.168.66
+Connecting to www.liftech.pt (www.liftech.pt)|94.126.168.66|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 3.13M
+    50K .......... .......... .......... .......... .......... 12.4M
+   100K .......... ..                                           142M=0.2s
+
+2020-02-25 23:59:49 (5.58 Mb/s) - ‘/dev/null’ saved [114768]
+

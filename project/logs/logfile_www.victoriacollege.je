@@ -1,0 +1,6 @@
+--2020-02-25 23:04:59--  https://www.victoriacollege.je/_site/data/files/secondary/8FB29EE1D41AA2E32E254A3F0C753AD6.pdf%0D
+Resolving www.victoriacollege.je (www.victoriacollege.je)... 145.239.254.176, 145.239.254.175
+Connecting to www.victoriacollege.je (www.victoriacollege.je)|145.239.254.176|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:00 ERROR 400: Bad Request.
+

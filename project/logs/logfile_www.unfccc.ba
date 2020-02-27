@@ -1,0 +1,12 @@
+--2020-02-25 21:17:11--  http://www.unfccc.ba/klimatski_atlas/klimatski_atlas.pdf%0D
+Resolving www.unfccc.ba (www.unfccc.ba)... 78.28.145.213
+Connecting to www.unfccc.ba (www.unfccc.ba)|78.28.145.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:11 ERROR 404: Not Found.
+
+--2020-02-25 21:24:24--  http://www.unfccc.ba/klimatski_atlas/klimatski_atlas.pdf%0D
+Resolving www.unfccc.ba (www.unfccc.ba)... 78.28.145.213
+Connecting to www.unfccc.ba (www.unfccc.ba)|78.28.145.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:24 ERROR 404: Not Found.
+

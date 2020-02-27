@@ -1,0 +1,60 @@
+--2020-02-25 22:22:35--  https://www.te-palvelut.fi/te/fi/pdf/tavoitteiden_jasennys.pdf%0D
+Resolving www.te-palvelut.fi (www.te-palvelut.fi)... 194.100.117.184
+Connecting to www.te-palvelut.fi (www.te-palvelut.fi)|194.100.117.184|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.te-palvelut.fi/te/resources/virhesivut/404/ [following]
+--2020-02-25 22:22:35--  http://www.te-palvelut.fi/te/resources/virhesivut/404/
+Connecting to www.te-palvelut.fi (www.te-palvelut.fi)|194.100.117.184|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:22:35--  https://www.te-palvelut.fi/te/fi/pdf/tavoitteiden_jasennys.pdf%0D
+Resolving www.te-palvelut.fi (www.te-palvelut.fi)... 194.100.117.184
+Connecting to www.te-palvelut.fi (www.te-palvelut.fi)|194.100.117.184|:443... 200 OK
+Length: 17442 (17K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...connected.
+....                                    100% 3.33M=0.04s
+
+2020-02-25 22:22:35 (3.33 Mb/s) - ‘/dev/null’ saved [17442/17442]
+
+--2020-02-25 22:22:35--  https://www.te-palvelut.fi/te/fi/pdf/tavoitteiden_jasennys.pdf%0D
+Resolving www.te-palvelut.fi (www.te-palvelut.fi)... 194.100.117.184
+Connecting to www.te-palvelut.fi (www.te-palvelut.fi)|194.100.117.184|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.te-palvelut.fi/te/resources/virhesivut/404/ [following]
+--2020-02-25 22:22:36--  http://www.te-palvelut.fi/te/resources/virhesivut/404/
+Connecting to www.te-palvelut.fi (www.te-palvelut.fi)|194.100.117.184|:80... HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.te-palvelut.fi/te/resources/virhesivut/404/ [following]
+--2020-02-25 22:22:36--  http://www.te-palvelut.fi/te/resources/virhesivut/404/
+Connecting to www.te-palvelut.fi (www.te-palvelut.fi)|194.100.117.184|:80... 200 OK
+Length: 17442 (17K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...connected.
+HTTP request sent, awaiting response... ....                                    100% 3.32M=0.04s
+
+2020-02-25 22:22:36 (3.32 Mb/s) - ‘/dev/null’ saved [17442/17442]
+
+--2020-02-25 22:22:36--  https://www.te-palvelut.fi/te/fi/pdf/tavoitteiden_jasennys.pdf%0D
+Resolving www.te-palvelut.fi (www.te-palvelut.fi)... 194.100.117.184
+Connecting to www.te-palvelut.fi (www.te-palvelut.fi)|194.100.117.184|:443... 200 OK
+Length: 17442 (17K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...connected.
+....                                    100% 3.34M=0.04s
+
+2020-02-25 22:22:36 (3.34 Mb/s) - ‘/dev/null’ saved [17442/17442]
+
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.te-palvelut.fi/te/resources/virhesivut/404/ [following]
+--2020-02-25 22:22:36--  http://www.te-palvelut.fi/te/resources/virhesivut/404/
+Connecting to www.te-palvelut.fi (www.te-palvelut.fi)|194.100.117.184|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17442 (17K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                    100% 3.36M=0.04s
+
+2020-02-25 22:22:36 (3.36 Mb/s) - ‘/dev/null’ saved [17442/17442]
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:11:30--  https://www.harrys.bm/menu/caviar.pdf%0D
+Resolving www.harrys.bm (www.harrys.bm)... 192.185.33.66
+Connecting to www.harrys.bm (www.harrys.bm)|192.185.33.66|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:30 ERROR 404: Not Found.
+
+--2020-02-25 21:20:20--  https://www.harrys.bm/menu/caviar.pdf%0D
+Resolving www.harrys.bm (www.harrys.bm)... 192.185.33.66
+Connecting to www.harrys.bm (www.harrys.bm)|192.185.33.66|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:21 ERROR 404: Not Found.
+

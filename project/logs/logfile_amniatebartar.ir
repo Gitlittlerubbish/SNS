@@ -1,0 +1,6 @@
+--2020-02-25 22:54:35--  http://amniatebartar.ir/Public/Taha.pdf%0D
+Resolving amniatebartar.ir (amniatebartar.ir)... 185.55.227.74
+Connecting to amniatebartar.ir (amniatebartar.ir)|185.55.227.74|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:54:35 ERROR 400: Bad Request.
+

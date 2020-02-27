@@ -1,0 +1,12 @@
+--2020-02-25 21:27:27--  http://www.uni-vt.bg/res/9232/%25D0%2594%25D0%25BE%25D0%25BA%25D0%25BB%25D0%25B0%25D0%25B4%25D0%25B8-full.pdf%0D
+Resolving www.uni-vt.bg (www.uni-vt.bg)... 194.141.66.141
+Connecting to www.uni-vt.bg (www.uni-vt.bg)|194.141.66.141|:80... connected.
+HTTP request sent, awaiting response... 500 ( The request was rejected by the HTTP filter. Contact the server administrator.  )
+2020-02-25 21:27:27 ERROR 500: ( The request was rejected by the HTTP filter. Contact the server administrator.  ).
+
+--2020-02-25 21:32:33--  http://www.uni-vt.bg/res/9232/%25D0%2594%25D0%25BE%25D0%25BA%25D0%25BB%25D0%25B0%25D0%25B4%25D0%25B8-full.pdf%0D
+Resolving www.uni-vt.bg (www.uni-vt.bg)... 194.141.66.141
+Connecting to www.uni-vt.bg (www.uni-vt.bg)|194.141.66.141|:80... connected.
+HTTP request sent, awaiting response... 500 ( The request was rejected by the HTTP filter. Contact the server administrator.  )
+2020-02-25 21:32:34 ERROR 500: ( The request was rejected by the HTTP filter. Contact the server administrator.  ).
+

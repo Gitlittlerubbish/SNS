@@ -1,0 +1,12 @@
+--2020-02-25 21:15:01--  http://www.pendencement.bt/wp-content/uploads/pdfdocs/AR_2018_Final_revised_27_2.pdf%0D
+Resolving www.pendencement.bt (www.pendencement.bt)... 119.2.100.87
+Connecting to www.pendencement.bt (www.pendencement.bt)|119.2.100.87|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:15:02 ERROR 403: Forbidden.
+
+--2020-02-25 21:22:43--  http://www.pendencement.bt/wp-content/uploads/pdfdocs/AR_2018_Final_revised_27_2.pdf%0D
+Resolving www.pendencement.bt (www.pendencement.bt)... 119.2.100.87
+Connecting to www.pendencement.bt (www.pendencement.bt)|119.2.100.87|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:22:44 ERROR 403: Forbidden.
+

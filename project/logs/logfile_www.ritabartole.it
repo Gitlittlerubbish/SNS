@@ -1,0 +1,6 @@
+--2020-02-25 23:00:36--  http://www.ritabartole.it/aritmetica/periodici.pdf%0D
+Resolving www.ritabartole.it (www.ritabartole.it)... 31.11.33.161
+Connecting to www.ritabartole.it (www.ritabartole.it)|31.11.33.161|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:36 ERROR 400: Bad Request.
+

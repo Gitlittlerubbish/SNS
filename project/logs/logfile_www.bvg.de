@@ -1,0 +1,40 @@
+--2020-02-25 22:31:30--  https://www.bvg.de/images/content/linienverlaeufe/LinienverlaufU2.pdf%0D
+Resolving www.bvg.de (www.bvg.de)... --2020-02-25 22:31:30--  https://www.bvg.de/images/content/linienverlaeufe/LinienverlaufU2.pdf%0D
+Resolving www.bvg.de (www.bvg.de)... 85.215.8.198
+Connecting to www.bvg.de (www.bvg.de)|85.215.8.198|:443... 85.215.8.198
+Connecting to www.bvg.de (www.bvg.de)|85.215.8.198|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /de/images/content/linienverlaeufe/LinienverlaufU2.pdf [following]
+--2020-02-25 22:31:31--  https://www.bvg.de/de/images/content/linienverlaeufe/LinienverlaufU2.pdf
+Reusing existing connection to www.bvg.de:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /de/images/content/linienverlaeufe/LinienverlaufU2.pdf [following]
+--2020-02-25 22:31:31--  https://www.bvg.de/de/images/content/linienverlaeufe/LinienverlaufU2.pdf
+Reusing existing connection to www.bvg.de:443.
+HTTP request sent, awaiting response... 404 Not found
+2020-02-25 22:31:33 ERROR 404: Not found.
+
+--2020-02-25 22:31:33--  https://www.bvg.de/images/content/linienverlaeufe/LinienverlaufU7.pdf%0D
+Resolving www.bvg.de (www.bvg.de)... 85.215.8.198
+Connecting to www.bvg.de (www.bvg.de)|85.215.8.198|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 22:31:34--  https://www.bvg.de/images/content/linienverlaeufe/LinienverlaufU7.pdf%0D
+Resolving www.bvg.de (www.bvg.de)... 85.215.8.198
+Connecting to www.bvg.de (www.bvg.de)|85.215.8.198|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /de/images/content/linienverlaeufe/LinienverlaufU7.pdf [following]
+--2020-02-25 22:31:34--  https://www.bvg.de/de/images/content/linienverlaeufe/LinienverlaufU7.pdf
+Reusing existing connection to www.bvg.de:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /de/images/content/linienverlaeufe/LinienverlaufU7.pdf [following]
+--2020-02-25 22:31:34--  https://www.bvg.de/de/images/content/linienverlaeufe/LinienverlaufU7.pdf
+Reusing existing connection to www.bvg.de:443.
+HTTP request sent, awaiting response... 404 Not found
+2020-02-25 22:31:36 ERROR 404: Not found.
+
+Read error (Connection timed out) in headers.
+Giving up.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:23:09--  http://www.sdis76.fr/images/conseil_et_prevention/Guide_securite_incendie_ERP.pdf%0D
+Resolving www.sdis76.fr (www.sdis76.fr)... --2020-02-25 22:23:09--  http://www.sdis76.fr/images/conseil_et_prevention/Guide_securite_incendie_ERP.pdf%0D
+Resolving www.sdis76.fr (www.sdis76.fr)... 213.186.33.18
+Connecting to www.sdis76.fr (www.sdis76.fr)|213.186.33.18|:80... connected.
+HTTP request sent, awaiting response... 213.186.33.18
+Connecting to www.sdis76.fr (www.sdis76.fr)|213.186.33.18|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:09 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:23:09 ERROR 404: Not Found.
+

@@ -1,0 +1,46 @@
+--2020-02-25 23:26:07--  https://www.lcto.lu/media/52b7fb406bea0_casemates_es.pdf%0D
+Resolving www.lcto.lu (www.lcto.lu)... 52.28.27.130
+Connecting to www.lcto.lu (www.lcto.lu)|52.28.27.130|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.luxembourg-city.com [following]
+--2020-02-25 23:26:07--  https://www.luxembourg-city.com/
+Resolving www.luxembourg-city.com (www.luxembourg-city.com)... 104.26.11.171, 104.26.10.171
+Connecting to www.luxembourg-city.com (www.luxembourg-city.com)|104.26.11.171|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /fr [following]
+--2020-02-25 23:26:07--  https://www.luxembourg-city.com/fr
+Reusing existing connection to www.luxembourg-city.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32.4M
+    50K .......... .......... .......... .......... .......... 3.51G
+   100K .......... .......... .......... .......... ..........  417M
+   150K .......... .......... .......... .......... ...        3.63G=0.01s
+
+2020-02-25 23:26:07 (115 Mb/s) - ‘/dev/null’ saved [198309]
+
+--2020-02-25 23:26:07--  https://www.lcto.lu/media/52b7fb406bea0_casemates_es.pdf%0D
+Resolving www.lcto.lu (www.lcto.lu)... 52.28.27.130
+Connecting to www.lcto.lu (www.lcto.lu)|52.28.27.130|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.luxembourg-city.com [following]
+--2020-02-25 23:26:08--  https://www.luxembourg-city.com/
+Resolving www.luxembourg-city.com (www.luxembourg-city.com)... 104.26.10.171, 104.26.11.171
+Connecting to www.luxembourg-city.com (www.luxembourg-city.com)|104.26.10.171|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /fr [following]
+--2020-02-25 23:26:08--  https://www.luxembourg-city.com/fr
+Reusing existing connection to www.luxembourg-city.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21.0M
+    50K .......... .......... .......... .......... ..........  513M
+   100K .......... .......... .......... .......... .......... 1.73G
+   150K .......... .......... .......... .......... ...        2.49G=0.02s
+
+2020-02-25 23:26:08 (76.7 Mb/s) - ‘/dev/null’ saved [198310]
+

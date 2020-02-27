@@ -1,0 +1,20 @@
+--2020-02-25 22:06:32--  http://www2.dmu.dk/Pub/FR650.pdf%0D
+Resolving www2.dmu.dk (www2.dmu.dk)... --2020-02-25 22:06:32--  http://www2.dmu.dk/Pub/FR650.pdf%0D
+Resolving www2.dmu.dk (www2.dmu.dk)... 185.45.20.38
+Connecting to www2.dmu.dk (www2.dmu.dk)|185.45.20.38|:80... 185.45.20.38
+Connecting to www2.dmu.dk (www2.dmu.dk)|185.45.20.38|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www2.dmu.dk/Pub/FR650.pdf%0D [following]
+--2020-02-25 22:06:32--  https://www2.dmu.dk/Pub/FR650.pdf%0D
+Connecting to www2.dmu.dk (www2.dmu.dk)|185.45.20.38|:443... 302 Moved Temporarily
+Location: https://www2.dmu.dk/Pub/FR650.pdf%0D [following]
+--2020-02-25 22:06:32--  https://www2.dmu.dk/Pub/FR650.pdf%0D
+Connecting to www2.dmu.dk (www2.dmu.dk)|185.45.20.38|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:06:32 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:06:32 ERROR 400: Bad Request.
+

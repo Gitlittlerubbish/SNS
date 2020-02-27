@@ -1,0 +1,22 @@
+--2020-02-25 22:30:48--  https://geostat.ge/media/20657/Demografiis_Mokle_Leksikoni.pdf%0D
+Resolving geostat.ge (geostat.ge)... 217.147.225.138
+Connecting to geostat.ge (geostat.ge)|217.147.225.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.geostat.ge/media/20657/Demografiis_Mokle_Leksikoni.pdf%0D [following]
+--2020-02-25 22:30:49--  https://www.geostat.ge/media/20657/Demografiis_Mokle_Leksikoni.pdf%0D
+Resolving www.geostat.ge (www.geostat.ge)... 217.147.225.138
+Connecting to www.geostat.ge (www.geostat.ge)|217.147.225.138|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:30:49 ERROR 404: Not Found.
+
+--2020-02-25 22:30:50--  https://geostat.ge/media/20657/Demografiis_Mokle_Leksikoni.pdf%0D
+Resolving geostat.ge (geostat.ge)... 217.147.225.138
+Connecting to geostat.ge (geostat.ge)|217.147.225.138|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.geostat.ge/media/20657/Demografiis_Mokle_Leksikoni.pdf%0D [following]
+--2020-02-25 22:30:50--  https://www.geostat.ge/media/20657/Demografiis_Mokle_Leksikoni.pdf%0D
+Resolving www.geostat.ge (www.geostat.ge)... 217.147.225.138
+Connecting to www.geostat.ge (www.geostat.ge)|217.147.225.138|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:30:50 ERROR 404: Not Found.
+

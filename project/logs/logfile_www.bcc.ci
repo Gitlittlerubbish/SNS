@@ -1,0 +1,9 @@
+--2020-02-25 22:00:18--  http://www.bcc.ci/docs/2015/DOSSIER_TYPE_DAGREMENT_EXPORTATEUR_DE_CAFE_ET_DE_CACAO_CAMPAGNE_2015_2016_SOCIETE_COMMERCIALE.pdf%0D
+Resolving www.bcc.ci (www.bcc.ci)... --2020-02-25 22:00:18--  http://www.bcc.ci/docs/2015/DOSSIER_TYPE_DAGREMENT_EXPORTATEUR_DE_CAFE_ET_DE_CACAO_CAMPAGNE_2015_2016_SOCIETE_COMMERCIALE.pdf%0D
+Resolving www.bcc.ci (www.bcc.ci)... 213.136.99.73
+Connecting to www.bcc.ci (www.bcc.ci)|213.136.99.73|:80... connected.
+HTTP request sent, awaiting response... No data received.
+Giving up.
+
+failed: Connection timed out.
+wget: unable to resolve host address ‘www.bcc.ci’

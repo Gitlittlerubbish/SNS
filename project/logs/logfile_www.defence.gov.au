@@ -1,0 +1,20 @@
+--2020-02-25 20:57:14--  http://www.defence.gov.au/publications/IGADFInquiryReportSignallerGregg.pdf%0D
+Resolving www.defence.gov.au (www.defence.gov.au)... 203.6.74.5
+Connecting to www.defence.gov.au (www.defence.gov.au)|203.6.74.5|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.defence.gov.au/publications/IGADFInquiryReportSignallerGregg.pdf%0D [following]
+--2020-02-25 20:57:15--  https://www.defence.gov.au/publications/IGADFInquiryReportSignallerGregg.pdf%0D
+Connecting to www.defence.gov.au (www.defence.gov.au)|203.6.74.5|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:57:16 ERROR 400: Bad Request.
+
+--2020-02-25 21:09:45--  http://www.defence.gov.au/publications/IGADFInquiryReportSignallerGregg.pdf%0D
+Resolving www.defence.gov.au (www.defence.gov.au)... 203.6.74.5
+Connecting to www.defence.gov.au (www.defence.gov.au)|203.6.74.5|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.defence.gov.au/publications/IGADFInquiryReportSignallerGregg.pdf%0D [following]
+--2020-02-25 21:09:45--  https://www.defence.gov.au/publications/IGADFInquiryReportSignallerGregg.pdf%0D
+Connecting to www.defence.gov.au (www.defence.gov.au)|203.6.74.5|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:09:47 ERROR 400: Bad Request.
+

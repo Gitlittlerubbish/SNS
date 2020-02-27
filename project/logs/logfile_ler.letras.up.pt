@@ -1,0 +1,6 @@
+--2020-02-26 00:42:13--  https://ler.letras.up.pt/uploads/ficheiros/1381.pdf%0D
+Resolving ler.letras.up.pt (ler.letras.up.pt)... 193.137.34.136
+Connecting to ler.letras.up.pt (ler.letras.up.pt)|193.137.34.136|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:42:14 ERROR 400: Bad Request.
+

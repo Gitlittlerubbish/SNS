@@ -1,0 +1,12 @@
+--2020-02-25 21:08:29--  http://www.myfavorite.bz/randr/work/top/nver.pdf%0D
+Resolving www.myfavorite.bz (www.myfavorite.bz)... 52.197.154.63
+Connecting to www.myfavorite.bz (www.myfavorite.bz)|52.197.154.63|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:08:30 ERROR 404: Not Found.
+
+--2020-02-25 21:18:16--  http://www.myfavorite.bz/randr/work/top/nver.pdf%0D
+Resolving www.myfavorite.bz (www.myfavorite.bz)... 52.197.154.63
+Connecting to www.myfavorite.bz (www.myfavorite.bz)|52.197.154.63|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:16 ERROR 404: Not Found.
+

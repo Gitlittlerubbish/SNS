@@ -1,0 +1,12 @@
+--2020-02-25 23:43:48--  http://www.cgste.mq/portail_risques/documents/risque_sismique.pdf%0D
+Resolving www.cgste.mq (www.cgste.mq)... 213.16.19.4
+Connecting to www.cgste.mq (www.cgste.mq)|213.16.19.4|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:43:48 ERROR 400: Bad Request.
+
+--2020-02-25 23:43:48--  http://www.cgste.mq/intranet/IMG/pdf/Plan_de_reception_des_dechets_portuaires.pdf%0D
+Resolving www.cgste.mq (www.cgste.mq)... 213.16.19.4
+Connecting to www.cgste.mq (www.cgste.mq)|213.16.19.4|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 23:43:49 ERROR 403: Forbidden.
+

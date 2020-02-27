@@ -1,0 +1,12 @@
+--2020-02-26 00:28:59--  http://hargy.com.pg/pdf/annual_reports/2011_en.pdf%0D
+Resolving hargy.com.pg (hargy.com.pg)... 89.36.74.115
+Connecting to hargy.com.pg (hargy.com.pg)|89.36.74.115|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:28:59 ERROR 400: Bad Request.
+
+--2020-02-26 00:31:17--  http://hargy.com.pg/pdf/annual_reports/2011_en.pdf%0D
+Resolving hargy.com.pg (hargy.com.pg)... 89.36.74.115
+Connecting to hargy.com.pg (hargy.com.pg)|89.36.74.115|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:31:17 ERROR 400: Bad Request.
+

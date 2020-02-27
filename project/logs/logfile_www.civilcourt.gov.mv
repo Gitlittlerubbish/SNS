@@ -1,0 +1,6 @@
+--2020-02-25 23:41:06--  http://www.civilcourt.gov.mv/iulaan/ibthidhaaee.pdf%0D
+Resolving www.civilcourt.gov.mv (www.civilcourt.gov.mv)... 66.96.147.105
+Connecting to www.civilcourt.gov.mv (www.civilcourt.gov.mv)|66.96.147.105|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:41:06 ERROR 400: Bad Request.
+

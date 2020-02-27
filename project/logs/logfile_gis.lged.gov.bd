@@ -1,0 +1,12 @@
+--2020-02-25 21:05:15--  http://gis.lged.gov.bd/Content/UserGuide.pdf%0D
+Resolving gis.lged.gov.bd (gis.lged.gov.bd)... 103.48.16.186
+Connecting to gis.lged.gov.bd (gis.lged.gov.bd)|103.48.16.186|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:05:15 ERROR 400: Bad Request.
+
+--2020-02-25 21:15:47--  http://gis.lged.gov.bd/Content/UserGuide.pdf%0D
+Resolving gis.lged.gov.bd (gis.lged.gov.bd)... 103.48.16.186
+Connecting to gis.lged.gov.bd (gis.lged.gov.bd)|103.48.16.186|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:15:47 ERROR 400: Bad Request.
+

@@ -1,0 +1,76 @@
+--2020-02-25 22:31:11--  https://www.be.ge/published/publicdata/TEST/attachments/SC/products_manual/144858_manual_05.pdf%0D
+Resolving www.be.ge (www.be.ge)... --2020-02-25 22:31:11--  https://www.be.ge/published/publicdata/TEST/attachments/SC/products_manual/144858_manual_05.pdf%0D
+Resolving www.be.ge (www.be.ge)... 104.24.109.53, 104.24.108.53
+Connecting to www.be.ge (www.be.ge)|104.24.109.53|:443... connected.
+HTTP request sent, awaiting response... 104.24.108.53, 104.24.109.53
+Connecting to www.be.ge (www.be.ge)|104.24.108.53|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from www.be.ge attempted to set domain to be.ge
+Location: /aux-404.html [following]
+--2020-02-25 22:31:12--  https://www.be.ge/aux-404.html
+Reusing existing connection to www.be.ge:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from www.be.ge attempted to set domain to be.ge
+Location: /aux-404.html [following]
+--2020-02-25 22:31:12--  https://www.be.ge/aux-404.html
+Reusing existing connection to www.be.ge:443.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.be.ge attempted to set domain to be.ge
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  374M
+    50K .......... ....200 OK
+Cookie coming from www.be.ge attempted to set domain to be.ge
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  486M
+    50K .......... .......... .......... .......... .......... 9.32M
+   100K .......... .......... .....                             381M=0.05s
+
+2020-02-25 22:31:12 (22.5 Mb/s) - ‘/dev/null’ saved [128013]
+
+--2020-02-25 22:31:12--  https://www.be.ge/published/publicdata/TEST/attachments/SC/products_manual/144858_manual_05.pdf%0D
+...... .......... .......... .......... 9.34M
+   100K .......... .......... .....                             535M=0.05s
+
+2020-02-25 22:31:12 (22.7 Mb/s) - ‘/dev/null’ saved [128013]
+
+--2020-02-25 22:31:12--  https://www.be.ge/published/publicdata/TEST/attachments/SC/products_manual/144858_manual_05.pdf%0D
+Resolving www.be.ge (www.be.ge)... Resolving www.be.ge (www.be.ge)... 104.24.109.53, 104.24.108.53
+Connecting to www.be.ge (www.be.ge)|104.24.109.53|:443... 104.24.109.53, 104.24.108.53
+Connecting to www.be.ge (www.be.ge)|104.24.109.53|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 Moved Permanently
+Cookie coming from www.be.ge attempted to set domain to be.ge
+Location: /aux-404.html [following]
+--2020-02-25 22:31:12--  https://www.be.ge/aux-404.html
+Reusing existing connection to www.be.ge:443.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.be.ge attempted to set domain to be.ge
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  298M
+    50K .......... .......... .......... .......... .......... 9.82M
+   100K .......... .......... .....                             480M=0.04s
+
+2020-02-25 22:31:13 (23.5 Mb/s) - ‘/dev/null’ saved [128013]
+
+301 Moved Permanently
+Cookie coming from www.be.ge attempted to set domain to be.ge
+Location: /aux-404.html [following]
+--2020-02-25 22:31:13--  https://www.be.ge/aux-404.html
+Reusing existing connection to www.be.ge:443.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.be.ge attempted to set domain to be.ge
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.10G
+    50K .......... .......... .......... .......... .......... 11.5M
+   100K .......... .......... .....                             161M=0.04s
+
+2020-02-25 22:31:13 (27.5 Mb/s) - ‘/dev/null’ saved [128013]
+

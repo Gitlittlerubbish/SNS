@@ -1,0 +1,12 @@
+--2020-02-25 22:06:54--  http://www.guichet-unique.dj/Loi123.pdf%0D
+Resolving www.guichet-unique.dj (www.guichet-unique.dj)... 197.241.32.182
+Connecting to www.guichet-unique.dj (www.guichet-unique.dj)|197.241.32.182|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:06:55 ERROR 403: Forbidden.
+
+--2020-02-25 22:06:55--  http://www.guichet-unique.dj/Loi123.pdf%0D
+Resolving www.guichet-unique.dj (www.guichet-unique.dj)... 197.241.32.182
+Connecting to www.guichet-unique.dj (www.guichet-unique.dj)|197.241.32.182|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:06:55 ERROR 403: Forbidden.
+

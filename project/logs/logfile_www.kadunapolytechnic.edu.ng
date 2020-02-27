@@ -1,0 +1,6 @@
+--2020-02-26 00:16:19--  http://www.kadunapolytechnic.edu.ng/downloads/2015admissionbroc.pdf%0D
+Resolving www.kadunapolytechnic.edu.ng (www.kadunapolytechnic.edu.ng)... 64.91.236.23
+Connecting to www.kadunapolytechnic.edu.ng (www.kadunapolytechnic.edu.ng)|64.91.236.23|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:16:19 ERROR 400: Bad Request.
+

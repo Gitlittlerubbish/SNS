@@ -1,0 +1,12 @@
+--2020-02-25 21:32:53--  https://www.lolc.com.kh/reports/LOLC_Annual_Report_2017_ENG.pdf%0D
+Resolving www.lolc.com.kh (www.lolc.com.kh)... 203.189.128.100
+Connecting to www.lolc.com.kh (www.lolc.com.kh)|203.189.128.100|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:32:54 ERROR 400: Bad Request.
+
+--2020-02-25 21:35:47--  https://www.lolc.com.kh/reports/LOLC_Annual_Report_2017_ENG.pdf%0D
+Resolving www.lolc.com.kh (www.lolc.com.kh)... 203.189.128.100
+Connecting to www.lolc.com.kh (www.lolc.com.kh)|203.189.128.100|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:35:48 ERROR 400: Bad Request.
+

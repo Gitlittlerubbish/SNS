@@ -1,0 +1,24 @@
+--2020-02-25 21:20:21--  https://portal.novartis.com.br/UPLOAD/ImgConteudos/2591.pdf%0D
+Resolving portal.novartis.com.br (portal.novartis.com.br)... 194.209.178.206
+Connecting to portal.novartis.com.br (portal.novartis.com.br)|194.209.178.206|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:20:21 ERROR 400: Bad Request.
+
+--2020-02-25 21:20:21--  https://portal.novartis.com.br/UPLOAD/ImgConteudos/2191.pdf%0D
+Resolving portal.novartis.com.br (portal.novartis.com.br)... 194.209.178.206
+Connecting to portal.novartis.com.br (portal.novartis.com.br)|194.209.178.206|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:20:22 ERROR 400: Bad Request.
+
+--2020-02-25 21:26:28--  https://portal.novartis.com.br/UPLOAD/ImgConteudos/2591.pdf%0D
+Resolving portal.novartis.com.br (portal.novartis.com.br)... 194.209.178.206
+Connecting to portal.novartis.com.br (portal.novartis.com.br)|194.209.178.206|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:29 ERROR 400: Bad Request.
+
+--2020-02-25 21:26:29--  https://portal.novartis.com.br/UPLOAD/ImgConteudos/2191.pdf%0D
+Resolving portal.novartis.com.br (portal.novartis.com.br)... 194.209.178.206
+Connecting to portal.novartis.com.br (portal.novartis.com.br)|194.209.178.206|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:29 ERROR 400: Bad Request.
+

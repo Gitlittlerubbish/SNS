@@ -1,0 +1,6 @@
+--2020-02-25 22:48:30--  http://selecta.is/human_biology_6th_edition.pdf%0D
+Resolving selecta.is (selecta.is)... 178.62.10.212
+Connecting to selecta.is (selecta.is)|178.62.10.212|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:48:30 ERROR 500: Internal Server Error.
+

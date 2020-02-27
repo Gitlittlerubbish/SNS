@@ -1,0 +1,12 @@
+--2020-02-25 22:11:51--  http://bibalex.eg/Attachments/Publications/Files/201906181115088714_SCIplanetWinter2019AR.pdf%0D
+Resolving bibalex.eg (bibalex.eg)... --2020-02-25 22:11:51--  http://bibalex.eg/Attachments/Publications/Files/201906181115088714_SCIplanetWinter2019AR.pdf%0D
+Resolving bibalex.eg (bibalex.eg)... 196.204.161.10
+Connecting to bibalex.eg (bibalex.eg)|196.204.161.10|:80... 196.204.161.10
+Connecting to bibalex.eg (bibalex.eg)|196.204.161.10|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:52 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:11:52 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:23:23--  http://www.mola.gov.om/Download.aspx%3FLid%3D36%0D
+Resolving www.mola.gov.om (www.mola.gov.om)... 212.72.1.236
+Connecting to www.mola.gov.om (www.mola.gov.om)|212.72.1.236|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:23:24 ERROR 400: Bad Request.
+

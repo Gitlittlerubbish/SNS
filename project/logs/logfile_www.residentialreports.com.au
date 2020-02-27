@@ -1,0 +1,68 @@
+--2020-02-25 20:58:45--  http://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf%0D
+Resolving www.residentialreports.com.au (www.residentialreports.com.au)... 119.15.105.9
+Connecting to www.residentialreports.com.au (www.residentialreports.com.au)|119.15.105.9|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf [following]
+--2020-02-25 20:58:47--  https://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf
+Connecting to www.residentialreports.com.au (www.residentialreports.com.au)|119.15.105.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113531 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  705K 1s
+    50K .......... .......... .......... .......... .......... 90% 1.41M 0s
+   100K ..........                                            100% 7.77G=0.9s
+
+2020-02-25 20:58:49 (1.04 Mb/s) - ‘/dev/null’ saved [113531/113531]
+
+--2020-02-25 20:58:49--  http://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf%0D
+Resolving www.residentialreports.com.au (www.residentialreports.com.au)... 119.15.105.9
+Connecting to www.residentialreports.com.au (www.residentialreports.com.au)|119.15.105.9|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf [following]
+--2020-02-25 20:58:51--  https://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf
+Connecting to www.residentialreports.com.au (www.residentialreports.com.au)|119.15.105.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113531 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  696K 1s
+    50K .......... .......... .......... .......... .......... 90% 1.39M 0s
+   100K ..........                                            100% 7.85G=0.9s
+
+2020-02-25 20:58:53 (1.03 Mb/s) - ‘/dev/null’ saved [113531/113531]
+
+--2020-02-25 21:10:56--  http://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf%0D
+Resolving www.residentialreports.com.au (www.residentialreports.com.au)... 119.15.105.9
+Connecting to www.residentialreports.com.au (www.residentialreports.com.au)|119.15.105.9|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf [following]
+--2020-02-25 21:10:58--  https://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf
+Connecting to www.residentialreports.com.au (www.residentialreports.com.au)|119.15.105.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113531 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  702K 1s
+    50K .......... .......... .......... .......... .......... 90% 1.41M 0s
+   100K ..........                                            100% 7.39G=0.9s
+
+2020-02-25 21:11:00 (1.04 Mb/s) - ‘/dev/null’ saved [113531/113531]
+
+--2020-02-25 21:11:00--  http://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf%0D
+Resolving www.residentialreports.com.au (www.residentialreports.com.au)... 119.15.105.9
+Connecting to www.residentialreports.com.au (www.residentialreports.com.au)|119.15.105.9|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf [following]
+--2020-02-25 21:11:02--  https://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf
+Connecting to www.residentialreports.com.au (www.residentialreports.com.au)|119.15.105.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113531 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  696K 1s
+    50K .......... .......... .......... .......... .......... 90% 1.39M 0s
+   100K ..........                                            100% 3.44G=0.9s
+
+2020-02-25 21:11:04 (1.03 Mb/s) - ‘/dev/null’ saved [113531/113531]
+

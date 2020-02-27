@@ -1,0 +1,15 @@
+--2020-02-25 23:21:18--  http://lacpa.org.lb/IFAC%2520releases.pdf%0D
+Resolving lacpa.org.lb (lacpa.org.lb)... 178.32.254.131
+Connecting to lacpa.org.lb (lacpa.org.lb)|178.32.254.131|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lacpa.org.lb/IFAC%2520releases.pdf%0d [following]
+--2020-02-25 23:21:18--  https://lacpa.org.lb/IFAC%2520releases.pdf%0d
+Connecting to lacpa.org.lb (lacpa.org.lb)|178.32.254.131|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lacpa.org.lb/IFAC%2520releases.pdf%0d [following]
+--2020-02-25 23:21:18--  https://www.lacpa.org.lb/IFAC%2520releases.pdf%0d
+Resolving www.lacpa.org.lb (www.lacpa.org.lb)... 178.32.254.131
+Connecting to www.lacpa.org.lb (www.lacpa.org.lb)|178.32.254.131|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:21:20 ERROR 404: Not Found.
+

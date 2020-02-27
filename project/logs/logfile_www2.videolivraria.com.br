@@ -1,0 +1,12 @@
+--2020-02-25 21:19:57--  http://www2.videolivraria.com.br/pdfs/11675.pdf%0D
+Resolving www2.videolivraria.com.br (www2.videolivraria.com.br)... 143.204.178.134, 143.204.178.8, 143.204.178.135, ...
+Connecting to www2.videolivraria.com.br (www2.videolivraria.com.br)|143.204.178.134|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:19:57 ERROR 403: Forbidden.
+
+--2020-02-25 21:26:11--  http://www2.videolivraria.com.br/pdfs/11675.pdf%0D
+Resolving www2.videolivraria.com.br (www2.videolivraria.com.br)... 99.84.13.116, 99.84.13.153, 99.84.13.154, ...
+Connecting to www2.videolivraria.com.br (www2.videolivraria.com.br)|99.84.13.116|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:26:11 ERROR 403: Forbidden.
+

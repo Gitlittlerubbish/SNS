@@ -1,0 +1,12 @@
+--2020-02-25 21:51:29--  http://www.apnidukkan.co/abc.pdf%0D
+Resolving www.apnidukkan.co (www.apnidukkan.co)... 162.215.240.128
+Connecting to www.apnidukkan.co (www.apnidukkan.co)|162.215.240.128|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:51:32 ERROR 404: Not Found.
+
+--2020-02-25 21:51:37--  http://www.apnidukkan.co/abc.pdf%0D
+Resolving www.apnidukkan.co (www.apnidukkan.co)... 162.215.240.128
+Connecting to www.apnidukkan.co (www.apnidukkan.co)|162.215.240.128|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:51:38 ERROR 404: Not Found.
+

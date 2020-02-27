@@ -1,0 +1,6 @@
+--2020-02-25 23:44:13--  https://www.hapa.mr/files/Def_happa_ar.pdf%0D
+Resolving www.hapa.mr (www.hapa.mr)... 68.171.212.69
+Connecting to www.hapa.mr (www.hapa.mr)|68.171.212.69|:443... connected.
+ERROR: cannot verify www.hapa.mr's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Issued certificate has expired.
+To connect to www.hapa.mr insecurely, use `--no-check-certificate'.

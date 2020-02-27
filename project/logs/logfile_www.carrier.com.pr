@@ -1,0 +1,6 @@
+--2020-02-26 00:43:04--  http://www.carrier.com.pr/pdf/products_pdf/Toshiba_Carrier_SMMSi_brochure.pdf%0D
+Resolving www.carrier.com.pr (www.carrier.com.pr)... 173.44.33.52
+Connecting to www.carrier.com.pr (www.carrier.com.pr)|173.44.33.52|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:43:04 ERROR 400: Bad Request.
+

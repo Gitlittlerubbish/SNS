@@ -1,0 +1,20 @@
+--2020-02-25 21:33:57--  http://www.nea.gov.kh/images/uploaded/announcement/3_1.pdf%0D
+Resolving www.nea.gov.kh (www.nea.gov.kh)... 162.241.191.45
+Connecting to www.nea.gov.kh (www.nea.gov.kh)|162.241.191.45|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.nea.gov.kh/kh/images/uploaded/announcement/3_1.pdf%0D [following]
+--2020-02-25 21:33:57--  http://www.nea.gov.kh/kh/images/uploaded/announcement/3_1.pdf%0D
+Reusing existing connection to www.nea.gov.kh:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:33:58 ERROR 404: Not Found.
+
+--2020-02-25 21:36:32--  http://www.nea.gov.kh/images/uploaded/announcement/3_1.pdf%0D
+Resolving www.nea.gov.kh (www.nea.gov.kh)... 162.241.191.45
+Connecting to www.nea.gov.kh (www.nea.gov.kh)|162.241.191.45|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.nea.gov.kh/kh/images/uploaded/announcement/3_1.pdf%0D [following]
+--2020-02-25 21:36:32--  http://www.nea.gov.kh/kh/images/uploaded/announcement/3_1.pdf%0D
+Reusing existing connection to www.nea.gov.kh:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:33 ERROR 404: Not Found.
+

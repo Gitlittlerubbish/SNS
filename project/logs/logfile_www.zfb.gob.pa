@@ -1,0 +1,22 @@
+--2020-02-26 00:26:53--  http://www.zfb.gob.pa/assets/pmd_bar%25C3%25BA_monografias_julio2016.pdf%0D
+Resolving www.zfb.gob.pa (www.zfb.gob.pa)... 168.77.210.172
+Connecting to www.zfb.gob.pa (www.zfb.gob.pa)|168.77.210.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  589M=0s
+
+2020-02-26 00:26:54 (589 Mb/s) - ‘/dev/null’ saved [246/246]
+
+--2020-02-26 00:26:54--  http://www.zfb.gob.pa/assets/pmd_bar%25C3%25BA_monografias_julio2016.pdf%0D
+Resolving www.zfb.gob.pa (www.zfb.gob.pa)... 168.77.210.172
+Connecting to www.zfb.gob.pa (www.zfb.gob.pa)|168.77.210.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  199M=0s
+
+2020-02-26 00:26:54 (199 Mb/s) - ‘/dev/null’ saved [246/246]
+

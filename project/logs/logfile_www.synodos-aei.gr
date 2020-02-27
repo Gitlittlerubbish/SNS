@@ -1,0 +1,24 @@
+--2020-02-25 22:34:55--  http://www.synodos-aei.gr/katalogos_prytaneon.pdf%0D
+Resolving www.synodos-aei.gr (www.synodos-aei.gr)... 147.102.224.117
+Connecting to www.synodos-aei.gr (www.synodos-aei.gr)|147.102.224.117|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:34:55--  http://www.synodos-aei.gr/katalogos_prytaneon.pdf%0D
+Resolving www.synodos-aei.gr (www.synodos-aei.gr)... 147.102.224.117
+Connecting to www.synodos-aei.gr (www.synodos-aei.gr)|147.102.224.117|:80... 404 Not Found
+2020-02-25 22:34:55 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:34:55 ERROR 404: Not Found.
+
+--2020-02-25 22:34:55--  http://www.synodos-aei.gr/katalogos_prytaneon.pdf%0D
+Resolving www.synodos-aei.gr (www.synodos-aei.gr)... 147.102.224.117
+Connecting to www.synodos-aei.gr (www.synodos-aei.gr)|147.102.224.117|:80... --2020-02-25 22:34:55--  http://www.synodos-aei.gr/katalogos_prytaneon.pdf%0D
+Resolving www.synodos-aei.gr (www.synodos-aei.gr)... 147.102.224.117
+Connecting to www.synodos-aei.gr (www.synodos-aei.gr)|147.102.224.117|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:34:55 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:34:55 ERROR 404: Not Found.
+

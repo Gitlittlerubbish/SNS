@@ -1,0 +1,12 @@
+--2020-02-25 22:30:28--  http://ecotourism.ge/library/1.pdf%0D
+Resolving ecotourism.ge (ecotourism.ge)... --2020-02-25 22:30:28--  http://ecotourism.ge/library/1.pdf%0D
+Resolving ecotourism.ge (ecotourism.ge)... 104.24.120.253, 104.24.121.253
+Connecting to ecotourism.ge (ecotourism.ge)|104.24.120.253|:80... connected.
+HTTP request sent, awaiting response... 104.24.120.253, 104.24.121.253
+Connecting to ecotourism.ge (ecotourism.ge)|104.24.120.253|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+Read error (Connection timed out) in headers.
+Giving up.
+

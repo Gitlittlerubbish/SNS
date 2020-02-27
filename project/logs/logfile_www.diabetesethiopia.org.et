@@ -1,0 +1,14 @@
+--2020-02-25 22:17:40--  https://www.diabetesethiopia.org.et/webarticle/13.pdf%0D
+Resolving www.diabetesethiopia.org.et (www.diabetesethiopia.org.et)... --2020-02-25 22:17:40--  https://www.diabetesethiopia.org.et/webarticle/13.pdf%0D
+Resolving www.diabetesethiopia.org.et (www.diabetesethiopia.org.et)... 213.55.96.150
+Connecting to www.diabetesethiopia.org.et (www.diabetesethiopia.org.et)|213.55.96.150|:443... 213.55.96.150
+Connecting to www.diabetesethiopia.org.et (www.diabetesethiopia.org.et)|213.55.96.150|:443... connected.
+connected.
+ERROR: cannot verify www.diabetesethiopia.org.et's certificate, issued by ‘emailAddress=info@plesk.com,CN=Plesk,O=Plesk,L=Schaffhausen,C=CH’:
+  Self-signed certificate encountered.
+    ERROR: certificate common name ‘Plesk’ doesn't match requested host name ‘www.diabetesethiopia.org.et’.
+To connect to www.diabetesethiopia.org.et insecurely, use `--no-check-certificate'.
+ERROR: cannot verify www.diabetesethiopia.org.et's certificate, issued by ‘emailAddress=info@plesk.com,CN=Plesk,O=Plesk,L=Schaffhausen,C=CH’:
+  Self-signed certificate encountered.
+    ERROR: certificate common name ‘Plesk’ doesn't match requested host name ‘www.diabetesethiopia.org.et’.
+To connect to www.diabetesethiopia.org.et insecurely, use `--no-check-certificate'.

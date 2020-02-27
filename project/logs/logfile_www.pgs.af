@@ -1,0 +1,6 @@
+--2020-02-25 20:54:06--  http://www.pgs.af/da/17025-2005.pdf%0D
+Resolving www.pgs.af (www.pgs.af)... 23.229.206.227
+Connecting to www.pgs.af (www.pgs.af)|23.229.206.227|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:06 ERROR 404: Not Found.
+

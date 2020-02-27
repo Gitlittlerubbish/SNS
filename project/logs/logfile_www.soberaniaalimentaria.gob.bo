@@ -1,0 +1,12 @@
+--2020-02-25 21:15:49--  http://www.soberaniaalimentaria.gob.bo/archivos/manual_papa.pdf%0D
+Resolving www.soberaniaalimentaria.gob.bo (www.soberaniaalimentaria.gob.bo)... 200.105.172.195
+Connecting to www.soberaniaalimentaria.gob.bo (www.soberaniaalimentaria.gob.bo)|200.105.172.195|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:15:50 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:23:22--  http://www.soberaniaalimentaria.gob.bo/archivos/manual_papa.pdf%0D
+Resolving www.soberaniaalimentaria.gob.bo (www.soberaniaalimentaria.gob.bo)... 200.105.172.195
+Connecting to www.soberaniaalimentaria.gob.bo (www.soberaniaalimentaria.gob.bo)|200.105.172.195|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:23:23 ERROR 500: Internal Server Error.
+

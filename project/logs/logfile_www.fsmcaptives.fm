@@ -1,0 +1,6 @@
+--2020-02-25 23:49:35--  http://www.fsmcaptives.fm/seminars/2016/dirlegtrnd.pdf%0D
+Resolving www.fsmcaptives.fm (www.fsmcaptives.fm)... 173.0.143.127
+Connecting to www.fsmcaptives.fm (www.fsmcaptives.fm)|173.0.143.127|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:49:36 ERROR 400: Bad Request.
+

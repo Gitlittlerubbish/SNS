@@ -1,0 +1,12 @@
+--2020-02-25 21:32:44--  http://www.mih.gov.kh/File/UploadedFiles/2_21_2017_22_22_16.pdf%0D
+Resolving www.mih.gov.kh (www.mih.gov.kh)... 142.4.49.154
+Connecting to www.mih.gov.kh (www.mih.gov.kh)|142.4.49.154|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:32:45 ERROR 400: Bad Request.
+
+--2020-02-25 21:35:40--  http://www.mih.gov.kh/File/UploadedFiles/2_21_2017_22_22_16.pdf%0D
+Resolving www.mih.gov.kh (www.mih.gov.kh)... 142.4.49.154
+Connecting to www.mih.gov.kh (www.mih.gov.kh)|142.4.49.154|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:35:40 ERROR 400: Bad Request.
+

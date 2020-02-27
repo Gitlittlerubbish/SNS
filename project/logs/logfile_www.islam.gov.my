@@ -1,0 +1,12 @@
+--2020-02-25 23:32:04--  http://www.islam.gov.my/images/garis-panduan/garis_panduan_mlm.pdf%0D
+Resolving www.islam.gov.my (www.islam.gov.my)... 150.242.182.187
+Connecting to www.islam.gov.my (www.islam.gov.my)|150.242.182.187|:80... connected.
+HTTP request sent, awaiting response... 404 Category not found
+2020-02-25 23:32:05 ERROR 404: Category not found.
+
+--2020-02-25 23:33:21--  http://www.islam.gov.my/images/documents/TAKWIM_2019.pdf%0D
+Resolving www.islam.gov.my (www.islam.gov.my)... 150.242.182.187
+Connecting to www.islam.gov.my (www.islam.gov.my)|150.242.182.187|:80... connected.
+HTTP request sent, awaiting response... 404 Category not found
+2020-02-25 23:33:21 ERROR 404: Category not found.
+

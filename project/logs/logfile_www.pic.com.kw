@@ -1,0 +1,6 @@
+--2020-02-25 23:15:59--  https://www.pic.com.kw/Polypropylene-MSDS.pdf%0D
+Resolving www.pic.com.kw (www.pic.com.kw)... 51.140.85.106
+Connecting to www.pic.com.kw (www.pic.com.kw)|51.140.85.106|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:15:59 ERROR 400: Bad Request.
+

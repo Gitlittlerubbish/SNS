@@ -1,0 +1,12 @@
+--2020-02-25 22:22:56--  http://armesetpassion.free.fr/anf1.pdf%0D
+Resolving armesetpassion.free.fr (armesetpassion.free.fr)... --2020-02-25 22:22:56--  http://armesetpassion.free.fr/anf1.pdf%0D
+Resolving armesetpassion.free.fr (armesetpassion.free.fr)... 212.27.63.159
+Connecting to armesetpassion.free.fr (armesetpassion.free.fr)|212.27.63.159|:80... connected.
+HTTP request sent, awaiting response... 212.27.63.159
+Connecting to armesetpassion.free.fr (armesetpassion.free.fr)|212.27.63.159|:80... 404 Not Found
+2020-02-25 22:22:56 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:56 ERROR 404: Not Found.
+

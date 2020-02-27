@@ -1,0 +1,12 @@
+--2020-02-25 22:31:00--  http://srca.gov.ge/files/%25E1%2583%2590%25E1%2583%2591%25E1%2583%25A0%25E1%2583%2594%25E1%2583%25A8%25E1%2583%25A3%25E1%2583%259B%25E1%2583%2598%25E1%2583%25A1_%25E1%2583%25AD%25E1%2583%2598%25E1%2583%2590.pdf%0D
+Resolving srca.gov.ge (srca.gov.ge)... 31.146.250.202
+Connecting to srca.gov.ge (srca.gov.ge)|31.146.250.202|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:31:01 ERROR 403: Forbidden.
+
+--2020-02-25 22:31:02--  http://srca.gov.ge/files/%25E1%2583%2590%25E1%2583%2591%25E1%2583%25A0%25E1%2583%2594%25E1%2583%25A8%25E1%2583%25A3%25E1%2583%259B%25E1%2583%2598%25E1%2583%25A1_%25E1%2583%25AD%25E1%2583%2598%25E1%2583%2590.pdf%0D
+Resolving srca.gov.ge (srca.gov.ge)... 31.146.250.202
+Connecting to srca.gov.ge (srca.gov.ge)|31.146.250.202|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:31:02 ERROR 403: Forbidden.
+

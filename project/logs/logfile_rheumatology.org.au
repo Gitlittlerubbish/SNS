@@ -1,0 +1,12 @@
+--2020-02-25 20:58:15--  https://rheumatology.org.au/patients/documents/Sulfasalazine_2016_002.pdf%0D
+Resolving rheumatology.org.au (rheumatology.org.au)... 223.27.31.23
+Connecting to rheumatology.org.au (rheumatology.org.au)|223.27.31.23|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:58:17 ERROR 400: Bad Request.
+
+--2020-02-25 21:10:35--  https://rheumatology.org.au/patients/documents/Sulfasalazine_2016_002.pdf%0D
+Resolving rheumatology.org.au (rheumatology.org.au)... 223.27.31.23
+Connecting to rheumatology.org.au (rheumatology.org.au)|223.27.31.23|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:10:36 ERROR 400: Bad Request.
+

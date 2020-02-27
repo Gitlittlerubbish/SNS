@@ -1,0 +1,12 @@
+--2020-02-25 22:54:12--  http://www.agrilib.ir/book_5685.pdf%0D
+Resolving www.agrilib.ir (www.agrilib.ir)... 89.43.6.151
+Connecting to www.agrilib.ir (www.agrilib.ir)|89.43.6.151|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:54:12 ERROR 404: Not Found.
+
+--2020-02-25 22:54:12--  http://www.agrilib.ir/book_5937.pdf%0D
+Resolving www.agrilib.ir (www.agrilib.ir)... 89.43.6.151
+Connecting to www.agrilib.ir (www.agrilib.ir)|89.43.6.151|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:54:13 ERROR 404: Not Found.
+

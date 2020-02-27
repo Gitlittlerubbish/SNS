@@ -1,0 +1,6 @@
+--2020-02-25 22:42:40--  https://www.cir.ht/files/EMP_rapportfinal.pdf%0D
+Resolving www.cir.ht (www.cir.ht)... 66.96.149.32
+Connecting to www.cir.ht (www.cir.ht)|66.96.149.32|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:42:41 ERROR 400: Bad Request.
+

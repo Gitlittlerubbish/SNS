@@ -1,0 +1,6 @@
+--2020-02-25 23:47:38--  https://www.ues.mx/posgrado/docs/REGLAMENTO_DE_POSGRADO.pdf%0D
+Resolving www.ues.mx (www.ues.mx)... 187.189.158.251
+Connecting to www.ues.mx (www.ues.mx)|187.189.158.251|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:47:38 ERROR 400: Bad Request.
+

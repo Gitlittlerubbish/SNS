@@ -1,0 +1,12 @@
+--2020-02-25 21:31:50--  http://contec.cv/%3Fdl_id%3D36%0D
+Resolving contec.cv (contec.cv)... 50.62.249.1
+Connecting to contec.cv (contec.cv)|50.62.249.1|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:31:51 ERROR 404: Not Found.
+
+--2020-02-25 21:35:03--  http://contec.cv/%3Fdl_id%3D36%0D
+Resolving contec.cv (contec.cv)... 50.62.249.1
+Connecting to contec.cv (contec.cv)|50.62.249.1|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:03 ERROR 404: Not Found.
+

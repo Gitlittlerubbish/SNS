@@ -1,0 +1,40 @@
+--2020-02-25 22:19:21--  http://sci.fo/5mo%0D
+Resolving sci.fo (sci.fo)... --2020-02-25 22:19:21--  http://sci.fo/5mo%0D
+Resolving sci.fo (sci.fo)... 104.24.118.187, 104.24.119.187
+Connecting to sci.fo (sci.fo)|104.24.118.187|:80... connected.
+HTTP request sent, awaiting response... 104.24.119.187, 104.24.118.187
+Connecting to sci.fo (sci.fo)|104.24.119.187|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://sci.fo [following]
+--2020-02-25 22:19:21--  http://sci.fo/
+Reusing existing connection to sci.fo:80.
+HTTP request sent, awaiting response... 302 Found
+Location: http://sci.fo [following]
+--2020-02-25 22:19:21--  http://sci.fo/
+Reusing existing connection to sci.fo:80.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:21 ERROR 403: Forbidden.
+
+--2020-02-25 22:19:21--  http://sci.fo/3pw%0D
+Resolving sci.fo (sci.fo)... 104.24.119.187, 104.24.118.187
+Connecting to sci.fo (sci.fo)|104.24.119.187|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:21 ERROR 403: Forbidden.
+
+--2020-02-25 22:19:21--  http://sci.fo/3pw%0D
+Resolving sci.fo (sci.fo)... 104.24.118.187, 104.24.119.187
+Connecting to sci.fo (sci.fo)|104.24.118.187|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://sci.fo [following]
+--2020-02-25 22:19:21--  http://sci.fo/
+Reusing existing connection to sci.fo:80.
+HTTP request sent, awaiting response... 302 Found
+Location: http://sci.fo [following]
+--2020-02-25 22:19:21--  http://sci.fo/
+Reusing existing connection to sci.fo:80.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:21 ERROR 403: Forbidden.
+
+403 Forbidden
+2020-02-25 22:19:21 ERROR 403: Forbidden.
+

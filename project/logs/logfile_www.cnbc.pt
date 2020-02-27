@@ -1,0 +1,6 @@
+--2020-02-26 00:42:09--  http://www.cnbc.pt/equipment/ImageJuser_guide.pdf%0D
+Resolving www.cnbc.pt (www.cnbc.pt)... 88.157.214.51
+Connecting to www.cnbc.pt (www.cnbc.pt)|88.157.214.51|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:42:09 ERROR 400: Bad Request.
+

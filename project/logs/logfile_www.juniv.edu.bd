@@ -1,0 +1,12 @@
+--2020-02-25 21:03:35--  https://www.juniv.edu.bd/file/7800%0D
+Resolving www.juniv.edu.bd (www.juniv.edu.bd)... 162.214.12.35
+Connecting to www.juniv.edu.bd (www.juniv.edu.bd)|162.214.12.35|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.juniv.edu.bd’.
+To connect to www.juniv.edu.bd insecurely, use `--no-check-certificate'.
+--2020-02-25 21:14:43--  https://www.juniv.edu.bd/file/7800%0D
+Resolving www.juniv.edu.bd (www.juniv.edu.bd)... 162.214.12.35
+Connecting to www.juniv.edu.bd (www.juniv.edu.bd)|162.214.12.35|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.juniv.edu.bd’.
+To connect to www.juniv.edu.bd insecurely, use `--no-check-certificate'.

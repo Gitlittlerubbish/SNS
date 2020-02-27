@@ -1,0 +1,38 @@
+--2020-02-26 00:00:07--  http://www.ucm.ac.mz/images/EditalMaputo.pdf%0D
+Resolving www.ucm.ac.mz (www.ucm.ac.mz)... 197.235.10.123
+Connecting to www.ucm.ac.mz (www.ucm.ac.mz)|197.235.10.123|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ucm.ac.mz [following]
+--2020-02-26 00:00:08--  http://www.ucm.ac.mz/
+Reusing existing connection to www.ucm.ac.mz:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ucm.ac.mz/index.php/pt/ [following]
+--2020-02-26 00:00:08--  http://www.ucm.ac.mz/index.php/pt/
+Reusing existing connection to www.ucm.ac.mz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .          1.44M=0.2s
+
+2020-02-26 00:00:09 (1.44 Mb/s) - ‘/dev/null’ saved [42680]
+
+--2020-02-26 00:00:09--  http://www.ucm.ac.mz/images/EditalMaputo.pdf%0D
+Resolving www.ucm.ac.mz (www.ucm.ac.mz)... 197.235.10.123
+Connecting to www.ucm.ac.mz (www.ucm.ac.mz)|197.235.10.123|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.ucm.ac.mz [following]
+--2020-02-26 00:00:09--  http://www.ucm.ac.mz/
+Reusing existing connection to www.ucm.ac.mz:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ucm.ac.mz/index.php/pt/ [following]
+--2020-02-26 00:00:10--  http://www.ucm.ac.mz/index.php/pt/
+Reusing existing connection to www.ucm.ac.mz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .           833K=0.4s
+
+2020-02-26 00:00:10 (833 Kb/s) - ‘/dev/null’ saved [42680]
+

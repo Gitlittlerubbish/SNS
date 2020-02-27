@@ -1,0 +1,6 @@
+--2020-02-25 23:01:56--  http://taishokikaiten.jp/pa.pdf%0D
+Resolving taishokikaiten.jp (taishokikaiten.jp)... 210.134.165.9
+Connecting to taishokikaiten.jp (taishokikaiten.jp)|210.134.165.9|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:01:57 ERROR 404: Not Found.
+

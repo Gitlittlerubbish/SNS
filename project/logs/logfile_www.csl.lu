@@ -1,0 +1,6 @@
+--2020-02-25 23:26:30--  https://www.csl.lu/fr/telechargements/publications/84cf300f6c%0D
+Resolving www.csl.lu (www.csl.lu)... 78.141.186.214
+Connecting to www.csl.lu (www.csl.lu)|78.141.186.214|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:26:31 ERROR 500: Internal Server Error.
+

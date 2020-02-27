@@ -1,0 +1,6 @@
+--2020-02-25 23:33:20--  https://apps.mara.gov.my/ebakiv2/FAQebaki.pdf%0D
+Resolving apps.mara.gov.my (apps.mara.gov.my)... 110.159.246.10
+Connecting to apps.mara.gov.my (apps.mara.gov.my)|110.159.246.10|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:33:21 ERROR 400: Bad Request.
+

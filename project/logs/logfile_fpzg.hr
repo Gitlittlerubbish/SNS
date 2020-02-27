@@ -1,0 +1,12 @@
+--2020-02-25 22:01:14--  https://fpzg.hr/_download/repository/MorgamEnsorWaters2016Lancet.pdf%0D
+Resolving fpzg.hr (fpzg.hr)... --2020-02-25 22:01:14--  https://fpzg.hr/_download/repository/MorgamEnsorWaters2016Lancet.pdf%0D
+Resolving fpzg.hr (fpzg.hr)... 31.147.204.130
+Connecting to fpzg.hr (fpzg.hr)|31.147.204.130|:443... 31.147.204.130
+Connecting to fpzg.hr (fpzg.hr)|31.147.204.130|:443... connected.
+connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘fpzg.hr’.
+To connect to fpzg.hr insecurely, use `--no-check-certificate'.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘fpzg.hr’.
+To connect to fpzg.hr insecurely, use `--no-check-certificate'.

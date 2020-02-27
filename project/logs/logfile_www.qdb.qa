@@ -1,0 +1,44 @@
+--2020-02-26 00:43:20--  https://www.qdb.qa/en/Documents/STDR_EN.pdf%0D
+Resolving www.qdb.qa (www.qdb.qa)... 212.77.209.78
+Connecting to www.qdb.qa (www.qdb.qa)|212.77.209.78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 64.2M=0s
+
+2020-02-26 00:43:21 (64.2 Mb/s) - ‘/dev/null’ saved [189/189]
+
+--2020-02-26 00:43:21--  https://www.qdb.qa/en/Documents/STDR_EN.pdf%0D
+Resolving www.qdb.qa (www.qdb.qa)... 212.77.209.78
+Connecting to www.qdb.qa (www.qdb.qa)|212.77.209.78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 77.4M=0s
+
+2020-02-26 00:43:22 (77.4 Mb/s) - ‘/dev/null’ saved [189/189]
+
+--2020-02-26 00:43:22--  https://www.qdb.qa/ar/Documents/GEM_new_report_2016_ar.pdf%0D
+Resolving www.qdb.qa (www.qdb.qa)... 212.77.209.78
+Connecting to www.qdb.qa (www.qdb.qa)|212.77.209.78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 72.5M=0s
+
+2020-02-26 00:43:22 (72.5 Mb/s) - ‘/dev/null’ saved [189/189]
+
+--2020-02-26 00:43:22--  https://www.qdb.qa/ar/Documents/GEM_new_report_2016_ar.pdf%0D
+Resolving www.qdb.qa (www.qdb.qa)... 212.77.209.78
+Connecting to www.qdb.qa (www.qdb.qa)|212.77.209.78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 82.4M=0s
+
+2020-02-26 00:43:23 (82.4 Mb/s) - ‘/dev/null’ saved [189/189]
+

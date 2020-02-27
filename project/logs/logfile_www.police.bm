@@ -1,0 +1,12 @@
+--2020-02-25 21:11:37--  http://www.police.bm/upload/PDFs/Application.pdf%0D
+Resolving www.police.bm (www.police.bm)... 104.238.111.218
+Connecting to www.police.bm (www.police.bm)|104.238.111.218|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:38 ERROR 404: Not Found.
+
+--2020-02-25 21:20:29--  http://www.police.bm/upload/PDFs/Application.pdf%0D
+Resolving www.police.bm (www.police.bm)... 104.238.111.218
+Connecting to www.police.bm (www.police.bm)|104.238.111.218|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:29 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:27:48--  https://www.diners.bg/uploads/Documents/DECLARATION_RELATEDNESS_individuals.pdf%0D
+Resolving www.diners.bg (www.diners.bg)... 193.178.166.34
+Connecting to www.diners.bg (www.diners.bg)|193.178.166.34|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:48 ERROR 404: Not Found.
+
+--2020-02-25 21:32:48--  https://www.diners.bg/uploads/Documents/DECLARATION_RELATEDNESS_individuals.pdf%0D
+Resolving www.diners.bg (www.diners.bg)... 193.178.166.34
+Connecting to www.diners.bg (www.diners.bg)|193.178.166.34|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:49 ERROR 404: Not Found.
+

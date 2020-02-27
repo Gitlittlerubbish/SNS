@@ -1,0 +1,12 @@
+--2020-02-25 22:22:55--  http://www.has-sante.fr/jcms/c_900348%0D
+Resolving www.has-sante.fr (www.has-sante.fr)... --2020-02-25 22:22:55--  http://www.has-sante.fr/jcms/c_900348%0D
+Resolving www.has-sante.fr (www.has-sante.fr)... 89.185.48.116
+Connecting to www.has-sante.fr (www.has-sante.fr)|89.185.48.116|:80... 89.185.48.116
+Connecting to www.has-sante.fr (www.has-sante.fr)|89.185.48.116|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 403 
+2020-02-25 22:22:55 ERROR 403: (no description).
+
+403 
+2020-02-25 22:22:55 ERROR 403: (no description).
+

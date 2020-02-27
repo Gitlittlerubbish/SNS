@@ -1,0 +1,14 @@
+--2020-02-25 21:04:59--  http://www.apo.ag/files/pdf/1440391_p.pdf%0D
+Resolving www.apo.ag (www.apo.ag)... 213.238.47.101
+Connecting to www.apo.ag (www.apo.ag)|213.238.47.101|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.apo.ag/ [following]
+--2020-02-25 21:04:59--  http://www.apo.ag/
+Reusing existing connection to www.apo.ag:80.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.apo.ag [following]
+--2020-02-25 21:04:59--  https://www.apo.ag/
+Connecting to www.apo.ag (www.apo.ag)|213.238.47.101|:443... connected.
+ERROR: cannot verify www.apo.ag's certificate, issued by ‘CN=Thawte RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.apo.ag insecurely, use `--no-check-certificate'.

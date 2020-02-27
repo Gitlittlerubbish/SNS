@@ -1,0 +1,6 @@
+--2020-02-25 22:48:49--  https://vatnogveitur.is/Attachment/GenericFile%3FattachmentId%3D4234%0D
+Resolving vatnogveitur.is (vatnogveitur.is)... 94.142.154.87
+Connecting to vatnogveitur.is (vatnogveitur.is)|94.142.154.87|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:48:49 ERROR 400: Bad Request.
+

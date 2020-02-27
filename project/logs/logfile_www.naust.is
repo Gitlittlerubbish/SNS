@@ -1,0 +1,6 @@
+--2020-02-25 22:48:50--  https://www.naust.is/asset/7220/fluke_62v.pdf%0D
+Resolving www.naust.is (www.naust.is)... 104.45.95.61
+Connecting to www.naust.is (www.naust.is)|104.45.95.61|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:48:50 ERROR 400: Bad Request.
+

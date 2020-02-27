@@ -1,0 +1,6 @@
+--2020-02-25 23:00:26--  https://www.lacriticasociologica.it/Documenti/prezzi.pdf%0D
+Resolving www.lacriticasociologica.it (www.lacriticasociologica.it)... 77.72.24.58
+Connecting to www.lacriticasociologica.it (www.lacriticasociologica.it)|77.72.24.58|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.lacriticasociologica.it’.
+To connect to www.lacriticasociologica.it insecurely, use `--no-check-certificate'.

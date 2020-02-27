@@ -1,0 +1,12 @@
+--2020-02-25 21:37:44--  http://www.jhcottawa.ca/ESW/Files/Jamaican_Passport_Application_Form.pdf%0D
+Resolving www.jhcottawa.ca (www.jhcottawa.ca)... 216.251.43.11
+Connecting to www.jhcottawa.ca (www.jhcottawa.ca)|216.251.43.11|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:44 ERROR 404: Not Found.
+
+--2020-02-25 21:39:08--  http://www.jhcottawa.ca/ESW/Files/Jamaican_Passport_Application_Form.pdf%0D
+Resolving www.jhcottawa.ca (www.jhcottawa.ca)... 216.251.43.11
+Connecting to www.jhcottawa.ca (www.jhcottawa.ca)|216.251.43.11|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:39:08 ERROR 404: Not Found.
+

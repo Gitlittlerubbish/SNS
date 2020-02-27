@@ -1,0 +1,12 @@
+--2020-02-25 21:27:37--  http://www.dfz.bg/assets/8141/Nomenclature_for_site1.pdf%0D
+Resolving www.dfz.bg (www.dfz.bg)... 195.110.25.238
+Connecting to www.dfz.bg (www.dfz.bg)|195.110.25.238|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:27:38 ERROR 400: Bad Request.
+
+--2020-02-25 21:32:41--  http://www.dfz.bg/assets/8141/Nomenclature_for_site1.pdf%0D
+Resolving www.dfz.bg (www.dfz.bg)... 195.110.25.238
+Connecting to www.dfz.bg (www.dfz.bg)|195.110.25.238|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:32:41 ERROR 400: Bad Request.
+

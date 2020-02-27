@@ -1,0 +1,10 @@
+--2020-02-25 21:04:51--  http://nerves.ag/ugm_2/deu/umr_rdi/Teaser/Grundlagen_der_Magnetresonanztomographie_MRT_2013.pdf%0D
+Resolving nerves.ag (nerves.ag)... 141.50.161.174
+Connecting to nerves.ag (nerves.ag)|141.50.161.174|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://nerves.ag//ugm_2/deu/umr_rdi/Teaser/Grundlagen_der_Magnetresonanztomographie_MRT_2013.pdf%0d [following]
+--2020-02-25 21:04:51--  https://nerves.ag//ugm_2/deu/umr_rdi/Teaser/Grundlagen_der_Magnetresonanztomographie_MRT_2013.pdf%0d
+Connecting to nerves.ag (nerves.ag)|141.50.161.174|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘nerves.ag’.
+To connect to nerves.ag insecurely, use `--no-check-certificate'.

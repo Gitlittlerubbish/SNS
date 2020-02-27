@@ -1,0 +1,12 @@
+--2020-02-25 21:37:23--  http://www.edu.gov.on.ca/eng/parents/involvement/pe_policy2010.pdf%0D
+Resolving www.edu.gov.on.ca (www.edu.gov.on.ca)... 204.41.1.239
+Connecting to www.edu.gov.on.ca (www.edu.gov.on.ca)|204.41.1.239|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:37:24 ERROR 400: Bad Request.
+
+--2020-02-25 21:38:55--  http://www.edu.gov.on.ca/eng/parents/involvement/pe_policy2010.pdf%0D
+Resolving www.edu.gov.on.ca (www.edu.gov.on.ca)... 204.41.1.239
+Connecting to www.edu.gov.on.ca (www.edu.gov.on.ca)|204.41.1.239|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:38:56 ERROR 400: Bad Request.
+

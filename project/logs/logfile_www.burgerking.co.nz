@@ -1,0 +1,6 @@
+--2020-02-26 00:11:56--  https://www.burgerking.co.nz/pdfs/nutrition.pdf%0D
+Resolving www.burgerking.co.nz (www.burgerking.co.nz)... 13.75.218.45
+Connecting to www.burgerking.co.nz (www.burgerking.co.nz)|13.75.218.45|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:11:57 ERROR 400: Bad Request.
+

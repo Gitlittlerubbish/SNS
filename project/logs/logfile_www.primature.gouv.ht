@@ -1,0 +1,6 @@
+--2020-02-25 22:42:49--  http://www.primature.gouv.ht/documents/administrationcentrale.pdf%0D
+Resolving www.primature.gouv.ht (www.primature.gouv.ht)... 67.225.171.56
+Connecting to www.primature.gouv.ht (www.primature.gouv.ht)|67.225.171.56|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:42:49 ERROR 400: Bad Request.
+

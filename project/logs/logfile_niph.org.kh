@@ -1,0 +1,9 @@
+--2020-02-25 21:34:19--  https://niph.org.kh/niph/uploads/library/pdf/PD080_NSP_NCD_2013_2020_Final_approved.pdf%0D
+Resolving niph.org.kh (niph.org.kh)... failed: Connection timed out.
+wget: unable to resolve host address ‘niph.org.kh’
+--2020-02-25 21:36:53--  https://niph.org.kh/niph/uploads/library/pdf/PD080_NSP_NCD_2013_2020_Final_approved.pdf%0D
+Resolving niph.org.kh (niph.org.kh)... 204.44.192.44
+Connecting to niph.org.kh (niph.org.kh)|204.44.192.44|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:55 ERROR 404: Not Found.
+

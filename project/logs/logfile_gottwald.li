@@ -1,0 +1,6 @@
+--2020-02-25 23:24:18--  http://gottwald.li/Swyx_Mikropegel_null_fix.pdf%0D
+Resolving gottwald.li (gottwald.li)... 46.30.215.183
+Connecting to gottwald.li (gottwald.li)|46.30.215.183|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:24:18 ERROR 404: Not Found.
+

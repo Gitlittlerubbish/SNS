@@ -1,0 +1,12 @@
+--2020-02-26 00:42:19--  https://www.dge.mec.pt/sites/default/files/Projetos/resolucaoconselhoministros23_2016.pdf%0D
+Resolving www.dge.mec.pt (www.dge.mec.pt)... 213.30.20.248
+Connecting to www.dge.mec.pt (www.dge.mec.pt)|213.30.20.248|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:42:20 ERROR 404: Not Found.
+
+--2020-02-26 00:42:20--  https://www.dge.mec.pt/sites/default/files/EEspecial/manual_de_apoio_a_pratica.pdf%0D
+Resolving www.dge.mec.pt (www.dge.mec.pt)... 213.30.20.248
+Connecting to www.dge.mec.pt (www.dge.mec.pt)|213.30.20.248|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:42:21 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:04:52--  http://www.jarc.org.je/images/pdf/jarcinfo.pdf%0D
+Resolving www.jarc.org.je (www.jarc.org.je)... 185.4.49.5
+Connecting to www.jarc.org.je (www.jarc.org.je)|185.4.49.5|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:04:52 ERROR 400: Bad Request.
+

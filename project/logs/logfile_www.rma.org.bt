@@ -1,0 +1,12 @@
+--2020-02-25 21:13:13--  https://www.rma.org.bt/files/bipsbrochure.pdf%0D
+Resolving www.rma.org.bt (www.rma.org.bt)... 202.144.157.51
+Connecting to www.rma.org.bt (www.rma.org.bt)|202.144.157.51|:443... connected.
+ERROR: cannot verify www.rma.org.bt's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.rma.org.bt insecurely, use `--no-check-certificate'.
+--2020-02-25 21:21:34--  https://www.rma.org.bt/files/bipsbrochure.pdf%0D
+Resolving www.rma.org.bt (www.rma.org.bt)... 202.144.157.51
+Connecting to www.rma.org.bt (www.rma.org.bt)|202.144.157.51|:443... connected.
+ERROR: cannot verify www.rma.org.bt's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.rma.org.bt insecurely, use `--no-check-certificate'.

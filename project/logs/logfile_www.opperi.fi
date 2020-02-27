@@ -1,0 +1,12 @@
+--2020-02-25 22:22:26--  http://www.opperi.fi/02_opetusvinkkeja/221_mittayksikot.pdf%0D
+Resolving www.opperi.fi (www.opperi.fi)... --2020-02-25 22:22:26--  http://www.opperi.fi/02_opetusvinkkeja/221_mittayksikot.pdf%0D
+Resolving www.opperi.fi (www.opperi.fi)... 185.168.212.75
+Connecting to www.opperi.fi (www.opperi.fi)|185.168.212.75|:80... 185.168.212.75
+Connecting to www.opperi.fi (www.opperi.fi)|185.168.212.75|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:26 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:22:26 ERROR 404: Not Found.
+

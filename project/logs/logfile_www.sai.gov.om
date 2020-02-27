@@ -1,0 +1,10 @@
+--2020-02-26 00:23:14--  http://www.sai.gov.om/Docs/3000.pdf%0D
+Resolving www.sai.gov.om (www.sai.gov.om)... 212.72.15.11
+Connecting to www.sai.gov.om (www.sai.gov.om)|212.72.15.11|:80... connected.
+HTTP request sent, awaiting response... 302 Object moved
+Location: https://www.sai.gov.om/Docs/3000.pdf%0D [following]
+--2020-02-26 00:23:14--  https://www.sai.gov.om/Docs/3000.pdf%0D
+Connecting to www.sai.gov.om (www.sai.gov.om)|212.72.15.11|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:23:14 ERROR 400: Bad Request.
+

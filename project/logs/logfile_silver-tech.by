@@ -1,0 +1,12 @@
+--2020-02-25 21:06:55--  http://silver-tech.by/uploads/catalog/files/d800.pdf%0D
+Resolving silver-tech.by (silver-tech.by)... 93.125.99.41
+Connecting to silver-tech.by (silver-tech.by)|93.125.99.41|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:06:55 ERROR 404: Not Found.
+
+--2020-02-25 21:17:04--  http://silver-tech.by/uploads/catalog/files/d800.pdf%0D
+Resolving silver-tech.by (silver-tech.by)... 93.125.99.41
+Connecting to silver-tech.by (silver-tech.by)|93.125.99.41|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:04 ERROR 404: Not Found.
+

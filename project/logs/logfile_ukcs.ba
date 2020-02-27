@@ -1,0 +1,22 @@
+--2020-02-25 21:17:11--  http://ukcs.ba/updf/ABOU_AL_ARDAT_MUHAMMED.pdf%0D
+Resolving ukcs.ba (ukcs.ba)... 108.179.200.145
+Connecting to ukcs.ba (ukcs.ba)|108.179.200.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ukcs.ba/updf/ABOU_AL_ARDAT_MUHAMMED.pdf%0d [following]
+--2020-02-25 21:17:12--  http://www.ukcs.ba/updf/ABOU_AL_ARDAT_MUHAMMED.pdf%0d
+Resolving www.ukcs.ba (www.ukcs.ba)... 108.179.200.145
+Reusing existing connection to ukcs.ba:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:12 ERROR 404: Not Found.
+
+--2020-02-25 21:24:24--  http://ukcs.ba/updf/ABOU_AL_ARDAT_MUHAMMED.pdf%0D
+Resolving ukcs.ba (ukcs.ba)... 108.179.200.145
+Connecting to ukcs.ba (ukcs.ba)|108.179.200.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ukcs.ba/updf/ABOU_AL_ARDAT_MUHAMMED.pdf%0d [following]
+--2020-02-25 21:24:24--  http://www.ukcs.ba/updf/ABOU_AL_ARDAT_MUHAMMED.pdf%0d
+Resolving www.ukcs.ba (www.ukcs.ba)... 108.179.200.145
+Reusing existing connection to ukcs.ba:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:24 ERROR 404: Not Found.
+

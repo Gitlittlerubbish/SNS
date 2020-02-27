@@ -1,0 +1,12 @@
+--2020-02-25 21:05:00--  http://smef.org.bd/v2/smef_publication/Study_on_Software_Industry_in_Bangladesh.pdf%0D
+Resolving smef.org.bd (smef.org.bd)... 210.4.67.51
+Connecting to smef.org.bd (smef.org.bd)|210.4.67.51|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:05:01 ERROR 404: Not Found.
+
+--2020-02-25 21:15:36--  http://smef.org.bd/v2/smef_publication/Study_on_Software_Industry_in_Bangladesh.pdf%0D
+Resolving smef.org.bd (smef.org.bd)... 210.4.67.51
+Connecting to smef.org.bd (smef.org.bd)|210.4.67.51|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:37 ERROR 404: Not Found.
+

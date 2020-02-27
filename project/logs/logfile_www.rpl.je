@@ -1,0 +1,10 @@
+--2020-02-25 23:04:47--  https://www.rpl.je/build/images/12498775.pdf%0D
+Resolving www.rpl.je (www.rpl.je)... 185.156.67.44
+Connecting to www.rpl.je (www.rpl.je)|185.156.67.44|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rpl.je/build/images/12498775.pdf%0d/ [following]
+--2020-02-25 23:04:47--  https://www.rpl.je/build/images/12498775.pdf%0d/
+Reusing existing connection to www.rpl.je:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:04:48 ERROR 404: Not Found.
+

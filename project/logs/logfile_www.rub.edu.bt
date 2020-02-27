@@ -1,0 +1,12 @@
+--2020-02-25 21:15:02--  http://www.rub.edu.bt/images/rub/Admission/Admission_Policy.pdf%0D
+Resolving www.rub.edu.bt (www.rub.edu.bt)... 103.133.216.4
+Connecting to www.rub.edu.bt (www.rub.edu.bt)|103.133.216.4|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:03 ERROR 404: Not Found.
+
+--2020-02-25 21:22:44--  http://www.rub.edu.bt/images/rub/Admission/Admission_Policy.pdf%0D
+Resolving www.rub.edu.bt (www.rub.edu.bt)... 103.133.216.4
+Connecting to www.rub.edu.bt (www.rub.edu.bt)|103.133.216.4|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:22:44 ERROR 404: Not Found.
+

@@ -1,0 +1,44 @@
+--2020-02-26 00:40:31--  http://cs.pn/2jw7g8j%0D
+Resolving cs.pn (cs.pn)... 67.199.248.13, 67.199.248.12
+Connecting to cs.pn (cs.pn)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://static.c-spanvideo.org/files/pressCenter/C-SPAN+Programming+for+the+58th+Presidential+Inauguration.pdf [following]
+--2020-02-26 00:40:31--  http://static.c-spanvideo.org/files/pressCenter/C-SPAN+Programming+for+the+58th+Presidential+Inauguration.pdf
+Resolving static.c-spanvideo.org (static.c-spanvideo.org)... 13.35.198.11, 13.35.198.35, 13.35.198.112, ...
+Connecting to static.c-spanvideo.org (static.c-spanvideo.org)|13.35.198.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 347400 (339K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 2.77M 1s
+    50K .......... .......... .......... .......... .......... 29% 9.44M 0s
+   100K .......... .......... .......... .......... .......... 44% 13.1M 0s
+   150K .......... .......... .......... .......... .......... 58%  601M 0s
+   200K .......... .......... .......... .......... .......... 73% 5.63M 0s
+   250K .......... .......... .......... .......... .......... 88%  882M 0s
+   300K .......... .......... .......... .........            100%  735M=0.3s
+
+2020-02-26 00:40:31 (9.37 Mb/s) - ‘/dev/null’ saved [347400/347400]
+
+--2020-02-26 00:40:31--  http://cs.pn/2jw7g8j%0D
+Resolving cs.pn (cs.pn)... 67.199.248.12, 67.199.248.13
+Connecting to cs.pn (cs.pn)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://static.c-spanvideo.org/files/pressCenter/C-SPAN+Programming+for+the+58th+Presidential+Inauguration.pdf [following]
+--2020-02-26 00:40:31--  http://static.c-spanvideo.org/files/pressCenter/C-SPAN+Programming+for+the+58th+Presidential+Inauguration.pdf
+Resolving static.c-spanvideo.org (static.c-spanvideo.org)... 13.35.198.35, 13.35.198.112, 13.35.198.69, ...
+Connecting to static.c-spanvideo.org (static.c-spanvideo.org)|13.35.198.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 347400 (339K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14%  227M 0s
+    50K .......... .......... .......... .......... .......... 29%  291M 0s
+   100K .......... .......... .......... .......... .......... 44%  684M 0s
+   150K .......... .......... .......... .......... .......... 58%  595M 0s
+   200K .......... .......... .......... .......... .......... 73% 1.02G 0s
+   250K .......... .......... .......... .......... .......... 88% 1.00G 0s
+   300K .......... .......... .......... .........            100% 1.18G=0.006s
+
+2020-02-26 00:40:31 (498 Mb/s) - ‘/dev/null’ saved [347400/347400]
+

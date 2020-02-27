@@ -1,0 +1,12 @@
+--2020-02-25 21:06:47--  http://ino.by/docs/forma_dogovora.pdf%0D
+Resolving ino.by (ino.by)... 178.159.243.220
+Connecting to ino.by (ino.by)|178.159.243.220|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:06:47 ERROR 404: Not Found.
+
+--2020-02-25 21:16:59--  http://ino.by/docs/forma_dogovora.pdf%0D
+Resolving ino.by (ino.by)... 178.159.243.220
+Connecting to ino.by (ino.by)|178.159.243.220|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:59 ERROR 404: Not Found.
+

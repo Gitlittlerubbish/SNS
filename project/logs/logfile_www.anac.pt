@@ -1,0 +1,12 @@
+--2020-02-26 00:42:21--  https://www.anac.pt/SiteCollectionDocuments/Facilitacao_Seguranca/SITREP_EVD_DRC_20180529_eng.pdf%0D
+Resolving www.anac.pt (www.anac.pt)... 194.65.92.122
+Connecting to www.anac.pt (www.anac.pt)|194.65.92.122|:443... connected.
+ERROR: cannot verify www.anac.pt's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.anac.pt insecurely, use `--no-check-certificate'.
+--2020-02-26 00:42:34--  https://www.anac.pt/SiteCollectionDocuments/Facilitacao_Seguranca/SITREP_EVD_DRC_20180529_eng.pdf%0D
+Resolving www.anac.pt (www.anac.pt)... 194.65.92.122
+Connecting to www.anac.pt (www.anac.pt)|194.65.92.122|:443... connected.
+ERROR: cannot verify www.anac.pt's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.anac.pt insecurely, use `--no-check-certificate'.

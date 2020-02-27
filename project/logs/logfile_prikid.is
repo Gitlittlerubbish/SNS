@@ -1,0 +1,6 @@
+--2020-02-25 22:48:30--  http://prikid.is/menu.pdf%0D
+Resolving prikid.is (prikid.is)... 217.9.143.94
+Connecting to prikid.is (prikid.is)|217.9.143.94|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:48:30 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 23:15:38--  http://gs-scpd.gov.kw/archive/world/25.pdf%0D
+Resolving gs-scpd.gov.kw (gs-scpd.gov.kw)... 62.150.65.205
+Connecting to gs-scpd.gov.kw (gs-scpd.gov.kw)|62.150.65.205|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:15:38 ERROR 400: Bad Request.
+
+--2020-02-25 23:16:29--  http://gs-scpd.gov.kw/default10.aspx%3FId%3D773%0D
+Resolving gs-scpd.gov.kw (gs-scpd.gov.kw)... 62.150.65.205
+Connecting to gs-scpd.gov.kw (gs-scpd.gov.kw)|62.150.65.205|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:16:29 ERROR 400: Bad Request.
+

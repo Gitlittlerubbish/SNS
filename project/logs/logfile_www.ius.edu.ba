@@ -1,0 +1,12 @@
+--2020-02-25 21:17:27--  http://www.ius.edu.ba/common/2014SpringChemistryProblemSample1.pdf%0D
+Resolving www.ius.edu.ba (www.ius.edu.ba)... 217.75.198.212
+Connecting to www.ius.edu.ba (www.ius.edu.ba)|217.75.198.212|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:17:27 ERROR 403: Forbidden.
+
+--2020-02-25 21:24:37--  http://www.ius.edu.ba/common/2014SpringChemistryProblemSample1.pdf%0D
+Resolving www.ius.edu.ba (www.ius.edu.ba)... 217.75.198.212
+Connecting to www.ius.edu.ba (www.ius.edu.ba)|217.75.198.212|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:24:37 ERROR 403: Forbidden.
+

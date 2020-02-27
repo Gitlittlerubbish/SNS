@@ -1,0 +1,12 @@
+--2020-02-25 21:18:48--  https://pulamed.co.bw/sites/default/files/pula_application_form.pdf%0D
+Resolving pulamed.co.bw (pulamed.co.bw)... 83.143.25.220
+Connecting to pulamed.co.bw (pulamed.co.bw)|83.143.25.220|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:50 ERROR 404: Not Found.
+
+--2020-02-25 21:25:27--  https://pulamed.co.bw/sites/default/files/pula_application_form.pdf%0D
+Resolving pulamed.co.bw (pulamed.co.bw)... 83.143.25.220
+Connecting to pulamed.co.bw (pulamed.co.bw)|83.143.25.220|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:28 ERROR 404: Not Found.
+

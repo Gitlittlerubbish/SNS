@@ -1,0 +1,6 @@
+--2020-02-25 23:33:30--  http://ptg.penang.gov.my/dokumen/FAQ_Bayar_Cukai_Tanah_Online.pdf%0D
+Resolving ptg.penang.gov.my (ptg.penang.gov.my)... 58.27.61.131
+Connecting to ptg.penang.gov.my (ptg.penang.gov.my)|58.27.61.131|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:33:31 ERROR 400: Bad Request.
+

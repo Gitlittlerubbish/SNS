@@ -1,0 +1,20 @@
+--2020-02-25 22:22:36--  https://www.helsinki.fi/sites/default/files/atoms/files/kaytt_2014_psykologia_kognitiotiede_valintakoe.pdf%0D
+Resolving www.helsinki.fi (www.helsinki.fi)... 128.214.189.90
+Connecting to www.helsinki.fi (www.helsinki.fi)|128.214.189.90|:443... --2020-02-25 22:22:36--  https://www.helsinki.fi/sites/default/files/atoms/files/kaytt_2014_psykologia_kognitiotiede_valintakoe.pdf%0D
+Resolving www.helsinki.fi (www.helsinki.fi)... 128.214.189.90
+Connecting to www.helsinki.fi (www.helsinki.fi)|128.214.189.90|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.helsinki.fi/fi/sites/default/files/atoms/files/kaytt_2014_psykologia_kognitiotiede_valintakoe.pdf%0D [following]
+--2020-02-25 22:22:36--  https://www.helsinki.fi/fi/sites/default/files/atoms/files/kaytt_2014_psykologia_kognitiotiede_valintakoe.pdf%0D
+Reusing existing connection to www.helsinki.fi:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:37 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.helsinki.fi/fi/sites/default/files/atoms/files/kaytt_2014_psykologia_kognitiotiede_valintakoe.pdf%0D [following]
+--2020-02-25 22:22:37--  https://www.helsinki.fi/fi/sites/default/files/atoms/files/kaytt_2014_psykologia_kognitiotiede_valintakoe.pdf%0D
+Reusing existing connection to www.helsinki.fi:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:37 ERROR 404: Not Found.
+

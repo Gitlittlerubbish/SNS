@@ -1,0 +1,12 @@
+--2020-02-25 22:22:51--  https://www.esst-inrs.fr/3rb/ressources/ed5026.pdf%0D
+--2020-02-25 22:22:51--  https://www.esst-inrs.fr/3rb/ressources/ed5026.pdf%0D
+Resolving www.esst-inrs.fr (www.esst-inrs.fr)... Resolving www.esst-inrs.fr (www.esst-inrs.fr)... 89.31.146.60
+Connecting to www.esst-inrs.fr (www.esst-inrs.fr)|89.31.146.60|:443... 89.31.146.60
+Connecting to www.esst-inrs.fr (www.esst-inrs.fr)|89.31.146.60|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:51 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:22:51 ERROR 404: Not Found.
+

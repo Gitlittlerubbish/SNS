@@ -1,0 +1,64 @@
+--2020-02-25 21:52:40--  http://www.njtransit.co/pdf/bus/T0343.pdf%0D
+Resolving www.njtransit.co (www.njtransit.co)... 199.184.144.61
+Connecting to www.njtransit.co (www.njtransit.co)|199.184.144.61|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.njtransit.com/pdf/bus/T0343.pdf%0d [following]
+--2020-02-25 21:52:40--  https://www.njtransit.com/pdf/bus/T0343.pdf%0d
+Resolving www.njtransit.com (www.njtransit.com)... 199.184.144.61
+Connecting to www.njtransit.com (www.njtransit.com)|199.184.144.61|:443... connected.
+HTTP request sent, awaiting response... 300 Multiple Choices
+Length: 438 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.01G=0s
+
+2020-02-25 21:52:41 (1.01 Gb/s) - ‘/dev/null’ saved [438/438]
+
+--2020-02-25 21:52:41--  http://www.njtransit.co/pdf/bus/T0343.pdf%0D
+Resolving www.njtransit.co (www.njtransit.co)... 199.184.144.61
+Connecting to www.njtransit.co (www.njtransit.co)|199.184.144.61|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.njtransit.com/pdf/bus/T0343.pdf%0d [following]
+--2020-02-25 21:52:41--  https://www.njtransit.com/pdf/bus/T0343.pdf%0d
+Resolving www.njtransit.com (www.njtransit.com)... 199.184.144.61
+Connecting to www.njtransit.com (www.njtransit.com)|199.184.144.61|:443... connected.
+HTTP request sent, awaiting response... 300 Multiple Choices
+Length: 438 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.15G=0s
+
+2020-02-25 21:52:42 (1.15 Gb/s) - ‘/dev/null’ saved [438/438]
+
+--2020-02-25 21:52:42--  http://www.njtransit.co/pdf/bus/T0343.pdf%0D
+Resolving www.njtransit.co (www.njtransit.co)... 199.184.144.61
+Connecting to www.njtransit.co (www.njtransit.co)|199.184.144.61|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.njtransit.com/pdf/bus/T0343.pdf%0d [following]
+--2020-02-25 21:52:43--  https://www.njtransit.com/pdf/bus/T0343.pdf%0d
+Resolving www.njtransit.com (www.njtransit.com)... 199.184.144.61
+Connecting to www.njtransit.com (www.njtransit.com)|199.184.144.61|:443... connected.
+HTTP request sent, awaiting response... 300 Multiple Choices
+Length: 438 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.04G=0s
+
+2020-02-25 21:52:43 (1.04 Gb/s) - ‘/dev/null’ saved [438/438]
+
+--2020-02-25 21:52:43--  http://www.njtransit.co/pdf/bus/T0343.pdf%0D
+Resolving www.njtransit.co (www.njtransit.co)... 199.184.144.61
+Connecting to www.njtransit.co (www.njtransit.co)|199.184.144.61|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.njtransit.com/pdf/bus/T0343.pdf%0d [following]
+--2020-02-25 21:52:43--  https://www.njtransit.com/pdf/bus/T0343.pdf%0d
+Resolving www.njtransit.com (www.njtransit.com)... 199.184.144.61
+Connecting to www.njtransit.com (www.njtransit.com)|199.184.144.61|:443... connected.
+HTTP request sent, awaiting response... 300 Multiple Choices
+Length: 438 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.02G=0s
+
+2020-02-25 21:52:44 (1.02 Gb/s) - ‘/dev/null’ saved [438/438]
+

@@ -1,0 +1,36 @@
+--2020-02-25 21:00:54--  http://www.gea.ad/catalog/147749.pdf%0D
+Resolving www.gea.ad (www.gea.ad)... 217.160.0.151
+Connecting to www.gea.ad (www.gea.ad)|217.160.0.151|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.gea.ad/catalog/147749.pdf [following]
+--2020-02-25 21:00:54--  http://www.gea.ad/catalog/147749.pdf
+Reusing existing connection to www.gea.ad:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 171177 (167K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 14.2M 0s
+    50K .......... .......... .......... .......... .......... 59% 39.6M 0s
+   100K .......... .......... .......... .......... .......... 89% 39.0M 0s
+   150K .......... .......                                    100% 53.1M=0.05s
+
+2020-02-25 21:00:54 (26.2 Mb/s) - ‘/dev/null’ saved [171177/171177]
+
+--2020-02-25 21:00:54--  http://www.gea.ad/catalog/147749.pdf%0D
+Resolving www.gea.ad (www.gea.ad)... 217.160.0.151
+Connecting to www.gea.ad (www.gea.ad)|217.160.0.151|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.gea.ad/catalog/147749.pdf [following]
+--2020-02-25 21:00:54--  http://www.gea.ad/catalog/147749.pdf
+Reusing existing connection to www.gea.ad:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 171177 (167K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 14.2M 0s
+    50K .......... .......... .......... .......... .......... 59% 39.7M 0s
+   100K .......... .......... .......... .......... .......... 89% 42.3M 0s
+   150K .......... .......                                    100% 49.3M=0.05s
+
+2020-02-25 21:00:54 (26.5 Mb/s) - ‘/dev/null’ saved [171177/171177]
+

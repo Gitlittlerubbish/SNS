@@ -1,0 +1,6 @@
+--2020-02-25 22:50:17--  https://www.bankofindia.co.in/pdf/ListofHolidayHomes.pdf%0D
+Resolving www.bankofindia.co.in (www.bankofindia.co.in)... 49.50.92.254
+Connecting to www.bankofindia.co.in (www.bankofindia.co.in)|49.50.92.254|:443... connected.
+ERROR: cannot verify www.bankofindia.co.in's certificate, issued by ‘CN=Entrust Certification Authority - L1M,OU=(c) 2014 Entrust\\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\\, Inc.,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.bankofindia.co.in insecurely, use `--no-check-certificate'.

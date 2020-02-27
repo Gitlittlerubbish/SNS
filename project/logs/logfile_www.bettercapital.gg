@@ -1,0 +1,12 @@
+--2020-02-25 22:38:38--  http://www.bettercapital.gg/pdf/bc-prospectus-doc.pdf%0D
+Resolving www.bettercapital.gg (www.bettercapital.gg)... --2020-02-25 22:38:38--  http://www.bettercapital.gg/pdf/bc-prospectus-doc.pdf%0D
+Resolving www.bettercapital.gg (www.bettercapital.gg)... 77.68.21.39
+Connecting to www.bettercapital.gg (www.bettercapital.gg)|77.68.21.39|:80... 77.68.21.39
+Connecting to www.bettercapital.gg (www.bettercapital.gg)|77.68.21.39|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:38 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:38:38 ERROR 400: Bad Request.
+

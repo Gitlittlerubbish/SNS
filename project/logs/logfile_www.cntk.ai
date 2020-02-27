@@ -1,0 +1,6 @@
+--2020-02-25 21:03:40--  https://www.cntk.ai/Tutorials/CVPR2017/CVPR_2017_Tutorial_final.pdf%0D
+Resolving www.cntk.ai (www.cntk.ai)... 137.117.9.212
+Connecting to www.cntk.ai (www.cntk.ai)|137.117.9.212|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:03:41 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:00:23--  https://www.ansa.it/documents/1488969997142_factsheet_en.pdf%0D
+Resolving www.ansa.it (www.ansa.it)... 78.46.16.208, 144.76.223.21, 194.20.6.42, ...
+Connecting to www.ansa.it (www.ansa.it)|78.46.16.208|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:00:23 ERROR 404: Not Found.
+

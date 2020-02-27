@@ -1,0 +1,12 @@
+--2020-02-25 21:02:45--  https://ikns.edu.bh/pdf/global_engagement_guide.pdf%0D
+Resolving ikns.edu.bh (ikns.edu.bh)... 50.87.147.94
+Connecting to ikns.edu.bh (ikns.edu.bh)|50.87.147.94|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:02:46 ERROR 404: Not Found.
+
+--2020-02-25 21:14:06--  https://ikns.edu.bh/pdf/global_engagement_guide.pdf%0D
+Resolving ikns.edu.bh (ikns.edu.bh)... 50.87.147.94
+Connecting to ikns.edu.bh (ikns.edu.bh)|50.87.147.94|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:07 ERROR 404: Not Found.
+

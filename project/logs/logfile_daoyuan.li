@@ -1,0 +1,20 @@
+--2020-02-25 23:24:31--  http://daoyuan.li/publications/li2016time.pdf%0D
+Resolving daoyuan.li (daoyuan.li)... 104.27.181.25, 104.27.180.25
+Connecting to daoyuan.li (daoyuan.li)|104.27.181.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://daoyuan.li/publications/li2016time.pdf%0D [following]
+--2020-02-25 23:24:31--  https://daoyuan.li/publications/li2016time.pdf%0D
+Connecting to daoyuan.li (daoyuan.li)|104.27.181.25|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:24:31 ERROR 404: Not Found.
+
+--2020-02-25 23:24:32--  http://daoyuan.li/publications/li2016time.pdf%0D
+Resolving daoyuan.li (daoyuan.li)... 104.27.181.25, 104.27.180.25
+Connecting to daoyuan.li (daoyuan.li)|104.27.181.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://daoyuan.li/publications/li2016time.pdf%0D [following]
+--2020-02-25 23:24:32--  https://daoyuan.li/publications/li2016time.pdf%0D
+Connecting to daoyuan.li (daoyuan.li)|104.27.181.25|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:24:32 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:22:24--  http://laakeohje.fi/files/1434092596116_fisv.pdf%0D
+Resolving laakeohje.fi (laakeohje.fi)... --2020-02-25 22:22:24--  http://laakeohje.fi/files/1434092596116_fisv.pdf%0D
+Resolving laakeohje.fi (laakeohje.fi)... 54.228.253.204
+Connecting to laakeohje.fi (laakeohje.fi)|54.228.253.204|:80... 54.228.253.204
+Connecting to laakeohje.fi (laakeohje.fi)|54.228.253.204|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:24 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:22:24 ERROR 404: Not Found.
+

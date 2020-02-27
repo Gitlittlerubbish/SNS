@@ -1,0 +1,20 @@
+--2020-02-25 21:07:07--  http://www.cardio.by/files/299/nrst.pdf%0D
+Resolving www.cardio.by (www.cardio.by)... 185.65.137.87
+Connecting to www.cardio.by (www.cardio.by)|185.65.137.87|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /files/299/nrst.pdf%0d [following]
+--2020-02-25 21:07:07--  http://www.cardio.by/files/299/nrst.pdf%0d
+Reusing existing connection to www.cardio.by:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:08 ERROR 404: Not Found.
+
+--2020-02-25 21:17:16--  http://www.cardio.by/files/299/nrst.pdf%0D
+Resolving www.cardio.by (www.cardio.by)... 185.65.137.87
+Connecting to www.cardio.by (www.cardio.by)|185.65.137.87|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /files/299/nrst.pdf%0d [following]
+--2020-02-25 21:17:16--  http://www.cardio.by/files/299/nrst.pdf%0d
+Reusing existing connection to www.cardio.by:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:17 ERROR 404: Not Found.
+

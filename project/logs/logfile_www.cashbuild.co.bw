@@ -1,0 +1,37 @@
+--2020-02-25 21:18:55--  http://www.cashbuild.co.bw/Reports/2019/BBBEE-2019.pdf%0D
+Resolving www.cashbuild.co.bw (www.cashbuild.co.bw)... 197.221.13.93
+Connecting to www.cashbuild.co.bw (www.cashbuild.co.bw)|197.221.13.93|:80... failed: Connection timed out.
+Giving up.
+
+--2020-02-25 21:25:29--  http://www.cashbuild.co.bw/Reports/2019/BBBEE-2019.pdf%0D
+Resolving www.cashbuild.co.bw (www.cashbuild.co.bw)... 197.221.13.93
+Connecting to www.cashbuild.co.bw (www.cashbuild.co.bw)|197.221.13.93|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.cashbuild.co.za/404.php [following]
+--2020-02-25 21:25:29--  http://www.cashbuild.co.za/404.php
+Resolving www.cashbuild.co.za (www.cashbuild.co.za)... 197.221.13.93
+Reusing existing connection to www.cashbuild.co.bw:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ......                                       839K=0.2s
+
+2020-02-25 21:25:30 (839 Kb/s) - ‘/dev/null’ saved [16541]
+
+--2020-02-25 21:25:30--  http://www.cashbuild.co.bw/Reports/2019/BBBEE-2019.pdf%0D
+Resolving www.cashbuild.co.bw (www.cashbuild.co.bw)... 197.221.13.93
+Connecting to www.cashbuild.co.bw (www.cashbuild.co.bw)|197.221.13.93|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.cashbuild.co.za/404.php [following]
+--2020-02-25 21:25:30--  http://www.cashbuild.co.za/404.php
+Resolving www.cashbuild.co.za (www.cashbuild.co.za)... 197.221.13.93
+Reusing existing connection to www.cashbuild.co.bw:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ......                                       839K=0.2s
+
+2020-02-25 21:25:30 (839 Kb/s) - ‘/dev/null’ saved [16541]
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:47:27--  http://www.gvmd.hu/pdf/sziv4.pdf%0D
+Resolving www.gvmd.hu (www.gvmd.hu)... 185.51.67.94
+Connecting to www.gvmd.hu (www.gvmd.hu)|185.51.67.94|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:47:27 ERROR 404: Not Found.
+

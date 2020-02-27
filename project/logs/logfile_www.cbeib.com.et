@@ -1,0 +1,56 @@
+--2020-02-25 22:18:21--  https://www.cbeib.com.et/ARCIB-4/banking/up/CommercialBankOfEthiopia.pdf%0D
+Resolving www.cbeib.com.et (www.cbeib.com.et)... --2020-02-25 22:18:21--  https://www.cbeib.com.et/ARCIB-4/banking/up/CommercialBankOfEthiopia.pdf%0D
+Resolving www.cbeib.com.et (www.cbeib.com.et)... 213.55.103.168
+Connecting to www.cbeib.com.et (www.cbeib.com.et)|213.55.103.168|:443... 213.55.103.168
+Connecting to www.cbeib.com.et (www.cbeib.com.et)|213.55.103.168|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: 603973 (590K) [text/plain]
+Saving to: ‘/dev/null’
+200 OK
+Length: 603973 (590K) [text/plain]
+Saving to: ‘/dev/null’
+
+     0K .......... .....
+     0K .......... .......... .......... ...... .......... .......... ..........  8%  770K 6s
+    50K .......... ............ .............. .......... .......... .......... 16% 2.31M 3s
+   100K .......... ....  8%  580K 8s
+    50K .......... .......... .......... .......... .............. .......... .......... .......... 25% 2.31M 3s
+   150K .......... .......... .......... 16% 2.31M 4s
+   100K .......... .......... .......... .......... ........ .......... .......... 33% 2.32M 2s
+   200K .......... .......... .......... .......... .......... 42%  213M 1s
+   250K ............ 25% 2.32M 3s
+   150K .......... .......... .......... .......... .......... 33%  205M 2s
+   200K .......... .......... ........ .......... .......... .......... .......... 50% 2.33M 1s
+   300K .......... .......... .......... .......... .......... 59%  169M 1s
+   350K .......... .......... .......... .......... .......... 67% 2.35M 1s
+   400K .......... .......... .......... .......... .......... 76%  179M 0s
+   450K .......... ......... .......... .......... 42% 1.16M 2s
+   250K ............. .......... .......... ......... .......... ....... 84% 1.90M 0s
+   500K .......... .......... .......... .......... ........... ............... 93% 1.30M 0s
+   550K .......... .......... .......... .........            100% 1.85M=2.1s
+
+2020-02-25 22:18:24 (2.27 Mb/s) - ‘/dev/null’ saved [603973/603973]
+
+... .......... 50%  580K 2s
+   300K ..--2020-02-25 22:18:24--  https://www.cbeib.com.et/ARCIB-4/banking/up/CommercialBankOfEthiopia.pdf%0D
+Resolving www.cbeib.com.et (www.cbeib.com.et)... 213.55.103.168
+Connecting to www.cbeib.com.et (www.cbeib.com.et)|213.55.103.168|:443... ........ ........connected.
+.. .......... ....HTTP request sent, awaiting response... ...... .......... 59%  579K 2s500 Internal Server Error
+2020-02-25 22:18:25 ERROR 500: Internal Server Error.
+
+
+   350K .......... .......... .......... .......... .......... 67%  332K 2s
+   400K .......... .......... .......... .......... .......... 76%  290K 2s
+   450K .......... .......... .......... .......... .......... 84%  464K 1s
+   500K .......... .......... .......... .......... .......... 93%  549K 1s
+   550K .......... .......... .......... .........            100%  616K=7.6s
+
+2020-02-25 22:18:30 (633 Kb/s) - ‘/dev/null’ saved [603973/603973]
+
+--2020-02-25 22:18:30--  https://www.cbeib.com.et/ARCIB-4/banking/up/CommercialBankOfEthiopia.pdf%0D
+Resolving www.cbeib.com.et (www.cbeib.com.et)... 213.55.103.168
+Connecting to www.cbeib.com.et (www.cbeib.com.et)|213.55.103.168|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:18:31 ERROR 500: Internal Server Error.
+

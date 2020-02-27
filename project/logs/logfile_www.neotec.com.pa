@@ -1,0 +1,6 @@
+--2020-02-26 00:26:55--  http://www.neotec.com.pa/pdf/MARVIN.pdf%0D
+Resolving www.neotec.com.pa (www.neotec.com.pa)... 66.96.130.73
+Connecting to www.neotec.com.pa (www.neotec.com.pa)|66.96.130.73|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:26:56 ERROR 400: Bad Request.
+

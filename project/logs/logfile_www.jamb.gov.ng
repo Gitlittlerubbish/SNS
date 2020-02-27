@@ -1,0 +1,6 @@
+--2020-02-26 00:16:28--  https://www.jamb.gov.ng/PDFs/polyschools.pdf%0D
+Resolving www.jamb.gov.ng (www.jamb.gov.ng)... 104.45.22.140
+Connecting to www.jamb.gov.ng (www.jamb.gov.ng)|104.45.22.140|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:16:28 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:48:56--  https://www.ronning.is/Attachment/GenericFile%3FattachmentId%3D16005%0D
+Resolving www.ronning.is (www.ronning.is)... 94.142.154.87
+Connecting to www.ronning.is (www.ronning.is)|94.142.154.87|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:48:57 ERROR 400: Bad Request.
+

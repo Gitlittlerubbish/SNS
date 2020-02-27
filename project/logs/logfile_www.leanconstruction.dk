@@ -1,0 +1,12 @@
+--2020-02-25 22:06:11--  https://www.leanconstruction.dk/media/o0qn3do3/isbn951385566x.pdf%0D
+Resolving www.leanconstruction.dk (www.leanconstruction.dk)... --2020-02-25 22:06:11--  https://www.leanconstruction.dk/media/o0qn3do3/isbn951385566x.pdf%0D
+Resolving www.leanconstruction.dk (www.leanconstruction.dk)... 35.234.89.100
+Connecting to www.leanconstruction.dk (www.leanconstruction.dk)|35.234.89.100|:443... connected.
+35.234.89.100
+Connecting to www.leanconstruction.dk (www.leanconstruction.dk)|35.234.89.100|:443... HTTP request sent, awaiting response... connected.
+400 Bad Request
+2020-02-25 22:06:11 ERROR 400: Bad Request.
+
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:06:11 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:35:22--  http://epan2.antagonistikotita.gr/uploads/20190207_1h_OR8H_EPANALHPSH_TROPO_ERG_ANTAG.pdf%0D
+Resolving epan2.antagonistikotita.gr (epan2.antagonistikotita.gr)... --2020-02-25 22:35:22--  http://epan2.antagonistikotita.gr/uploads/20190207_1h_OR8H_EPANALHPSH_TROPO_ERG_ANTAG.pdf%0D
+Resolving epan2.antagonistikotita.gr (epan2.antagonistikotita.gr)... 195.167.92.206
+Connecting to epan2.antagonistikotita.gr (epan2.antagonistikotita.gr)|195.167.92.206|:80... 195.167.92.206
+Connecting to epan2.antagonistikotita.gr (epan2.antagonistikotita.gr)|195.167.92.206|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:35:23 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:35:23 ERROR 400: Bad Request.
+

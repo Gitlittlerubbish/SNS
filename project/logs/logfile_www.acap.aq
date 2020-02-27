@@ -1,0 +1,6 @@
+--2020-02-25 21:03:50--  https://www.acap.aq/images/stories/PDF_Docs/Es/ACAP_10Year_44pp_s.pdf%0D
+Resolving www.acap.aq (www.acap.aq)... 103.18.109.164
+Connecting to www.acap.aq (www.acap.aq)|103.18.109.164|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:03:51 ERROR 403: Forbidden.
+

@@ -1,0 +1,10 @@
+--2020-02-26 00:00:20--  http://www.unilurio.ac.mz/unilurio/docs/regulamentos/regulamento_pedagogico_2014.pdf%0D
+Resolving www.unilurio.ac.mz (www.unilurio.ac.mz)... 196.3.96.21
+Connecting to www.unilurio.ac.mz (www.unilurio.ac.mz)|196.3.96.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.unilurio.ac.mz/unilurio/pt/docs/regulamentos/regulamento_pedagogico_2014.pdf [following]
+--2020-02-26 00:00:22--  http://www.unilurio.ac.mz/unilurio/pt/docs/regulamentos/regulamento_pedagogico_2014.pdf
+Reusing existing connection to www.unilurio.ac.mz:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:00:22 ERROR 404: Not Found.
+

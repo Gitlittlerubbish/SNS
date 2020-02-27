@@ -1,0 +1,12 @@
+--2020-02-25 21:11:44--  http://www.catering.bm/menu/english-buffet.pdf%0D
+Resolving www.catering.bm (www.catering.bm)... 50.116.16.213
+Connecting to www.catering.bm (www.catering.bm)|50.116.16.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:45 ERROR 404: Not Found.
+
+--2020-02-25 21:20:33--  http://www.catering.bm/menu/english-buffet.pdf%0D
+Resolving www.catering.bm (www.catering.bm)... 50.116.16.213
+Connecting to www.catering.bm (www.catering.bm)|50.116.16.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:34 ERROR 404: Not Found.
+

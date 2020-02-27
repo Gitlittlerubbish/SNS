@@ -1,0 +1,64 @@
+--2020-02-25 23:06:17--  http://kaznpu.kz/docs/doctor_zhumalieva/Disser_Zhumaliyeva.pdf%0D
+Resolving kaznpu.kz (kaznpu.kz)... 92.46.36.227
+Connecting to kaznpu.kz (kaznpu.kz)|92.46.36.227|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /kz/ [following]
+--2020-02-25 23:06:17--  http://kaznpu.kz/kz/
+Connecting to kaznpu.kz (kaznpu.kz)|92.46.36.227|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.20M
+    50K .......... ....                                        9.23M=0.4s
+
+2020-02-25 23:06:18 (1.49 Mb/s) - ‘/dev/null’ saved [66046]
+
+--2020-02-25 23:06:18--  http://kaznpu.kz/docs/doctor_zhumalieva/Disser_Zhumaliyeva.pdf%0D
+Resolving kaznpu.kz (kaznpu.kz)... 92.46.36.227
+Connecting to kaznpu.kz (kaznpu.kz)|92.46.36.227|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /kz/ [following]
+--2020-02-25 23:06:18--  http://kaznpu.kz/kz/
+Connecting to kaznpu.kz (kaznpu.kz)|92.46.36.227|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.65M
+    50K .......... ....                                        1.39M=0.3s
+
+2020-02-25 23:06:18 (1.58 Mb/s) - ‘/dev/null’ saved [66046]
+
+--2020-02-25 23:06:18--  http://kaznpu.kz/docs/dissertasionnie_raboti/O_K_O_2.pdf%0D
+Resolving kaznpu.kz (kaznpu.kz)... 92.46.36.227
+Connecting to kaznpu.kz (kaznpu.kz)|92.46.36.227|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /kz/ [following]
+--2020-02-25 23:06:19--  http://kaznpu.kz/kz/
+Connecting to kaznpu.kz (kaznpu.kz)|92.46.36.227|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.68M
+    50K .......... ....                                        1.43M=0.3s
+
+2020-02-25 23:06:19 (1.62 Mb/s) - ‘/dev/null’ saved [66046]
+
+--2020-02-25 23:06:19--  http://kaznpu.kz/docs/dissertasionnie_raboti/O_K_O_2.pdf%0D
+Resolving kaznpu.kz (kaznpu.kz)... 92.46.36.227
+Connecting to kaznpu.kz (kaznpu.kz)|92.46.36.227|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /kz/ [following]
+--2020-02-25 23:06:19--  http://kaznpu.kz/kz/
+Connecting to kaznpu.kz (kaznpu.kz)|92.46.36.227|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.57M
+    50K .......... ....                                        1.29M=0.4s
+
+2020-02-25 23:06:20 (1.50 Mb/s) - ‘/dev/null’ saved [66046]
+

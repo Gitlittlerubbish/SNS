@@ -1,0 +1,48 @@
+--2020-02-25 21:52:46--  http://beglobal.com.co/visas/REQUISITOS_VISA_TURISMO_CANADA.pdf%0D
+Resolving beglobal.com.co (beglobal.com.co)... 108.163.210.34
+Connecting to beglobal.com.co (beglobal.com.co)|108.163.210.34|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://beglobal.com.co/visas/REQUISITOS_VISA_TURISMO_CANADA.pdf [following]
+--2020-02-25 21:52:47--  https://beglobal.com.co/visas/REQUISITOS_VISA_TURISMO_CANADA.pdf
+Connecting to beglobal.com.co (beglobal.com.co)|108.163.210.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153475 (150K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 2.26M 0s
+    50K .......... ...--2020-02-25 21:52:48--  http://beglobal.com.co/visas/REQUISITOS_VISA_TURISMO_CANADA.pdf%0D
+Resolving beglobal.com.co (beglobal.com.co)... 108.163.210.34
+Connecting to beglobal.com.co (beglobal.com.co)|108.163.210.34|:80... ....... .......... .......... .......... 66% 4.53M 0s
+   100K .......... .......... .......... .......... ......... 100%  320M=0.3s
+
+2020-02-25 21:52:48 (4.50 Mb/s) - ‘/dev/null’ saved [153475/153475]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 21:52:48--  https://beglobal.com.co/visas/REQUISITOS_VISA_TURISMO_CANADA.pdf%0D
+Resolving beglobal.com.co (beglobal.com.co)... 108.163.210.34
+Connecting to beglobal.com.co (beglobal.com.co)|108.163.210.34|:443... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://beglobal.com.co/visas/REQUISITOS_VISA_TURISMO_CANADA.pdf [following]
+--2020-02-25 21:52:48--  https://beglobal.com.co/visas/REQUISITOS_VISA_TURISMO_CANADA.pdf
+Connecting to beglobal.com.co (beglobal.com.co)|108.163.210.34|:443... connected.
+404 Not Found
+HTTP request sent, awaiting response... 2020-02-25 21:52:48 ERROR 404: Not Found.
+
+200 OK
+Length: 153475 (150K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 2.38M 0s
+    50K .......... .......... .......... .......... .......... 66% 4.75M 0s
+   100K .......... .......... .......... .......... ......... 100%  308M=0.3s
+
+2020-02-25 21:52:49 (4.72 Mb/s) - ‘/dev/null’ saved [153475/153475]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 21:52:49--  https://beglobal.com.co/visas/REQUISITOS_VISA_TURISMO_CANADA.pdf%0D
+Resolving beglobal.com.co (beglobal.com.co)... 108.163.210.34
+Connecting to beglobal.com.co (beglobal.com.co)|108.163.210.34|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:52:50 ERROR 404: Not Found.
+

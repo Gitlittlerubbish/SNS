@@ -1,0 +1,22 @@
+--2020-02-25 21:32:31--  http://opacc.cv/documentos/Relatorioecontas-OPACC-2014.pdf%0D
+Resolving opacc.cv (opacc.cv)... 173.201.96.128
+Connecting to opacc.cv (opacc.cv)|173.201.96.128|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://site.opacc.cv [following]
+--2020-02-25 21:32:31--  http://site.opacc.cv/
+Resolving site.opacc.cv (site.opacc.cv)... 173.201.96.128
+Reusing existing connection to opacc.cv:80.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:35:29--  http://opacc.cv/documentos/Relatorioecontas-OPACC-2014.pdf%0D
+Resolving opacc.cv (opacc.cv)... 173.201.96.128
+Connecting to opacc.cv (opacc.cv)|173.201.96.128|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://site.opacc.cv [following]
+--2020-02-25 21:35:30--  http://site.opacc.cv/
+Resolving site.opacc.cv (site.opacc.cv)... 173.201.96.128
+Reusing existing connection to opacc.cv:80.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

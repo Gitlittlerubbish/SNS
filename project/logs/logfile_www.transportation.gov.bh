@@ -1,0 +1,12 @@
+--2020-02-25 21:03:13--  http://www.transportation.gov.bh/sites/default/files/cap19.pdf%0D
+Resolving www.transportation.gov.bh (www.transportation.gov.bh)... 54.229.164.199
+Connecting to www.transportation.gov.bh (www.transportation.gov.bh)|54.229.164.199|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:14 ERROR 404: Not Found.
+
+--2020-02-25 21:14:29--  http://www.transportation.gov.bh/sites/default/files/cap19.pdf%0D
+Resolving www.transportation.gov.bh (www.transportation.gov.bh)... 54.229.164.199
+Connecting to www.transportation.gov.bh (www.transportation.gov.bh)|54.229.164.199|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:29 ERROR 404: Not Found.
+

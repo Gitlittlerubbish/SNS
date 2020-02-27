@@ -1,0 +1,48 @@
+--2020-02-25 21:04:40--  https://www.bwdb.gov.bd/archive/pdf/198.pdf%0D
+Resolving www.bwdb.gov.bd (www.bwdb.gov.bd)... 202.79.16.200
+Connecting to www.bwdb.gov.bd (www.bwdb.gov.bd)|202.79.16.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  675K
+    50K .......... ....                                        3.44G=0.6s
+
+2020-02-25 21:04:44 (869 Kb/s) - ‘/dev/null’ saved [65946]
+
+--2020-02-25 21:04:44--  https://www.bwdb.gov.bd/archive/pdf/198.pdf%0D
+Resolving www.bwdb.gov.bd (www.bwdb.gov.bd)... 202.79.16.200
+Connecting to www.bwdb.gov.bd (www.bwdb.gov.bd)|202.79.16.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  741K
+    50K .......... ....                                        3.19G=0.6s
+
+2020-02-25 21:04:46 (954 Kb/s) - ‘/dev/null’ saved [65946]
+
+--2020-02-25 21:15:19--  https://www.bwdb.gov.bd/archive/pdf/198.pdf%0D
+Resolving www.bwdb.gov.bd (www.bwdb.gov.bd)... 202.79.16.200
+Connecting to www.bwdb.gov.bd (www.bwdb.gov.bd)|202.79.16.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  674K
+    50K .......... ....                                        3.07G=0.6s
+
+2020-02-25 21:15:22 (867 Kb/s) - ‘/dev/null’ saved [65946]
+
+--2020-02-25 21:15:22--  https://www.bwdb.gov.bd/archive/pdf/198.pdf%0D
+Resolving www.bwdb.gov.bd (www.bwdb.gov.bd)... 202.79.16.200
+Connecting to www.bwdb.gov.bd (www.bwdb.gov.bd)|202.79.16.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  673K
+    50K .......... ....                                        2.54G=0.6s
+
+2020-02-25 21:15:26 (867 Kb/s) - ‘/dev/null’ saved [65946]
+

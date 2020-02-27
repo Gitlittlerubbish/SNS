@@ -1,0 +1,6 @@
+--2020-02-26 00:25:29--  http://stem360.pk/hydro-dynamics-challenge-letter.pdf%0D
+Resolving stem360.pk (stem360.pk)... 66.96.147.161
+Connecting to stem360.pk (stem360.pk)|66.96.147.161|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:25:29 ERROR 400: Bad Request.
+

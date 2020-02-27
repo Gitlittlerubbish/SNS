@@ -1,0 +1,12 @@
+--2020-02-26 00:41:54--  http://www.jovens.parlamento.pt/2016_2017/docs/brochura20anosPJ.pdf%0D
+Resolving www.jovens.parlamento.pt (www.jovens.parlamento.pt)... 88.157.195.115
+Connecting to www.jovens.parlamento.pt (www.jovens.parlamento.pt)|88.157.195.115|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:41:55 ERROR 400: Bad Request.
+
+--2020-02-26 00:41:57--  http://www.jovens.parlamento.pt/2016_2017/docs/brochura20anosPJ.pdf%0D
+Resolving www.jovens.parlamento.pt (www.jovens.parlamento.pt)... 88.157.195.115
+Connecting to www.jovens.parlamento.pt (www.jovens.parlamento.pt)|88.157.195.115|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:41:57 ERROR 400: Bad Request.
+

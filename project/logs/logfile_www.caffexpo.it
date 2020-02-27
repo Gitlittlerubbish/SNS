@@ -1,0 +1,22 @@
+--2020-02-25 23:00:29--  http://www.caffexpo.it/files/edible_insects.pdf%0D
+Resolving www.caffexpo.it (www.caffexpo.it)... 172.104.237.43
+Connecting to www.caffexpo.it (www.caffexpo.it)|172.104.237.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .........             19.8M=0.02s
+
+2020-02-25 23:00:29 (19.8 Mb/s) - ‘/dev/null’ saved [40422]
+
+--2020-02-25 23:00:29--  http://www.caffexpo.it/files/edible_insects.pdf%0D
+Resolving www.caffexpo.it (www.caffexpo.it)... 172.104.237.43
+Connecting to www.caffexpo.it (www.caffexpo.it)|172.104.237.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .........             27.0M=0.01s
+
+2020-02-25 23:00:29 (27.0 Mb/s) - ‘/dev/null’ saved [40422]
+

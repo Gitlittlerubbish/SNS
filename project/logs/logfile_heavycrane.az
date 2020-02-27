@@ -1,0 +1,64 @@
+--2020-02-25 21:00:35--  http://heavycrane.az/upload/pdf/TEREX.AC.250.DATASHHET.pdf%0D
+Resolving heavycrane.az (heavycrane.az)... 181.214.31.82
+Connecting to heavycrane.az (heavycrane.az)|181.214.31.82|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://heavycrane.az/ [following]
+--2020-02-25 21:00:35--  http://heavycrane.az/
+Reusing existing connection to heavycrane.az:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.68M
+    50K ..........                                              748M=0.2s
+
+2020-02-25 21:00:36 (3.23 Mb/s) - ‘/dev/null’ saved [61788]
+
+--2020-02-25 21:00:36--  http://heavycrane.az/upload/pdf/TEREX.AC.250.DATASHHET.pdf%0D
+Resolving heavycrane.az (heavycrane.az)... 181.214.31.82
+Connecting to heavycrane.az (heavycrane.az)|181.214.31.82|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://heavycrane.az/ [following]
+--2020-02-25 21:00:36--  http://heavycrane.az/
+Reusing existing connection to heavycrane.az:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.71M
+    50K ..........                                             63.5M=0.2s
+
+2020-02-25 21:00:36 (3.24 Mb/s) - ‘/dev/null’ saved [61788]
+
+--2020-02-25 21:12:25--  http://heavycrane.az/upload/pdf/TEREX.AC.250.DATASHHET.pdf%0D
+Resolving heavycrane.az (heavycrane.az)... 181.214.31.82
+Connecting to heavycrane.az (heavycrane.az)|181.214.31.82|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://heavycrane.az/ [following]
+--2020-02-25 21:12:25--  http://heavycrane.az/
+Reusing existing connection to heavycrane.az:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.67M
+    50K ..........                                              882M=0.2s
+
+2020-02-25 21:12:26 (3.21 Mb/s) - ‘/dev/null’ saved [61788]
+
+--2020-02-25 21:12:26--  http://heavycrane.az/upload/pdf/TEREX.AC.250.DATASHHET.pdf%0D
+Resolving heavycrane.az (heavycrane.az)... 181.214.31.82
+Connecting to heavycrane.az (heavycrane.az)|181.214.31.82|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://heavycrane.az/ [following]
+--2020-02-25 21:12:26--  http://heavycrane.az/
+Reusing existing connection to heavycrane.az:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.65M
+    50K ..........                                             1.11G=0.2s
+
+2020-02-25 21:12:26 (3.20 Mb/s) - ‘/dev/null’ saved [61788]
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:07:27--  http://www.ups-service.by/PDF/PowerVario_1000_3000_GB_Manual_specif01.pdf%0D
+Resolving www.ups-service.by (www.ups-service.by)... 91.149.157.60
+Connecting to www.ups-service.by (www.ups-service.by)|91.149.157.60|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:27 ERROR 404: Not Found.
+
+--2020-02-25 21:17:31--  http://www.ups-service.by/PDF/PowerVario_1000_3000_GB_Manual_specif01.pdf%0D
+Resolving www.ups-service.by (www.ups-service.by)... 91.149.157.60
+Connecting to www.ups-service.by (www.ups-service.by)|91.149.157.60|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:31 ERROR 404: Not Found.
+

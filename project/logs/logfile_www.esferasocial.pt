@@ -1,0 +1,42 @@
+--2020-02-26 00:42:14--  http://www.esferasocial.pt/documentos/Declaracao-Modelo-10-IRS.pdf%0D
+Resolving www.esferasocial.pt (www.esferasocial.pt)... 94.46.168.198
+Connecting to www.esferasocial.pt (www.esferasocial.pt)|94.46.168.198|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.esferasocial.pt/documentos/Declaracao-Modelo-10-IRS.pdf [following]
+--2020-02-26 00:42:16--  https://www.esferasocial.pt/documentos/Declaracao-Modelo-10-IRS.pdf
+Connecting to www.esferasocial.pt (www.esferasocial.pt)|94.46.168.198|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312526 (305K) [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 10.4M 0s
+    50K .......... .......... .......... .......... .......... 32% 10.4M 0s
+   100K .......... .......... .......... .......... .......... 49%  648M 0s
+   150K .......... .......... .......... .......... .......... 65% 10.6M 0s
+   200K .......... .......... .......... .......... .......... 81%  731M 0s
+   250K .......... .......... .......... .......... .......... 98%  979M 0s
+   300K .....                                                 100% 3.37G=0.1s
+
+2020-02-26 00:42:16 (21.0 Mb/s) - ‘/dev/null’ saved [312526/312526]
+
+--2020-02-26 00:42:16--  http://www.esferasocial.pt/documentos/Declaracao-Modelo-10-IRS.pdf%0D
+Resolving www.esferasocial.pt (www.esferasocial.pt)... 94.46.168.198
+Connecting to www.esferasocial.pt (www.esferasocial.pt)|94.46.168.198|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.esferasocial.pt/documentos/Declaracao-Modelo-10-IRS.pdf [following]
+--2020-02-26 00:42:18--  https://www.esferasocial.pt/documentos/Declaracao-Modelo-10-IRS.pdf
+Connecting to www.esferasocial.pt (www.esferasocial.pt)|94.46.168.198|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312526 (305K) [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 10.3M 0s
+    50K .......... .......... .......... .......... .......... 32% 10.4M 0s
+   100K .......... .......... .......... .......... .......... 49% 10.5M 0s
+   150K .......... .......... .......... .......... .......... 65%  850M 0s
+   200K .......... .......... .......... .......... .......... 81%  809M 0s
+   250K .......... .......... .......... .......... .......... 98% 1.31G 0s
+   300K .....                                                 100% 1.20G=0.1s
+
+2020-02-26 00:42:18 (20.9 Mb/s) - ‘/dev/null’ saved [312526/312526]
+

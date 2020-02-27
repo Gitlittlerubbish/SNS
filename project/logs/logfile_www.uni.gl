@@ -1,0 +1,12 @@
+--2020-02-25 22:35:31--  https://www.uni.gl/media/46421/apa-vejledning-nov-09.pdf%0D
+Resolving www.uni.gl (www.uni.gl)... 94.231.109.13
+Connecting to www.uni.gl (www.uni.gl)|94.231.109.13|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:35:31 ERROR 400: Bad Request.
+
+--2020-02-25 22:35:31--  https://www.uni.gl/media/46421/apa-vejledning-nov-09.pdf%0D
+Resolving www.uni.gl (www.uni.gl)... 94.231.109.13
+Connecting to www.uni.gl (www.uni.gl)|94.231.109.13|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:35:31 ERROR 400: Bad Request.
+

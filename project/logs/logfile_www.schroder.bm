@@ -1,0 +1,44 @@
+--2020-02-25 21:11:48--  http://www.schroder.bm/getfunddocument%3Foid%3D1.9.1695267%0D
+Resolving www.schroder.bm (www.schroder.bm)... 165.160.13.20, 165.160.15.20
+Connecting to www.schroder.bm (www.schroder.bm)|165.160.13.20|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  147M=0s
+
+2020-02-25 21:11:48 (147 Mb/s) - ‘/dev/null’ saved [94/94]
+
+--2020-02-25 21:11:48--  http://www.schroder.bm/getfunddocument%3Foid%3D1.9.1695267%0D
+Resolving www.schroder.bm (www.schroder.bm)... 165.160.15.20, 165.160.13.20
+Connecting to www.schroder.bm (www.schroder.bm)|165.160.15.20|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  167M=0s
+
+2020-02-25 21:11:48 (167 Mb/s) - ‘/dev/null’ saved [94/94]
+
+--2020-02-25 21:20:37--  http://www.schroder.bm/getfunddocument%3Foid%3D1.9.1695267%0D
+Resolving www.schroder.bm (www.schroder.bm)... 165.160.15.20, 165.160.13.20
+Connecting to www.schroder.bm (www.schroder.bm)|165.160.15.20|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  217M=0s
+
+2020-02-25 21:20:37 (217 Mb/s) - ‘/dev/null’ saved [94/94]
+
+--2020-02-25 21:20:37--  http://www.schroder.bm/getfunddocument%3Foid%3D1.9.1695267%0D
+Resolving www.schroder.bm (www.schroder.bm)... 165.160.15.20, 165.160.13.20
+Connecting to www.schroder.bm (www.schroder.bm)|165.160.15.20|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  240M=0s
+
+2020-02-25 21:20:38 (240 Mb/s) - ‘/dev/null’ saved [94/94]
+

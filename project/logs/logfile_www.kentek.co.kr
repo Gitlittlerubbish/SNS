@@ -1,0 +1,32 @@
+--2020-02-25 23:14:00--  http://www.kentek.co.kr/m/img/sub2/pdf/MEZUS/mezus_610.pdf%0D
+Resolving www.kentek.co.kr (www.kentek.co.kr)... 211.43.203.69
+Connecting to www.kentek.co.kr (www.kentek.co.kr)|211.43.203.69|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://errdoc.gabia.net/404.html [following]
+--2020-02-25 23:14:01--  http://errdoc.gabia.net/404.html
+Resolving errdoc.gabia.net (errdoc.gabia.net)... 211.43.212.238
+Connecting to errdoc.gabia.net (errdoc.gabia.net)|211.43.212.238|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                               2.69G=0s
+
+2020-02-25 23:14:02 (2.69 Gb/s) - ‘/dev/null’ saved [8850]
+
+--2020-02-25 23:14:02--  http://www.kentek.co.kr/m/img/sub2/pdf/MEZUS/mezus_610.pdf%0D
+Resolving www.kentek.co.kr (www.kentek.co.kr)... 211.43.203.69
+Connecting to www.kentek.co.kr (www.kentek.co.kr)|211.43.203.69|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://errdoc.gabia.net/404.html [following]
+--2020-02-25 23:14:02--  http://errdoc.gabia.net/404.html
+Resolving errdoc.gabia.net (errdoc.gabia.net)... 211.43.212.238
+Connecting to errdoc.gabia.net (errdoc.gabia.net)|211.43.212.238|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                               1.45G=0s
+
+2020-02-25 23:14:03 (1.45 Gb/s) - ‘/dev/null’ saved [8850]
+

@@ -1,0 +1,12 @@
+--2020-02-25 20:57:52--  https://static.ptv.vic.gov.au/public-transport-victoria/1491350490/PTVH2153_TramNetworkMap_A3_L_March2017_v1_FA_LOCKED.pdf%0D
+Resolving static.ptv.vic.gov.au (static.ptv.vic.gov.au)... 104.18.133.15, 104.18.134.15
+Connecting to static.ptv.vic.gov.au (static.ptv.vic.gov.au)|104.18.133.15|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 20:57:54 ERROR 403: Forbidden.
+
+--2020-02-25 21:10:16--  https://static.ptv.vic.gov.au/public-transport-victoria/1491350490/PTVH2153_TramNetworkMap_A3_L_March2017_v1_FA_LOCKED.pdf%0D
+Resolving static.ptv.vic.gov.au (static.ptv.vic.gov.au)... 104.18.134.15, 104.18.133.15
+Connecting to static.ptv.vic.gov.au (static.ptv.vic.gov.au)|104.18.134.15|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:10:17 ERROR 403: Forbidden.
+

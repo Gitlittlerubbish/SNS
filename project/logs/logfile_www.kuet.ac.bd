@@ -1,0 +1,72 @@
+--2020-02-25 21:05:09--  http://www.kuet.ac.bd/images/download/Academic_Ordinance_PG.pdf%0D
+Resolving www.kuet.ac.bd (www.kuet.ac.bd)... 103.74.84.13
+Connecting to www.kuet.ac.bd (www.kuet.ac.bd)|103.74.84.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.kuet.ac.bd [following]
+--2020-02-25 21:05:09--  http://www.kuet.ac.bd/
+Reusing existing connection to www.kuet.ac.bd:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  579K
+    50K .......... .......... .......... .......... ..........  868K
+   100K .......... .......... .......... .......... ..........  868K
+   150K .......... .......... .......... .......... .....      1.37M=1.9s
+
+2020-02-25 21:05:12 (834 Kb/s) - ‘/dev/null’ saved [200620]
+
+--2020-02-25 21:05:12--  http://www.kuet.ac.bd/images/download/Academic_Ordinance_PG.pdf%0D
+Resolving www.kuet.ac.bd (www.kuet.ac.bd)... 103.74.84.13
+Connecting to www.kuet.ac.bd (www.kuet.ac.bd)|103.74.84.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.kuet.ac.bd [following]
+--2020-02-25 21:05:12--  http://www.kuet.ac.bd/
+Reusing existing connection to www.kuet.ac.bd:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  808K
+    50K .......... .......... .......... .......... ..........  952K
+   100K .......... .......... .......... .......... .......... 1.75M
+   150K .......... .......... .......... .......... .....      1.61M=1.4s
+
+2020-02-25 21:05:14 (1.14 Mb/s) - ‘/dev/null’ saved [200620]
+
+--2020-02-25 21:15:42--  http://www.kuet.ac.bd/images/download/Academic_Ordinance_PG.pdf%0D
+Resolving www.kuet.ac.bd (www.kuet.ac.bd)... 103.74.84.13
+Connecting to www.kuet.ac.bd (www.kuet.ac.bd)|103.74.84.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.kuet.ac.bd [following]
+--2020-02-25 21:15:42--  http://www.kuet.ac.bd/
+Reusing existing connection to www.kuet.ac.bd:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  990K
+    50K .......... .......... .......... .......... ..........  990K
+   100K .......... .......... .......... .......... .......... 1.98M
+   150K .......... .......... .......... .......... .....      1.82M=1.2s
+
+2020-02-25 21:15:44 (1.29 Mb/s) - ‘/dev/null’ saved [200620]
+
+--2020-02-25 21:15:44--  http://www.kuet.ac.bd/images/download/Academic_Ordinance_PG.pdf%0D
+Resolving www.kuet.ac.bd (www.kuet.ac.bd)... 103.74.84.13
+Connecting to www.kuet.ac.bd (www.kuet.ac.bd)|103.74.84.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.kuet.ac.bd [following]
+--2020-02-25 21:15:45--  http://www.kuet.ac.bd/
+Reusing existing connection to www.kuet.ac.bd:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  912K
+    50K .......... .......... .......... .......... ..........  911K
+   100K .......... .......... .......... .......... .......... 1.82M
+   150K .......... .......... .......... .......... .....      1.68M=1.3s
+
+2020-02-25 21:15:46 (1.19 Mb/s) - ‘/dev/null’ saved [200620]
+

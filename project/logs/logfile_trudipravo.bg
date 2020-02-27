@@ -1,0 +1,51 @@
+--2020-02-25 21:26:57--  http://trudipravo.bg/pdf/proc/19_proc.pdf%0D
+Resolving trudipravo.bg (trudipravo.bg)... 79.124.64.161
+Connecting to trudipravo.bg (trudipravo.bg)|79.124.64.161|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 3.51M
+    50K .......... .......... .......... .......... .......... 5.26M
+   100K .......... .......... .......... .......... .......... 10.5M
+   150K .......... .......... .......... .......... .......... 10.5M
+   200K .......... .......... ..                               1.14G=0.3s
+
+2020-02-25 21:27:01 (6.68 Mb/s) - ‘/dev/null’ saved [227760]
+
+--2020-02-25 21:27:01--  http://trudipravo.bg/pdf/proc/19_proc.pdf%0D
+Resolving trudipravo.bg (trudipravo.bg)... 79.124.64.161
+Connecting to trudipravo.bg (trudipravo.bg)|79.124.64.161|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.42M
+    50K .......... .......... .......... .......... .......... 5.42M
+   100K .......... .......... .......... .......... .......... 10.8M
+   150K .......... .......... .......... .......... .......... 10.8M
+   200K .......... .......... ..                                773M=0.2s
+
+2020-02-25 21:27:04 (8.02 Mb/s) - ‘/dev/null’ saved [227851]
+
+--2020-02-25 21:32:06--  http://trudipravo.bg/pdf/proc/19_proc.pdf%0D
+Resolving trudipravo.bg (trudipravo.bg)... 79.124.64.161
+Connecting to trudipravo.bg (trudipravo.bg)|79.124.64.161|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.27M
+    50K .......... .......... .......... .......... .......... 5.25M
+   100K .......... .......... .......... .......... .......... 10.5M
+   150K .......... .......... .......... .......... .......... 10.5M
+   200K .......... .......... ..                               1.59G=0.2s
+
+2020-02-25 21:32:09 (7.79 Mb/s) - ‘/dev/null’ saved [227846]
+
+--2020-02-25 21:32:09--  http://trudipravo.bg/pdf/proc/19_proc.pdf%0D
+Resolving trudipravo.bg (trudipravo.bg)... 79.124.64.161
+Connecting to trudipravo.bg (trudipravo.bg)|79.124.64.161|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

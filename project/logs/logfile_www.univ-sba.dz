@@ -1,0 +1,12 @@
+--2020-02-25 20:59:43--  https://www.univ-sba.dz/images/proclamation_novembre_1954.pdf%0D
+Resolving www.univ-sba.dz (www.univ-sba.dz)... 193.194.79.140
+Connecting to www.univ-sba.dz (www.univ-sba.dz)|193.194.79.140|:443... connected.
+ERROR: cannot verify www.univ-sba.dz's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Issued certificate has expired.
+To connect to www.univ-sba.dz insecurely, use `--no-check-certificate'.
+--2020-02-25 20:59:43--  https://www.univ-sba.dz/images/proclamation_novembre_1954.pdf%0D
+Resolving www.univ-sba.dz (www.univ-sba.dz)... 193.194.79.140
+Connecting to www.univ-sba.dz (www.univ-sba.dz)|193.194.79.140|:443... connected.
+ERROR: cannot verify www.univ-sba.dz's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Issued certificate has expired.
+To connect to www.univ-sba.dz insecurely, use `--no-check-certificate'.

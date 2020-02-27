@@ -1,0 +1,6 @@
+--2020-02-25 22:44:27--  http://inm.gob.hn/Ley_de_Migraciones_y_extranjeria_Honduras%5B1%5D.pdf%0D
+Resolving inm.gob.hn (inm.gob.hn)... 190.185.112.189
+Connecting to inm.gob.hn (inm.gob.hn)|190.185.112.189|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:44:28 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:11:48--  http://www.nub.edu.eg/downloads/1477734445.pdf%0D
+Resolving www.nub.edu.eg (www.nub.edu.eg)... --2020-02-25 22:11:48--  http://www.nub.edu.eg/downloads/1477734445.pdf%0D
+Resolving www.nub.edu.eg (www.nub.edu.eg)... 129.121.22.120
+Connecting to www.nub.edu.eg (www.nub.edu.eg)|129.121.22.120|:80... 129.121.22.120
+Connecting to www.nub.edu.eg (www.nub.edu.eg)|129.121.22.120|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:48 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:11:49 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:26:07--  https://andy.com.bn/download/Dzikir%2520Petang.pdf%0D
+Resolving andy.com.bn (andy.com.bn)... 61.6.254.4
+Connecting to andy.com.bn (andy.com.bn)|61.6.254.4|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:26:09 ERROR 404: Not Found.
+
+--2020-02-25 21:31:23--  https://andy.com.bn/download/Dzikir%2520Petang.pdf%0D
+Resolving andy.com.bn (andy.com.bn)... 61.6.254.4
+Connecting to andy.com.bn (andy.com.bn)|61.6.254.4|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:31:24 ERROR 404: Not Found.
+

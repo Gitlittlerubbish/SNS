@@ -1,0 +1,12 @@
+--2020-02-25 21:37:36--  https://pdf.hres.ca/dpd_pm/00013453.PDF%0D
+Resolving pdf.hres.ca (pdf.hres.ca)... 205.193.192.31
+Connecting to pdf.hres.ca (pdf.hres.ca)|205.193.192.31|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:37 ERROR 404: Not Found.
+
+--2020-02-25 21:39:03--  https://pdf.hres.ca/dpd_pm/00013453.PDF%0D
+Resolving pdf.hres.ca (pdf.hres.ca)... 205.193.192.31
+Connecting to pdf.hres.ca (pdf.hres.ca)|205.193.192.31|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:39:04 ERROR 404: Not Found.
+

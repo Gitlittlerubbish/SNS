@@ -1,0 +1,12 @@
+--2020-02-25 21:52:55--  https://banque-comores.km/DOCUMENTS/R%25C3%25A8glement_013_CDRIP.pdf%0D
+--2020-02-25 21:52:55--  https://banque-comores.km/DOCUMENTS/R%25C3%25A8glement_013_CDRIP.pdf%0D
+Resolving banque-comores.km (banque-comores.km)... Resolving banque-comores.km (banque-comores.km)... 128.65.195.96
+Connecting to banque-comores.km (banque-comores.km)|128.65.195.96|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘banque-comores.km’.
+To connect to banque-comores.km insecurely, use `--no-check-certificate'.
+128.65.195.96
+Connecting to banque-comores.km (banque-comores.km)|128.65.195.96|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘banque-comores.km’.
+To connect to banque-comores.km insecurely, use `--no-check-certificate'.

@@ -1,0 +1,12 @@
+--2020-02-25 23:44:24--  http://www.nic.mr/docs/Listes_termes_soumis_examen_prealable.pdf%0D
+Resolving www.nic.mr (www.nic.mr)... 82.151.64.226
+Connecting to www.nic.mr (www.nic.mr)|82.151.64.226|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:44:25 ERROR 404: Not Found.
+
+--2020-02-25 23:44:28--  http://www.nic.mr/RIB_NIC-MAURITANIE.pdf%0D
+Resolving www.nic.mr (www.nic.mr)... 82.151.64.226
+Connecting to www.nic.mr (www.nic.mr)|82.151.64.226|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:44:28 ERROR 404: Not Found.
+

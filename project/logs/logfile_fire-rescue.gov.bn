@@ -1,0 +1,12 @@
+--2020-02-25 21:25:55--  http://fire-rescue.gov.bn/BorangBorang/FDNAS.pdf%0D
+Resolving fire-rescue.gov.bn (fire-rescue.gov.bn)... 103.4.188.86
+Connecting to fire-rescue.gov.bn (fire-rescue.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:56 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:14--  http://fire-rescue.gov.bn/BorangBorang/FDNAS.pdf%0D
+Resolving fire-rescue.gov.bn (fire-rescue.gov.bn)... 103.4.188.86
+Connecting to fire-rescue.gov.bn (fire-rescue.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:14 ERROR 400: Bad Request.
+

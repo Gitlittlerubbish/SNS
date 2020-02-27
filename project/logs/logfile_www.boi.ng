@@ -1,0 +1,6 @@
+--2020-02-26 00:15:53--  http://www.boi.ng/downloads/2016ANNUALREPORT.pdf%0D
+Resolving www.boi.ng (www.boi.ng)... 107.180.69.106
+Connecting to www.boi.ng (www.boi.ng)|107.180.69.106|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-26 00:15:54 ERROR 500: Internal Server Error.
+

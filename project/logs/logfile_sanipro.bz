@@ -1,0 +1,76 @@
+--2020-02-25 21:09:03--  https://sanipro.bz/images/pdf/ansuchen/guida_operativa.pdf%0D
+Resolving sanipro.bz (sanipro.bz)... 79.133.45.235
+Connecting to sanipro.bz (sanipro.bz)|79.133.45.235|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sanipro.bz/de/images/pdf/ansuchen/guida_operativa.pdf [following]
+--2020-02-25 21:09:03--  https://sanipro.bz/de/images/pdf/ansuchen/guida_operativa.pdf
+Reusing existing connection to sanipro.bz:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /de/seite-nicht-gefunden [following]
+--2020-02-25 21:09:03--  https://sanipro.bz/de/seite-nicht-gefunden
+Reusing existing connection to sanipro.bz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                 10.2G=0s
+
+2020-02-25 21:09:03 (10.2 Gb/s) - ‘/dev/null’ saved [6187]
+
+--2020-02-25 21:09:03--  https://sanipro.bz/images/pdf/ansuchen/guida_operativa.pdf%0D
+Resolving sanipro.bz (sanipro.bz)... 79.133.45.235
+Connecting to sanipro.bz (sanipro.bz)|79.133.45.235|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sanipro.bz/de/images/pdf/ansuchen/guida_operativa.pdf [following]
+--2020-02-25 21:09:04--  https://sanipro.bz/de/images/pdf/ansuchen/guida_operativa.pdf
+Reusing existing connection to sanipro.bz:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /de/seite-nicht-gefunden [following]
+--2020-02-25 21:09:04--  https://sanipro.bz/de/seite-nicht-gefunden
+Reusing existing connection to sanipro.bz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                 8.84G=0s
+
+2020-02-25 21:09:04 (8.84 Gb/s) - ‘/dev/null’ saved [6187]
+
+--2020-02-25 21:18:38--  https://sanipro.bz/images/pdf/ansuchen/guida_operativa.pdf%0D
+Resolving sanipro.bz (sanipro.bz)... 79.133.45.235
+Connecting to sanipro.bz (sanipro.bz)|79.133.45.235|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sanipro.bz/de/images/pdf/ansuchen/guida_operativa.pdf [following]
+--2020-02-25 21:18:38--  https://sanipro.bz/de/images/pdf/ansuchen/guida_operativa.pdf
+Reusing existing connection to sanipro.bz:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /de/seite-nicht-gefunden [following]
+--2020-02-25 21:18:39--  https://sanipro.bz/de/seite-nicht-gefunden
+Reusing existing connection to sanipro.bz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                 9.04G=0s
+
+2020-02-25 21:18:39 (9.04 Gb/s) - ‘/dev/null’ saved [6187]
+
+--2020-02-25 21:18:39--  https://sanipro.bz/images/pdf/ansuchen/guida_operativa.pdf%0D
+Resolving sanipro.bz (sanipro.bz)... 79.133.45.235
+Connecting to sanipro.bz (sanipro.bz)|79.133.45.235|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sanipro.bz/de/images/pdf/ansuchen/guida_operativa.pdf [following]
+--2020-02-25 21:18:39--  https://sanipro.bz/de/images/pdf/ansuchen/guida_operativa.pdf
+Reusing existing connection to sanipro.bz:443.
+HTTP request sent, awaiting response... 302 Found
+Location: /de/seite-nicht-gefunden [following]
+--2020-02-25 21:18:39--  https://sanipro.bz/de/seite-nicht-gefunden
+Reusing existing connection to sanipro.bz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                 3.91G=0s
+
+2020-02-25 21:18:39 (3.91 Gb/s) - ‘/dev/null’ saved [6187]
+

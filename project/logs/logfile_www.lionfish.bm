@@ -1,0 +1,20 @@
+--2020-02-25 21:11:42--  http://www.lionfish.bm/assets/pdf/task_force_donation_instructions.pdf%0D
+Resolving www.lionfish.bm (www.lionfish.bm)... 52.200.53.55
+Connecting to www.lionfish.bm (www.lionfish.bm)|52.200.53.55|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lionfish.bm/assets/pdf/task_force_donation_instructions.pdf%0d [following]
+--2020-02-25 21:11:42--  https://www.lionfish.bm/assets/pdf/task_force_donation_instructions.pdf%0d
+Connecting to www.lionfish.bm (www.lionfish.bm)|52.200.53.55|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:43 ERROR 404: Not Found.
+
+--2020-02-25 21:20:32--  http://www.lionfish.bm/assets/pdf/task_force_donation_instructions.pdf%0D
+Resolving www.lionfish.bm (www.lionfish.bm)... 52.200.53.55
+Connecting to www.lionfish.bm (www.lionfish.bm)|52.200.53.55|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lionfish.bm/assets/pdf/task_force_donation_instructions.pdf%0d [following]
+--2020-02-25 21:20:32--  https://www.lionfish.bm/assets/pdf/task_force_donation_instructions.pdf%0d
+Connecting to www.lionfish.bm (www.lionfish.bm)|52.200.53.55|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:33 ERROR 404: Not Found.
+

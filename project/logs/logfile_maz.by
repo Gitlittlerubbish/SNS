@@ -1,0 +1,12 @@
+--2020-02-25 21:07:07--  http://maz.by/media/2146/1_642290.pdf%0D
+Resolving maz.by (maz.by)... 86.57.135.9
+Connecting to maz.by (maz.by)|86.57.135.9|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:07:07 ERROR 400: Bad Request.
+
+--2020-02-25 21:17:16--  http://maz.by/media/2146/1_642290.pdf%0D
+Resolving maz.by (maz.by)... 86.57.135.9
+Connecting to maz.by (maz.by)|86.57.135.9|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:17:16 ERROR 400: Bad Request.
+

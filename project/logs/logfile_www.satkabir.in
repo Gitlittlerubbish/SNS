@@ -1,0 +1,32 @@
+--2020-02-25 22:49:57--  https://www.satkabir.in/consp_doc/japjisahib.pdf%0D
+Resolving www.satkabir.in (www.satkabir.in)... 116.206.105.72
+Connecting to www.satkabir.in (www.satkabir.in)|116.206.105.72|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://satkabir.in/index.php [following]
+--2020-02-25 22:49:57--  http://satkabir.in/index.php
+Resolving satkabir.in (satkabir.in)... 116.206.105.72
+Connecting to satkabir.in (satkabir.in)|116.206.105.72|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .....                             307K=0.7s
+
+2020-02-25 22:49:58 (307 Kb/s) - ‘/dev/null’ saved [25767]
+
+--2020-02-25 22:49:58--  https://www.satkabir.in/consp_doc/japjisahib.pdf%0D
+Resolving www.satkabir.in (www.satkabir.in)... 116.206.105.72
+Connecting to www.satkabir.in (www.satkabir.in)|116.206.105.72|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://satkabir.in/index.php [following]
+--2020-02-25 22:49:59--  http://satkabir.in/index.php
+Resolving satkabir.in (satkabir.in)... 116.206.105.72
+Connecting to satkabir.in (satkabir.in)|116.206.105.72|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .....                             515K=0.4s
+
+2020-02-25 22:50:00 (515 Kb/s) - ‘/dev/null’ saved [25767]
+

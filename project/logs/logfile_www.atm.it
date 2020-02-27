@@ -1,0 +1,6 @@
+--2020-02-25 23:00:28--  https://www.atm.it/SiteCollectionDocuments/atm_famiglia.pdf%0D
+Resolving www.atm.it (www.atm.it)... 151.14.9.142
+Connecting to www.atm.it (www.atm.it)|151.14.9.142|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:28 ERROR 400: Bad Request.
+

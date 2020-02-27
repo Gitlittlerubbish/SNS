@@ -1,0 +1,12 @@
+--2020-02-25 22:12:23--  http://www.monofeya.gov.eg/natega/DocLib/%25D9%2582%25D9%2588%25D9%258A%25D8%25B3%25D9%2586%25D8%25A7.pdf%0D
+Resolving www.monofeya.gov.eg (www.monofeya.gov.eg)... 52.169.136.132
+Connecting to www.monofeya.gov.eg (www.monofeya.gov.eg)|52.169.136.132|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:12:24 ERROR 400: Bad Request.
+
+--2020-02-25 22:13:14--  http://www.monofeya.gov.eg/natega/DocLib/%25D9%2582%25D9%2588%25D9%258A%25D8%25B3%25D9%2586%25D8%25A7.pdf%0D
+Resolving www.monofeya.gov.eg (www.monofeya.gov.eg)... 52.169.136.132
+Connecting to www.monofeya.gov.eg (www.monofeya.gov.eg)|52.169.136.132|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:13:14 ERROR 400: Bad Request.
+

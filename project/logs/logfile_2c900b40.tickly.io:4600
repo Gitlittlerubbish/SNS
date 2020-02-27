@@ -1,0 +1,32 @@
+--2020-02-25 21:24:57--  https://2c900b40.tickly.io:4600/chart/index/artist%0D
+Resolving 2c900b40.tickly.io (2c900b40.tickly.io)... 194.88.107.64
+Connecting to 2c900b40.tickly.io (2c900b40.tickly.io)|194.88.107.64|:4600... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2c900b40.tickly.io/chart/index/artist%0D [following]
+--2020-02-25 21:24:58--  https://2c900b40.tickly.io/chart/index/artist%0D
+Connecting to 2c900b40.tickly.io (2c900b40.tickly.io)|194.88.107.64|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://hs--www--billboard--com.tickly.io/chart/index/artist%0D [following]
+--2020-02-25 21:24:58--  https://hs--www--billboard--com.tickly.io/chart/index/artist%0D
+Resolving hs--www--billboard--com.tickly.io (hs--www--billboard--com.tickly.io)... 194.88.107.64
+Connecting to hs--www--billboard--com.tickly.io (hs--www--billboard--com.tickly.io)|194.88.107.64|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Syntax error in Set-Cookie: __cfduid=d6af3da354ab48cafdcffc7e664948b421582665898; expires=Thu, 26-Mar-20 21:24:58 GMT; path=/; Domain=hs--www--billboard--com.tickly.io;; HttpOnly; SameSite=Lax; Secure at position 140.
+2020-02-25 21:24:58 ERROR 404: Not Found.
+
+--2020-02-25 21:30:15--  https://2c900b40.tickly.io:4600/chart/index/artist%0D
+Resolving 2c900b40.tickly.io (2c900b40.tickly.io)... 194.88.107.64
+Connecting to 2c900b40.tickly.io (2c900b40.tickly.io)|194.88.107.64|:4600... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://2c900b40.tickly.io/chart/index/artist%0D [following]
+--2020-02-25 21:30:15--  https://2c900b40.tickly.io/chart/index/artist%0D
+Connecting to 2c900b40.tickly.io (2c900b40.tickly.io)|194.88.107.64|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://hs--www--billboard--com.tickly.io/chart/index/artist%0D [following]
+--2020-02-25 21:30:15--  https://hs--www--billboard--com.tickly.io/chart/index/artist%0D
+Resolving hs--www--billboard--com.tickly.io (hs--www--billboard--com.tickly.io)... 194.88.107.64
+Connecting to hs--www--billboard--com.tickly.io (hs--www--billboard--com.tickly.io)|194.88.107.64|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Syntax error in Set-Cookie: __cfduid=d301e680b8a503567faa4ba8417a5df161582666215; expires=Thu, 26-Mar-20 21:30:15 GMT; path=/; Domain=hs--www--billboard--com.tickly.io;; HttpOnly; SameSite=Lax; Secure at position 140.
+2020-02-25 21:30:16 ERROR 404: Not Found.
+

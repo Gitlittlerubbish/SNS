@@ -1,0 +1,6 @@
+--2020-02-25 22:46:04--  https://www.cad.gov.hk/Arrangement/hkcad_faa.pdf%0D
+Resolving www.cad.gov.hk (www.cad.gov.hk)... 143.204.175.81, 143.204.175.75, 143.204.175.125, ...
+Connecting to www.cad.gov.hk (www.cad.gov.hk)|143.204.175.81|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:46:05 ERROR 404: Not Found.
+

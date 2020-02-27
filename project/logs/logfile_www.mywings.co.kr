@@ -1,0 +1,12 @@
+--2020-02-25 23:12:08--  http://www.mywings.co.kr/mywings/images/banner/cfa_Texas_Instrument_info.pdf%0D
+Resolving www.mywings.co.kr (www.mywings.co.kr)... 218.38.137.226
+Connecting to www.mywings.co.kr (www.mywings.co.kr)|218.38.137.226|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:12:09 ERROR 400: Bad Request.
+
+--2020-02-25 23:12:16--  http://www.mywings.co.kr/mywings/images/banner/cfa_Texas_Instrument_info.pdf%0D
+Resolving www.mywings.co.kr (www.mywings.co.kr)... 218.38.137.226
+Connecting to www.mywings.co.kr (www.mywings.co.kr)|218.38.137.226|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:12:16 ERROR 400: Bad Request.
+

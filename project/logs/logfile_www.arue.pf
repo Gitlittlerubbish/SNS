@@ -1,0 +1,20 @@
+--2020-02-25 22:24:27--  http://www.arue.pf/vea/vea-arue-182.pdf%0D
+Resolving www.arue.pf (www.arue.pf)... --2020-02-25 22:24:27--  http://www.arue.pf/vea/vea-arue-182.pdf%0D
+Resolving www.arue.pf (www.arue.pf)... 103.46.218.18
+Connecting to www.arue.pf (www.arue.pf)|103.46.218.18|:80... 103.46.218.18
+Connecting to www.arue.pf (www.arue.pf)|103.46.218.18|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.arue.pf/vea/vea-arue-182.pdf%0D [following]
+--2020-02-25 22:24:28--  https://www.arue.pf/vea/vea-arue-182.pdf%0D
+Connecting to www.arue.pf (www.arue.pf)|103.46.218.18|:443... 301 Moved Permanently
+Location: https://www.arue.pf/vea/vea-arue-182.pdf%0D [following]
+--2020-02-25 22:24:28--  https://www.arue.pf/vea/vea-arue-182.pdf%0D
+Connecting to www.arue.pf (www.arue.pf)|103.46.218.18|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:24:29 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:24:29 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:54:22--  http://www.isbn.ir/forms/IsbnRules.aspx%0D
+Resolving www.isbn.ir (www.isbn.ir)... 164.138.18.196
+Connecting to www.isbn.ir (www.isbn.ir)|164.138.18.196|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:54:23 ERROR 400: Bad Request.
+

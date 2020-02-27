@@ -1,0 +1,20 @@
+--2020-02-25 22:06:10--  http://www.bikeacademy.dk/watt.pdf%0D
+Resolving www.bikeacademy.dk (www.bikeacademy.dk)... --2020-02-25 22:06:10--  http://www.bikeacademy.dk/watt.pdf%0D
+Resolving www.bikeacademy.dk (www.bikeacademy.dk)... 77.111.240.41
+Connecting to www.bikeacademy.dk (www.bikeacademy.dk)|77.111.240.41|:80... 77.111.240.41
+Connecting to www.bikeacademy.dk (www.bikeacademy.dk)|77.111.240.41|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bikeacademy.dk/watt.pdf%0d [following]
+--2020-02-25 22:06:11--  https://www.bikeacademy.dk/watt.pdf%0d
+Connecting to www.bikeacademy.dk (www.bikeacademy.dk)|77.111.240.41|:443... 301 Moved Permanently
+Location: https://www.bikeacademy.dk/watt.pdf%0d [following]
+--2020-02-25 22:06:11--  https://www.bikeacademy.dk/watt.pdf%0d
+Connecting to www.bikeacademy.dk (www.bikeacademy.dk)|77.111.240.41|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:06:11 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:06:11 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:50:07--  https://www.allahabadbank.in/pdf/Funds_transfer_limit_IB.pdf%0D
+Resolving www.allahabadbank.in (www.allahabadbank.in)... 180.179.125.152
+Connecting to www.allahabadbank.in (www.allahabadbank.in)|180.179.125.152|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:08 ERROR 400: Bad Request.
+

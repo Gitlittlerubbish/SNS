@@ -1,0 +1,12 @@
+--2020-02-25 21:52:33--  https://www.directv.com.co/pdf_colombia/instalacion.pdf%0D
+Resolving www.directv.com.co (www.directv.com.co)... 99.84.5.41, 99.84.5.28, 99.84.5.33, ...
+Connecting to www.directv.com.co (www.directv.com.co)|99.84.5.41|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:52:34 ERROR 403: Forbidden.
+
+--2020-02-25 21:52:34--  https://www.directv.com.co/pdf_colombia/instalacion.pdf%0D
+Resolving www.directv.com.co (www.directv.com.co)... 99.84.5.28, 99.84.5.33, 99.84.5.42, ...
+Connecting to www.directv.com.co (www.directv.com.co)|99.84.5.28|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:52:34 ERROR 403: Forbidden.
+

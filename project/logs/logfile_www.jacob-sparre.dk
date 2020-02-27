@@ -1,0 +1,12 @@
+--2020-02-25 22:06:37--  http://www.jacob-sparre.dk/reliability/privacy_leaks.pdf%0D
+Resolving www.jacob-sparre.dk (www.jacob-sparre.dk)... --2020-02-25 22:06:37--  http://www.jacob-sparre.dk/reliability/privacy_leaks.pdf%0D
+Resolving www.jacob-sparre.dk (www.jacob-sparre.dk)... 37.97.186.237
+Connecting to www.jacob-sparre.dk (www.jacob-sparre.dk)|37.97.186.237|:80... 37.97.186.237
+Connecting to www.jacob-sparre.dk (www.jacob-sparre.dk)|37.97.186.237|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:06:37 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:06:37 ERROR 404: Not Found.
+

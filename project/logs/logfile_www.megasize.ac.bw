@@ -1,0 +1,12 @@
+--2020-02-25 21:18:00--  http://www.megasize.ac.bw/docs/2018_Calender_New_A2.pdf%0D
+Resolving www.megasize.ac.bw (www.megasize.ac.bw)... 77.104.153.125
+Connecting to www.megasize.ac.bw (www.megasize.ac.bw)|77.104.153.125|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:01 ERROR 404: Not Found.
+
+--2020-02-25 21:24:58--  http://www.megasize.ac.bw/docs/2018_Calender_New_A2.pdf%0D
+Resolving www.megasize.ac.bw (www.megasize.ac.bw)... 77.104.153.125
+Connecting to www.megasize.ac.bw (www.megasize.ac.bw)|77.104.153.125|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:59 ERROR 404: Not Found.
+

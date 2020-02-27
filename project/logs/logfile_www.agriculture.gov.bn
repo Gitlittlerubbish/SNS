@@ -1,0 +1,12 @@
+--2020-02-25 21:25:58--  http://www.agriculture.gov.bn/SiteCollectionDocuments/Brochures/Majalah_Agribisnes.pdf%0D
+Resolving www.agriculture.gov.bn (www.agriculture.gov.bn)... 103.4.188.86
+Connecting to www.agriculture.gov.bn (www.agriculture.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:59 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:16--  http://www.agriculture.gov.bn/SiteCollectionDocuments/Brochures/Majalah_Agribisnes.pdf%0D
+Resolving www.agriculture.gov.bn (www.agriculture.gov.bn)... 103.4.188.86
+Connecting to www.agriculture.gov.bn (www.agriculture.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:16 ERROR 400: Bad Request.
+

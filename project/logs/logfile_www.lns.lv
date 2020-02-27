@@ -1,0 +1,24 @@
+--2020-02-25 23:20:34--  http://www.lns.lv/files/text/Prezentacija_UG_lekc.pdf%0D
+Resolving www.lns.lv (www.lns.lv)... 104.28.11.57, 104.28.10.57
+Connecting to www.lns.lv (www.lns.lv)|104.28.11.57|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.lns.lv attempted to set domain to lns.lv
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                              6.17M=0.03s
+
+2020-02-25 23:20:34 (6.17 Mb/s) - ‘/dev/null’ saved [23553]
+
+--2020-02-25 23:20:34--  http://www.lns.lv/files/text/Prezentacija_UG_lekc.pdf%0D
+Resolving www.lns.lv (www.lns.lv)... 104.28.10.57, 104.28.11.57
+Connecting to www.lns.lv (www.lns.lv)|104.28.10.57|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.lns.lv attempted to set domain to lns.lv
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                              5.30M=0.04s
+
+2020-02-25 23:20:35 (5.30 Mb/s) - ‘/dev/null’ saved [23553]
+

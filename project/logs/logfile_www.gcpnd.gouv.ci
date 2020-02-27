@@ -1,0 +1,30 @@
+--2020-02-25 22:00:06--  http://www.gcpnd.gouv.ci/images/Book_projets_GCPND.pdf%0D
+Resolving www.gcpnd.gouv.ci (www.gcpnd.gouv.ci)... --2020-02-25 22:00:06--  http://www.gcpnd.gouv.ci/images/Book_projets_GCPND.pdf%0D
+Resolving www.gcpnd.gouv.ci (www.gcpnd.gouv.ci)... 164.160.41.77
+Connecting to www.gcpnd.gouv.ci (www.gcpnd.gouv.ci)|164.160.41.77|:80... 164.160.41.77
+Connecting to www.gcpnd.gouv.ci (www.gcpnd.gouv.ci)|164.160.41.77|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 22:00:07--  http://secure.sndi.ci/Interdit.xml
+Resolving secure.sndi.ci (secure.sndi.ci)... 164.160.41.79
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:80... 302 Found
+Location: http://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 22:00:07--  http://secure.sndi.ci/Interdit.xml
+Resolving secure.sndi.ci (secure.sndi.ci)... 164.160.41.79
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 22:00:07--  https://secure.sndi.ci/Interdit.xml
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:443... 301 Moved Permanently
+Location: https://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 22:00:07--  https://secure.sndi.ci/Interdit.xml
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+Read error (Connection timed out) in headers.
+Giving up.
+

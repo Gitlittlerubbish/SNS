@@ -1,0 +1,12 @@
+--2020-02-25 22:16:08--  https://aesmitth.gq/publish/logos/Charte__communication_gouvernementale.pdf%0D
+Resolving aesmitth.gq (aesmitth.gq)... 104.27.158.128, 104.27.159.128
+Connecting to aesmitth.gq (aesmitth.gq)|104.27.158.128|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 22:16:21--  https://aesmitth.gq/publish/logos/Charte__communication_gouvernementale.pdf%0D
+Resolving aesmitth.gq (aesmitth.gq)... 104.27.159.128, 104.27.158.128
+Connecting to aesmitth.gq (aesmitth.gq)|104.27.159.128|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

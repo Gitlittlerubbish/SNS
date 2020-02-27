@@ -1,0 +1,12 @@
+--2020-02-25 21:38:32--  http://m.avcomwireless.ky/Documents/WNS_LimitedWarranty.pdf%0D
+Resolving m.avcomwireless.ky (m.avcomwireless.ky)... 65.254.250.110
+Connecting to m.avcomwireless.ky (m.avcomwireless.ky)|65.254.250.110|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:38:32 ERROR 400: Bad Request.
+
+--2020-02-25 21:39:48--  http://m.avcomwireless.ky/Documents/WNS_LimitedWarranty.pdf%0D
+Resolving m.avcomwireless.ky (m.avcomwireless.ky)... 65.254.250.110
+Connecting to m.avcomwireless.ky (m.avcomwireless.ky)|65.254.250.110|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:39:49 ERROR 400: Bad Request.
+

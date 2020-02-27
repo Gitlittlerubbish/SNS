@@ -1,0 +1,20 @@
+--2020-02-26 00:01:14--  https://www.nta.com.na/ID831CarryoutRCMactivitiesusingatiptruck.pdf%0D
+Resolving www.nta.com.na (www.nta.com.na)... 102.67.136.82
+Connecting to www.nta.com.na (www.nta.com.na)|102.67.136.82|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nta.com.na/ID831CarryoutRCMactivitiesusingatiptruck.pdf/ [following]
+--2020-02-26 00:01:15--  https://www.nta.com.na/ID831CarryoutRCMactivitiesusingatiptruck.pdf/
+Reusing existing connection to www.nta.com.na:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:01:17 ERROR 404: Not Found.
+
+--2020-02-26 00:01:17--  https://www.nta.com.na/853Developandimplementeffectivecommunicationsystemsforhealthandsafetyinformation.pdf%0D
+Resolving www.nta.com.na (www.nta.com.na)... 102.67.136.82
+Connecting to www.nta.com.na (www.nta.com.na)|102.67.136.82|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nta.com.na/853Developandimplementeffectivecommunicationsystemsforhealthandsafetyinformation.pdf/ [following]
+--2020-02-26 00:01:18--  https://www.nta.com.na/853Developandimplementeffectivecommunicationsystemsforhealthandsafetyinformation.pdf/
+Reusing existing connection to www.nta.com.na:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:01:19 ERROR 404: Not Found.
+

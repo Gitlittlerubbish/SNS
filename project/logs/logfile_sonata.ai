@@ -1,0 +1,6 @@
+--2020-02-25 21:03:39--  https://sonata.ai/documents/whitepaper-en.pdf%0D
+Resolving sonata.ai (sonata.ai)... 104.26.0.114, 104.26.1.114
+Connecting to sonata.ai (sonata.ai)|104.26.0.114|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:03:39 ERROR 500: Internal Server Error.
+

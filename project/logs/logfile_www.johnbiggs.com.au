@@ -1,0 +1,12 @@
+--2020-02-25 20:56:37--  http://www.johnbiggs.com.au/pdf/ex_2factor_spq.pdf%0D
+Resolving www.johnbiggs.com.au (www.johnbiggs.com.au)... 103.27.32.36
+Connecting to www.johnbiggs.com.au (www.johnbiggs.com.au)|103.27.32.36|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:56:38 ERROR 404: Not Found.
+
+--2020-02-25 21:09:10--  http://www.johnbiggs.com.au/pdf/ex_2factor_spq.pdf%0D
+Resolving www.johnbiggs.com.au (www.johnbiggs.com.au)... 103.27.32.36
+Connecting to www.johnbiggs.com.au (www.johnbiggs.com.au)|103.27.32.36|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:12 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:00:42--  https://www.gavroprom.hr/_SHOP/files/products/ECO_Prim_Grip.pdf%0D
+--2020-02-25 22:00:42--  https://www.gavroprom.hr/_SHOP/files/products/ECO_Prim_Grip.pdf%0D
+Resolving www.gavroprom.hr (www.gavroprom.hr)... Resolving www.gavroprom.hr (www.gavroprom.hr)... 91.235.170.172
+Connecting to www.gavroprom.hr (www.gavroprom.hr)|91.235.170.172|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:00:43 ERROR 400: Bad Request.
+
+91.235.170.172
+Connecting to www.gavroprom.hr (www.gavroprom.hr)|91.235.170.172|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:00:43 ERROR 400: Bad Request.
+

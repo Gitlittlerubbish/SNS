@@ -1,0 +1,12 @@
+--2020-02-25 21:14:31--  http://www.dahe.gov.bt/images/pdf/Advisory_note_CoV.pdf%0D
+Resolving www.dahe.gov.bt (www.dahe.gov.bt)... 103.78.116.181
+Connecting to www.dahe.gov.bt (www.dahe.gov.bt)|103.78.116.181|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:33 ERROR 400: Bad Request.
+
+--2020-02-25 21:22:25--  http://www.dahe.gov.bt/images/pdf/Advisory_note_CoV.pdf%0D
+Resolving www.dahe.gov.bt (www.dahe.gov.bt)... 103.78.116.181
+Connecting to www.dahe.gov.bt (www.dahe.gov.bt)|103.78.116.181|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:22:25 ERROR 400: Bad Request.
+

@@ -1,0 +1,19 @@
+--2020-02-26 00:42:10--  http://saniluz.pt/uploads/tabela_ideal_delta_2010.pdf%0D
+Resolving saniluz.pt (saniluz.pt)... 94.76.208.190
+Connecting to saniluz.pt (saniluz.pt)|94.76.208.190|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://saniluz.pt/uploads/tabela_ideal_delta_2010.pdf%0d [following]
+--2020-02-26 00:42:10--  https://saniluz.pt/uploads/tabela_ideal_delta_2010.pdf%0d
+Connecting to saniluz.pt (saniluz.pt)|94.76.208.190|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.saniluz.pt/uploads/tabela_ideal_delta_2010.pdf%0d [following]
+--2020-02-26 00:42:10--  http://www.saniluz.pt/uploads/tabela_ideal_delta_2010.pdf%0d
+Resolving www.saniluz.pt (www.saniluz.pt)... 94.76.208.190
+Connecting to www.saniluz.pt (www.saniluz.pt)|94.76.208.190|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.saniluz.pt/uploads/tabela_ideal_delta_2010.pdf%0d [following]
+--2020-02-26 00:42:10--  https://www.saniluz.pt/uploads/tabela_ideal_delta_2010.pdf%0d
+Connecting to www.saniluz.pt (www.saniluz.pt)|94.76.208.190|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:42:11 ERROR 404: Not Found.
+

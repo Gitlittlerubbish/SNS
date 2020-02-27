@@ -1,0 +1,12 @@
+--2020-02-25 20:59:56--  https://www.acv.at/Anfahrtsplan_neu.pdf%3F6snw4i%0D
+Resolving www.acv.at (www.acv.at)... 85.158.225.79
+Connecting to www.acv.at (www.acv.at)|85.158.225.79|:443... connected.
+HTTP request sent, awaiting response... 404 404
+2020-02-25 20:59:57 ERROR 404: 404.
+
+--2020-02-25 21:11:59--  https://www.acv.at/Anfahrtsplan_neu.pdf%3F6snw4i%0D
+Resolving www.acv.at (www.acv.at)... 85.158.225.79
+Connecting to www.acv.at (www.acv.at)|85.158.225.79|:443... connected.
+HTTP request sent, awaiting response... 404 404
+2020-02-25 21:11:59 ERROR 404: 404.
+

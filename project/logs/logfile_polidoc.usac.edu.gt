@@ -1,0 +1,12 @@
+--2020-02-25 22:37:06--  http://polidoc.usac.edu.gt/digital/e30.pdf%0D
+Resolving polidoc.usac.edu.gt (polidoc.usac.edu.gt)... --2020-02-25 22:37:06--  http://polidoc.usac.edu.gt/digital/e30.pdf%0D
+Resolving polidoc.usac.edu.gt (polidoc.usac.edu.gt)... 168.234.75.245
+Connecting to polidoc.usac.edu.gt (polidoc.usac.edu.gt)|168.234.75.245|:80... 168.234.75.245
+Connecting to polidoc.usac.edu.gt (polidoc.usac.edu.gt)|168.234.75.245|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:37:06 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:37:06 ERROR 400: Bad Request.
+

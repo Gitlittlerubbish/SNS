@@ -1,0 +1,6 @@
+--2020-02-25 22:41:19--  http://www.devnet.org.gy/files/final_iped_ecommercereport_corrected_jan2010.pdf%0D
+Resolving www.devnet.org.gy (www.devnet.org.gy)... 68.66.216.5
+Connecting to www.devnet.org.gy (www.devnet.org.gy)|68.66.216.5|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:41:20 ERROR 404: Not Found.
+

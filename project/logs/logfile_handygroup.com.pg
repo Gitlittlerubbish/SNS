@@ -1,0 +1,12 @@
+--2020-02-26 00:29:06--  http://handygroup.com.pg/admin/media/1520816204Generic_Company_Profile.compressed%0D
+Resolving handygroup.com.pg (handygroup.com.pg)... 202.146.215.18
+Connecting to handygroup.com.pg (handygroup.com.pg)|202.146.215.18|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:29:07 ERROR 404: Not Found.
+
+--2020-02-26 00:31:21--  http://handygroup.com.pg/admin/media/1520816204Generic_Company_Profile.compressed%0D
+Resolving handygroup.com.pg (handygroup.com.pg)... 202.146.215.18
+Connecting to handygroup.com.pg (handygroup.com.pg)|202.146.215.18|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:31:21 ERROR 404: Not Found.
+

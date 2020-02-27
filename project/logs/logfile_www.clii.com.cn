@@ -1,0 +1,12 @@
+--2020-02-25 21:45:59--  http://www.clii.com.cn/lhrh/hyxx/201809/P020180917100214.pdf%0D
+Resolving www.clii.com.cn (www.clii.com.cn)... 219.232.102.7
+Connecting to www.clii.com.cn (www.clii.com.cn)|219.232.102.7|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:46:00 ERROR 404: Not Found.
+
+--2020-02-25 21:46:20--  http://www.clii.com.cn/lhrh/hyxx/201809/P020180917100214.pdf%0D
+Resolving www.clii.com.cn (www.clii.com.cn)... 219.232.102.7
+Connecting to www.clii.com.cn (www.clii.com.cn)|219.232.102.7|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:46:20 ERROR 404: Not Found.
+

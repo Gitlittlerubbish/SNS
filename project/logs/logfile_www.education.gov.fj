@@ -1,0 +1,6 @@
+--2020-02-25 22:21:42--  http://www.education.gov.fj/wp-content/uploads/Contacts/HR_MEHA_EnquiryEmails.pdf%0D
+Resolving www.education.gov.fj (www.education.gov.fj)... --2020-02-25 22:21:42--  http://www.education.gov.fj/wp-content/uploads/Contacts/HR_MEHA_EnquiryEmails.pdf%0D
+Resolving www.education.gov.fj (www.education.gov.fj)... failed: Connection timed out.
+wget: unable to resolve host address ‘www.education.gov.fj’
+failed: Connection timed out.
+wget: unable to resolve host address ‘www.education.gov.fj’

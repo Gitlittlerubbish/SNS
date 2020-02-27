@@ -1,0 +1,42 @@
+--2020-02-25 21:01:24--  http://www.afrox.co.ao/en/images/AnnualReport_2009_tcm748-27599.pdf%0D
+Resolving www.afrox.co.ao (www.afrox.co.ao)... 2.22.137.153
+Connecting to www.afrox.co.ao (www.afrox.co.ao)|2.22.137.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.afrox.co.za [following]
+--2020-02-25 21:01:24--  http://www.afrox.co.za/
+Resolving www.afrox.co.za (www.afrox.co.za)... 2.22.137.153
+Reusing existing connection to www.afrox.co.ao:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.afrox.co.za/en/index.html [following]
+--2020-02-25 21:01:24--  http://www.afrox.co.za/en/index.html
+Reusing existing connection to www.afrox.co.ao:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 80.5M
+    50K .......... .......... .......... ......                67.6M=0.009s
+
+2020-02-25 21:01:24 (74.5 Mb/s) - ‘/dev/null’ saved [88273]
+
+--2020-02-25 21:01:24--  http://www.afrox.co.ao/en/images/AnnualReport_2009_tcm748-27599.pdf%0D
+Resolving www.afrox.co.ao (www.afrox.co.ao)... 2.22.137.153
+Connecting to www.afrox.co.ao (www.afrox.co.ao)|2.22.137.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.afrox.co.za [following]
+--2020-02-25 21:01:25--  http://www.afrox.co.za/
+Resolving www.afrox.co.za (www.afrox.co.za)... 2.22.137.153
+Reusing existing connection to www.afrox.co.ao:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.afrox.co.za/en/index.html [following]
+--2020-02-25 21:01:25--  http://www.afrox.co.za/en/index.html
+Reusing existing connection to www.afrox.co.ao:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  159M
+    50K .......... .......... .......... ......                 127M=0.005s
+
+2020-02-25 21:01:25 (144 Mb/s) - ‘/dev/null’ saved [88273]
+

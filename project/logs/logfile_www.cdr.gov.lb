@@ -1,0 +1,6 @@
+--2020-02-25 23:20:59--  http://www.cdr.gov.lb/study/ESIAAinbaalFinal.pdf%0D
+Resolving www.cdr.gov.lb (www.cdr.gov.lb)... 194.126.17.106
+Connecting to www.cdr.gov.lb (www.cdr.gov.lb)|194.126.17.106|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:20:59 ERROR 400: Bad Request.
+

@@ -1,0 +1,22 @@
+--2020-02-25 21:01:36--  https://www.ine.gov.ao/images/TR_Registradores_Revisto_03_01_2020.pdf%0D
+Resolving www.ine.gov.ao (www.ine.gov.ao)... 105.174.31.162
+Connecting to www.ine.gov.ao (www.ine.gov.ao)|105.174.31.162|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 39.0M=0s
+
+2020-02-25 21:01:37 (39.0 Mb/s) - ‘/dev/null’ saved [13/13]
+
+--2020-02-25 21:01:37--  https://www.ine.gov.ao/images/TR_Registradores_Revisto_03_01_2020.pdf%0D
+Resolving www.ine.gov.ao (www.ine.gov.ao)... 105.174.31.162
+Connecting to www.ine.gov.ao (www.ine.gov.ao)|105.174.31.162|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 38.1M=0s
+
+2020-02-25 21:01:38 (38.1 Mb/s) - ‘/dev/null’ saved [13/13]
+

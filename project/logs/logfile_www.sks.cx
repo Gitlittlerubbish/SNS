@@ -1,0 +1,12 @@
+--2020-02-25 21:48:12--  http://www.sks.cx/docs/jma/eccobitmanual.pdf%0D
+Resolving www.sks.cx (www.sks.cx)... --2020-02-25 21:48:12--  http://www.sks.cx/docs/jma/eccobitmanual.pdf%0D
+Resolving www.sks.cx (www.sks.cx)... 94.136.40.103
+Connecting to www.sks.cx (www.sks.cx)|94.136.40.103|:80... 94.136.40.103
+Connecting to www.sks.cx (www.sks.cx)|94.136.40.103|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:48:12 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 21:48:12 ERROR 404: Not Found.
+

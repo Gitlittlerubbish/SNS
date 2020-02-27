@@ -1,0 +1,10 @@
+--2020-02-25 23:20:02--  https://www.lu.lv/sadarbiba/reklamas-iespejas/%0D
+Resolving www.lu.lv (www.lu.lv)... 5.179.1.160
+Connecting to www.lu.lv (www.lu.lv)|5.179.1.160|:443... connected.
+HTTP request sent, awaiting response... 301 TYPO3 RealURL redirect
+Location: https://www.lu.lv/sadarbiba/reklamas-iespejas/%0D/ [following]
+--2020-02-25 23:20:03--  https://www.lu.lv/sadarbiba/reklamas-iespejas/%0D/
+Connecting to www.lu.lv (www.lu.lv)|5.179.1.160|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:20:03 ERROR 404: Not Found.
+

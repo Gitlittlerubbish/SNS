@@ -1,0 +1,6 @@
+--2020-02-25 21:01:54--  https://fundosoberano.ao/projects/6/files/portuguese_brochure.pdf%0D
+Resolving fundosoberano.ao (fundosoberano.ao)... 137.74.27.33
+Connecting to fundosoberano.ao (fundosoberano.ao)|137.74.27.33|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:54 ERROR 400: Bad Request.
+

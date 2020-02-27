@@ -1,0 +1,12 @@
+--2020-02-25 21:01:07--  http://www.folklor.az/arasdirmalar/atalar-sozleri.pdf%0D
+Resolving www.folklor.az (www.folklor.az)... 46.17.40.139
+Connecting to www.folklor.az (www.folklor.az)|46.17.40.139|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:07 ERROR 404: Not Found.
+
+--2020-02-25 21:12:43--  http://www.folklor.az/arasdirmalar/atalar-sozleri.pdf%0D
+Resolving www.folklor.az (www.folklor.az)... 46.17.40.139
+Connecting to www.folklor.az (www.folklor.az)|46.17.40.139|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:43 ERROR 404: Not Found.
+

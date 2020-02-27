@@ -1,0 +1,6 @@
+--2020-02-25 22:46:13--  https://www.eps.com.hk/document/EPS_merchantuserguide_chi.pdf%0D
+Resolving www.eps.com.hk (www.eps.com.hk)... 223.197.113.79
+Connecting to www.eps.com.hk (www.eps.com.hk)|223.197.113.79|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:46:15 ERROR 400: Bad Request.
+

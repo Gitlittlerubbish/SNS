@@ -1,0 +1,6 @@
+--2020-02-25 22:57:39--  https://www.gov.im/media/15509/ldconnectjuly2011.pdf%0D
+Resolving www.gov.im (www.gov.im)... 107.162.143.254
+Connecting to www.gov.im (www.gov.im)|107.162.143.254|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:57:39 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:54:23--  https://www.ict.gov.ir/report98.pdf%0D
+Resolving www.ict.gov.ir (www.ict.gov.ir)... 78.38.249.221
+Connecting to www.ict.gov.ir (www.ict.gov.ir)|78.38.249.221|:443... connected.
+ERROR: cannot verify www.ict.gov.ir's certificate, issued by ‘CN=Certum Domain Validation CA SHA2,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL’:
+  Unable to locally verify the issuer's authority.
+To connect to www.ict.gov.ir insecurely, use `--no-check-certificate'.

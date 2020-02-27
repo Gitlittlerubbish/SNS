@@ -1,0 +1,16 @@
+--2020-02-25 22:23:12--  https://m.bankofindia.fr/pdf/Form_15_G.pdf%0D
+Resolving m.bankofindia.fr (m.bankofindia.fr)... 49.50.92.254
+Connecting to m.bankofindia.fr (m.bankofindia.fr)|49.50.92.254|:443... --2020-02-25 22:23:12--  https://m.bankofindia.fr/pdf/Form_15_G.pdf%0D
+Resolving m.bankofindia.fr (m.bankofindia.fr)... 49.50.92.254
+Connecting to m.bankofindia.fr (m.bankofindia.fr)|49.50.92.254|:443... connected.
+connected.
+ERROR: cannot verify m.bankofindia.fr's certificate, issued by ‘CN=Entrust Certification Authority - L1M,OU=(c) 2014 Entrust\\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\\, Inc.,C=US’:
+  Unable to locally verify the issuer's authority.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘m.bankofindia.fr’.
+To connect to m.bankofindia.fr insecurely, use `--no-check-certificate'.
+ERROR: cannot verify m.bankofindia.fr's certificate, issued by ‘CN=Entrust Certification Authority - L1M,OU=(c) 2014 Entrust\\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\\, Inc.,C=US’:
+  Unable to locally verify the issuer's authority.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘m.bankofindia.fr’.
+To connect to m.bankofindia.fr insecurely, use `--no-check-certificate'.

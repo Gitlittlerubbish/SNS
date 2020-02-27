@@ -1,0 +1,6 @@
+--2020-02-25 23:20:43--  http://midclear.com.lb/About/ArticlesOfIncorporation%0D
+Resolving midclear.com.lb (midclear.com.lb)... 80.77.182.18
+Connecting to midclear.com.lb (midclear.com.lb)|80.77.182.18|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:20:44 ERROR 400: Bad Request.
+

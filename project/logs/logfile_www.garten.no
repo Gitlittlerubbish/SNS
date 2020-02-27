@@ -1,0 +1,6 @@
+--2020-02-26 00:22:28--  http://www.garten.no/garten/maler/Ferge_Brekstad_Valset.pdf%0D
+Resolving www.garten.no (www.garten.no)... 87.118.12.102
+Connecting to www.garten.no (www.garten.no)|87.118.12.102|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:28 ERROR 400: Bad Request.
+

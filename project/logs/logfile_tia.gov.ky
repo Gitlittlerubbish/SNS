@@ -1,0 +1,44 @@
+--2020-02-25 21:38:18--  http://tia.gov.ky/pdf/USA_CAA.pdf%0D
+Resolving tia.gov.ky (tia.gov.ky)... 209.27.55.215
+Connecting to tia.gov.ky (tia.gov.ky)|209.27.55.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         699M=0s
+
+2020-02-25 21:38:18 (699 Mb/s) - ‘/dev/null’ saved [730]
+
+--2020-02-25 21:38:18--  http://tia.gov.ky/pdf/USA_CAA.pdf%0D
+Resolving tia.gov.ky (tia.gov.ky)... 209.27.55.215
+Connecting to tia.gov.ky (tia.gov.ky)|209.27.55.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         835M=0s
+
+2020-02-25 21:38:18 (835 Mb/s) - ‘/dev/null’ saved [730]
+
+--2020-02-25 21:39:34--  http://tia.gov.ky/pdf/USA_CAA.pdf%0D
+Resolving tia.gov.ky (tia.gov.ky)... 209.27.55.215
+Connecting to tia.gov.ky (tia.gov.ky)|209.27.55.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        1.83G=0s
+
+2020-02-25 21:39:35 (1.83 Gb/s) - ‘/dev/null’ saved [730]
+
+--2020-02-25 21:39:35--  http://tia.gov.ky/pdf/USA_CAA.pdf%0D
+Resolving tia.gov.ky (tia.gov.ky)... 209.27.55.215
+Connecting to tia.gov.ky (tia.gov.ky)|209.27.55.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        1.85G=0s
+
+2020-02-25 21:39:36 (1.85 Gb/s) - ‘/dev/null’ saved [730]
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:19:25--  http://www.lubricantesshell.pdc.la/pdf/spirax.pdf%0D
+Resolving www.lubricantesshell.pdc.la (www.lubricantesshell.pdc.la)... 208.109.47.128
+Connecting to www.lubricantesshell.pdc.la (www.lubricantesshell.pdc.la)|208.109.47.128|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:19:25 ERROR 500: Internal Server Error.
+

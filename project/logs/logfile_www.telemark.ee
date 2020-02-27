@@ -1,0 +1,12 @@
+--2020-02-25 22:17:09--  http://www.telemark.ee/kasutusjuhendid/2045.pdf%0D
+Resolving www.telemark.ee (www.telemark.ee)... 217.146.78.5
+Connecting to www.telemark.ee (www.telemark.ee)|217.146.78.5|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:09 ERROR 404: Not Found.
+
+--2020-02-25 22:17:11--  http://www.telemark.ee/kasutusjuhendid/2045.pdf%0D
+Resolving www.telemark.ee (www.telemark.ee)... 217.146.78.5
+Connecting to www.telemark.ee (www.telemark.ee)|217.146.78.5|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:11 ERROR 404: Not Found.
+

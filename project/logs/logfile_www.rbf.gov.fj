@@ -1,0 +1,12 @@
+--2020-02-25 22:20:14--  http://www.rbf.gov.fj/docs/RBF_2006_Final_Report_Inpgs.pdf%0D
+Resolving www.rbf.gov.fj (www.rbf.gov.fj)... 103.244.230.120
+Connecting to www.rbf.gov.fj (www.rbf.gov.fj)|103.244.230.120|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:20:15 ERROR 400: Bad Request.
+
+--2020-02-25 22:20:15--  http://www.rbf.gov.fj/docs/RBF_2006_Final_Report_Inpgs.pdf%0D
+Resolving www.rbf.gov.fj (www.rbf.gov.fj)... 103.244.230.120
+Connecting to www.rbf.gov.fj (www.rbf.gov.fj)|103.244.230.120|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:20:16 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:00:38--  https://www.vup.hr/_Data/Files/150202155431199.pdf%0D
+Resolving www.vup.hr (www.vup.hr)... 193.198.66.19
+Connecting to www.vup.hr (www.vup.hr)|193.198.66.19|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:00:38 ERROR 400: Bad Request.
+
+--2020-02-25 22:00:39--  https://www.vup.hr/_Data/Files/150202155431199.pdf%0D
+Resolving www.vup.hr (www.vup.hr)... 193.198.66.19
+Connecting to www.vup.hr (www.vup.hr)|193.198.66.19|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:00:39 ERROR 400: Bad Request.
+

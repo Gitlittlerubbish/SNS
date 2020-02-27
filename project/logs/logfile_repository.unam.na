@@ -1,0 +1,36 @@
+--2020-02-26 00:02:11--  http://repository.unam.na/bitstream/handle/11070/2490/maroyi_plants_2015.pdf%3Fsequence%3D1%26isAllowed%3Dy%0D
+Resolving repository.unam.na (repository.unam.na)... 41.205.129.132
+Connecting to repository.unam.na (repository.unam.na)|41.205.129.132|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://repository.unam.edu.na/bitstream/handle/11070/2490/maroyi_plants_2015.pdf?sequence=1&isAllowed=y%0d [following]
+--2020-02-26 00:02:11--  http://repository.unam.edu.na/bitstream/handle/11070/2490/maroyi_plants_2015.pdf?sequence=1&isAllowed=y%0d
+Resolving repository.unam.edu.na (repository.unam.edu.na)... 41.205.129.132
+Reusing existing connection to repository.unam.na:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 138911 (136K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 1.06M 1s
+    50K .......... .......... .......... .......... .......... 73% 2.16M 0s
+   100K .......... .......... .......... .....                100%  434M=0.6s
+
+2020-02-26 00:02:13 (1.93 Mb/s) - ‘/dev/null’ saved [138911/138911]
+
+--2020-02-26 00:02:13--  http://repository.unam.na/bitstream/handle/11070/2490/maroyi_plants_2015.pdf%3Fsequence%3D1%26isAllowed%3Dy%0D
+Resolving repository.unam.na (repository.unam.na)... 41.205.129.132
+Connecting to repository.unam.na (repository.unam.na)|41.205.129.132|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://repository.unam.edu.na/bitstream/handle/11070/2490/maroyi_plants_2015.pdf?sequence=1&isAllowed=y%0d [following]
+--2020-02-26 00:02:13--  http://repository.unam.edu.na/bitstream/handle/11070/2490/maroyi_plants_2015.pdf?sequence=1&isAllowed=y%0d
+Resolving repository.unam.edu.na (repository.unam.edu.na)... 41.205.129.132
+Reusing existing connection to repository.unam.na:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 138911 (136K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 1.06M 1s
+    50K .......... .......... .......... .......... .......... 73% 2.10M 0s
+   100K .......... .......... .......... .....                100% 1.77G=0.6s
+
+2020-02-26 00:02:14 (1.91 Mb/s) - ‘/dev/null’ saved [138911/138911]
+

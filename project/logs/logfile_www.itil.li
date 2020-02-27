@@ -1,0 +1,6 @@
+--2020-02-25 23:24:18--  http://www.itil.li/ss_Release.pdf%0D
+Resolving www.itil.li (www.itil.li)... 217.26.55.185
+Connecting to www.itil.li (www.itil.li)|217.26.55.185|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:24:18 ERROR 404: Not Found.
+

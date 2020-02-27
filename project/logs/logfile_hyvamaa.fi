@@ -1,0 +1,84 @@
+--2020-02-25 22:21:54--  https://hyvamaa.fi/download_file/312/381%0D
+Resolving hyvamaa.fi (hyvamaa.fi)... 46.101.154.61
+Connecting to hyvamaa.fi (hyvamaa.fi)|46.101.154.61|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://hyvamaa.fi/application/files/1114/3038/6279/GPCDOC_GTDS_Shell_Morlina_S2_B_220_en_TDS_v2.pdf [following]
+--2020-02-25 22:21:55--  https://hyvamaa.fi/application/files/1114/3038/6279/GPCDOC_GTDS_Shell_Morlina_S2_B_220_en_TDS_v2.pdf
+Connecting to hyvamaa.fi (hyvamaa.fi)|46.101.154.61|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326191 (319K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 13.3M 0s
+    50K .......... .......... .......... .......... .......... 31% 26.8M 0s
+   100K .......... .......... .......... .......... .......... 47% 3.57G 0s
+   150K .......... .......... .......... .......... .......... 62% 26.9M 0s
+   200K .......... .......... .......... .......... .......... 78% 3.94G 0s
+   250K .......... .......... .......... .......... .......... 94% 5.30G 0s
+   300K .......... ........                                   100% 8.34G=0.06s
+
+2020-02-25 22:21:55 (42.3 Mb/s) - ‘/dev/null’ saved [326191/326191]
+
+--2020-02-25 22:21:55--  https://hyvamaa.fi/download_file/312/381%0D
+Resolving hyvamaa.fi (hyvamaa.fi)... 46.101.154.61
+Connecting to hyvamaa.fi (hyvamaa.fi)|46.101.154.61|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://hyvamaa.fi/application/files/1114/3038/6279/GPCDOC_GTDS_Shell_Morlina_S2_B_220_en_TDS_v2.pdf [following]
+--2020-02-25 22:21:55--  https://hyvamaa.fi/application/files/1114/3038/6279/GPCDOC_GTDS_Shell_Morlina_S2_B_220_en_TDS_v2.pdf
+Connecting to hyvamaa.fi (hyvamaa.fi)|46.101.154.61|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326191 (319K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 18.3M 0s
+    50K .......... .......... .......... .......... .......... 31% 36.9M 0s
+   100K .......... .......... .......... .......... .......... 47% 2.23G 0s
+   150K .......... .......... .......... .......... .......... 62% 37.2M 0s
+   200K .......... .......... .......... .......... .......... 78% 6.42G 0s
+   250K .......... .......... .......... .......... .......... 94% 7.36G 0s
+   300K .......... ........                                   100% 13.9M=0.06s
+
+2020-02-25 22:21:55 (46.9 Mb/s) - ‘/dev/null’ saved [326191/326191]
+
+--2020-02-25 22:21:56--  https://hyvamaa.fi/download_file/312/381%0D
+Resolving hyvamaa.fi (hyvamaa.fi)... 46.101.154.61
+Connecting to hyvamaa.fi (hyvamaa.fi)|46.101.154.61|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://hyvamaa.fi/application/files/1114/3038/6279/GPCDOC_GTDS_Shell_Morlina_S2_B_220_en_TDS_v2.pdf [following]
+--2020-02-25 22:21:56--  https://hyvamaa.fi/application/files/1114/3038/6279/GPCDOC_GTDS_Shell_Morlina_S2_B_220_en_TDS_v2.pdf
+Connecting to hyvamaa.fi (hyvamaa.fi)|46.101.154.61|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326191 (319K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 15.3M 0s
+    50K .......... .......... .......... .......... .......... 31% 30.9M 0s
+   100K .......... .......... .......... .......... .......... 47% 7.64G 0s
+   150K .......... .......... .......... .......... .......... 62% 30.8M 0s
+   200K .......... .......... .......... .......... .......... 78% 4.48G 0s
+   250K .......... .......... .......... .......... .......... 94% 31.1M 0s
+   300K .......... ........                                   100% 2.51G=0.07s
+
+2020-02-25 22:21:56 (39.1 Mb/s) - ‘/dev/null’ saved [326191/326191]
+
+--2020-02-25 22:21:56--  https://hyvamaa.fi/download_file/312/381%0D
+Resolving hyvamaa.fi (hyvamaa.fi)... 46.101.154.61
+Connecting to hyvamaa.fi (hyvamaa.fi)|46.101.154.61|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://hyvamaa.fi/application/files/1114/3038/6279/GPCDOC_GTDS_Shell_Morlina_S2_B_220_en_TDS_v2.pdf [following]
+--2020-02-25 22:21:56--  https://hyvamaa.fi/application/files/1114/3038/6279/GPCDOC_GTDS_Shell_Morlina_S2_B_220_en_TDS_v2.pdf
+Connecting to hyvamaa.fi (hyvamaa.fi)|46.101.154.61|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326191 (319K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 12.7M 0s
+    50K .......... .......... .......... .......... .......... 31% 25.5M 0s
+   100K .......... .......... .......... .......... .......... 47% 3.34G 0s
+   150K .......... .......... .......... .......... .......... 62% 6.69G 0s
+   200K .......... .......... .......... .......... .......... 78% 25.5M 0s
+   250K .......... .......... .......... .......... .......... 94% 7.59G 0s
+   300K .......... ........                                   100% 8.66G=0.06s
+
+2020-02-25 22:21:56 (40.3 Mb/s) - ‘/dev/null’ saved [326191/326191]
+

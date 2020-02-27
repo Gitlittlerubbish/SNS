@@ -1,0 +1,12 @@
+--2020-02-25 20:59:55--  http://www.das-wirtshaus.at/menue.pdf%0D
+Resolving www.das-wirtshaus.at (www.das-wirtshaus.at)... 85.13.135.29
+Connecting to www.das-wirtshaus.at (www.das-wirtshaus.at)|85.13.135.29|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:55 ERROR 404: Not Found.
+
+--2020-02-25 21:11:58--  http://www.das-wirtshaus.at/menue.pdf%0D
+Resolving www.das-wirtshaus.at (www.das-wirtshaus.at)... 85.13.135.29
+Connecting to www.das-wirtshaus.at (www.das-wirtshaus.at)|85.13.135.29|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:58 ERROR 404: Not Found.
+

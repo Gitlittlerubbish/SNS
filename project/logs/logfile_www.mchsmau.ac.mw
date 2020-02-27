@@ -1,0 +1,12 @@
+--2020-02-25 23:30:11--  http://www.mchsmau.ac.mw/2019selection.pdf%0D
+Resolving www.mchsmau.ac.mw (www.mchsmau.ac.mw)... 192.185.159.82
+Connecting to www.mchsmau.ac.mw (www.mchsmau.ac.mw)|192.185.159.82|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:30:12 ERROR 404: Not Found.
+
+--2020-02-25 23:30:42--  http://www.mchsmau.ac.mw/2019-MAU-ADVERT.pdf%0D
+Resolving www.mchsmau.ac.mw (www.mchsmau.ac.mw)... 192.185.159.82
+Connecting to www.mchsmau.ac.mw (www.mchsmau.ac.mw)|192.185.159.82|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:30:43 ERROR 404: Not Found.
+

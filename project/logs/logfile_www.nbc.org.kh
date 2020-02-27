@@ -1,0 +1,12 @@
+--2020-02-25 21:32:45--  https://www.nbc.org.kh/download_files/legislation/prakas_eng/37.pdf%0D
+Resolving www.nbc.org.kh (www.nbc.org.kh)... 117.120.31.125
+Connecting to www.nbc.org.kh (www.nbc.org.kh)|117.120.31.125|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:32:46 ERROR 403: Forbidden.
+
+--2020-02-25 21:35:40--  https://www.nbc.org.kh/download_files/legislation/prakas_eng/37.pdf%0D
+Resolving www.nbc.org.kh (www.nbc.org.kh)... 117.120.31.125
+Connecting to www.nbc.org.kh (www.nbc.org.kh)|117.120.31.125|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:35:42 ERROR 403: Forbidden.
+

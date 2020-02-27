@@ -1,0 +1,12 @@
+--2020-02-25 21:02:43--  https://mumtalakat.bh/financials/22.pdf%0D
+Resolving mumtalakat.bh (mumtalakat.bh)... 157.175.12.106
+Connecting to mumtalakat.bh (mumtalakat.bh)|157.175.12.106|:443... connected.
+ERROR: cannot verify mumtalakat.bh's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to mumtalakat.bh insecurely, use `--no-check-certificate'.
+--2020-02-25 21:14:05--  https://mumtalakat.bh/financials/22.pdf%0D
+Resolving mumtalakat.bh (mumtalakat.bh)... 157.175.12.106
+Connecting to mumtalakat.bh (mumtalakat.bh)|157.175.12.106|:443... connected.
+ERROR: cannot verify mumtalakat.bh's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to mumtalakat.bh insecurely, use `--no-check-certificate'.

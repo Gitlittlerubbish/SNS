@@ -1,0 +1,12 @@
+--2020-02-25 23:30:57--  http://www.sdi.ac.mw/sites/default/files/DPL8.pdf%0D
+Resolving www.sdi.ac.mw (www.sdi.ac.mw)... 192.254.186.85
+Connecting to www.sdi.ac.mw (www.sdi.ac.mw)|192.254.186.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:31:02 ERROR 404: Not Found.
+
+--2020-02-25 23:31:03--  http://www.sdi.ac.mw/sites/default/files/DPL8.pdf%0D
+Resolving www.sdi.ac.mw (www.sdi.ac.mw)... 192.254.186.85
+Connecting to www.sdi.ac.mw (www.sdi.ac.mw)|192.254.186.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:31:05 ERROR 404: Not Found.
+

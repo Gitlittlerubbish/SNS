@@ -1,0 +1,12 @@
+--2020-02-25 21:21:47--  http://www.ecoevol.ufg.br/adrimelo/ecossistemas/Lindeman1942.pdf%0D
+Resolving www.ecoevol.ufg.br (www.ecoevol.ufg.br)... 200.137.218.130
+Connecting to www.ecoevol.ufg.br (www.ecoevol.ufg.br)|200.137.218.130|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:49 ERROR 404: Not Found.
+
+--2020-02-25 21:27:27--  http://www.ecoevol.ufg.br/adrimelo/ecossistemas/Lindeman1942.pdf%0D
+Resolving www.ecoevol.ufg.br (www.ecoevol.ufg.br)... 200.137.218.130
+Connecting to www.ecoevol.ufg.br (www.ecoevol.ufg.br)|200.137.218.130|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:27 ERROR 404: Not Found.
+

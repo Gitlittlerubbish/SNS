@@ -1,0 +1,6 @@
+--2020-02-25 21:04:11--  http://www.ibw.ag/anschlussbegehren%0D
+Resolving www.ibw.ag (www.ibw.ag)... 37.128.182.80
+Connecting to www.ibw.ag (www.ibw.ag)|37.128.182.80|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:04:11 ERROR 400: Bad Request.
+

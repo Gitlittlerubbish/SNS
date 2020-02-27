@@ -1,0 +1,6 @@
+--2020-02-25 23:16:21--  https://www.kpc.com.kw/press/KPCPublications/CorporateBrochure/KPCCorporteBroshure2010.pdf%0D
+Resolving www.kpc.com.kw (www.kpc.com.kw)... 195.88.222.78
+Connecting to www.kpc.com.kw (www.kpc.com.kw)|195.88.222.78|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:16:22 ERROR 400: Bad Request.
+

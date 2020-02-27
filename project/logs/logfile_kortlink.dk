@@ -1,0 +1,60 @@
+--2020-02-25 22:06:07--  http://kortlink.dk/shvs%0D
+Resolving kortlink.dk (kortlink.dk)... --2020-02-25 22:06:07--  http://kortlink.dk/shvs%0D
+Resolving kortlink.dk (kortlink.dk)... 104.31.65.159, 104.31.64.159
+Connecting to kortlink.dk (kortlink.dk)|104.31.65.159|:80... connected.
+HTTP request sent, awaiting response... 104.31.65.159, 104.31.64.159
+Connecting to kortlink.dk (kortlink.dk)|104.31.65.159|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://kortlink.dk [following]
+--2020-02-25 22:06:08--  http://kortlink.dk/
+Reusing existing connection to kortlink.dk:80.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://kortlink.dk [following]
+--2020-02-25 22:06:08--  http://kortlink.dk/
+Reusing existing connection to kortlink.dk:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                 7.93G=0s
+
+2020-02-25 22:06:08 (7.93 Gb/s) - ‘/dev/null’ saved [6945]
+
+--2020-02-25 22:06:08--  http://kortlink.dk/shvs%0D
+Resolving kortlink.dk (kortlink.dk)... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                 8.69G=0s
+
+2020-02-25 22:06:08 (8.69 Gb/s) - ‘/dev/null’ saved [6945]
+
+--2020-02-25 22:06:08--  http://kortlink.dk/shvs%0D
+Resolving kortlink.dk (kortlink.dk)... 104.31.64.159, 104.31.65.159
+Connecting to kortlink.dk (kortlink.dk)|104.31.64.159|:80... 104.31.64.159, 104.31.65.159
+Connecting to kortlink.dk (kortlink.dk)|104.31.64.159|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://kortlink.dk [following]
+--2020-02-25 22:06:08--  http://kortlink.dk/
+Reusing existing connection to kortlink.dk:80.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://kortlink.dk [following]
+--2020-02-25 22:06:08--  http://kortlink.dk/
+Reusing existing connection to kortlink.dk:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                 2.36G=0s
+
+2020-02-25 22:06:08 (2.36 Gb/s) - ‘/dev/null’ saved [6945]
+
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                 8.04G=0s
+
+2020-02-25 22:06:08 (8.04 Gb/s) - ‘/dev/null’ saved [6945]
+

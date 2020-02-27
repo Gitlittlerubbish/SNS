@@ -1,0 +1,6 @@
+--2020-02-25 23:05:58--  http://www.romerogroup.jo/assets/romero-original-menu.pdf%0D
+Resolving www.romerogroup.jo (www.romerogroup.jo)... 107.180.46.222
+Connecting to www.romerogroup.jo (www.romerogroup.jo)|107.180.46.222|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:58 ERROR 400: Bad Request.
+

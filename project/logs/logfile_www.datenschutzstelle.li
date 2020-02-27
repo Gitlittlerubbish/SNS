@@ -1,0 +1,22 @@
+--2020-02-25 23:24:20--  https://www.datenschutzstelle.li/download_file/view/248%0D
+Resolving www.datenschutzstelle.li (www.datenschutzstelle.li)... 193.222.116.40
+Connecting to www.datenschutzstelle.li (www.datenschutzstelle.li)|193.222.116.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .....                             803M=0s
+
+2020-02-25 23:24:20 (803 Mb/s) - ‘/dev/null’ saved [26238]
+
+--2020-02-25 23:24:20--  https://www.datenschutzstelle.li/download_file/view/248%0D
+Resolving www.datenschutzstelle.li (www.datenschutzstelle.li)... 193.222.116.40
+Connecting to www.datenschutzstelle.li (www.datenschutzstelle.li)|193.222.116.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .....                             112M=0.002s
+
+2020-02-25 23:24:21 (112 Mb/s) - ‘/dev/null’ saved [26238]
+

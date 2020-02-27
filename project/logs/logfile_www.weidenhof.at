@@ -1,0 +1,76 @@
+--2020-02-25 20:59:33--  https://www.weidenhof.at/PDFs/Speisekarte.pdf%0D
+Resolving www.weidenhof.at (www.weidenhof.at)... 85.158.181.13
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.weidenhof.at [following]
+--2020-02-25 20:59:33--  http://www.weidenhof.at/
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.weidenhof.at/ [following]
+--2020-02-25 20:59:33--  https://www.weidenhof.at/
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21776 (21K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                               100% 9.49M=0.02s
+
+2020-02-25 20:59:33 (9.49 Mb/s) - ‘/dev/null’ saved [21776/21776]
+
+--2020-02-25 20:59:33--  https://www.weidenhof.at/PDFs/Speisekarte.pdf%0D
+Resolving www.weidenhof.at (www.weidenhof.at)... 85.158.181.13
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.weidenhof.at [following]
+--2020-02-25 20:59:33--  http://www.weidenhof.at/
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.weidenhof.at/ [following]
+--2020-02-25 20:59:33--  https://www.weidenhof.at/
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21776 (21K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                               100% 9.46M=0.02s
+
+2020-02-25 20:59:34 (9.46 Mb/s) - ‘/dev/null’ saved [21776/21776]
+
+--2020-02-25 21:11:40--  https://www.weidenhof.at/PDFs/Speisekarte.pdf%0D
+Resolving www.weidenhof.at (www.weidenhof.at)... 85.158.181.13
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.weidenhof.at [following]
+--2020-02-25 21:11:40--  http://www.weidenhof.at/
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.weidenhof.at/ [following]
+--2020-02-25 21:11:40--  https://www.weidenhof.at/
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21776 (21K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                               100% 9.44M=0.02s
+
+2020-02-25 21:11:40 (9.44 Mb/s) - ‘/dev/null’ saved [21776/21776]
+
+--2020-02-25 21:11:40--  https://www.weidenhof.at/PDFs/Speisekarte.pdf%0D
+Resolving www.weidenhof.at (www.weidenhof.at)... 85.158.181.13
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.weidenhof.at [following]
+--2020-02-25 21:11:40--  http://www.weidenhof.at/
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.weidenhof.at/ [following]
+--2020-02-25 21:11:40--  https://www.weidenhof.at/
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21776 (21K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                               100% 9.37M=0.02s
+
+2020-02-25 21:11:40 (9.37 Mb/s) - ‘/dev/null’ saved [21776/21776]
+

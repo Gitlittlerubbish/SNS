@@ -1,0 +1,12 @@
+--2020-02-25 22:00:17--  http://www.cnps.ci/prevention/Documents/SIMT_Conclusions_Congres.pdf%0D
+Resolving www.cnps.ci (www.cnps.ci)... --2020-02-25 22:00:17--  http://www.cnps.ci/prevention/Documents/SIMT_Conclusions_Congres.pdf%0D
+Resolving www.cnps.ci (www.cnps.ci)... 196.47.169.145
+Connecting to www.cnps.ci (www.cnps.ci)|196.47.169.145|:80... 196.47.169.145
+Connecting to www.cnps.ci (www.cnps.ci)|196.47.169.145|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:00:17 ERROR 500: Internal Server Error.
+
+500 Internal Server Error
+2020-02-25 22:00:17 ERROR 500: Internal Server Error.
+

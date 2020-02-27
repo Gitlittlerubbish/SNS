@@ -1,0 +1,12 @@
+--2020-02-25 21:17:01--  http://www.sportscience.ba/pdf/br13.pdf%0D
+Resolving www.sportscience.ba (www.sportscience.ba)... 66.206.24.242
+Connecting to www.sportscience.ba (www.sportscience.ba)|66.206.24.242|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:01 ERROR 404: Not Found.
+
+--2020-02-25 21:24:17--  http://www.sportscience.ba/pdf/br13.pdf%0D
+Resolving www.sportscience.ba (www.sportscience.ba)... 66.206.24.242
+Connecting to www.sportscience.ba (www.sportscience.ba)|66.206.24.242|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:17 ERROR 404: Not Found.
+

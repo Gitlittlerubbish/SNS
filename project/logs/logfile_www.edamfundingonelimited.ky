@@ -1,0 +1,12 @@
+--2020-02-25 21:38:59--  http://www.edamfundingonelimited.ky/images/AuditedFS/-%252031%2520Dec%25202011.pdf%0D
+Resolving www.edamfundingonelimited.ky (www.edamfundingonelimited.ky)... 209.17.116.7
+Connecting to www.edamfundingonelimited.ky (www.edamfundingonelimited.ky)|209.17.116.7|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:38:59 ERROR 400: Bad Request.
+
+--2020-02-25 21:40:09--  http://www.edamfundingonelimited.ky/images/AuditedFS/-%252031%2520Dec%25202011.pdf%0D
+Resolving www.edamfundingonelimited.ky (www.edamfundingonelimited.ky)... 209.17.116.7
+Connecting to www.edamfundingonelimited.ky (www.edamfundingonelimited.ky)|209.17.116.7|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:40:10 ERROR 400: Bad Request.
+

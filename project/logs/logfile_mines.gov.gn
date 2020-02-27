@@ -1,0 +1,20 @@
+--2020-02-25 22:39:10--  http://mines.gov.gn/docs/PDF/code_marches_publics.pdf%0D
+Resolving mines.gov.gn (mines.gov.gn)... --2020-02-25 22:39:10--  http://mines.gov.gn/docs/PDF/code_marches_publics.pdf%0D
+Resolving mines.gov.gn (mines.gov.gn)... 35.209.156.50
+Connecting to mines.gov.gn (mines.gov.gn)|35.209.156.50|:80... 35.209.156.50
+Connecting to mines.gov.gn (mines.gov.gn)|35.209.156.50|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mines.gov.gn/docs/PDF/code_marches_publics.pdf%0d [following]
+--2020-02-25 22:39:10--  https://mines.gov.gn/docs/PDF/code_marches_publics.pdf%0d
+Connecting to mines.gov.gn (mines.gov.gn)|35.209.156.50|:443... 301 Moved Permanently
+Location: https://mines.gov.gn/docs/PDF/code_marches_publics.pdf%0d [following]
+--2020-02-25 22:39:11--  https://mines.gov.gn/docs/PDF/code_marches_publics.pdf%0d
+Connecting to mines.gov.gn (mines.gov.gn)|35.209.156.50|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:39:11 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:39:11 ERROR 404: Not Found.
+

@@ -1,0 +1,28 @@
+--2020-02-25 22:33:18--  http://www.pef.org.gh/documents/climate-change/ghana_second_nationalcommunication_final_version.pdf%0D
+Resolving www.pef.org.gh (www.pef.org.gh)... --2020-02-25 22:33:18--  http://www.pef.org.gh/documents/climate-change/ghana_second_nationalcommunication_final_version.pdf%0D
+Resolving www.pef.org.gh (www.pef.org.gh)... 69.194.230.115
+Connecting to www.pef.org.gh (www.pef.org.gh)|69.194.230.115|:80... 69.194.230.115
+Connecting to www.pef.org.gh (www.pef.org.gh)|69.194.230.115|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pef.org.gh/documents/climate-change/ghana_second_nationalcommunication_final_version.pdf%0D [following]
+--2020-02-25 22:33:19--  https://www.pef.org.gh/documents/climate-change/ghana_second_nationalcommunication_final_version.pdf%0D
+Connecting to www.pef.org.gh (www.pef.org.gh)|69.194.230.115|:443... 301 Moved Permanently
+Location: https://www.pef.org.gh/documents/climate-change/ghana_second_nationalcommunication_final_version.pdf%0D [following]
+--2020-02-25 22:33:19--  https://www.pef.org.gh/documents/climate-change/ghana_second_nationalcommunication_final_version.pdf%0D
+Connecting to www.pef.org.gh (www.pef.org.gh)|69.194.230.115|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pef.org.gh/index.php/en/documents/climate-change/ghana_second_nationalcommunication_final_version.pdf [following]
+--2020-02-25 22:33:20--  https://www.pef.org.gh/index.php/en/documents/climate-change/ghana_second_nationalcommunication_final_version.pdf
+Reusing existing connection to www.pef.org.gh:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pef.org.gh/index.php/en/documents/climate-change/ghana_second_nationalcommunication_final_version.pdf [following]
+--2020-02-25 22:33:20--  https://www.pef.org.gh/index.php/en/documents/climate-change/ghana_second_nationalcommunication_final_version.pdf
+Reusing existing connection to www.pef.org.gh:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:33:20 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:33:20 ERROR 404: Not Found.
+

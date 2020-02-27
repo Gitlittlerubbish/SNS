@@ -1,0 +1,21 @@
+--2020-02-25 21:52:22--  http://www.cccucuta.org.co/uploads_descarga/desc_51f750ea95b67341376bffa64bb30262.pdf%0D
+Resolving www.cccucuta.org.co (www.cccucuta.org.co)... --2020-02-25 21:52:22--  http://www.cccucuta.org.co/uploads_descarga/desc_51f750ea95b67341376bffa64bb30262.pdf%0D
+Resolving www.cccucuta.org.co (www.cccucuta.org.co)... 190.66.23.199
+Connecting to www.cccucuta.org.co (www.cccucuta.org.co)|190.66.23.199|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:52:23 ERROR 404: Not Found.
+
+--2020-02-25 21:52:23--  http://www.cccucuta.org.co/uploads_descarga/desc_573a41bde1e750ffef99bc48522272fc.pdf%0D
+Resolving www.cccucuta.org.co (www.cccucuta.org.co)... 190.66.23.199
+Connecting to www.cccucuta.org.co (www.cccucuta.org.co)|190.66.23.199|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:52:23 ERROR 404: Not Found.
+
+failed: Connection timed out.
+wget: unable to resolve host address ‘www.cccucuta.org.co’
+--2020-02-25 21:52:25--  http://www.cccucuta.org.co/uploads_descarga/desc_573a41bde1e750ffef99bc48522272fc.pdf%0D
+Resolving www.cccucuta.org.co (www.cccucuta.org.co)... 190.66.23.199
+Connecting to www.cccucuta.org.co (www.cccucuta.org.co)|190.66.23.199|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:52:25 ERROR 404: Not Found.
+

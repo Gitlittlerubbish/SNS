@@ -1,0 +1,30 @@
+--2020-02-25 23:01:12--  https://www.nhf.org.jm/images/forms/goj_card_application_form.pdf%0D
+Resolving www.nhf.org.jm (www.nhf.org.jm)... 35.209.19.147
+Connecting to www.nhf.org.jm (www.nhf.org.jm)|35.209.19.147|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /error [following]
+--2020-02-25 23:01:13--  https://www.nhf.org.jm/error
+Reusing existing connection to www.nhf.org.jm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .....                            5.64G=0s
+
+2020-02-25 23:01:13 (5.64 Gb/s) - ‘/dev/null’ saved [25831]
+
+--2020-02-25 23:01:13--  https://www.nhf.org.jm/images/forms/goj_card_application_form.pdf%0D
+Resolving www.nhf.org.jm (www.nhf.org.jm)... 35.209.19.147
+Connecting to www.nhf.org.jm (www.nhf.org.jm)|35.209.19.147|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /error [following]
+--2020-02-25 23:01:14--  https://www.nhf.org.jm/error
+Reusing existing connection to www.nhf.org.jm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .....                             869M=0s
+
+2020-02-25 23:01:14 (869 Mb/s) - ‘/dev/null’ saved [25831]
+

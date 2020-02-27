@@ -1,0 +1,6 @@
+--2020-02-25 23:21:27--  https://www.ndu.edu.lb/Library/Files/Spirit/arabic53.pdf%0D
+Resolving www.ndu.edu.lb (www.ndu.edu.lb)... 95.211.105.26
+Connecting to www.ndu.edu.lb (www.ndu.edu.lb)|95.211.105.26|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:21:27 ERROR 400: Bad Request.
+

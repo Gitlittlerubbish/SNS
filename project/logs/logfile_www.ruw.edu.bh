@@ -1,0 +1,12 @@
+--2020-02-25 21:03:22--  https://www.ruw.edu.bh/sites/default/files/new_idc_description.pdf%0D
+Resolving www.ruw.edu.bh (www.ruw.edu.bh)... 173.248.157.250
+Connecting to www.ruw.edu.bh (www.ruw.edu.bh)|173.248.157.250|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:23 ERROR 404: Not Found.
+
+--2020-02-25 21:14:35--  https://www.ruw.edu.bh/sites/default/files/new_idc_description.pdf%0D
+Resolving www.ruw.edu.bh (www.ruw.edu.bh)... 173.248.157.250
+Connecting to www.ruw.edu.bh (www.ruw.edu.bh)|173.248.157.250|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:36 ERROR 404: Not Found.
+

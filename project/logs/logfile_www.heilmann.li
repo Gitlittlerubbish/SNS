@@ -1,0 +1,12 @@
+--2020-02-25 23:24:56--  https://www.heilmann.li/wp-content/uploads/2018/01/jur_person.pdf%0D
+Resolving www.heilmann.li (www.heilmann.li)... 217.160.0.152
+Connecting to www.heilmann.li (www.heilmann.li)|217.160.0.152|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:24:57 ERROR 404: Not Found.
+
+--2020-02-25 23:25:00--  https://www.heilmann.li/wp-content/uploads/2018/01/jur_person.pdf%0D
+Resolving www.heilmann.li (www.heilmann.li)... 217.160.0.152
+Connecting to www.heilmann.li (www.heilmann.li)|217.160.0.152|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:25:01 ERROR 404: Not Found.
+

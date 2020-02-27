@@ -1,0 +1,60 @@
+--2020-02-25 21:21:46--  http://portal.mec.gov.br/sesu/arquivos/pdf/FIES/portaria_mec_31_30072007_anexo_vii_proc_seletivo.pdf%0D
+Resolving portal.mec.gov.br (portal.mec.gov.br)... 200.130.2.223
+Connecting to portal.mec.gov.br (portal.mec.gov.br)|200.130.2.223|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Giving up.
+
+--2020-02-25 21:21:59--  http://portal.mec.gov.br/sesu/arquivos/pdf/FIES/portaria_mec_31_30072007_anexo_vii_proc_seletivo.pdf%0D
+Resolving portal.mec.gov.br (portal.mec.gov.br)... 200.130.2.223
+Connecting to portal.mec.gov.br (portal.mec.gov.br)|200.130.2.223|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  510K
+    50K .......... .....                                        637K=1.0s
+
+2020-02-25 21:22:02 (536 Kb/s) - ‘/dev/null’ saved [67103]
+
+--2020-02-25 21:22:02--  http://portal.mec.gov.br/sesu/arquivos/pdf/FIES/portaria_mec_31_30072007_anexo_vii_proc_seletivo.pdf%0D
+Resolving portal.mec.gov.br (portal.mec.gov.br)... 200.130.2.223
+Connecting to portal.mec.gov.br (portal.mec.gov.br)|200.130.2.223|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  534K
+    50K .......... .....                                        141M=0.8s
+
+2020-02-25 21:22:04 (702 Kb/s) - ‘/dev/null’ saved [67442]
+
+--2020-02-25 21:27:26--  http://portal.mec.gov.br/sesu/arquivos/pdf/FIES/portaria_mec_31_30072007_anexo_vii_proc_seletivo.pdf%0D
+Resolving portal.mec.gov.br (portal.mec.gov.br)... 200.130.2.223
+Connecting to portal.mec.gov.br (portal.mec.gov.br)|200.130.2.223|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Giving up.
+
+--2020-02-25 21:27:36--  http://portal.mec.gov.br/sesu/arquivos/pdf/FIES/portaria_mec_31_30072007_anexo_vii_proc_seletivo.pdf%0D
+Resolving portal.mec.gov.br (portal.mec.gov.br)... 200.130.2.223
+Connecting to portal.mec.gov.br (portal.mec.gov.br)|200.130.2.223|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.04M
+    50K .......... .....                                        636K=0.4s
+
+2020-02-25 21:27:38 (1.34 Mb/s) - ‘/dev/null’ saved [66911]
+
+--2020-02-25 21:27:38--  http://portal.mec.gov.br/sesu/arquivos/pdf/FIES/portaria_mec_31_30072007_anexo_vii_proc_seletivo.pdf%0D
+Resolving portal.mec.gov.br (portal.mec.gov.br)... 200.130.2.223
+Connecting to portal.mec.gov.br (portal.mec.gov.br)|200.130.2.223|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.07M
+    50K .......... .....                                        647K=0.4s
+
+2020-02-25 21:27:38 (1.37 Mb/s) - ‘/dev/null’ saved [66909]
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:33:01--  http://inb.gov.kh/law/view/75%0D
+Resolving inb.gov.kh (inb.gov.kh)... 206.189.202.178
+Connecting to inb.gov.kh (inb.gov.kh)|206.189.202.178|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:33:01 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:35:54--  http://inb.gov.kh/law/view/75%0D
+Resolving inb.gov.kh (inb.gov.kh)... 206.189.202.178
+Connecting to inb.gov.kh (inb.gov.kh)|206.189.202.178|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:35:54 ERROR 500: Internal Server Error.
+

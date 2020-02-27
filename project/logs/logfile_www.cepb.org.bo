@@ -1,0 +1,12 @@
+--2020-02-25 21:16:18--  http://www.cepb.org.bo/urse/wp-content/uploads/2014/12/E13.pdf%0D
+Resolving www.cepb.org.bo (www.cepb.org.bo)... 50.116.116.52
+Connecting to www.cepb.org.bo (www.cepb.org.bo)|50.116.116.52|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:20 ERROR 404: Not Found.
+
+--2020-02-25 21:23:48--  http://www.cepb.org.bo/urse/wp-content/uploads/2014/12/E13.pdf%0D
+Resolving www.cepb.org.bo (www.cepb.org.bo)... 50.116.116.52
+Connecting to www.cepb.org.bo (www.cepb.org.bo)|50.116.116.52|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:50 ERROR 404: Not Found.
+

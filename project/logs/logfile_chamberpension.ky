@@ -1,0 +1,12 @@
+--2020-02-25 21:38:43--  https://chamberpension.ky/media/1805/pension-handbook.pdf%0D
+Resolving chamberpension.ky (chamberpension.ky)... 96.31.35.250
+Connecting to chamberpension.ky (chamberpension.ky)|96.31.35.250|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:38:44 ERROR 400: Bad Request.
+
+--2020-02-25 21:39:56--  https://chamberpension.ky/media/1805/pension-handbook.pdf%0D
+Resolving chamberpension.ky (chamberpension.ky)... 96.31.35.250
+Connecting to chamberpension.ky (chamberpension.ky)|96.31.35.250|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:39:56 ERROR 400: Bad Request.
+

@@ -1,0 +1,46 @@
+--2020-02-25 22:54:25--  https://cargeek.ir/docs/Automotive_Ethernet_An_Overview.pdf%0D
+Resolving cargeek.ir (cargeek.ir)... 104.31.94.109, 104.31.95.109
+Connecting to cargeek.ir (cargeek.ir)|104.31.94.109|:443... connected.
+HTTP request sent, awaiting response... 303 See other
+Location: https://cargeek.ir [following]
+--2020-02-25 22:54:25--  https://cargeek.ir/
+Reusing existing connection to cargeek.ir:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  862M
+    50K .......... .......... .......... .......... .......... 16.4M
+   100K .......... .......... .......... .......... .......... 2.32G
+   150K .......... .......... .......... .......... .......... 3.43G
+   200K .......... .......... .......... .......... .......... 18.1M
+   250K .......... .......... .......... .......... ..........  644M
+   300K .......... .......... .......... .......... ..........  639M
+   350K .......... .......... .......... .......... ..........  671M
+   400K .......... .......... .......... ........               630M=0.05s
+
+2020-02-25 22:54:25 (70.7 Mb/s) - ‘/dev/null’ saved [448584]
+
+--2020-02-25 22:54:25--  https://cargeek.ir/docs/Automotive_Ethernet_An_Overview.pdf%0D
+Resolving cargeek.ir (cargeek.ir)... 104.31.94.109, 104.31.95.109
+Connecting to cargeek.ir (cargeek.ir)|104.31.94.109|:443... connected.
+HTTP request sent, awaiting response... 303 See other
+Location: https://cargeek.ir [following]
+--2020-02-25 22:54:26--  https://cargeek.ir/
+Reusing existing connection to cargeek.ir:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  447M
+    50K .......... .......... .......... .......... .......... 15.6M
+   100K .......... .......... .......... .......... .......... 1.86G
+   150K .......... .......... .......... .......... ..........  729M
+   200K .......... .......... .......... .......... .......... 28.2M
+   250K .......... .......... .......... .......... ..........  424M
+   300K .......... .......... .......... .......... ..........  227M
+   350K .......... .......... .......... .......... .......... 2.87G
+   400K .......... .......... .......... .......               5.70G=0.05s
+
+2020-02-25 22:54:26 (79.0 Mb/s) - ‘/dev/null’ saved [448322]
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:05:00--  https://www.collegegardens.je/media/318623/college-gardens-brochure.pdf%0D
+Resolving www.collegegardens.je (www.collegegardens.je)... 54.72.118.82
+Connecting to www.collegegardens.je (www.collegegardens.je)|54.72.118.82|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:00 ERROR 400: Bad Request.
+

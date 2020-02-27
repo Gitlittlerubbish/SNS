@@ -1,0 +1,6 @@
+--2020-02-25 23:15:21--  http://kgwg.nims.re.kr/climate2017/BMKim.pdf%0D
+Resolving kgwg.nims.re.kr (kgwg.nims.re.kr)... 210.119.59.17
+Connecting to kgwg.nims.re.kr (kgwg.nims.re.kr)|210.119.59.17|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:15:22 ERROR 400: Bad Request.
+

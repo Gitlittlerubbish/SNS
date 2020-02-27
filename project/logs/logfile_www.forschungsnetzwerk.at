@@ -1,0 +1,12 @@
+--2020-02-25 20:59:25--  http://www.forschungsnetzwerk.at/downloadpub/lessenich_subjekt_regieren.pdf%0D
+Resolving www.forschungsnetzwerk.at (www.forschungsnetzwerk.at)... 81.19.145.33
+Connecting to www.forschungsnetzwerk.at (www.forschungsnetzwerk.at)|81.19.145.33|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:59:25 ERROR 400: Bad Request.
+
+--2020-02-25 21:11:34--  http://www.forschungsnetzwerk.at/downloadpub/lessenich_subjekt_regieren.pdf%0D
+Resolving www.forschungsnetzwerk.at (www.forschungsnetzwerk.at)... 81.19.145.33
+Connecting to www.forschungsnetzwerk.at (www.forschungsnetzwerk.at)|81.19.145.33|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:34 ERROR 400: Bad Request.
+

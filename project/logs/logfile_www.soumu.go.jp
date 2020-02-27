@@ -1,0 +1,6 @@
+--2020-02-25 23:04:29--  https://www.soumu.go.jp/main_content/000056809.pdf%0D
+Resolving www.soumu.go.jp (www.soumu.go.jp)... 203.180.216.224
+Connecting to www.soumu.go.jp (www.soumu.go.jp)|203.180.216.224|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:04:31 ERROR 404: Not Found.
+

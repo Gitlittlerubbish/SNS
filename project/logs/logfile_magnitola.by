@@ -1,0 +1,12 @@
+--2020-02-25 21:06:31--  http://magnitola.by/manuals/KD-R48_R437_R537_rus.pdf%0D
+Resolving magnitola.by (magnitola.by)... 109.68.190.64
+Connecting to magnitola.by (magnitola.by)|109.68.190.64|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:06:32 ERROR 404: Not Found.
+
+--2020-02-25 21:16:46--  http://magnitola.by/manuals/KD-R48_R437_R537_rus.pdf%0D
+Resolving magnitola.by (magnitola.by)... 109.68.190.64
+Connecting to magnitola.by (magnitola.by)|109.68.190.64|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:47 ERROR 404: Not Found.
+

@@ -1,0 +1,32 @@
+--2020-02-25 23:26:32--  http://amsand.lu/home/Webdocs/Antolin_Moeglichkeiten.pdf%0D
+Resolving amsand.lu (amsand.lu)... 158.64.1.63
+Connecting to amsand.lu (amsand.lu)|158.64.1.63|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://amsand.lu/home/Webdocs/Antolin_Moeglichkeiten.pdf [following]
+--2020-02-25 23:26:32--  https://amsand.lu/home/Webdocs/Antolin_Moeglichkeiten.pdf
+Connecting to amsand.lu (amsand.lu)|158.64.1.63|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89419 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 24.3M 0s
+    50K .......... .......... .......... .......              100% 18.7M=0.03s
+
+2020-02-25 23:26:32 (21.6 Mb/s) - ‘/dev/null’ saved [89419/89419]
+
+--2020-02-25 23:26:32--  http://amsand.lu/home/Webdocs/Antolin_Moeglichkeiten.pdf%0D
+Resolving amsand.lu (amsand.lu)... 158.64.1.63
+Connecting to amsand.lu (amsand.lu)|158.64.1.63|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://amsand.lu/home/Webdocs/Antolin_Moeglichkeiten.pdf [following]
+--2020-02-25 23:26:32--  https://amsand.lu/home/Webdocs/Antolin_Moeglichkeiten.pdf
+Connecting to amsand.lu (amsand.lu)|158.64.1.63|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89419 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 24.5M 0s
+    50K .......... .......... .......... .......              100% 1.12G=0.02s
+
+2020-02-25 23:26:32 (42.1 Mb/s) - ‘/dev/null’ saved [89419/89419]
+

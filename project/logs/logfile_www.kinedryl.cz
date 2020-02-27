@@ -1,0 +1,60 @@
+--2020-02-25 22:05:55--  https://www.kinedryl.cz/PIL-Kinedryl.pdf%0D
+Resolving www.kinedryl.cz (www.kinedryl.cz)... --2020-02-25 22:05:55--  https://www.kinedryl.cz/PIL-Kinedryl.pdf%0D
+Resolving www.kinedryl.cz (www.kinedryl.cz)... 89.187.140.181
+Connecting to www.kinedryl.cz (www.kinedryl.cz)|89.187.140.181|:443... connected.
+89.187.140.181
+Connecting to www.kinedryl.cz (www.kinedryl.cz)|89.187.140.181|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.kinedryl.cz/ [following]
+--2020-02-25 22:05:55--  https://www.kinedryl.cz/
+Connecting to www.kinedryl.cz (www.kinedryl.cz)|89.187.140.181|:443... HTTP request sent, awaiting response... connected.
+301 Moved Permanently
+Location: https://www.kinedryl.cz/ [following]
+--2020-02-25 22:05:55--  https://www.kinedryl.cz/
+Connecting to www.kinedryl.cz (www.kinedryl.cz)|89.187.140.181|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14504 (14K) [text/html]
+Saving to: ‘/dev/null’
+HTTP request sent, awaiting response... 
+     0K .......... ....                                       100% 5.80M=0.02s
+
+2020-02-25 22:05:55 (5.80 Mb/s) - ‘/dev/null’ saved [14504/14504]
+
+--2020-02-25 22:05:55--  https://www.kinedryl.cz/PIL-Kinedryl.pdf%0D
+Resolving www.kinedryl.cz (www.kinedryl.cz)... 89.187.140.181
+Connecting to www.kinedryl.cz (www.kinedryl.cz)|89.187.140.181|:443... 200 OK
+Length: 14504 (14K) [text/html]
+Saving to: ‘/dev/null’
+connected.
+
+     0K .......... ....                                       100% 5.62M=0.02s
+
+2020-02-25 22:05:55 (5.62 Mb/s) - ‘/dev/null’ saved [14504/14504]
+
+--2020-02-25 22:05:55--  https://www.kinedryl.cz/PIL-Kinedryl.pdf%0D
+Resolving www.kinedryl.cz (www.kinedryl.cz)... 89.187.140.181
+Connecting to www.kinedryl.cz (www.kinedryl.cz)|89.187.140.181|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.kinedryl.cz/ [following]
+--2020-02-25 22:05:55--  https://www.kinedryl.cz/
+Connecting to www.kinedryl.cz (www.kinedryl.cz)|89.187.140.181|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.kinedryl.cz/ [following]
+--2020-02-25 22:05:55--  https://www.kinedryl.cz/
+Connecting to www.kinedryl.cz (www.kinedryl.cz)|89.187.140.181|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14504 (14K) [text/html]
+Saving to: ‘/dev/null’
+HTTP request sent, awaiting response... 
+     0K .......... ....                                       100% 5.67M=0.02s
+
+2020-02-25 22:05:55 (5.67 Mb/s) - ‘/dev/null’ saved [14504/14504]
+
+200 OK
+Length: 14504 (14K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                       100% 5.75M=0.02s
+
+2020-02-25 22:05:55 (5.75 Mb/s) - ‘/dev/null’ saved [14504/14504]
+

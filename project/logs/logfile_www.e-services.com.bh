@@ -1,0 +1,12 @@
+--2020-02-25 21:03:12--  https://www.e-services.com.bh/eservices/pdfs/simsim_application.pdf%0D
+Resolving www.e-services.com.bh (www.e-services.com.bh)... 193.188.112.8
+Connecting to www.e-services.com.bh (www.e-services.com.bh)|193.188.112.8|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:03:13 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:28--  https://www.e-services.com.bh/eservices/pdfs/simsim_application.pdf%0D
+Resolving www.e-services.com.bh (www.e-services.com.bh)... 193.188.112.8
+Connecting to www.e-services.com.bh (www.e-services.com.bh)|193.188.112.8|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:29 ERROR 400: Bad Request.
+

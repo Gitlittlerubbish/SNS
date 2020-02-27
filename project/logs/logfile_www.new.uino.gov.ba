@@ -1,0 +1,12 @@
+--2020-02-25 21:17:25--  http://www.new.uino.gov.ba/get/7108%0D
+Resolving www.new.uino.gov.ba (www.new.uino.gov.ba)... 81.93.86.174
+Connecting to www.new.uino.gov.ba (www.new.uino.gov.ba)|81.93.86.174|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:17:25 ERROR 400: Bad Request.
+
+--2020-02-25 21:24:35--  http://www.new.uino.gov.ba/get/7108%0D
+Resolving www.new.uino.gov.ba (www.new.uino.gov.ba)... 81.93.86.174
+Connecting to www.new.uino.gov.ba (www.new.uino.gov.ba)|81.93.86.174|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:24:35 ERROR 400: Bad Request.
+

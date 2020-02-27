@@ -1,0 +1,6 @@
+--2020-02-26 00:11:08--  https://www.kfc.co.nz/files/allergens/%0D
+Resolving www.kfc.co.nz (www.kfc.co.nz)... 23.101.208.52
+Connecting to www.kfc.co.nz (www.kfc.co.nz)|23.101.208.52|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:11:09 ERROR 400: Bad Request.
+

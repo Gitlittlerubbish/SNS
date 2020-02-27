@@ -1,0 +1,12 @@
+--2020-02-25 21:13:51--  http://www.bsb.gov.bt/standards/votingonline/getdocument/211%0D
+Resolving www.bsb.gov.bt (www.bsb.gov.bt)... 202.144.147.65
+Connecting to www.bsb.gov.bt (www.bsb.gov.bt)|202.144.147.65|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:13:53 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:21:54--  http://www.bsb.gov.bt/standards/votingonline/getdocument/211%0D
+Resolving www.bsb.gov.bt (www.bsb.gov.bt)... 202.144.147.65
+Connecting to www.bsb.gov.bt (www.bsb.gov.bt)|202.144.147.65|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:21:55 ERROR 500: Internal Server Error.
+

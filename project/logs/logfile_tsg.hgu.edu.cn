@@ -1,0 +1,12 @@
+--2020-02-25 21:47:31--  http://tsg.hgu.edu.cn/wenquanxuetang.pdf%0D
+Resolving tsg.hgu.edu.cn (tsg.hgu.edu.cn)... 121.28.142.133
+Connecting to tsg.hgu.edu.cn (tsg.hgu.edu.cn)|121.28.142.133|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:47:32 ERROR 404: Not Found.
+
+--2020-02-25 21:47:32--  http://tsg.hgu.edu.cn/wenquanxuetang.pdf%0D
+Resolving tsg.hgu.edu.cn (tsg.hgu.edu.cn)... 121.28.142.133
+Connecting to tsg.hgu.edu.cn (tsg.hgu.edu.cn)|121.28.142.133|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:47:33 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:22:24--  http://www.zodiac.com.br/Arquivos/bulas/Oxycontin_Bula_paciente.pdf%0D
+Resolving www.zodiac.com.br (www.zodiac.com.br)... 200.201.133.16
+Connecting to www.zodiac.com.br (www.zodiac.com.br)|200.201.133.16|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:22:24 ERROR 400: Bad Request.
+
+--2020-02-25 21:27:52--  http://www.zodiac.com.br/Arquivos/bulas/Oxycontin_Bula_paciente.pdf%0D
+Resolving www.zodiac.com.br (www.zodiac.com.br)... 200.201.133.16
+Connecting to www.zodiac.com.br (www.zodiac.com.br)|200.201.133.16|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:27:53 ERROR 400: Bad Request.
+

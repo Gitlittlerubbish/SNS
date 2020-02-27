@@ -1,0 +1,6 @@
+--2020-02-25 23:47:26--  http://tesis.uson.mx/digital/tesis/docs/9078/Capitulo1.pdf%0D
+Resolving tesis.uson.mx (tesis.uson.mx)... 148.225.32.190
+Connecting to tesis.uson.mx (tesis.uson.mx)|148.225.32.190|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:47:26 ERROR 400: Bad Request.
+

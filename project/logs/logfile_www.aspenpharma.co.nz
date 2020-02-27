@@ -1,0 +1,32 @@
+--2020-02-26 00:13:32--  https://www.aspenpharma.co.nz/product_info/pi/PI_Maltofer.pdf%0D
+Resolving www.aspenpharma.co.nz (www.aspenpharma.co.nz)... 45.79.143.166
+Connecting to www.aspenpharma.co.nz (www.aspenpharma.co.nz)|45.79.143.166|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aspenpharma.co.nz [following]
+--2020-02-26 00:13:33--  https://www.aspenpharma.co.nz/
+Reusing existing connection to www.aspenpharma.co.nz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96791 (95K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 5.79M 0s
+    50K .......... .......... .......... .......... ....      100% 7.58G=0.07s
+
+2020-02-26 00:13:33 (10.9 Mb/s) - ‘/dev/null’ saved [96791/96791]
+
+--2020-02-26 00:13:33--  https://www.aspenpharma.co.nz/product_info/pi/PI_Maltofer.pdf%0D
+Resolving www.aspenpharma.co.nz (www.aspenpharma.co.nz)... 45.79.143.166
+Connecting to www.aspenpharma.co.nz (www.aspenpharma.co.nz)|45.79.143.166|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aspenpharma.co.nz [following]
+--2020-02-26 00:13:33--  https://www.aspenpharma.co.nz/
+Reusing existing connection to www.aspenpharma.co.nz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 96791 (95K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 5.90M 0s
+    50K .......... .......... .......... .......... ....      100% 5.49G=0.07s
+
+2020-02-26 00:13:34 (11.1 Mb/s) - ‘/dev/null’ saved [96791/96791]
+

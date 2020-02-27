@@ -1,0 +1,6 @@
+--2020-02-25 23:01:31--  https://webstore.pioj.gov.jm/images/PreviewDocument/20271.pdf%0D
+Resolving webstore.pioj.gov.jm (webstore.pioj.gov.jm)... 138.1.151.122, 138.1.37.167, 138.1.32.234
+Connecting to webstore.pioj.gov.jm (webstore.pioj.gov.jm)|138.1.151.122|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘webstore.pioj.gov.jm’.
+To connect to webstore.pioj.gov.jm insecurely, use `--no-check-certificate'.

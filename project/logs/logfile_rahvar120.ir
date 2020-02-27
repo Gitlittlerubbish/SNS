@@ -1,0 +1,10 @@
+--2020-02-25 22:54:41--  http://rahvar120.ir/uploads/1_28_1442990524662_1.pdf%0D
+Resolving rahvar120.ir (rahvar120.ir)... 185.12.101.62
+Connecting to rahvar120.ir (rahvar120.ir)|185.12.101.62|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://deny.nrdc.ir/405.htm [following]
+--2020-02-25 22:54:41--  http://deny.nrdc.ir/405.htm
+Resolving deny.nrdc.ir (deny.nrdc.ir)... 185.12.101.49
+Connecting to deny.nrdc.ir (deny.nrdc.ir)|185.12.101.49|:80... failed: Connection timed out.
+Giving up.
+

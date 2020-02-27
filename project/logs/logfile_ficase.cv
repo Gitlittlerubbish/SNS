@@ -1,0 +1,12 @@
+--2020-02-25 21:32:19--  https://ficase.cv/images/desdobraveis_boletins/Guia_Compras_Locais_2015_final_small.pdf%0D
+Resolving ficase.cv (ficase.cv)... 178.79.172.86
+Connecting to ficase.cv (ficase.cv)|178.79.172.86|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:19 ERROR 404: Not Found.
+
+--2020-02-25 21:35:22--  https://ficase.cv/images/desdobraveis_boletins/Guia_Compras_Locais_2015_final_small.pdf%0D
+Resolving ficase.cv (ficase.cv)... 178.79.172.86
+Connecting to ficase.cv (ficase.cv)|178.79.172.86|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:22 ERROR 404: Not Found.
+

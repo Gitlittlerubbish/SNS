@@ -1,0 +1,12 @@
+--2020-02-25 23:48:43--  https://lum.fm/press_release_819_PDF.pdf%0D
+Resolving lum.fm (lum.fm)... 54.201.130.143, 52.35.249.216, 35.161.85.58, ...
+Connecting to lum.fm (lum.fm)|54.201.130.143|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:48:44 ERROR 404: Not Found.
+
+--2020-02-25 23:49:00--  https://lum.fm/press_release_113_PDF.pdf%0D
+Resolving lum.fm (lum.fm)... 52.35.249.216, 35.161.85.58, 54.70.124.215, ...
+Connecting to lum.fm (lum.fm)|52.35.249.216|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:49:00 ERROR 404: Not Found.
+

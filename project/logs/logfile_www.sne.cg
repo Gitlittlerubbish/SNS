@@ -1,0 +1,12 @@
+--2020-02-25 21:56:22--  https://www.sne.cg/sites/default/files/Kilovolt%2520003.pdf%0D
+Resolving www.sne.cg (www.sne.cg)... 46.105.57.169
+Connecting to www.sne.cg (www.sne.cg)|46.105.57.169|:443... connected.
+HTTP request sent, awaiting response... 503 Service Unavailable
+2020-02-25 21:56:22 ERROR 503: Service Unavailable.
+
+--2020-02-25 21:56:22--  https://www.sne.cg/sites/default/files/Kilovolt%2520003.pdf%0D
+Resolving www.sne.cg (www.sne.cg)... 46.105.57.169
+Connecting to www.sne.cg (www.sne.cg)|46.105.57.169|:443... connected.
+HTTP request sent, awaiting response... 503 Service Unavailable
+2020-02-25 21:56:22 ERROR 503: Service Unavailable.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:13:15--  https://www.avw.co.nz/images/rdl/Datasheet_tps3a.pdf%0D
+Resolving www.avw.co.nz (www.avw.co.nz)... 121.99.228.218
+Connecting to www.avw.co.nz (www.avw.co.nz)|121.99.228.218|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:13:16 ERROR 400: Bad Request.
+

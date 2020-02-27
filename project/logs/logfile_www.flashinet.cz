@@ -1,0 +1,12 @@
+--2020-02-25 22:05:17--  http://www.flashinet.cz/%0D
+Resolving www.flashinet.cz (www.flashinet.cz)... 81.95.96.75
+Connecting to www.flashinet.cz (www.flashinet.cz)|81.95.96.75|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:05:17 ERROR 404: Not Found.
+
+--2020-02-25 22:05:19--  http://www.flashinet.cz/%0D
+Resolving www.flashinet.cz (www.flashinet.cz)... 81.95.96.75
+Connecting to www.flashinet.cz (www.flashinet.cz)|81.95.96.75|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:05:19 ERROR 404: Not Found.
+

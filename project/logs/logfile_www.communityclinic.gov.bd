@@ -1,0 +1,12 @@
+--2020-02-25 21:04:30--  http://www.communityclinic.gov.bd/admin/content_uploads/1579592532.pdf%0D
+Resolving www.communityclinic.gov.bd (www.communityclinic.gov.bd)... 103.247.238.113
+Connecting to www.communityclinic.gov.bd (www.communityclinic.gov.bd)|103.247.238.113|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:04:30 ERROR 404: Not Found.
+
+--2020-02-25 21:15:14--  http://www.communityclinic.gov.bd/admin/content_uploads/1579592532.pdf%0D
+Resolving www.communityclinic.gov.bd (www.communityclinic.gov.bd)... 103.247.238.113
+Connecting to www.communityclinic.gov.bd (www.communityclinic.gov.bd)|103.247.238.113|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:15 ERROR 404: Not Found.
+

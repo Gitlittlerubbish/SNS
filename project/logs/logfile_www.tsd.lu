@@ -1,0 +1,6 @@
+--2020-02-25 23:26:08--  https://www.tsd.lu/files/82231.pdf%0D
+Resolving www.tsd.lu (www.tsd.lu)... 40.113.101.167
+Connecting to www.tsd.lu (www.tsd.lu)|40.113.101.167|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:26:08 ERROR 400: Bad Request.
+

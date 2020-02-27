@@ -1,0 +1,6 @@
+--2020-02-25 21:01:35--  http://www.inrh.gv.ao/docs/GP_InspeccaoExpeditaBarragensAlbufeiras.pdf%0D
+Resolving www.inrh.gv.ao (www.inrh.gv.ao)... 209.59.134.58
+Connecting to www.inrh.gv.ao (www.inrh.gv.ao)|209.59.134.58|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:01:35 ERROR 500: Internal Server Error.
+

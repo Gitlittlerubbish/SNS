@@ -1,0 +1,6 @@
+--2020-02-26 00:22:06--  https://venezuela.no/constitucionpdf/constitution_esp.pdf%0D
+Resolving venezuela.no (venezuela.no)... 89.191.14.86
+Connecting to venezuela.no (venezuela.no)|89.191.14.86|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:22:07 ERROR 404: Not Found.
+

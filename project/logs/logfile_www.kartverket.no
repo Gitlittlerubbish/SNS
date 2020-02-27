@@ -1,0 +1,6 @@
+--2020-02-26 00:22:28--  https://www.kartverket.no/globalassets/kart/faktaark_nn2000.pdf%0D
+Resolving www.kartverket.no (www.kartverket.no)... 159.162.103.195
+Connecting to www.kartverket.no (www.kartverket.no)|159.162.103.195|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:28 ERROR 400: Bad Request.
+

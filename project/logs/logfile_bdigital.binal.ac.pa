@@ -1,0 +1,12 @@
+--2020-02-26 00:26:18--  http://bdigital.binal.ac.pa/bdp/tomoXVI2.pdf%0D
+Resolving bdigital.binal.ac.pa (bdigital.binal.ac.pa)... 190.34.168.179
+Connecting to bdigital.binal.ac.pa (bdigital.binal.ac.pa)|190.34.168.179|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:26:19 ERROR 403: Forbidden.
+
+--2020-02-26 00:26:19--  http://bdigital.binal.ac.pa/bdp/tomoXVI7.pdf%0D
+Resolving bdigital.binal.ac.pa (bdigital.binal.ac.pa)... 190.34.168.179
+Connecting to bdigital.binal.ac.pa (bdigital.binal.ac.pa)|190.34.168.179|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:26:19 ERROR 403: Forbidden.
+

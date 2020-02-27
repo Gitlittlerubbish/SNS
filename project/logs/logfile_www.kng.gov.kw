@@ -1,0 +1,6 @@
+--2020-02-25 23:16:13--  https://www.kng.gov.kw/uploads_info/magbrpdf/613_2219.pdf%0D
+Resolving www.kng.gov.kw (www.kng.gov.kw)... 62.150.46.18
+Connecting to www.kng.gov.kw (www.kng.gov.kw)|62.150.46.18|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:16:14 ERROR 400: Bad Request.
+

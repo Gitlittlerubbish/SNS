@@ -1,0 +1,54 @@
+--2020-02-25 23:17:24--  https://dom.kg/adv/pdf/25079%0D
+Resolving dom.kg (dom.kg)... 37.140.192.165
+Connecting to dom.kg (dom.kg)|37.140.192.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .........  6.92M=0.06s
+
+2020-02-25 23:17:25 (6.92 Mb/s) - ‘/dev/null’ saved [50358]
+
+--2020-02-25 23:17:25--  https://dom.kg/adv/pdf/25079%0D
+Resolving dom.kg (dom.kg)... 37.140.192.165
+Connecting to dom.kg (dom.kg)|37.140.192.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .........  6.89M=0.06s
+
+2020-02-25 23:17:26 (6.89 Mb/s) - ‘/dev/null’ saved [50358]
+
+--2020-02-25 23:17:26--  https://dom.kg/adv/pdf/25702%0D
+Resolving dom.kg (dom.kg)... 37.140.192.165
+Connecting to dom.kg (dom.kg)|37.140.192.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 3.77M
+    50K .......... .......... .......... .......... .......... 3.77M
+   100K .......... .......... .......... .......... .......... 7.52M
+   150K .......... .......... .......... .......... .......... 7.52M
+   200K .......... .......... .......... .......... .......... 7.56M
+   250K .......... .......... .......... .......... ......     6.98M=0.4s
+
+2020-02-25 23:17:26 (5.58 Mb/s) - ‘/dev/null’ saved [303194]
+
+--2020-02-25 23:17:26--  https://dom.kg/adv/pdf/25702%0D
+Resolving dom.kg (dom.kg)... 37.140.192.165
+Connecting to dom.kg (dom.kg)|37.140.192.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 3.78M
+    50K .......... .......... .......... .......... .......... 7.54M
+   100K .......... .......... .......... .......... .......... 7.54M
+   150K .......... .......... .......... .......... .......... 7.57M
+   200K .......... .......... .......... .......... ..........  611M
+   250K .......... .......... .......... .......... ......     7.04M=0.3s
+
+2020-02-25 23:17:27 (7.45 Mb/s) - ‘/dev/null’ saved [303194]
+

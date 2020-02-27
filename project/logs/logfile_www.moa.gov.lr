@@ -1,0 +1,40 @@
+--2020-02-25 23:22:41--  https://www.moa.gov.lr/doc/CFSNS-FINAL.pdf%0D
+Resolving www.moa.gov.lr (www.moa.gov.lr)... 198.57.27.125
+Connecting to www.moa.gov.lr (www.moa.gov.lr)|198.57.27.125|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://moa.gov.lr/ [following]
+--2020-02-25 23:22:41--  http://moa.gov.lr/
+Resolving moa.gov.lr (moa.gov.lr)... 198.57.27.125
+Connecting to moa.gov.lr (moa.gov.lr)|198.57.27.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://moa.gov.lr/ [following]
+--2020-02-25 23:22:41--  https://moa.gov.lr/
+Connecting to moa.gov.lr (moa.gov.lr)|198.57.27.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......     2.29M=0.2s
+
+2020-02-25 23:22:42 (2.29 Mb/s) - ‘/dev/null’ saved [47475]
+
+--2020-02-25 23:22:42--  https://www.moa.gov.lr/doc/CFSNS-FINAL.pdf%0D
+Resolving www.moa.gov.lr (www.moa.gov.lr)... 198.57.27.125
+Connecting to www.moa.gov.lr (www.moa.gov.lr)|198.57.27.125|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://moa.gov.lr/ [following]
+--2020-02-25 23:22:42--  http://moa.gov.lr/
+Resolving moa.gov.lr (moa.gov.lr)... 198.57.27.125
+Connecting to moa.gov.lr (moa.gov.lr)|198.57.27.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://moa.gov.lr/ [following]
+--2020-02-25 23:22:42--  https://moa.gov.lr/
+Connecting to moa.gov.lr (moa.gov.lr)|198.57.27.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......     2.30M=0.2s
+
+2020-02-25 23:22:43 (2.30 Mb/s) - ‘/dev/null’ saved [47475]
+

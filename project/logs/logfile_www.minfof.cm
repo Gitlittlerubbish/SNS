@@ -1,0 +1,12 @@
+--2020-02-25 21:34:53--  http://www.minfof.cm/documentation/Strategie_MINFOF_Version_du_26_novembre_2012_v18H.pdf%0D
+Resolving www.minfof.cm (www.minfof.cm)... 195.24.207.197
+Connecting to www.minfof.cm (www.minfof.cm)|195.24.207.197|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:34:56 ERROR 404: Not Found.
+
+--2020-02-25 21:37:13--  http://www.minfof.cm/documentation/Strategie_MINFOF_Version_du_26_novembre_2012_v18H.pdf%0D
+Resolving www.minfof.cm (www.minfof.cm)... 195.24.207.197
+Connecting to www.minfof.cm (www.minfof.cm)|195.24.207.197|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:13 ERROR 404: Not Found.
+

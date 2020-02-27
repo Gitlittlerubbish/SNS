@@ -1,0 +1,7 @@
+--2020-02-25 22:49:12--  http://jonkr.mmedia.is/myvatn/faoman.pdf%0D
+Resolving jonkr.mmedia.is (jonkr.mmedia.is)... 185.174.176.225
+Connecting to jonkr.mmedia.is (jonkr.mmedia.is)|185.174.176.225|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Could not parse String-Transport-Security header
+2020-02-25 22:49:12 ERROR 404: Not Found.
+

@@ -1,0 +1,60 @@
+--2020-02-25 22:16:58--  http://www.evutt.ee/images/Dokumendid/Raamatud/EEESTI_VUTT_linnukasvatusII.pdf%0D
+Resolving www.evutt.ee (www.evutt.ee)... 194.204.39.217
+Connecting to www.evutt.ee (www.evutt.ee)|194.204.39.217|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.evutt.ee/index.php?error=404&itemId=99999 [following]
+--2020-02-25 22:16:59--  http://www.evutt.ee/index.php?error=404&itemId=99999
+Reusing existing connection to www.evutt.ee:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                         404K=0.3s
+
+2020-02-25 22:17:00 (404 Kb/s) - ‘/dev/null’ saved [15070]
+
+--2020-02-25 22:17:00--  http://www.evutt.ee/images/Dokumendid/Raamatud/EEESTI_VUTT_linnukasvatusII.pdf%0D
+Resolving www.evutt.ee (www.evutt.ee)... 194.204.39.217
+Connecting to www.evutt.ee (www.evutt.ee)|194.204.39.217|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.evutt.ee/index.php?error=404&itemId=99999 [following]
+--2020-02-25 22:17:00--  http://www.evutt.ee/index.php?error=404&itemId=99999
+Reusing existing connection to www.evutt.ee:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                        3.52M=0.03s
+
+2020-02-25 22:17:01 (3.52 Mb/s) - ‘/dev/null’ saved [15070]
+
+--2020-02-25 22:17:03--  http://www.evutt.ee/images/Dokumendid/Raamatud/EEESTI_VUTT_linnukasvatusII.pdf%0D
+Resolving www.evutt.ee (www.evutt.ee)... 194.204.39.217
+Connecting to www.evutt.ee (www.evutt.ee)|194.204.39.217|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.evutt.ee/index.php?error=404&itemId=99999 [following]
+--2020-02-25 22:17:04--  http://www.evutt.ee/index.php?error=404&itemId=99999
+Reusing existing connection to www.evutt.ee:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                        1.94M=0.06s
+
+2020-02-25 22:17:04 (1.94 Mb/s) - ‘/dev/null’ saved [15070]
+
+--2020-02-25 22:17:04--  http://www.evutt.ee/images/Dokumendid/Raamatud/EEESTI_VUTT_linnukasvatusII.pdf%0D
+Resolving www.evutt.ee (www.evutt.ee)... 194.204.39.217
+Connecting to www.evutt.ee (www.evutt.ee)|194.204.39.217|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.evutt.ee/index.php?error=404&itemId=99999 [following]
+--2020-02-25 22:17:04--  http://www.evutt.ee/index.php?error=404&itemId=99999
+Reusing existing connection to www.evutt.ee:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                        3.60M=0.03s
+
+2020-02-25 22:17:05 (3.60 Mb/s) - ‘/dev/null’ saved [15070]
+

@@ -1,0 +1,6 @@
+--2020-02-25 21:04:28--  https://ab.gov.ag/pdf/vacancy/ABSSB_HRM_VACANCY.pdf%0D
+Resolving ab.gov.ag (ab.gov.ag)... 40.114.51.68
+Connecting to ab.gov.ag (ab.gov.ag)|40.114.51.68|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:04:29 ERROR 400: Bad Request.
+

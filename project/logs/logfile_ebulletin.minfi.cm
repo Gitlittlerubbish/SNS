@@ -1,0 +1,12 @@
+--2020-02-25 21:35:16--  https://ebulletin.minfi.cm/Informations2.pdf%0D
+Resolving ebulletin.minfi.cm (ebulletin.minfi.cm)... 195.24.205.37
+Connecting to ebulletin.minfi.cm (ebulletin.minfi.cm)|195.24.205.37|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:35:17 ERROR 400: Bad Request.
+
+--2020-02-25 21:37:24--  https://ebulletin.minfi.cm/Informations2.pdf%0D
+Resolving ebulletin.minfi.cm (ebulletin.minfi.cm)... 195.24.205.37
+Connecting to ebulletin.minfi.cm (ebulletin.minfi.cm)|195.24.205.37|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:37:24 ERROR 400: Bad Request.
+

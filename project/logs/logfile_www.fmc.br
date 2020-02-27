@@ -1,0 +1,12 @@
+--2020-02-25 21:19:36--  http://www.fmc.br/tcc21.pdf%0D
+Resolving www.fmc.br (www.fmc.br)... 186.202.153.205
+Connecting to www.fmc.br (www.fmc.br)|186.202.153.205|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:40 ERROR 404: Not Found.
+
+--2020-02-25 21:25:53--  http://www.fmc.br/tcc21.pdf%0D
+Resolving www.fmc.br (www.fmc.br)... 186.202.153.205
+Connecting to www.fmc.br (www.fmc.br)|186.202.153.205|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:55 ERROR 404: Not Found.
+

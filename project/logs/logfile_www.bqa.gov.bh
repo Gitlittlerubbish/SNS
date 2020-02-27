@@ -1,0 +1,12 @@
+--2020-02-25 21:03:23--  https://www.bqa.gov.bh/En/Publications/AnnualReports/AnnualReportEn2012.pdf%0D
+Resolving www.bqa.gov.bh (www.bqa.gov.bh)... 18.202.210.161
+Connecting to www.bqa.gov.bh (www.bqa.gov.bh)|18.202.210.161|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:03:23 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:36--  https://www.bqa.gov.bh/En/Publications/AnnualReports/AnnualReportEn2012.pdf%0D
+Resolving www.bqa.gov.bh (www.bqa.gov.bh)... 18.202.210.161
+Connecting to www.bqa.gov.bh (www.bqa.gov.bh)|18.202.210.161|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:36 ERROR 400: Bad Request.
+

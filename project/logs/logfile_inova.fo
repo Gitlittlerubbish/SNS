@@ -1,0 +1,12 @@
+--2020-02-25 22:19:23--  http://inova.fo/upload/myndasavn/mycycler_manual.pdf%0D
+Resolving inova.fo (inova.fo)... --2020-02-25 22:19:23--  http://inova.fo/upload/myndasavn/mycycler_manual.pdf%0D
+Resolving inova.fo (inova.fo)... 80.77.131.162
+Connecting to inova.fo (inova.fo)|80.77.131.162|:80... 80.77.131.162
+Connecting to inova.fo (inova.fo)|80.77.131.162|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:23 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:19:23 ERROR 400: Bad Request.
+

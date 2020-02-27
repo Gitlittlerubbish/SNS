@@ -1,0 +1,12 @@
+--2020-02-25 21:35:15--  http://www.ens.cm/files/demande_inscription_au_diplome.pdf%0D
+Resolving www.ens.cm (www.ens.cm)... 192.169.201.228
+Connecting to www.ens.cm (www.ens.cm)|192.169.201.228|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:16 ERROR 404: Not Found.
+
+--2020-02-25 21:37:23--  http://www.ens.cm/files/demande_inscription_au_diplome.pdf%0D
+Resolving www.ens.cm (www.ens.cm)... 192.169.201.228
+Connecting to www.ens.cm (www.ens.cm)|192.169.201.228|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:24 ERROR 404: Not Found.
+

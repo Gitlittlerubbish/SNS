@@ -1,0 +1,12 @@
+--2020-02-25 20:57:55--  https://susannahfullerton.com.au/wp-content/uploads/2019/04/The-Necklace.pdf%0D
+Resolving susannahfullerton.com.au (susannahfullerton.com.au)... 103.64.148.84
+Connecting to susannahfullerton.com.au (susannahfullerton.com.au)|103.64.148.84|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:58:01 ERROR 404: Not Found.
+
+--2020-02-25 21:10:19--  https://susannahfullerton.com.au/wp-content/uploads/2019/04/The-Necklace.pdf%0D
+Resolving susannahfullerton.com.au (susannahfullerton.com.au)... 103.64.148.84
+Connecting to susannahfullerton.com.au (susannahfullerton.com.au)|103.64.148.84|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:10:24 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:00:57--  http://milliarxiv.gov.az/storage/vaxt_normalari.pdf%0D
+Resolving milliarxiv.gov.az (milliarxiv.gov.az)... 31.170.236.83
+Connecting to milliarxiv.gov.az (milliarxiv.gov.az)|31.170.236.83|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:00 ERROR 404: Not Found.
+
+--2020-02-25 21:12:37--  http://milliarxiv.gov.az/storage/vaxt_normalari.pdf%0D
+Resolving milliarxiv.gov.az (milliarxiv.gov.az)... 31.170.236.83
+Connecting to milliarxiv.gov.az (milliarxiv.gov.az)|31.170.236.83|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:40 ERROR 404: Not Found.
+

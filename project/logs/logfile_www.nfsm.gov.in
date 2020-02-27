@@ -1,0 +1,6 @@
+--2020-02-25 22:50:42--  https://www.nfsm.gov.in/StatusPaper/Rice2016.pdf%0D
+Resolving www.nfsm.gov.in (www.nfsm.gov.in)... 164.100.78.209
+Connecting to www.nfsm.gov.in (www.nfsm.gov.in)|164.100.78.209|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:43 ERROR 400: Bad Request.
+

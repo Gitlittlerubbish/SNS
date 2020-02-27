@@ -1,0 +1,6 @@
+--2020-02-25 23:05:34--  https://www.mutah.edu.jo/Regulation/12.pdf%0D
+Resolving www.mutah.edu.jo (www.mutah.edu.jo)... 87.236.234.100
+Connecting to www.mutah.edu.jo (www.mutah.edu.jo)|87.236.234.100|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:34 ERROR 400: Bad Request.
+

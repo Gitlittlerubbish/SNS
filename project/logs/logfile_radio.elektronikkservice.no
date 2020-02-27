@@ -1,0 +1,6 @@
+--2020-02-26 00:22:29--  https://radio.elektronikkservice.no/media/li-ion-pds2018-mot-solutions.pdf%0D
+Resolving radio.elektronikkservice.no (radio.elektronikkservice.no)... 5.145.153.8
+Connecting to radio.elektronikkservice.no (radio.elektronikkservice.no)|5.145.153.8|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:30 ERROR 400: Bad Request.
+

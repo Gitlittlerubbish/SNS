@@ -1,0 +1,6 @@
+--2020-02-25 23:00:21--  http://www.didatticanda.it/mater_gener/exemples_sujets_debats_oral.pdf%0D
+Resolving www.didatticanda.it (www.didatticanda.it)... 31.11.33.76
+Connecting to www.didatticanda.it (www.didatticanda.it)|31.11.33.76|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:21 ERROR 400: Bad Request.
+

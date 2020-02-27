@@ -1,0 +1,12 @@
+--2020-02-25 22:17:14--  https://www.molnlycke.ee/link/88ff187628434767bf6d954779a82222.aspx%0D
+Resolving www.molnlycke.ee (www.molnlycke.ee)... 104.18.24.142, 104.18.25.142
+Connecting to www.molnlycke.ee (www.molnlycke.ee)|104.18.24.142|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:17:14 ERROR 400: Bad Request.
+
+--2020-02-25 22:17:15--  https://www.molnlycke.ee/link/88ff187628434767bf6d954779a82222.aspx%0D
+Resolving www.molnlycke.ee (www.molnlycke.ee)... 104.18.24.142, 104.18.25.142
+Connecting to www.molnlycke.ee (www.molnlycke.ee)|104.18.24.142|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:17:15 ERROR 400: Bad Request.
+

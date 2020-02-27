@@ -1,0 +1,12 @@
+--2020-02-25 20:55:08--  http://www.bsc.am/site_files/pages/greenhouses_guidebook_6237.pdf%0D
+Resolving www.bsc.am (www.bsc.am)... 217.113.1.146
+Connecting to www.bsc.am (www.bsc.am)|217.113.1.146|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 20:55:08 ERROR 403: Forbidden.
+
+--2020-02-25 21:07:58--  http://www.bsc.am/site_files/pages/greenhouses_guidebook_6237.pdf%0D
+Resolving www.bsc.am (www.bsc.am)... 217.113.1.146
+Connecting to www.bsc.am (www.bsc.am)|217.113.1.146|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:07:58 ERROR 403: Forbidden.
+

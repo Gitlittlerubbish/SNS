@@ -1,0 +1,22 @@
+--2020-02-25 23:32:32--  https://www.msig.com.my/PDF/MSIG_FAQ_Leaflet_Hires_CH.pdf%0D
+Resolving www.msig.com.my (www.msig.com.my)... 58.26.151.37
+Connecting to www.msig.com.my (www.msig.com.my)|58.26.151.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        2.34G=0s
+
+2020-02-25 23:32:33 (2.34 Gb/s) - ‘/dev/null’ saved [730]
+
+--2020-02-25 23:32:33--  https://www.msig.com.my/PDF/MSIG_FAQ_Leaflet_Hires_CH.pdf%0D
+Resolving www.msig.com.my (www.msig.com.my)... 58.26.151.37
+Connecting to www.msig.com.my (www.msig.com.my)|58.26.151.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        2.02G=0s
+
+2020-02-25 23:32:34 (2.02 Gb/s) - ‘/dev/null’ saved [730]
+

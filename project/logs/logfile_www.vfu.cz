@@ -1,0 +1,12 @@
+--2020-02-25 22:05:54--  https://www.vfu.cz/files/2110_021_spalkova.pdf%0D
+Resolving www.vfu.cz (www.vfu.cz)... --2020-02-25 22:05:54--  https://www.vfu.cz/files/2110_021_spalkova.pdf%0D
+Resolving www.vfu.cz (www.vfu.cz)... 195.113.198.42
+Connecting to www.vfu.cz (www.vfu.cz)|195.113.198.42|:443... 195.113.198.42
+Connecting to www.vfu.cz (www.vfu.cz)|195.113.198.42|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:05:54 ERROR 500: Internal Server Error.
+
+500 Internal Server Error
+2020-02-25 22:05:54 ERROR 500: Internal Server Error.
+

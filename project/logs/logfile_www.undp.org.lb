@@ -1,0 +1,6 @@
+--2020-02-25 23:21:13--  http://www.undp.org.lb/partners/NGOs/GeographicArea.pdf%0D
+Resolving www.undp.org.lb (www.undp.org.lb)... 194.126.7.20
+Connecting to www.undp.org.lb (www.undp.org.lb)|194.126.7.20|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:21:13 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:42:07--  http://www.silabo.pt/conteudos/7752_pdf.pdf%0D
+Resolving www.silabo.pt (www.silabo.pt)... 80.172.241.41
+Connecting to www.silabo.pt (www.silabo.pt)|80.172.241.41|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:42:08 ERROR 400: Bad Request.
+

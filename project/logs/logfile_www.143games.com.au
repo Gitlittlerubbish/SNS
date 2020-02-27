@@ -1,0 +1,12 @@
+--2020-02-25 20:57:16--  http://www.143games.com.au/manuals/00852131006150_PDF1.pdf%0D
+Resolving www.143games.com.au (www.143games.com.au)... 220.244.246.12
+Connecting to www.143games.com.au (www.143games.com.au)|220.244.246.12|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:57:17 ERROR 404: Not Found.
+
+--2020-02-25 21:09:47--  http://www.143games.com.au/manuals/00852131006150_PDF1.pdf%0D
+Resolving www.143games.com.au (www.143games.com.au)... 220.244.246.12
+Connecting to www.143games.com.au (www.143games.com.au)|220.244.246.12|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:48 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:38:19--  https://www.bienlinea.bi.com.gt/ach/documentos/diccionario.pdf%0D
+Resolving www.bienlinea.bi.com.gt (www.bienlinea.bi.com.gt)... 149.126.74.241
+Connecting to www.bienlinea.bi.com.gt (www.bienlinea.bi.com.gt)|149.126.74.241|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:38:19 ERROR 403: Forbidden.
+
+--2020-02-25 22:38:22--  https://www.bienlinea.bi.com.gt/ach/documentos/diccionario.pdf%0D
+Resolving www.bienlinea.bi.com.gt (www.bienlinea.bi.com.gt)... 149.126.74.241
+Connecting to www.bienlinea.bi.com.gt (www.bienlinea.bi.com.gt)|149.126.74.241|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:38:22 ERROR 403: Forbidden.
+

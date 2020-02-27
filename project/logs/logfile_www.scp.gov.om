@@ -1,0 +1,6 @@
+--2020-02-26 00:23:07--  https://www.scp.gov.om/PDF/Tanmiah2030.pdf%0D
+Resolving www.scp.gov.om (www.scp.gov.om)... 185.64.24.41
+Connecting to www.scp.gov.om (www.scp.gov.om)|185.64.24.41|:443... connected.
+ERROR: cannot verify www.scp.gov.om's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.scp.gov.om insecurely, use `--no-check-certificate'.

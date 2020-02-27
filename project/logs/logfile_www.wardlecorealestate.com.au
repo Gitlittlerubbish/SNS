@@ -1,0 +1,12 @@
+--2020-02-25 20:57:49--  https://www.wardlecorealestate.com.au/property/2904/brochure%0D
+Resolving www.wardlecorealestate.com.au (www.wardlecorealestate.com.au)... 13.35.198.118, 13.35.198.43, 13.35.198.81, ...
+Connecting to www.wardlecorealestate.com.au (www.wardlecorealestate.com.au)|13.35.198.118|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 20:57:50 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:10:13--  https://www.wardlecorealestate.com.au/property/2904/brochure%0D
+Resolving www.wardlecorealestate.com.au (www.wardlecorealestate.com.au)... 13.35.198.81, 13.35.198.118, 13.35.198.43, ...
+Connecting to www.wardlecorealestate.com.au (www.wardlecorealestate.com.au)|13.35.198.81|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:10:14 ERROR 500: Internal Server Error.
+

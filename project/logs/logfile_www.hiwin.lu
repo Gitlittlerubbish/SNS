@@ -1,0 +1,6 @@
+--2020-02-25 23:26:34--  http://www.hiwin.lu/download/tech_doc/br/Linear_Bearing-(E).pdf%0D
+Resolving www.hiwin.lu (www.hiwin.lu)... 61.221.19.244
+Connecting to www.hiwin.lu (www.hiwin.lu)|61.221.19.244|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:26:35 ERROR 400: Bad Request.
+

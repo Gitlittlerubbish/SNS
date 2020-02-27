@@ -1,0 +1,12 @@
+--2020-02-25 21:06:49--  http://bseu.by/ket/Filiptsov.pdf%0D
+Resolving bseu.by (bseu.by)... 212.98.183.186
+Connecting to bseu.by (bseu.by)|212.98.183.186|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:06:49 ERROR 400: Bad Request.
+
+--2020-02-25 21:17:01--  http://bseu.by/ket/Filiptsov.pdf%0D
+Resolving bseu.by (bseu.by)... 212.98.183.186
+Connecting to bseu.by (bseu.by)|212.98.183.186|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:17:01 ERROR 400: Bad Request.
+

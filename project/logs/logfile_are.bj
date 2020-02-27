@@ -1,0 +1,12 @@
+--2020-02-25 21:10:42--  https://are.bj/first_shortcoder/uploads/2017/09/NOTE-083.pdf%0D
+Resolving are.bj (are.bj)... 31.22.4.251
+Connecting to are.bj (are.bj)|31.22.4.251|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:19:47--  https://are.bj/first_shortcoder/uploads/2017/09/NOTE-083.pdf%0D
+Resolving are.bj (are.bj)... 31.22.4.251
+Connecting to are.bj (are.bj)|31.22.4.251|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:50 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:48:44--  http://www.stereocitta.fm/index.php%0D
+Resolving www.stereocitta.fm (www.stereocitta.fm)... 31.11.34.153
+Connecting to www.stereocitta.fm (www.stereocitta.fm)|31.11.34.153|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:48:44 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:32:09--  http://www.mca.cv/images/Codigo_de_Agua_e_Saneamento.pdf%0D
+Resolving www.mca.cv (www.mca.cv)... 213.150.196.37
+Connecting to www.mca.cv (www.mca.cv)|213.150.196.37|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:10 ERROR 404: Not Found.
+
+--2020-02-25 21:35:15--  http://www.mca.cv/images/Codigo_de_Agua_e_Saneamento.pdf%0D
+Resolving www.mca.cv (www.mca.cv)... 213.150.196.37
+Connecting to www.mca.cv (www.mca.cv)|213.150.196.37|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:15 ERROR 404: Not Found.
+

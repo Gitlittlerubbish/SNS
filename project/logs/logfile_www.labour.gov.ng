@@ -1,0 +1,8 @@
+--2020-02-26 00:16:26--  https://www.labour.gov.ng/Doc/NATIONAL_POLICY_ON_OCCUPATIONAL_SAFETY_AND_HEALTH.pdf%0D
+Resolving www.labour.gov.ng (www.labour.gov.ng)... 41.222.211.231
+Connecting to www.labour.gov.ng (www.labour.gov.ng)|41.222.211.231|:443... connected.
+ERROR: cannot verify www.labour.gov.ng's certificate, issued by ‘CN=Entrust Certification Authority - L1K,OU=(c) 2012 Entrust\\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\\, Inc.,C=US’:
+  Unable to locally verify the issuer's authority.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.labour.gov.ng’.
+To connect to www.labour.gov.ng insecurely, use `--no-check-certificate'.

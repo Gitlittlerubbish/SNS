@@ -1,0 +1,16 @@
+--2020-02-25 23:19:57--  http://apteka.lv/descriptions/Dopeg_3268.pdf%0D
+Resolving apteka.lv (apteka.lv)... 77.93.24.184
+Connecting to apteka.lv (apteka.lv)|77.93.24.184|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://apteka.lv/descriptions/Dopeg_3268.pdf%0d [following]
+--2020-02-25 23:19:57--  https://apteka.lv/descriptions/Dopeg_3268.pdf%0d
+Connecting to apteka.lv (apteka.lv)|77.93.24.184|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:19:57 ERROR 404: Not Found.
+
+--2020-02-25 23:19:57--  https://apteka.lv/descriptions/Fortr_6402.pdf%0D
+Resolving apteka.lv (apteka.lv)... 77.93.24.184
+Connecting to apteka.lv (apteka.lv)|77.93.24.184|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:19:57 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:34:53--  http://www.elot.gr/98-34_Info_brochure_2003_2121_en.pdf%0D
+Resolving www.elot.gr (www.elot.gr)... 193.218.125.20
+Connecting to www.elot.gr (www.elot.gr)|193.218.125.20|:80... --2020-02-25 22:34:53--  http://www.elot.gr/98-34_Info_brochure_2003_2121_en.pdf%0D
+Resolving www.elot.gr (www.elot.gr)... 193.218.125.20
+Connecting to www.elot.gr (www.elot.gr)|193.218.125.20|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:34:53 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:34:53 ERROR 400: Bad Request.
+

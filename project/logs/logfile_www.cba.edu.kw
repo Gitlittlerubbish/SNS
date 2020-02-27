@@ -1,0 +1,12 @@
+--2020-02-25 23:15:33--  http://www.cba.edu.kw/zainal/E4.pdf%0D
+Resolving www.cba.edu.kw (www.cba.edu.kw)... 139.141.236.130
+Connecting to www.cba.edu.kw (www.cba.edu.kw)|139.141.236.130|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:15:33 ERROR 400: Bad Request.
+
+--2020-02-25 23:15:33--  http://www.cba.edu.kw/zainal/e3.pdf%0D
+Resolving www.cba.edu.kw (www.cba.edu.kw)... 139.141.236.130
+Connecting to www.cba.edu.kw (www.cba.edu.kw)|139.141.236.130|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:15:34 ERROR 400: Bad Request.
+

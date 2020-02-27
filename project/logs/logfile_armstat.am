@@ -1,0 +1,12 @@
+--2020-02-25 20:54:31--  https://armstat.am/file/Map/MARZ_07.pdf%0D
+Resolving armstat.am (armstat.am)... 91.221.228.42
+Connecting to armstat.am (armstat.am)|91.221.228.42|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:32 ERROR 404: Not Found.
+
+--2020-02-25 21:07:29--  https://armstat.am/file/Map/MARZ_07.pdf%0D
+Resolving armstat.am (armstat.am)... 91.221.228.42
+Connecting to armstat.am (armstat.am)|91.221.228.42|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:29 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:51:03--  http://cja.gov.in/data/Executions.pdf%0D
+Resolving cja.gov.in (cja.gov.in)... 164.100.86.97
+Connecting to cja.gov.in (cja.gov.in)|164.100.86.97|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:51:03 ERROR 400: Bad Request.
+

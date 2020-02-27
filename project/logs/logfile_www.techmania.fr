@@ -1,0 +1,12 @@
+--2020-02-25 22:22:57--  http://www.techmania.fr/seche_main_dyson/Indices_Protection.pdf%0D
+Resolving www.techmania.fr (www.techmania.fr)... 213.186.33.82
+Connecting to www.techmania.fr (www.techmania.fr)|213.186.33.82|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:22:57--  http://www.techmania.fr/seche_main_dyson/Indices_Protection.pdf%0D
+Resolving www.techmania.fr (www.techmania.fr)... 213.186.33.82
+Connecting to www.techmania.fr (www.techmania.fr)|213.186.33.82|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:58 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:22:58 ERROR 404: Not Found.
+

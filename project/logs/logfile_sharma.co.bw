@@ -1,0 +1,12 @@
+--2020-02-25 21:18:12--  http://sharma.co.bw/documents/Intellectual_Property_Rights.pdf%0D
+Resolving sharma.co.bw (sharma.co.bw)... 79.170.44.102
+Connecting to sharma.co.bw (sharma.co.bw)|79.170.44.102|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:13 ERROR 404: Not Found.
+
+--2020-02-25 21:25:04--  http://sharma.co.bw/documents/Intellectual_Property_Rights.pdf%0D
+Resolving sharma.co.bw (sharma.co.bw)... 79.170.44.102
+Connecting to sharma.co.bw (sharma.co.bw)|79.170.44.102|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:04 ERROR 404: Not Found.
+

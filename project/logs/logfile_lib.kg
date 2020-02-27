@@ -1,0 +1,12 @@
+--2020-02-25 23:16:45--  https://lib.kg/%3Fwpfb_dl%3D1934%0D
+Resolving lib.kg (lib.kg)... 104.31.94.242, 104.31.95.242
+Connecting to lib.kg (lib.kg)|104.31.94.242|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 23:16:48--  https://lib.kg/%3Fwpfb_dl%3D2228%0D
+Resolving lib.kg (lib.kg)... 104.31.95.242, 104.31.94.242
+Connecting to lib.kg (lib.kg)|104.31.95.242|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

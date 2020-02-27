@@ -1,0 +1,22 @@
+--2020-02-26 00:16:24--  http://www.unilorin.edu.ng/downloads/debabase.pdf%0D
+Resolving www.unilorin.edu.ng (www.unilorin.edu.ng)... 99.84.5.83, 99.84.5.113, 99.84.5.95, ...
+Connecting to www.unilorin.edu.ng (www.unilorin.edu.ng)|99.84.5.83|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1512 (1.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 3.16G=0s
+
+2020-02-26 00:16:25 (3.16 Gb/s) - ‘/dev/null’ saved [1512/1512]
+
+--2020-02-26 00:16:25--  http://www.unilorin.edu.ng/downloads/debabase.pdf%0D
+Resolving www.unilorin.edu.ng (www.unilorin.edu.ng)... 99.84.5.95, 99.84.5.44, 99.84.5.83, ...
+Connecting to www.unilorin.edu.ng (www.unilorin.edu.ng)|99.84.5.95|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1512 (1.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 2.55G=0s
+
+2020-02-26 00:16:25 (2.55 Gb/s) - ‘/dev/null’ saved [1512/1512]
+

@@ -1,0 +1,7 @@
+--2020-02-25 23:05:57--  https://www.iec.jo/sites/default/files/%25D8%25AC%25D8%25AF%25D9%2588%25D9%2584_%25D8%25A7%25D9%2584%25D9%2586%25D8%25A7%25D8%25AE%25D8%25A8%25D9%258A%25D9%2586_%25D8%25A7%25D9%2584%25D9%2586%25D9%2587%25D8%25A7%25D8%25A6%25D9%258A_%25D8%25BA%25D8%25B1%25D9%2581%25D8%25A9_%25D8%25B5%25D9%2586%25D8%25A7%25D8%25B9%25D8%25A9_%25D8%25A7%25D9%2584%25D8%25B2%25D8%25B1%25D9%2582%25D8%25A7%25D8%25A1.pdf%0D
+Resolving www.iec.jo (www.iec.jo)... 104.31.78.117, 104.31.79.117
+Connecting to www.iec.jo (www.iec.jo)|104.31.78.117|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Cookie coming from www.iec.jo attempted to set domain to iec.jo
+2020-02-25 23:05:57 ERROR 404: Not Found.
+

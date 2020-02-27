@@ -1,0 +1,7 @@
+--2020-02-26 00:22:30--  https://home.hvl.no/ansatte/gste/ftp/MarinLab_files/Litteratur/WEC_tank_testing.pdf%0D
+Resolving home.hvl.no (home.hvl.no)... 158.37.24.47
+Connecting to home.hvl.no (home.hvl.no)|158.37.24.47|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+Cookie coming from home.hvl.no attempted to set domain to hvl.no
+2020-02-26 00:22:30 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:25:48--  https://finasta.lt/files/Latvija/Q_A_3PL.pdf%0D
+Resolving finasta.lt (finasta.lt)... 109.235.66.86
+Connecting to finasta.lt (finasta.lt)|109.235.66.86|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘finasta.lt’.
+To connect to finasta.lt insecurely, use `--no-check-certificate'.

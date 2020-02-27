@@ -1,0 +1,12 @@
+--2020-02-25 21:19:23--  https://www.bocra.org.bw/sites/default/files/BOCRA_Internet_Prices_2018.pdf%0D
+Resolving www.bocra.org.bw (www.bocra.org.bw)... 213.193.44.222
+Connecting to www.bocra.org.bw (www.bocra.org.bw)|213.193.44.222|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:26 ERROR 404: Not Found.
+
+--2020-02-25 21:25:45--  https://www.bocra.org.bw/sites/default/files/BOCRA_Internet_Prices_2018.pdf%0D
+Resolving www.bocra.org.bw (www.bocra.org.bw)... 213.193.44.222
+Connecting to www.bocra.org.bw (www.bocra.org.bw)|213.193.44.222|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:47 ERROR 404: Not Found.
+

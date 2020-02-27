@@ -1,0 +1,6 @@
+--2020-02-26 00:43:00--  http://intraedu.dde.pr/EEDocs/Derechos_padres.pdf%0D
+Resolving intraedu.dde.pr (intraedu.dde.pr)... 66.50.5.132
+Connecting to intraedu.dde.pr (intraedu.dde.pr)|66.50.5.132|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:43:01 ERROR 400: Bad Request.
+

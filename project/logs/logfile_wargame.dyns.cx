@@ -1,0 +1,12 @@
+--2020-02-25 21:47:49--  http://wargame.dyns.cx/docs/copyright.pdf%0D
+Resolving wargame.dyns.cx (wargame.dyns.cx)... --2020-02-25 21:47:49--  http://wargame.dyns.cx/docs/copyright.pdf%0D
+Resolving wargame.dyns.cx (wargame.dyns.cx)... 218.161.2.158
+Connecting to wargame.dyns.cx (wargame.dyns.cx)|218.161.2.158|:80... 218.161.2.158
+Connecting to wargame.dyns.cx (wargame.dyns.cx)|218.161.2.158|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:47:52 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 21:47:52 ERROR 404: Not Found.
+

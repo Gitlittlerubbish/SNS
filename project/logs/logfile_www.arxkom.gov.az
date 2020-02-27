@@ -1,0 +1,12 @@
+--2020-02-25 21:01:05--  https://www.arxkom.gov.az/images/tikinti_istismar_icaze.pdf%0D
+Resolving www.arxkom.gov.az (www.arxkom.gov.az)... 31.170.236.82
+Connecting to www.arxkom.gov.az (www.arxkom.gov.az)|31.170.236.82|:443... connected.
+ERROR: cannot verify www.arxkom.gov.az's certificate, issued by ‘CN=Thawte RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.arxkom.gov.az insecurely, use `--no-check-certificate'.
+--2020-02-25 21:12:42--  https://www.arxkom.gov.az/images/tikinti_istismar_icaze.pdf%0D
+Resolving www.arxkom.gov.az (www.arxkom.gov.az)... 31.170.236.82
+Connecting to www.arxkom.gov.az (www.arxkom.gov.az)|31.170.236.82|:443... connected.
+ERROR: cannot verify www.arxkom.gov.az's certificate, issued by ‘CN=Thawte RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.arxkom.gov.az insecurely, use `--no-check-certificate'.

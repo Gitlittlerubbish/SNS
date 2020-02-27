@@ -1,0 +1,6 @@
+--2020-02-26 00:21:21--  http://www.belzona.no/ViewFile.aspx%3Fid%3D51037%0D
+Resolving www.belzona.no (www.belzona.no)... 82.71.186.45
+Connecting to www.belzona.no (www.belzona.no)|82.71.186.45|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:21:21 ERROR 400: Bad Request.
+

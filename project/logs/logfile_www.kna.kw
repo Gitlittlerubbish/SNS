@@ -1,0 +1,12 @@
+--2020-02-25 23:15:36--  http://www.kna.kw/towasol/towasol7.pdf%0D
+Resolving www.kna.kw (www.kna.kw)... 195.78.74.15
+Connecting to www.kna.kw (www.kna.kw)|195.78.74.15|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:15:36 ERROR 400: Bad Request.
+
+--2020-02-25 23:15:36--  http://www.kna.kw/dastoorattachments/5_4_201681306AM_202446804_pdf.pdf%0D
+Resolving www.kna.kw (www.kna.kw)... 195.78.74.15
+Connecting to www.kna.kw (www.kna.kw)|195.78.74.15|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:15:36 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:11:35--  http://www.chw.bm/images/pdf/Beneficial_Ownership_Regime.pdf%0D
+Resolving www.chw.bm (www.chw.bm)... 192.185.168.31
+Connecting to www.chw.bm (www.chw.bm)|192.185.168.31|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:35 ERROR 404: Not Found.
+
+--2020-02-25 21:20:24--  http://www.chw.bm/images/pdf/Beneficial_Ownership_Regime.pdf%0D
+Resolving www.chw.bm (www.chw.bm)... 192.185.168.31
+Connecting to www.chw.bm (www.chw.bm)|192.185.168.31|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:25 ERROR 404: Not Found.
+

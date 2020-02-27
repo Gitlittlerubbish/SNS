@@ -1,0 +1,12 @@
+--2020-02-25 20:58:09--  https://cran.csiro.au/doc/contrib/wprowadzenie_do_R.pdf%0D
+Resolving cran.csiro.au (cran.csiro.au)... 150.229.0.204
+Connecting to cran.csiro.au (cran.csiro.au)|150.229.0.204|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:58:11 ERROR 404: Not Found.
+
+--2020-02-25 21:10:31--  https://cran.csiro.au/doc/contrib/wprowadzenie_do_R.pdf%0D
+Resolving cran.csiro.au (cran.csiro.au)... 150.229.0.204
+Connecting to cran.csiro.au (cran.csiro.au)|150.229.0.204|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:10:32 ERROR 404: Not Found.
+

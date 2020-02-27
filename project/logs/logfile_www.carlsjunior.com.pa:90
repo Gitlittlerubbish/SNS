@@ -1,0 +1,6 @@
+--2020-02-26 00:27:13--  http://www.carlsjunior.com.pa:90/menu/CARLSJRPANAMAMENU.pdf%0D
+Resolving www.carlsjunior.com.pa (www.carlsjunior.com.pa)... 200.122.220.26, 70.32.23.26
+Connecting to www.carlsjunior.com.pa (www.carlsjunior.com.pa)|200.122.220.26|:90... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:27:14 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:11:25--  https://www.belco.bm/img/Belco_ServiceRulesDoc_p2.pdf%0D
+Resolving www.belco.bm (www.belco.bm)... 199.172.247.50, 69.17.215.50
+Connecting to www.belco.bm (www.belco.bm)|199.172.247.50|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:11:25 ERROR 403: Forbidden.
+
+--2020-02-25 21:20:17--  https://www.belco.bm/img/Belco_ServiceRulesDoc_p2.pdf%0D
+Resolving www.belco.bm (www.belco.bm)... 69.17.215.50, 199.172.247.50
+Connecting to www.belco.bm (www.belco.bm)|69.17.215.50|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:20:17 ERROR 403: Forbidden.
+

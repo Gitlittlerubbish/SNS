@@ -1,0 +1,20 @@
+--2020-02-25 21:08:18--  http://cgt.bz/238rt%0D
+Resolving cgt.bz (cgt.bz)... 37.221.223.30
+Connecting to cgt.bz (cgt.bz)|37.221.223.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://cgt.bz/238rt%0D [following]
+--2020-02-25 21:08:18--  https://cgt.bz/238rt%0D
+Connecting to cgt.bz (cgt.bz)|37.221.223.30|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:08:18 ERROR 400: Bad Request.
+
+--2020-02-25 21:18:07--  http://cgt.bz/238rt%0D
+Resolving cgt.bz (cgt.bz)... 37.221.223.30
+Connecting to cgt.bz (cgt.bz)|37.221.223.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://cgt.bz/238rt%0D [following]
+--2020-02-25 21:18:07--  https://cgt.bz/238rt%0D
+Connecting to cgt.bz (cgt.bz)|37.221.223.30|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:18:07 ERROR 400: Bad Request.
+

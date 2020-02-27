@@ -1,0 +1,12 @@
+--2020-02-25 22:06:04--  http://sami.fel.cvut.cz/Articles/Orozco-Arroyave_2015.pdf%0D
+Resolving sami.fel.cvut.cz (sami.fel.cvut.cz)... --2020-02-25 22:06:04--  http://sami.fel.cvut.cz/Articles/Orozco-Arroyave_2015.pdf%0D
+Resolving sami.fel.cvut.cz (sami.fel.cvut.cz)... 147.32.210.146
+Connecting to sami.fel.cvut.cz (sami.fel.cvut.cz)|147.32.210.146|:80... 147.32.210.146
+Connecting to sami.fel.cvut.cz (sami.fel.cvut.cz)|147.32.210.146|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:06:04 ERROR 403: Forbidden.
+
+403 Forbidden
+2020-02-25 22:06:04 ERROR 403: Forbidden.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:15:56--  http://www.mineria.gob.bo/documentos/LEY535.pdf%0D
+Resolving www.mineria.gob.bo (www.mineria.gob.bo)... 190.129.70.195
+Connecting to www.mineria.gob.bo (www.mineria.gob.bo)|190.129.70.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:56 ERROR 404: Not Found.
+
+--2020-02-25 21:23:27--  http://www.mineria.gob.bo/documentos/LEY535.pdf%0D
+Resolving www.mineria.gob.bo (www.mineria.gob.bo)... 190.129.70.195
+Connecting to www.mineria.gob.bo (www.mineria.gob.bo)|190.129.70.195|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:29 ERROR 404: Not Found.
+

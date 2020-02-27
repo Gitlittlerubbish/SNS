@@ -1,0 +1,6 @@
+--2020-02-25 22:56:27--  https://www.buseireann.ie/timetables/182-1517485979.pdf%0D
+Resolving www.buseireann.ie (www.buseireann.ie)... 194.106.151.79
+Connecting to www.buseireann.ie (www.buseireann.ie)|194.106.151.79|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:56:27 ERROR 403: Forbidden.
+

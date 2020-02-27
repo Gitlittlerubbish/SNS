@@ -1,0 +1,12 @@
+--2020-02-25 21:46:13--  http://blog.sciencenet.cn/home.php%3Fmod%3Dattachment%26id%3D60142%0D
+Resolving blog.sciencenet.cn (blog.sciencenet.cn)... 59.110.247.133
+Connecting to blog.sciencenet.cn (blog.sciencenet.cn)|59.110.247.133|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:46:13 ERROR 404: Not Found.
+
+--2020-02-25 21:46:28--  http://blog.sciencenet.cn/home.php%3Fmod%3Dattachment%26id%3D60142%0D
+Resolving blog.sciencenet.cn (blog.sciencenet.cn)... 59.110.247.133
+Connecting to blog.sciencenet.cn (blog.sciencenet.cn)|59.110.247.133|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:46:28 ERROR 404: Not Found.
+

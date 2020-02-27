@@ -1,0 +1,12 @@
+--2020-02-25 22:12:13--  http://www.nrea.gov.eg/Content/files/1hadarya.pdf%0D
+Resolving www.nrea.gov.eg (www.nrea.gov.eg)... 213.158.162.229
+Connecting to www.nrea.gov.eg (www.nrea.gov.eg)|213.158.162.229|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:12:14 ERROR 400: Bad Request.
+
+--2020-02-25 22:13:11--  http://www.nrea.gov.eg/Content/files/1hadarya.pdf%0D
+Resolving www.nrea.gov.eg (www.nrea.gov.eg)... 213.158.162.229
+Connecting to www.nrea.gov.eg (www.nrea.gov.eg)|213.158.162.229|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:13:11 ERROR 400: Bad Request.
+

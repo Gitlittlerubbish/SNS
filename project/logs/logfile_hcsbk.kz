@@ -1,0 +1,10 @@
+--2020-02-25 23:06:20--  https://hcsbk.kz/150.pdf%0D
+Resolving hcsbk.kz (hcsbk.kz)... 91.215.137.72
+Connecting to hcsbk.kz (hcsbk.kz)|91.215.137.72|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://hcsbk.kz/150.pdf%0d [following]
+--2020-02-25 23:06:21--  https://hcsbk.kz/150.pdf%0d
+Reusing existing connection to hcsbk.kz:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:06:22 ERROR 404: Not Found.
+

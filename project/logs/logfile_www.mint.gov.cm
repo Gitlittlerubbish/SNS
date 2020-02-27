@@ -1,0 +1,12 @@
+--2020-02-25 21:36:05--  http://www.mint.gov.cm/fr/Telechargement/LISTE_DES_AUTOECOLES_CONFORME.pdf%0D
+Resolving www.mint.gov.cm (www.mint.gov.cm)... 195.24.203.33
+Connecting to www.mint.gov.cm (www.mint.gov.cm)|195.24.203.33|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:36:05 ERROR 403: Forbidden.
+
+--2020-02-25 21:37:57--  http://www.mint.gov.cm/fr/Telechargement/LISTE_DES_AUTOECOLES_CONFORME.pdf%0D
+Resolving www.mint.gov.cm (www.mint.gov.cm)... 195.24.203.33
+Connecting to www.mint.gov.cm (www.mint.gov.cm)|195.24.203.33|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:37:57 ERROR 403: Forbidden.
+

@@ -1,0 +1,12 @@
+--2020-02-26 00:00:27--  http://www.dnaguas.gov.mz/lib/Relatorios/Manica/0607Manica.pdf%0D
+Resolving www.dnaguas.gov.mz (www.dnaguas.gov.mz)... 196.46.1.194
+Connecting to www.dnaguas.gov.mz (www.dnaguas.gov.mz)|196.46.1.194|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:00:28 ERROR 404: Not Found.
+
+--2020-02-26 00:00:28--  http://www.dnaguas.gov.mz/lib/Relatorios/Pronasar/PRONASAR_Estudo_de_Base_Parte_Institucional_MA.pdf%0D
+Resolving www.dnaguas.gov.mz (www.dnaguas.gov.mz)... 196.46.1.194
+Connecting to www.dnaguas.gov.mz (www.dnaguas.gov.mz)|196.46.1.194|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:00:28 ERROR 404: Not Found.
+

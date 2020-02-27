@@ -1,0 +1,40 @@
+--2020-02-25 21:01:50--  https://www.ingresso-mirex.co.ao/files/dec2.pdf%0D
+Resolving www.ingresso-mirex.co.ao (www.ingresso-mirex.co.ao)... 72.52.216.157
+Connecting to www.ingresso-mirex.co.ao (www.ingresso-mirex.co.ao)|72.52.216.157|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ingresso-mirex.co.ao/erro-page [following]
+--2020-02-25 21:01:51--  https://ingresso-mirex.co.ao/erro-page
+Resolving ingresso-mirex.co.ao (ingresso-mirex.co.ao)... 72.52.216.157
+Connecting to ingresso-mirex.co.ao (ingresso-mirex.co.ao)|72.52.216.157|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: ./inicio [following]
+--2020-02-25 21:01:51--  https://ingresso-mirex.co.ao/inicio
+Reusing existing connection to ingresso-mirex.co.ao:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 17614 (17K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                    100% 1.46M=0.1s
+
+2020-02-25 21:01:51 (1.46 Mb/s) - ‘/dev/null’ saved [17614/17614]
+
+--2020-02-25 21:01:51--  https://www.ingresso-mirex.co.ao/files/dec2.pdf%0D
+Resolving www.ingresso-mirex.co.ao (www.ingresso-mirex.co.ao)... 72.52.216.157
+Connecting to www.ingresso-mirex.co.ao (www.ingresso-mirex.co.ao)|72.52.216.157|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ingresso-mirex.co.ao/erro-page [following]
+--2020-02-25 21:01:52--  https://ingresso-mirex.co.ao/erro-page
+Resolving ingresso-mirex.co.ao (ingresso-mirex.co.ao)... 72.52.216.157
+Connecting to ingresso-mirex.co.ao (ingresso-mirex.co.ao)|72.52.216.157|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: ./inicio [following]
+--2020-02-25 21:01:52--  https://ingresso-mirex.co.ao/inicio
+Reusing existing connection to ingresso-mirex.co.ao:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 17614 (17K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                    100% 1.46M=0.1s
+
+2020-02-25 21:01:52 (1.46 Mb/s) - ‘/dev/null’ saved [17614/17614]
+

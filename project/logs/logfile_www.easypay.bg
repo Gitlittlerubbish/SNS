@@ -1,0 +1,76 @@
+--2020-02-25 21:27:31--  https://www.easypay.bg/site/files/trms_ld.pdf%0D
+Resolving www.easypay.bg (www.easypay.bg)... 82.103.104.165
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.easypay.bg/ [following]
+--2020-02-25 21:27:31--  https://www.easypay.bg/
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.easypay.bg/site/ [following]
+--2020-02-25 21:27:31--  https://www.easypay.bg/site/
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                                501M=0s
+
+2020-02-25 21:27:32 (501 Mb/s) - ‘/dev/null’ saved [9163]
+
+--2020-02-25 21:27:32--  https://www.easypay.bg/site/files/trms_ld.pdf%0D
+Resolving www.easypay.bg (www.easypay.bg)... 82.103.104.165
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.easypay.bg/ [following]
+--2020-02-25 21:27:32--  https://www.easypay.bg/
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.easypay.bg/site/ [following]
+--2020-02-25 21:27:32--  https://www.easypay.bg/site/
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                                609M=0s
+
+2020-02-25 21:27:33 (609 Mb/s) - ‘/dev/null’ saved [9163]
+
+--2020-02-25 21:32:35--  https://www.easypay.bg/site/files/trms_ld.pdf%0D
+Resolving www.easypay.bg (www.easypay.bg)... 82.103.104.165
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.easypay.bg/ [following]
+--2020-02-25 21:32:36--  https://www.easypay.bg/
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.easypay.bg/site/ [following]
+--2020-02-25 21:32:36--  https://www.easypay.bg/site/
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                               74.8M=0.001s
+
+2020-02-25 21:32:36 (74.8 Mb/s) - ‘/dev/null’ saved [9163]
+
+--2020-02-25 21:32:36--  https://www.easypay.bg/site/files/trms_ld.pdf%0D
+Resolving www.easypay.bg (www.easypay.bg)... 82.103.104.165
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.easypay.bg/ [following]
+--2020-02-25 21:32:36--  https://www.easypay.bg/
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.easypay.bg/site/ [following]
+--2020-02-25 21:32:37--  https://www.easypay.bg/site/
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                               1.43G=0s
+
+2020-02-25 21:32:37 (1.43 Gb/s) - ‘/dev/null’ saved [9163]
+

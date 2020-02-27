@@ -1,0 +1,24 @@
+--2020-02-25 23:49:15--  http://www.wisniewski.fm/pdf/Oferta_HESTIA.pdf%0D
+Resolving www.wisniewski.fm (www.wisniewski.fm)... 89.161.235.31
+Connecting to www.wisniewski.fm (www.wisniewski.fm)|89.161.235.31|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90895 (89K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56% 4.81M 0s
+    50K .......... .......... .......... ........             100%  101M=0.09s
+
+2020-02-25 23:49:15 (8.23 Mb/s) - ‘/dev/null’ saved [90895/90895]
+
+--2020-02-25 23:49:15--  http://www.wisniewski.fm/pdf/Oferta_HESTIA.pdf%0D
+Resolving www.wisniewski.fm (www.wisniewski.fm)... 89.161.235.31
+Connecting to www.wisniewski.fm (www.wisniewski.fm)|89.161.235.31|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90895 (89K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56% 5.40M 0s
+    50K .......... .......... .......... ........             100% 93.2M=0.08s
+
+2020-02-25 23:49:16 (9.17 Mb/s) - ‘/dev/null’ saved [90895/90895]
+

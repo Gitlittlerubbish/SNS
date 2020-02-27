@@ -1,0 +1,6 @@
+--2020-02-25 22:47:28--  https://budapest.hu/Documents/20180906_BP_VK_digit.pdf%0D
+Resolving budapest.hu (budapest.hu)... 193.224.239.172
+Connecting to budapest.hu (budapest.hu)|193.224.239.172|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:47:29 ERROR 500: Internal Server Error.
+

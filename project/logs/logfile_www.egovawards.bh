@@ -1,0 +1,12 @@
+--2020-02-25 21:02:41--  https://www.egovawards.bh/UploadedFiles/eGovExcellenceAward2010_28Apr2010Ar.pdf%0D
+Resolving www.egovawards.bh (www.egovawards.bh)... 54.154.100.240, 52.49.81.72
+Connecting to www.egovawards.bh (www.egovawards.bh)|54.154.100.240|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:02:41 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:00--  https://www.egovawards.bh/UploadedFiles/eGovExcellenceAward2010_28Apr2010Ar.pdf%0D
+Resolving www.egovawards.bh (www.egovawards.bh)... 52.49.81.72, 54.154.100.240
+Connecting to www.egovawards.bh (www.egovawards.bh)|52.49.81.72|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:00 ERROR 400: Bad Request.
+

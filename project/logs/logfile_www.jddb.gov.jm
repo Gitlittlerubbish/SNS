@@ -1,0 +1,6 @@
+--2020-02-25 23:01:08--  http://www.jddb.gov.jm/files/Publications/farm_sec_survey_report_04.pdf%0D
+Resolving www.jddb.gov.jm (www.jddb.gov.jm)... 66.96.144.190
+Connecting to www.jddb.gov.jm (www.jddb.gov.jm)|66.96.144.190|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:01:08 ERROR 400: Bad Request.
+

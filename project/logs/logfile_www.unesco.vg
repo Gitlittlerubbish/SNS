@@ -1,0 +1,12 @@
+--2020-02-25 21:25:16--  http://www.unesco.vg/INTERNATIONAL_HANDBOOK.pdf%0D
+Resolving www.unesco.vg (www.unesco.vg)... 149.126.74.40
+Connecting to www.unesco.vg (www.unesco.vg)|149.126.74.40|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:25:16 ERROR 403: Forbidden.
+
+--2020-02-25 21:30:39--  http://www.unesco.vg/INTERNATIONAL_HANDBOOK.pdf%0D
+Resolving www.unesco.vg (www.unesco.vg)... 149.126.74.40
+Connecting to www.unesco.vg (www.unesco.vg)|149.126.74.40|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:30:39 ERROR 403: Forbidden.
+

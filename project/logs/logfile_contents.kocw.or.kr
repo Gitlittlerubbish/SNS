@@ -1,0 +1,6 @@
+--2020-02-25 23:15:28--  http://contents.kocw.or.kr/document/ch8_7.pdf%0D
+Resolving contents.kocw.or.kr (contents.kocw.or.kr)... 210.102.100.235
+Connecting to contents.kocw.or.kr (contents.kocw.or.kr)|210.102.100.235|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:15:29 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 23:33:04--  https://www.pos.com.my/media/3510/product_code_and_descriptions_for_pos_malaysia_track__trace_system.pdf%0D
+Resolving www.pos.com.my (www.pos.com.my)... 2.22.15.64
+Connecting to www.pos.com.my (www.pos.com.my)|2.22.15.64|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:33:05 ERROR 400: Bad Request.
+
+--2020-02-25 23:33:06--  https://www.pos.com.my/media/3510/product_code_and_descriptions_for_pos_malaysia_track__trace_system.pdf%0D
+Resolving www.pos.com.my (www.pos.com.my)... 2.22.15.64
+Connecting to www.pos.com.my (www.pos.com.my)|2.22.15.64|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:33:06 ERROR 400: Bad Request.
+

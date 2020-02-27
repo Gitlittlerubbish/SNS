@@ -1,0 +1,12 @@
+--2020-02-25 21:27:14--  http://www.incotex.bg/%3Fgatt%3D1704%0D
+Resolving www.incotex.bg (www.incotex.bg)... 95.87.212.101
+Connecting to www.incotex.bg (www.incotex.bg)|95.87.212.101|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:14 ERROR 404: Not Found.
+
+--2020-02-25 21:32:24--  http://www.incotex.bg/%3Fgatt%3D1704%0D
+Resolving www.incotex.bg (www.incotex.bg)... 95.87.212.101
+Connecting to www.incotex.bg (www.incotex.bg)|95.87.212.101|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:24 ERROR 404: Not Found.
+

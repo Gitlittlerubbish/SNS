@@ -1,0 +1,12 @@
+--2020-02-25 21:26:44--  http://www.abci.gov.bn/ABCi%2520Documents/PRODUCT%2520CERTIFICATION.pdf%0D
+Resolving www.abci.gov.bn (www.abci.gov.bn)... 103.4.188.86
+Connecting to www.abci.gov.bn (www.abci.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:45 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:56--  http://www.abci.gov.bn/ABCi%2520Documents/PRODUCT%2520CERTIFICATION.pdf%0D
+Resolving www.abci.gov.bn (www.abci.gov.bn)... 103.4.188.86
+Connecting to www.abci.gov.bn (www.abci.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:57 ERROR 400: Bad Request.
+

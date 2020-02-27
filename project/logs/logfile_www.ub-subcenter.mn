@@ -1,0 +1,38 @@
+--2020-02-25 23:54:00--  http://www.ub-subcenter.mn/webdata/law/37443d44eea801df40a83766f0d103b5.pdf%0D
+Resolving www.ub-subcenter.mn (www.ub-subcenter.mn)... 208.91.199.233
+Connecting to www.ub-subcenter.mn (www.ub-subcenter.mn)|208.91.199.233|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /mn [following]
+--2020-02-25 23:54:01--  http://www.ub-subcenter.mn/mn
+Reusing existing connection to www.ub-subcenter.mn:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ub-subcenter.mn/mn/ [following]
+--2020-02-25 23:54:01--  http://www.ub-subcenter.mn/mn/
+Reusing existing connection to www.ub-subcenter.mn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....      1.59M=0.2s
+
+2020-02-25 23:54:02 (1.59 Mb/s) - ‘/dev/null’ saved [46823]
+
+--2020-02-25 23:54:02--  http://www.ub-subcenter.mn/webdata/law/37443d44eea801df40a83766f0d103b5.pdf%0D
+Resolving www.ub-subcenter.mn (www.ub-subcenter.mn)... 208.91.199.233
+Connecting to www.ub-subcenter.mn (www.ub-subcenter.mn)|208.91.199.233|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: /mn [following]
+--2020-02-25 23:54:02--  http://www.ub-subcenter.mn/mn
+Reusing existing connection to www.ub-subcenter.mn:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ub-subcenter.mn/mn/ [following]
+--2020-02-25 23:54:02--  http://www.ub-subcenter.mn/mn/
+Reusing existing connection to www.ub-subcenter.mn:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....      1.57M=0.2s
+
+2020-02-25 23:54:03 (1.57 Mb/s) - ‘/dev/null’ saved [46823]
+

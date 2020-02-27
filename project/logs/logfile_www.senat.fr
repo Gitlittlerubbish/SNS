@@ -1,0 +1,12 @@
+--2020-02-25 22:23:08--  http://www.senat.fr/europe/textes_europeens/ue0136.pdf%0D
+Resolving www.senat.fr (www.senat.fr)... --2020-02-25 22:23:08--  http://www.senat.fr/europe/textes_europeens/ue0136.pdf%0D
+Resolving www.senat.fr (www.senat.fr)... 158.255.107.218
+Connecting to www.senat.fr (www.senat.fr)|158.255.107.218|:80... connected.
+HTTP request sent, awaiting response... 158.255.107.218
+Connecting to www.senat.fr (www.senat.fr)|158.255.107.218|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:09 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:23:09 ERROR 404: Not Found.
+

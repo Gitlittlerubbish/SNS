@@ -1,0 +1,12 @@
+--2020-02-25 21:03:44--  https://dhakaeducationboard.gov.bd/data/20190816113251546715.pdf%0D
+Resolving dhakaeducationboard.gov.bd (dhakaeducationboard.gov.bd)... 46.105.104.51, 193.70.79.13
+Connecting to dhakaeducationboard.gov.bd (dhakaeducationboard.gov.bd)|46.105.104.51|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:45 ERROR 404: Not Found.
+
+--2020-02-25 21:14:51--  https://dhakaeducationboard.gov.bd/data/20190816113251546715.pdf%0D
+Resolving dhakaeducationboard.gov.bd (dhakaeducationboard.gov.bd)... 193.70.79.13, 46.105.104.51
+Connecting to dhakaeducationboard.gov.bd (dhakaeducationboard.gov.bd)|193.70.79.13|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:51 ERROR 404: Not Found.
+

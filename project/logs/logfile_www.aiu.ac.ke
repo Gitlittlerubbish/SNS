@@ -1,0 +1,24 @@
+--2020-02-25 23:10:19--  https://www.aiu.ac.ke/fee-structure/send/5-fee-structure/7-fees-structure-2017-2018%0D
+Resolving www.aiu.ac.ke (www.aiu.ac.ke)... 41.204.161.148
+Connecting to www.aiu.ac.ke (www.aiu.ac.ke)|41.204.161.148|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75271 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68% 1.21M 0s
+    50K .......... .......... ...                             100%  545M=0.3s
+
+2020-02-25 23:10:21 (1.78 Mb/s) - ‘/dev/null’ saved [75271/75271]
+
+--2020-02-25 23:10:21--  https://www.aiu.ac.ke/fee-structure/send/5-fee-structure/7-fees-structure-2017-2018%0D
+Resolving www.aiu.ac.ke (www.aiu.ac.ke)... 41.204.161.148
+Connecting to www.aiu.ac.ke (www.aiu.ac.ke)|41.204.161.148|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75271 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68% 1.21M 0s
+    50K .......... .......... ...                             100%  662M=0.3s
+
+2020-02-25 23:10:23 (1.78 Mb/s) - ‘/dev/null’ saved [75271/75271]
+

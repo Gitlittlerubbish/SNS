@@ -1,0 +1,6 @@
+--2020-02-25 23:00:34--  http://www.iconpoint.it/schedatecnica/MEKT020.pdf%0D
+Resolving www.iconpoint.it (www.iconpoint.it)... 31.11.32.160
+Connecting to www.iconpoint.it (www.iconpoint.it)|31.11.32.160|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:34 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:12:34--  https://www.remitbhutan.bt/user_guide.pdf%0D
+Resolving www.remitbhutan.bt (www.remitbhutan.bt)... 202.144.157.61
+Connecting to www.remitbhutan.bt (www.remitbhutan.bt)|202.144.157.61|:443... connected.
+ERROR: cannot verify www.remitbhutan.bt's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.remitbhutan.bt insecurely, use `--no-check-certificate'.
+--2020-02-25 21:21:13--  https://www.remitbhutan.bt/user_guide.pdf%0D
+Resolving www.remitbhutan.bt (www.remitbhutan.bt)... 202.144.157.61
+Connecting to www.remitbhutan.bt (www.remitbhutan.bt)|202.144.157.61|:443... connected.
+ERROR: cannot verify www.remitbhutan.bt's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.remitbhutan.bt insecurely, use `--no-check-certificate'.

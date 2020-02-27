@@ -1,0 +1,16 @@
+--2020-02-25 22:22:24--  https://www.ttl.fi/ova/naoh.pdf%0D
+--2020-02-25 22:22:24--  https://www.ttl.fi/ova/naoh.pdf%0D
+Resolving www.ttl.fi (www.ttl.fi)... Resolving www.ttl.fi (www.ttl.fi)... 192.58.74.22
+Connecting to www.ttl.fi (www.ttl.fi)|192.58.74.22|:443... 192.58.74.22
+Connecting to www.ttl.fi (www.ttl.fi)|192.58.74.22|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://partner.ttl.fi/ova/ [following]
+--2020-02-25 22:22:24--  http://partner.ttl.fi/ova/
+Resolving partner.ttl.fi (partner.ttl.fi)... failed: Name or service not known.
+wget: unable to resolve host address ‘partner.ttl.fi’
+301 Moved Permanently
+Location: http://partner.ttl.fi/ova/ [following]
+--2020-02-25 22:22:24--  http://partner.ttl.fi/ova/
+Resolving partner.ttl.fi (partner.ttl.fi)... failed: Name or service not known.
+wget: unable to resolve host address ‘partner.ttl.fi’

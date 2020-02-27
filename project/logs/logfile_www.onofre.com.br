@@ -1,0 +1,12 @@
+--2020-02-25 21:19:55--  https://www.onofre.com.br/estaticos/bulas/195502.pdf%0D
+Resolving www.onofre.com.br (www.onofre.com.br)... 92.122.154.112, 104.86.111.27
+Connecting to www.onofre.com.br (www.onofre.com.br)|92.122.154.112|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:57 ERROR 404: Not Found.
+
+--2020-02-25 21:26:09--  https://www.onofre.com.br/estaticos/bulas/195502.pdf%0D
+Resolving www.onofre.com.br (www.onofre.com.br)... 2.18.66.97, 2.18.66.107
+Connecting to www.onofre.com.br (www.onofre.com.br)|2.18.66.97|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:26:11 ERROR 404: Not Found.
+

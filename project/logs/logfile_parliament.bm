@@ -1,0 +1,12 @@
+--2020-02-25 21:11:00--  http://parliament.bm/admin/uploads/report/6ce7766faa85c39fe11bffc75f81f6e4.pdf%0D
+Resolving parliament.bm (parliament.bm)... 184.154.208.19
+Connecting to parliament.bm (parliament.bm)|184.154.208.19|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:02 ERROR 404: Not Found.
+
+--2020-02-25 21:20:00--  http://parliament.bm/admin/uploads/report/6ce7766faa85c39fe11bffc75f81f6e4.pdf%0D
+Resolving parliament.bm (parliament.bm)... 184.154.208.19
+Connecting to parliament.bm (parliament.bm)|184.154.208.19|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:00 ERROR 404: Not Found.
+

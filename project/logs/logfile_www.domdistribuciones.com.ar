@@ -1,0 +1,6 @@
+--2020-02-25 21:05:47--  http://www.domdistribuciones.com.ar/catalogos/catalogodom.pdf%0D
+Resolving www.domdistribuciones.com.ar (www.domdistribuciones.com.ar)... 200.58.118.149
+Connecting to www.domdistribuciones.com.ar (www.domdistribuciones.com.ar)|200.58.118.149|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:05:47 ERROR 400: Bad Request.
+

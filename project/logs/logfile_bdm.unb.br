@@ -1,0 +1,12 @@
+--2020-02-25 21:20:50--  https://bdm.unb.br/bitstream/10483/881/1/2009_RaphaelFelipedeSousa.pdf%0D
+Resolving bdm.unb.br (bdm.unb.br)... 164.41.110.25
+Connecting to bdm.unb.br (bdm.unb.br)|164.41.110.25|:443... connected.
+ERROR: cannot verify bdm.unb.br's certificate, issued by ‘CN=RNP ICPEdu OV SSL CA 2019,ST=Rio de Janeiro,L=Rio de Janeiro,OU=Gerencia de Servicos (GSer),O=Rede Nacional de Ensino e Pesquisa - RNP,C=BR’:
+  Unable to locally verify the issuer's authority.
+To connect to bdm.unb.br insecurely, use `--no-check-certificate'.
+--2020-02-25 21:26:48--  https://bdm.unb.br/bitstream/10483/881/1/2009_RaphaelFelipedeSousa.pdf%0D
+Resolving bdm.unb.br (bdm.unb.br)... 164.41.110.25
+Connecting to bdm.unb.br (bdm.unb.br)|164.41.110.25|:443... connected.
+ERROR: cannot verify bdm.unb.br's certificate, issued by ‘CN=RNP ICPEdu OV SSL CA 2019,ST=Rio de Janeiro,L=Rio de Janeiro,OU=Gerencia de Servicos (GSer),O=Rede Nacional de Ensino e Pesquisa - RNP,C=BR’:
+  Unable to locally verify the issuer's authority.
+To connect to bdm.unb.br insecurely, use `--no-check-certificate'.

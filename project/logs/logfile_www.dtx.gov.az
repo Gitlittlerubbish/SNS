@@ -1,0 +1,12 @@
+--2020-02-25 21:01:22--  http://www.dtx.gov.az/pdf/qanunlar/6.pdf%0D
+Resolving www.dtx.gov.az (www.dtx.gov.az)... 31.170.236.85
+Connecting to www.dtx.gov.az (www.dtx.gov.az)|31.170.236.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:23 ERROR 404: Not Found.
+
+--2020-02-25 21:12:55--  http://www.dtx.gov.az/pdf/qanunlar/6.pdf%0D
+Resolving www.dtx.gov.az (www.dtx.gov.az)... 31.170.236.85
+Connecting to www.dtx.gov.az (www.dtx.gov.az)|31.170.236.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:56 ERROR 404: Not Found.
+

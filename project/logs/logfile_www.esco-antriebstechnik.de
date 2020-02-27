@@ -1,0 +1,76 @@
+--2020-02-25 22:31:49--  https://www.esco-antriebstechnik.de/downloads/Option_Manual-ASD-G9ETH_neutral_e.pdf%0D
+Resolving www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)... 80.82.216.25
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.esco-antriebstechnik.de/DE/index.php [following]
+--2020-02-25 22:31:49--  http://www.esco-antriebstechnik.de/DE/index.php
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.esco-antriebstechnik.de/DE/index.php [following]
+--2020-02-25 22:31:49--  https://www.esco-antriebstechnik.de/DE/index.php
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                              18.5M=0.01s
+
+2020-02-25 22:31:49 (18.5 Mb/s) - ‘/dev/null’ saved [23888]
+
+--2020-02-25 22:31:49--  https://www.esco-antriebstechnik.de/downloads/Option_Manual-ASD-G9ETH_neutral_e.pdf%0D
+Resolving www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)... 80.82.216.25
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:443... connected.
+--2020-02-25 22:31:49--  https://www.esco-antriebstechnik.de/downloads/Option_Manual-ASD-G9ETH_neutral_e.pdf%0D
+Resolving www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)... 80.82.216.25
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:443... connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: http://www.esco-antriebstechnik.de/DE/index.php [following]
+--2020-02-25 22:31:49--  http://www.esco-antriebstechnik.de/DE/index.php
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:80... 302 Found
+Location: http://www.esco-antriebstechnik.de/DE/index.php [following]
+--2020-02-25 22:31:49--  http://www.esco-antriebstechnik.de/DE/index.php
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.esco-antriebstechnik.de/DE/index.php [following]
+--2020-02-25 22:31:49--  https://www.esco-antriebstechnik.de/DE/index.php
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:443... 302 Found
+Location: https://www.esco-antriebstechnik.de/DE/index.php [following]
+--2020-02-25 22:31:49--  https://www.esco-antriebstechnik.de/DE/index.php
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                              18.3M=0.01s
+
+2020-02-25 22:31:49 (18.3 Mb/s) - ‘/dev/null’ saved [23888]
+
+... .......... ...                              18.3M=0.01s
+
+2020-02-25 22:31:49 (18.3 Mb/s) - ‘/dev/null’ saved [23888]
+
+--2020-02-25 22:31:49--  https://www.esco-antriebstechnik.de/downloads/Option_Manual-ASD-G9ETH_neutral_e.pdf%0D
+Resolving www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)... 80.82.216.25
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.esco-antriebstechnik.de/DE/index.php [following]
+--2020-02-25 22:31:49--  http://www.esco-antriebstechnik.de/DE/index.php
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.esco-antriebstechnik.de/DE/index.php [following]
+--2020-02-25 22:31:49--  https://www.esco-antriebstechnik.de/DE/index.php
+Connecting to www.esco-antriebstechnik.de (www.esco-antriebstechnik.de)|80.82.216.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                              18.2M=0.01s
+
+2020-02-25 22:31:49 (18.2 Mb/s) - ‘/dev/null’ saved [23888]
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:27:47--  https://inetdec.nra.bg/docs/InetVat_Client.pdf%0D
+Resolving inetdec.nra.bg (inetdec.nra.bg)... 212.122.164.35, 212.122.164.58, 212.122.164.63
+Connecting to inetdec.nra.bg (inetdec.nra.bg)|212.122.164.35|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:27:47 ERROR 403: Forbidden.
+
+--2020-02-25 21:32:47--  https://inetdec.nra.bg/docs/InetVat_Client.pdf%0D
+Resolving inetdec.nra.bg (inetdec.nra.bg)... 212.122.164.35, 212.122.164.58, 212.122.164.63
+Connecting to inetdec.nra.bg (inetdec.nra.bg)|212.122.164.35|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:32:48 ERROR 403: Forbidden.
+

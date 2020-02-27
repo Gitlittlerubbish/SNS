@@ -1,0 +1,6 @@
+--2020-02-26 00:24:38--  https://www.nbp.com.pk/advancesalary/AdvanceSalaryApplicationForm.pdf%0D
+Resolving www.nbp.com.pk (www.nbp.com.pk)... 104.16.165.55, 104.16.167.55, 104.16.166.55, ...
+Connecting to www.nbp.com.pk (www.nbp.com.pk)|104.16.165.55|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:24:38 ERROR 400: Bad Request.
+

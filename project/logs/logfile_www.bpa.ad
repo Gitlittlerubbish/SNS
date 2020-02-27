@@ -1,0 +1,6 @@
+--2020-02-25 21:00:47--  https://www.bpa.ad/fons/203_BP0000002010.pdf%0D
+Resolving www.bpa.ad (www.bpa.ad)... 91.187.93.149
+Connecting to www.bpa.ad (www.bpa.ad)|91.187.93.149|:443... connected.
+ERROR: cannot verify www.bpa.ad's certificate, issued by ‘CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.bpa.ad insecurely, use `--no-check-certificate'.

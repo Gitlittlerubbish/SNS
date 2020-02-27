@@ -1,0 +1,12 @@
+--2020-02-25 21:34:49--  http://www.lanacome.cm/DOSSIER_MARKETING_FORUM_QUALITE_2019.pdf%0D
+Resolving www.lanacome.cm (www.lanacome.cm)... 195.24.207.212
+Connecting to www.lanacome.cm (www.lanacome.cm)|195.24.207.212|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:34:49 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:37:10--  http://www.lanacome.cm/DOSSIER_MARKETING_FORUM_QUALITE_2019.pdf%0D
+Resolving www.lanacome.cm (www.lanacome.cm)... 195.24.207.212
+Connecting to www.lanacome.cm (www.lanacome.cm)|195.24.207.212|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:37:10 ERROR 500: Internal Server Error.
+

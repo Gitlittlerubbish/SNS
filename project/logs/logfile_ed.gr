@@ -1,0 +1,128 @@
+--2020-02-25 22:34:43--  http://ed.gr/v7xg%0D
+Resolving ed.gr (ed.gr)... --2020-02-25 22:34:43--  http://ed.gr/v7xg%0D
+Resolving ed.gr (ed.gr)... 52.72.49.79
+Connecting to ed.gr (ed.gr)|52.72.49.79|:80... 52.72.49.79
+Connecting to ed.gr (ed.gr)|52.72.49.79|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://rebrandly.com/404 [following]
+--2020-02-25 22:34:43--  https://rebrandly.com/404
+Resolving rebrandly.com (rebrandly.com)... 302 Found
+Location: https://rebrandly.com/404 [following]
+--2020-02-25 22:34:43--  https://rebrandly.com/404
+Resolving rebrandly.com (rebrandly.com)... 99.84.5.78, 99.84.5.126, 99.84.5.30, ...
+Connecting to rebrandly.com (rebrandly.com)|99.84.5.78|:443... 99.84.5.126, 99.84.5.30, 99.84.5.29, ...
+Connecting to rebrandly.com (rebrandly.com)|99.84.5.126|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: 1052 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  794M=0s
+
+2020-02-25 22:34:43 (794 Mb/s) - ‘/dev/null’ saved [1052/1052]
+
+200 OK
+Length: 1052 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  868M=0s
+
+2020-02-25 22:34:43 (868 Mb/s) - ‘/dev/null’ saved [1052/1052]
+
+--2020-02-25 22:34:43--  http://ed.gr/v7xg%0D
+Resolving ed.gr (ed.gr)... 52.72.49.79
+Connecting to ed.gr (ed.gr)|52.72.49.79|:80... --2020-02-25 22:34:43--  http://ed.gr/v7xg%0D
+Resolving ed.gr (ed.gr)... 52.72.49.79
+Connecting to ed.gr (ed.gr)|52.72.49.79|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://rebrandly.com/404 [following]
+--2020-02-25 22:34:44--  https://rebrandly.com/404
+Resolving rebrandly.com (rebrandly.com)... 99.84.5.126, 99.84.5.30, 99.84.5.29, ...
+Connecting to rebrandly.com (rebrandly.com)|99.84.5.126|:443... 302 Found
+Location: https://rebrandly.com/404 [following]
+--2020-02-25 22:34:44--  https://rebrandly.com/404
+Resolving rebrandly.com (rebrandly.com)... connected.
+99.84.5.126, 99.84.5.30, 99.84.5.29, ...
+Connecting to rebrandly.com (rebrandly.com)|99.84.5.126|:443... connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: 1052 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .200 OK
+Length: 1052 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  820M=0s
+
+2020-02-25 22:34:44 (820 Mb/s) - ‘/dev/null’ saved [1052/1052]
+
+                                                     100%  406M=0s
+
+2020-02-25 22:34:44 (406 Mb/s) - ‘/dev/null’ saved [1052/1052]
+
+--2020-02-25 22:34:44--  http://ed.gr/b5ty7%0D
+Resolving ed.gr (ed.gr)... --2020-02-25 22:34:44--  http://ed.gr/b5ty7%0D
+Resolving ed.gr (ed.gr)... 52.72.49.79
+Connecting to ed.gr (ed.gr)|52.72.49.79|:80... 52.72.49.79
+Connecting to ed.gr (ed.gr)|52.72.49.79|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://rebrandly.com/404 [following]
+--2020-02-25 22:34:44--  https://rebrandly.com/404
+Resolving rebrandly.com (rebrandly.com)... 302 Found
+Location: https://rebrandly.com/404 [following]
+--2020-02-25 22:34:44--  https://rebrandly.com/404
+Resolving rebrandly.com (rebrandly.com)... 99.84.5.126, 99.84.5.30, 99.84.5.29, ...
+Connecting to rebrandly.com (rebrandly.com)|99.84.5.126|:443... 99.84.5.29, 99.84.5.78, 99.84.5.126, ...
+Connecting to rebrandly.com (rebrandly.com)|99.84.5.29|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: 1052 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  339M=0s
+
+2020-02-25 22:34:44 (339 Mb/s) - ‘/dev/null’ saved [1052/1052]
+
+200 OK
+Length: 1052 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  914M=0s
+
+2020-02-25 22:34:44 (914 Mb/s) - ‘/dev/null’ saved [1052/1052]
+
+--2020-02-25 22:34:44--  http://ed.gr/b5ty7%0D
+Resolving ed.gr (ed.gr)... --2020-02-25 22:34:44--  http://ed.gr/b5ty7%0D
+Resolving ed.gr (ed.gr)... 52.72.49.79
+Connecting to ed.gr (ed.gr)|52.72.49.79|:80... 52.72.49.79
+Connecting to ed.gr (ed.gr)|52.72.49.79|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://rebrandly.com/404 [following]
+--2020-02-25 22:34:44--  https://rebrandly.com/404
+Resolving rebrandly.com (rebrandly.com)... 99.84.5.126, 99.84.5.30, 99.84.5.29, ...
+Connecting to rebrandly.com (rebrandly.com)|99.84.5.126|:443... connected.
+302 Found
+Location: https://rebrandly.com/404 [following]
+--2020-02-25 22:34:44--  https://rebrandly.com/404
+Resolving rebrandly.com (rebrandly.com)... 99.84.5.78, 99.84.5.126, 99.84.5.30, ...
+Connecting to rebrandly.com (rebrandly.com)|99.84.5.78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1052 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  142M=0s
+
+2020-02-25 22:34:44 (142 Mb/s) - ‘/dev/null’ saved [1052/1052]
+
+HTTP request sent, awaiting response... 200 OK
+Length: 1052 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 2.84G=0s
+
+2020-02-25 22:34:44 (2.84 Gb/s) - ‘/dev/null’ saved [1052/1052]
+

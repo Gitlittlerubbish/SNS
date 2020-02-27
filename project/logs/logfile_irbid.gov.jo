@@ -1,0 +1,6 @@
+--2020-02-25 23:05:51--  http://irbid.gov.jo/ProcedureFolder/15.pdf%0D
+Resolving irbid.gov.jo (irbid.gov.jo)... 107.180.34.106
+Connecting to irbid.gov.jo (irbid.gov.jo)|107.180.34.106|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:52 ERROR 400: Bad Request.
+

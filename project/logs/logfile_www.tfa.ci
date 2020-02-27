@@ -1,0 +1,22 @@
+--2020-02-25 21:59:47--  https://www.tfa.ci/uploads/1554988693tfa_presentation.pdf%0D
+Resolving www.tfa.ci (www.tfa.ci)... 67.20.114.22
+Connecting to www.tfa.ci (www.tfa.ci)|67.20.114.22|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.tousfreresetassocies.com/uploads/1554988693tfa_presentation.pdf%0d [following]
+--2020-02-25 21:59:48--  https://www.tousfreresetassocies.com/uploads/1554988693tfa_presentation.pdf%0d
+Resolving www.tousfreresetassocies.com (www.tousfreresetassocies.com)... 67.20.113.142
+Connecting to www.tousfreresetassocies.com (www.tousfreresetassocies.com)|67.20.113.142|:443... connected.
+--2020-02-25 21:59:49--  https://www.tfa.ci/uploads/1554988693tfa_presentation.pdf%0D
+Resolving www.tfa.ci (www.tfa.ci)... 67.20.114.22
+Connecting to www.tfa.ci (www.tfa.ci)|67.20.114.22|:443... HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:59:49 ERROR 404: Not Found.
+
+301 Moved Permanently
+Location: https://www.tousfreresetassocies.com/uploads/1554988693tfa_presentation.pdf%0d [following]
+--2020-02-25 21:59:49--  https://www.tousfreresetassocies.com/uploads/1554988693tfa_presentation.pdf%0d
+Resolving www.tousfreresetassocies.com (www.tousfreresetassocies.com)... 67.20.113.142
+Connecting to www.tousfreresetassocies.com (www.tousfreresetassocies.com)|67.20.113.142|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:59:50 ERROR 404: Not Found.
+

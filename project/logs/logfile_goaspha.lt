@@ -1,0 +1,40 @@
+--2020-02-25 23:25:05--  http://goaspha.lt/SR204%0D
+Resolving goaspha.lt (goaspha.lt)... 67.199.248.12, 67.199.248.13
+Connecting to goaspha.lt (goaspha.lt)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.asphaltpavement.org/PDFs/SR204-RAP_as_Clean_Fill.pdf [following]
+--2020-02-25 23:25:05--  https://www.asphaltpavement.org/PDFs/SR204-RAP_as_Clean_Fill.pdf
+Resolving www.asphaltpavement.org (www.asphaltpavement.org)... 107.180.84.125
+Connecting to www.asphaltpavement.org (www.asphaltpavement.org)|107.180.84.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227898 (223K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.85M 1s
+    50K .......... .......... .......... .......... .......... 44% 5.53M 0s
+   100K .......... .......... .......... .......... .......... 67% 5.54M 0s
+   150K .......... .......... .......... .......... .......... 89% 5.60M 0s
+   200K .......... .......... ..                              100% 1.26G=0.4s
+
+2020-02-25 23:25:06 (4.12 Mb/s) - ‘/dev/null’ saved [227898/227898]
+
+--2020-02-25 23:25:06--  http://goaspha.lt/SR204%0D
+Resolving goaspha.lt (goaspha.lt)... 67.199.248.12, 67.199.248.13
+Connecting to goaspha.lt (goaspha.lt)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.asphaltpavement.org/PDFs/SR204-RAP_as_Clean_Fill.pdf [following]
+--2020-02-25 23:25:06--  https://www.asphaltpavement.org/PDFs/SR204-RAP_as_Clean_Fill.pdf
+Resolving www.asphaltpavement.org (www.asphaltpavement.org)... 107.180.84.125
+Connecting to www.asphaltpavement.org (www.asphaltpavement.org)|107.180.84.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227898 (223K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.85M 1s
+    50K .......... .......... .......... .......... .......... 44% 5.53M 0s
+   100K .......... .......... .......... .......... .......... 67% 5.59M 0s
+   150K .......... .......... .......... .......... .......... 89%  413M 0s
+   200K .......... .......... ..                              100%  594M=0.4s
+
+2020-02-25 23:25:07 (4.93 Mb/s) - ‘/dev/null’ saved [227898/227898]
+

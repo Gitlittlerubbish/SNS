@@ -1,0 +1,20 @@
+--2020-02-25 21:03:36--  https://www.britishcouncil.org.bd/sites/default/files/celta-syllbus.pdf%0D
+Resolving www.britishcouncil.org.bd (www.britishcouncil.org.bd)... 104.84.250.178
+Connecting to www.britishcouncil.org.bd (www.britishcouncil.org.bd)|104.84.250.178|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.britishcouncil.org.bd/en/sites/default/files/celta-syllbus.pdf%0D [following]
+--2020-02-25 21:03:37--  https://www.britishcouncil.org.bd/en/sites/default/files/celta-syllbus.pdf%0D
+Reusing existing connection to www.britishcouncil.org.bd:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:37 ERROR 404: Not Found.
+
+--2020-02-25 21:14:44--  https://www.britishcouncil.org.bd/sites/default/files/celta-syllbus.pdf%0D
+Resolving www.britishcouncil.org.bd (www.britishcouncil.org.bd)... 104.84.250.178
+Connecting to www.britishcouncil.org.bd (www.britishcouncil.org.bd)|104.84.250.178|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.britishcouncil.org.bd/en/sites/default/files/celta-syllbus.pdf%0D [following]
+--2020-02-25 21:14:44--  https://www.britishcouncil.org.bd/en/sites/default/files/celta-syllbus.pdf%0D
+Reusing existing connection to www.britishcouncil.org.bd:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:44 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:31:27--  http://www.eirene.de/Devroye.pdf%0D
+Resolving www.eirene.de (www.eirene.de)... 134.94.130.56
+Connecting to www.eirene.de (www.eirene.de)|134.94.130.56|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:31:27 ERROR 404: Not Found.
+
+--2020-02-25 22:31:27--  http://www.eirene.de/Devroye.pdf%0D
+Resolving www.eirene.de (www.eirene.de)... 134.94.130.56
+Connecting to www.eirene.de (www.eirene.de)|134.94.130.56|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:31:27 ERROR 404: Not Found.
+

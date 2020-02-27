@@ -1,0 +1,12 @@
+--2020-02-25 21:21:32--  http://www.viacaotamandare.com.br/pdf/A31.pdf%0D
+Resolving www.viacaotamandare.com.br (www.viacaotamandare.com.br)... 187.45.240.50
+Connecting to www.viacaotamandare.com.br (www.viacaotamandare.com.br)|187.45.240.50|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:33 ERROR 404: Not Found.
+
+--2020-02-25 21:27:15--  http://www.viacaotamandare.com.br/pdf/A31.pdf%0D
+Resolving www.viacaotamandare.com.br (www.viacaotamandare.com.br)... 187.45.240.50
+Connecting to www.viacaotamandare.com.br (www.viacaotamandare.com.br)|187.45.240.50|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:15 ERROR 404: Not Found.
+

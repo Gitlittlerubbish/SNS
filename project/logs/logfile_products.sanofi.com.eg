@@ -1,0 +1,44 @@
+--2020-02-25 22:11:44--  http://products.sanofi.com.eg/Bronchicum.pdf%0D
+Resolving products.sanofi.com.eg (products.sanofi.com.eg)... --2020-02-25 22:11:44--  http://products.sanofi.com.eg/Bronchicum.pdf%0D
+Resolving products.sanofi.com.eg (products.sanofi.com.eg)... 212.121.182.98
+Connecting to products.sanofi.com.eg (products.sanofi.com.eg)|212.121.182.98|:80... connected.
+HTTP request sent, awaiting response... 212.121.182.98
+Connecting to products.sanofi.com.eg (products.sanofi.com.eg)|212.121.182.98|:80... 300 Multiple Choices
+Length: 429 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.07G=0s
+
+2020-02-25 22:11:44 (1.07 Gb/s) - ‘/dev/null’ saved [429/429]
+
+--2020-02-25 22:11:44--  http://products.sanofi.com.eg/Bronchicum.pdf%0D
+Resolving products.sanofi.com.eg (products.sanofi.com.eg)... 212.121.182.98
+Connecting to products.sanofi.com.eg (products.sanofi.com.eg)|212.121.182.98|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 300 Multiple Choices
+Length: 429 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.08G=0s
+
+2020-02-25 22:11:44 (1.08 Gb/s) - ‘/dev/null’ saved [429/429]
+
+--2020-02-25 22:11:44--  http://products.sanofi.com.eg/Bronchicum.pdf%0D
+Resolving products.sanofi.com.eg (products.sanofi.com.eg)... 212.121.182.98
+Connecting to products.sanofi.com.eg (products.sanofi.com.eg)|212.121.182.98|:80... 300 Multiple Choices
+Length: 429 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  168M=0s
+
+2020-02-25 22:11:44 (168 Mb/s) - ‘/dev/null’ saved [429/429]
+
+connected.
+HTTP request sent, awaiting response... 300 Multiple Choices
+Length: 429 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.07G=0s
+
+2020-02-25 22:11:44 (1.07 Gb/s) - ‘/dev/null’ saved [429/429]
+

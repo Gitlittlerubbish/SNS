@@ -1,0 +1,6 @@
+--2020-02-25 22:46:27--  https://www.ydc.gov.hk/files/pressroom/youth_report_2012_c.pdf%0D
+Resolving www.ydc.gov.hk (www.ydc.gov.hk)... 203.192.156.182
+Connecting to www.ydc.gov.hk (www.ydc.gov.hk)|203.192.156.182|:443... connected.
+ERROR: cannot verify www.ydc.gov.hk's certificate, issued by ‘CN=Hongkong Post e-Cert SSL CA 3 - 17,O=Hongkong Post,L=Hong Kong,ST=Hong Kong,C=HK’:
+  Unable to locally verify the issuer's authority.
+To connect to www.ydc.gov.hk insecurely, use `--no-check-certificate'.

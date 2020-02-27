@@ -1,0 +1,12 @@
+--2020-02-25 22:17:15--  https://www.kra.ee/static/Tervisedeklaratsioon.pdf%0D
+Resolving www.kra.ee (www.kra.ee)... 213.184.42.41
+Connecting to www.kra.ee (www.kra.ee)|213.184.42.41|:443... connected.
+--2020-02-25 22:17:16--  https://www.kra.ee/static/Tervisedeklaratsioon.pdf%0D
+Resolving www.kra.ee (www.kra.ee)... 213.184.42.41
+Connecting to www.kra.ee (www.kra.ee)|213.184.42.41|:443... HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:16 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:17:16 ERROR 404: Not Found.
+

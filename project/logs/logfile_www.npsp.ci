@@ -1,0 +1,12 @@
+--2020-02-25 22:00:04--  http://www.npsp.ci/assets/pdf/planNational.pdf%0D
+Resolving www.npsp.ci (www.npsp.ci)... --2020-02-25 22:00:04--  http://www.npsp.ci/assets/pdf/planNational.pdf%0D
+Resolving www.npsp.ci (www.npsp.ci)... 154.68.9.32
+Connecting to www.npsp.ci (www.npsp.ci)|154.68.9.32|:80... 154.68.9.32
+Connecting to www.npsp.ci (www.npsp.ci)|154.68.9.32|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:00:04 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:00:04 ERROR 404: Not Found.
+

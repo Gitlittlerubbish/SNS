@@ -1,0 +1,12 @@
+--2020-02-25 22:15:08--  http://gfjorth.gq/98-34_Info_brochure_2003_2121_en.pdf%0D
+Resolving gfjorth.gq (gfjorth.gq)... 104.27.184.3, 104.27.185.3
+Connecting to gfjorth.gq (gfjorth.gq)|104.27.184.3|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 22:15:25--  http://gfjorth.gq/98-34_Info_brochure_2003_2121_en.pdf%0D
+Resolving gfjorth.gq (gfjorth.gq)... 104.27.185.3, 104.27.184.3
+Connecting to gfjorth.gq (gfjorth.gq)|104.27.185.3|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

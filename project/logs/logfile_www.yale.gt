@@ -1,0 +1,12 @@
+--2020-02-25 22:37:50--  https://www.yale.gt/Yale/yalelatinoamericaCOM/Home/Candados.pdf%0D
+Resolving www.yale.gt (www.yale.gt)... --2020-02-25 22:37:50--  https://www.yale.gt/Yale/yalelatinoamericaCOM/Home/Candados.pdf%0D
+Resolving www.yale.gt (www.yale.gt)... 2.18.66.179, 2.18.66.171
+Connecting to www.yale.gt (www.yale.gt)|2.18.66.179|:443... connected.
+HTTP request sent, awaiting response... 2.18.66.171, 2.18.66.179
+Connecting to www.yale.gt (www.yale.gt)|2.18.66.171|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:37:50 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:37:50 ERROR 400: Bad Request.
+

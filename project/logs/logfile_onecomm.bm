@@ -1,0 +1,12 @@
+--2020-02-25 21:12:21--  https://onecomm.bm/sites/default/files/ONECOMM_CHANNEL%2520GUIDE_PRINT_V11_2019_02_08.pdf%0D
+Resolving onecomm.bm (onecomm.bm)... 23.185.0.3
+Connecting to onecomm.bm (onecomm.bm)|23.185.0.3|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:23 ERROR 404: Not Found.
+
+--2020-02-25 21:21:02--  https://onecomm.bm/sites/default/files/ONECOMM_CHANNEL%2520GUIDE_PRINT_V11_2019_02_08.pdf%0D
+Resolving onecomm.bm (onecomm.bm)... 23.185.0.3
+Connecting to onecomm.bm (onecomm.bm)|23.185.0.3|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:02 ERROR 404: Not Found.
+

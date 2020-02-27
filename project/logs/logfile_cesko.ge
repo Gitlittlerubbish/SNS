@@ -1,0 +1,12 @@
+--2020-02-25 22:30:53--  http://cesko.ge/geo/main/download/17969%0D
+Resolving cesko.ge (cesko.ge)... --2020-02-25 22:30:53--  http://cesko.ge/geo/main/download/17969%0D
+Resolving cesko.ge (cesko.ge)... 31.146.5.3, 89.232.48.3
+Connecting to cesko.ge (cesko.ge)|31.146.5.3|:80... 31.146.5.3, 89.232.48.3
+Connecting to cesko.ge (cesko.ge)|31.146.5.3|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:30:56 ERROR 403: Forbidden.
+
+403 Forbidden
+2020-02-25 22:30:56 ERROR 403: Forbidden.
+

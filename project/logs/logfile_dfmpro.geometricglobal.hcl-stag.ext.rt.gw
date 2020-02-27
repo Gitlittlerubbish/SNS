@@ -1,0 +1,12 @@
+--2020-02-25 22:40:00--  https://dfmpro.geometricglobal.hcl-stag.ext.rt.gw/files/2018/03/CIMdata-Commentary-HCL-DFMPro-Conference.pdf%0D
+Resolving dfmpro.geometricglobal.hcl-stag.ext.rt.gw (dfmpro.geometricglobal.hcl-stag.ext.rt.gw)... 3.88.123.51
+Connecting to dfmpro.geometricglobal.hcl-stag.ext.rt.gw (dfmpro.geometricglobal.hcl-stag.ext.rt.gw)|3.88.123.51|:443... connected.
+ERROR: cannot verify dfmpro.geometricglobal.hcl-stag.ext.rt.gw's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Issued certificate has expired.
+To connect to dfmpro.geometricglobal.hcl-stag.ext.rt.gw insecurely, use `--no-check-certificate'.
+--2020-02-25 22:40:00--  https://dfmpro.geometricglobal.hcl-stag.ext.rt.gw/files/2018/03/CIMdata-Commentary-HCL-DFMPro-Conference.pdf%0D
+Resolving dfmpro.geometricglobal.hcl-stag.ext.rt.gw (dfmpro.geometricglobal.hcl-stag.ext.rt.gw)... 3.88.123.51
+Connecting to dfmpro.geometricglobal.hcl-stag.ext.rt.gw (dfmpro.geometricglobal.hcl-stag.ext.rt.gw)|3.88.123.51|:443... connected.
+ERROR: cannot verify dfmpro.geometricglobal.hcl-stag.ext.rt.gw's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Issued certificate has expired.
+To connect to dfmpro.geometricglobal.hcl-stag.ext.rt.gw insecurely, use `--no-check-certificate'.

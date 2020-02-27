@@ -1,0 +1,12 @@
+--2020-02-25 21:26:44--  http://www.majlisilmu.gov.bn/SiteCollectionDocuments/2019/prosiding-seminar-mi.pdf%0D
+Resolving www.majlisilmu.gov.bn (www.majlisilmu.gov.bn)... 103.4.188.86
+Connecting to www.majlisilmu.gov.bn (www.majlisilmu.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:44 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:56--  http://www.majlisilmu.gov.bn/SiteCollectionDocuments/2019/prosiding-seminar-mi.pdf%0D
+Resolving www.majlisilmu.gov.bn (www.majlisilmu.gov.bn)... 103.4.188.86
+Connecting to www.majlisilmu.gov.bn (www.majlisilmu.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:56 ERROR 400: Bad Request.
+

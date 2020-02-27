@@ -1,0 +1,12 @@
+--2020-02-25 22:00:18--  http://agencecipme.ci/doc/decret-2016_1102.pdf%0D
+Resolving agencecipme.ci (agencecipme.ci)... --2020-02-25 22:00:18--  http://agencecipme.ci/doc/decret-2016_1102.pdf%0D
+Resolving agencecipme.ci (agencecipme.ci)... 212.83.154.92
+Connecting to agencecipme.ci (agencecipme.ci)|212.83.154.92|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:00:18 ERROR 404: Not Found.
+
+212.83.154.92
+Connecting to agencecipme.ci (agencecipme.ci)|212.83.154.92|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:00:18 ERROR 404: Not Found.
+

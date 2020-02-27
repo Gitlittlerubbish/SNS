@@ -1,0 +1,6 @@
+--2020-02-25 22:41:56--  http://legalaffairs.gov.gy/information/laws-of-guyana/900-chapter-1101-prison/file%0D
+Resolving legalaffairs.gov.gy (legalaffairs.gov.gy)... 161.47.124.187
+Connecting to legalaffairs.gov.gy (legalaffairs.gov.gy)|161.47.124.187|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:41:56 ERROR 400: Bad Request.
+

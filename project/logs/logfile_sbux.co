@@ -1,0 +1,68 @@
+--2020-02-25 21:51:01--  http://sbux.co/2zFYGfL%0D
+Resolving sbux.co (sbux.co)... 67.199.248.13, 67.199.248.12
+Connecting to sbux.co (sbux.co)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.starbucks.com/assets/ba6185aa2f9440379ce0857d89de8412.pdf [following]
+--2020-02-25 21:51:01--  https://www.starbucks.com/assets/ba6185aa2f9440379ce0857d89de8412.pdf
+Resolving www.starbucks.com (www.starbucks.com)... 104.84.246.13
+Connecting to www.starbucks.com (www.starbucks.com)|104.84.246.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93761 (92K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54%  662M 0s
+    50K .......... .......... .......... .......... .         100%  993M=0.001s
+
+2020-02-25 21:51:01 (780 Mb/s) - ‘/dev/null’ saved [93761/93761]
+
+--2020-02-25 21:51:01--  http://sbux.co/2zFYGfL%0D
+Resolving sbux.co (sbux.co)... 67.199.248.12, 67.199.248.13
+Connecting to sbux.co (sbux.co)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.starbucks.com/assets/ba6185aa2f9440379ce0857d89de8412.pdf [following]
+--2020-02-25 21:51:02--  https://www.starbucks.com/assets/ba6185aa2f9440379ce0857d89de8412.pdf
+Resolving www.starbucks.com (www.starbucks.com)... 104.84.246.13
+Connecting to www.starbucks.com (www.starbucks.com)|104.84.246.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93761 (92K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54%  755M 0s
+    50K .......... .......... .......... .......... .         100%  873M=0.001s
+
+2020-02-25 21:51:02 (804 Mb/s) - ‘/dev/null’ saved [93761/93761]
+
+--2020-02-25 21:51:07--  http://sbux.co/2zFYGfL%0D
+Resolving sbux.co (sbux.co)... 67.199.248.12, 67.199.248.13
+Connecting to sbux.co (sbux.co)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.starbucks.com/assets/ba6185aa2f9440379ce0857d89de8412.pdf [following]
+--2020-02-25 21:51:08--  https://www.starbucks.com/assets/ba6185aa2f9440379ce0857d89de8412.pdf
+Resolving www.starbucks.com (www.starbucks.com)... 104.84.246.13
+Connecting to www.starbucks.com (www.starbucks.com)|104.84.246.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93761 (92K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54%  817M 0s
+    50K .......... .......... .......... .......... .         100%  872M=0.001s
+
+2020-02-25 21:51:08 (841 Mb/s) - ‘/dev/null’ saved [93761/93761]
+
+--2020-02-25 21:51:08--  http://sbux.co/2zFYGfL%0D
+Resolving sbux.co (sbux.co)... 67.199.248.12, 67.199.248.13
+Connecting to sbux.co (sbux.co)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.starbucks.com/assets/ba6185aa2f9440379ce0857d89de8412.pdf [following]
+--2020-02-25 21:51:08--  https://www.starbucks.com/assets/ba6185aa2f9440379ce0857d89de8412.pdf
+Resolving www.starbucks.com (www.starbucks.com)... 104.84.246.13
+Connecting to www.starbucks.com (www.starbucks.com)|104.84.246.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93761 (92K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54%  905M 0s
+    50K .......... .......... .......... .......... .         100%  882M=0.001s
+
+2020-02-25 21:51:08 (895 Mb/s) - ‘/dev/null’ saved [93761/93761]
+

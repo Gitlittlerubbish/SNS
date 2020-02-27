@@ -1,0 +1,12 @@
+--2020-02-25 21:17:27--  http://www.upfbih.ba/uimages/dokumenti/Kolektivni20ugovor20za20sluC5BEbenike20organa20uprave20i20sudske20vlasti20u20FBiH.pdf%0D
+Resolving www.upfbih.ba (www.upfbih.ba)... 217.160.15.205
+Connecting to www.upfbih.ba (www.upfbih.ba)|217.160.15.205|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:17:27 ERROR 400: Bad Request.
+
+--2020-02-25 21:24:37--  http://www.upfbih.ba/uimages/dokumenti/Kolektivni20ugovor20za20sluC5BEbenike20organa20uprave20i20sudske20vlasti20u20FBiH.pdf%0D
+Resolving www.upfbih.ba (www.upfbih.ba)... 217.160.15.205
+Connecting to www.upfbih.ba (www.upfbih.ba)|217.160.15.205|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:24:37 ERROR 400: Bad Request.
+

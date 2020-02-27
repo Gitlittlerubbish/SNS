@@ -1,0 +1,12 @@
+--2020-02-25 21:38:18--  https://www.cigouk.ky/downloads/Education-Pack.pdf%0D
+Resolving www.cigouk.ky (www.cigouk.ky)... 213.175.217.43
+Connecting to www.cigouk.ky (www.cigouk.ky)|213.175.217.43|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:20 ERROR 404: Not Found.
+
+--2020-02-25 21:39:36--  https://www.cigouk.ky/downloads/Education-Pack.pdf%0D
+Resolving www.cigouk.ky (www.cigouk.ky)... 213.175.217.43
+Connecting to www.cigouk.ky (www.cigouk.ky)|213.175.217.43|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:39:37 ERROR 404: Not Found.
+

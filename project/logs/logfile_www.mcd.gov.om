@@ -1,0 +1,6 @@
+--2020-02-26 00:23:08--  https://www.mcd.gov.om/Downloads/mcd.pdf%0D
+Resolving www.mcd.gov.om (www.mcd.gov.om)... 185.64.24.117
+Connecting to www.mcd.gov.om (www.mcd.gov.om)|185.64.24.117|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:23:09 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:23:18--  https://www.meethaq.om/ar/cards/Documents/Meethaq_EPIN_Ar.pdf%0D
+Resolving www.meethaq.om (www.meethaq.om)... 185.64.25.58
+Connecting to www.meethaq.om (www.meethaq.om)|185.64.25.58|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:23:19 ERROR 400: Bad Request.
+

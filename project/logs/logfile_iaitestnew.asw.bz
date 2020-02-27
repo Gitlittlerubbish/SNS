@@ -1,0 +1,30 @@
+--2020-02-25 21:09:30--  http://iaitestnew.asw.bz/sites/default/files/medreset_wp_26.pdf%0D
+Resolving iaitestnew.asw.bz (iaitestnew.asw.bz)... 94.23.26.121
+Connecting to iaitestnew.asw.bz (iaitestnew.asw.bz)|94.23.26.121|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.iai.it/sites/default/files/medreset_wp_26.pdf%0D [following]
+--2020-02-25 21:09:30--  https://www.iai.it/sites/default/files/medreset_wp_26.pdf%0D
+Resolving www.iai.it (www.iai.it)... 94.23.26.121
+Connecting to www.iai.it (www.iai.it)|94.23.26.121|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.iai.it/it/sites/default/files/medreset_wp_26.pdf%0D [following]
+--2020-02-25 21:09:31--  https://www.iai.it/it/sites/default/files/medreset_wp_26.pdf%0D
+Reusing existing connection to www.iai.it:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:31 ERROR 404: Not Found.
+
+--2020-02-25 21:19:03--  http://iaitestnew.asw.bz/sites/default/files/medreset_wp_26.pdf%0D
+Resolving iaitestnew.asw.bz (iaitestnew.asw.bz)... 94.23.26.121
+Connecting to iaitestnew.asw.bz (iaitestnew.asw.bz)|94.23.26.121|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.iai.it/sites/default/files/medreset_wp_26.pdf%0D [following]
+--2020-02-25 21:19:03--  https://www.iai.it/sites/default/files/medreset_wp_26.pdf%0D
+Resolving www.iai.it (www.iai.it)... 94.23.26.121
+Connecting to www.iai.it (www.iai.it)|94.23.26.121|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.iai.it/it/sites/default/files/medreset_wp_26.pdf%0D [following]
+--2020-02-25 21:19:04--  https://www.iai.it/it/sites/default/files/medreset_wp_26.pdf%0D
+Reusing existing connection to www.iai.it:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:04 ERROR 404: Not Found.
+

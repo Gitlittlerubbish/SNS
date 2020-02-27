@@ -1,0 +1,12 @@
+--2020-02-25 21:11:17--  https://www.shoreline.bm/downloads/SL5_CBSAUpdate170404.pdf%0D
+Resolving www.shoreline.bm (www.shoreline.bm)... 104.24.102.119, 104.24.103.119
+Connecting to www.shoreline.bm (www.shoreline.bm)|104.24.102.119|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:18 ERROR 404: Not Found.
+
+--2020-02-25 21:20:11--  https://www.shoreline.bm/downloads/SL5_CBSAUpdate170404.pdf%0D
+Resolving www.shoreline.bm (www.shoreline.bm)... 104.24.102.119, 104.24.103.119
+Connecting to www.shoreline.bm (www.shoreline.bm)|104.24.102.119|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:12 ERROR 404: Not Found.
+

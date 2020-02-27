@@ -1,0 +1,12 @@
+--2020-02-25 21:02:48--  https://www.servcorp.bh/media/1409/annual_report_2015_asx.pdf%0D
+Resolving www.servcorp.bh (www.servcorp.bh)... 2.17.210.203, 2.17.210.197
+Connecting to www.servcorp.bh (www.servcorp.bh)|2.17.210.203|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:02:48 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:11--  https://www.servcorp.bh/media/1409/annual_report_2015_asx.pdf%0D
+Resolving www.servcorp.bh (www.servcorp.bh)... 2.17.210.203, 2.17.210.197
+Connecting to www.servcorp.bh (www.servcorp.bh)|2.17.210.203|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:11 ERROR 400: Bad Request.
+

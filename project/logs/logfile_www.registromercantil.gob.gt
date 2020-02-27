@@ -1,0 +1,12 @@
+--2020-02-25 22:37:28--  https://www.registromercantil.gob.gt/formularios/empresas.pdf%0D
+Resolving www.registromercantil.gob.gt (www.registromercantil.gob.gt)... --2020-02-25 22:37:28--  https://www.registromercantil.gob.gt/formularios/empresas.pdf%0D
+Resolving www.registromercantil.gob.gt (www.registromercantil.gob.gt)... 170.80.20.184
+Connecting to www.registromercantil.gob.gt (www.registromercantil.gob.gt)|170.80.20.184|:443... 170.80.20.184
+Connecting to www.registromercantil.gob.gt (www.registromercantil.gob.gt)|170.80.20.184|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:37:29 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:37:29 ERROR 400: Bad Request.
+

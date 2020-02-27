@@ -1,0 +1,22 @@
+--2020-02-25 23:53:18--  http://phone.mobinet.mn/download/ippbx_user_guide_basic.pdf%0D
+Resolving phone.mobinet.mn (phone.mobinet.mn)... 202.131.224.47
+Connecting to phone.mobinet.mn (phone.mobinet.mn)|202.131.224.47|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         806M=0s
+
+2020-02-25 23:53:18 (806 Mb/s) - ‘/dev/null’ saved [730]
+
+--2020-02-25 23:53:18--  http://phone.mobinet.mn/download/ippbx_user_guide_basic.pdf%0D
+Resolving phone.mobinet.mn (phone.mobinet.mn)... 202.131.224.47
+Connecting to phone.mobinet.mn (phone.mobinet.mn)|202.131.224.47|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        1.69G=0s
+
+2020-02-25 23:53:18 (1.69 Gb/s) - ‘/dev/null’ saved [730]
+

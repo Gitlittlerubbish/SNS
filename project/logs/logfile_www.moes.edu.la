@@ -1,0 +1,6 @@
+--2020-02-25 23:19:29--  http://www.moes.edu.la/ries/images/secondaryPDF/M2/TB/LiteratureTBM2codex.pdf%0D
+Resolving www.moes.edu.la (www.moes.edu.la)... 202.123.181.67
+Connecting to www.moes.edu.la (www.moes.edu.la)|202.123.181.67|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:19:30 ERROR 400: Bad Request.
+

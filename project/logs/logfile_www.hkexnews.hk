@@ -1,0 +1,36 @@
+--2020-02-25 22:46:44--  http://www.hkexnews.hk/listedco/listconews/sehk/2019/1203/2019120301458_c.pdf%0D
+Resolving www.hkexnews.hk (www.hkexnews.hk)... 2.18.66.41, 2.18.66.50
+Connecting to www.hkexnews.hk (www.hkexnews.hk)|2.18.66.41|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.hkexnews.hk [following]
+--2020-02-25 22:46:45--  http://www.hkexnews.hk/
+Reusing existing connection to www.hkexnews.hk:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hkexnews.hk/ [following]
+--2020-02-25 22:46:45--  https://www.hkexnews.hk/
+Connecting to www.hkexnews.hk (www.hkexnews.hk)|2.18.66.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9066 (8.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                              100% 3.60G=0s
+
+2020-02-25 22:46:45 (3.60 Gb/s) - ‘/dev/null’ saved [9066/9066]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 22:46:45--  https://www.hkexnews.hk/listedco/listconews/sehk/2019/1203/2019120301458_c.pdf%0D
+Resolving www.hkexnews.hk (www.hkexnews.hk)... 2.18.66.41, 2.18.66.50
+Connecting to www.hkexnews.hk (www.hkexnews.hk)|2.18.66.41|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.hkexnews.hk [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 22:46:46--  https://www.hkexnews.hk/
+Reusing existing connection to www.hkexnews.hk:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9066 (8.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                              100% 1.15G=0s
+
+2020-02-25 22:46:46 (1.15 Gb/s) - ‘/dev/null’ saved [9066/9066]
+

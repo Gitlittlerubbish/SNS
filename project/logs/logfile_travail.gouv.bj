@@ -1,0 +1,20 @@
+--2020-02-25 21:10:09--  https://travail.gouv.bj/public/storage/documents/PSRAI.pdf%0D
+Resolving travail.gouv.bj (travail.gouv.bj)... 137.255.9.108
+Connecting to travail.gouv.bj (travail.gouv.bj)|137.255.9.108|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://travail.gouv.bj/public/405 [following]
+--2020-02-25 21:10:10--  https://travail.gouv.bj/public/405
+Reusing existing connection to travail.gouv.bj:443.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:10:10 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:19:30--  https://travail.gouv.bj/public/storage/documents/PSRAI.pdf%0D
+Resolving travail.gouv.bj (travail.gouv.bj)... 137.255.9.108
+Connecting to travail.gouv.bj (travail.gouv.bj)|137.255.9.108|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://travail.gouv.bj/public/405 [following]
+--2020-02-25 21:19:30--  https://travail.gouv.bj/public/405
+Reusing existing connection to travail.gouv.bj:443.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:19:31 ERROR 500: Internal Server Error.
+

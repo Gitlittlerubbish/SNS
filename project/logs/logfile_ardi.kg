@@ -1,0 +1,6 @@
+--2020-02-25 23:17:12--  http://ardi.kg/download/CSO_toolKit_Rus.pdf%0D
+Resolving ardi.kg (ardi.kg)... 176.126.165.51
+Connecting to ardi.kg (ardi.kg)|176.126.165.51|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:17:13 ERROR 500: Internal Server Error.
+

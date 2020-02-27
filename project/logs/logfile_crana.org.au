@@ -1,0 +1,12 @@
+--2020-02-25 20:58:38--  https://crana.org.au/uploads/pdfs/Other_42.pdf%0D
+Resolving crana.org.au (crana.org.au)... 116.90.0.146
+Connecting to crana.org.au (crana.org.au)|116.90.0.146|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:58:42 ERROR 404: Not Found.
+
+--2020-02-25 21:10:49--  https://crana.org.au/uploads/pdfs/Other_42.pdf%0D
+Resolving crana.org.au (crana.org.au)... 116.90.0.146
+Connecting to crana.org.au (crana.org.au)|116.90.0.146|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:10:53 ERROR 404: Not Found.
+

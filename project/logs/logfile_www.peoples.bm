@@ -1,0 +1,12 @@
+--2020-02-25 21:11:25--  http://www.peoples.bm/pdf/PeoplesPharmacyJobApplication.pdf%0D
+Resolving www.peoples.bm (www.peoples.bm)... 216.249.47.113
+Connecting to www.peoples.bm (www.peoples.bm)|216.249.47.113|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:26 ERROR 400: Bad Request.
+
+--2020-02-25 21:20:17--  http://www.peoples.bm/pdf/PeoplesPharmacyJobApplication.pdf%0D
+Resolving www.peoples.bm (www.peoples.bm)... 216.249.47.113
+Connecting to www.peoples.bm (www.peoples.bm)|216.249.47.113|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:20:17 ERROR 400: Bad Request.
+

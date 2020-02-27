@@ -1,0 +1,22 @@
+--2020-02-25 23:19:27--  https://www.laopediatricassociation.la/assets/downloads/583d04cab2b6f.pdf%0D
+Resolving www.laopediatricassociation.la (www.laopediatricassociation.la)... 104.18.36.221, 104.18.37.221
+Connecting to www.laopediatricassociation.la (www.laopediatricassociation.la)|104.18.36.221|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                                 264M=0s
+
+2020-02-25 23:19:27 (264 Mb/s) - ‘/dev/null’ saved [7508]
+
+--2020-02-25 23:19:27--  https://www.laopediatricassociation.la/assets/downloads/583d04cab2b6f.pdf%0D
+Resolving www.laopediatricassociation.la (www.laopediatricassociation.la)... 104.18.37.221, 104.18.36.221
+Connecting to www.laopediatricassociation.la (www.laopediatricassociation.la)|104.18.37.221|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                                1.15G=0s
+
+2020-02-25 23:19:27 (1.15 Gb/s) - ‘/dev/null’ saved [7508]
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:18:01--  http://www.ecc.gov.et/images/Directives/153.pdf%0D
+Resolving www.ecc.gov.et (www.ecc.gov.et)... 197.156.96.164
+Connecting to www.ecc.gov.et (www.ecc.gov.et)|197.156.96.164|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:18:01 ERROR 403: Forbidden.
+
+--2020-02-25 22:18:03--  http://www.ecc.gov.et/images/Directives/153.pdf%0D
+Resolving www.ecc.gov.et (www.ecc.gov.et)... 197.156.96.164
+Connecting to www.ecc.gov.et (www.ecc.gov.et)|197.156.96.164|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:18:03 ERROR 403: Forbidden.
+

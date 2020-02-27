@@ -1,0 +1,12 @@
+--2020-02-25 21:32:40--  https://maa.gov.cv/images/Anbiente/Documentos/Projecto_Biotur.pdf%0D
+Resolving maa.gov.cv (maa.gov.cv)... 213.150.196.37
+Connecting to maa.gov.cv (maa.gov.cv)|213.150.196.37|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:41 ERROR 404: Not Found.
+
+--2020-02-25 21:35:38--  https://maa.gov.cv/images/Anbiente/Documentos/Projecto_Biotur.pdf%0D
+Resolving maa.gov.cv (maa.gov.cv)... 213.150.196.37
+Connecting to maa.gov.cv (maa.gov.cv)|213.150.196.37|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:38 ERROR 404: Not Found.
+

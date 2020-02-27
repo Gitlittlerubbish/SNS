@@ -1,0 +1,6 @@
+--2020-02-25 21:01:55--  http://www.dimetal.co.ao/site/source/vedacoes_geral.pdf%0D
+Resolving www.dimetal.co.ao (www.dimetal.co.ao)... 188.93.231.4
+Connecting to www.dimetal.co.ao (www.dimetal.co.ao)|188.93.231.4|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:55 ERROR 400: Bad Request.
+

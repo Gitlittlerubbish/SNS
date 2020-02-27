@@ -1,0 +1,44 @@
+--2020-02-25 22:11:53--  http://www.mcit.gov.eg/Upcont/Tenders/2015830142451RFP_Central_Auditing_Organization.pdf%0D
+Resolving www.mcit.gov.eg (www.mcit.gov.eg)... --2020-02-25 22:11:53--  http://www.mcit.gov.eg/Upcont/Tenders/2015830142451RFP_Central_Auditing_Organization.pdf%0D
+Resolving www.mcit.gov.eg (www.mcit.gov.eg)... 81.21.97.100
+Connecting to www.mcit.gov.eg (www.mcit.gov.eg)|81.21.97.100|:80... 81.21.97.100
+Connecting to www.mcit.gov.eg (www.mcit.gov.eg)|81.21.97.100|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  264M=0s
+
+2020-02-25 22:11:54 (264 Mb/s) - ‘/dev/null’ saved [247/247]
+
+--2020-02-25 22:11:54--  http://www.mcit.gov.eg/Upcont/Tenders/2015830142451RFP_Central_Auditing_Organization.pdf%0D
+Resolving www.mcit.gov.eg (www.mcit.gov.eg)... 81.21.97.100
+Connecting to www.mcit.gov.eg (www.mcit.gov.eg)|81.21.97.100|:80... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  618M=0s
+
+2020-02-25 22:11:54 (618 Mb/s) - ‘/dev/null’ saved [247/247]
+
+--2020-02-25 22:11:54--  http://www.mcit.gov.eg/Upcont/Tenders/2015830142451RFP_Central_Auditing_Organization.pdf%0D
+Resolving www.mcit.gov.eg (www.mcit.gov.eg)... connected.
+HTTP request sent, awaiting response... 81.21.97.100
+Connecting to www.mcit.gov.eg (www.mcit.gov.eg)|81.21.97.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  547M=0s
+
+2020-02-25 22:11:54 (547 Mb/s) - ‘/dev/null’ saved [247/247]
+
+200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  256M=0s
+
+2020-02-25 22:11:54 (256 Mb/s) - ‘/dev/null’ saved [247/247]
+

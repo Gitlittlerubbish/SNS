@@ -1,0 +1,12 @@
+--2020-02-25 21:13:05--  http://www.gasa.gov.bt/counter/direct_download/1218%0D
+Resolving www.gasa.gov.bt (www.gasa.gov.bt)... 43.230.208.9
+Connecting to www.gasa.gov.bt (www.gasa.gov.bt)|43.230.208.9|:80... connected.
+HTTP request sent, awaiting response... 500 500 Service unavailable (with message)
+2020-02-25 21:13:07 ERROR 500: 500 Service unavailable (with message).
+
+--2020-02-25 21:21:31--  http://www.gasa.gov.bt/counter/direct_download/1218%0D
+Resolving www.gasa.gov.bt (www.gasa.gov.bt)... 43.230.208.9
+Connecting to www.gasa.gov.bt (www.gasa.gov.bt)|43.230.208.9|:80... connected.
+HTTP request sent, awaiting response... 500 500 Service unavailable (with message)
+2020-02-25 21:21:32 ERROR 500: 500 Service unavailable (with message).
+

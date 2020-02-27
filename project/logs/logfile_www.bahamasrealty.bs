@@ -1,0 +1,22 @@
+--2020-02-25 21:01:41--  http://www.bahamasrealty.bs/download/056944600.pdf%0D
+Resolving www.bahamasrealty.bs (www.bahamasrealty.bs)... 208.87.34.100
+Connecting to www.bahamasrealty.bs (www.bahamasrealty.bs)|208.87.34.100|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bahamasrealty.com/download/056944600.pdf%0d [following]
+--2020-02-25 21:01:41--  https://www.bahamasrealty.com/download/056944600.pdf%0d
+Resolving www.bahamasrealty.com (www.bahamasrealty.com)... 208.87.34.100
+Connecting to www.bahamasrealty.com (www.bahamasrealty.com)|208.87.34.100|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:42 ERROR 404: Not Found.
+
+--2020-02-25 21:13:09--  http://www.bahamasrealty.bs/download/056944600.pdf%0D
+Resolving www.bahamasrealty.bs (www.bahamasrealty.bs)... 208.87.34.100
+Connecting to www.bahamasrealty.bs (www.bahamasrealty.bs)|208.87.34.100|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bahamasrealty.com/download/056944600.pdf%0d [following]
+--2020-02-25 21:13:09--  https://www.bahamasrealty.com/download/056944600.pdf%0d
+Resolving www.bahamasrealty.com (www.bahamasrealty.com)... 208.87.34.100
+Connecting to www.bahamasrealty.com (www.bahamasrealty.com)|208.87.34.100|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:10 ERROR 404: Not Found.
+

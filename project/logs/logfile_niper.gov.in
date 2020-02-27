@@ -1,0 +1,6 @@
+--2020-02-25 22:50:04--  http://niper.gov.in/2018_Guidelines_TA_LTC.pdf%0D
+Resolving niper.gov.in (niper.gov.in)... 164.100.60.129
+Connecting to niper.gov.in (niper.gov.in)|164.100.60.129|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:05 ERROR 400: Bad Request.
+

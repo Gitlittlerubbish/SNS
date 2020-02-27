@@ -1,0 +1,12 @@
+--2020-02-25 22:22:56--  http://pombo.free.fr/lancaster66b.pdf%0D
+Resolving pombo.free.fr (pombo.free.fr)... --2020-02-25 22:22:56--  http://pombo.free.fr/lancaster66b.pdf%0D
+Resolving pombo.free.fr (pombo.free.fr)... 212.27.63.104
+Connecting to pombo.free.fr (pombo.free.fr)|212.27.63.104|:80... 212.27.63.104
+Connecting to pombo.free.fr (pombo.free.fr)|212.27.63.104|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:56 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:22:56 ERROR 404: Not Found.
+

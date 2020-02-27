@@ -1,0 +1,12 @@
+--2020-02-25 21:01:27--  http://acorid.az/upload/iblock/279/2790849a6a9b0d706bc83914b9d6f177.pdf%0D
+Resolving acorid.az (acorid.az)... 185.219.40.57
+Connecting to acorid.az (acorid.az)|185.219.40.57|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:28 ERROR 404: Not Found.
+
+--2020-02-25 21:12:57--  http://acorid.az/upload/iblock/279/2790849a6a9b0d706bc83914b9d6f177.pdf%0D
+Resolving acorid.az (acorid.az)... 185.219.40.57
+Connecting to acorid.az (acorid.az)|185.219.40.57|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:58 ERROR 404: Not Found.
+

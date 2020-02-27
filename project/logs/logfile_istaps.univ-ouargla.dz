@@ -1,6 +1,6 @@
---2020-02-25 15:24:38--  https://istaps.univ-ouargla.dz/images/conseil_discipline_lois.pdf
-Resolving istaps.univ-ouargla.dz (istaps.univ-ouargla.dz)... 193.194.92.25
-Connecting to istaps.univ-ouargla.dz (istaps.univ-ouargla.dz)|193.194.92.25|:443... connected.
+--2020-02-25 20:55:41--  https://istaps.univ-ouargla.dz/images/conseil_discipline_lois.pdf%0D
+Resolving istaps.univ-ouargla.dz (istaps.univ-ouargla.dz)... 197.201.10.75
+Connecting to istaps.univ-ouargla.dz (istaps.univ-ouargla.dz)|197.201.10.75|:443... connected.
 ERROR: cannot verify istaps.univ-ouargla.dz's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
   Issued certificate has expired.
 To connect to istaps.univ-ouargla.dz insecurely, use `--no-check-certificate'.

@@ -1,0 +1,6 @@
+--2020-02-25 23:00:40--  http://www.csef.it/pagano/eer-1993.pdf%0D
+Resolving www.csef.it (www.csef.it)... 137.74.69.103
+Connecting to www.csef.it (www.csef.it)|137.74.69.103|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:40 ERROR 400: Bad Request.
+

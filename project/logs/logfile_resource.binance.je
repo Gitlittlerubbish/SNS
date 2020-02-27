@@ -1,0 +1,6 @@
+--2020-02-25 23:04:54--  https://resource.binance.je/images/201906/SourceofFundsDeclarationBJELApr2019.pdf%0D
+Resolving resource.binance.je (resource.binance.je)... 99.84.5.33, 99.84.5.63, 99.84.5.109, ...
+Connecting to resource.binance.je (resource.binance.je)|99.84.5.33|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 23:04:54 ERROR 403: Forbidden.
+

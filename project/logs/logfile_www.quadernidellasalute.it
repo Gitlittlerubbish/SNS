@@ -1,0 +1,6 @@
+--2020-02-25 23:00:23--  http://www.quadernidellasalute.it/imgs/C_17_pagineAree_4407_listaFile_itemName_1_file.pdf%0D
+Resolving www.quadernidellasalute.it (www.quadernidellasalute.it)... 2.42.227.206
+Connecting to www.quadernidellasalute.it (www.quadernidellasalute.it)|2.42.227.206|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:00:23 ERROR 500: Internal Server Error.
+

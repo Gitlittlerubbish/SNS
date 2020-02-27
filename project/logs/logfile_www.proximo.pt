@@ -1,0 +1,20 @@
+--2020-02-26 00:42:24--  https://www.proximo.pt/uploads/schedules/linha_19_6.pdf%0D
+Resolving www.proximo.pt (www.proximo.pt)... 51.68.115.117
+Connecting to www.proximo.pt (www.proximo.pt)|51.68.115.117|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.proximo.pt/uploads/schedules/linha_19_6.pdf%0d/ [following]
+--2020-02-26 00:42:25--  https://www.proximo.pt/uploads/schedules/linha_19_6.pdf%0d/
+Reusing existing connection to www.proximo.pt:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:42:25 ERROR 404: Not Found.
+
+--2020-02-26 00:42:35--  https://www.proximo.pt/uploads/schedules/linha_19_6.pdf%0D
+Resolving www.proximo.pt (www.proximo.pt)... 51.68.115.117
+Connecting to www.proximo.pt (www.proximo.pt)|51.68.115.117|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.proximo.pt/uploads/schedules/linha_19_6.pdf%0d/ [following]
+--2020-02-26 00:42:35--  https://www.proximo.pt/uploads/schedules/linha_19_6.pdf%0d/
+Reusing existing connection to www.proximo.pt:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:42:35 ERROR 404: Not Found.
+

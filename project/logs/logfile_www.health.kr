@@ -1,0 +1,6 @@
+--2020-02-25 23:13:46--  http://www.health.kr/images/insert_pdf/In_A11ABBBBB0922.pdf%0D
+Resolving www.health.kr (www.health.kr)... 211.253.29.47
+Connecting to www.health.kr (www.health.kr)|211.253.29.47|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:13:47 ERROR 400: Bad Request.
+

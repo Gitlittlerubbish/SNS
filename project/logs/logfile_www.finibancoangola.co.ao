@@ -1,0 +1,6 @@
+--2020-02-25 21:01:53--  https://www.finibancoangola.co.ao/media/1485/relatorioanual2012.pdf%0D
+Resolving www.finibancoangola.co.ao (www.finibancoangola.co.ao)... 41.223.157.40
+Connecting to www.finibancoangola.co.ao (www.finibancoangola.co.ao)|41.223.157.40|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:54 ERROR 400: Bad Request.
+

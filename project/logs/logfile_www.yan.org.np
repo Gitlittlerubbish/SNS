@@ -1,0 +1,10 @@
+--2020-02-26 00:03:03--  http://www.yan.org.np/publication/10%0D
+Resolving www.yan.org.np (www.yan.org.np)... 192.185.129.35
+Connecting to www.yan.org.np (www.yan.org.np)|192.185.129.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.yan.org.np/publication/10%0d [following]
+--2020-02-26 00:03:04--  https://www.yan.org.np/publication/10%0d
+Connecting to www.yan.org.np (www.yan.org.np)|192.185.129.35|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:03:05 ERROR 404: Not Found.
+

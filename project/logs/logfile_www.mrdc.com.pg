@@ -1,0 +1,12 @@
+--2020-02-26 00:28:20--  http://www.mrdc.com.pg/files/hevilift.pdf%0D
+Resolving www.mrdc.com.pg (www.mrdc.com.pg)... 27.122.21.139
+Connecting to www.mrdc.com.pg (www.mrdc.com.pg)|27.122.21.139|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-26 00:28:21 ERROR 500: Internal Server Error.
+
+--2020-02-26 00:30:55--  http://www.mrdc.com.pg/files/hevilift.pdf%0D
+Resolving www.mrdc.com.pg (www.mrdc.com.pg)... 27.122.21.139
+Connecting to www.mrdc.com.pg (www.mrdc.com.pg)|27.122.21.139|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-26 00:30:56 ERROR 500: Internal Server Error.
+

@@ -1,0 +1,12 @@
+--2020-02-25 23:30:05--  http://www.bwb.mw/2016_Water_Conference_report.pdf%0D
+Resolving www.bwb.mw (www.bwb.mw)... 196.216.8.56
+Connecting to www.bwb.mw (www.bwb.mw)|196.216.8.56|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:30:06 ERROR 404: Not Found.
+
+--2020-02-25 23:30:06--  http://www.bwb.mw/5.pdf%0D
+Resolving www.bwb.mw (www.bwb.mw)... 196.216.8.56
+Connecting to www.bwb.mw (www.bwb.mw)|196.216.8.56|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:30:06 ERROR 404: Not Found.
+

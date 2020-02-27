@@ -1,0 +1,64 @@
+--2020-02-25 22:06:05--  http://foto.aaweb.cz/pdf/camera/canon/canon_ae_1p.pdf%0D
+Resolving foto.aaweb.cz (foto.aaweb.cz)... --2020-02-25 22:06:05--  http://foto.aaweb.cz/pdf/camera/canon/canon_ae_1p.pdf%0D
+Resolving foto.aaweb.cz (foto.aaweb.cz)... 185.28.193.81
+Connecting to foto.aaweb.cz (foto.aaweb.cz)|185.28.193.81|:80... 185.28.193.81
+Connecting to foto.aaweb.cz (foto.aaweb.cz)|185.28.193.81|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://404.station.cz [following]
+--2020-02-25 22:06:05--  http://404.station.cz/
+Resolving 404.station.cz (404.station.cz)... 302 Found
+Location: http://404.station.cz [following]
+--2020-02-25 22:06:05--  http://404.station.cz/
+Resolving 404.station.cz (404.station.cz)... 81.0.237.37
+Connecting to 404.station.cz (404.station.cz)|81.0.237.37|:80... 81.0.237.37
+Connecting to 404.station.cz (404.station.cz)|81.0.237.37|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4065 (4.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 3.45G=0s
+
+2020-02-25 22:06:06 (3.45 Gb/s) - ‘/dev/null’ saved [4065/4065]
+
+--2020-02-25 22:06:06--  http://foto.aaweb.cz/pdf/camera/canon/canon_ae_1p.pdf%0D
+Resolving foto.aaweb.cz (foto.aaweb.cz)... 185.28.193.81
+Connecting to foto.aaweb.cz (foto.aaweb.cz)|185.28.193.81|:80... 200 OK
+Length: 4065 (4.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 9.28G=0s
+
+2020-02-25 22:06:06 (9.28 Gb/s) - ‘/dev/null’ saved [4065/4065]
+
+--2020-02-25 22:06:06--  http://foto.aaweb.cz/pdf/camera/canon/canon_ae_1p.pdf%0D
+Resolving foto.aaweb.cz (foto.aaweb.cz)... 185.28.193.81
+Connecting to foto.aaweb.cz (foto.aaweb.cz)|185.28.193.81|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://404.station.cz [following]
+--2020-02-25 22:06:06--  http://404.station.cz/
+Resolving 404.station.cz (404.station.cz)... 81.0.237.37
+Connecting to 404.station.cz (404.station.cz)|81.0.237.37|:80... 302 Found
+Location: http://404.station.cz [following]
+--2020-02-25 22:06:06--  http://404.station.cz/
+Resolving 404.station.cz (404.station.cz)... 81.0.237.37
+Connecting to 404.station.cz (404.station.cz)|81.0.237.37|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4065 (4.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 9.26G=0s
+
+2020-02-25 22:06:06 (9.26 Gb/s) - ‘/dev/null’ saved [4065/4065]
+
+200 OK
+Length: 4065 (4.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 7.49G=0s
+
+2020-02-25 22:06:06 (7.49 Gb/s) - ‘/dev/null’ saved [4065/4065]
+

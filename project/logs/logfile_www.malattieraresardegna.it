@@ -1,0 +1,6 @@
+--2020-02-25 23:00:33--  http://www.malattieraresardegna.it/resources/farmaciFavismo.pdf%0D
+Resolving www.malattieraresardegna.it (www.malattieraresardegna.it)... 79.170.44.156
+Connecting to www.malattieraresardegna.it (www.malattieraresardegna.it)|79.170.44.156|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:33 ERROR 400: Bad Request.
+

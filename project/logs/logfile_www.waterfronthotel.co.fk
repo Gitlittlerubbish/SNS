@@ -1,0 +1,12 @@
+--2020-02-25 22:19:07--  http://www.waterfronthotel.co.fk/uploads/8/5/3/7/85371350/waterfront_final_menu_2.pdf%0D
+Resolving www.waterfronthotel.co.fk (www.waterfronthotel.co.fk)... 199.34.229.100
+Connecting to www.waterfronthotel.co.fk (www.waterfronthotel.co.fk)|199.34.229.100|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:19:07--  http://www.waterfronthotel.co.fk/uploads/8/5/3/7/85371350/waterfront_final_menu_2.pdf%0D
+Resolving www.waterfronthotel.co.fk (www.waterfronthotel.co.fk)... 199.34.229.100
+Connecting to www.waterfronthotel.co.fk (www.waterfronthotel.co.fk)|199.34.229.100|:80... 404 Not Found
+2020-02-25 22:19:07 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:19:07 ERROR 404: Not Found.
+

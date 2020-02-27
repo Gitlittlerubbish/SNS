@@ -1,0 +1,15 @@
+--2020-02-25 21:04:24--  https://www.mut.ag/fileadmin/IR/Finanzkalender/mut_ag_9Monatsbericht_2012.pdf%0D
+Resolving www.mut.ag (www.mut.ag)... 109.237.134.32
+Connecting to www.mut.ag (www.mut.ag)|109.237.134.32|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nynomic.com/fileadmin/IR/Finanzkalender/mut_ag_9Monatsbericht_2012.pdf%0d [following]
+--2020-02-25 21:04:24--  https://www.nynomic.com/fileadmin/IR/Finanzkalender/mut_ag_9Monatsbericht_2012.pdf%0d
+Resolving www.nynomic.com (www.nynomic.com)... 109.237.134.32
+Connecting to www.nynomic.com (www.nynomic.com)|109.237.134.32|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nynomic.com/fileadmin/IR/Finanzkalender/mut_ag_9Monatsbericht_2012.pdf/ [following]
+--2020-02-25 21:04:24--  https://www.nynomic.com/fileadmin/IR/Finanzkalender/mut_ag_9Monatsbericht_2012.pdf/
+Reusing existing connection to www.nynomic.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:04:24 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:17:28--  https://ombudsmen.gov.ba/documents/obmudsmen_doc2017050312010410eng.pdf%0D
+Resolving ombudsmen.gov.ba (ombudsmen.gov.ba)... 81.93.64.39
+Connecting to ombudsmen.gov.ba (ombudsmen.gov.ba)|81.93.64.39|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:17:28 ERROR 400: Bad Request.
+
+--2020-02-25 21:24:38--  https://ombudsmen.gov.ba/documents/obmudsmen_doc2017050312010410eng.pdf%0D
+Resolving ombudsmen.gov.ba (ombudsmen.gov.ba)... 81.93.64.39
+Connecting to ombudsmen.gov.ba (ombudsmen.gov.ba)|81.93.64.39|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:24:38 ERROR 400: Bad Request.
+

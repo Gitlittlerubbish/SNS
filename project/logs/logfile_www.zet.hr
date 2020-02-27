@@ -1,0 +1,24 @@
+--2020-02-25 22:01:08--  https://www.zet.hr/UserDocsImages/voznired/14.pdf%0D
+Resolving www.zet.hr (www.zet.hr)... 91.235.170.172
+Connecting to www.zet.hr (www.zet.hr)|91.235.170.172|:443... --2020-02-25 22:01:08--  https://www.zet.hr/UserDocsImages/voznired/14.pdf%0D
+Resolving www.zet.hr (www.zet.hr)... connected.
+91.235.170.172
+Connecting to www.zet.hr (www.zet.hr)|91.235.170.172|:443... connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:08 ERROR 400: Bad Request.
+
+--2020-02-25 22:01:08--  https://www.zet.hr/UserDocsImages/voznired/279.pdf%0D
+Resolving www.zet.hr (www.zet.hr)... 91.235.170.172
+Connecting to www.zet.hr (www.zet.hr)|91.235.170.172|:443... 400 Bad Request
+2020-02-25 22:01:08 ERROR 400: Bad Request.
+
+--2020-02-25 22:01:08--  https://www.zet.hr/UserDocsImages/voznired/279.pdf%0D
+Resolving www.zet.hr (www.zet.hr)... 91.235.170.172
+Connecting to www.zet.hr (www.zet.hr)|91.235.170.172|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:08 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:01:08 ERROR 400: Bad Request.
+

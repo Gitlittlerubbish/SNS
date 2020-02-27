@@ -1,0 +1,24 @@
+--2020-02-25 22:17:24--  https://www.ravimiregister.ee/Data/PIL/PIL_1415247.pdf%0D
+Resolving www.ravimiregister.ee (www.ravimiregister.ee)... --2020-02-25 22:17:24--  https://www.ravimiregister.ee/Data/PIL/PIL_1415247.pdf%0D
+Resolving www.ravimiregister.ee (www.ravimiregister.ee)... 213.184.38.150
+Connecting to www.ravimiregister.ee (www.ravimiregister.ee)|213.184.38.150|:443... 213.184.38.150
+Connecting to www.ravimiregister.ee (www.ravimiregister.ee)|213.184.38.150|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:17:24 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:17:24 ERROR 400: Bad Request.
+
+--2020-02-25 22:17:29--  https://www.ravimiregister.ee/Data/PIL/PIL_1188604.pdf%0D
+Resolving www.ravimiregister.ee (www.ravimiregister.ee)... 213.184.38.150
+Connecting to www.ravimiregister.ee (www.ravimiregister.ee)|213.184.38.150|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:17:29 ERROR 400: Bad Request.
+
+--2020-02-25 22:17:32--  https://www.ravimiregister.ee/Data/PIL/PIL_1188604.pdf%0D
+Resolving www.ravimiregister.ee (www.ravimiregister.ee)... 213.184.38.150
+Connecting to www.ravimiregister.ee (www.ravimiregister.ee)|213.184.38.150|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:17:32 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 20:59:27--  http://www.psr.jku.at/PSR2000/9_3Banch.pdF%0D
+Resolving www.psr.jku.at (www.psr.jku.at)... 140.78.3.19
+Connecting to www.psr.jku.at (www.psr.jku.at)|140.78.3.19|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:27 ERROR 404: Not Found.
+
+--2020-02-25 21:11:35--  http://www.psr.jku.at/PSR2000/9_3Banch.pdF%0D
+Resolving www.psr.jku.at (www.psr.jku.at)... 140.78.3.19
+Connecting to www.psr.jku.at (www.psr.jku.at)|140.78.3.19|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:35 ERROR 404: Not Found.
+

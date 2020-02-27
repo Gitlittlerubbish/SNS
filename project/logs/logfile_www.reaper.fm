@@ -1,0 +1,11 @@
+--2020-02-25 23:48:51--  https://www.reaper.fm/userguide/ReaperUserGuide5973c.pdf%0D
+Resolving www.reaper.fm (www.reaper.fm)... 174.129.249.41
+Connecting to www.reaper.fm (www.reaper.fm)|174.129.249.41|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dlz.reaper.fm/userguide/ReaperUserGuide5973c.pdf%0d [following]
+--2020-02-25 23:48:52--  https://dlz.reaper.fm/userguide/ReaperUserGuide5973c.pdf%0d
+Resolving dlz.reaper.fm (dlz.reaper.fm)... 172.241.166.143
+Connecting to dlz.reaper.fm (dlz.reaper.fm)|172.241.166.143|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:48:52 ERROR 404: Not Found.
+

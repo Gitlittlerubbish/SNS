@@ -1,24 +1,22 @@
---2020-02-25 15:40:04--  https://www.commerce.gov.dz/telecharger/reglementation/283/article
+--2020-02-25 20:59:46--  https://www.commerce.gov.dz/telecharger/reglementation/283/article%0D
 Resolving www.commerce.gov.dz (www.commerce.gov.dz)... 197.112.0.89
 Connecting to www.commerce.gov.dz (www.commerce.gov.dz)|197.112.0.89|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 83960 (82K) [application/pdf]
+Length: 247 [text/html]
 Saving to: ‘/dev/null’
 
-     0K .......... .......... .......... .......... .......... 60% 1.92M 0s
-    50K .......... .......... .......... .                    100% 4.60M=0.3s
+     0K                                                       100% 48.8M=0s
 
-2020-02-25 15:40:05 (2.49 Mb/s) - ‘/dev/null’ saved [83960/83960]
+2020-02-25 20:59:46 (48.8 Mb/s) - ‘/dev/null’ saved [247/247]
 
---2020-02-25 15:40:05--  https://www.commerce.gov.dz/telecharger/reglementation/283/article
+--2020-02-25 20:59:46--  https://www.commerce.gov.dz/telecharger/reglementation/283/article%0D
 Resolving www.commerce.gov.dz (www.commerce.gov.dz)... 197.112.0.89
 Connecting to www.commerce.gov.dz (www.commerce.gov.dz)|197.112.0.89|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 83960 (82K) [application/pdf]
+Length: 247 [text/html]
 Saving to: ‘/dev/null’
 
-     0K .......... .......... .......... .......... .......... 60% 2.38M 0s
-    50K .......... .......... .......... .                    100% 3.18M=0.3s
+     0K                                                       100%  262M=0s
 
-2020-02-25 15:40:05 (2.64 Mb/s) - ‘/dev/null’ saved [83960/83960]
+2020-02-25 20:59:46 (262 Mb/s) - ‘/dev/null’ saved [247/247]
 

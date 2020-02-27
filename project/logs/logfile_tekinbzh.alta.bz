@@ -1,0 +1,12 @@
+--2020-02-25 21:09:25--  http://tekinbzh.alta.bz/forum/docs/freeparties.pdf%0D
+Resolving tekinbzh.alta.bz (tekinbzh.alta.bz)... 94.23.53.96
+Connecting to tekinbzh.alta.bz (tekinbzh.alta.bz)|94.23.53.96|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:25 ERROR 404: Not Found.
+
+--2020-02-25 21:19:00--  http://tekinbzh.alta.bz/forum/docs/freeparties.pdf%0D
+Resolving tekinbzh.alta.bz (tekinbzh.alta.bz)... 94.23.53.96
+Connecting to tekinbzh.alta.bz (tekinbzh.alta.bz)|94.23.53.96|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:00 ERROR 404: Not Found.
+

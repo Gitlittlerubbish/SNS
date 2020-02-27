@@ -1,0 +1,6 @@
+--2020-02-26 00:01:52--  https://www.wheretoeat.com.na/Establishment/Menu%3FMenuID%3D2%0D
+Resolving www.wheretoeat.com.na (www.wheretoeat.com.na)... 160.119.248.211
+Connecting to www.wheretoeat.com.na (www.wheretoeat.com.na)|160.119.248.211|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:01:53 ERROR 400: Bad Request.
+

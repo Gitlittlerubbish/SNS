@@ -1,0 +1,9 @@
+--2020-02-25 21:45:35--  http://www.tsmyzl.cn/licensing/114.pdf%0D
+Resolving www.tsmyzl.cn (www.tsmyzl.cn)... failed: Connection timed out.
+wget: unable to resolve host address ‘www.tsmyzl.cn’
+--2020-02-25 21:46:04--  http://www.tsmyzl.cn/licensing/114.pdf%0D
+Resolving www.tsmyzl.cn (www.tsmyzl.cn)... 154.84.116.171
+Connecting to www.tsmyzl.cn (www.tsmyzl.cn)|154.84.116.171|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

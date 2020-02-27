@@ -1,0 +1,12 @@
+--2020-02-25 21:32:13--  http://ww2.advance.cv/Adv/CIMPOR.pdf%0D
+Resolving ww2.advance.cv (ww2.advance.cv)... 62.48.167.165
+Connecting to ww2.advance.cv (ww2.advance.cv)|62.48.167.165|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:32:14 ERROR 400: Bad Request.
+
+--2020-02-25 21:35:17--  http://ww2.advance.cv/Adv/CIMPOR.pdf%0D
+Resolving ww2.advance.cv (ww2.advance.cv)... 62.48.167.165
+Connecting to ww2.advance.cv (ww2.advance.cv)|62.48.167.165|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:35:17 ERROR 400: Bad Request.
+

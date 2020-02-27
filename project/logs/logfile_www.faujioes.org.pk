@@ -1,0 +1,6 @@
+--2020-02-26 00:25:14--  http://www.faujioes.org.pk/Downloads/Application_Form_04May2017.pdf%0D
+Resolving www.faujioes.org.pk (www.faujioes.org.pk)... 124.109.54.67
+Connecting to www.faujioes.org.pk (www.faujioes.org.pk)|124.109.54.67|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:25:15 ERROR 403: Forbidden.
+

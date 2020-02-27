@@ -1,0 +1,12 @@
+--2020-02-25 22:05:32--  http://www.sws.cz/prod_img/cisco/rv130_rv130w_qsg_en.pdf%0D
+Resolving www.sws.cz (www.sws.cz)... 84.244.69.36
+Connecting to www.sws.cz (www.sws.cz)|84.244.69.36|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:05:32 ERROR 400: Bad Request.
+
+--2020-02-25 22:05:33--  http://www.sws.cz/prod_img/cisco/rv130_rv130w_qsg_en.pdf%0D
+Resolving www.sws.cz (www.sws.cz)... 84.244.69.36
+Connecting to www.sws.cz (www.sws.cz)|84.244.69.36|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:05:33 ERROR 400: Bad Request.
+

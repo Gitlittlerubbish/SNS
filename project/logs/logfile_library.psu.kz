@@ -1,0 +1,6 @@
+--2020-02-25 23:06:42--  http://library.psu.kz/fulltext/buuk/b3016.pdf%0D
+Resolving library.psu.kz (library.psu.kz)... 88.204.203.165
+Connecting to library.psu.kz (library.psu.kz)|88.204.203.165|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:06:42 ERROR 404: Not Found.
+

@@ -1,0 +1,32 @@
+--2020-02-26 00:03:09--  https://nepalaots.org.np/talim_download%3Fdownload_id%3D3%0D
+Resolving nepalaots.org.np (nepalaots.org.np)... 162.241.241.119
+Connecting to nepalaots.org.np (nepalaots.org.np)|162.241.241.119|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://nepalaots.org.np/talim [following]
+--2020-02-26 00:03:09--  https://nepalaots.org.np/talim
+Reusing existing connection to nepalaots.org.np:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.30M
+    50K .......... .....                                       1.20M=0.4s
+
+2020-02-26 00:03:10 (1.27 Mb/s) - ‘/dev/null’ saved [66919]
+
+--2020-02-26 00:03:10--  https://nepalaots.org.np/talim_download%3Fdownload_id%3D3%0D
+Resolving nepalaots.org.np (nepalaots.org.np)... 162.241.241.119
+Connecting to nepalaots.org.np (nepalaots.org.np)|162.241.241.119|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://nepalaots.org.np/talim [following]
+--2020-02-26 00:03:11--  https://nepalaots.org.np/talim
+Reusing existing connection to nepalaots.org.np:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  965K
+    50K .......... .....                                       2.36G=0.4s
+
+2020-02-26 00:03:12 (1.26 Mb/s) - ‘/dev/null’ saved [66919]
+

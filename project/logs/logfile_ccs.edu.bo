@@ -1,0 +1,96 @@
+--2020-02-25 21:15:38--  https://ccs.edu.bo/docs/RUDE.pdf%0D
+Resolving ccs.edu.bo (ccs.edu.bo)... 108.160.152.6
+Connecting to ccs.edu.bo (ccs.edu.bo)|108.160.152.6|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ccs.edu.bo/docs/RUDE.pdf [following]
+--2020-02-25 21:15:39--  https://www.ccs.edu.bo/docs/RUDE.pdf
+Resolving www.ccs.edu.bo (www.ccs.edu.bo)... 108.160.152.6
+Connecting to www.ccs.edu.bo (www.ccs.edu.bo)|108.160.152.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 436121 (426K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 2.26M 1s
+    50K .......... .......... .......... .......... .......... 23% 4.53M 1s
+   100K .......... .......... .......... .......... .......... 35%  203M 1s
+   150K .......... .......... .......... .......... .......... 46% 4.63M 0s
+   200K .......... .......... .......... .......... .......... 58%  198M 0s
+   250K .......... .......... .......... .......... .......... 70%  213M 0s
+   300K .......... .......... .......... .......... .......... 82%  198M 0s
+   350K .......... .......... .......... .......... .......... 93% 4.89M 0s
+   400K .......... .......... .....                           100%  183M=0.5s
+
+2020-02-25 21:15:40 (7.70 Mb/s) - ‘/dev/null’ saved [436121/436121]
+
+--2020-02-25 21:15:40--  https://ccs.edu.bo/docs/RUDE.pdf%0D
+Resolving ccs.edu.bo (ccs.edu.bo)... 108.160.152.6
+Connecting to ccs.edu.bo (ccs.edu.bo)|108.160.152.6|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ccs.edu.bo/docs/RUDE.pdf [following]
+--2020-02-25 21:15:40--  https://www.ccs.edu.bo/docs/RUDE.pdf
+Resolving www.ccs.edu.bo (www.ccs.edu.bo)... 108.160.152.6
+Connecting to www.ccs.edu.bo (www.ccs.edu.bo)|108.160.152.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 436121 (426K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 2.25M 1s
+    50K .......... .......... .......... .......... .......... 23% 4.50M 1s
+   100K .......... .......... .......... .......... .......... 35%  170M 1s
+   150K .......... .......... .......... .......... .......... 46% 4.67M 0s
+   200K .......... .......... .......... .......... .......... 58%  200M 0s
+   250K .......... .......... .......... .......... .......... 70%  152M 0s
+   300K .......... .......... .......... .......... .......... 82%  203M 0s
+   350K .......... .......... .......... .......... .......... 93% 4.90M 0s
+   400K .......... .......... .....                           100%  186M=0.5s
+
+2020-02-25 21:15:41 (7.67 Mb/s) - ‘/dev/null’ saved [436121/436121]
+
+--2020-02-25 21:23:13--  https://ccs.edu.bo/docs/RUDE.pdf%0D
+Resolving ccs.edu.bo (ccs.edu.bo)... 108.160.152.6
+Connecting to ccs.edu.bo (ccs.edu.bo)|108.160.152.6|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ccs.edu.bo/docs/RUDE.pdf [following]
+--2020-02-25 21:23:13--  https://www.ccs.edu.bo/docs/RUDE.pdf
+Resolving www.ccs.edu.bo (www.ccs.edu.bo)... 108.160.152.6
+Connecting to www.ccs.edu.bo (www.ccs.edu.bo)|108.160.152.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 436121 (426K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 2.25M 1s
+    50K .......... .......... .......... .......... .......... 23% 4.52M 1s
+   100K .......... .......... .......... .......... .......... 35%  216M 1s
+   150K .......... .......... .......... .......... .......... 46% 4.62M 0s
+   200K .......... .......... .......... .......... .......... 58%  204M 0s
+   250K .......... .......... .......... .......... .......... 70%  209M 0s
+   300K .......... .......... .......... .......... .......... 82%  206M 0s
+   350K .......... .......... .......... .......... .......... 93% 4.86M 0s
+   400K .......... .......... .....                           100%  223M=0.5s
+
+2020-02-25 21:23:14 (7.67 Mb/s) - ‘/dev/null’ saved [436121/436121]
+
+--2020-02-25 21:23:14--  https://ccs.edu.bo/docs/RUDE.pdf%0D
+Resolving ccs.edu.bo (ccs.edu.bo)... 108.160.152.6
+Connecting to ccs.edu.bo (ccs.edu.bo)|108.160.152.6|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ccs.edu.bo/docs/RUDE.pdf [following]
+--2020-02-25 21:23:15--  https://www.ccs.edu.bo/docs/RUDE.pdf
+Resolving www.ccs.edu.bo (www.ccs.edu.bo)... 108.160.152.6
+Connecting to www.ccs.edu.bo (www.ccs.edu.bo)|108.160.152.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 436121 (426K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 2.25M 1s
+    50K .......... .......... .......... .......... .......... 23% 4.51M 1s
+   100K .......... .......... .......... .......... .......... 35%  209M 1s
+   150K .......... .......... .......... .......... .......... 46% 4.62M 0s
+   200K .......... .......... .......... .......... .......... 58%  193M 0s
+   250K .......... .......... .......... .......... .......... 70%  214M 0s
+   300K .......... .......... .......... .......... .......... 82%  209M 0s
+   350K .......... .......... .......... .......... .......... 93% 4.85M 0s
+   400K .......... .......... .....                           100%  183M=0.5s
+
+2020-02-25 21:23:15 (7.67 Mb/s) - ‘/dev/null’ saved [436121/436121]
+

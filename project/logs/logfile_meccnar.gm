@@ -1,0 +1,24 @@
+--2020-02-25 22:28:31--  http://meccnar.gm/sites/default/files/2007_NAPA.pdf%0D
+Resolving meccnar.gm (meccnar.gm)... --2020-02-25 22:28:31--  http://meccnar.gm/sites/default/files/2007_NAPA.pdf%0D
+Resolving meccnar.gm (meccnar.gm)... 66.96.147.168
+Connecting to meccnar.gm (meccnar.gm)|66.96.147.168|:80... connected.
+HTTP request sent, awaiting response... 66.96.147.168
+Connecting to meccnar.gm (meccnar.gm)|66.96.147.168|:80... 400 Bad Request
+2020-02-25 22:28:32 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:28:32 ERROR 400: Bad Request.
+
+--2020-02-25 22:28:33--  http://meccnar.gm/sites/default/files/2007_NAPA.pdf%0D
+Resolving meccnar.gm (meccnar.gm)... 66.96.147.168
+Connecting to meccnar.gm (meccnar.gm)|66.96.147.168|:80... --2020-02-25 22:28:33--  http://meccnar.gm/sites/default/files/2007_NAPA.pdf%0D
+Resolving meccnar.gm (meccnar.gm)... 66.96.147.168
+Connecting to meccnar.gm (meccnar.gm)|66.96.147.168|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:28:33 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:28:33 ERROR 400: Bad Request.
+

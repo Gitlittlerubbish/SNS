@@ -1,0 +1,6 @@
+--2020-02-25 23:05:00--  https://www.andiumhomes.je/wp-content/uploads/Parking-Policy.pdf%0D
+Resolving www.andiumhomes.je (www.andiumhomes.je)... 13.79.38.229
+Connecting to www.andiumhomes.je (www.andiumhomes.je)|13.79.38.229|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:00 ERROR 400: Bad Request.
+

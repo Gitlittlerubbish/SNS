@@ -1,0 +1,12 @@
+--2020-02-25 22:01:18--  http://gradnja.hr/uploads/files/cjenik_beton.pdf%0D
+Resolving gradnja.hr (gradnja.hr)... --2020-02-25 22:01:18--  http://gradnja.hr/uploads/files/cjenik_beton.pdf%0D
+Resolving gradnja.hr (gradnja.hr)... 185.58.73.25
+Connecting to gradnja.hr (gradnja.hr)|185.58.73.25|:80... 185.58.73.25
+Connecting to gradnja.hr (gradnja.hr)|185.58.73.25|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Kategorija nije pronađena
+2020-02-25 22:01:19 ERROR 404: Kategorija nije pronađena.
+
+404 Kategorija nije pronađena
+2020-02-25 22:01:19 ERROR 404: Kategorija nije pronađena.
+

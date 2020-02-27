@@ -1,0 +1,6 @@
+--2020-02-26 00:01:20--  http://www.nbri.org.na/sites/default/files/Spotlight_105.pdf%0D
+Resolving www.nbri.org.na (www.nbri.org.na)... 176.9.237.235
+Connecting to www.nbri.org.na (www.nbri.org.na)|176.9.237.235|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:01:21 ERROR 404: Not Found.
+

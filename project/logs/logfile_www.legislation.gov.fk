@@ -1,0 +1,24 @@
+--2020-02-25 22:19:19--  https://www.legislation.gov.fk/download/pdf/575b9b08-d9f5-4453-a8e4-0de3deef9205/085b8e0e-4a78-4285-875f-79e4f5f1af6b/fiord-2019-5.pdf%0D
+Resolving www.legislation.gov.fk (www.legislation.gov.fk)... --2020-02-25 22:19:19--  https://www.legislation.gov.fk/download/pdf/575b9b08-d9f5-4453-a8e4-0de3deef9205/085b8e0e-4a78-4285-875f-79e4f5f1af6b/fiord-2019-5.pdf%0D
+Resolving www.legislation.gov.fk (www.legislation.gov.fk)... 40.86.182.158
+Connecting to www.legislation.gov.fk (www.legislation.gov.fk)|40.86.182.158|:443... 40.86.182.158
+Connecting to www.legislation.gov.fk (www.legislation.gov.fk)|40.86.182.158|:443... connected.
+connected.
+ERROR: cannot verify www.legislation.gov.fk's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.legislation.gov.fk insecurely, use `--no-check-certificate'.
+--2020-02-25 22:19:21--  https://www.legislation.gov.fk/download/pdf/478c38fa-d9d5-4fa6-86c4-bc81f8daf17a/093e763d-671e-4ff8-b2d6-e6378006a9d0/fisl-2019-12.pdf%0D
+Resolving www.legislation.gov.fk (www.legislation.gov.fk)... 40.86.182.158
+Connecting to www.legislation.gov.fk (www.legislation.gov.fk)|40.86.182.158|:443... ERROR: cannot verify www.legislation.gov.fk's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.legislation.gov.fk insecurely, use `--no-check-certificate'.
+--2020-02-25 22:19:21--  https://www.legislation.gov.fk/download/pdf/478c38fa-d9d5-4fa6-86c4-bc81f8daf17a/093e763d-671e-4ff8-b2d6-e6378006a9d0/fisl-2019-12.pdf%0D
+Resolving www.legislation.gov.fk (www.legislation.gov.fk)... 40.86.182.158
+Connecting to www.legislation.gov.fk (www.legislation.gov.fk)|40.86.182.158|:443... connected.
+connected.
+ERROR: cannot verify www.legislation.gov.fk's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.legislation.gov.fk insecurely, use `--no-check-certificate'.
+ERROR: cannot verify www.legislation.gov.fk's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.legislation.gov.fk insecurely, use `--no-check-certificate'.

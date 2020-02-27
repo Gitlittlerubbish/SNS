@@ -1,0 +1,6 @@
+--2020-02-26 00:13:08--  https://www.ryobi.co.nz/pdf/warranty/ryobi_warranty.pdf%0D
+Resolving www.ryobi.co.nz (www.ryobi.co.nz)... 119.9.134.11
+Connecting to www.ryobi.co.nz (www.ryobi.co.nz)|119.9.134.11|:443... connected.
+ERROR: cannot verify www.ryobi.co.nz's certificate, issued by ‘CN=Sectigo RSA Organization Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.ryobi.co.nz insecurely, use `--no-check-certificate'.

@@ -1,0 +1,6 @@
+--2020-02-25 22:49:38--  http://nrega.nic.in/Invitation_helpline.pdf%0D
+Resolving nrega.nic.in (nrega.nic.in)... 164.100.68.34
+Connecting to nrega.nic.in (nrega.nic.in)|164.100.68.34|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:49:39 ERROR 400: Bad Request.
+

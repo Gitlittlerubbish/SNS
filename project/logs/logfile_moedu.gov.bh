@@ -1,0 +1,12 @@
+--2020-02-25 21:03:08--  http://moedu.gov.bh/hec/UploadFiles/A3ali10.pdf%0D
+Resolving moedu.gov.bh (moedu.gov.bh)... 52.50.203.122, 52.211.82.41
+Connecting to moedu.gov.bh (moedu.gov.bh)|52.50.203.122|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:03:08 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:26--  http://moedu.gov.bh/hec/UploadFiles/A3ali10.pdf%0D
+Resolving moedu.gov.bh (moedu.gov.bh)... 52.211.82.41, 52.50.203.122
+Connecting to moedu.gov.bh (moedu.gov.bh)|52.211.82.41|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:26 ERROR 400: Bad Request.
+

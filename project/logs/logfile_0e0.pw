@@ -1,0 +1,32 @@
+--2020-02-26 00:26:00--  https://0e0.pw/VM5J%0D
+Resolving 0e0.pw (0e0.pw)... 202.172.28.12
+Connecting to 0e0.pw (0e0.pw)|202.172.28.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://u.artspin.jp/ [following]
+--2020-02-26 00:26:01--  https://u.artspin.jp/
+Resolving u.artspin.jp (u.artspin.jp)... 104.24.104.223, 104.24.105.223
+Connecting to u.artspin.jp (u.artspin.jp)|104.24.104.223|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                  1.10G=0s
+
+2020-02-26 00:26:02 (1.10 Gb/s) - ‘/dev/null’ saved [5436]
+
+--2020-02-26 00:26:02--  https://0e0.pw/VM5J%0D
+Resolving 0e0.pw (0e0.pw)... 202.172.28.12
+Connecting to 0e0.pw (0e0.pw)|202.172.28.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://u.artspin.jp/ [following]
+--2020-02-26 00:26:03--  https://u.artspin.jp/
+Resolving u.artspin.jp (u.artspin.jp)... 104.24.104.223, 104.24.105.223
+Connecting to u.artspin.jp (u.artspin.jp)|104.24.104.223|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                   644M=0s
+
+2020-02-26 00:26:03 (644 Mb/s) - ‘/dev/null’ saved [5436]
+

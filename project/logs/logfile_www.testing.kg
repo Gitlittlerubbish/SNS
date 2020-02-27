@@ -1,0 +1,14 @@
+--2020-02-25 23:18:10--  http://www.testing.kg/media/uploads/files/NSBA2014_Report_Kyrg.pdf%0D
+Resolving www.testing.kg (www.testing.kg)... 195.38.168.126
+Connecting to www.testing.kg (www.testing.kg)|195.38.168.126|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /ru/media/uploads/files/NSBA2014_Report_Kyrg.pdf [following]
+--2020-02-25 23:18:11--  http://www.testing.kg/ru/media/uploads/files/NSBA2014_Report_Kyrg.pdf
+Reusing existing connection to www.testing.kg:80.
+HTTP request sent, awaiting response... 302 Found
+Location: /ru/error/500/preg_match%28%29%3A%20Compilation%20failed%3A%20unmatched%20parentheses%20at%20offset%2062 [following]
+--2020-02-25 23:18:11--  http://www.testing.kg/ru/error/500/preg_match%28%29%3A%20Compilation%20failed%3A%20unmatched%20parentheses%20at%20offset%2062
+Reusing existing connection to www.testing.kg:80.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:18:11 ERROR 500: Internal Server Error.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:17:08--  http://www.elektrosistem.ba/katalozi/Terminals_W.pdf%0D
+Resolving www.elektrosistem.ba (www.elektrosistem.ba)... 81.93.64.34
+Connecting to www.elektrosistem.ba (www.elektrosistem.ba)|81.93.64.34|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:08 ERROR 404: Not Found.
+
+--2020-02-25 21:24:22--  http://www.elektrosistem.ba/katalozi/Terminals_W.pdf%0D
+Resolving www.elektrosistem.ba (www.elektrosistem.ba)... 81.93.64.34
+Connecting to www.elektrosistem.ba (www.elektrosistem.ba)|81.93.64.34|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:22 ERROR 404: Not Found.
+

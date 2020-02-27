@@ -1,0 +1,12 @@
+--2020-02-25 21:37:31--  https://uwaterloo.ca/map/pdf/map_bw.pdf%0D
+Resolving uwaterloo.ca (uwaterloo.ca)... 129.97.208.23
+Connecting to uwaterloo.ca (uwaterloo.ca)|129.97.208.23|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:32 ERROR 404: Not Found.
+
+--2020-02-25 21:39:01--  https://uwaterloo.ca/map/pdf/map_bw.pdf%0D
+Resolving uwaterloo.ca (uwaterloo.ca)... 129.97.208.23
+Connecting to uwaterloo.ca (uwaterloo.ca)|129.97.208.23|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:39:01 ERROR 404: Not Found.
+

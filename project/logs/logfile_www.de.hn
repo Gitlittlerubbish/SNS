@@ -1,0 +1,11 @@
+--2020-02-25 22:43:52--  http://www.de.hn/form%0D
+Resolving www.de.hn (www.de.hn)... 138.201.54.4
+Connecting to www.de.hn (www.de.hn)|138.201.54.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://de.hn/form%0d [following]
+--2020-02-25 22:43:52--  http://de.hn/form%0d
+Resolving de.hn (de.hn)... 138.201.54.4
+Reusing existing connection to www.de.hn:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:43:52 ERROR 404: Not Found.
+

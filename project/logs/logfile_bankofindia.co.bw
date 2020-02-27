@@ -1,0 +1,22 @@
+--2020-02-25 21:18:43--  http://bankofindia.co.bw/pdf/Notice-281118.pdf%0D
+Resolving bankofindia.co.bw (bankofindia.co.bw)... 49.50.92.254
+Connecting to bankofindia.co.bw (bankofindia.co.bw)|49.50.92.254|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bankofindia.co.bw/pdf/Notice-281118.pdf%0D [following]
+--2020-02-25 21:18:44--  https://www.bankofindia.co.bw/pdf/Notice-281118.pdf%0D
+Resolving www.bankofindia.co.bw (www.bankofindia.co.bw)... 49.50.92.254
+Connecting to www.bankofindia.co.bw (www.bankofindia.co.bw)|49.50.92.254|:443... connected.
+ERROR: cannot verify www.bankofindia.co.bw's certificate, issued by ‘CN=Entrust Certification Authority - L1M,OU=(c) 2014 Entrust\\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\\, Inc.,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.bankofindia.co.bw insecurely, use `--no-check-certificate'.
+--2020-02-25 21:25:24--  http://bankofindia.co.bw/pdf/Notice-281118.pdf%0D
+Resolving bankofindia.co.bw (bankofindia.co.bw)... 49.50.92.254
+Connecting to bankofindia.co.bw (bankofindia.co.bw)|49.50.92.254|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bankofindia.co.bw/pdf/Notice-281118.pdf%0D [following]
+--2020-02-25 21:25:24--  https://www.bankofindia.co.bw/pdf/Notice-281118.pdf%0D
+Resolving www.bankofindia.co.bw (www.bankofindia.co.bw)... 49.50.92.254
+Connecting to www.bankofindia.co.bw (www.bankofindia.co.bw)|49.50.92.254|:443... connected.
+ERROR: cannot verify www.bankofindia.co.bw's certificate, issued by ‘CN=Entrust Certification Authority - L1M,OU=(c) 2014 Entrust\\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\\, Inc.,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.bankofindia.co.bw insecurely, use `--no-check-certificate'.

@@ -1,0 +1,22 @@
+--2020-02-25 22:46:23--  http://www.uob.com.hk/assets/pdfs/one_card_full_tnc.pdf%0D
+Resolving www.uob.com.hk (www.uob.com.hk)... 42.61.47.40, 61.8.33.40, 122.152.164.133, ...
+Connecting to www.uob.com.hk (www.uob.com.hk)|42.61.47.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  389M=0s
+
+2020-02-25 22:46:24 (389 Mb/s) - ‘/dev/null’ saved [200/200]
+
+--2020-02-25 22:46:24--  http://www.uob.com.hk/assets/pdfs/one_card_full_tnc.pdf%0D
+Resolving www.uob.com.hk (www.uob.com.hk)... 203.116.108.133, 42.61.47.40, 61.8.33.40, ...
+Connecting to www.uob.com.hk (www.uob.com.hk)|203.116.108.133|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  515M=0s
+
+2020-02-25 22:46:25 (515 Mb/s) - ‘/dev/null’ saved [200/200]
+

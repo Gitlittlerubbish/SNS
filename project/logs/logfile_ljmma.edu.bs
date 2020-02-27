@@ -1,0 +1,12 @@
+--2020-02-25 21:02:34--  http://ljmma.edu.bs/wp-content/uploads/2016/04/CADET-APPLICATION.pdf%0D
+Resolving ljmma.edu.bs (ljmma.edu.bs)... 160.153.138.163
+Connecting to ljmma.edu.bs (ljmma.edu.bs)|160.153.138.163|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:02:34 ERROR 404: Not Found.
+
+--2020-02-25 21:13:54--  http://ljmma.edu.bs/wp-content/uploads/2016/04/CADET-APPLICATION.pdf%0D
+Resolving ljmma.edu.bs (ljmma.edu.bs)... 160.153.138.163
+Connecting to ljmma.edu.bs (ljmma.edu.bs)|160.153.138.163|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:56 ERROR 404: Not Found.
+

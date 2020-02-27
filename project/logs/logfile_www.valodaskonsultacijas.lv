@@ -1,0 +1,6 @@
+--2020-02-25 23:20:20--  https://www.valodaskonsultacijas.lv/uploads/suggested_sources/10/pdf/ValodasPrakse_Nr10.pdf%0D
+Resolving www.valodaskonsultacijas.lv (www.valodaskonsultacijas.lv)... 92.240.80.77
+Connecting to www.valodaskonsultacijas.lv (www.valodaskonsultacijas.lv)|92.240.80.77|:443... connected.
+ERROR: cannot verify www.valodaskonsultacijas.lv's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.valodaskonsultacijas.lv insecurely, use `--no-check-certificate'.

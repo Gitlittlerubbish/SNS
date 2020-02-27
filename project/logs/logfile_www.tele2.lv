@@ -1,0 +1,10 @@
+--2020-02-25 23:20:07--  https://www.tele2.lv/%3Fhash%3D44a56e6bec899f5fd7aee760748ba269%0D
+Resolving www.tele2.lv (www.tele2.lv)... 80.233.240.27
+Connecting to www.tele2.lv (www.tele2.lv)|80.233.240.27|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.tele2.lv/?hash=44a56e6bec899f5fd7aee760748ba269%0D/ [following]
+--2020-02-25 23:20:07--  https://www.tele2.lv/?hash=44a56e6bec899f5fd7aee760748ba269%0D/
+Reusing existing connection to www.tele2.lv:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:20:07 ERROR 404: Not Found.
+

@@ -1,0 +1,49 @@
+--2020-02-25 22:28:00--  https://www.herrankukkalro.ga/contentassets/4cfe1e2a42864d8b8a6edeb1b231fb34/kravskjemajordskifteretten_bokmal.pdf%0D
+Resolving www.herrankukkalro.ga (www.herrankukkalro.ga)... 104.18.34.158, 104.18.35.158
+Connecting to www.herrankukkalro.ga (www.herrankukkalro.ga)|104.18.34.158|:443... --2020-02-25 22:28:00--  https://www.herrankukkalro.ga/contentassets/4cfe1e2a42864d8b8a6edeb1b231fb34/kravskjemajordskifteretten_bokmal.pdf%0D
+connected.
+Resolving www.herrankukkalro.ga (www.herrankukkalro.ga)... 104.18.35.158, 104.18.34.158
+Connecting to www.herrankukkalro.ga (www.herrankukkalro.ga)|104.18.35.158|:443... connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......... .......... .......... .......... 7.20M
+    50K .......... .......... ......                            594M=0.06s
+
+2020-02-25 22:28:01 (10.9 Mb/s) - ‘/dev/null’ saved [77940]
+
+--2020-02-25 22:28:01--  https://www.herrankukkalro.ga/contentassets/4cfe1e2a42864d8b8a6edeb1b231fb34/kravskjemajordskifteretten_bokmal.pdf%0D
+Resolving www.herrankukkalro.ga (www.herrankukkalro.ga)... 104.18.34.158, 104.18.35.158
+Connecting to www.herrankukkalro.ga (www.herrankukkalro.ga)|104.18.34.158|:443... connected.
+........ 7.32M
+    50K .......... .......... .......... ...                    219M=0.06s
+
+2020-02-25 22:28:01 (11.9 Mb/s) - ‘/dev/null’ saved [85078]
+
+--2020-02-25 22:28:01--  https://www.herrankukkalro.ga/contentassets/4cfe1e2a42864d8b8a6edeb1b231fb34/kravskjemajordskifteretten_bokmal.pdf%0D
+Resolving www.herrankukkalro.ga (www.herrankukkalro.ga)... 104.18.35.158, 104.18.34.158
+Connecting to www.herrankukkalro.ga (www.herrankukkalro.ga)|104.18.35.158|:443... connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.21M
+    50K .......... .......... .......... .......... .........200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .... 13.1M
+   100K .......                                                1.25G=0.09s
+
+2020-02-25 22:28:01 (9.95 Mb/s) - ‘/dev/null’ saved [109599]
+
+....... .......... .......... .......... 4.64M
+    50K .....                                                  1.76G=0.09s
+
+2020-02-25 22:28:01 (5.13 Mb/s) - ‘/dev/null’ saved [56595]
+

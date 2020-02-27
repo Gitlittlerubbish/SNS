@@ -1,0 +1,6 @@
+--2020-02-25 22:56:22--  https://www.irishrail.ie/media/conditionsoftravel1.pdf%0D
+Resolving www.irishrail.ie (www.irishrail.ie)... 2.18.66.83, 2.18.66.49
+Connecting to www.irishrail.ie (www.irishrail.ie)|2.18.66.83|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:56:22 ERROR 400: Bad Request.
+

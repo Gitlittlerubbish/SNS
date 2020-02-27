@@ -1,0 +1,12 @@
+--2020-02-25 22:35:00--  http://www.hormones.gr/pdf/Hormones_15_471.pdf%0D
+Resolving www.hormones.gr (www.hormones.gr)... 173.212.252.71
+Connecting to www.hormones.gr (www.hormones.gr)|173.212.252.71|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:35:00 ERROR 404: Not Found.
+
+--2020-02-25 22:35:03--  http://www.hormones.gr/pdf/Hormones_15_471.pdf%0D
+Resolving www.hormones.gr (www.hormones.gr)... 173.212.252.71
+Connecting to www.hormones.gr (www.hormones.gr)|173.212.252.71|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:35:03 ERROR 404: Not Found.
+

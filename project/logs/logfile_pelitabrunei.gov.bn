@@ -1,0 +1,12 @@
+--2020-02-25 21:26:19--  http://pelitabrunei.gov.bn/Arkib%2520Dokumen/2020/PELITABRUNEI_080220.pdf%0D
+Resolving pelitabrunei.gov.bn (pelitabrunei.gov.bn)... 103.4.188.86
+Connecting to pelitabrunei.gov.bn (pelitabrunei.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:20 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:32--  http://pelitabrunei.gov.bn/Arkib%2520Dokumen/2020/PELITABRUNEI_080220.pdf%0D
+Resolving pelitabrunei.gov.bn (pelitabrunei.gov.bn)... 103.4.188.86
+Connecting to pelitabrunei.gov.bn (pelitabrunei.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:33 ERROR 400: Bad Request.
+

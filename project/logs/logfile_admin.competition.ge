@@ -1,0 +1,12 @@
+--2020-02-25 22:30:58--  https://admin.competition.ge/uploads/248b5bdfdb4b4f9bb41193fed0c6ecdb.pdf%0D
+Resolving admin.competition.ge (admin.competition.ge)... 92.51.96.185
+Connecting to admin.competition.ge (admin.competition.ge)|92.51.96.185|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:30:58 ERROR 404: Not Found.
+
+--2020-02-25 22:31:00--  https://admin.competition.ge/uploads/248b5bdfdb4b4f9bb41193fed0c6ecdb.pdf%0D
+Resolving admin.competition.ge (admin.competition.ge)... 92.51.96.185
+Connecting to admin.competition.ge (admin.competition.ge)|92.51.96.185|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:31:00 ERROR 404: Not Found.
+

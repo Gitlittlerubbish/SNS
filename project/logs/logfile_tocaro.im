@@ -1,0 +1,32 @@
+--2020-02-25 22:58:42--  https://tocaro.im/assets/www/rn/tocaro_manual_for_Android.pdf%0D
+Resolving tocaro.im (tocaro.im)... 52.198.72.151, 52.68.146.197
+Connecting to tocaro.im (tocaro.im)|52.198.72.151|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://tocaro.im [following]
+--2020-02-25 22:58:43--  https://tocaro.im/
+Reusing existing connection to tocaro.im:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 55475 (54K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 92% 1.83M 0s
+    50K ....                                                  100% 68400G=0.2s
+
+2020-02-25 22:58:44 (1.98 Mb/s) - ‘/dev/null’ saved [55475/55475]
+
+--2020-02-25 22:58:44--  https://tocaro.im/assets/www/rn/tocaro_manual_for_Android.pdf%0D
+Resolving tocaro.im (tocaro.im)... 52.198.72.151, 52.68.146.197
+Connecting to tocaro.im (tocaro.im)|52.198.72.151|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://tocaro.im [following]
+--2020-02-25 22:58:45--  https://tocaro.im/
+Reusing existing connection to tocaro.im:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 55475 (54K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 92% 1.80M 0s
+    50K ....                                                  100% 68400G=0.2s
+
+2020-02-25 22:58:45 (1.95 Mb/s) - ‘/dev/null’ saved [55475/55475]
+

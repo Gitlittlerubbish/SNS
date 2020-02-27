@@ -1,0 +1,6 @@
+--2020-02-26 00:01:48--  http://www.parliament.na/phocadownload/media/2018/namsona2018.pdf%0D
+Resolving www.parliament.na (www.parliament.na)... 196.31.245.219
+Connecting to www.parliament.na (www.parliament.na)|196.31.245.219|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-26 00:01:49 ERROR 500: Internal Server Error.
+

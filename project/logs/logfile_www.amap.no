@@ -1,0 +1,22 @@
+--2020-02-26 00:21:14--  https://www.amap.no/documents/download/88%0D
+Resolving www.amap.no (www.amap.no)... 104.27.137.128, 104.27.136.128
+Connecting to www.amap.no (www.amap.no)|104.27.137.128|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        15.3M=0s
+
+2020-02-26 00:21:14 (15.3 Mb/s) - ‘/dev/null’ saved [23]
+
+--2020-02-26 00:21:14--  https://www.amap.no/documents/download/88%0D
+Resolving www.amap.no (www.amap.no)... 104.27.137.128, 104.27.136.128
+Connecting to www.amap.no (www.amap.no)|104.27.137.128|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        9.00M=0s
+
+2020-02-26 00:21:14 (9.00 Mb/s) - ‘/dev/null’ saved [23]
+

@@ -1,0 +1,31 @@
+--2020-02-25 23:20:07--  http://rtp.lv/pdf/5435.pdf%0D
+Resolving rtp.lv (rtp.lv)... 91.206.132.162
+Connecting to rtp.lv (rtp.lv)|91.206.132.162|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://rtp.lv/pdf/5435.pdf [following]
+--2020-02-25 23:20:08--  https://rtp.lv/pdf/5435.pdf
+Connecting to rtp.lv (rtp.lv)|91.206.132.162|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105340 (103K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 8.22M 0s
+    50K .......... .......... .......... .......... .......... 97% 8.58M 0s
+   100K ..                                                    100% 47040G=0.1s
+
+2020-02-25 23:20:09 (8.64 Mb/s) - ‘/dev/null’ saved [105340/105340]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 23:20:09--  https://rtp.lv/pdf/5435.pdf%0D
+Resolving rtp.lv (rtp.lv)... 91.206.132.162
+Connecting to rtp.lv (rtp.lv)|91.206.132.162|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:20:10 ERROR 404: Not Found.
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 23:20:10--  https://rtp.lv/pdf/5.pdf%0D
+Resolving rtp.lv (rtp.lv)... 91.206.132.162
+Connecting to rtp.lv (rtp.lv)|91.206.132.162|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:20:10 ERROR 404: Not Found.
+

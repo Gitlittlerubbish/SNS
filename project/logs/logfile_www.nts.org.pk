@@ -1,0 +1,6 @@
+--2020-02-26 00:25:00--  https://www.nts.org.pk/3-TOEIC_LR_sample_tests.pdf%0D
+Resolving www.nts.org.pk (www.nts.org.pk)... 104.28.4.176, 104.28.5.176
+Connecting to www.nts.org.pk (www.nts.org.pk)|104.28.4.176|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:25:00 ERROR 400: Bad Request.
+

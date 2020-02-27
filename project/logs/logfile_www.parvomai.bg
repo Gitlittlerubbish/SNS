@@ -1,0 +1,12 @@
+--2020-02-25 21:27:21--  https://www.parvomai.bg/web/razpisanie_prevozi17.pdf%0D
+Resolving www.parvomai.bg (www.parvomai.bg)... 195.24.89.6
+Connecting to www.parvomai.bg (www.parvomai.bg)|195.24.89.6|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:22 ERROR 404: Not Found.
+
+--2020-02-25 21:32:29--  https://www.parvomai.bg/web/razpisanie_prevozi17.pdf%0D
+Resolving www.parvomai.bg (www.parvomai.bg)... 195.24.89.6
+Connecting to www.parvomai.bg (www.parvomai.bg)|195.24.89.6|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:29 ERROR 404: Not Found.
+

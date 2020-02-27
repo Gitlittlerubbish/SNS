@@ -1,0 +1,148 @@
+--2020-02-25 21:08:10--  http://xerox.bz/1H08zDZ%0D
+Resolving xerox.bz (xerox.bz)... 67.199.248.13, 67.199.248.12
+Connecting to xerox.bz (xerox.bz)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1 [following]
+--2020-02-25 21:08:10--  http://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1
+Resolving www.xerox.com (www.xerox.com)... 2.17.210.173, 2.17.210.221
+Connecting to www.xerox.com (www.xerox.com)|2.17.210.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1 [following]
+--2020-02-25 21:08:10--  https://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1
+Connecting to www.xerox.com (www.xerox.com)|2.17.210.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 918468 (897K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 70.6M 0s
+    50K .......... .......... .......... .......... .......... 11%  114M 0s
+   100K .......... .......... .......... .......... .......... 16%  182M 0s
+   150K .......... .......... .......... .......... .......... 22%  332M 0s
+   200K .......... .......... .......... .......... .......... 27%  252M 0s
+   250K .......... .......... .......... .......... .......... 33% 1.31G 0s
+   300K .......... .......... .......... .......... .......... 39% 1.00G 0s
+   350K .......... .......... .......... .......... .......... 44%  641M 0s
+   400K .......... .......... .......... .......... .......... 50% 1.53G 0s
+   450K .......... .......... .......... .......... .......... 55%  283M 0s
+   500K .......... .......... .......... .......... .......... 61% 61.5M 0s
+   550K .......... .......... .......... .......... .......... 66% 4.19G 0s
+   600K .......... .......... .......... .......... .......... 72% 3.61G 0s
+   650K .......... .......... .......... .......... .......... 78% 2.68G 0s
+   700K .......... .......... .......... .......... .......... 83% 2.74G 0s
+   750K .......... .......... .......... .......... .......... 89% 28.4M 0s
+   800K .......... .......... .......... .......... .......... 94% 2.90G 0s
+   850K .......... .......... .......... .......... ......    100% 4.38G=0.04s
+
+2020-02-25 21:08:11 (186 Mb/s) - ‘/dev/null’ saved [918468/918468]
+
+--2020-02-25 21:08:11--  http://xerox.bz/1H08zDZ%0D
+Resolving xerox.bz (xerox.bz)... 67.199.248.13, 67.199.248.12
+Connecting to xerox.bz (xerox.bz)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1 [following]
+--2020-02-25 21:08:11--  http://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1
+Resolving www.xerox.com (www.xerox.com)... 2.17.210.173, 2.17.210.221
+Connecting to www.xerox.com (www.xerox.com)|2.17.210.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1 [following]
+--2020-02-25 21:08:11--  https://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1
+Connecting to www.xerox.com (www.xerox.com)|2.17.210.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 918468 (897K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5%  178M 0s
+    50K .......... .......... .......... .......... .......... 11%  150M 0s
+   100K .......... .......... .......... .......... .......... 16%  210M 0s
+   150K .......... .......... .......... .......... .......... 22%  836M 0s
+   200K .......... .......... .......... .......... .......... 27%  919M 0s
+   250K .......... .......... .......... .......... .......... 33% 1.95G 0s
+   300K .......... .......... .......... .......... .......... 39%  324M 0s
+   350K .......... .......... .......... .......... .......... 44% 1.72G 0s
+   400K .......... .......... .......... .......... .......... 50% 1.11G 0s
+   450K .......... .......... .......... .......... .......... 55% 4.07G 0s
+   500K .......... .......... .......... .......... .......... 61%  963M 0s
+   550K .......... .......... .......... .......... .......... 66% 1.89G 0s
+   600K .......... .......... .......... .......... .......... 72%  322M 0s
+   650K .......... .......... .......... .......... .......... 78% 2.60G 0s
+   700K .......... .......... .......... .......... .......... 83% 4.43G 0s
+   750K .......... .......... .......... .......... .......... 89% 1.76G 0s
+   800K .......... .......... .......... .......... .......... 94% 1.95G 0s
+   850K .......... .......... .......... .......... ......    100% 3.01G=0.01s
+
+2020-02-25 21:08:11 (573 Mb/s) - ‘/dev/null’ saved [918468/918468]
+
+--2020-02-25 21:18:02--  http://xerox.bz/1H08zDZ%0D
+Resolving xerox.bz (xerox.bz)... 67.199.248.13, 67.199.248.12
+Connecting to xerox.bz (xerox.bz)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1 [following]
+--2020-02-25 21:18:02--  http://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1
+Resolving www.xerox.com (www.xerox.com)... 2.17.210.173, 2.17.210.221
+Connecting to www.xerox.com (www.xerox.com)|2.17.210.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1 [following]
+--2020-02-25 21:18:02--  https://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1
+Connecting to www.xerox.com (www.xerox.com)|2.17.210.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 918468 (897K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5%  169M 0s
+    50K .......... .......... .......... .......... .......... 11%  169M 0s
+   100K .......... .......... .......... .......... .......... 16%  177M 0s
+   150K .......... .......... .......... .......... .......... 22%  699M 0s
+   200K .......... .......... .......... .......... .......... 27% 5.64G 0s
+   250K .......... .......... .......... .......... .......... 33% 1.48G 0s
+   300K .......... .......... .......... .......... .......... 39%  251M 0s
+   350K .......... .......... .......... .......... .......... 44% 1.33G 0s
+   400K .......... .......... .......... .......... .......... 50% 2.00G 0s
+   450K .......... .......... .......... .......... .......... 55% 3.07G 0s
+   500K .......... .......... .......... .......... .......... 61% 1.86G 0s
+   550K .......... .......... .......... .......... .......... 66% 1.61G 0s
+   600K .......... .......... .......... .......... .......... 72%  296M 0s
+   650K .......... .......... .......... .......... .......... 78% 4.57G 0s
+   700K .......... .......... .......... .......... .......... 83% 6.36G 0s
+   750K .......... .......... .......... .......... .......... 89% 5.04G 0s
+   800K .......... .......... .......... .......... .......... 94% 4.08G 0s
+   850K .......... .......... .......... .......... ......    100% 6.89G=0.01s
+
+2020-02-25 21:18:02 (582 Mb/s) - ‘/dev/null’ saved [918468/918468]
+
+--2020-02-25 21:18:02--  http://xerox.bz/1H08zDZ%0D
+Resolving xerox.bz (xerox.bz)... 67.199.248.12, 67.199.248.13
+Connecting to xerox.bz (xerox.bz)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1 [following]
+--2020-02-25 21:18:02--  http://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1
+Resolving www.xerox.com (www.xerox.com)... 2.17.210.221, 2.17.210.173
+Connecting to www.xerox.com (www.xerox.com)|2.17.210.221|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1 [following]
+--2020-02-25 21:18:02--  https://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1
+Connecting to www.xerox.com (www.xerox.com)|2.17.210.221|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 918468 (897K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 86.9M 0s
+    50K .......... .......... .......... .......... .......... 11%  786M 0s
+   100K .......... .......... .......... .......... .......... 16%  866M 0s
+   150K .......... .......... .......... .......... .......... 22%  214M 0s
+   200K .......... .......... .......... .......... .......... 27% 2.32G 0s
+   250K .......... .......... .......... .......... .......... 33% 55.3M 0s
+   300K .......... .......... .......... .......... .......... 39% 3.00G 0s
+   350K .......... .......... .......... .......... .......... 44% 2.04G 0s
+   400K .......... .......... .......... .......... .......... 50% 1.87G 0s
+   450K .......... .......... .......... .......... .......... 55% 1.61G 0s
+   500K .......... .......... .......... .......... .......... 61% 27.5M 0s
+   550K .......... .......... .......... .......... .......... 66% 4.34G 0s
+   600K .......... .......... .......... .......... .......... 72% 5.07G 0s
+   650K .......... .......... .......... .......... .......... 78% 2.70G 0s
+   700K .......... .......... .......... .......... .......... 83% 3.15G 0s
+   750K .......... .......... .......... .......... .......... 89% 28.6M 0s
+   800K .......... .......... .......... .......... .......... 94% 3.09G 0s
+   850K .......... .......... .......... .......... ......    100% 4.96G=0.05s
+
+2020-02-25 21:18:02 (160 Mb/s) - ‘/dev/null’ saved [918468/918468]
+

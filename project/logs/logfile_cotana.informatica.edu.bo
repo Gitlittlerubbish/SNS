@@ -1,0 +1,12 @@
+--2020-02-25 21:15:36--  http://cotana.informatica.edu.bo/downloads/Sistemas%2520Operativos.pdf%0D
+Resolving cotana.informatica.edu.bo (cotana.informatica.edu.bo)... 200.105.169.26
+Connecting to cotana.informatica.edu.bo (cotana.informatica.edu.bo)|200.105.169.26|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:36 ERROR 404: Not Found.
+
+--2020-02-25 21:23:11--  http://cotana.informatica.edu.bo/downloads/Sistemas%2520Operativos.pdf%0D
+Resolving cotana.informatica.edu.bo (cotana.informatica.edu.bo)... 200.105.169.26
+Connecting to cotana.informatica.edu.bo (cotana.informatica.edu.bo)|200.105.169.26|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:11 ERROR 404: Not Found.
+

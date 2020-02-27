@@ -1,0 +1,12 @@
+--2020-02-25 23:05:27--  http://www.philadelphia.edu.jo/science/math/syllabi/211109.pdf%0D
+Resolving www.philadelphia.edu.jo (www.philadelphia.edu.jo)... 148.251.134.227
+Connecting to www.philadelphia.edu.jo (www.philadelphia.edu.jo)|148.251.134.227|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:05:28 ERROR 404: Not Found.
+
+--2020-02-25 23:05:28--  http://www.philadelphia.edu.jo/science/math/syllabi/211101.pdf%0D
+Resolving www.philadelphia.edu.jo (www.philadelphia.edu.jo)... 148.251.134.227
+Connecting to www.philadelphia.edu.jo (www.philadelphia.edu.jo)|148.251.134.227|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:05:28 ERROR 404: Not Found.
+

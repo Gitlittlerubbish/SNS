@@ -1,0 +1,12 @@
+--2020-02-25 23:46:44--  http://nuevoingreso.uaemex.mx/convocatorias/2019/nms2019_2e.pdf%0D
+Resolving nuevoingreso.uaemex.mx (nuevoingreso.uaemex.mx)... 148.215.1.5
+Connecting to nuevoingreso.uaemex.mx (nuevoingreso.uaemex.mx)|148.215.1.5|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:46:44 ERROR 404: Not Found.
+
+--2020-02-25 23:46:44--  http://nuevoingreso.uaemex.mx/convocatorias/2019/nms2019.pdf%0D
+Resolving nuevoingreso.uaemex.mx (nuevoingreso.uaemex.mx)... 148.215.1.5
+Connecting to nuevoingreso.uaemex.mx (nuevoingreso.uaemex.mx)|148.215.1.5|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:46:45 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:43:04--  http://tribunal.gov.pr/opiniones/2000/2000tspr23.pdf%0D
+Resolving tribunal.gov.pr (tribunal.gov.pr)... 64.178.216.76
+Connecting to tribunal.gov.pr (tribunal.gov.pr)|64.178.216.76|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:43:04 ERROR 400: Bad Request.
+

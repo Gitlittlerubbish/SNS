@@ -1,0 +1,60 @@
+--2020-02-25 23:25:41--  https://www.swedbank.lt/files/busto_e.gidas.pdf%0D
+Resolving www.swedbank.lt (www.swedbank.lt)... 193.203.196.147
+Connecting to www.swedbank.lt (www.swedbank.lt)|193.203.196.147|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.swedbank.lt/errorpages/404LT.html [following]
+--2020-02-25 23:25:41--  https://www.swedbank.lt/errorpages/404LT.html
+Reusing existing connection to www.swedbank.lt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5616 (5.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                 100% 1.45G=0s
+
+2020-02-25 23:25:41 (1.45 Gb/s) - ‘/dev/null’ saved [5616/5616]
+
+--2020-02-25 23:25:41--  https://www.swedbank.lt/files/busto_e.gidas.pdf%0D
+Resolving www.swedbank.lt (www.swedbank.lt)... 193.203.196.147
+Connecting to www.swedbank.lt (www.swedbank.lt)|193.203.196.147|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.swedbank.lt/errorpages/404LT.html [following]
+--2020-02-25 23:25:42--  https://www.swedbank.lt/errorpages/404LT.html
+Reusing existing connection to www.swedbank.lt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5616 (5.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                 100% 1.46G=0s
+
+2020-02-25 23:25:42 (1.46 Gb/s) - ‘/dev/null’ saved [5616/5616]
+
+--2020-02-25 23:25:44--  https://www.swedbank.lt/files/busto_e.gidas.pdf%0D
+Resolving www.swedbank.lt (www.swedbank.lt)... 193.203.196.147
+Connecting to www.swedbank.lt (www.swedbank.lt)|193.203.196.147|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.swedbank.lt/errorpages/404LT.html [following]
+--2020-02-25 23:25:44--  https://www.swedbank.lt/errorpages/404LT.html
+Reusing existing connection to www.swedbank.lt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5616 (5.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                 100% 1.43G=0s
+
+2020-02-25 23:25:44 (1.43 Gb/s) - ‘/dev/null’ saved [5616/5616]
+
+--2020-02-25 23:25:44--  https://www.swedbank.lt/files/busto_e.gidas.pdf%0D
+Resolving www.swedbank.lt (www.swedbank.lt)... 193.203.196.147
+Connecting to www.swedbank.lt (www.swedbank.lt)|193.203.196.147|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.swedbank.lt/errorpages/404LT.html [following]
+--2020-02-25 23:25:44--  https://www.swedbank.lt/errorpages/404LT.html
+Reusing existing connection to www.swedbank.lt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5616 (5.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                 100% 1.33G=0s
+
+2020-02-25 23:25:44 (1.33 Gb/s) - ‘/dev/null’ saved [5616/5616]
+

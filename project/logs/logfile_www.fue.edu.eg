@@ -1,0 +1,12 @@
+--2020-02-25 22:11:53--  http://www.fue.edu.eg/pdfFiles/Courses/PAD_308_68476.pdf%0D
+Resolving www.fue.edu.eg (www.fue.edu.eg)... --2020-02-25 22:11:53--  http://www.fue.edu.eg/pdfFiles/Courses/PAD_308_68476.pdf%0D
+Resolving www.fue.edu.eg (www.fue.edu.eg)... 104.28.31.58, 104.28.30.58
+Connecting to www.fue.edu.eg (www.fue.edu.eg)|104.28.31.58|:80... 104.28.30.58, 104.28.31.58
+Connecting to www.fue.edu.eg (www.fue.edu.eg)|104.28.30.58|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:53 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:11:53 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:02:22--  https://mofa.gov.bs/wp-content/uploads/2016/02/ImmigrationVesselsRestrictionRegulations_1.pdf%0D
+Resolving mofa.gov.bs (mofa.gov.bs)... 24.51.118.16, 108.60.224.16
+Connecting to mofa.gov.bs (mofa.gov.bs)|24.51.118.16|:443... connected.
+HTTP request sent, awaiting response... No data received.
+Giving up.
+
+--2020-02-25 21:13:43--  https://mofa.gov.bs/wp-content/uploads/2016/02/ImmigrationVesselsRestrictionRegulations_1.pdf%0D
+Resolving mofa.gov.bs (mofa.gov.bs)... 108.60.224.16, 24.51.118.16
+Connecting to mofa.gov.bs (mofa.gov.bs)|108.60.224.16|:443... connected.
+HTTP request sent, awaiting response... No data received.
+Giving up.
+

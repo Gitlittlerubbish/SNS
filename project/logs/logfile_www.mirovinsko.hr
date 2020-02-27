@@ -1,0 +1,12 @@
+--2020-02-25 22:01:16--  http://www.mirovinsko.hr/UserDocsImages/EU/vodiceu2.pdf%0D
+Resolving www.mirovinsko.hr (www.mirovinsko.hr)... --2020-02-25 22:01:16--  http://www.mirovinsko.hr/UserDocsImages/EU/vodiceu2.pdf%0D
+Resolving www.mirovinsko.hr (www.mirovinsko.hr)... 91.235.170.162
+Connecting to www.mirovinsko.hr (www.mirovinsko.hr)|91.235.170.162|:80... 91.235.170.162
+Connecting to www.mirovinsko.hr (www.mirovinsko.hr)|91.235.170.162|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:16 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:01:16 ERROR 400: Bad Request.
+

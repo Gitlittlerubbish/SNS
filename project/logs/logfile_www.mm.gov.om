@@ -1,0 +1,6 @@
+--2020-02-26 00:23:25--  http://www.mm.gov.om/PDF/Quotations/99712017.pdf%0D
+Resolving www.mm.gov.om (www.mm.gov.om)... 212.72.17.171
+Connecting to www.mm.gov.om (www.mm.gov.om)|212.72.17.171|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:23:26 ERROR 400: Bad Request.
+

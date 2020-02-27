@@ -1,0 +1,20 @@
+--2020-02-25 20:59:36--  http://www.ams.at/_eservice_docs/FAQ_SfU.pdf%0D
+Resolving www.ams.at (www.ams.at)... 194.37.230.4
+Connecting to www.ams.at (www.ams.at)|194.37.230.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ams.at/_eservice_docs/FAQ_SfU.pdf%0d [following]
+--2020-02-25 20:59:36--  https://www.ams.at/_eservice_docs/FAQ_SfU.pdf%0d
+Connecting to www.ams.at (www.ams.at)|194.37.230.4|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:36 ERROR 404: Not Found.
+
+--2020-02-25 21:11:42--  http://www.ams.at/_eservice_docs/FAQ_SfU.pdf%0D
+Resolving www.ams.at (www.ams.at)... 194.37.230.4
+Connecting to www.ams.at (www.ams.at)|194.37.230.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ams.at/_eservice_docs/FAQ_SfU.pdf%0d [following]
+--2020-02-25 21:11:42--  https://www.ams.at/_eservice_docs/FAQ_SfU.pdf%0d
+Connecting to www.ams.at (www.ams.at)|194.37.230.4|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:42 ERROR 404: Not Found.
+

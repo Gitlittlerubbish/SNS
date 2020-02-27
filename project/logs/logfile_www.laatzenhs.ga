@@ -1,0 +1,44 @@
+--2020-02-25 22:25:51--  http://www.laatzenhs.ga/article/download/12100/10116%0D
+Resolving www.laatzenhs.ga (www.laatzenhs.ga)... 195.20.55.228
+Connecting to www.laatzenhs.ga (www.laatzenhs.ga)|195.20.55.228|:80... --2020-02-25 22:25:52--  http://www.laatzenhs.ga/article/download/12100/10116%0D
+Resolving www.laatzenhs.ga (www.laatzenhs.ga)... 195.20.55.228
+Connecting to www.laatzenhs.ga (www.laatzenhs.ga)|195.20.55.228|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 644 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  625M=0s
+
+2020-02-25 22:25:52 (625 Mb/s) - ‘/dev/null’ saved [644/644]
+
+--2020-02-25 22:25:52--  http://www.laatzenhs.ga/article/download/12100/10116%0D
+Resolving www.laatzenhs.ga (www.laatzenhs.ga)... 195.20.55.228
+Connecting to www.laatzenhs.ga (www.laatzenhs.ga)|195.20.55.228|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 203 
+Length: 644 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.21G=0s
+
+2020-02-25 22:25:53 (1.21 Gb/s) - ‘/dev/null’ saved [644/644]
+
+--2020-02-25 22:25:53--  http://www.laatzenhs.ga/article/download/12100/10116%0D
+Resolving www.laatzenhs.ga (www.laatzenhs.ga)... 195.20.55.228
+Connecting to www.laatzenhs.ga (www.laatzenhs.ga)|195.20.55.228|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 644 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.53G=0s
+
+2020-02-25 22:25:53 (1.53 Gb/s) - ‘/dev/null’ saved [644/644]
+
+203 
+Length: 644 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  702M=0s
+
+2020-02-25 22:25:54 (702 Mb/s) - ‘/dev/null’ saved [644/644]
+

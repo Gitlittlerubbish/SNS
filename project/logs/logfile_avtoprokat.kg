@@ -1,0 +1,32 @@
+--2020-02-25 23:17:39--  http://avtoprokat.kg/start/images/contract.pdf%0D
+Resolving avtoprokat.kg (avtoprokat.kg)... 176.126.164.16
+Connecting to avtoprokat.kg (avtoprokat.kg)|176.126.164.16|:80... connected.
+HTTP request sent, awaiting response... 303 See other
+Location: http://avtoprokat.kg/start/ru/images/contract.pdf [following]
+--2020-02-25 23:17:40--  http://avtoprokat.kg/start/ru/images/contract.pdf
+Reusing existing connection to avtoprokat.kg:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.28M
+    50K ..........                                             1.46G=0.3s
+
+2020-02-25 23:17:42 (1.56 Mb/s) - ‘/dev/null’ saved [62224]
+
+--2020-02-25 23:17:42--  http://avtoprokat.kg/start/images/contract.pdf%0D
+Resolving avtoprokat.kg (avtoprokat.kg)... 176.126.164.16
+Connecting to avtoprokat.kg (avtoprokat.kg)|176.126.164.16|:80... connected.
+HTTP request sent, awaiting response... 303 See other
+Location: http://avtoprokat.kg/start/ru/images/contract.pdf [following]
+--2020-02-25 23:17:43--  http://avtoprokat.kg/start/ru/images/contract.pdf
+Reusing existing connection to avtoprokat.kg:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  924K
+    50K ..........                                             7.05G=0.4s
+
+2020-02-25 23:17:44 (1.12 Mb/s) - ‘/dev/null’ saved [62224]
+

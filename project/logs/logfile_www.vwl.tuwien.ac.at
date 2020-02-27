@@ -1,0 +1,68 @@
+--2020-02-25 20:59:57--  http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf%0D
+Resolving www.vwl.tuwien.ac.at (www.vwl.tuwien.ac.at)... 128.130.177.2
+Connecting to www.vwl.tuwien.ac.at (www.vwl.tuwien.ac.at)|128.130.177.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf [following]
+--2020-02-25 20:59:57--  http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf
+Reusing existing connection to www.vwl.tuwien.ac.at:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 122319 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 4.93M 0s
+    50K .......... .......... .......... .......... .......... 83% 7.51M 0s
+   100K .......... .........                                  100% 5.98M=0.2s
+
+2020-02-25 20:59:58 (5.95 Mb/s) - ‘/dev/null’ saved [122319/122319]
+
+--2020-02-25 20:59:58--  http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf%0D
+Resolving www.vwl.tuwien.ac.at (www.vwl.tuwien.ac.at)... 128.130.177.2
+Connecting to www.vwl.tuwien.ac.at (www.vwl.tuwien.ac.at)|128.130.177.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf [following]
+--2020-02-25 20:59:58--  http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf
+Reusing existing connection to www.vwl.tuwien.ac.at:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 122319 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 3.73M 0s
+    50K .......... .......... .......... .......... .......... 83% 7.49M 0s
+   100K .......... .........                                  100% 5.88M=0.2s
+
+2020-02-25 20:59:58 (5.11 Mb/s) - ‘/dev/null’ saved [122319/122319]
+
+--2020-02-25 21:11:59--  http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf%0D
+Resolving www.vwl.tuwien.ac.at (www.vwl.tuwien.ac.at)... 128.130.177.2
+Connecting to www.vwl.tuwien.ac.at (www.vwl.tuwien.ac.at)|128.130.177.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf [following]
+--2020-02-25 21:11:59--  http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf
+Reusing existing connection to www.vwl.tuwien.ac.at:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 122319 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 4.99M 0s
+    50K .......... .......... .......... .......... .......... 83% 5.02M 0s
+   100K .......... .........                                  100% 5.75M=0.2s
+
+2020-02-25 21:12:00 (5.11 Mb/s) - ‘/dev/null’ saved [122319/122319]
+
+--2020-02-25 21:12:00--  http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf%0D
+Resolving www.vwl.tuwien.ac.at (www.vwl.tuwien.ac.at)... 128.130.177.2
+Connecting to www.vwl.tuwien.ac.at (www.vwl.tuwien.ac.at)|128.130.177.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf [following]
+--2020-02-25 21:12:00--  http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf
+Reusing existing connection to www.vwl.tuwien.ac.at:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 122319 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 4.96M 0s
+    50K .......... .......... .......... .......... .......... 83% 5.00M 0s
+   100K .......... .........                                  100% 5.82M=0.2s
+
+2020-02-25 21:12:00 (5.10 Mb/s) - ‘/dev/null’ saved [122319/122319]
+

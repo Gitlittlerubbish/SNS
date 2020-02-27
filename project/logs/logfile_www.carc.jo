@@ -1,0 +1,10 @@
+--2020-02-25 23:05:26--  https://www.carc.jo/images/Wakeel_Prcedure.pdf%0D
+Resolving www.carc.jo (www.carc.jo)... 66.55.134.194
+Connecting to www.carc.jo (www.carc.jo)|66.55.134.194|:443... connected.
+HTTP request sent, awaiting response... 303 See other
+Location: https://www.carc.jo/en/images/Wakeel_Prcedure.pdf [following]
+--2020-02-25 23:05:27--  https://www.carc.jo/en/images/Wakeel_Prcedure.pdf
+Reusing existing connection to www.carc.jo:443.
+HTTP request sent, awaiting response... 404 Category not found
+2020-02-25 23:05:27 ERROR 404: Category not found.
+

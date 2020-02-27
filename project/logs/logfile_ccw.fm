@@ -1,0 +1,22 @@
+--2020-02-25 23:48:26--  http://ccw.fm/MGe6b%0D
+Resolving ccw.fm (ccw.fm)... 72.47.244.99
+Connecting to ccw.fm (ccw.fm)|72.47.244.99|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        24.6M=0s
+
+2020-02-25 23:48:27 (24.6 Mb/s) - ‘/dev/null’ saved [20]
+
+--2020-02-25 23:48:27--  http://ccw.fm/MGe6b%0D
+Resolving ccw.fm (ccw.fm)... 72.47.244.99
+Connecting to ccw.fm (ccw.fm)|72.47.244.99|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        22.8M=0s
+
+2020-02-25 23:48:27 (22.8 Mb/s) - ‘/dev/null’ saved [20]
+

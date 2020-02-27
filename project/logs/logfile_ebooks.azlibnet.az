@@ -1,0 +1,12 @@
+--2020-02-25 21:00:36--  https://ebooks.azlibnet.az/book/jgeMO6HQ.pdf%0D
+Resolving ebooks.azlibnet.az (ebooks.azlibnet.az)... 50.87.253.209
+Connecting to ebooks.azlibnet.az (ebooks.azlibnet.az)|50.87.253.209|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:37 ERROR 404: Not Found.
+
+--2020-02-25 21:12:26--  https://ebooks.azlibnet.az/book/jgeMO6HQ.pdf%0D
+Resolving ebooks.azlibnet.az (ebooks.azlibnet.az)... 50.87.253.209
+Connecting to ebooks.azlibnet.az (ebooks.azlibnet.az)|50.87.253.209|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:27 ERROR 404: Not Found.
+

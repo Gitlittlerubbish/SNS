@@ -1,0 +1,12 @@
+--2020-02-25 21:25:30--  http://ceforeda.my.vg/proliant-5000-maintenance-guide.pdf%0D
+Resolving ceforeda.my.vg (ceforeda.my.vg)... 185.53.178.9
+Connecting to ceforeda.my.vg (ceforeda.my.vg)|185.53.178.9|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:25:30 ERROR 403: Forbidden.
+
+--2020-02-25 21:30:51--  http://ceforeda.my.vg/proliant-5000-maintenance-guide.pdf%0D
+Resolving ceforeda.my.vg (ceforeda.my.vg)... 185.53.178.9
+Connecting to ceforeda.my.vg (ceforeda.my.vg)|185.53.178.9|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:30:51 ERROR 403: Forbidden.
+

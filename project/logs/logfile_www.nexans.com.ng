@@ -1,0 +1,15 @@
+--2020-02-26 00:16:14--  http://www.nexans.com.ng/Morocco/family/doc/en/U_1000_R2V.pdf%0D
+Resolving www.nexans.com.ng (www.nexans.com.ng)... 185.67.149.26
+Connecting to www.nexans.com.ng (www.nexans.com.ng)|185.67.149.26|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.nexans.gm/Morocco/family/doc/en/U_1000_R2V.pdf%0d [following]
+--2020-02-26 00:16:14--  http://www.nexans.gm/Morocco/family/doc/en/U_1000_R2V.pdf%0d
+Resolving www.nexans.gm (www.nexans.gm)... 185.67.149.26
+Reusing existing connection to www.nexans.com.ng:80.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nexans.gm/Morocco/family/doc/en/U_1000_R2V.pdf%0d [following]
+--2020-02-26 00:16:14--  https://www.nexans.gm/Morocco/family/doc/en/U_1000_R2V.pdf%0d
+Connecting to www.nexans.gm (www.nexans.gm)|185.67.149.26|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:16:14 ERROR 404: Not Found.
+

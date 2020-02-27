@@ -1,0 +1,6 @@
+--2020-02-25 22:46:39--  https://www.archsd.gov.hk/media/279777/spgs2017.pdf%0D
+Resolving www.archsd.gov.hk (www.archsd.gov.hk)... 104.16.96.77, 104.16.95.77
+Connecting to www.archsd.gov.hk (www.archsd.gov.hk)|104.16.96.77|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:46:40 ERROR 400: Bad Request.
+

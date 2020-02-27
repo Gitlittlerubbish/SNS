@@ -1,0 +1,12 @@
+--2020-02-25 22:05:22--  http://www.postsignum.cz/files/smlouvy/PO_PFO_smlouva.pdf%0D
+Resolving www.postsignum.cz (www.postsignum.cz)... 193.150.24.50
+Connecting to www.postsignum.cz (www.postsignum.cz)|193.150.24.50|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:05:22 ERROR 403: Forbidden.
+
+--2020-02-25 22:05:23--  http://www.postsignum.cz/files/smlouvy/PO_PFO_smlouva.pdf%0D
+Resolving www.postsignum.cz (www.postsignum.cz)... 193.150.24.50
+Connecting to www.postsignum.cz (www.postsignum.cz)|193.150.24.50|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:05:23 ERROR 403: Forbidden.
+

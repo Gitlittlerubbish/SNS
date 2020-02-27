@@ -1,0 +1,6 @@
+--2020-02-25 23:13:40--  http://www.incheon.go.kr/media/4/10936%0D
+Resolving www.incheon.go.kr (www.incheon.go.kr)... 152.99.40.10
+Connecting to www.incheon.go.kr (www.incheon.go.kr)|152.99.40.10|:80... connected.
+HTTP request sent, awaiting response... 417 Expectation Failed
+2020-02-25 23:13:41 ERROR 417: Expectation Failed.
+

@@ -1,0 +1,22 @@
+--2020-02-25 23:47:39--  https://www.yazbek.com.mx/files/precios.pdf%0D
+Resolving www.yazbek.com.mx (www.yazbek.com.mx)... 70.32.120.160
+Connecting to www.yazbek.com.mx (www.yazbek.com.mx)|70.32.120.160|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                  5.94G=0s
+
+2020-02-25 23:47:40 (5.94 Gb/s) - ‘/dev/null’ saved [6076]
+
+--2020-02-25 23:47:40--  https://www.yazbek.com.mx/files/precios.pdf%0D
+Resolving www.yazbek.com.mx (www.yazbek.com.mx)... 70.32.120.160
+Connecting to www.yazbek.com.mx (www.yazbek.com.mx)|70.32.120.160|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                  6.35G=0s
+
+2020-02-25 23:47:40 (6.35 Gb/s) - ‘/dev/null’ saved [6076]
+

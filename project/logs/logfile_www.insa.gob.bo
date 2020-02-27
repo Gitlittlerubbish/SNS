@@ -1,0 +1,12 @@
+--2020-02-25 21:16:22--  http://www.insa.gob.bo/images/recursos_humanos/MANUAL_DE_ORGANIZACION_Y_FUNCIONES_2018.pdf%0D
+Resolving www.insa.gob.bo (www.insa.gob.bo)... 200.105.215.204
+Connecting to www.insa.gob.bo (www.insa.gob.bo)|200.105.215.204|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:16:22 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:23:51--  http://www.insa.gob.bo/images/recursos_humanos/MANUAL_DE_ORGANIZACION_Y_FUNCIONES_2018.pdf%0D
+Resolving www.insa.gob.bo (www.insa.gob.bo)... 200.105.215.204
+Connecting to www.insa.gob.bo (www.insa.gob.bo)|200.105.215.204|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:23:51 ERROR 500: Internal Server Error.
+

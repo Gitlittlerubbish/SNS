@@ -1,0 +1,44 @@
+--2020-02-25 22:23:09--  http://www.ch-cotentin.fr/pdf/remunerationmedecin.pdf%0D
+Resolving www.ch-cotentin.fr (www.ch-cotentin.fr)... --2020-02-25 22:23:10--  http://www.ch-cotentin.fr/pdf/remunerationmedecin.pdf%0D
+Resolving www.ch-cotentin.fr (www.ch-cotentin.fr)... 128.127.130.19
+Connecting to www.ch-cotentin.fr (www.ch-cotentin.fr)|128.127.130.19|:80... 128.127.130.19
+Connecting to www.ch-cotentin.fr (www.ch-cotentin.fr)|128.127.130.19|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ..200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..                               6.62M=0.03s
+
+2020-02-25 22:23:10 (6.62 Mb/s) - ‘/dev/null’ saved [22778]
+
+--2020-02-25 22:23:10--  http://www.ch-cotentin.fr/pdf/remunerationmedecin.pdf%0D
+Resolving www.ch-cotentin.fr (www.ch-cotentin.fr)... 128.127.130.19
+Connecting to www.ch-cotentin.fr (www.ch-cotentin.fr)|128.127.130.19|:80... ........ ..                               6.64M=0.03s
+
+2020-02-25 22:23:10 (6.64 Mb/s) - ‘/dev/null’ saved [22778]
+
+--2020-02-25 22:23:10--  http://www.ch-cotentin.fr/pdf/remunerationmedecin.pdf%0D
+Resolving www.ch-cotentin.fr (www.ch-cotentin.fr)... 128.127.130.19
+Connecting to www.ch-cotentin.fr (www.ch-cotentin.fr)|128.127.130.19|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ..200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..                               6.62M=0.03s
+
+2020-02-25 22:23:10 (6.62 Mb/s) - ‘/dev/null’ saved [22778]
+
+........ ..                               6.62M=0.03s
+
+2020-02-25 22:23:10 (6.62 Mb/s) - ‘/dev/null’ saved [22778]
+

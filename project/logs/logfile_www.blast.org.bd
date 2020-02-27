@@ -1,0 +1,12 @@
+--2020-02-25 21:05:14--  https://www.blast.org.bd/content/publications/ain_shohayika_labour.pdf%0D
+Resolving www.blast.org.bd (www.blast.org.bd)... 67.43.13.29
+Connecting to www.blast.org.bd (www.blast.org.bd)|67.43.13.29|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:05:15 ERROR 404: Not Found.
+
+--2020-02-25 21:15:46--  https://www.blast.org.bd/content/publications/ain_shohayika_labour.pdf%0D
+Resolving www.blast.org.bd (www.blast.org.bd)... 67.43.13.29
+Connecting to www.blast.org.bd (www.blast.org.bd)|67.43.13.29|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:47 ERROR 404: Not Found.
+

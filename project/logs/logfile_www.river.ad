@@ -1,0 +1,6 @@
+--2020-02-25 21:00:49--  https://www.river.ad/docs/joguines2019.pdf%0D
+Resolving www.river.ad (www.river.ad)... 82.98.139.168
+Connecting to www.river.ad (www.river.ad)|82.98.139.168|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.river.ad’.
+To connect to www.river.ad insecurely, use `--no-check-certificate'.

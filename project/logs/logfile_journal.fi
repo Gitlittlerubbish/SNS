@@ -1,0 +1,60 @@
+--2020-02-25 22:22:18--  https://journal.fi/afinla/issue/view/5355/afinlae2018%0D
+Resolving journal.fi (journal.fi)... 195.148.72.39
+Connecting to journal.fi (journal.fi)|195.148.72.39|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:22:19--  https://journal.fi/afinla/issue/view/5355/afinlae2018%0D
+Resolving journal.fi (journal.fi)... 195.148.72.39
+Connecting to journal.fi (journal.fi)|195.148.72.39|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://journal.fi/afinla/issue/view/5355 [following]
+--2020-02-25 22:22:19--  https://journal.fi/afinla/issue/view/5355
+Connecting to journal.fi (journal.fi)|195.148.72.39|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://journal.fi/afinla/issue/view/5355 [following]
+--2020-02-25 22:22:19--  https://journal.fi/afinla/issue/view/5355
+Connecting to journal.fi (journal.fi)|195.148.72.39|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                   5.02M=0.03s
+
+2020-02-25 22:22:19 (5.02 Mb/s) - ‘/dev/null’ saved [20061]
+
+
+     0K .......... .........                                   4.58M=0.04s
+
+2020-02-25 22:22:19 (4.58 Mb/s) - ‘/dev/null’ saved [20061]
+
+--2020-02-25 22:22:19--  https://journal.fi/afinla/issue/view/5355/afinlae2018%0D
+Resolving journal.fi (journal.fi)... --2020-02-25 22:22:19--  https://journal.fi/afinla/issue/view/5355/afinlae2018%0D
+Resolving journal.fi (journal.fi)... 195.148.72.39
+Connecting to journal.fi (journal.fi)|195.148.72.39|:443... 195.148.72.39
+Connecting to journal.fi (journal.fi)|195.148.72.39|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: https://journal.fi/afinla/issue/view/5355 [following]
+--2020-02-25 22:22:20--  https://journal.fi/afinla/issue/view/5355
+Connecting to journal.fi (journal.fi)|195.148.72.39|:443... 302 Found
+Location: https://journal.fi/afinla/issue/view/5355 [following]
+--2020-02-25 22:22:20--  https://journal.fi/afinla/issue/view/5355
+Connecting to journal.fi (journal.fi)|195.148.72.39|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                   5.03M=0.03s
+
+2020-02-25 22:22:20 (5.03 Mb/s) - ‘/dev/null’ saved [20061]
+
+
+     0K .......... .........                                   5.01M=0.03s
+
+2020-02-25 22:22:20 (5.01 Mb/s) - ‘/dev/null’ saved [20061]
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:24:07--  https://www.bzu.edu.pk/jobapplicationform.pdf%0D
+Resolving www.bzu.edu.pk (www.bzu.edu.pk)... 51.75.205.103
+Connecting to www.bzu.edu.pk (www.bzu.edu.pk)|51.75.205.103|:443... connected.
+ERROR: cannot verify www.bzu.edu.pk's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.bzu.edu.pk insecurely, use `--no-check-certificate'.

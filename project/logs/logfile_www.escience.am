@@ -1,0 +1,12 @@
+--2020-02-25 20:54:48--  http://www.escience.am/misc/sc_edu/VAP_thesis_Arm_2010.pdf%0D
+Resolving www.escience.am (www.escience.am)... 144.76.222.106
+Connecting to www.escience.am (www.escience.am)|144.76.222.106|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:48 ERROR 404: Not Found.
+
+--2020-02-25 21:07:40--  http://www.escience.am/misc/sc_edu/VAP_thesis_Arm_2010.pdf%0D
+Resolving www.escience.am (www.escience.am)... 144.76.222.106
+Connecting to www.escience.am (www.escience.am)|144.76.222.106|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:40 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:04:08--  https://www.niph.go.jp/journal/data/53-3/200453030002.pdf%0D
+Resolving www.niph.go.jp (www.niph.go.jp)... 203.181.232.1
+Connecting to www.niph.go.jp (www.niph.go.jp)|203.181.232.1|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:04:09 ERROR 404: Not Found.
+

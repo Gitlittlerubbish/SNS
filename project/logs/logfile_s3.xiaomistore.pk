@@ -1,0 +1,6 @@
+--2020-02-26 00:23:58--  https://s3.xiaomistore.pk/711/fimi_x8_se_user_manual.pdf%0D
+Resolving s3.xiaomistore.pk (s3.xiaomistore.pk)... 104.27.146.230, 104.27.147.230
+Connecting to s3.xiaomistore.pk (s3.xiaomistore.pk)|104.27.146.230|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:23:58 ERROR 403: Forbidden.
+

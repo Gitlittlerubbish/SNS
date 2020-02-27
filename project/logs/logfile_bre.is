@@ -1,0 +1,30 @@
+--2020-02-25 22:48:11--  https://bre.is/UXxAkt6Z%0D
+Resolving bre.is (bre.is)... 95.217.4.218
+Connecting to bre.is (bre.is)|95.217.4.218|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://bre.is [following]
+--2020-02-25 22:48:12--  https://bre.is/
+Reusing existing connection to bre.is:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5875 (5.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                 100% 4.35G=0s
+
+2020-02-25 22:48:12 (4.35 Gb/s) - ‘/dev/null’ saved [5875/5875]
+
+--2020-02-25 22:48:12--  https://bre.is/UXxAkt6Z%0D
+Resolving bre.is (bre.is)... 95.217.4.218
+Connecting to bre.is (bre.is)|95.217.4.218|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://bre.is [following]
+--2020-02-25 22:48:12--  https://bre.is/
+Reusing existing connection to bre.is:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5875 (5.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                 100% 4.10G=0s
+
+2020-02-25 22:48:12 (4.10 Gb/s) - ‘/dev/null’ saved [5875/5875]
+

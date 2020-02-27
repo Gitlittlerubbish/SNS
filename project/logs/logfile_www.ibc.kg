@@ -1,0 +1,28 @@
+--2020-02-25 23:16:56--  http://www.ibc.kg/ru/download/1260%0D
+Resolving www.ibc.kg (www.ibc.kg)... 176.126.165.113
+Connecting to www.ibc.kg (www.ibc.kg)|176.126.165.113|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.27M
+    50K .......... .......... .......... .......... .......... 3.80M
+   100K .......... .......... .......... .......... .......... 3.80M
+   150K .......... .......... ..                               1.72M=0.6s
+
+2020-02-25 23:16:57 (2.19 Mb/s) - ‘/dev/null’ saved [176658]
+
+--2020-02-25 23:16:57--  http://www.ibc.kg/ru/download/1260%0D
+Resolving www.ibc.kg (www.ibc.kg)... 176.126.165.113
+Connecting to www.ibc.kg (www.ibc.kg)|176.126.165.113|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.77M
+    50K .......... .......... .......... .......... .......... 1.76M
+   100K .......... .......... .......... .......... .......... 3.53M
+   150K .......... .......... ..                               1.14G=0.6s
+
+2020-02-25 23:16:58 (2.44 Mb/s) - ‘/dev/null’ saved [176658]
+

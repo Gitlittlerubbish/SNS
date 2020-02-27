@@ -1,0 +1,12 @@
+--2020-02-25 21:37:14--  http://www.registriesdirect.ca/pdf/VehicleInspection.pdf%0D
+Resolving www.registriesdirect.ca (www.registriesdirect.ca)... 66.18.244.247
+Connecting to www.registriesdirect.ca (www.registriesdirect.ca)|66.18.244.247|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:15 ERROR 404: Not Found.
+
+--2020-02-25 21:38:48--  http://www.registriesdirect.ca/pdf/VehicleInspection.pdf%0D
+Resolving www.registriesdirect.ca (www.registriesdirect.ca)... 66.18.244.247
+Connecting to www.registriesdirect.ca (www.registriesdirect.ca)|66.18.244.247|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:49 ERROR 404: Not Found.
+

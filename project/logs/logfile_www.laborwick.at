@@ -1,0 +1,12 @@
+--2020-02-25 20:59:37--  http://www.laborwick.at/files/367692.PDF%0D
+Resolving www.laborwick.at (www.laborwick.at)... 81.19.145.98
+Connecting to www.laborwick.at (www.laborwick.at)|81.19.145.98|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 20:59:37 ERROR 403: Forbidden.
+
+--2020-02-25 21:11:44--  http://www.laborwick.at/files/367692.PDF%0D
+Resolving www.laborwick.at (www.laborwick.at)... 81.19.145.98
+Connecting to www.laborwick.at (www.laborwick.at)|81.19.145.98|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:11:44 ERROR 403: Forbidden.
+

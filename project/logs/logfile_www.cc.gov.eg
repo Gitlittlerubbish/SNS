@@ -1,0 +1,12 @@
+--2020-02-25 22:11:33--  http://www.cc.gov.eg/Images/H/111346264.pdf%0D
+Resolving www.cc.gov.eg (www.cc.gov.eg)... --2020-02-25 22:11:33--  http://www.cc.gov.eg/Images/H/111346264.pdf%0D
+Resolving www.cc.gov.eg (www.cc.gov.eg)... 41.33.62.22
+Connecting to www.cc.gov.eg (www.cc.gov.eg)|41.33.62.22|:80... connected.
+HTTP request sent, awaiting response... 41.33.62.22
+Connecting to www.cc.gov.eg (www.cc.gov.eg)|41.33.62.22|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:33 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:11:33 ERROR 400: Bad Request.
+

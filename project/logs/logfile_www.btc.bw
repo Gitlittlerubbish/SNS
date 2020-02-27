@@ -1,0 +1,12 @@
+--2020-02-25 21:19:27--  http://www.btc.bw/themes/btc/assets/img/BTCL_ANNUAL_REPORT_2014.pdf%0D
+Resolving www.btc.bw (www.btc.bw)... 168.167.71.15
+Connecting to www.btc.bw (www.btc.bw)|168.167.71.15|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:19:27 ERROR 400: Bad Request.
+
+--2020-02-25 21:25:48--  http://www.btc.bw/themes/btc/assets/img/BTCL_ANNUAL_REPORT_2014.pdf%0D
+Resolving www.btc.bw (www.btc.bw)... 168.167.71.15
+Connecting to www.btc.bw (www.btc.bw)|168.167.71.15|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:48 ERROR 400: Bad Request.
+

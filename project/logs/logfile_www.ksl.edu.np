@@ -1,0 +1,6 @@
+--2020-02-26 00:04:06--  http://www.ksl.edu.np/files/large/e708e7a67ae06f4%0D
+Resolving www.ksl.edu.np (www.ksl.edu.np)... 51.89.171.222
+Connecting to www.ksl.edu.np (www.ksl.edu.np)|51.89.171.222|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:04:06 ERROR 400: Bad Request.
+

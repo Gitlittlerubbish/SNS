@@ -1,0 +1,10 @@
+--2020-02-25 22:41:21--  http://www.nac.gov.gy/images/revised_conditions_for_maintenance_of_Registration.pdf%0D
+Resolving www.nac.gov.gy (www.nac.gov.gy)... 35.206.118.52
+Connecting to www.nac.gov.gy (www.nac.gov.gy)|35.206.118.52|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nac.gov.gy/images/revised_conditions_for_maintenance_of_Registration.pdf [following]
+--2020-02-25 22:41:22--  https://www.nac.gov.gy/images/revised_conditions_for_maintenance_of_Registration.pdf
+Connecting to www.nac.gov.gy (www.nac.gov.gy)|35.206.118.52|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

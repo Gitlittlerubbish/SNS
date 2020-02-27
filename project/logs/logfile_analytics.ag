@@ -1,0 +1,6 @@
+--2020-02-25 21:04:56--  https://analytics.ag/Blog/content/KoPRF.pdf%0D
+Resolving analytics.ag (analytics.ag)... 40.84.55.24
+Connecting to analytics.ag (analytics.ag)|40.84.55.24|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:04:57 ERROR 400: Bad Request.
+

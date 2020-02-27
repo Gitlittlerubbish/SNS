@@ -1,0 +1,12 @@
+--2020-02-25 20:59:55--  http://www.steuergestaltung.at/download/Rechnungsmerkmale_igL.pdf%0D
+Resolving www.steuergestaltung.at (www.steuergestaltung.at)... 77.244.243.38
+Connecting to www.steuergestaltung.at (www.steuergestaltung.at)|77.244.243.38|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:56 ERROR 404: Not Found.
+
+--2020-02-25 21:11:58--  http://www.steuergestaltung.at/download/Rechnungsmerkmale_igL.pdf%0D
+Resolving www.steuergestaltung.at (www.steuergestaltung.at)... 77.244.243.38
+Connecting to www.steuergestaltung.at (www.steuergestaltung.at)|77.244.243.38|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:58 ERROR 404: Not Found.
+

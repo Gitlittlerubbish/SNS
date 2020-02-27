@@ -1,0 +1,12 @@
+--2020-02-25 21:59:46--  http://www.ica.ci/offres/fichier_de_resultats_3.pdf%0D
+Resolving www.ica.ci (www.ica.ci)... 151.236.52.51
+Connecting to www.ica.ci (www.ica.ci)|151.236.52.51|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:59:47 ERROR 404: Not Found.
+
+--2020-02-25 21:59:48--  http://www.ica.ci/offres/fichier_de_resultats_3.pdf%0D
+Resolving www.ica.ci (www.ica.ci)... 151.236.52.51
+Connecting to www.ica.ci (www.ica.ci)|151.236.52.51|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:59:48 ERROR 404: Not Found.
+

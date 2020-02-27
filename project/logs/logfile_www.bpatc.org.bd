@@ -1,0 +1,12 @@
+--2020-02-25 21:05:26--  http://www.bpatc.org.bd/images/notice/896_Catalogar_Amirul.pdf%0D
+Resolving www.bpatc.org.bd (www.bpatc.org.bd)... 103.48.18.148
+Connecting to www.bpatc.org.bd (www.bpatc.org.bd)|103.48.18.148|:80... connected.
+HTTP request sent, awaiting response... 408 Request Time-out
+2020-02-25 21:05:27 ERROR 408: Request Time-out.
+
+--2020-02-25 21:15:55--  http://www.bpatc.org.bd/images/notice/896_Catalogar_Amirul.pdf%0D
+Resolving www.bpatc.org.bd (www.bpatc.org.bd)... 103.48.18.148
+Connecting to www.bpatc.org.bd (www.bpatc.org.bd)|103.48.18.148|:80... connected.
+HTTP request sent, awaiting response... 408 Request Time-out
+2020-02-25 21:15:56 ERROR 408: Request Time-out.
+

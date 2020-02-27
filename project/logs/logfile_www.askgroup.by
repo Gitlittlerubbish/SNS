@@ -1,0 +1,12 @@
+--2020-02-25 21:06:29--  https://www.askgroup.by/files/installationTH6320WF1005.pdf%0D
+Resolving www.askgroup.by (www.askgroup.by)... 178.124.141.131
+Connecting to www.askgroup.by (www.askgroup.by)|178.124.141.131|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:06:30 ERROR 400: Bad Request.
+
+--2020-02-25 21:16:45--  https://www.askgroup.by/files/installationTH6320WF1005.pdf%0D
+Resolving www.askgroup.by (www.askgroup.by)... 178.124.141.131
+Connecting to www.askgroup.by (www.askgroup.by)|178.124.141.131|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:16:45 ERROR 400: Bad Request.
+

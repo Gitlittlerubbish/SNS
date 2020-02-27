@@ -1,0 +1,12 @@
+--2020-02-25 21:16:16--  https://www.abe.bo/files/otros/CanalesYRadiosFTA.pdf%0D
+Resolving www.abe.bo (www.abe.bo)... 168.197.240.20
+Connecting to www.abe.bo (www.abe.bo)|168.197.240.20|:443... connected.
+ERROR: cannot verify www.abe.bo's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.abe.bo insecurely, use `--no-check-certificate'.
+--2020-02-25 21:23:46--  https://www.abe.bo/files/otros/CanalesYRadiosFTA.pdf%0D
+Resolving www.abe.bo (www.abe.bo)... 168.197.240.20
+Connecting to www.abe.bo (www.abe.bo)|168.197.240.20|:443... connected.
+ERROR: cannot verify www.abe.bo's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.abe.bo insecurely, use `--no-check-certificate'.

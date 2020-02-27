@@ -1,0 +1,50 @@
+--2020-02-25 23:25:01--  https://www.techtransa.lt/MAN_klaidu_kodai.pdf%0D
+Resolving www.techtransa.lt (www.techtransa.lt)... 194.135.87.2
+Connecting to www.techtransa.lt (www.techtransa.lt)|194.135.87.2|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://techtransa.lt/MAN_klaidu_kodai.pdf [following]
+--2020-02-25 23:25:02--  https://techtransa.lt/MAN_klaidu_kodai.pdf
+Resolving techtransa.lt (techtransa.lt)... 194.135.87.2
+Connecting to techtransa.lt (techtransa.lt)|194.135.87.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 503203 (491K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 4.03M 1s
+    50K .......... .......... .......... .......... .......... 20% 6.07M 1s
+   100K .......... .......... .......... .......... .......... 30%  653M 0s
+   150K .......... .......... .......... .......... .......... 40% 12.0M 0s
+   200K .......... .......... .......... .......... .......... 50% 12.2M 0s
+   250K .......... .......... .......... .......... .......... 61%  488M 0s
+   300K .......... .......... .......... .......... .......... 71% 12.6M 0s
+   350K .......... .......... .......... .......... .......... 81%  502M 0s
+   400K .......... .......... .......... .......... .......... 91%  330M 0s
+   450K .......... .......... .......... .......... .         100% 10.7M=0.3s
+
+2020-02-25 23:25:02 (13.2 Mb/s) - ‘/dev/null’ saved [503203/503203]
+
+--2020-02-25 23:25:02--  https://www.techtransa.lt/MAN_klaidu_kodai.pdf%0D
+Resolving www.techtransa.lt (www.techtransa.lt)... 194.135.87.2
+Connecting to www.techtransa.lt (www.techtransa.lt)|194.135.87.2|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://techtransa.lt/MAN_klaidu_kodai.pdf [following]
+--2020-02-25 23:25:03--  https://techtransa.lt/MAN_klaidu_kodai.pdf
+Resolving techtransa.lt (techtransa.lt)... 194.135.87.2
+Connecting to techtransa.lt (techtransa.lt)|194.135.87.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 503203 (491K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 4.04M 1s
+    50K .......... .......... .......... .......... .......... 20% 6.08M 1s
+   100K .......... .......... .......... .......... .......... 30% 12.1M 0s
+   150K .......... .......... .......... .......... .......... 40% 1.08G 0s
+   200K .......... .......... .......... .......... .......... 50% 12.2M 0s
+   250K .......... .......... .......... .......... .......... 61% 12.2M 0s
+   300K .......... .......... .......... .......... .......... 71%  610M 0s
+   350K .......... .......... .......... .......... .......... 81% 12.4M 0s
+   400K .......... .......... .......... .......... .......... 91%  652M 0s
+   450K .......... .......... .......... .......... .         100% 1.41G=0.3s
+
+2020-02-25 23:25:03 (13.2 Mb/s) - ‘/dev/null’ saved [503203/503203]
+

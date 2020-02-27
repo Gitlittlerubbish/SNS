@@ -1,0 +1,12 @@
+--2020-02-25 21:13:20--  http://www.mohca.gov.bt/downloads/scan0004.pdf%0D
+Resolving www.mohca.gov.bt (www.mohca.gov.bt)... 43.230.208.28
+Connecting to www.mohca.gov.bt (www.mohca.gov.bt)|43.230.208.28|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:21 ERROR 404: Not Found.
+
+--2020-02-25 21:21:37--  http://www.mohca.gov.bt/downloads/scan0004.pdf%0D
+Resolving www.mohca.gov.bt (www.mohca.gov.bt)... 43.230.208.28
+Connecting to www.mohca.gov.bt (www.mohca.gov.bt)|43.230.208.28|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:38 ERROR 404: Not Found.
+

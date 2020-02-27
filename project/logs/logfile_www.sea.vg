@@ -1,0 +1,12 @@
+--2020-02-25 21:25:26--  http://www.sea.vg/vifa/M17WG-09-08.pdf%0D
+Resolving www.sea.vg (www.sea.vg)... 84.22.163.87
+Connecting to www.sea.vg (www.sea.vg)|84.22.163.87|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:26 ERROR 404: Not Found.
+
+--2020-02-25 21:30:47--  http://www.sea.vg/vifa/M17WG-09-08.pdf%0D
+Resolving www.sea.vg (www.sea.vg)... 84.22.163.87
+Connecting to www.sea.vg (www.sea.vg)|84.22.163.87|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:30:47 ERROR 404: Not Found.
+

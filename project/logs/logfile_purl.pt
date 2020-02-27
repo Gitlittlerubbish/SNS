@@ -1,0 +1,22 @@
+--2020-02-26 00:41:41--  http://purl.pt/15277/4%0D
+Resolving purl.pt (purl.pt)... 213.30.22.140
+Connecting to purl.pt (purl.pt)|213.30.22.140|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4845 (4.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100%  966K=0.04s
+
+2020-02-26 00:41:41 (966 Kb/s) - ‘/dev/null’ saved [4845/4845]
+
+--2020-02-26 00:41:41--  http://purl.pt/15277/4%0D
+Resolving purl.pt (purl.pt)... 213.30.22.140
+Connecting to purl.pt (purl.pt)|213.30.22.140|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4845 (4.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100% 1.02M=0.04s
+
+2020-02-26 00:41:41 (1.02 Mb/s) - ‘/dev/null’ saved [4845/4845]
+

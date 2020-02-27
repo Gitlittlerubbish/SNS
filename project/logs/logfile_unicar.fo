@@ -1,0 +1,68 @@
+--2020-02-25 22:19:49--  https://unicar.fo/images/map_faroeislands.pdf%0D
+Resolving unicar.fo (unicar.fo)... 94.231.103.129
+Connecting to unicar.fo (unicar.fo)|94.231.103.129|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://unicar.fo/carrental.html [following]
+--2020-02-25 22:19:49--  https://unicar.fo/carrental.html
+Reusing existing connection to unicar.fo:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 104427 (102K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ......--2020-02-25 22:19:49--  https://unicar.fo/images/map_faroeislands.pdf%0D
+.... .......... .......... ........Resolving unicar.fo (unicar.fo)... 94.231.103.129
+Connecting to unicar.fo (unicar.fo)|94.231.103.129|:443... .. 49% 6.61M 0s
+    50K .......... ....connected.
+...... .......... .......... .......... 98% 9.68M 0s
+   100K .                                                     100% 32432G=0.1s
+
+2020-02-25 22:19:50 (8.01 Mb/s) - ‘/dev/null’ saved [104427/104427]
+
+--2020-02-25 22:19:50--  https://unicar.fo/images/map_faroeislands.pdf%0D
+Resolving unicar.fo (unicar.fo)... 94.231.103.129
+Connecting to unicar.fo (unicar.fo)|94.231.103.129|:443... HTTP request sent, awaiting response... connected.
+302 Moved Temporarily
+Location: https://unicar.fo/carrental.html [following]
+--2020-02-25 22:19:50--  https://unicar.fo/carrental.html
+Reusing existing connection to unicar.fo:443.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: 104427 (102K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ......302 Moved Temporarily
+Location: https://unicar.fo/carrental.html [following]
+--2020-02-25 22:19:50--  https://unicar.fo/carrental.html
+Reusing existing connection to unicar.fo:443.
+HTTP request sent, awaiting response... .... .......... .......... ........200 OK
+Length: 104427 (102K) [text/html]
+Saving to: ‘/dev/null’
+.. 49% 6.60M 0s
+    50K .......... ....
+     0K .......... ............ .......... .......... .......... 98% 19.6M 0s
+   100K .                                                     100% 32432G=0.08s
+
+2020-02-25 22:19:50 (10.1 Mb/s) - ‘/dev/null’ saved [104427/104427]
+
+--2020-02-25 22:19:50--  https://unicar.fo/images/map_faroeislands.pdf%0D
+Resolving unicar.fo (unicar.fo)... 94.231.103.129
+Connecting to unicar.fo (unicar.fo)|94.231.103.129|:443... .... .......... ..connected.
+........ .......... 49% 6.58M 0s
+    50K .......... .......... .......... .......... ......HTTP request sent, awaiting response... .... 98% 9.91M 0s
+   100K .                                                     100% 32432G=0.1s
+
+2020-02-25 22:19:50 (8.06 Mb/s) - ‘/dev/null’ saved [104427/104427]
+
+302 Moved Temporarily
+Location: https://unicar.fo/carrental.html [following]
+--2020-02-25 22:19:50--  https://unicar.fo/carrental.html
+Reusing existing connection to unicar.fo:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 104427 (102K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 4.90M 0s
+    50K .......... .......... .......... .......... .......... 98% 19.8M 0s
+   100K .                                                     100% 32432G=0.1s
+
+2020-02-25 22:19:50 (8.01 Mb/s) - ‘/dev/null’ saved [104427/104427]
+

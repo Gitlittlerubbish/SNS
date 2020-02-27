@@ -1,0 +1,6 @@
+--2020-02-26 00:12:40--  https://www.workandincome.govt.nz/documents/forms/redirection-of-benefit-payment.pdf%0D
+Resolving www.workandincome.govt.nz (www.workandincome.govt.nz)... 202.27.58.109
+Connecting to www.workandincome.govt.nz (www.workandincome.govt.nz)|202.27.58.109|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:12:42 ERROR 400: Bad Request.
+

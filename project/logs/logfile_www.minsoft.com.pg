@@ -1,0 +1,6 @@
+--2020-02-26 00:29:07--  http://www.minsoft.com.pg/2017-PNGCS-Paper.pdf%0D
+Resolving www.minsoft.com.pg (www.minsoft.com.pg)... 202.146.214.1
+Connecting to www.minsoft.com.pg (www.minsoft.com.pg)|202.146.214.1|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:29:08 ERROR 400: Bad Request.
+

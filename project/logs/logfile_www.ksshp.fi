@@ -1,0 +1,12 @@
+--2020-02-25 22:22:31--  https://www.ksshp.fi/6minuutinkavelytesti/Verenpaineen_kotiseuranta_ohje_kortti.pdf%0D
+Resolving www.ksshp.fi (www.ksshp.fi)... 195.236.107.31
+Connecting to www.ksshp.fi (www.ksshp.fi)|195.236.107.31|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:22:31 ERROR 400: Bad Request.
+
+--2020-02-25 22:22:32--  https://www.ksshp.fi/6minuutinkavelytesti/Verenpaineen_kotiseuranta_ohje_kortti.pdf%0D
+Resolving www.ksshp.fi (www.ksshp.fi)... 195.236.107.31
+Connecting to www.ksshp.fi (www.ksshp.fi)|195.236.107.31|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:22:32 ERROR 400: Bad Request.
+

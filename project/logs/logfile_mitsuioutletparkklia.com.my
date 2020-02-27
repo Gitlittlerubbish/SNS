@@ -1,0 +1,34 @@
+--2020-02-25 23:31:48--  http://mitsuioutletparkklia.com.my/bus_schedule.pdf%0D
+Resolving mitsuioutletparkklia.com.my (mitsuioutletparkklia.com.my)... 103.6.198.179
+Connecting to mitsuioutletparkklia.com.my (mitsuioutletparkklia.com.my)|103.6.198.179|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.mitsuioutletparkklia.com.my/ [following]
+--2020-02-25 23:31:49--  https://www.mitsuioutletparkklia.com.my/
+Resolving www.mitsuioutletparkklia.com.my (www.mitsuioutletparkklia.com.my)... 103.6.198.179
+Connecting to www.mitsuioutletparkklia.com.my (www.mitsuioutletparkklia.com.my)|103.6.198.179|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77454 (76K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 1.03M 0s
+    50K .......... .......... .....                           100%  795M=0.4s
+
+2020-02-25 23:31:50 (1.55 Mb/s) - ‘/dev/null’ saved [77454/77454]
+
+--2020-02-25 23:31:50--  http://mitsuioutletparkklia.com.my/bus_schedule.pdf%0D
+Resolving mitsuioutletparkklia.com.my (mitsuioutletparkklia.com.my)... 103.6.198.179
+Connecting to mitsuioutletparkklia.com.my (mitsuioutletparkklia.com.my)|103.6.198.179|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.mitsuioutletparkklia.com.my/ [following]
+--2020-02-25 23:31:51--  https://www.mitsuioutletparkklia.com.my/
+Resolving www.mitsuioutletparkklia.com.my (www.mitsuioutletparkklia.com.my)... 103.6.198.179
+Connecting to www.mitsuioutletparkklia.com.my (www.mitsuioutletparkklia.com.my)|103.6.198.179|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77454 (76K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 1.00M 0s
+    50K .......... .......... .....                           100% 1.03M=0.6s
+
+2020-02-25 23:31:52 (1.01 Mb/s) - ‘/dev/null’ saved [77454/77454]
+

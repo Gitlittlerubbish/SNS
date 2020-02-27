@@ -1,0 +1,12 @@
+--2020-02-25 22:19:46--  https://www.petroleum.fo/get.file%3FID%3D15769%0D
+Resolving www.petroleum.fo (www.petroleum.fo)... 63.32.38.184, 34.255.33.161
+Connecting to www.petroleum.fo (www.petroleum.fo)|63.32.38.184|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:19:46--  https://www.petroleum.fo/get.file%3FID%3D15769%0D
+Resolving www.petroleum.fo (www.petroleum.fo)... 63.32.38.184, 34.255.33.161
+Connecting to www.petroleum.fo (www.petroleum.fo)|63.32.38.184|:443... 403 Forbidden
+2020-02-25 22:19:46 ERROR 403: Forbidden.
+
+connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:46 ERROR 403: Forbidden.
+

@@ -1,0 +1,22 @@
+--2020-02-25 21:51:32--  http://telegraphy.co/1jmwpy.html%0D
+Resolving telegraphy.co (telegraphy.co)... 103.224.182.252
+Connecting to telegraphy.co (telegraphy.co)|103.224.182.252|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.telegraphy.co/1jmwpy.html%0D [following]
+--2020-02-25 21:51:32--  http://ww38.telegraphy.co/1jmwpy.html%0D
+Resolving ww38.telegraphy.co (ww38.telegraphy.co)... 185.53.179.29
+Connecting to ww38.telegraphy.co (ww38.telegraphy.co)|185.53.179.29|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:51:32 ERROR 403: Forbidden.
+
+--2020-02-25 21:51:38--  http://telegraphy.co/1jmwpy.html%0D
+Resolving telegraphy.co (telegraphy.co)... 103.224.182.252
+Connecting to telegraphy.co (telegraphy.co)|103.224.182.252|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ww38.telegraphy.co/1jmwpy.html%0D [following]
+--2020-02-25 21:51:38--  http://ww38.telegraphy.co/1jmwpy.html%0D
+Resolving ww38.telegraphy.co (ww38.telegraphy.co)... 185.53.179.29
+Connecting to ww38.telegraphy.co (ww38.telegraphy.co)|185.53.179.29|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:51:38 ERROR 403: Forbidden.
+

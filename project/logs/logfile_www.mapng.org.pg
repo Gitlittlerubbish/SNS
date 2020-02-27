@@ -1,0 +1,12 @@
+--2020-02-26 00:28:09--  http://www.mapng.org.pg/Image/Sponsors.pdf%0D
+Resolving www.mapng.org.pg (www.mapng.org.pg)... 27.122.21.178
+Connecting to www.mapng.org.pg (www.mapng.org.pg)|27.122.21.178|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:28:10 ERROR 404: Not Found.
+
+--2020-02-26 00:28:10--  http://www.mapng.org.pg/Image/Sponsors17.pdf%0D
+Resolving www.mapng.org.pg (www.mapng.org.pg)... 27.122.21.178
+Connecting to www.mapng.org.pg (www.mapng.org.pg)|27.122.21.178|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:28:11 ERROR 404: Not Found.
+

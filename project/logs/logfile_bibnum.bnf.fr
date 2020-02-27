@@ -1,0 +1,12 @@
+--2020-02-25 22:23:13--  http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf%0D
+Resolving bibnum.bnf.fr (bibnum.bnf.fr)... --2020-02-25 22:23:13--  http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf%0D
+Resolving bibnum.bnf.fr (bibnum.bnf.fr)... 194.199.8.24
+Connecting to bibnum.bnf.fr (bibnum.bnf.fr)|194.199.8.24|:80... 194.199.8.24
+Connecting to bibnum.bnf.fr (bibnum.bnf.fr)|194.199.8.24|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:23:13 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:23:13 ERROR 400: Bad Request.
+

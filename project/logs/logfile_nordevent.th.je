@@ -1,0 +1,6 @@
+--2020-02-25 23:04:53--  https://nordevent.th.je/assets/files/Datenschutzerklaerung_Stand_2019.pdf%0D
+Resolving nordevent.th.je (nordevent.th.je)... 217.31.94.134
+Connecting to nordevent.th.je (nordevent.th.je)|217.31.94.134|:443... connected.
+ERROR: cannot verify nordevent.th.je's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to nordevent.th.je insecurely, use `--no-check-certificate'.

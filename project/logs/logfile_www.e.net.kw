@@ -1,0 +1,6 @@
+--2020-02-25 23:16:00--  https://www.e.net.kw/pdf/eschool.pdf%0D
+Resolving www.e.net.kw (www.e.net.kw)... 45.35.169.158
+Connecting to www.e.net.kw (www.e.net.kw)|45.35.169.158|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:16:01 ERROR 400: Bad Request.
+

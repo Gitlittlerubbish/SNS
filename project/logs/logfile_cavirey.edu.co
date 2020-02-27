@@ -1,0 +1,12 @@
+--2020-02-25 21:52:24--  http://cavirey.edu.co/archivos/PLAN_DE_AREA_CAVIREY_2017.pdf%0D
+Resolving cavirey.edu.co (cavirey.edu.co)... 192.185.184.205
+Connecting to cavirey.edu.co (cavirey.edu.co)|192.185.184.205|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:52:24 ERROR 404: Not Found.
+
+--2020-02-25 21:52:26--  http://cavirey.edu.co/archivos/PLAN_DE_AREA_CAVIREY_2017.pdf%0D
+Resolving cavirey.edu.co (cavirey.edu.co)... 192.185.184.205
+Connecting to cavirey.edu.co (cavirey.edu.co)|192.185.184.205|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:52:26 ERROR 404: Not Found.
+

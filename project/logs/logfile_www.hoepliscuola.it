@@ -1,0 +1,6 @@
+--2020-02-25 23:00:22--  http://www.hoepliscuola.it/download/4745/ascii%0D
+Resolving www.hoepliscuola.it (www.hoepliscuola.it)... 194.113.89.83
+Connecting to www.hoepliscuola.it (www.hoepliscuola.it)|194.113.89.83|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:22 ERROR 400: Bad Request.
+

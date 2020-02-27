@@ -1,0 +1,6 @@
+--2020-02-26 00:26:28--  https://www.cajadeahorros.com.pa/Documents/CALENDARIO2019.pdf%0D
+Resolving www.cajadeahorros.com.pa (www.cajadeahorros.com.pa)... 201.225.227.82
+Connecting to www.cajadeahorros.com.pa (www.cajadeahorros.com.pa)|201.225.227.82|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:26:29 ERROR 400: Bad Request.
+

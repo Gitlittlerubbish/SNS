@@ -1,0 +1,22 @@
+--2020-02-25 22:16:55--  http://www.hobipunkt.ee/Kyynal.pdf%0D
+Resolving www.hobipunkt.ee (www.hobipunkt.ee)... 217.146.69.5
+Connecting to www.hobipunkt.ee (www.hobipunkt.ee)|217.146.69.5|:80... connected.
+HTTP request sent, awaiting response... 301 Moved
+Location: http://hobipunkt.ee/Kyynal.pdf%0D?controller=404 [following]
+--2020-02-25 22:16:55--  http://hobipunkt.ee/Kyynal.pdf%0D?controller=404
+Resolving hobipunkt.ee (hobipunkt.ee)... 217.146.69.5
+Reusing existing connection to www.hobipunkt.ee:80.
+HTTP request sent, awaiting response... 503 temporarily overloaded
+2020-02-25 22:16:56 ERROR 503: temporarily overloaded.
+
+--2020-02-25 22:17:02--  http://www.hobipunkt.ee/Kyynal.pdf%0D
+Resolving www.hobipunkt.ee (www.hobipunkt.ee)... 217.146.69.5
+Connecting to www.hobipunkt.ee (www.hobipunkt.ee)|217.146.69.5|:80... connected.
+HTTP request sent, awaiting response... 301 Moved
+Location: http://hobipunkt.ee/Kyynal.pdf%0D?controller=404 [following]
+--2020-02-25 22:17:02--  http://hobipunkt.ee/Kyynal.pdf%0D?controller=404
+Resolving hobipunkt.ee (hobipunkt.ee)... 217.146.69.5
+Reusing existing connection to www.hobipunkt.ee:80.
+HTTP request sent, awaiting response... 503 temporarily overloaded
+2020-02-25 22:17:02 ERROR 503: temporarily overloaded.
+

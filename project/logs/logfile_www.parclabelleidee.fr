@@ -1,0 +1,12 @@
+--2020-02-25 22:23:02--  https://www.parclabelleidee.fr/docs/productions/GeometriaSagrada.pdf%0D
+Resolving www.parclabelleidee.fr (www.parclabelleidee.fr)... 212.83.149.201
+Connecting to www.parclabelleidee.fr (www.parclabelleidee.fr)|212.83.149.201|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:02 ERROR 404: Not Found.
+
+--2020-02-25 22:23:03--  https://www.parclabelleidee.fr/docs/productions/GeometriaSagrada.pdf%0D
+Resolving www.parclabelleidee.fr (www.parclabelleidee.fr)... 212.83.149.201
+Connecting to www.parclabelleidee.fr (www.parclabelleidee.fr)|212.83.149.201|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:04 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:25:25--  http://majobe.id.vg/black-majesty.pdf%0D
+Resolving majobe.id.vg (majobe.id.vg)... 185.53.178.9
+Connecting to majobe.id.vg (majobe.id.vg)|185.53.178.9|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:25:25 ERROR 403: Forbidden.
+
+--2020-02-25 21:30:46--  http://majobe.id.vg/black-majesty.pdf%0D
+Resolving majobe.id.vg (majobe.id.vg)... 185.53.178.9
+Connecting to majobe.id.vg (majobe.id.vg)|185.53.178.9|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:30:46 ERROR 403: Forbidden.
+

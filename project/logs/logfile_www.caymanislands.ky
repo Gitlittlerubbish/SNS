@@ -1,0 +1,12 @@
+--2020-02-25 21:39:10--  http://www.caymanislands.ky/portals/0/Docs/Cookout/cayman_eats.pdf%0D
+Resolving www.caymanislands.ky (www.caymanislands.ky)... 35.173.19.118
+Connecting to www.caymanislands.ky (www.caymanislands.ky)|35.173.19.118|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:39:10 ERROR 400: Bad Request.
+
+--2020-02-25 21:40:20--  http://www.caymanislands.ky/portals/0/Docs/Cookout/cayman_eats.pdf%0D
+Resolving www.caymanislands.ky (www.caymanislands.ky)... 35.173.19.118
+Connecting to www.caymanislands.ky (www.caymanislands.ky)|35.173.19.118|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:40:20 ERROR 400: Bad Request.
+

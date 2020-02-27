@@ -1,0 +1,34 @@
+--2020-02-26 00:17:01--  https://fudutsinma.edu.ng/resources/Students'%2520handbook.pdf%0D
+Resolving fudutsinma.edu.ng (fudutsinma.edu.ng)... 68.169.62.21
+Connecting to fudutsinma.edu.ng (fudutsinma.edu.ng)|68.169.62.21|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.fudutsinma.edu.ng/wp-signup.php?new=fudutsinma.edu.ng [following]
+--2020-02-26 00:17:01--  https://www.fudutsinma.edu.ng/wp-signup.php?new=fudutsinma.edu.ng
+Resolving www.fudutsinma.edu.ng (www.fudutsinma.edu.ng)... 68.169.62.21
+Connecting to www.fudutsinma.edu.ng (www.fudutsinma.edu.ng)|68.169.62.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.64M
+    50K .......... ....                                         880M=0.2s
+
+2020-02-26 00:17:02 (3.40 Mb/s) - ‘/dev/null’ saved [65912]
+
+--2020-02-26 00:17:02--  https://fudutsinma.edu.ng/resources/Students'%2520handbook.pdf%0D
+Resolving fudutsinma.edu.ng (fudutsinma.edu.ng)... 68.169.62.21
+Connecting to fudutsinma.edu.ng (fudutsinma.edu.ng)|68.169.62.21|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.fudutsinma.edu.ng/wp-signup.php?new=fudutsinma.edu.ng [following]
+--2020-02-26 00:17:03--  https://www.fudutsinma.edu.ng/wp-signup.php?new=fudutsinma.edu.ng
+Resolving www.fudutsinma.edu.ng (www.fudutsinma.edu.ng)... 68.169.62.21
+Connecting to www.fudutsinma.edu.ng (www.fudutsinma.edu.ng)|68.169.62.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.68M
+    50K .......... ....                                         810M=0.2s
+
+2020-02-26 00:17:03 (3.44 Mb/s) - ‘/dev/null’ saved [65912]
+

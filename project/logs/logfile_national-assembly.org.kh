@@ -1,0 +1,12 @@
+--2020-02-25 21:33:27--  http://national-assembly.org.kh/files/324.pdf%0D
+Resolving national-assembly.org.kh (national-assembly.org.kh)... 198.38.83.204
+Connecting to national-assembly.org.kh (national-assembly.org.kh)|198.38.83.204|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:33:27 ERROR 400: Bad Request.
+
+--2020-02-25 21:36:14--  http://national-assembly.org.kh/files/324.pdf%0D
+Resolving national-assembly.org.kh (national-assembly.org.kh)... 198.38.83.204
+Connecting to national-assembly.org.kh (national-assembly.org.kh)|198.38.83.204|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:36:15 ERROR 400: Bad Request.
+

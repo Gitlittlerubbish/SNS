@@ -1,0 +1,12 @@
+--2020-02-25 21:03:54--  https://www.ipaybrta.brta.gov.bd/user_manual_of_ipay_system.pdf%0D
+Resolving www.ipaybrta.brta.gov.bd (www.ipaybrta.brta.gov.bd)... 202.51.187.42
+Connecting to www.ipaybrta.brta.gov.bd (www.ipaybrta.brta.gov.bd)|202.51.187.42|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.ipaybrta.brta.gov.bd’.
+To connect to www.ipaybrta.brta.gov.bd insecurely, use `--no-check-certificate'.
+--2020-02-25 21:14:55--  https://www.ipaybrta.brta.gov.bd/user_manual_of_ipay_system.pdf%0D
+Resolving www.ipaybrta.brta.gov.bd (www.ipaybrta.brta.gov.bd)... 202.51.187.42
+Connecting to www.ipaybrta.brta.gov.bd (www.ipaybrta.brta.gov.bd)|202.51.187.42|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.ipaybrta.brta.gov.bd’.
+To connect to www.ipaybrta.brta.gov.bd insecurely, use `--no-check-certificate'.

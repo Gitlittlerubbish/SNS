@@ -1,0 +1,20 @@
+--2020-02-25 23:20:00--  http://www.riebinuvidusskola.lv/upload/Metodiskie_materiali_Skolas_Vards.pdf%0D
+Resolving www.riebinuvidusskola.lv (www.riebinuvidusskola.lv)... 178.16.16.102
+Connecting to www.riebinuvidusskola.lv (www.riebinuvidusskola.lv)|178.16.16.102|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.riebinuvidusskola.lv/content/upload/Metodiskie_materiali_Skolas_Vards.pdf%0d [following]
+--2020-02-25 23:20:00--  http://www.riebinuvidusskola.lv/content/upload/Metodiskie_materiali_Skolas_Vards.pdf%0d
+Reusing existing connection to www.riebinuvidusskola.lv:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:20:00 ERROR 404: Not Found.
+
+--2020-02-25 23:20:01--  http://www.riebinuvidusskola.lv/upload/Metodiskie_materiali_Skolas_Vards.pdf%0D
+Resolving www.riebinuvidusskola.lv (www.riebinuvidusskola.lv)... 178.16.16.102
+Connecting to www.riebinuvidusskola.lv (www.riebinuvidusskola.lv)|178.16.16.102|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.riebinuvidusskola.lv/content/upload/Metodiskie_materiali_Skolas_Vards.pdf%0d [following]
+--2020-02-25 23:20:01--  http://www.riebinuvidusskola.lv/content/upload/Metodiskie_materiali_Skolas_Vards.pdf%0d
+Reusing existing connection to www.riebinuvidusskola.lv:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:20:01 ERROR 404: Not Found.
+

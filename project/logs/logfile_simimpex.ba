@@ -1,0 +1,12 @@
+--2020-02-25 21:17:33--  http://simimpex.ba/download/kaisni_prenos/provjera_dijagnostika_i_zamjena_klinastog_i_zupcastog_remenja_conti.pdf%0D
+Resolving simimpex.ba (simimpex.ba)... 185.61.154.62
+Connecting to simimpex.ba (simimpex.ba)|185.61.154.62|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:36 ERROR 404: Not Found.
+
+--2020-02-25 21:24:42--  http://simimpex.ba/download/kaisni_prenos/provjera_dijagnostika_i_zamjena_klinastog_i_zupcastog_remenja_conti.pdf%0D
+Resolving simimpex.ba (simimpex.ba)... 185.61.154.62
+Connecting to simimpex.ba (simimpex.ba)|185.61.154.62|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

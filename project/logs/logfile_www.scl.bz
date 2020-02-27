@@ -1,0 +1,12 @@
+--2020-02-25 21:08:36--  http://www.scl.bz/zzilzaf-media.pdf%0D
+Resolving www.scl.bz (www.scl.bz)... 13.35.198.112, 13.35.198.16, 13.35.198.41, ...
+Connecting to www.scl.bz (www.scl.bz)|13.35.198.112|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:08:36 ERROR 403: Forbidden.
+
+--2020-02-25 21:18:21--  http://www.scl.bz/zzilzaf-media.pdf%0D
+Resolving www.scl.bz (www.scl.bz)... 143.204.175.62, 143.204.175.18, 143.204.175.94, ...
+Connecting to www.scl.bz (www.scl.bz)|143.204.175.62|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:18:21 ERROR 403: Forbidden.
+

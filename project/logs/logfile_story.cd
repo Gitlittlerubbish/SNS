@@ -1,0 +1,12 @@
+--2020-02-25 21:55:02--  http://story.cd/AAMnea%0D
+Resolving story.cd (story.cd)... --2020-02-25 21:55:02--  http://story.cd/AAMnea%0D
+Resolving story.cd (story.cd)... 65.123.29.129
+Connecting to story.cd (story.cd)|65.123.29.129|:80... 65.123.29.129
+Connecting to story.cd (story.cd)|65.123.29.129|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:55:02 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 21:55:02 ERROR 400: Bad Request.
+

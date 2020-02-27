@@ -1,0 +1,12 @@
+--2020-02-25 21:26:25--  http://www.memi.gov.bn/Shared%2520Documents/Youth%2520HandBook_DRAFT_3_230718.pdf%0D
+Resolving www.memi.gov.bn (www.memi.gov.bn)... 103.4.188.86
+Connecting to www.memi.gov.bn (www.memi.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:26 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:36--  http://www.memi.gov.bn/Shared%2520Documents/Youth%2520HandBook_DRAFT_3_230718.pdf%0D
+Resolving www.memi.gov.bn (www.memi.gov.bn)... 103.4.188.86
+Connecting to www.memi.gov.bn (www.memi.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:37 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:55:11--  https://tem.mrud.ir/assets/new_cities.pdf%0D
+Resolving tem.mrud.ir (tem.mrud.ir)... 212.16.90.3
+Connecting to tem.mrud.ir (tem.mrud.ir)|212.16.90.3|:443... connected.
+ERROR: cannot verify tem.mrud.ir's certificate, issued by ‘CN=Certum Domain Validation CA SHA2,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL’:
+  Unable to locally verify the issuer's authority.
+To connect to tem.mrud.ir insecurely, use `--no-check-certificate'.

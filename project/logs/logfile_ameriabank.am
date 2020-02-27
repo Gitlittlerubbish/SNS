@@ -1,0 +1,12 @@
+--2020-02-25 20:54:32--  https://ameriabank.am/userfiles/file/Individual_Standard_Tariffs.pdf%0D
+Resolving ameriabank.am (ameriabank.am)... 185.3.189.40
+Connecting to ameriabank.am (ameriabank.am)|185.3.189.40|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:54:35 ERROR 400: Bad Request.
+
+--2020-02-25 21:07:29--  https://ameriabank.am/userfiles/file/Individual_Standard_Tariffs.pdf%0D
+Resolving ameriabank.am (ameriabank.am)... 185.3.189.40
+Connecting to ameriabank.am (ameriabank.am)|185.3.189.40|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:07:30 ERROR 400: Bad Request.
+

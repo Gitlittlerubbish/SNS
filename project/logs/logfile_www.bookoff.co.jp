@@ -1,0 +1,6 @@
+--2020-02-25 23:04:28--  https://www.bookoff.co.jp/chirashi/3.pdf%0D
+Resolving www.bookoff.co.jp (www.bookoff.co.jp)... 124.146.204.130
+Connecting to www.bookoff.co.jp (www.bookoff.co.jp)|124.146.204.130|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:04:29 ERROR 404: Not Found.
+

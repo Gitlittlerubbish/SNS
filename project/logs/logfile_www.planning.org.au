@@ -1,0 +1,104 @@
+--2020-02-25 20:57:34--  https://www.planning.org.au/documents/item/2129%0D
+Resolving www.planning.org.au (www.planning.org.au)... 52.64.171.199
+Connecting to www.planning.org.au (www.planning.org.au)|52.64.171.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108363 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47%  722K 1s
+    50K .......... .......... .......... .......... .......... 94% 1.44M 0s
+   100K .....                                                 100% 1.16G=0.9s
+
+2020-02-25 20:57:37 (1.02 Mb/s) - ‘/dev/null’ saved [108363/108363]
+
+--2020-02-25 20:57:37--  https://www.planning.org.au/documents/item/2129%0D
+Resolving www.planning.org.au (www.planning.org.au)... 52.64.171.199
+Connecting to www.planning.org.au (www.planning.org.au)|52.64.171.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108363 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47%  725K 1s
+    50K .......... .......... .......... .......... .......... 94% 1.45M 0s
+   100K .....                                                 100% 1.12G=0.8s
+
+2020-02-25 20:57:39 (1.02 Mb/s) - ‘/dev/null’ saved [108363/108363]
+
+--2020-02-25 20:57:39--  https://www.planning.org.au/documents/item/2115%0D
+Resolving www.planning.org.au (www.planning.org.au)... 52.64.171.199
+Connecting to www.planning.org.au (www.planning.org.au)|52.64.171.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111508 (109K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  720K 1s
+    50K .......... .......... .......... .......... .......... 91% 1.44M 0s
+   100K ........                                              100% 3.11G=0.9s
+
+2020-02-25 20:57:41 (1.05 Mb/s) - ‘/dev/null’ saved [111508/111508]
+
+--2020-02-25 20:57:41--  https://www.planning.org.au/documents/item/2115%0D
+Resolving www.planning.org.au (www.planning.org.au)... 52.64.171.199
+Connecting to www.planning.org.au (www.planning.org.au)|52.64.171.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111508 (109K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  718K 1s
+    50K .......... .......... .......... .......... .......... 91% 1.44M 0s
+   100K ........                                              100% 4.03G=0.9s
+
+2020-02-25 20:57:43 (1.04 Mb/s) - ‘/dev/null’ saved [111508/111508]
+
+--2020-02-25 21:09:59--  https://www.planning.org.au/documents/item/2129%0D
+Resolving www.planning.org.au (www.planning.org.au)... 52.64.171.199
+Connecting to www.planning.org.au (www.planning.org.au)|52.64.171.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108363 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47%  705K 1s
+    50K .......... .......... .......... .......... .......... 94% 1.41M 0s
+   100K .....                                                 100% 2.84G=0.9s
+
+2020-02-25 21:10:01 (995 Kb/s) - ‘/dev/null’ saved [108363/108363]
+
+--2020-02-25 21:10:01--  https://www.planning.org.au/documents/item/2129%0D
+Resolving www.planning.org.au (www.planning.org.au)... 52.64.171.199
+Connecting to www.planning.org.au (www.planning.org.au)|52.64.171.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108363 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47%  716K 1s
+    50K .......... .......... .......... .......... .......... 94% 1.43M 0s
+   100K .....                                                 100% 1.25G=0.9s
+
+2020-02-25 21:10:04 (1.01 Mb/s) - ‘/dev/null’ saved [108363/108363]
+
+--2020-02-25 21:10:04--  https://www.planning.org.au/documents/item/2115%0D
+Resolving www.planning.org.au (www.planning.org.au)... 52.64.171.199
+Connecting to www.planning.org.au (www.planning.org.au)|52.64.171.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111508 (109K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  718K 1s
+    50K .......... .......... .......... .......... .......... 91% 1.44M 0s
+   100K ........                                              100% 4.69G=0.9s
+
+2020-02-25 21:10:06 (1.04 Mb/s) - ‘/dev/null’ saved [111508/111508]
+
+--2020-02-25 21:10:06--  https://www.planning.org.au/documents/item/2115%0D
+Resolving www.planning.org.au (www.planning.org.au)... 52.64.171.199
+Connecting to www.planning.org.au (www.planning.org.au)|52.64.171.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111508 (109K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  693K 1s
+    50K .......... .......... .......... .......... .......... 91% 1.39M 0s
+   100K ........                                              100% 4.33G=0.9s
+
+2020-02-25 21:10:08 (1.01 Mb/s) - ‘/dev/null’ saved [111508/111508]
+

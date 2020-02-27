@@ -1,0 +1,40 @@
+--2020-02-26 00:36:02--  http://www.inicam.org.pe/normativa/legislacion/Ley27972.pdf%0D
+Resolving www.inicam.org.pe (www.inicam.org.pe)... 136.0.111.125
+Connecting to www.inicam.org.pe (www.inicam.org.pe)|136.0.111.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://inicam.org.pe/normativa/legislacion/Ley27972.pdf [following]
+--2020-02-26 00:36:03--  http://inicam.org.pe/normativa/legislacion/Ley27972.pdf
+Resolving inicam.org.pe (inicam.org.pe)... 136.0.111.125
+Reusing existing connection to www.inicam.org.pe:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 240578 (235K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.82M 1s
+    50K .......... .......... .......... .......... .......... 42% 3.66M 0s
+   100K .......... .......... .......... .......... .......... 63% 95.9M 0s
+   150K .......... .......... .......... .......... .......... 85% 94.8M 0s
+   200K .......... .......... .......... ....                 100% 2.71M=0.5s
+
+2020-02-26 00:36:04 (4.26 Mb/s) - ‘/dev/null’ saved [240578/240578]
+
+--2020-02-26 00:36:04--  http://www.inicam.org.pe/normativa/legislacion/Ley27972.pdf%0D
+Resolving www.inicam.org.pe (www.inicam.org.pe)... 136.0.111.125
+Connecting to www.inicam.org.pe (www.inicam.org.pe)|136.0.111.125|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://inicam.org.pe/normativa/legislacion/Ley27972.pdf [following]
+--2020-02-26 00:36:05--  http://inicam.org.pe/normativa/legislacion/Ley27972.pdf
+Resolving inicam.org.pe (inicam.org.pe)... 136.0.111.125
+Reusing existing connection to www.inicam.org.pe:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 240578 (235K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.83M 1s
+    50K .......... .......... .......... .......... .......... 42% 3.69M 0s
+   100K .......... .......... .......... .......... .......... 63% 95.7M 0s
+   150K .......... .......... .......... .......... .......... 85% 94.6M 0s
+   200K .......... .......... .......... ....                 100% 2.73M=0.4s
+
+2020-02-26 00:36:05 (4.29 Mb/s) - ‘/dev/null’ saved [240578/240578]
+

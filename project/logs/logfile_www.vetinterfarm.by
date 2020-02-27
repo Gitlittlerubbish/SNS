@@ -1,0 +1,12 @@
+--2020-02-25 21:07:07--  http://www.vetinterfarm.by/uploads/instructions/vakcina_protiv_pasterelleza.pdf%0D
+Resolving www.vetinterfarm.by (www.vetinterfarm.by)... 93.125.99.48
+Connecting to www.vetinterfarm.by (www.vetinterfarm.by)|93.125.99.48|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:07 ERROR 404: Not Found.
+
+--2020-02-25 21:17:16--  http://www.vetinterfarm.by/uploads/instructions/vakcina_protiv_pasterelleza.pdf%0D
+Resolving www.vetinterfarm.by (www.vetinterfarm.by)... 93.125.99.48
+Connecting to www.vetinterfarm.by (www.vetinterfarm.by)|93.125.99.48|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:16 ERROR 404: Not Found.
+

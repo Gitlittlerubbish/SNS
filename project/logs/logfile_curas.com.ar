@@ -1,0 +1,6 @@
+--2020-02-25 21:06:27--  http://curas.com.ar/Documentos/echarter_spanish.pdf%0D
+Resolving curas.com.ar (curas.com.ar)... 200.58.113.67
+Connecting to curas.com.ar (curas.com.ar)|200.58.113.67|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:06:28 ERROR 404: Not Found.
+

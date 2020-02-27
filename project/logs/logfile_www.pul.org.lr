@@ -1,0 +1,6 @@
+--2020-02-25 23:22:47--  http://www.pul.org.lr/doc/PUL%2520Cont.pdf%0D
+Resolving www.pul.org.lr (www.pul.org.lr)... 198.57.27.125
+Connecting to www.pul.org.lr (www.pul.org.lr)|198.57.27.125|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:22:47 ERROR 404: Not Found.
+

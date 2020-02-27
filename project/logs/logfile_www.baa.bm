@@ -1,0 +1,12 @@
+--2020-02-25 21:11:54--  http://www.baa.bm/uploads/BAAFACup1956BFA-book-FINAL.pdf%0D
+Resolving www.baa.bm (www.baa.bm)... 185.58.214.103, 185.58.214.101, 185.58.214.100, ...
+Connecting to www.baa.bm (www.baa.bm)|185.58.214.103|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:54 ERROR 404: Not Found.
+
+--2020-02-25 21:20:43--  http://www.baa.bm/uploads/BAAFACup1956BFA-book-FINAL.pdf%0D
+Resolving www.baa.bm (www.baa.bm)... 185.58.214.106
+Connecting to www.baa.bm (www.baa.bm)|185.58.214.106|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:43 ERROR 404: Not Found.
+

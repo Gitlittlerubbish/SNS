@@ -1,0 +1,12 @@
+--2020-02-25 22:20:49--  http://www.fisheries.gov.fj/images/Publications/MoF20172018ACP.pdf%0D
+Resolving www.fisheries.gov.fj (www.fisheries.gov.fj)... 124.108.27.57
+Connecting to www.fisheries.gov.fj (www.fisheries.gov.fj)|124.108.27.57|:80... --2020-02-25 22:20:50--  http://www.fisheries.gov.fj/images/Publications/MoF20172018ACP.pdf%0D
+Resolving www.fisheries.gov.fj (www.fisheries.gov.fj)... 124.108.27.57
+Connecting to www.fisheries.gov.fj (www.fisheries.gov.fj)|124.108.27.57|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:20:50 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:20:51 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:21:11--  http://std.atfalouna.gov.lb/Files/imai_palliative_fr.pdf%0D
+Resolving std.atfalouna.gov.lb (std.atfalouna.gov.lb)... 93.185.92.47
+Connecting to std.atfalouna.gov.lb (std.atfalouna.gov.lb)|93.185.92.47|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:21:12 ERROR 400: Bad Request.
+

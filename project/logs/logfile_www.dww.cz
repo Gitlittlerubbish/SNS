@@ -1,0 +1,12 @@
+--2020-02-25 22:05:55--  http://www.dww.cz/docs/outcome_document.pdf%0D
+Resolving www.dww.cz (www.dww.cz)... --2020-02-25 22:05:55--  http://www.dww.cz/docs/outcome_document.pdf%0D
+Resolving www.dww.cz (www.dww.cz)... 81.2.194.105
+Connecting to www.dww.cz (www.dww.cz)|81.2.194.105|:80... 81.2.194.105
+Connecting to www.dww.cz (www.dww.cz)|81.2.194.105|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:05:55 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:05:55 ERROR 400: Bad Request.
+

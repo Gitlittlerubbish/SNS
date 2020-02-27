@@ -1,0 +1,6 @@
+--2020-02-26 00:36:34--  http://www.promelsa.com.pe/pdf/1000668.pdf%0D
+Resolving www.promelsa.com.pe (www.promelsa.com.pe)... 64.76.71.181
+Connecting to www.promelsa.com.pe (www.promelsa.com.pe)|64.76.71.181|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:36:34 ERROR 400: Bad Request.
+

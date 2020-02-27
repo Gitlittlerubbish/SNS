@@ -1,0 +1,6 @@
+--2020-02-26 00:12:29--  https://www.tributes.co.nz/data/10673.pdf%0D
+Resolving www.tributes.co.nz (www.tributes.co.nz)... 103.242.37.27
+Connecting to www.tributes.co.nz (www.tributes.co.nz)|103.242.37.27|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:12:30 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:53:51--  http://www.minitab.co.id/uploadedFiles/Content/Academic/Douceurs_Statistiques.pdf%0D
+Resolving www.minitab.co.id (www.minitab.co.id)... 12.230.216.10
+Connecting to www.minitab.co.id (www.minitab.co.id)|12.230.216.10|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:53:51 ERROR 400: Bad Request.
+

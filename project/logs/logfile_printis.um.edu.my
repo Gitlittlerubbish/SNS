@@ -1,0 +1,22 @@
+--2020-02-25 23:32:34--  https://printis.um.edu.my/SMS_010818_POSTER.pdf%0D
+Resolving printis.um.edu.my (printis.um.edu.my)... 103.18.3.42
+Connecting to printis.um.edu.my (printis.um.edu.my)|103.18.3.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        2.23G=0s
+
+2020-02-25 23:32:35 (2.23 Gb/s) - ‘/dev/null’ saved [771]
+
+--2020-02-25 23:32:35--  https://printis.um.edu.my/SMS_010818_POSTER.pdf%0D
+Resolving printis.um.edu.my (printis.um.edu.my)... 103.18.3.42
+Connecting to printis.um.edu.my (printis.um.edu.my)|103.18.3.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        2.74G=0s
+
+2020-02-25 23:32:35 (2.74 Gb/s) - ‘/dev/null’ saved [771]
+

@@ -1,0 +1,11 @@
+--2020-02-25 23:17:28--  http://www.ab.kg/upload/file/october_1_2015.pdf%0D
+Resolving www.ab.kg (www.ab.kg)... 213.145.129.29
+Connecting to www.ab.kg (www.ab.kg)|213.145.129.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ab.kg/upload/file/october_1_2015.pdf%0D [following]
+--2020-02-25 23:17:28--  https://ab.kg/upload/file/october_1_2015.pdf%0D
+Resolving ab.kg (ab.kg)... 213.145.129.29
+Connecting to ab.kg (ab.kg)|213.145.129.29|:443... connected.
+ERROR: cannot verify ab.kg's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to ab.kg insecurely, use `--no-check-certificate'.

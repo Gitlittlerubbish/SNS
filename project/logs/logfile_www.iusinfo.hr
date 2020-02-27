@@ -1,0 +1,12 @@
+--2020-02-25 22:01:19--  http://www.iusinfo.hr/appendix/clanci_hr/cln20v01d2010b340_170_1.pdf%0D
+Resolving www.iusinfo.hr (www.iusinfo.hr)... --2020-02-25 22:01:19--  http://www.iusinfo.hr/appendix/clanci_hr/cln20v01d2010b340_170_1.pdf%0D
+Resolving www.iusinfo.hr (www.iusinfo.hr)... 91.230.238.75
+Connecting to www.iusinfo.hr (www.iusinfo.hr)|91.230.238.75|:80... 91.230.238.75
+Connecting to www.iusinfo.hr (www.iusinfo.hr)|91.230.238.75|:80... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:20 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:01:20 ERROR 400: Bad Request.
+

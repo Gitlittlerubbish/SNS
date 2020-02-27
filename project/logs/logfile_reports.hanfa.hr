@@ -1,0 +1,12 @@
+--2020-02-25 22:01:09--  http://reports.hanfa.hr/Documentation/SpecificationFile/977%0D
+Resolving reports.hanfa.hr (reports.hanfa.hr)... --2020-02-25 22:01:09--  http://reports.hanfa.hr/Documentation/SpecificationFile/977%0D
+Resolving reports.hanfa.hr (reports.hanfa.hr)... 31.45.233.244
+Connecting to reports.hanfa.hr (reports.hanfa.hr)|31.45.233.244|:80... 31.45.233.244
+Connecting to reports.hanfa.hr (reports.hanfa.hr)|31.45.233.244|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:09 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:01:09 ERROR 400: Bad Request.
+

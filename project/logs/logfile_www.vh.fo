@@ -1,0 +1,12 @@
+--2020-02-25 22:19:47--  http://www.vh.fo/upload/uddannelsesbog-skibsmaskinistuddannelsen.pdf%0D
+Resolving www.vh.fo (www.vh.fo)... --2020-02-25 22:19:47--  http://www.vh.fo/upload/uddannelsesbog-skibsmaskinistuddannelsen.pdf%0D
+Resolving www.vh.fo (www.vh.fo)... 80.77.131.162
+Connecting to www.vh.fo (www.vh.fo)|80.77.131.162|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:48 ERROR 400: Bad Request.
+
+80.77.131.162
+Connecting to www.vh.fo (www.vh.fo)|80.77.131.162|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:48 ERROR 400: Bad Request.
+

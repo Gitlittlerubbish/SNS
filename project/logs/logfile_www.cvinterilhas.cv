@@ -1,0 +1,12 @@
+--2020-02-25 21:32:15--  https://www.cvinterilhas.cv/css/pdf/contrato_transporte_maritimo_en.pdf%0D
+Resolving www.cvinterilhas.cv (www.cvinterilhas.cv)... 83.174.3.167
+Connecting to www.cvinterilhas.cv (www.cvinterilhas.cv)|83.174.3.167|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:32:15 ERROR 400: Bad Request.
+
+--2020-02-25 21:35:18--  https://www.cvinterilhas.cv/css/pdf/contrato_transporte_maritimo_en.pdf%0D
+Resolving www.cvinterilhas.cv (www.cvinterilhas.cv)... 83.174.3.167
+Connecting to www.cvinterilhas.cv (www.cvinterilhas.cv)|83.174.3.167|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:35:18 ERROR 400: Bad Request.
+

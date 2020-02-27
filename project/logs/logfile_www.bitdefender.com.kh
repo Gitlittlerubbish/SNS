@@ -1,0 +1,12 @@
+--2020-02-25 21:34:05--  https://www.bitdefender.com.kh/resources/home-user/bitdefender_av_2018_userguide_en.pdf%0D
+Resolving www.bitdefender.com.kh (www.bitdefender.com.kh)... 172.104.175.58
+Connecting to www.bitdefender.com.kh (www.bitdefender.com.kh)|172.104.175.58|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:34:06 ERROR 404: Not Found.
+
+--2020-02-25 21:36:42--  https://www.bitdefender.com.kh/resources/home-user/bitdefender_av_2018_userguide_en.pdf%0D
+Resolving www.bitdefender.com.kh (www.bitdefender.com.kh)... 172.104.175.58
+Connecting to www.bitdefender.com.kh (www.bitdefender.com.kh)|172.104.175.58|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:43 ERROR 404: Not Found.
+

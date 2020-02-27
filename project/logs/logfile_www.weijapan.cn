@@ -1,0 +1,12 @@
+--2020-02-25 21:46:28--  http://www.weijapan.cn/data/pdf/fab1a4_c3883f0376dc43b0be3179bbf18e422c.pdf%0D
+Resolving www.weijapan.cn (www.weijapan.cn)... 39.98.176.129
+Connecting to www.weijapan.cn (www.weijapan.cn)|39.98.176.129|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:46:28 ERROR 404: Not Found.
+
+--2020-02-25 21:46:34--  http://www.weijapan.cn/data/pdf/fab1a4_c3883f0376dc43b0be3179bbf18e422c.pdf%0D
+Resolving www.weijapan.cn (www.weijapan.cn)... 39.98.176.129
+Connecting to www.weijapan.cn (www.weijapan.cn)|39.98.176.129|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:46:34 ERROR 404: Not Found.
+

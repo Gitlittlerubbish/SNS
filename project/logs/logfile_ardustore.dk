@@ -1,0 +1,12 @@
+--2020-02-25 22:06:22--  https://ardustore.dk/error/Manuel%2520-%2520MCP23017.pdf%0D
+--2020-02-25 22:06:22--  https://ardustore.dk/error/Manuel%2520-%2520MCP23017.pdf%0D
+Resolving ardustore.dk (ardustore.dk)... Resolving ardustore.dk (ardustore.dk)... 86.48.37.196
+Connecting to ardustore.dk (ardustore.dk)|86.48.37.196|:443... 86.48.37.196
+Connecting to ardustore.dk (ardustore.dk)|86.48.37.196|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:06:23 ERROR 403: Forbidden.
+
+403 Forbidden
+2020-02-25 22:06:23 ERROR 403: Forbidden.
+

@@ -1,0 +1,56 @@
+--2020-02-25 23:12:30--  http://www.itfind.or.kr/WZIN/jugidong/1456/file3719-145601.pdf%0D
+Resolving www.itfind.or.kr (www.itfind.or.kr)... 116.124.141.151
+Connecting to www.itfind.or.kr (www.itfind.or.kr)|116.124.141.151|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.itfind.or.kr/WZIN/jugidong/1456/file3719-145601.pdf%0d [following]
+--2020-02-25 23:12:31--  https://www.itfind.or.kr/WZIN/jugidong/1456/file3719-145601.pdf%0d
+Connecting to www.itfind.or.kr (www.itfind.or.kr)|116.124.141.151|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  742K
+    50K .......... .......                                     2.57G=0.6s
+
+2020-02-25 23:12:33 (995 Kb/s) - ‘/dev/null’ saved [68622]
+
+--2020-02-25 23:12:33--  http://www.itfind.or.kr/WZIN/jugidong/1456/file3719-145601.pdf%0D
+Resolving www.itfind.or.kr (www.itfind.or.kr)... 116.124.141.151
+Connecting to www.itfind.or.kr (www.itfind.or.kr)|116.124.141.151|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.itfind.or.kr/WZIN/jugidong/1456/file3719-145601.pdf%0d [following]
+--2020-02-25 23:12:34--  https://www.itfind.or.kr/WZIN/jugidong/1456/file3719-145601.pdf%0d
+Connecting to www.itfind.or.kr (www.itfind.or.kr)|116.124.141.151|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  748K
+    50K .......... .......                                     4.17G=0.5s
+
+2020-02-25 23:12:35 (1.00 Mb/s) - ‘/dev/null’ saved [68680]
+
+--2020-02-25 23:12:35--  https://www.itfind.or.kr/WZIN/jugidong/1838/file6510537702735674457-183801.pdf%0D
+Resolving www.itfind.or.kr (www.itfind.or.kr)... 116.124.141.151
+Connecting to www.itfind.or.kr (www.itfind.or.kr)|116.124.141.151|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  748K
+    50K .......... .......                                     1.66G=0.5s
+
+2020-02-25 23:12:37 (1.00 Mb/s) - ‘/dev/null’ saved [68689]
+
+--2020-02-25 23:12:37--  https://www.itfind.or.kr/WZIN/jugidong/1838/file6510537702735674457-183801.pdf%0D
+Resolving www.itfind.or.kr (www.itfind.or.kr)... 116.124.141.151
+Connecting to www.itfind.or.kr (www.itfind.or.kr)|116.124.141.151|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  753K
+    50K .......... .......                                     3.12G=0.5s
+
+2020-02-25 23:12:39 (1.01 Mb/s) - ‘/dev/null’ saved [68699]
+

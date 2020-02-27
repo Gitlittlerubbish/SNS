@@ -1,0 +1,12 @@
+--2020-02-25 21:04:48--  http://pgrfa.barcapps.gov.bd/reports/bangladesh.pdf%0D
+Resolving pgrfa.barcapps.gov.bd (pgrfa.barcapps.gov.bd)... 114.130.54.198
+Connecting to pgrfa.barcapps.gov.bd (pgrfa.barcapps.gov.bd)|114.130.54.198|:80... connected.
+HTTP request sent, awaiting response... 408 Request Time-out
+2020-02-25 21:04:49 ERROR 408: Request Time-out.
+
+--2020-02-25 21:15:27--  http://pgrfa.barcapps.gov.bd/reports/bangladesh.pdf%0D
+Resolving pgrfa.barcapps.gov.bd (pgrfa.barcapps.gov.bd)... 114.130.54.198
+Connecting to pgrfa.barcapps.gov.bd (pgrfa.barcapps.gov.bd)|114.130.54.198|:80... connected.
+HTTP request sent, awaiting response... 408 Request Time-out
+2020-02-25 21:15:27 ERROR 408: Request Time-out.
+

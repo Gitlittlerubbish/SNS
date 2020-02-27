@@ -1,0 +1,6 @@
+--2020-02-26 00:22:16--  https://www.nokut.no/contentassets/9989482e51f1473786a8037c4b71b46d/amundsen_haakstad_teaching_in_higher_education_2018.pdf%0D
+Resolving www.nokut.no (www.nokut.no)... 188.95.245.117
+Connecting to www.nokut.no (www.nokut.no)|188.95.245.117|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:16 ERROR 400: Bad Request.
+

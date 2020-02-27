@@ -1,0 +1,10 @@
+--2020-02-25 22:52:57--  https://kpk.go.id/gratifikasi/BP/uu_28_1999.pdf%0D
+Resolving kpk.go.id (kpk.go.id)... 223.27.153.37
+Connecting to kpk.go.id (kpk.go.id)|223.27.153.37|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kpk.go.id/gratifikasi/BP/uu_28_1999.pdf/ [following]
+--2020-02-25 22:52:59--  https://kpk.go.id/gratifikasi/BP/uu_28_1999.pdf/
+Reusing existing connection to kpk.go.id:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:52:59 ERROR 404: Not Found.
+

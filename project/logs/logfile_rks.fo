@@ -1,0 +1,44 @@
+--2020-02-25 22:19:47--  https://rks.fo/download/file/23d8a5a84ee3199a0c28afd3798a6d84925f694f.pdf%0D
+Resolving rks.fo (rks.fo)... 128.199.43.113
+Connecting to rks.fo (rks.fo)|128.199.43.113|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        35.0M=0s
+
+2020-02-25 22:19:47 (35.0 Mb/s) - ‘/dev/null’ saved [21]
+
+--2020-02-25 22:19:47--  https://rks.fo/download/file/23d8a5a84ee3199a0c28afd3798a6d84925f694f.pdf%0D
+Resolving rks.fo (rks.fo)... 128.199.43.113
+Connecting to rks.fo (rks.fo)|128.199.43.113|:443... connected.
+--2020-02-25 22:19:47--  https://rks.fo/download/file/23d8a5a84ee3199a0c28afd3798a6d84925f694f.pdf%0D
+HTTP request sent, awaiting response... Resolving rks.fo (rks.fo)... 128.199.43.113
+Connecting to rks.fo (rks.fo)|128.199.43.113|:443... connected.
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        15.3M=0s
+
+2020-02-25 22:19:47 (15.3 Mb/s) - ‘/dev/null’ saved [21]
+
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        14.7M=0s
+
+2020-02-25 22:19:47 (14.7 Mb/s) - ‘/dev/null’ saved [21]
+
+--2020-02-25 22:19:47--  https://rks.fo/download/file/23d8a5a84ee3199a0c28afd3798a6d84925f694f.pdf%0D
+Resolving rks.fo (rks.fo)... 128.199.43.113
+Connecting to rks.fo (rks.fo)|128.199.43.113|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        8.37M=0s
+
+2020-02-25 22:19:47 (8.37 Mb/s) - ‘/dev/null’ saved [21]
+

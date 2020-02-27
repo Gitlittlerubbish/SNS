@@ -1,0 +1,52 @@
+--2020-02-25 22:58:36--  http://corporateoptions.co.im/documents/Updated_Isle_of_Man_Companies.pdf%0D
+Resolving corporateoptions.co.im (corporateoptions.co.im)... 104.28.8.200, 104.28.9.200
+Connecting to corporateoptions.co.im (corporateoptions.co.im)|104.28.8.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://corporateoptions.co.im/documents/Updated_Isle_of_Man_Companies.pdf%0D [following]
+--2020-02-25 22:58:36--  https://corporateoptions.co.im/documents/Updated_Isle_of_Man_Companies.pdf%0D
+Connecting to corporateoptions.co.im (corporateoptions.co.im)|104.28.8.200|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://corporateoptions.co.im/documents/Updated_Isle_of_Man_Companies.pdf [following]
+--2020-02-25 22:58:36--  https://corporateoptions.co.im/documents/Updated_Isle_of_Man_Companies.pdf
+Reusing existing connection to corporateoptions.co.im:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 374140 (365K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13%  364M 0s
+    50K .......... .......... .......... .......... .......... 27% 2.45G 0s
+   100K .......... .......... .......... .......... .......... 41%  407M 0s
+   150K .......... .......... .......... .......... .......... 54%  115M 0s
+   200K .......... .......... .......... .......... .......... 68%  926M 0s
+   250K .......... .......... .......... .......... .......... 82% 85.3M 0s
+   300K .......... .......... .......... .......... .......... 95% 4.49G 0s
+   350K .......... .....                                      100% 7.62G=0.01s
+
+2020-02-25 22:58:36 (267 Mb/s) - ‘/dev/null’ saved [374140/374140]
+
+--2020-02-25 22:58:36--  http://corporateoptions.co.im/documents/Updated_Isle_of_Man_Companies.pdf%0D
+Resolving corporateoptions.co.im (corporateoptions.co.im)... 104.28.9.200, 104.28.8.200
+Connecting to corporateoptions.co.im (corporateoptions.co.im)|104.28.9.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://corporateoptions.co.im/documents/Updated_Isle_of_Man_Companies.pdf%0D [following]
+--2020-02-25 22:58:36--  https://corporateoptions.co.im/documents/Updated_Isle_of_Man_Companies.pdf%0D
+Connecting to corporateoptions.co.im (corporateoptions.co.im)|104.28.9.200|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://corporateoptions.co.im/documents/Updated_Isle_of_Man_Companies.pdf [following]
+--2020-02-25 22:58:37--  https://corporateoptions.co.im/documents/Updated_Isle_of_Man_Companies.pdf
+Reusing existing connection to corporateoptions.co.im:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 374140 (365K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13%  464M 0s
+    50K .......... .......... .......... .......... .......... 27% 1.84G 0s
+   100K .......... .......... .......... .......... .......... 41%  703M 0s
+   150K .......... .......... .......... .......... .......... 54% 1.17G 0s
+   200K .......... .......... .......... .......... .......... 68% 1.56G 0s
+   250K .......... .......... .......... .......... .......... 82% 1.92G 0s
+   300K .......... .......... .......... .......... .......... 95% 2.07G 0s
+   350K .......... .....                                      100% 7.28G=0.003s
+
+2020-02-25 22:58:37 (1.10 Gb/s) - ‘/dev/null’ saved [374140/374140]
+

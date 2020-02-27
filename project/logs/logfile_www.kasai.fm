@@ -1,0 +1,6 @@
+--2020-02-25 23:49:11--  http://www.kasai.fm/nancy/install.pdf%0D
+Resolving www.kasai.fm (www.kasai.fm)... 202.181.97.25
+Connecting to www.kasai.fm (www.kasai.fm)|202.181.97.25|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:49:12 ERROR 404: Not Found.
+

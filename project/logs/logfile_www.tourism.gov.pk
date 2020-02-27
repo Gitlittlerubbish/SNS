@@ -1,0 +1,6 @@
+--2020-02-26 00:24:27--  http://www.tourism.gov.pk/application_form.pdf%0D
+Resolving www.tourism.gov.pk (www.tourism.gov.pk)... 203.101.184.121
+Connecting to www.tourism.gov.pk (www.tourism.gov.pk)|203.101.184.121|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:24:29 ERROR 400: Bad Request.
+

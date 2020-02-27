@@ -1,0 +1,14 @@
+--2020-02-25 21:27:14--  https://www.mouser.bg/pdfdocs/littelfuse_varistor_lsp10_datasheetpdf.PDF%0D
+Resolving www.mouser.bg (www.mouser.bg)... 104.67.20.111
+Connecting to www.mouser.bg (www.mouser.bg)|104.67.20.111|:443... connected.
+HTTP request sent, awaiting response... 405 Method Not Allowed
+Syntax error in Set-Cookie: akacd_Default_PR=3760118833~rv=86~id=1a52d121950abc1d46bcb24783867594; path=/;; HttpOnly; Secure; SameSite=None at position 78.
+2020-02-25 21:27:17 ERROR 405: Method Not Allowed.
+
+--2020-02-25 21:32:24--  https://www.mouser.bg/pdfdocs/littelfuse_varistor_lsp10_datasheetpdf.PDF%0D
+Resolving www.mouser.bg (www.mouser.bg)... 104.106.64.57
+Connecting to www.mouser.bg (www.mouser.bg)|104.106.64.57|:443... connected.
+HTTP request sent, awaiting response... 405 Method Not Allowed
+Syntax error in Set-Cookie: akacd_Default_PR=3760119143~rv=25~id=ca74c2b8dcd0b4b66d8faad813b1c328; path=/;; HttpOnly; Secure; SameSite=None at position 78.
+2020-02-25 21:32:25 ERROR 405: Method Not Allowed.
+

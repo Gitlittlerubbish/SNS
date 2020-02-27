@@ -1,0 +1,64 @@
+--2020-02-25 22:12:22--  http://aun.gov.eg/arabic/books/Book7.pdf%0D
+Resolving aun.gov.eg (aun.gov.eg)... 193.227.61.27
+Connecting to aun.gov.eg (aun.gov.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.aun.edu.eg/errors.php [following]
+--2020-02-25 22:12:23--  http://www.aun.edu.eg/errors.php
+Resolving www.aun.edu.eg (www.aun.edu.eg)... 193.227.61.27
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      1.83G=0s
+
+2020-02-25 22:12:23 (1.83 Gb/s) - ‘/dev/null’ saved [1571]
+
+--2020-02-25 22:12:23--  http://aun.gov.eg/arabic/books/Book7.pdf%0D
+Resolving aun.gov.eg (aun.gov.eg)... 193.227.61.27
+Connecting to aun.gov.eg (aun.gov.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.aun.edu.eg/errors.php [following]
+--2020-02-25 22:12:23--  http://www.aun.edu.eg/errors.php
+Resolving www.aun.edu.eg (www.aun.edu.eg)... 193.227.61.27
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                       546M=0s
+
+2020-02-25 22:12:23 (546 Mb/s) - ‘/dev/null’ saved [1571]
+
+--2020-02-25 22:13:13--  http://aun.gov.eg/arabic/books/Book7.pdf%0D
+Resolving aun.gov.eg (aun.gov.eg)... 193.227.61.27
+Connecting to aun.gov.eg (aun.gov.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.aun.edu.eg/errors.php [following]
+--2020-02-25 22:13:13--  http://www.aun.edu.eg/errors.php
+Resolving www.aun.edu.eg (www.aun.edu.eg)... 193.227.61.27
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                       929M=0s
+
+2020-02-25 22:13:13 (929 Mb/s) - ‘/dev/null’ saved [1571]
+
+--2020-02-25 22:13:13--  http://aun.gov.eg/arabic/books/Book7.pdf%0D
+Resolving aun.gov.eg (aun.gov.eg)... 193.227.61.27
+Connecting to aun.gov.eg (aun.gov.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.aun.edu.eg/errors.php [following]
+--2020-02-25 22:13:14--  http://www.aun.edu.eg/errors.php
+Resolving www.aun.edu.eg (www.aun.edu.eg)... 193.227.61.27
+Connecting to www.aun.edu.eg (www.aun.edu.eg)|193.227.61.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      2.05G=0s
+
+2020-02-25 22:13:14 (2.05 Gb/s) - ‘/dev/null’ saved [1571]
+

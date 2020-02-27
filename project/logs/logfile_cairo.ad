@@ -1,0 +1,6 @@
+--2020-02-25 21:00:39--  https://cairo.ad/uploads/archivos/catalogo_general_2017_2018.pdf%0D
+Resolving cairo.ad (cairo.ad)... 194.158.80.16
+Connecting to cairo.ad (cairo.ad)|194.158.80.16|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:00:39 ERROR 400: Bad Request.
+

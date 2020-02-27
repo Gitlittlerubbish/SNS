@@ -1,0 +1,6 @@
+--2020-02-25 23:12:04--  https://www.iped.kr/bbs/files/5540%0D
+Resolving www.iped.kr (www.iped.kr)... 203.242.169.217
+Connecting to www.iped.kr (www.iped.kr)|203.242.169.217|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.iped.kr’.
+To connect to www.iped.kr insecurely, use `--no-check-certificate'.

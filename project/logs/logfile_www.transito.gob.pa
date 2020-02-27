@@ -1,0 +1,12 @@
+--2020-02-26 00:27:19--  http://www.transito.gob.pa/sites/default/files/reglamento_decreto_640.pdf%0D
+Resolving www.transito.gob.pa (www.transito.gob.pa)... 190.34.149.228
+Connecting to www.transito.gob.pa (www.transito.gob.pa)|190.34.149.228|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:27:20 ERROR 404: Not Found.
+
+--2020-02-26 00:27:21--  http://www.transito.gob.pa/sites/default/files/reglamento_decreto_640.pdf%0D
+Resolving www.transito.gob.pa (www.transito.gob.pa)... 190.34.149.228
+Connecting to www.transito.gob.pa (www.transito.gob.pa)|190.34.149.228|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:27:22 ERROR 404: Not Found.
+

@@ -1,0 +1,30 @@
+--2020-02-25 23:20:03--  http://www.unesco.lv/files/JVitola_spele_metodiskais_lidzeklis_skolotajiem_29080bdd.pdf%0D
+Resolving www.unesco.lv (www.unesco.lv)... 94.100.6.21
+Connecting to www.unesco.lv (www.unesco.lv)|94.100.6.21|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.unesco.lv/lv/izglitiba/ [following]
+--2020-02-25 23:20:04--  http://www.unesco.lv/lv/izglitiba/
+Reusing existing connection to www.unesco.lv:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 31721 (31K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..........                      100% 3.68M=0.07s
+
+2020-02-25 23:20:05 (3.68 Mb/s) - ‘/dev/null’ saved [31721/31721]
+
+--2020-02-25 23:20:05--  http://www.unesco.lv/files/JVitola_spele_metodiskais_lidzeklis_skolotajiem_29080bdd.pdf%0D
+Resolving www.unesco.lv (www.unesco.lv)... 94.100.6.21
+Connecting to www.unesco.lv (www.unesco.lv)|94.100.6.21|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.unesco.lv/lv/izglitiba/ [following]
+--2020-02-25 23:20:05--  http://www.unesco.lv/lv/izglitiba/
+Reusing existing connection to www.unesco.lv:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 24923 (24K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ....                            100% 3.83M=0.05s
+
+2020-02-25 23:20:05 (3.83 Mb/s) - ‘/dev/null’ saved [24923/24923]
+

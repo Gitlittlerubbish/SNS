@@ -1,0 +1,12 @@
+--2020-02-25 21:03:17--  https://www.homeseekers.bh/boeing-777-flight-crew-training.pdf%0D
+Resolving www.homeseekers.bh (www.homeseekers.bh)... 134.209.23.120
+Connecting to www.homeseekers.bh (www.homeseekers.bh)|134.209.23.120|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.homeseekers.bh’.
+To connect to www.homeseekers.bh insecurely, use `--no-check-certificate'.
+--2020-02-25 21:14:32--  https://www.homeseekers.bh/boeing-777-flight-crew-training.pdf%0D
+Resolving www.homeseekers.bh (www.homeseekers.bh)... 134.209.23.120
+Connecting to www.homeseekers.bh (www.homeseekers.bh)|134.209.23.120|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.homeseekers.bh’.
+To connect to www.homeseekers.bh insecurely, use `--no-check-certificate'.

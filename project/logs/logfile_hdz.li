@@ -1,0 +1,38 @@
+--2020-02-25 23:24:03--  http://hdz.li/110Wc1A%0D
+Resolving hdz.li (hdz.li)... 67.199.248.13, 67.199.248.12
+Connecting to hdz.li (hdz.li)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://melody.syr.edu/pzhang/publications/ECRA_13_Zhou_etal_Social_Commerce.pdf [following]
+--2020-02-25 23:24:03--  http://melody.syr.edu/pzhang/publications/ECRA_13_Zhou_etal_Social_Commerce.pdf
+Resolving melody.syr.edu (melody.syr.edu)... 128.230.248.177
+Connecting to melody.syr.edu (melody.syr.edu)|128.230.248.177|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 192963 (188K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 2.62M 0s
+    50K .......... .......... .......... .......... .......... 53% 5.23M 0s
+   100K .......... .......... .......... .......... .......... 79%  683M 0s
+   150K .......... .......... .......... ........             100% 4.06M=0.3s
+
+2020-02-25 23:24:04 (4.93 Mb/s) - ‘/dev/null’ saved [192963/192963]
+
+--2020-02-25 23:24:04--  http://hdz.li/110Wc1A%0D
+Resolving hdz.li (hdz.li)... 67.199.248.13, 67.199.248.12
+Connecting to hdz.li (hdz.li)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://melody.syr.edu/pzhang/publications/ECRA_13_Zhou_etal_Social_Commerce.pdf [following]
+--2020-02-25 23:24:04--  http://melody.syr.edu/pzhang/publications/ECRA_13_Zhou_etal_Social_Commerce.pdf
+Resolving melody.syr.edu (melody.syr.edu)... 128.230.248.177
+Connecting to melody.syr.edu (melody.syr.edu)|128.230.248.177|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 192963 (188K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 2.62M 0s
+    50K .......... .......... .......... .......... .......... 53% 5.23M 0s
+   100K .......... .......... .......... .......... .......... 79%  599M 0s
+   150K .......... .......... .......... ........             100% 4.06M=0.3s
+
+2020-02-25 23:24:04 (4.93 Mb/s) - ‘/dev/null’ saved [192963/192963]
+

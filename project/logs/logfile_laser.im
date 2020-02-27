@@ -1,0 +1,6 @@
+--2020-02-25 22:58:38--  http://laser.im/docs/pubs/08063932.pdf%0D
+Resolving laser.im (laser.im)... 69.163.161.200
+Connecting to laser.im (laser.im)|69.163.161.200|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:58:38 ERROR 404: Not Found.
+

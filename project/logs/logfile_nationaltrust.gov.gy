@@ -1,0 +1,22 @@
+--2020-02-25 22:42:00--  http://nationaltrust.gov.gy/wp-content/uploads/2019/02/National-Trust-Act.pdf%0D
+Resolving nationaltrust.gov.gy (nationaltrust.gov.gy)... 192.185.247.54
+Connecting to nationaltrust.gov.gy (nationaltrust.gov.gy)|192.185.247.54|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         259M=0s
+
+2020-02-25 22:42:01 (259 Mb/s) - ‘/dev/null’ saved [227]
+
+--2020-02-25 22:42:01--  http://nationaltrust.gov.gy/wp-content/uploads/2019/02/National-Trust-Act.pdf%0D
+Resolving nationaltrust.gov.gy (nationaltrust.gov.gy)... 192.185.247.54
+Connecting to nationaltrust.gov.gy (nationaltrust.gov.gy)|192.185.247.54|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         228M=0s
+
+2020-02-25 22:42:02 (228 Mb/s) - ‘/dev/null’ saved [227]
+

@@ -1,0 +1,48 @@
+--2020-02-25 21:02:42--  http://leadingindia.ai/directorcv%0D
+Resolving leadingindia.ai (leadingindia.ai)... 43.255.154.112
+Connecting to leadingindia.ai (leadingindia.ai)|43.255.154.112|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://leadingindia.ai/directorcv%0d [following]
+--2020-02-25 21:02:43--  https://leadingindia.ai/directorcv%0d
+Connecting to leadingindia.ai (leadingindia.ai)|43.255.154.112|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.leadingindia.ai/directorcv%0d [following]
+--2020-02-25 21:02:43--  https://www.leadingindia.ai/directorcv%0d
+Resolving www.leadingindia.ai (www.leadingindia.ai)... 43.255.154.112
+Connecting to www.leadingindia.ai (www.leadingindia.ai)|43.255.154.112|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.leadingindia.ai/home [following]
+--2020-02-25 21:02:44--  https://www.leadingindia.ai/home
+Reusing existing connection to www.leadingindia.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ..........                                   952K=0.2s
+
+2020-02-25 21:02:45 (952 Kb/s) - ‘/dev/null’ saved [20595]
+
+--2020-02-25 21:02:45--  http://leadingindia.ai/directorcv%0D
+Resolving leadingindia.ai (leadingindia.ai)... 43.255.154.112
+Connecting to leadingindia.ai (leadingindia.ai)|43.255.154.112|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://leadingindia.ai/directorcv%0d [following]
+--2020-02-25 21:02:45--  https://leadingindia.ai/directorcv%0d
+Connecting to leadingindia.ai (leadingindia.ai)|43.255.154.112|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.leadingindia.ai/directorcv%0d [following]
+--2020-02-25 21:02:46--  https://www.leadingindia.ai/directorcv%0d
+Resolving www.leadingindia.ai (www.leadingindia.ai)... 43.255.154.112
+Connecting to www.leadingindia.ai (www.leadingindia.ai)|43.255.154.112|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.leadingindia.ai/home [following]
+--2020-02-25 21:02:47--  https://www.leadingindia.ai/home
+Reusing existing connection to www.leadingindia.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ..........                                   859K=0.2s
+
+2020-02-25 21:02:47 (859 Kb/s) - ‘/dev/null’ saved [20595]
+

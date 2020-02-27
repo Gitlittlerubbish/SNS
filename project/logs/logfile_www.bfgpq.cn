@@ -1,0 +1,12 @@
+--2020-02-25 21:46:58--  http://www.bfgpq.cn/file/upload/phone.pdf%0D
+Resolving www.bfgpq.cn (www.bfgpq.cn)... 156.244.31.52
+Connecting to www.bfgpq.cn (www.bfgpq.cn)|156.244.31.52|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:58 ERROR 400: Bad Request.
+
+--2020-02-25 21:47:00--  http://www.bfgpq.cn/file/upload/phone.pdf%0D
+Resolving www.bfgpq.cn (www.bfgpq.cn)... 156.244.31.52
+Connecting to www.bfgpq.cn (www.bfgpq.cn)|156.244.31.52|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:47:00 ERROR 400: Bad Request.
+

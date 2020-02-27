@@ -1,0 +1,52 @@
+--2020-02-25 22:15:59--  https://www.pinelandeqrs.gq/fileadmin/user_upload/RRI_Jahresbericht_2017_OEFFENTLICH.pdf%0D
+Resolving www.pinelandeqrs.gq (www.pinelandeqrs.gq)... 104.24.106.80, 104.24.107.80
+Connecting to www.pinelandeqrs.gq (www.pinelandeqrs.gq)|104.24.106.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 3.46M
+    50K .......... .......... .......... .......... ..........  170M
+   100K .......... ........                                    5.20M=0.2s
+
+2020-02-25 22:15:59 (6.47 Mb/s) - ‘/dev/null’ saved [121436]
+
+--2020-02-25 22:15:59--  https://www.pinelandeqrs.gq/fileadmin/user_upload/RRI_Jahresbericht_2017_OEFFENTLICH.pdf%0D
+Resolving www.pinelandeqrs.gq (www.pinelandeqrs.gq)... 104.24.107.80, 104.24.106.80
+Connecting to www.pinelandeqrs.gq (www.pinelandeqrs.gq)|104.24.107.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 6.61M
+    50K .......... .......... .......... .......... .......... 16.3M
+   100K .......... .......... .......... .......... .......... 2.67G
+   150K .......... .......... .......... .......... .......... 15.4M
+   200K .......... ...                                          171M=0.1s
+
+2020-02-25 22:16:00 (15.3 Mb/s) - ‘/dev/null’ saved [219112]
+
+--2020-02-25 22:16:12--  https://www.pinelandeqrs.gq/fileadmin/user_upload/RRI_Jahresbericht_2017_OEFFENTLICH.pdf%0D
+Resolving www.pinelandeqrs.gq (www.pinelandeqrs.gq)... 104.24.107.80, 104.24.106.80
+Connecting to www.pinelandeqrs.gq (www.pinelandeqrs.gq)|104.24.107.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.15M
+    50K .......... .....                                        130M=0.08s
+
+2020-02-25 22:16:12 (6.63 Mb/s) - ‘/dev/null’ saved [66731]
+
+--2020-02-25 22:16:12--  https://www.pinelandeqrs.gq/fileadmin/user_upload/RRI_Jahresbericht_2017_OEFFENTLICH.pdf%0D
+Resolving www.pinelandeqrs.gq (www.pinelandeqrs.gq)... 104.24.107.80, 104.24.106.80
+Connecting to www.pinelandeqrs.gq (www.pinelandeqrs.gq)|104.24.107.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 8.03M
+    50K .......... .......... .........                         120M=0.05s
+
+2020-02-25 22:16:12 (12.2 Mb/s) - ‘/dev/null’ saved [81040]
+

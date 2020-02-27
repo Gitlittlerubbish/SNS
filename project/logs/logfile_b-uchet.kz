@@ -1,0 +1,84 @@
+--2020-02-25 23:07:52--  https://b-uchet.kz/files/4/%0D
+Resolving b-uchet.kz (b-uchet.kz)... 194.4.56.23
+Connecting to b-uchet.kz (b-uchet.kz)|194.4.56.23|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: //b-uchet.kz/files/4/%0D/ [following]
+--2020-02-25 23:07:52--  https://b-uchet.kz/files/4/%0D/
+Reusing existing connection to b-uchet.kz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 258427 (252K) [application/download]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 3.95M 0s
+    50K .......... .......... .......... .......... .......... 39% 3.95M 0s
+   100K .......... .......... .......... .......... .......... 59%  570M 0s
+   150K .......... .......... .......... .......... .......... 79% 3.97M 0s
+   200K .......... .......... .......... .......... .......... 99% 1.04G 0s
+   250K ..                                                    100% 38832G=0.3s
+
+2020-02-25 23:07:53 (6.63 Mb/s) - ‘/dev/null’ saved [258427/258427]
+
+--2020-02-25 23:07:53--  https://b-uchet.kz/files/4/%0D
+Resolving b-uchet.kz (b-uchet.kz)... 194.4.56.23
+Connecting to b-uchet.kz (b-uchet.kz)|194.4.56.23|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: //b-uchet.kz/files/4/%0D/ [following]
+--2020-02-25 23:07:53--  https://b-uchet.kz/files/4/%0D/
+Reusing existing connection to b-uchet.kz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 258427 (252K) [application/download]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 4.00M 0s
+    50K .......... .......... .......... .......... .......... 39% 3.99M 0s
+   100K .......... .......... .......... .......... .......... 59% 4.01M 0s
+   150K .......... .......... .......... .......... .......... 79% 1.05G 0s
+   200K .......... .......... .......... .......... .......... 99%  919M 0s
+   250K ..                                                    100% 38832G=0.3s
+
+2020-02-25 23:07:54 (6.71 Mb/s) - ‘/dev/null’ saved [258427/258427]
+
+--2020-02-25 23:07:54--  https://b-uchet.kz/files/5/%0D
+Resolving b-uchet.kz (b-uchet.kz)... 194.4.56.23
+Connecting to b-uchet.kz (b-uchet.kz)|194.4.56.23|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: //b-uchet.kz/files/5/%0D/ [following]
+--2020-02-25 23:07:54--  https://b-uchet.kz/files/5/%0D/
+Reusing existing connection to b-uchet.kz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 389955 (381K) [application/download]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 3.93M 1s
+    50K .......... .......... .......... .......... .......... 26% 3.93M 1s
+   100K .......... .......... .......... .......... .......... 39% 3.94M 0s
+   150K .......... .......... .......... .......... .......... 52%  931M 0s
+   200K .......... .......... .......... .......... .......... 65%  953M 0s
+   250K .......... .......... .......... .......... .......... 78%  852M 0s
+   300K .......... .......... .......... .......... .......... 91% 3.96M 0s
+   350K .......... .......... ..........                      100%  684M=0.4s
+
+2020-02-25 23:07:55 (7.47 Mb/s) - ‘/dev/null’ saved [389955/389955]
+
+--2020-02-25 23:07:55--  https://b-uchet.kz/files/5/%0D
+Resolving b-uchet.kz (b-uchet.kz)... 194.4.56.23
+Connecting to b-uchet.kz (b-uchet.kz)|194.4.56.23|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: //b-uchet.kz/files/5/%0D/ [following]
+--2020-02-25 23:07:55--  https://b-uchet.kz/files/5/%0D/
+Reusing existing connection to b-uchet.kz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 389955 (381K) [application/download]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 4.01M 1s
+    50K .......... .......... .......... .......... .......... 26% 4.03M 1s
+   100K .......... .......... .......... .......... .......... 39%  891M 0s
+   150K .......... .......... .......... .......... .......... 52%  667M 0s
+   200K .......... .......... .......... .......... .......... 65% 4.05M 0s
+   250K .......... .......... .......... .......... .......... 78% 1.12G 0s
+   300K .......... .......... .......... .......... .......... 91%  829M 0s
+   350K .......... .......... ..........                      100% 1.00G=0.3s
+
+2020-02-25 23:07:56 (10.2 Mb/s) - ‘/dev/null’ saved [389955/389955]
+

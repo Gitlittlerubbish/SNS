@@ -1,0 +1,6 @@
+--2020-02-25 22:56:36--  https://www.giveblood.ie/imagesLibrary/haemoglobin-leaflet.pdf%0D
+Resolving www.giveblood.ie (www.giveblood.ie)... 52.212.28.62
+Connecting to www.giveblood.ie (www.giveblood.ie)|52.212.28.62|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:56:36 ERROR 400: Bad Request.
+

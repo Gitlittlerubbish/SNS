@@ -1,0 +1,12 @@
+--2020-02-25 21:35:02--  http://armp.cm/DocumentsReglementations/ARRETE_016_PM_01_02_16.pdf%0D
+Resolving armp.cm (armp.cm)... 142.4.205.94
+Connecting to armp.cm (armp.cm)|142.4.205.94|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:02 ERROR 404: Not Found.
+
+--2020-02-25 21:37:16--  http://armp.cm/DocumentsReglementations/ARRETE_016_PM_01_02_16.pdf%0D
+Resolving armp.cm (armp.cm)... 142.4.205.94
+Connecting to armp.cm (armp.cm)|142.4.205.94|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:16 ERROR 404: Not Found.
+

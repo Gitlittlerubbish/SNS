@@ -1,0 +1,12 @@
+--2020-02-25 21:11:34--  https://argus.bm/media/4145/argus_donations_form_2019.pdf%0D
+Resolving argus.bm (argus.bm)... 40.76.95.84
+Connecting to argus.bm (argus.bm)|40.76.95.84|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:35 ERROR 400: Bad Request.
+
+--2020-02-25 21:20:24--  https://argus.bm/media/4145/argus_donations_form_2019.pdf%0D
+Resolving argus.bm (argus.bm)... 40.76.95.84
+Connecting to argus.bm (argus.bm)|40.76.95.84|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:20:24 ERROR 400: Bad Request.
+

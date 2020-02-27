@@ -1,0 +1,6 @@
+--2020-02-25 23:00:26--  http://www.amalp.it/files/2003_aha_acc_guidewarfarintherapy.pdf%0D
+Resolving www.amalp.it (www.amalp.it)... 31.11.32.91
+Connecting to www.amalp.it (www.amalp.it)|31.11.32.91|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:26 ERROR 400: Bad Request.
+

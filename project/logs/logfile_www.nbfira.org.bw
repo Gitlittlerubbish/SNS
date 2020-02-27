@@ -1,0 +1,12 @@
+--2020-02-25 21:19:27--  https://www.nbfira.org.bw/sites/default/files/nbfiraannualreport2016.pdf%0D
+Resolving www.nbfira.org.bw (www.nbfira.org.bw)... 69.195.124.167
+Connecting to www.nbfira.org.bw (www.nbfira.org.bw)|69.195.124.167|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:29 ERROR 404: Not Found.
+
+--2020-02-25 21:25:48--  https://www.nbfira.org.bw/sites/default/files/nbfiraannualreport2016.pdf%0D
+Resolving www.nbfira.org.bw (www.nbfira.org.bw)... 69.195.124.167
+Connecting to www.nbfira.org.bw (www.nbfira.org.bw)|69.195.124.167|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:49 ERROR 404: Not Found.
+

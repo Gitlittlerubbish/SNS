@@ -1,0 +1,12 @@
+--2020-02-25 21:55:27--  http://www.courdescomptes.cd/doc/guide%2520audit%2520environnemental.pdf%0D
+Resolving www.courdescomptes.cd (www.courdescomptes.cd)... --2020-02-25 21:55:27--  http://www.courdescomptes.cd/doc/guide%2520audit%2520environnemental.pdf%0D
+Resolving www.courdescomptes.cd (www.courdescomptes.cd)... 67.222.111.194
+Connecting to www.courdescomptes.cd (www.courdescomptes.cd)|67.222.111.194|:80... 67.222.111.194
+Connecting to www.courdescomptes.cd (www.courdescomptes.cd)|67.222.111.194|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:55:28 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 21:55:28 ERROR 404: Not Found.
+

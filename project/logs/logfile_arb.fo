@@ -1,0 +1,44 @@
+--2020-02-25 22:19:42--  https://arb.fo/download/file/7cb2b4acd64e89345b286157deb5e7e360e71fae.pdf%0D
+Resolving arb.fo (arb.fo)... --2020-02-25 22:19:42--  https://arb.fo/download/file/7cb2b4acd64e89345b286157deb5e7e360e71fae.pdf%0D
+Resolving arb.fo (arb.fo)... 128.199.43.113
+Connecting to arb.fo (arb.fo)|128.199.43.113|:443... 128.199.43.113
+Connecting to arb.fo (arb.fo)|128.199.43.113|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        32.0M=0s
+
+2020-02-25 22:19:43 (32.0 Mb/s) - ‘/dev/null’ saved [21]
+
+--2020-02-25 22:19:43--  https://arb.fo/download/file/7cb2b4acd64e89345b286157deb5e7e360e71fae.pdf%0D
+Resolving arb.fo (arb.fo)... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        30.4M=0s
+
+2020-02-25 22:19:43 (30.4 Mb/s) - ‘/dev/null’ saved [21]
+
+128.199.43.113
+Connecting to arb.fo (arb.fo)|128.199.43.113|:443... --2020-02-25 22:19:43--  https://arb.fo/download/file/7cb2b4acd64e89345b286157deb5e7e360e71fae.pdf%0D
+Resolving arb.fo (arb.fo)... 128.199.43.113
+Connecting to arb.fo (arb.fo)|128.199.43.113|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        34.1M=0s
+
+2020-02-25 22:19:43 (34.1 Mb/s) - ‘/dev/null’ saved [21]
+
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        33.0M=0s
+
+2020-02-25 22:19:43 (33.0 Mb/s) - ‘/dev/null’ saved [21]
+

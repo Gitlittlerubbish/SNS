@@ -1,0 +1,12 @@
+--2020-02-25 22:19:47--  http://www.lms.fo/media/3679/vmr.pdf%0D
+Resolving www.lms.fo (www.lms.fo)... 63.32.38.184, 34.255.33.161
+Connecting to www.lms.fo (www.lms.fo)|63.32.38.184|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:47 ERROR 403: Forbidden.
+
+--2020-02-25 22:19:47--  http://www.lms.fo/media/3679/vmr.pdf%0D
+Resolving www.lms.fo (www.lms.fo)... 34.255.33.161, 63.32.38.184
+Connecting to www.lms.fo (www.lms.fo)|34.255.33.161|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:47 ERROR 403: Forbidden.
+

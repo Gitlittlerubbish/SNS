@@ -1,0 +1,12 @@
+--2020-02-25 21:09:39--  https://www.segub.bj/IMG/pdf/Guidelines_SEGUB_14OCT2011.pdf%0D
+Resolving www.segub.bj (www.segub.bj)... 69.89.18.103
+Connecting to www.segub.bj (www.segub.bj)|69.89.18.103|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:42 ERROR 404: Not Found.
+
+--2020-02-25 21:19:07--  https://www.segub.bj/IMG/pdf/Guidelines_SEGUB_14OCT2011.pdf%0D
+Resolving www.segub.bj (www.segub.bj)... 69.89.18.103
+Connecting to www.segub.bj (www.segub.bj)|69.89.18.103|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:07 ERROR 404: Not Found.
+

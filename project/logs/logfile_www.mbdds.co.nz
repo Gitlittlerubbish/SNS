@@ -1,0 +1,30 @@
+--2020-02-26 00:12:16--  http://www.mbdds.co.nz/pdf/PFP13080_ISOBUS_UserGuide.pdf%0D
+Resolving www.mbdds.co.nz (www.mbdds.co.nz)... 43.245.53.25
+Connecting to www.mbdds.co.nz (www.mbdds.co.nz)|43.245.53.25|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.mbdds.co.nz/mbddserrorhandler.php [following]
+--2020-02-26 00:12:17--  http://www.mbdds.co.nz/mbddserrorhandler.php
+Reusing existing connection to www.mbdds.co.nz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...                                         4.85G=0s
+
+2020-02-26 00:12:18 (4.85 Gb/s) - ‘/dev/null’ saved [13626]
+
+--2020-02-26 00:12:18--  http://www.mbdds.co.nz/pdf/PFP13080_ISOBUS_UserGuide.pdf%0D
+Resolving www.mbdds.co.nz (www.mbdds.co.nz)... 43.245.53.25
+Connecting to www.mbdds.co.nz (www.mbdds.co.nz)|43.245.53.25|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.mbdds.co.nz/mbddserrorhandler.php [following]
+--2020-02-26 00:12:18--  http://www.mbdds.co.nz/mbddserrorhandler.php
+Reusing existing connection to www.mbdds.co.nz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...                                          824M=0s
+
+2020-02-26 00:12:19 (824 Mb/s) - ‘/dev/null’ saved [13626]
+

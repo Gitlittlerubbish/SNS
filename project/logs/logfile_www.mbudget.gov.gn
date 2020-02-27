@@ -1,0 +1,108 @@
+--2020-02-25 22:39:15--  http://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf%0D
+Resolving www.mbudget.gov.gn (www.mbudget.gov.gn)... --2020-02-25 22:39:15--  http://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf%0D
+Resolving www.mbudget.gov.gn (www.mbudget.gov.gn)... 144.76.240.174
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:80... connected.
+HTTP request sent, awaiting response... 144.76.240.174
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf [following]
+--2020-02-25 22:39:16--  https://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:443... connected.
+301 Moved Permanently
+Location: https://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf [following]
+--2020-02-25 22:39:16--  https://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108927 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+HTTP request sent, awaiting response... 
+     0K .......... .......... .......... ..200 OK
+Length: 108927 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+........ .......... 47% 8.43M 0s
+    50K .......... .......... ..........
+     0K .......... .......... .......... .. .......... .......... 94% 16.9M 0s
+   100K ......                                                100% 6.17G=0.07s
+
+2020-02-25 22:39:16 (12.0 Mb/s) - ‘/dev/null’ saved [108927/108927]
+
+--2020-02-25 22:39:16--  http://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf%0D
+Resolving www.mbudget.gov.gn (www.mbudget.gov.gn)... 144.76.240.174
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:80... ........ .......... 47% 8.43M 0s
+    50K .......... .......... ..........connected.
+HTTP request sent, awaiting response...  .......... .......... 94% 16.9M 0s
+   100K ......                                                100% 5.65G=0.07s
+
+2020-02-25 22:39:16 (12.0 Mb/s) - ‘/dev/null’ saved [108927/108927]
+
+--2020-02-25 22:39:16--  http://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf%0D
+Resolving www.mbudget.gov.gn (www.mbudget.gov.gn)... 144.76.240.174
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf [following]
+--2020-02-25 22:39:17--  https://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:443... connected.
+301 Moved Permanently
+Location: https://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf [following]
+--2020-02-25 22:39:17--  https://www.mbudget.gov.gn/wp-content/uploads/2019/03/TOFE.pdf
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108927 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+HTTP request sent, awaiting response... 
+     0K .......... .......... .......... ..200 OK
+Length: 108927 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+........ .......... 47% 8.53M 0s
+    50K .......... .......... ..........
+     0K .......... .......... .......... .. .......... .......... 94% 17.0M 0s
+   100K ......                                                100% 1.84G=0.07s
+
+2020-02-25 22:39:17 (12.1 Mb/s) - ‘/dev/null’ saved [108927/108927]
+
+........ .......... 47% 8.40M 0s
+    50K .......... .......... .......... .......... .......... 94% 16.9M 0s
+   100K ......                                                100% 6.09G=0.07s
+
+2020-02-25 22:39:17 (11.9 Mb/s) - ‘/dev/null’ saved [108927/108927]
+
+--2020-02-25 22:39:18--  http://www.mbudget.gov.gn/wp-content/uploads/2017/10/LFI2018.pdf%0D
+Resolving www.mbudget.gov.gn (www.mbudget.gov.gn)... 144.76.240.174
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:39:19--  http://www.mbudget.gov.gn/wp-content/uploads/2017/10/LFI2018.pdf%0D
+Resolving www.mbudget.gov.gn (www.mbudget.gov.gn)... 144.76.240.174
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mbudget.gov.gn/wp-content/uploads/2017/10/LFI2018.pdf [following]
+--2020-02-25 22:39:19--  https://www.mbudget.gov.gn/wp-content/uploads/2017/10/LFI2018.pdf
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mbudget.gov.gn/wp-content/uploads/2017/10/LFI2018.pdf [following]
+--2020-02-25 22:39:20--  https://www.mbudget.gov.gn/wp-content/uploads/2017/10/LFI2018.pdf
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mbudget.gov.gn/wp-content/uploads/2017/10/LFI2018.pdf [following]
+--2020-02-25 22:39:20--  https://mbudget.gov.gn/wp-content/uploads/2017/10/LFI2018.pdf
+Resolving mbudget.gov.gn (mbudget.gov.gn)... 144.76.240.174
+Connecting to mbudget.gov.gn (mbudget.gov.gn)|144.76.240.174|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mbudget.gov.gn/wp-content/uploads/2017/10/LFI2018.pdf [following]
+--2020-02-25 22:39:21--  https://mbudget.gov.gn/wp-content/uploads/2017/10/LFI2018.pdf
+Resolving mbudget.gov.gn (mbudget.gov.gn)... 144.76.240.174
+Connecting to mbudget.gov.gn (mbudget.gov.gn)|144.76.240.174|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 22:39:24--  http://www.mbudget.gov.gn/wp-content/uploads/2017/09/rapportjuin2017.pdf%0D
+Resolving www.mbudget.gov.gn (www.mbudget.gov.gn)... 144.76.240.174
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:80... 2020-02-25 22:39:25 ERROR 404: Not Found.
+
+--2020-02-25 22:39:25--  http://www.mbudget.gov.gn/wp-content/uploads/2017/09/rapportjuin2017.pdf%0D
+Resolving www.mbudget.gov.gn (www.mbudget.gov.gn)... 144.76.240.174
+Connecting to www.mbudget.gov.gn (www.mbudget.gov.gn)|144.76.240.174|:80... failed: Connection timed out.
+Giving up.
+
+failed: Connection timed out.
+Giving up.
+

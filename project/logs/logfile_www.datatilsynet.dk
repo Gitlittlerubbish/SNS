@@ -1,0 +1,12 @@
+--2020-02-25 22:06:31--  https://www.datatilsynet.dk/media/6562/samtykke.pdf%0D
+Resolving www.datatilsynet.dk (www.datatilsynet.dk)... --2020-02-25 22:06:31--  https://www.datatilsynet.dk/media/6562/samtykke.pdf%0D
+Resolving www.datatilsynet.dk (www.datatilsynet.dk)... 185.21.41.86
+Connecting to www.datatilsynet.dk (www.datatilsynet.dk)|185.21.41.86|:443... 185.21.41.86
+Connecting to www.datatilsynet.dk (www.datatilsynet.dk)|185.21.41.86|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:06:31 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:06:31 ERROR 400: Bad Request.
+

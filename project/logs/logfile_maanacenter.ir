@@ -1,0 +1,10 @@
+--2020-02-25 22:54:27--  https://maanacenter.ir/up/niroyehal.pdf%0D
+Resolving maanacenter.ir (maanacenter.ir)... 148.251.237.248
+Connecting to maanacenter.ir (maanacenter.ir)|148.251.237.248|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://maanacenter.ir/%d8%b5%d9%81%d8%ad%d9%87-404/ [following]
+--2020-02-25 22:54:29--  https://maanacenter.ir/%d8%b5%d9%81%d8%ad%d9%87-404/
+Reusing existing connection to maanacenter.ir:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:54:31 ERROR 404: Not Found.
+

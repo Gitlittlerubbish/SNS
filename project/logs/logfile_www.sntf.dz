@@ -1,28 +1,12 @@
---2020-02-25 15:26:18--  https://www.sntf.dz/documents/tizi.pdf
+--2020-02-25 20:55:44--  https://www.sntf.dz/documents/tizi.pdf%0D
 Resolving www.sntf.dz (www.sntf.dz)... 82.196.25.84
 Connecting to www.sntf.dz (www.sntf.dz)|82.196.25.84|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 161167 (157K) [application/pdf]
-Saving to: ‘/dev/null’
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:55:44 ERROR 404: Not Found.
 
-     0K .......... .......... .......... .......... .......... 31% 3.54M 0s
-    50K .......... .......... .......... .......... .......... 63% 17.6M 0s
-   100K .......... .......... .......... .......... .......... 95% 17.4M 0s
-   150K .......                                               100%  480M=0.2s
-
-2020-02-25 15:26:19 (7.93 Mb/s) - ‘/dev/null’ saved [161167/161167]
-
---2020-02-25 15:26:19--  https://www.sntf.dz/documents/tizi.pdf
+--2020-02-25 20:55:44--  https://www.sntf.dz/documents/tizi.pdf%0D
 Resolving www.sntf.dz (www.sntf.dz)... 82.196.25.84
 Connecting to www.sntf.dz (www.sntf.dz)|82.196.25.84|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 161167 (157K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 31% 5.01M 0s
-    50K .......... .......... .......... .......... .......... 63% 11.8M 0s
-   100K .......... .......... .......... .......... .......... 95% 3.85M 0s
-   150K .......                                               100%  480M=0.2s
-
-2020-02-25 15:26:19 (5.78 Mb/s) - ‘/dev/null’ saved [161167/161167]
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:55:45 ERROR 404: Not Found.
 

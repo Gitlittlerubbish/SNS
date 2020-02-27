@@ -1,0 +1,12 @@
+--2020-02-25 23:00:13--  https://www.redditodicittadinanza.gov.it/docs/SR181_RdC_PdC_Com_Esteso.pdf%0D
+Resolving www.redditodicittadinanza.gov.it (www.redditodicittadinanza.gov.it)... 152.199.21.175
+Connecting to www.redditodicittadinanza.gov.it (www.redditodicittadinanza.gov.it)|152.199.21.175|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:13 ERROR 400: Bad Request.
+
+--2020-02-25 23:00:13--  https://www.redditodicittadinanza.gov.it/docs/SR182_RdC_PdC_Com_Ridotto.pdf%0D
+Resolving www.redditodicittadinanza.gov.it (www.redditodicittadinanza.gov.it)... 152.199.21.175
+Connecting to www.redditodicittadinanza.gov.it (www.redditodicittadinanza.gov.it)|152.199.21.175|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:13 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:07:01--  https://www.ektu.kz/MONRK/338.pdf%0D
+Resolving www.ektu.kz (www.ektu.kz)... 212.154.246.185
+Connecting to www.ektu.kz (www.ektu.kz)|212.154.246.185|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:07:02 ERROR 400: Bad Request.
+

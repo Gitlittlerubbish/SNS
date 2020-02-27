@@ -1,0 +1,12 @@
+--2020-02-25 21:11:16--  http://www.iba.bm/downloads/Response_Document_to_2012_Draft_Act_08_07_2013_Rev_1_18_04_2016.pdf%0D
+Resolving www.iba.bm (www.iba.bm)... 192.185.168.30
+Connecting to www.iba.bm (www.iba.bm)|192.185.168.30|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:17 ERROR 404: Not Found.
+
+--2020-02-25 21:20:11--  http://www.iba.bm/downloads/Response_Document_to_2012_Draft_Act_08_07_2013_Rev_1_18_04_2016.pdf%0D
+Resolving www.iba.bm (www.iba.bm)... 192.185.168.30
+Connecting to www.iba.bm (www.iba.bm)|192.185.168.30|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:11 ERROR 404: Not Found.
+

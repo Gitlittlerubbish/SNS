@@ -1,0 +1,12 @@
+--2020-02-25 21:09:36--  https://benindoingbusiness.bj/media/dec2009.pdf%0D
+Resolving benindoingbusiness.bj (benindoingbusiness.bj)... 46.4.18.138
+Connecting to benindoingbusiness.bj (benindoingbusiness.bj)|46.4.18.138|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:09:36 ERROR 400: Bad Request.
+
+--2020-02-25 21:19:05--  https://benindoingbusiness.bj/media/dec2009.pdf%0D
+Resolving benindoingbusiness.bj (benindoingbusiness.bj)... 46.4.18.138
+Connecting to benindoingbusiness.bj (benindoingbusiness.bj)|46.4.18.138|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:19:05 ERROR 400: Bad Request.
+

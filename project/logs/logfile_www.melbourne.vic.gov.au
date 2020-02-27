@@ -1,0 +1,12 @@
+--2020-02-25 20:59:09--  https://www.melbourne.vic.gov.au/SiteCollectionDocuments/sanitising.pdf%0D
+Resolving www.melbourne.vic.gov.au (www.melbourne.vic.gov.au)... 143.204.175.63, 143.204.175.86, 143.204.175.40, ...
+Connecting to www.melbourne.vic.gov.au (www.melbourne.vic.gov.au)|143.204.175.63|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:59:10 ERROR 400: Bad Request.
+
+--2020-02-25 21:11:17--  https://www.melbourne.vic.gov.au/SiteCollectionDocuments/sanitising.pdf%0D
+Resolving www.melbourne.vic.gov.au (www.melbourne.vic.gov.au)... 143.204.175.86, 143.204.175.53, 143.204.175.40, ...
+Connecting to www.melbourne.vic.gov.au (www.melbourne.vic.gov.au)|143.204.175.86|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:17 ERROR 400: Bad Request.
+

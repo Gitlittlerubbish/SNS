@@ -1,0 +1,60 @@
+--2020-02-25 22:23:04--  http://www.mementoslangues.fr/Chinois/HSK4/H41001.pdf%0D
+Resolving www.mementoslangues.fr (www.mementoslangues.fr)... 81.169.145.65
+Connecting to www.mementoslangues.fr (www.mementoslangues.fr)|81.169.145.65|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.mementoslangues.fr/ [following]
+--2020-02-25 22:23:04--  http://www.mementoslangues.fr/
+Reusing existing connection to www.mementoslangues.fr:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1233 (1.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 2.96G=0s
+
+2020-02-25 22:23:04 (2.96 Gb/s) - ‘/dev/null’ saved [1233/1233]
+
+--2020-02-25 22:23:04--  http://www.mementoslangues.fr/Chinois/HSK4/H41001.pdf%0D
+Resolving www.mementoslangues.fr (www.mementoslangues.fr)... 81.169.145.65
+Connecting to www.mementoslangues.fr (www.mementoslangues.fr)|81.169.145.65|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.mementoslangues.fr/ [following]
+--2020-02-25 22:23:04--  http://www.mementoslangues.fr/
+Reusing existing connection to www.mementoslangues.fr:80.
+HTTP request sent, awaiting response... --2020-02-25 22:23:04--  http://www.mementoslangues.fr/Chinois/HSK4/H41001.pdf%0D
+Resolving www.mementoslangues.fr (www.mementoslangues.fr)... 81.169.145.65
+Connecting to www.mementoslangues.fr (www.mementoslangues.fr)|81.169.145.65|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.mementoslangues.fr/ [following]
+--2020-02-25 22:23:04--  http://www.mementoslangues.fr/
+Reusing existing connection to www.mementoslangues.fr:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1233 (1.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 1.30G=0s
+
+2020-02-25 22:23:04 (1.30 Gb/s) - ‘/dev/null’ saved [1233/1233]
+
+200 OK
+Length: 1233 (1.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 2.69G=0s
+
+2020-02-25 22:23:05 (2.69 Gb/s) - ‘/dev/null’ saved [1233/1233]
+
+--2020-02-25 22:23:05--  http://www.mementoslangues.fr/Chinois/HSK4/H41001.pdf%0D
+Resolving www.mementoslangues.fr (www.mementoslangues.fr)... 81.169.145.65
+Connecting to www.mementoslangues.fr (www.mementoslangues.fr)|81.169.145.65|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.mementoslangues.fr/ [following]
+--2020-02-25 22:23:05--  http://www.mementoslangues.fr/
+Reusing existing connection to www.mementoslangues.fr:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1233 (1.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  878M=0s
+
+2020-02-25 22:23:05 (878 Mb/s) - ‘/dev/null’ saved [1233/1233]
+

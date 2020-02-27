@@ -1,0 +1,12 @@
+--2020-02-25 21:02:33--  http://supergreensolutions.com.bs/wp-content/uploads/2013/08/SolaireGeneration_Company_111014-Brochure.pdf%0D
+Resolving supergreensolutions.com.bs (supergreensolutions.com.bs)... 104.18.167.96, 104.18.165.96, 104.18.166.96, ...
+Connecting to supergreensolutions.com.bs (supergreensolutions.com.bs)|104.18.167.96|:80... connected.
+HTTP request sent, awaiting response... 520 
+2020-02-25 21:02:34 ERROR 520: (no description).
+
+--2020-02-25 21:13:53--  http://supergreensolutions.com.bs/wp-content/uploads/2013/08/SolaireGeneration_Company_111014-Brochure.pdf%0D
+Resolving supergreensolutions.com.bs (supergreensolutions.com.bs)... 104.18.166.96, 104.18.164.96, 104.18.168.96, ...
+Connecting to supergreensolutions.com.bs (supergreensolutions.com.bs)|104.18.166.96|:80... connected.
+HTTP request sent, awaiting response... 520 
+2020-02-25 21:13:54 ERROR 520: (no description).
+

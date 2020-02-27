@@ -1,0 +1,22 @@
+--2020-02-25 23:00:20--  http://www.siditalia.it/images/Intensive.pdf%0D
+Resolving www.siditalia.it (www.siditalia.it)... 192.124.249.2
+Connecting to www.siditalia.it (www.siditalia.it)|192.124.249.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      2.70G=0s
+
+2020-02-25 23:00:20 (2.70 Gb/s) - ‘/dev/null’ saved [1916]
+
+--2020-02-25 23:00:20--  http://www.siditalia.it/images/Intensive.pdf%0D
+Resolving www.siditalia.it (www.siditalia.it)... 192.124.249.2
+Connecting to www.siditalia.it (www.siditalia.it)|192.124.249.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      2.77G=0s
+
+2020-02-25 23:00:20 (2.77 Gb/s) - ‘/dev/null’ saved [1916]
+

@@ -1,0 +1,60 @@
+--2020-02-25 23:48:23--  http://dtn.fm/Wvn3T%0D
+Resolving dtn.fm (dtn.fm)... 72.47.244.99
+Connecting to dtn.fm (dtn.fm)|72.47.244.99|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dtn.fm [following]
+--2020-02-25 23:48:23--  http://dtn.fm/
+Reusing existing connection to dtn.fm:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 933 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 2.24G=0s
+
+2020-02-25 23:48:24 (2.24 Gb/s) - ‘/dev/null’ saved [933/933]
+
+--2020-02-25 23:48:24--  http://dtn.fm/Wvn3T%0D
+Resolving dtn.fm (dtn.fm)... 72.47.244.99
+Connecting to dtn.fm (dtn.fm)|72.47.244.99|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dtn.fm [following]
+--2020-02-25 23:48:24--  http://dtn.fm/
+Reusing existing connection to dtn.fm:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 933 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 2.28G=0s
+
+2020-02-25 23:48:24 (2.28 Gb/s) - ‘/dev/null’ saved [933/933]
+
+--2020-02-25 23:48:24--  http://dtn.fm/gDG4R%0D
+Resolving dtn.fm (dtn.fm)... 72.47.244.99
+Connecting to dtn.fm (dtn.fm)|72.47.244.99|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dtn.fm [following]
+--2020-02-25 23:48:24--  http://dtn.fm/
+Reusing existing connection to dtn.fm:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 933 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 2.37G=0s
+
+2020-02-25 23:48:24 (2.37 Gb/s) - ‘/dev/null’ saved [933/933]
+
+--2020-02-25 23:48:24--  http://dtn.fm/gDG4R%0D
+Resolving dtn.fm (dtn.fm)... 72.47.244.99
+Connecting to dtn.fm (dtn.fm)|72.47.244.99|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://dtn.fm [following]
+--2020-02-25 23:48:25--  http://dtn.fm/
+Reusing existing connection to dtn.fm:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 933 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  993M=0s
+
+2020-02-25 23:48:25 (993 Mb/s) - ‘/dev/null’ saved [933/933]
+

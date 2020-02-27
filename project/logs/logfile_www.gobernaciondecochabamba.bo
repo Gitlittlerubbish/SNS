@@ -1,0 +1,12 @@
+--2020-02-25 21:15:16--  http://www.gobernaciondecochabamba.bo/serving/file/892%0D
+Resolving www.gobernaciondecochabamba.bo (www.gobernaciondecochabamba.bo)... 181.115.157.85
+Connecting to www.gobernaciondecochabamba.bo (www.gobernaciondecochabamba.bo)|181.115.157.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:19 ERROR 404: Not Found.
+
+--2020-02-25 21:22:54--  http://www.gobernaciondecochabamba.bo/serving/file/892%0D
+Resolving www.gobernaciondecochabamba.bo (www.gobernaciondecochabamba.bo)... 181.115.157.85
+Connecting to www.gobernaciondecochabamba.bo (www.gobernaciondecochabamba.bo)|181.115.157.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:22:57 ERROR 404: Not Found.
+

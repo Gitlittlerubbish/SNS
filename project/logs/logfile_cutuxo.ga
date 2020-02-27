@@ -1,0 +1,12 @@
+--2020-02-25 22:25:51--  https://cutuxo.ga/digital803.pdf%0D
+Resolving cutuxo.ga (cutuxo.ga)... 185.53.177.31
+Connecting to cutuxo.ga (cutuxo.ga)|185.53.177.31|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘cutuxo.ga’.
+To connect to cutuxo.ga insecurely, use `--no-check-certificate'.
+--2020-02-25 22:25:52--  https://cutuxo.ga/digital803.pdf%0D
+Resolving cutuxo.ga (cutuxo.ga)... 185.53.177.31
+Connecting to cutuxo.ga (cutuxo.ga)|185.53.177.31|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘cutuxo.ga’.
+To connect to cutuxo.ga insecurely, use `--no-check-certificate'.

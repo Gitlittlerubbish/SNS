@@ -1,0 +1,6 @@
+--2020-02-26 00:10:51--  https://www.vel.nz/papers/Heimer2016.pdf%0D
+Resolving www.vel.nz (www.vel.nz)... 52.62.28.79
+Connecting to www.vel.nz (www.vel.nz)|52.62.28.79|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:10:52 ERROR 404: Not Found.
+

@@ -1,0 +1,68 @@
+--2020-02-25 22:06:30--  http://xnet.dkma.dk/indlaegsseddel/PdfFileServlet%3Fformulationid%3D430%26lang%3Dda%0D
+Resolving xnet.dkma.dk (xnet.dkma.dk)... 80.160.70.134
+Connecting to xnet.dkma.dk (xnet.dkma.dk)|80.160.70.134|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Could not parse String-Transport-Security header
+Location: http://xnet.dkma.dk/CBTLogon/?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000 [following]
+--2020-02-25 22:06:30--  http://xnet.dkma.dk/CBTLogon/?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000
+Reusing existing connection to xnet.dkma.dk:80.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Could not parse String-Transport-Security header
+Location: http://xnet.dkma.dk/CBTLogon/?TAM_OP=error&USERNAME=unauthenticated&ERROR_CODE=0x38cf0434 [following]
+--2020-02-25 22:06:30--  http://xnet.dkma.dk/CBTLogon/?TAM_OP=error&USERNAME=unauthenticated&ERROR_CODE=0x38cf0434
+Reusing existing connection to xnet.dkma.dk:80.
+HTTP request sent, awaiting response... 403 Forbidden
+Could not parse String-Transport-Security header
+2020-02-25 22:06:30 ERROR 403: Forbidden.
+
+--2020-02-25 22:06:30--  http://xnet.dkma.dk/indlaegsseddel/PdfFileServlet%3Fformulationid%3D2058%26lang%3Dda%0D
+Resolving xnet.dkma.dk (xnet.dkma.dk)... 80.160.70.134
+Connecting to xnet.dkma.dk (xnet.dkma.dk)|80.160.70.134|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Could not parse String-Transport-Security header
+Location: http://xnet.dkma.dk/CBTLogon/?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000 [following]
+--2020-02-25 22:06:30--  http://xnet.dkma.dk/CBTLogon/?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000
+Reusing existing connection to xnet.dkma.dk:80.
+HTTP request sent, awaiting response... --2020-02-25 22:06:30--  http://xnet.dkma.dk/indlaegsseddel/PdfFileServlet%3Fformulationid%3D430%26lang%3Dda%0D
+Resolving xnet.dkma.dk (xnet.dkma.dk)... 80.160.70.134
+Connecting to xnet.dkma.dk (xnet.dkma.dk)|80.160.70.134|:80... 302 Moved Temporarily
+Could not parse String-Transport-Security header
+Location: http://xnet.dkma.dk/CBTLogon/?TAM_OP=error&USERNAME=unauthenticated&ERROR_CODE=0x38cf0434 [following]
+--2020-02-25 22:06:30--  http://xnet.dkma.dk/CBTLogon/?TAM_OP=error&USERNAME=unauthenticated&ERROR_CODE=0x38cf0434
+Reusing existing connection to xnet.dkma.dk:80.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+Could not parse String-Transport-Security header
+2020-02-25 22:06:30 ERROR 403: Forbidden.
+
+302 Moved Temporarily
+Could not parse String-Transport-Security header
+Location: http://xnet.dkma.dk/CBTLogon/?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000 [following]
+--2020-02-25 22:06:30--  http://xnet.dkma.dk/CBTLogon/?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000
+Reusing existing connection to xnet.dkma.dk:80.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Could not parse String-Transport-Security header
+Location: http://xnet.dkma.dk/CBTLogon/?TAM_OP=error&USERNAME=unauthenticated&ERROR_CODE=0x38cf0434 [following]
+--2020-02-25 22:06:30--  http://xnet.dkma.dk/CBTLogon/?TAM_OP=error&USERNAME=unauthenticated&ERROR_CODE=0x38cf0434
+Reusing existing connection to xnet.dkma.dk:80.
+HTTP request sent, awaiting response... 403 Forbidden
+Could not parse String-Transport-Security header
+2020-02-25 22:06:30 ERROR 403: Forbidden.
+
+--2020-02-25 22:06:30--  http://xnet.dkma.dk/indlaegsseddel/PdfFileServlet%3Fformulationid%3D2058%26lang%3Dda%0D
+Resolving xnet.dkma.dk (xnet.dkma.dk)... 80.160.70.134
+Connecting to xnet.dkma.dk (xnet.dkma.dk)|80.160.70.134|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Could not parse String-Transport-Security header
+Location: http://xnet.dkma.dk/CBTLogon/?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000 [following]
+--2020-02-25 22:06:30--  http://xnet.dkma.dk/CBTLogon/?TAM_OP=login&USERNAME=unauthenticated&ERROR_CODE=0x00000000
+Reusing existing connection to xnet.dkma.dk:80.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Could not parse String-Transport-Security header
+Location: http://xnet.dkma.dk/CBTLogon/?TAM_OP=error&USERNAME=unauthenticated&ERROR_CODE=0x38cf0434 [following]
+--2020-02-25 22:06:30--  http://xnet.dkma.dk/CBTLogon/?TAM_OP=error&USERNAME=unauthenticated&ERROR_CODE=0x38cf0434
+Reusing existing connection to xnet.dkma.dk:80.
+HTTP request sent, awaiting response... 403 Forbidden
+Could not parse String-Transport-Security header
+2020-02-25 22:06:30 ERROR 403: Forbidden.
+

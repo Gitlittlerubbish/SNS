@@ -1,0 +1,11 @@
+--2020-02-25 23:49:01--  http://www.fier.fm/images/publicatie_volhoudbaarheid_def2.pdf%0D
+Resolving www.fier.fm (www.fier.fm)... 185.27.141.117
+Connecting to www.fier.fm (www.fier.fm)|185.27.141.117|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://arrangegroup.nl/images/publicatie_volhoudbaarheid_def2.pdf%0d [following]
+--2020-02-25 23:49:01--  https://arrangegroup.nl/images/publicatie_volhoudbaarheid_def2.pdf%0d
+Resolving arrangegroup.nl (arrangegroup.nl)... 185.27.141.117
+Connecting to arrangegroup.nl (arrangegroup.nl)|185.27.141.117|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:49:02 ERROR 404: Not Found.
+

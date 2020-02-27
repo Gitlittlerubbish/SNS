@@ -1,0 +1,12 @@
+--2020-02-25 22:11:46--  http://www.manpower.gov.eg/PDF/worker.pdf%0D
+Resolving www.manpower.gov.eg (www.manpower.gov.eg)... 62.139.5.133
+Connecting to www.manpower.gov.eg (www.manpower.gov.eg)|62.139.5.133|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:46 ERROR 400: Bad Request.
+
+--2020-02-25 22:11:46--  http://www.manpower.gov.eg/PDF/worker.pdf%0D
+Resolving www.manpower.gov.eg (www.manpower.gov.eg)... 62.139.5.133
+Connecting to www.manpower.gov.eg (www.manpower.gov.eg)|62.139.5.133|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:46 ERROR 400: Bad Request.
+

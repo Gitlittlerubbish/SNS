@@ -1,0 +1,10 @@
+--2020-02-25 23:26:17--  http://itgl.lu/wp-content/uploads/2015/04/DER_StnIntersex_Deu_Online.pdf%0D
+Resolving itgl.lu (itgl.lu)... 85.93.215.106
+Connecting to itgl.lu (itgl.lu)|85.93.215.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://itgl.lu/wp-content/uploads/2015/04/DER_StnIntersex_Deu_Online.pdf%0d [following]
+--2020-02-25 23:26:17--  https://itgl.lu/wp-content/uploads/2015/04/DER_StnIntersex_Deu_Online.pdf%0d
+Connecting to itgl.lu (itgl.lu)|85.93.215.106|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:26:19 ERROR 404: Not Found.
+

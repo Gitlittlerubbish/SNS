@@ -1,0 +1,12 @@
+--2020-02-25 21:56:16--  https://www.c-sgroup.cg/wp-content/uploads/2017/01/CS-FR-Airfoil-2015.pdf%0D
+--2020-02-25 21:56:16--  https://www.c-sgroup.cg/wp-content/uploads/2017/01/CS-FR-Airfoil-2015.pdf%0D
+Resolving www.c-sgroup.cg (www.c-sgroup.cg)... Resolving www.c-sgroup.cg (www.c-sgroup.cg)... 52.7.237.196, 34.207.40.40, 52.6.96.141
+Connecting to www.c-sgroup.cg (www.c-sgroup.cg)|52.7.237.196|:443... 34.207.40.40, 52.6.96.141, 52.7.237.196
+Connecting to www.c-sgroup.cg (www.c-sgroup.cg)|34.207.40.40|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 502 Bad Gateway
+2020-02-25 21:56:17 ERROR 502: Bad Gateway.
+
+502 Bad Gateway
+2020-02-25 21:56:17 ERROR 502: Bad Gateway.
+

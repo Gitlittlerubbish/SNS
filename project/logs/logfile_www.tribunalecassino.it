@@ -1,0 +1,6 @@
+--2020-02-25 23:00:19--  http://www.tribunalecassino.it/allegatinews/A_16942.pdf%0D
+Resolving www.tribunalecassino.it (www.tribunalecassino.it)... 89.46.68.150
+Connecting to www.tribunalecassino.it (www.tribunalecassino.it)|89.46.68.150|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:19 ERROR 400: Bad Request.
+

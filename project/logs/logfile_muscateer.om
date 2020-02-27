@@ -1,0 +1,38 @@
+--2020-02-26 00:23:15--  https://muscateer.om/uploads/event_brochure/brochure1564465320.pdf%0D
+Resolving muscateer.om (muscateer.om)... 104.28.21.60, 104.28.20.60
+Connecting to muscateer.om (muscateer.om)|104.28.21.60|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://muscateer.om/en/404 [following]
+--2020-02-26 00:23:15--  http://muscateer.om/en/404
+Connecting to muscateer.om (muscateer.om)|104.28.21.60|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://muscateer.om/en/404 [following]
+--2020-02-26 00:23:15--  https://muscateer.om/en/404
+Connecting to muscateer.om (muscateer.om)|104.28.21.60|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                              1.50G=0s
+
+2020-02-26 00:23:16 (1.50 Gb/s) - ‘/dev/null’ saved [23832]
+
+--2020-02-26 00:23:16--  https://muscateer.om/uploads/event_brochure/brochure1564465320.pdf%0D
+Resolving muscateer.om (muscateer.om)... 104.28.21.60, 104.28.20.60
+Connecting to muscateer.om (muscateer.om)|104.28.21.60|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://muscateer.om/en/404 [following]
+--2020-02-26 00:23:16--  http://muscateer.om/en/404
+Connecting to muscateer.om (muscateer.om)|104.28.21.60|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://muscateer.om/en/404 [following]
+--2020-02-26 00:23:16--  https://muscateer.om/en/404
+Connecting to muscateer.om (muscateer.om)|104.28.21.60|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                              97.5M=0.002s
+
+2020-02-26 00:23:16 (97.5 Mb/s) - ‘/dev/null’ saved [23832]
+

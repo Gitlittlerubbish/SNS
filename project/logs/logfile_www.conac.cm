@@ -1,0 +1,12 @@
+--2020-02-25 21:34:58--  http://www.conac.cm/pdf/NOTE_DE_PRESENTATION_DU_RAPPORT_2013_DE_LA_CONAC.pdf%0D
+Resolving www.conac.cm (www.conac.cm)... 195.24.207.252
+Connecting to www.conac.cm (www.conac.cm)|195.24.207.252|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:01 ERROR 404: Not Found.
+
+--2020-02-25 21:37:15--  http://www.conac.cm/pdf/NOTE_DE_PRESENTATION_DU_RAPPORT_2013_DE_LA_CONAC.pdf%0D
+Resolving www.conac.cm (www.conac.cm)... 195.24.207.252
+Connecting to www.conac.cm (www.conac.cm)|195.24.207.252|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:16 ERROR 404: Not Found.
+

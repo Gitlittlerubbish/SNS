@@ -1,0 +1,6 @@
+--2020-02-26 00:25:20--  http://online.pnc.org.pk/RevisedChallan.pdf%0D
+Resolving online.pnc.org.pk (online.pnc.org.pk)... 104.31.73.213, 104.31.72.213
+Connecting to online.pnc.org.pk (online.pnc.org.pk)|104.31.73.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:25:20 ERROR 404: Not Found.
+

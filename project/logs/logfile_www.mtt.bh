@@ -1,0 +1,30 @@
+--2020-02-25 21:03:05--  http://www.mtt.bh/sites/default/files/cap20.pdf%0D
+Resolving www.mtt.bh (www.mtt.bh)... 192.124.249.68
+Connecting to www.mtt.bh (www.mtt.bh)|192.124.249.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://mtt.gov.bh/sites/default/files/cap20.pdf%0D [following]
+--2020-02-25 21:03:05--  http://mtt.gov.bh/sites/default/files/cap20.pdf%0D
+Resolving mtt.gov.bh (mtt.gov.bh)... 192.124.249.68
+Reusing existing connection to www.mtt.bh:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mtt.gov.bh/sites/default/files/cap20.pdf%0D [following]
+--2020-02-25 21:03:05--  https://mtt.gov.bh/sites/default/files/cap20.pdf%0D
+Connecting to mtt.gov.bh (mtt.gov.bh)|192.124.249.68|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:03:05 ERROR 403: Forbidden.
+
+--2020-02-25 21:14:24--  http://www.mtt.bh/sites/default/files/cap20.pdf%0D
+Resolving www.mtt.bh (www.mtt.bh)... 192.124.249.68
+Connecting to www.mtt.bh (www.mtt.bh)|192.124.249.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://mtt.gov.bh/sites/default/files/cap20.pdf%0D [following]
+--2020-02-25 21:14:24--  http://mtt.gov.bh/sites/default/files/cap20.pdf%0D
+Resolving mtt.gov.bh (mtt.gov.bh)... 192.124.249.68
+Reusing existing connection to www.mtt.bh:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mtt.gov.bh/sites/default/files/cap20.pdf%0D [following]
+--2020-02-25 21:14:24--  https://mtt.gov.bh/sites/default/files/cap20.pdf%0D
+Connecting to mtt.gov.bh (mtt.gov.bh)|192.124.249.68|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:14:24 ERROR 403: Forbidden.
+

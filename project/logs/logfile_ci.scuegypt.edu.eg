@@ -1,0 +1,12 @@
+--2020-02-25 22:11:48--  http://ci.scuegypt.edu.eg/%25D8%25A7%25D9%2584%25D9%2581%25D8%25B1%25D9%2582%25D8%25A9_%25D8%25A7%25D9%2584%25D8%25A3%25D9%2588%25D9%2584%25D9%2589_%25D9%2583%25D8%25A7%25D9%2585%25D9%2584%25D8%25A9.pdf%0D
+Resolving ci.scuegypt.edu.eg (ci.scuegypt.edu.eg)... --2020-02-25 22:11:48--  http://ci.scuegypt.edu.eg/%25D8%25A7%25D9%2584%25D9%2581%25D8%25B1%25D9%2582%25D8%25A9_%25D8%25A7%25D9%2584%25D8%25A3%25D9%2588%25D9%2584%25D9%2589_%25D9%2583%25D8%25A7%25D9%2585%25D9%2584%25D8%25A9.pdf%0D
+Resolving ci.scuegypt.edu.eg (ci.scuegypt.edu.eg)... 193.227.19.100
+Connecting to ci.scuegypt.edu.eg (ci.scuegypt.edu.eg)|193.227.19.100|:80... 193.227.19.100
+Connecting to ci.scuegypt.edu.eg (ci.scuegypt.edu.eg)|193.227.19.100|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:11:48 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:11:48 ERROR 404: Not Found.
+

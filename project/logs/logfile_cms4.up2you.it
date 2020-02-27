@@ -1,0 +1,6 @@
+--2020-02-25 23:00:40--  https://cms4.up2you.it/corso/asset/YTo0OntzOjI6ImlkIjtzOjM6IjkzOCI7czozOiJpZGEiO3M6NToiMjA5MDUiO3M6MjoiZW0iO047czoxOiJjIjtzOjU6ImNmY2QyIjt9%0D
+Resolving cms4.up2you.it (cms4.up2you.it)... 160.80.46.15
+Connecting to cms4.up2you.it (cms4.up2you.it)|160.80.46.15|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘cms4.up2you.it’.
+To connect to cms4.up2you.it insecurely, use `--no-check-certificate'.

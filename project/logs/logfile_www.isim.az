@@ -1,0 +1,12 @@
+--2020-02-25 21:01:19--  https://www.isim.az/upload/File/reports/84_tehlikesiz_abort.pdf%0D
+Resolving www.isim.az (www.isim.az)... 104.27.156.176, 104.27.157.176
+Connecting to www.isim.az (www.isim.az)|104.27.156.176|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:19 ERROR 404: Not Found.
+
+--2020-02-25 21:12:52--  https://www.isim.az/upload/File/reports/84_tehlikesiz_abort.pdf%0D
+Resolving www.isim.az (www.isim.az)... 104.27.157.176, 104.27.156.176
+Connecting to www.isim.az (www.isim.az)|104.27.157.176|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:52 ERROR 404: Not Found.
+

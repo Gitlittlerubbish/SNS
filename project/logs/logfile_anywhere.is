@@ -1,0 +1,80 @@
+--2020-02-25 22:48:50--  http://anywhere.is/downloads/2019/OOBBudgetStudy.pdf%0D
+Resolving anywhere.is (anywhere.is)... 108.179.217.177
+Connecting to anywhere.is (anywhere.is)|108.179.217.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anywhere.is/downloads/2019/OOBBudgetStudy.pdf [following]
+--2020-02-25 22:48:53--  https://anywhere.is/downloads/2019/OOBBudgetStudy.pdf
+Connecting to anywhere.is (anywhere.is)|108.179.217.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256561 (251K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.30M 1s
+    50K .......... .......... .......... .......... .......... 39% 3.89M 1s
+   100K .......... .......... .......... .......... .......... 59% 1.95M 0s
+   150K .......... .......... .......... .......... .......... 79% 3.90M 0s
+   200K .......... .......... .......... .......... .......... 99% 3.89M 0s
+   250K                                                       100% 8976G=0.8s
+
+2020-02-25 22:48:54 (2.44 Mb/s) - ‘/dev/null’ saved [256561/256561]
+
+--2020-02-25 22:48:54--  http://anywhere.is/downloads/2019/OOBBudgetStudy.pdf%0D
+Resolving anywhere.is (anywhere.is)... 108.179.217.177
+Connecting to anywhere.is (anywhere.is)|108.179.217.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anywhere.is/downloads/2019/OOBBudgetStudy.pdf [following]
+--2020-02-25 22:48:55--  https://anywhere.is/downloads/2019/OOBBudgetStudy.pdf
+Connecting to anywhere.is (anywhere.is)|108.179.217.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256561 (251K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.29M 1s
+    50K .......... .......... .......... .......... .......... 39% 3.86M 1s
+   100K .......... .......... .......... .......... .......... 59% 3.86M 0s
+   150K .......... .......... .......... .......... .......... 79% 2.85M 0s
+   200K .......... .......... .......... .......... .......... 99% 5.94M 0s
+   250K                                                       100% 8976G=0.7s
+
+2020-02-25 22:48:56 (2.76 Mb/s) - ‘/dev/null’ saved [256561/256561]
+
+--2020-02-25 22:48:58--  http://anywhere.is/downloads/2019/OOBBudgetStudy.pdf%0D
+Resolving anywhere.is (anywhere.is)... 108.179.217.177
+Connecting to anywhere.is (anywhere.is)|108.179.217.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anywhere.is/downloads/2019/OOBBudgetStudy.pdf [following]
+--2020-02-25 22:48:59--  https://anywhere.is/downloads/2019/OOBBudgetStudy.pdf
+Connecting to anywhere.is (anywhere.is)|108.179.217.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256561 (251K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.29M 1s
+    50K .......... .......... .......... .......... .......... 39% 1.93M 1s
+   100K .......... .......... .......... .......... .......... 59% 3.86M 0s
+   150K .......... .......... .......... .......... .......... 79% 3.86M 0s
+   200K .......... .......... .......... .......... .......... 99% 11.2M 0s
+   250K                                                       100% 8976G=0.8s
+
+2020-02-25 22:49:01 (2.63 Mb/s) - ‘/dev/null’ saved [256561/256561]
+
+--2020-02-25 22:49:01--  http://anywhere.is/downloads/2019/OOBBudgetStudy.pdf%0D
+Resolving anywhere.is (anywhere.is)... 108.179.217.177
+Connecting to anywhere.is (anywhere.is)|108.179.217.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anywhere.is/downloads/2019/OOBBudgetStudy.pdf [following]
+--2020-02-25 22:49:02--  https://anywhere.is/downloads/2019/OOBBudgetStudy.pdf
+Connecting to anywhere.is (anywhere.is)|108.179.217.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256561 (251K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.30M 1s
+    50K .......... .......... .......... .......... .......... 39% 1.95M 1s
+   100K .......... .......... .......... .......... .......... 59% 1.95M 0s
+   150K .......... .......... .......... .......... .......... 79% 3.90M 0s
+   200K .......... .......... .......... .......... .......... 99% 3.91M 0s
+   250K                                                       100% 8976G=0.9s
+
+2020-02-25 22:49:03 (2.17 Mb/s) - ‘/dev/null’ saved [256561/256561]
+

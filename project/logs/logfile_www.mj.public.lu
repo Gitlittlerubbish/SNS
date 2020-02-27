@@ -1,0 +1,34 @@
+--2020-02-25 23:26:16--  http://www.mj.public.lu/legislation/commerciale/GT1_QA_002-14_Admissibilite_du_modele_de_la_reevaluation-Immo_corp.pdf%0D
+Resolving www.mj.public.lu (www.mj.public.lu)... 194.154.200.74
+Connecting to www.mj.public.lu (www.mj.public.lu)|194.154.200.74|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://mj.public.lu/legislation/commerciale/GT1_QA_002-14_Admissibilite_du_modele_de_la_reevaluation-Immo_corp.pdf [following]
+--2020-02-25 23:26:16--  http://mj.public.lu/legislation/commerciale/GT1_QA_002-14_Admissibilite_du_modele_de_la_reevaluation-Immo_corp.pdf
+Resolving mj.public.lu (mj.public.lu)... 194.154.200.74
+Reusing existing connection to www.mj.public.lu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 69306 (68K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73% 11.6M 0s
+    50K .......... .......                                    100% 13.1M=0.05s
+
+2020-02-25 23:26:16 (12.0 Mb/s) - ‘/dev/null’ saved [69306/69306]
+
+--2020-02-25 23:26:16--  http://www.mj.public.lu/legislation/commerciale/GT1_QA_002-14_Admissibilite_du_modele_de_la_reevaluation-Immo_corp.pdf%0D
+Resolving www.mj.public.lu (www.mj.public.lu)... 194.154.200.74
+Connecting to www.mj.public.lu (www.mj.public.lu)|194.154.200.74|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://mj.public.lu/legislation/commerciale/GT1_QA_002-14_Admissibilite_du_modele_de_la_reevaluation-Immo_corp.pdf [following]
+--2020-02-25 23:26:16--  http://mj.public.lu/legislation/commerciale/GT1_QA_002-14_Admissibilite_du_modele_de_la_reevaluation-Immo_corp.pdf
+Resolving mj.public.lu (mj.public.lu)... 194.154.200.74
+Reusing existing connection to www.mj.public.lu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 69306 (68K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73% 12.3M 0s
+    50K .......... .......                                    100% 12.9M=0.04s
+
+2020-02-25 23:26:16 (12.5 Mb/s) - ‘/dev/null’ saved [69306/69306]
+

@@ -1,0 +1,128 @@
+--2020-02-25 21:47:41--  http://www.snc.cx/pdf/ccs.pdf%0D
+Resolving www.snc.cx (www.snc.cx)... 62.210.16.61
+Connecting to www.snc.cx (www.snc.cx)|62.210.16.61|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.snc.fr/erreur.htm [following]
+--2020-02-25 21:47:41--  http://www.snc.fr/erreur.htm
+Resolving www.snc.fr (www.snc.fr)... 72.55.186.51
+Connecting to www.snc.fr (www.snc.fr)|72.55.186.51|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 21:47:41--  http://www.snc.cx/pdf/ccs.pdf%0D
+Resolving www.snc.cx (www.snc.cx)... 62.210.16.61
+Connecting to www.snc.cx (www.snc.cx)|62.210.16.61|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.snc.fr/erreur.htm [following]
+--2020-02-25 21:47:41--  http://www.snc.fr/erreur.htm
+Resolving www.snc.fr (www.snc.fr)... 72.55.186.51
+Connecting to www.snc.fr (www.snc.fr)|72.55.186.51|:80... 200 OK
+Length: 5059 (4.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100% 7.47G=0s
+
+2020-02-25 21:47:41 (7.47 Gb/s) - ‘/dev/null’ saved [5059/5059]
+
+--2020-02-25 21:47:41--  http://www.snc.cx/pdf/ccs.pdf%0D
+Resolving www.snc.cx (www.snc.cx)... 62.210.16.61
+Connecting to www.snc.cx (www.snc.cx)|62.210.16.61|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.snc.fr/erreur.htm [following]
+--2020-02-25 21:47:41--  http://www.snc.fr/erreur.htm
+Resolving www.snc.fr (www.snc.fr)... 72.55.186.51
+Connecting to www.snc.fr (www.snc.fr)|72.55.186.51|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5059 (4.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100% 1.82G=0s
+
+2020-02-25 21:47:41 (1.82 Gb/s) - ‘/dev/null’ saved [5059/5059]
+
+--2020-02-25 21:47:41--  http://www.snc.cx/pdf/ccs.pdf%0D
+Resolving www.snc.cx (www.snc.cx)... 62.210.16.61
+Connecting to www.snc.cx (www.snc.cx)|62.210.16.61|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.snc.fr/erreur.htm [following]
+--2020-02-25 21:47:41--  http://www.snc.fr/erreur.htm
+Resolving www.snc.fr (www.snc.fr)... 72.55.186.51
+Connecting to www.snc.fr (www.snc.fr)|72.55.186.51|:80... 200 OK
+Length: 5059 (4.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100%  881M=0s
+
+2020-02-25 21:47:41 (881 Mb/s) - ‘/dev/null’ saved [5059/5059]
+
+--2020-02-25 21:47:41--  http://www.snc.cx/pdf/siresirac.pdf%0D
+Resolving www.snc.cx (www.snc.cx)... 62.210.16.61
+Connecting to www.snc.cx (www.snc.cx)|62.210.16.61|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.snc.fr/erreur.htm [following]
+--2020-02-25 21:47:41--  http://www.snc.fr/erreur.htm
+Resolving www.snc.fr (www.snc.fr)... 72.55.186.51
+Connecting to www.snc.fr (www.snc.fr)|72.55.186.51|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5059 (4.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100% 7.28G=0s
+
+2020-02-25 21:47:42 (7.28 Gb/s) - ‘/dev/null’ saved [5059/5059]
+
+--2020-02-25 21:47:42--  http://www.snc.cx/pdf/siresirac.pdf%0D
+Resolving www.snc.cx (www.snc.cx)... 62.210.16.61
+Connecting to www.snc.cx (www.snc.cx)|62.210.16.61|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.snc.fr/erreur.htm [following]
+--2020-02-25 21:47:42--  http://www.snc.fr/erreur.htm
+Resolving www.snc.fr (www.snc.fr)... 72.55.186.51
+Connecting to www.snc.fr (www.snc.fr)|72.55.186.51|:80... 200 OK
+Length: 5059 (4.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100% 1.89G=0s
+
+2020-02-25 21:47:42 (1.89 Gb/s) - ‘/dev/null’ saved [5059/5059]
+
+--2020-02-25 21:47:42--  http://www.snc.cx/pdf/siresirac.pdf%0D
+Resolving www.snc.cx (www.snc.cx)... 62.210.16.61
+Connecting to www.snc.cx (www.snc.cx)|62.210.16.61|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.snc.fr/erreur.htm [following]
+--2020-02-25 21:47:42--  http://www.snc.fr/erreur.htm
+Resolving www.snc.fr (www.snc.fr)... 72.55.186.51
+Connecting to www.snc.fr (www.snc.fr)|72.55.186.51|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5059 (4.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100% 8.77G=0s
+
+2020-02-25 21:47:42 (8.77 Gb/s) - ‘/dev/null’ saved [5059/5059]
+
+--2020-02-25 21:47:42--  http://www.snc.cx/pdf/siresirac.pdf%0D
+Resolving www.snc.cx (www.snc.cx)... 62.210.16.61
+Connecting to www.snc.cx (www.snc.cx)|62.210.16.61|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.snc.fr/erreur.htm [following]
+--2020-02-25 21:47:42--  http://www.snc.fr/erreur.htm
+Resolving www.snc.fr (www.snc.fr)... 72.55.186.51
+Connecting to www.snc.fr (www.snc.fr)|72.55.186.51|:80... 200 OK
+Length: 5059 (4.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100% 8.52G=0s
+
+2020-02-25 21:47:42 (8.52 Gb/s) - ‘/dev/null’ saved [5059/5059]
+
+connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5059 (4.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100% 7.64G=0s
+
+2020-02-25 21:47:42 (7.64 Gb/s) - ‘/dev/null’ saved [5059/5059]
+

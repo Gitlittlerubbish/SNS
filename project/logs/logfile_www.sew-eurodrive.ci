@@ -1,0 +1,66 @@
+--2020-02-25 21:59:19--  http://www.sew-eurodrive.ci/download/pdf/09229019.pdf%0D
+Resolving www.sew-eurodrive.ci (www.sew-eurodrive.ci)... 104.86.128.177
+Connecting to www.sew-eurodrive.ci (www.sew-eurodrive.ci)|104.86.128.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sew-eurodrive.ci/os/dud/?tab=documents [following]
+--2020-02-25 21:59:19--  https://www.sew-eurodrive.ci/os/dud/?tab=documents
+Connecting to www.sew-eurodrive.ci (www.sew-eurodrive.ci)|104.86.128.177|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 21:59:19--  http://www.sew-eurodrive.ci/download/pdf/09229019.pdf%0D
+Resolving www.sew-eurodrive.ci (www.sew-eurodrive.ci)... 104.86.128.177
+Connecting to www.sew-eurodrive.ci (www.sew-eurodrive.ci)|104.86.128.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sew-eurodrive.ci/os/dud/?tab=documents [following]
+--2020-02-25 21:59:19--  https://www.sew-eurodrive.ci/os/dud/?tab=documents
+Connecting to www.sew-eurodrive.ci (www.sew-eurodrive.ci)|104.86.128.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12.9M
+    50K .......... .......... .                                5.73M=0.06s
+
+2020-02-25 21:59:19 (9.34 Mb/s) - ‘/dev/null’ saved [73565]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 21:59:19--  https://www.sew-eurodrive.ci/download/pdf/09229019.pdf%0D
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...Resolving www.sew-eurodrive.ci (www.sew-eurodrive.ci)... 104.86.128.177
+Connecting to www.sew-eurodrive.ci (www.sew-eurodrive.ci)|104.86.128.177|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sew-eurodrive.ci/os/dud/?tab=documents [following]
+--2020-02-25 21:59:19--  https://www.sew-eurodrive.ci/os/dud/?tab=documents
+Reusing existing connection to www.sew-eurodrive.ci:443.
+HTTP request sent, awaiting response... ....... 24.5M
+    50K .......... .......... .                                2.16M=0.1s
+
+2020-02-25 21:59:19 (5.92 Mb/s) - ‘/dev/null’ saved [73565]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 21:59:19--  https://www.sew-eurodrive.ci/download/pdf/09229019.pdf%0D
+Resolving www.sew-eurodrive.ci (www.sew-eurodrive.ci)... 104.86.128.177
+Connecting to www.sew-eurodrive.ci (www.sew-eurodrive.ci)|104.86.128.177|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sew-eurodrive.ci/os/dud/?tab=documents [following]
+--2020-02-25 21:59:19--  https://www.sew-eurodrive.ci/os/dud/?tab=documents
+Reusing existing connection to www.sew-eurodrive.ci:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  134M
+    50K .......... .......... .                                4.01M=0.05s
+
+2020-02-25 21:59:19 (12.3 Mb/s) - ‘/dev/null’ saved [73565]
+
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  356M
+    50K .......... .......... .                                4.53M=0.04s
+
+2020-02-25 21:59:19 (14.5 Mb/s) - ‘/dev/null’ saved [73565]
+

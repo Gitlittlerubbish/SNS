@@ -1,0 +1,12 @@
+--2020-02-25 21:46:51--  http://www.diab.net.cn/x_uploadfiles/2010ADAguideline.pdf%0D
+Resolving www.diab.net.cn (www.diab.net.cn)... --2020-02-25 21:46:51--  http://www.diab.net.cn/x_uploadfiles/2010ADAguideline.pdf%0D
+Resolving www.diab.net.cn (www.diab.net.cn)... 47.89.55.61
+Connecting to www.diab.net.cn (www.diab.net.cn)|47.89.55.61|:80... 47.89.55.61
+Connecting to www.diab.net.cn (www.diab.net.cn)|47.89.55.61|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:52 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 21:46:52 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:35:54--  https://www.idep.gob.pe/normas/ISO_19152.pdf%0D
+Resolving www.idep.gob.pe (www.idep.gob.pe)... 209.45.65.244
+Connecting to www.idep.gob.pe (www.idep.gob.pe)|209.45.65.244|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:35:55 ERROR 400: Bad Request.
+

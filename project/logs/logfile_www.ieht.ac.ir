@@ -1,0 +1,6 @@
+--2020-02-25 22:55:02--  http://www.ieht.ac.ir/uploads/1_24_D13.pdf%0D
+Resolving www.ieht.ac.ir (www.ieht.ac.ir)... 79.175.145.53
+Connecting to www.ieht.ac.ir (www.ieht.ac.ir)|79.175.145.53|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:55:03 ERROR 400: Bad Request.
+

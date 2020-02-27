@@ -1,0 +1,12 @@
+--2020-02-25 21:11:35--  http://www.franklincovey.bm/docs/ss_7H-Managers.pdf%0D
+Resolving www.franklincovey.bm (www.franklincovey.bm)... 65.254.227.240
+Connecting to www.franklincovey.bm (www.franklincovey.bm)|65.254.227.240|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:36 ERROR 400: Bad Request.
+
+--2020-02-25 21:20:25--  http://www.franklincovey.bm/docs/ss_7H-Managers.pdf%0D
+Resolving www.franklincovey.bm (www.franklincovey.bm)... 65.254.227.240
+Connecting to www.franklincovey.bm (www.franklincovey.bm)|65.254.227.240|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:20:25 ERROR 400: Bad Request.
+

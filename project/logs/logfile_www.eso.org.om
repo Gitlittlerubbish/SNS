@@ -1,0 +1,32 @@
+--2020-02-26 00:23:41--  http://www.eso.org.om/UserFiles/files/Accountant.pdf%0D
+Resolving www.eso.org.om (www.eso.org.om)... 67.43.12.195
+Connecting to www.eso.org.om (www.eso.org.om)|67.43.12.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.eso.org.om/index/error.php [following]
+--2020-02-26 00:23:42--  http://www.eso.org.om/index/error.php
+Reusing existing connection to www.eso.org.om:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.13M
+    50K                                                         176M=0.2s
+
+2020-02-26 00:23:42 (2.16 Mb/s) - ‘/dev/null’ saved [51793]
+
+--2020-02-26 00:23:42--  http://www.eso.org.om/UserFiles/files/Accountant.pdf%0D
+Resolving www.eso.org.om (www.eso.org.om)... 67.43.12.195
+Connecting to www.eso.org.om (www.eso.org.om)|67.43.12.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.eso.org.om/index/error.php [following]
+--2020-02-26 00:23:43--  http://www.eso.org.om/index/error.php
+Reusing existing connection to www.eso.org.om:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.11M
+    50K                                                         362M=0.2s
+
+2020-02-26 00:23:43 (2.13 Mb/s) - ‘/dev/null’ saved [51793]
+

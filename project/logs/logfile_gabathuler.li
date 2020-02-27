@@ -1,0 +1,42 @@
+--2020-02-25 23:24:34--  http://gabathuler.li/history/2005IndividualResults.pdf%0D
+Resolving gabathuler.li (gabathuler.li)... 80.74.142.120
+Connecting to gabathuler.li (gabathuler.li)|80.74.142.120|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://gabathuler.li/ [following]
+--2020-02-25 23:24:36--  http://gabathuler.li/
+Reusing existing connection to gabathuler.li:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.4M
+    50K .......... .......... .......... .......... .......... 20.6M
+   100K .......... .......... .......... .......... .......... 1.29G
+   150K .......... .......... .......... .......... .......... 21.0M
+   200K .......... .......... .......... .......... .......... 1.28G
+   250K .......... .......... .......... .......... ..........  944M
+   300K ....                                                   1.34G=0.08s
+
+2020-02-25 23:24:37 (31.2 Mb/s) - ‘/dev/null’ saved [312023]
+
+--2020-02-25 23:24:37--  http://gabathuler.li/history/2005IndividualResults.pdf%0D
+Resolving gabathuler.li (gabathuler.li)... 80.74.142.120
+Connecting to gabathuler.li (gabathuler.li)|80.74.142.120|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://gabathuler.li/ [following]
+--2020-02-25 23:24:37--  http://gabathuler.li/
+Reusing existing connection to gabathuler.li:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.1M
+    50K .......... .......... .......... .......... .......... 20.3M
+   100K .......... .......... .......... .......... ..........  851M
+   150K .......... .......... .......... .......... .......... 20.7M
+   200K .......... .......... .......... .......... .......... 1.36G
+   250K .......... .......... .......... .......... ..........  974M
+   300K ....                                                    952M=0.08s
+
+2020-02-25 23:24:39 (30.6 Mb/s) - ‘/dev/null’ saved [312023]
+

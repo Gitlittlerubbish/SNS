@@ -1,0 +1,6 @@
+--2020-02-25 23:16:33--  http://www.nas.com.kw/uploads/NAS%2520Brochure.pdf%0D
+Resolving www.nas.com.kw (www.nas.com.kw)... 40.115.54.130
+Connecting to www.nas.com.kw (www.nas.com.kw)|40.115.54.130|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:16:33 ERROR 400: Bad Request.
+

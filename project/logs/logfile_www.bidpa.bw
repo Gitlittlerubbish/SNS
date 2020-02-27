@@ -1,0 +1,24 @@
+--2020-02-25 21:17:53--  https://www.bidpa.bw/img_upload/pubdoc_67.pdf%0D
+Resolving www.bidpa.bw (www.bidpa.bw)... 172.104.48.73
+Connecting to www.bidpa.bw (www.bidpa.bw)|172.104.48.73|:443... connected.
+ERROR: cannot verify www.bidpa.bw's certificate, issued by ‘CN=bidpa.bw’:
+  Self-signed certificate encountered.
+To connect to www.bidpa.bw insecurely, use `--no-check-certificate'.
+--2020-02-25 21:17:53--  http://www.bidpa.bw/img_upload/pubdoc_44.pdf%0D
+Resolving www.bidpa.bw (www.bidpa.bw)... 172.104.48.73
+Connecting to www.bidpa.bw (www.bidpa.bw)|172.104.48.73|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:54 ERROR 404: Not Found.
+
+--2020-02-25 21:24:54--  https://www.bidpa.bw/img_upload/pubdoc_67.pdf%0D
+Resolving www.bidpa.bw (www.bidpa.bw)... 172.104.48.73
+Connecting to www.bidpa.bw (www.bidpa.bw)|172.104.48.73|:443... connected.
+ERROR: cannot verify www.bidpa.bw's certificate, issued by ‘CN=bidpa.bw’:
+  Self-signed certificate encountered.
+To connect to www.bidpa.bw insecurely, use `--no-check-certificate'.
+--2020-02-25 21:24:54--  http://www.bidpa.bw/img_upload/pubdoc_44.pdf%0D
+Resolving www.bidpa.bw (www.bidpa.bw)... 172.104.48.73
+Connecting to www.bidpa.bw (www.bidpa.bw)|172.104.48.73|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:55 ERROR 404: Not Found.
+

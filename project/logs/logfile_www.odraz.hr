@@ -1,0 +1,12 @@
+--2020-02-25 22:01:18--  http://www.odraz.hr/media/204923/guidance_clld_local_actors_hr.pdf%0D
+Resolving www.odraz.hr (www.odraz.hr)... --2020-02-25 22:01:18--  http://www.odraz.hr/media/204923/guidance_clld_local_actors_hr.pdf%0D
+Resolving www.odraz.hr (www.odraz.hr)... 178.218.164.228
+Connecting to www.odraz.hr (www.odraz.hr)|178.218.164.228|:80... 178.218.164.228
+Connecting to www.odraz.hr (www.odraz.hr)|178.218.164.228|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:18 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:01:18 ERROR 400: Bad Request.
+

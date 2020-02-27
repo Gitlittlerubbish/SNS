@@ -1,0 +1,22 @@
+--2020-02-25 22:00:46--  https://www.pdstudio.hr/catalogues/FIM.pdf%0D
+Resolving www.pdstudio.hr (www.pdstudio.hr)... 104.24.117.68, 104.24.116.68
+Connecting to www.pdstudio.hr (www.pdstudio.hr)|104.24.117.68|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:00:46--  https://www.pdstudio.hr/catalogues/FIM.pdf%0D
+Resolving www.pdstudio.hr (www.pdstudio.hr)... 104.24.117.68, 104.24.116.68
+Connecting to www.pdstudio.hr (www.pdstudio.hr)|104.24.117.68|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pdstudio.hr/catalogues/FIM.pdf [following]
+--2020-02-25 22:00:48--  https://pdstudio.hr/catalogues/FIM.pdf
+Resolving pdstudio.hr (pdstudio.hr)... 104.24.117.68, 104.24.116.68
+Connecting to pdstudio.hr (pdstudio.hr)|104.24.117.68|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pdstudio.hr/catalogues/FIM.pdf [following]
+--2020-02-25 22:00:48--  https://pdstudio.hr/catalogues/FIM.pdf
+Resolving pdstudio.hr (pdstudio.hr)... 104.24.117.68, 104.24.116.68
+Connecting to pdstudio.hr (pdstudio.hr)|104.24.117.68|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:00:49 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:00:50 ERROR 404: Not Found.
+

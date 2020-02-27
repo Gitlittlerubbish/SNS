@@ -1,0 +1,44 @@
+--2020-02-25 22:17:05--  http://www.orthodox.ee/docs/katehizis.pdf%0D
+Resolving www.orthodox.ee (www.orthodox.ee)... 217.159.186.253
+Connecting to www.orthodox.ee (www.orthodox.ee)|217.159.186.253|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3649 (3.6K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 7.91G=0s
+
+2020-02-25 22:17:06 (7.91 Gb/s) - ‘/dev/null’ saved [3649/3649]
+
+--2020-02-25 22:17:06--  http://www.orthodox.ee/docs/katehizis.pdf%0D
+Resolving www.orthodox.ee (www.orthodox.ee)... 217.159.186.253
+Connecting to www.orthodox.ee (www.orthodox.ee)|217.159.186.253|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3649 (3.6K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 1.66G=0s
+
+2020-02-25 22:17:07 (1.66 Gb/s) - ‘/dev/null’ saved [3649/3649]
+
+--2020-02-25 22:17:09--  http://www.orthodox.ee/docs/katehizis.pdf%0D
+Resolving www.orthodox.ee (www.orthodox.ee)... 217.159.186.253
+Connecting to www.orthodox.ee (www.orthodox.ee)|217.159.186.253|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3649 (3.6K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 7.72G=0s
+
+2020-02-25 22:17:09 (7.72 Gb/s) - ‘/dev/null’ saved [3649/3649]
+
+--2020-02-25 22:17:09--  http://www.orthodox.ee/docs/katehizis.pdf%0D
+Resolving www.orthodox.ee (www.orthodox.ee)... 217.159.186.253
+Connecting to www.orthodox.ee (www.orthodox.ee)|217.159.186.253|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3649 (3.6K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 1.30G=0s
+
+2020-02-25 22:17:10 (1.30 Gb/s) - ‘/dev/null’ saved [3649/3649]
+

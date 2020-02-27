@@ -1,0 +1,12 @@
+--2020-02-25 22:01:21--  https://www.tele2.hr/upload/pdf/uvjeti_koristenja_usluge_sos_kredit_za_tele2_korisnike_bonova.pdf%0D
+Resolving www.tele2.hr (www.tele2.hr)... 212.247.238.170
+Connecting to www.tele2.hr (www.tele2.hr)|212.247.238.170|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:22 ERROR 400: Bad Request.
+
+--2020-02-25 22:01:23--  https://www.tele2.hr/upload/pdf/uvjeti_koristenja_usluge_sos_kredit_za_tele2_korisnike_bonova.pdf%0D
+Resolving www.tele2.hr (www.tele2.hr)... 212.247.238.170
+Connecting to www.tele2.hr (www.tele2.hr)|212.247.238.170|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:23 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 20:55:01--  http://www.foi.am/u_files/file/Book_2014.pdf%0D
+Resolving www.foi.am (www.foi.am)... 185.92.85.138
+Connecting to www.foi.am (www.foi.am)|185.92.85.138|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:55:01 ERROR 404: Not Found.
+
+--2020-02-25 21:07:51--  http://www.foi.am/u_files/file/Book_2014.pdf%0D
+Resolving www.foi.am (www.foi.am)... 185.92.85.138
+Connecting to www.foi.am (www.foi.am)|185.92.85.138|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:52 ERROR 404: Not Found.
+

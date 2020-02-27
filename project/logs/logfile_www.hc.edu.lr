@@ -1,0 +1,6 @@
+--2020-02-25 23:22:45--  http://www.hc.edu.lr/early%2520childhood.pdf%0D
+Resolving www.hc.edu.lr (www.hc.edu.lr)... 66.96.132.20
+Connecting to www.hc.edu.lr (www.hc.edu.lr)|66.96.132.20|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:22:45 ERROR 400: Bad Request.
+

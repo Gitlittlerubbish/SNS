@@ -1,0 +1,12 @@
+--2020-02-25 22:33:26--  http://judicial.gov.gh/jsfiles/election_manual.pdf%0D
+Resolving judicial.gov.gh (judicial.gov.gh)... --2020-02-25 22:33:27--  http://judicial.gov.gh/jsfiles/election_manual.pdf%0D
+Resolving judicial.gov.gh (judicial.gov.gh)... 197.159.136.228
+Connecting to judicial.gov.gh (judicial.gov.gh)|197.159.136.228|:80... 197.159.136.228
+Connecting to judicial.gov.gh (judicial.gov.gh)|197.159.136.228|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:33:27 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:33:27 ERROR 400: Bad Request.
+

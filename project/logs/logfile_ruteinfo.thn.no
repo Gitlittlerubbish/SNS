@@ -1,0 +1,6 @@
+--2020-02-26 00:22:28--  http://ruteinfo.thn.no/filer/1138_no.pdf%0D
+Resolving ruteinfo.thn.no (ruteinfo.thn.no)... 62.176.193.197
+Connecting to ruteinfo.thn.no (ruteinfo.thn.no)|62.176.193.197|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:28 ERROR 400: Bad Request.
+

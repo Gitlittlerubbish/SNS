@@ -1,0 +1,6 @@
+--2020-02-26 00:36:08--  http://www.e-sm.com.pe/M1S26NG%0D
+Resolving www.e-sm.com.pe (www.e-sm.com.pe)... 195.53.83.186
+Connecting to www.e-sm.com.pe (www.e-sm.com.pe)|195.53.83.186|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:36:08 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:03:11--  https://www.britishcouncil.bh/sites/default/files/appendix_5.pdf%0D
+Resolving www.britishcouncil.bh (www.britishcouncil.bh)... 104.82.93.237
+Connecting to www.britishcouncil.bh (www.britishcouncil.bh)|104.82.93.237|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:03:11 ERROR 404: Not Found.
+
+--2020-02-25 21:14:27--  https://www.britishcouncil.bh/sites/default/files/appendix_5.pdf%0D
+Resolving www.britishcouncil.bh (www.britishcouncil.bh)... 104.82.93.237
+Connecting to www.britishcouncil.bh (www.britishcouncil.bh)|104.82.93.237|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:28 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:52:13--  http://www.minvivienda.gov.co/conpesagua/3530%2520-%25202008.pdf%0D
+Resolving www.minvivienda.gov.co (www.minvivienda.gov.co)... 186.30.164.135
+Connecting to www.minvivienda.gov.co (www.minvivienda.gov.co)|186.30.164.135|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 21:52:14--  http://www.minvivienda.gov.co/conpesagua/3530%2520-%25202008.pdf%0D
+Resolving www.minvivienda.gov.co (www.minvivienda.gov.co)... 186.30.164.135
+Connecting to www.minvivienda.gov.co (www.minvivienda.gov.co)|186.30.164.135|:80... 400 Bad Request
+2020-02-25 21:52:14 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:52:14 ERROR 400: Bad Request.
+

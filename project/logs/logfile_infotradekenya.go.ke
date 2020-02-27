@@ -1,0 +1,12 @@
+--2020-02-25 23:08:24--  https://infotradekenya.go.ke/media/EAC_Customs_Management_Regulations_1.pdf%0D
+Resolving infotradekenya.go.ke (infotradekenya.go.ke)... 144.76.184.122
+Connecting to infotradekenya.go.ke (infotradekenya.go.ke)|144.76.184.122|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:08:24 ERROR 400: Bad Request.
+
+--2020-02-25 23:08:24--  https://infotradekenya.go.ke/media/FinanceAct_No23of2019.PDF%0D
+Resolving infotradekenya.go.ke (infotradekenya.go.ke)... 144.76.184.122
+Connecting to infotradekenya.go.ke (infotradekenya.go.ke)|144.76.184.122|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:08:24 ERROR 400: Bad Request.
+

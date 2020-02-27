@@ -1,0 +1,24 @@
+--2020-02-25 22:34:54--  http://www.pagni.gr/epidemiology/Gold.pdf%0D
+Resolving www.pagni.gr (www.pagni.gr)... --2020-02-25 22:34:54--  http://www.pagni.gr/epidemiology/Gold.pdf%0D
+Resolving www.pagni.gr (www.pagni.gr)... 84.205.229.125
+Connecting to www.pagni.gr (www.pagni.gr)|84.205.229.125|:80... 84.205.229.125
+Connecting to www.pagni.gr (www.pagni.gr)|84.205.229.125|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:34:55 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:34:55 ERROR 400: Bad Request.
+
+--2020-02-25 22:35:00--  https://www.pagni.gr/mycode/filadio_gia_iodio.pdf%0D
+Resolving www.pagni.gr (www.pagni.gr)... 84.205.229.125
+Connecting to www.pagni.gr (www.pagni.gr)|84.205.229.125|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:35:00 ERROR 403: Forbidden.
+
+--2020-02-25 22:35:03--  https://www.pagni.gr/mycode/filadio_gia_iodio.pdf%0D
+Resolving www.pagni.gr (www.pagni.gr)... 84.205.229.125
+Connecting to www.pagni.gr (www.pagni.gr)|84.205.229.125|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:35:04 ERROR 403: Forbidden.
+

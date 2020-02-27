@@ -1,0 +1,52 @@
+--2020-02-25 22:28:01--  http://mabietta.ga/media/custom_files/baguier_mauboussin_1.pdf%0D
+Resolving mabietta.ga (mabietta.ga)... 104.24.115.41, 104.24.114.41
+Connecting to mabietta.ga (mabietta.ga)|104.24.115.41|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:28:01--  http://mabietta.ga/media/custom_files/baguier_mauboussin_1.pdf%0D
+Resolving mabietta.ga (mabietta.ga)... 104.24.115.41, 104.24.114.41
+Connecting to mabietta.ga (mabietta.ga)|104.24.115.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ........... 6.17M
+    50K .......... ......                                      3.10G=0.07s
+
+2020-02-25 22:28:01 (8.15 Mb/s) - ‘/dev/null’ saved [67675]
+
+--2020-02-25 22:28:01--  http://mabietta.ga/media/custom_files/baguier_mauboussin_1.pdf%0D
+Resolving mabietta.ga (mabietta.ga)... 104.24.115.41, 104.24.114.41
+Connecting to mabietta.ga (mabietta.ga)|104.24.115.41|:80... connected.
+HTTP request sent, awaiting response... ....... .......... .......... .......... 5.13M
+    50K .......... .......... .......... .......... .......... 10.2M
+   100K .......... .......... .......... .......... .......... 10.1M
+   150K .......... .......... .......... .......... ..........  322M
+   200K ......200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...... .......... .......... ......                7.33M=0.2s
+
+2020-02-25 22:28:02 (9.58 Mb/s) - ‘/dev/null’ saved [241826]
+
+--2020-02-25 22:28:02--  http://mabietta.ga/media/custom_files/baguier_mauboussin_1.pdf%0D
+Resolving mabietta.ga (mabietta.ga)... 104.24.115.41, 104.24.114.41
+Connecting to mabietta.ga (mabietta.ga)|104.24.115.41|:80... connected.
+HTTP request sent, awaiting response... ........ 7.15M
+    50K .......... .......... .......... .......... ...         221M=0.06s
+
+2020-02-25 22:28:02 (13.0 Mb/s) - ‘/dev/null’ saved [95570]
+
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.14M
+    50K .......... .......... .......... .......... .......... 14.7M
+   100K .......... .......... .......                           684M=0.09s
+
+2020-02-25 22:28:02 (12.2 Mb/s) - ‘/dev/null’ saved [130106]
+

@@ -1,0 +1,24 @@
+--2020-02-25 21:01:42--  https://zero.bs/dontpanic/checking_unix_for_compromises.pdf%0D
+Resolving zero.bs (zero.bs)... 46.101.119.173
+Connecting to zero.bs (zero.bs)|46.101.119.173|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:42 ERROR 404: Not Found.
+
+--2020-02-25 21:01:43--  https://zero.bs/dontpanic/checking_unix_for_compromises.pdf%0D
+Resolving zero.bs (zero.bs)... 46.101.119.173
+Connecting to zero.bs (zero.bs)|46.101.119.173|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:43 ERROR 404: Not Found.
+
+--2020-02-25 21:13:11--  https://zero.bs/dontpanic/checking_unix_for_compromises.pdf%0D
+Resolving zero.bs (zero.bs)... 46.101.119.173
+Connecting to zero.bs (zero.bs)|46.101.119.173|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:11 ERROR 404: Not Found.
+
+--2020-02-25 21:13:11--  https://zero.bs/dontpanic/checking_unix_for_compromises.pdf%0D
+Resolving zero.bs (zero.bs)... 46.101.119.173
+Connecting to zero.bs (zero.bs)|46.101.119.173|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:11 ERROR 404: Not Found.
+

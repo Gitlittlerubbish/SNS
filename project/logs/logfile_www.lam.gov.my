@@ -1,0 +1,44 @@
+--2020-02-25 23:33:21--  https://www.lam.gov.my/downloads/CPD/cpd_guideline.pdf%0D
+Resolving www.lam.gov.my (www.lam.gov.my)... 103.6.196.118
+Connecting to www.lam.gov.my (www.lam.gov.my)|103.6.196.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      1.28G=0s
+
+2020-02-25 23:33:23 (1.28 Gb/s) - ‘/dev/null’ saved [1143]
+
+--2020-02-25 23:33:23--  https://www.lam.gov.my/downloads/CPD/cpd_guideline.pdf%0D
+Resolving www.lam.gov.my (www.lam.gov.my)... 103.6.196.118
+Connecting to www.lam.gov.my (www.lam.gov.my)|103.6.196.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                       688M=0s
+
+2020-02-25 23:33:24 (688 Mb/s) - ‘/dev/null’ saved [1143]
+
+--2020-02-25 23:33:27--  https://www.lam.gov.my/downloads/CPD/cpd_guideline.pdf%0D
+Resolving www.lam.gov.my (www.lam.gov.my)... 103.6.196.118
+Connecting to www.lam.gov.my (www.lam.gov.my)|103.6.196.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      1.89G=0s
+
+2020-02-25 23:33:28 (1.89 Gb/s) - ‘/dev/null’ saved [1143]
+
+--2020-02-25 23:33:28--  https://www.lam.gov.my/downloads/CPD/cpd_guideline.pdf%0D
+Resolving www.lam.gov.my (www.lam.gov.my)... 103.6.196.118
+Connecting to www.lam.gov.my (www.lam.gov.my)|103.6.196.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      1.75G=0s
+
+2020-02-25 23:33:29 (1.75 Gb/s) - ‘/dev/null’ saved [1143]
+

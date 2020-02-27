@@ -1,0 +1,32 @@
+--2020-02-25 21:03:16--  https://qed.ai/cv/CV_william_wu.pdf%0D
+Resolving qed.ai (qed.ai)... 104.238.137.33
+Connecting to qed.ai (qed.ai)|104.238.137.33|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://qed.ai/ [following]
+--2020-02-25 21:03:17--  https://qed.ai/
+Reusing existing connection to qed.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.31M
+    50K .......... .......... .......... ...                   7.41M=0.2s
+
+2020-02-25 21:03:17 (3.19 Mb/s) - ‘/dev/null’ saved [85672]
+
+--2020-02-25 21:03:17--  https://qed.ai/cv/CV_william_wu.pdf%0D
+Resolving qed.ai (qed.ai)... 104.238.137.33
+Connecting to qed.ai (qed.ai)|104.238.137.33|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://qed.ai/ [following]
+--2020-02-25 21:03:17--  https://qed.ai/
+Reusing existing connection to qed.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.25M
+    50K .......... .......... .......... ...                   8.30M=0.2s
+
+2020-02-25 21:03:18 (3.19 Mb/s) - ‘/dev/null’ saved [85672]
+

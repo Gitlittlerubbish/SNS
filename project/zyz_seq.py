@@ -13,7 +13,7 @@ batch_size = 128
 
 epochs = 1
 
-df = pd.read_csv('remove0tp.csv')
+df = pd.read_csv('data.csv')
 ip_df = df.drop(['Throughput'], axis = 1)
 tp_df = df.drop(['Ip'], axis = 1)
 print(df)

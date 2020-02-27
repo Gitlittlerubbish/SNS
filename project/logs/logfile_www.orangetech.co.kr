@@ -1,0 +1,12 @@
+--2020-02-25 23:12:17--  http://www.orangetech.co.kr/download/public/orangetech-Toad_for_Oracle.pdf%0D
+Resolving www.orangetech.co.kr (www.orangetech.co.kr)... 183.111.161.102
+Connecting to www.orangetech.co.kr (www.orangetech.co.kr)|183.111.161.102|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:12:18 ERROR 404: Not Found.
+
+--2020-02-25 23:15:27--  http://www.orangetech.co.kr/download/public/Tableau_161108.pdf%0D
+Resolving www.orangetech.co.kr (www.orangetech.co.kr)... 183.111.161.102
+Connecting to www.orangetech.co.kr (www.orangetech.co.kr)|183.111.161.102|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:15:28 ERROR 404: Not Found.
+

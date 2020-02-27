@@ -1,0 +1,12 @@
+--2020-02-25 21:10:09--  http://www.education.benin.bj/documents/loi-administration-territoriale.pdf%0D
+Resolving www.education.benin.bj (www.education.benin.bj)... 80.85.86.126
+Connecting to www.education.benin.bj (www.education.benin.bj)|80.85.86.126|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:10:09 ERROR 404: Not Found.
+
+--2020-02-25 21:19:30--  http://www.education.benin.bj/documents/loi-administration-territoriale.pdf%0D
+Resolving www.education.benin.bj (www.education.benin.bj)... 80.85.86.126
+Connecting to www.education.benin.bj (www.education.benin.bj)|80.85.86.126|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:30 ERROR 404: Not Found.
+

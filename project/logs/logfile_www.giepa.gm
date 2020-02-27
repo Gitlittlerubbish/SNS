@@ -1,0 +1,12 @@
+--2020-02-25 22:28:30--  http://www.giepa.gm/sites/default/files/NEMAct1994.pdf%0D
+Resolving www.giepa.gm (www.giepa.gm)... --2020-02-25 22:28:30--  http://www.giepa.gm/sites/default/files/NEMAct1994.pdf%0D
+Resolving www.giepa.gm (www.giepa.gm)... 66.96.149.32
+Connecting to www.giepa.gm (www.giepa.gm)|66.96.149.32|:80... connected.
+HTTP request sent, awaiting response... 66.96.149.32
+Connecting to www.giepa.gm (www.giepa.gm)|66.96.149.32|:80... 400 Bad Request
+2020-02-25 22:28:30 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:28:31 ERROR 400: Bad Request.
+

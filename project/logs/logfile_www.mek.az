@@ -1,0 +1,12 @@
+--2020-02-25 21:01:03--  http://www.mek.az/documents/reports/MEKHesabat1illik.pdf%0D
+Resolving www.mek.az (www.mek.az)... 45.58.143.37
+Connecting to www.mek.az (www.mek.az)|45.58.143.37|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:03 ERROR 400: Bad Request.
+
+--2020-02-25 21:12:41--  http://www.mek.az/documents/reports/MEKHesabat1illik.pdf%0D
+Resolving www.mek.az (www.mek.az)... 45.58.143.37
+Connecting to www.mek.az (www.mek.az)|45.58.143.37|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:12:41 ERROR 400: Bad Request.
+

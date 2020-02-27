@@ -1,0 +1,6 @@
+--2020-02-25 22:45:48--  https://www.startsmart.gov.hk/links/sss_0001.html%0D
+Resolving www.startsmart.gov.hk (www.startsmart.gov.hk)... 202.128.234.172
+Connecting to www.startsmart.gov.hk (www.startsmart.gov.hk)|202.128.234.172|:443... connected.
+ERROR: cannot verify www.startsmart.gov.hk's certificate, issued by ‘CN=Hongkong Post e-Cert SSL CA 3 - 17,O=Hongkong Post,L=Hong Kong,ST=Hong Kong,C=HK’:
+  Self-signed certificate encountered.
+To connect to www.startsmart.gov.hk insecurely, use `--no-check-certificate'.

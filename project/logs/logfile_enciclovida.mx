@@ -1,0 +1,6 @@
+--2020-02-25 23:46:53--  http://enciclovida.mx/especies/7007091.pdf%0D
+Resolving enciclovida.mx (enciclovida.mx)... 200.12.166.190
+Connecting to enciclovida.mx (enciclovida.mx)|200.12.166.190|:80... connected.
+HTTP request sent, awaiting response... 406 Not Acceptable
+2020-02-25 23:46:54 ERROR 406: Not Acceptable.
+

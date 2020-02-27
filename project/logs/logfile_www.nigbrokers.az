@@ -1,0 +1,20 @@
+--2020-02-25 21:01:27--  http://www.nigbrokers.az/files/2019/belinka/t_belinka_tung_oil_1an.pdf%0D
+Resolving www.nigbrokers.az (www.nigbrokers.az)... 95.217.57.134
+Connecting to www.nigbrokers.az (www.nigbrokers.az)|95.217.57.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.nigbrokers.az/az/files/2019/belinka/t_belinka_tung_oil_1an.pdf%0D [following]
+--2020-02-25 21:01:27--  http://www.nigbrokers.az/az/files/2019/belinka/t_belinka_tung_oil_1an.pdf%0D
+Reusing existing connection to www.nigbrokers.az:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:27 ERROR 404: Not Found.
+
+--2020-02-25 21:12:57--  http://www.nigbrokers.az/files/2019/belinka/t_belinka_tung_oil_1an.pdf%0D
+Resolving www.nigbrokers.az (www.nigbrokers.az)... 95.217.57.134
+Connecting to www.nigbrokers.az (www.nigbrokers.az)|95.217.57.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.nigbrokers.az/az/files/2019/belinka/t_belinka_tung_oil_1an.pdf%0D [following]
+--2020-02-25 21:12:57--  http://www.nigbrokers.az/az/files/2019/belinka/t_belinka_tung_oil_1an.pdf%0D
+Reusing existing connection to www.nigbrokers.az:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:57 ERROR 404: Not Found.
+

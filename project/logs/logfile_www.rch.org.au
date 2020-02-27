@@ -1,0 +1,12 @@
+--2020-02-25 20:57:43--  https://www.rch.org.au/uploadedFiles/Main/Content/kidsinfo/english-worms.pdf%0D
+Resolving www.rch.org.au (www.rch.org.au)... 203.16.41.149
+Connecting to www.rch.org.au (www.rch.org.au)|203.16.41.149|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:57:45 ERROR 400: Bad Request.
+
+--2020-02-25 21:10:08--  https://www.rch.org.au/uploadedFiles/Main/Content/kidsinfo/english-worms.pdf%0D
+Resolving www.rch.org.au (www.rch.org.au)... 203.16.41.149
+Connecting to www.rch.org.au (www.rch.org.au)|203.16.41.149|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:10:09 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 20:59:56--  http://www.traunviertler-stueberl.at/Mittagsmenue.pdf%0D
+Resolving www.traunviertler-stueberl.at (www.traunviertler-stueberl.at)... 85.233.96.54
+Connecting to www.traunviertler-stueberl.at (www.traunviertler-stueberl.at)|85.233.96.54|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:56 ERROR 404: Not Found.
+
+--2020-02-25 21:11:59--  http://www.traunviertler-stueberl.at/Mittagsmenue.pdf%0D
+Resolving www.traunviertler-stueberl.at (www.traunviertler-stueberl.at)... 85.233.96.54
+Connecting to www.traunviertler-stueberl.at (www.traunviertler-stueberl.at)|85.233.96.54|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:59 ERROR 404: Not Found.
+

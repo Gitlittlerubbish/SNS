@@ -1,0 +1,12 @@
+--2020-02-25 21:08:38--  http://www.polar.bz/polarportal4p/content/upload/books/HowTo_WhitePaper.pdf%0D
+Resolving www.polar.bz (www.polar.bz)... 116.202.130.39
+Connecting to www.polar.bz (www.polar.bz)|116.202.130.39|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:08:38 ERROR 400: Bad Request.
+
+--2020-02-25 21:18:22--  http://www.polar.bz/polarportal4p/content/upload/books/HowTo_WhitePaper.pdf%0D
+Resolving www.polar.bz (www.polar.bz)... 116.202.130.39
+Connecting to www.polar.bz (www.polar.bz)|116.202.130.39|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:18:22 ERROR 400: Bad Request.
+

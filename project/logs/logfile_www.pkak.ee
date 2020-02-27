@@ -1,0 +1,20 @@
+--2020-02-25 22:17:22--  http://www.pkak.ee/files/PLAKAT_PEIPSI_KALAD_A1.pdf%0D
+Resolving www.pkak.ee (www.pkak.ee)... --2020-02-25 22:17:22--  http://www.pkak.ee/files/PLAKAT_PEIPSI_KALAD_A1.pdf%0D
+Resolving www.pkak.ee (www.pkak.ee)... 217.146.69.46
+Connecting to www.pkak.ee (www.pkak.ee)|217.146.69.46|:80... 217.146.69.46
+Connecting to www.pkak.ee (www.pkak.ee)|217.146.69.46|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pkak.ee/files/PLAKAT_PEIPSI_KALAD_A1.pdf%0d [following]
+--2020-02-25 22:17:23--  https://www.pkak.ee/files/PLAKAT_PEIPSI_KALAD_A1.pdf%0d
+Connecting to www.pkak.ee (www.pkak.ee)|217.146.69.46|:443... 301 Moved Permanently
+Location: https://www.pkak.ee/files/PLAKAT_PEIPSI_KALAD_A1.pdf%0d [following]
+--2020-02-25 22:17:23--  https://www.pkak.ee/files/PLAKAT_PEIPSI_KALAD_A1.pdf%0d
+Connecting to www.pkak.ee (www.pkak.ee)|217.146.69.46|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:23 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:17:23 ERROR 404: Not Found.
+

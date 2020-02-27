@@ -1,0 +1,12 @@
+--2020-02-25 22:35:02--  http://eleftheroudis.gr/images/epiplopiias.pdf%0D
+Resolving eleftheroudis.gr (eleftheroudis.gr)... 185.138.42.46
+Connecting to eleftheroudis.gr (eleftheroudis.gr)|185.138.42.46|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:35:02 ERROR 404: Not Found.
+
+--2020-02-25 22:35:05--  http://eleftheroudis.gr/images/epiplopiias.pdf%0D
+Resolving eleftheroudis.gr (eleftheroudis.gr)... 185.138.42.46
+Connecting to eleftheroudis.gr (eleftheroudis.gr)|185.138.42.46|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:35:05 ERROR 404: Not Found.
+

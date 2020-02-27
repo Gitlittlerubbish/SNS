@@ -1,0 +1,148 @@
+--2020-02-25 20:59:34--  https://www.dogspot.at/defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D
+Resolving www.dogspot.at (www.dogspot.at)... 46.38.247.93
+Connecting to www.dogspot.at (www.dogspot.at)|46.38.247.93|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Temporarily
+Location: /defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D/ [following]
+--2020-02-25 20:59:34--  https://www.dogspot.at/defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D/
+Reusing existing connection to www.dogspot.at:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F [following]
+--2020-02-25 20:59:34--  http://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F
+Resolving www.ema.europa.eu (www.ema.europa.eu)... 143.204.175.70, 143.204.175.53, 143.204.175.39, ...
+Connecting to www.ema.europa.eu (www.ema.europa.eu)|143.204.175.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F [following]
+--2020-02-25 20:59:34--  https://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F
+Connecting to www.ema.europa.eu (www.ema.europa.eu)|143.204.175.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/en/ema-redirect?redirect_type=document&lang=de&doc_id=WC500164069&doc_ext=pdf7 [following]
+--2020-02-25 20:59:34--  https://www.ema.europa.eu/en/ema-redirect?redirect_type=document&lang=de&doc_id=WC500164069&doc_ext=pdf7
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.ema.europa.eu/documents/overview/nexgard-epar-medicine-overview_de.pdf [following]
+--2020-02-25 20:59:35--  https://www.ema.europa.eu/documents/overview/nexgard-epar-medicine-overview_de.pdf
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/en/documents/overview/nexgard-epar-medicine-overview_de.pdf [following]
+--2020-02-25 20:59:35--  https://www.ema.europa.eu/en/documents/overview/nexgard-epar-medicine-overview_de.pdf
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80227 (78K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 20.9M 0s
+    50K .......... .......... ........                        100%  197M=0.02s
+
+2020-02-25 20:59:35 (30.9 Mb/s) - ‘/dev/null’ saved [80227/80227]
+
+--2020-02-25 20:59:35--  https://www.dogspot.at/defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D
+Resolving www.dogspot.at (www.dogspot.at)... 46.38.247.93
+Connecting to www.dogspot.at (www.dogspot.at)|46.38.247.93|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Temporarily
+Location: /defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D/ [following]
+--2020-02-25 20:59:35--  https://www.dogspot.at/defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D/
+Reusing existing connection to www.dogspot.at:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F [following]
+--2020-02-25 20:59:35--  http://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F
+Resolving www.ema.europa.eu (www.ema.europa.eu)... 143.204.175.53, 143.204.175.39, 143.204.175.59, ...
+Connecting to www.ema.europa.eu (www.ema.europa.eu)|143.204.175.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F [following]
+--2020-02-25 20:59:35--  https://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F
+Connecting to www.ema.europa.eu (www.ema.europa.eu)|143.204.175.53|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/en/ema-redirect?redirect_type=document&lang=de&doc_id=WC500164069&doc_ext=pdf7 [following]
+--2020-02-25 20:59:35--  https://www.ema.europa.eu/en/ema-redirect?redirect_type=document&lang=de&doc_id=WC500164069&doc_ext=pdf7
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.ema.europa.eu/documents/overview/nexgard-epar-medicine-overview_de.pdf [following]
+--2020-02-25 20:59:35--  https://www.ema.europa.eu/documents/overview/nexgard-epar-medicine-overview_de.pdf
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/en/documents/overview/nexgard-epar-medicine-overview_de.pdf [following]
+--2020-02-25 20:59:35--  https://www.ema.europa.eu/en/documents/overview/nexgard-epar-medicine-overview_de.pdf
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80227 (78K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 19.9M 0s
+    50K .......... .......... ........                        100%  106M=0.02s
+
+2020-02-25 20:59:35 (28.1 Mb/s) - ‘/dev/null’ saved [80227/80227]
+
+--2020-02-25 21:11:41--  https://www.dogspot.at/defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D
+Resolving www.dogspot.at (www.dogspot.at)... 46.38.247.93
+Connecting to www.dogspot.at (www.dogspot.at)|46.38.247.93|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Temporarily
+Location: /defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D/ [following]
+--2020-02-25 21:11:41--  https://www.dogspot.at/defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D/
+Reusing existing connection to www.dogspot.at:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F [following]
+--2020-02-25 21:11:41--  http://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F
+Resolving www.ema.europa.eu (www.ema.europa.eu)... 143.204.175.70, 143.204.175.53, 143.204.175.59, ...
+Connecting to www.ema.europa.eu (www.ema.europa.eu)|143.204.175.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F [following]
+--2020-02-25 21:11:41--  https://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F
+Connecting to www.ema.europa.eu (www.ema.europa.eu)|143.204.175.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/en/ema-redirect?redirect_type=document&lang=de&doc_id=WC500164069&doc_ext=pdf7 [following]
+--2020-02-25 21:11:41--  https://www.ema.europa.eu/en/ema-redirect?redirect_type=document&lang=de&doc_id=WC500164069&doc_ext=pdf7
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.ema.europa.eu/documents/overview/nexgard-epar-medicine-overview_de.pdf [following]
+--2020-02-25 21:11:41--  https://www.ema.europa.eu/documents/overview/nexgard-epar-medicine-overview_de.pdf
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/en/documents/overview/nexgard-epar-medicine-overview_de.pdf [following]
+--2020-02-25 21:11:41--  https://www.ema.europa.eu/en/documents/overview/nexgard-epar-medicine-overview_de.pdf
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80227 (78K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 20.6M 0s
+    50K .......... .......... ........                        100%  413M=0.02s
+
+2020-02-25 21:11:42 (31.4 Mb/s) - ‘/dev/null’ saved [80227/80227]
+
+--2020-02-25 21:11:42--  https://www.dogspot.at/defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D
+Resolving www.dogspot.at (www.dogspot.at)... 46.38.247.93
+Connecting to www.dogspot.at (www.dogspot.at)|46.38.247.93|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Temporarily
+Location: /defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D/ [following]
+--2020-02-25 21:11:42--  https://www.dogspot.at/defer/aHR0cDovL3d3dy5lbWEuZXVyb3BhLmV1L2RvY3MvZGVfREUvZG9jdW1lbnRfbGlicmFyeS9FUEFSXy1fU3VtbWFyeV9mb3JfdGhlX3B1YmxpYy92ZXRlcmluYXJ5LzAwMjcyOS9XQzUwMDE2NDA2OS5wZGY%253D/%0D/
+Reusing existing connection to www.dogspot.at:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F [following]
+--2020-02-25 21:11:42--  http://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F
+Resolving www.ema.europa.eu (www.ema.europa.eu)... 143.204.175.59, 143.204.175.39, 143.204.175.70, ...
+Connecting to www.ema.europa.eu (www.ema.europa.eu)|143.204.175.59|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F [following]
+--2020-02-25 21:11:42--  https://www.ema.europa.eu/docs/de_DE/document_library/EPAR_-_Summary_for_the_public/veterinary/002729/WC500164069.pdf7%0F
+Connecting to www.ema.europa.eu (www.ema.europa.eu)|143.204.175.59|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/en/ema-redirect?redirect_type=document&lang=de&doc_id=WC500164069&doc_ext=pdf7 [following]
+--2020-02-25 21:11:42--  https://www.ema.europa.eu/en/ema-redirect?redirect_type=document&lang=de&doc_id=WC500164069&doc_ext=pdf7
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.ema.europa.eu/documents/overview/nexgard-epar-medicine-overview_de.pdf [following]
+--2020-02-25 21:11:42--  https://www.ema.europa.eu/documents/overview/nexgard-epar-medicine-overview_de.pdf
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ema.europa.eu/en/documents/overview/nexgard-epar-medicine-overview_de.pdf [following]
+--2020-02-25 21:11:42--  https://www.ema.europa.eu/en/documents/overview/nexgard-epar-medicine-overview_de.pdf
+Reusing existing connection to www.ema.europa.eu:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80227 (78K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 19.6M 0s
+    50K .......... .......... ........                        100%  221M=0.02s
+
+2020-02-25 21:11:42 (29.3 Mb/s) - ‘/dev/null’ saved [80227/80227]
+

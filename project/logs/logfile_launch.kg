@@ -1,0 +1,10 @@
+--2020-02-25 23:18:03--  http://launch.kg/wp-content/uploads/2019/07/CNC-603A.pdf%0D
+Resolving launch.kg (launch.kg)... 91.207.28.48
+Connecting to launch.kg (launch.kg)|91.207.28.48|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://launch.kg/wp-content/uploads/2019/07/CNC-603A.pdf%0d [following]
+--2020-02-25 23:18:03--  https://launch.kg/wp-content/uploads/2019/07/CNC-603A.pdf%0d
+Connecting to launch.kg (launch.kg)|91.207.28.48|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:18:05 ERROR 404: Not Found.
+

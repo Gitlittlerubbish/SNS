@@ -1,0 +1,12 @@
+--2020-02-25 21:11:30--  http://northstarfinancialservices.bm/admin/resources/documents/pimco-global-bond.pdf%0D
+Resolving northstarfinancialservices.bm (northstarfinancialservices.bm)... 65.52.168.70
+Connecting to northstarfinancialservices.bm (northstarfinancialservices.bm)|65.52.168.70|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:31 ERROR 400: Bad Request.
+
+--2020-02-25 21:20:21--  http://northstarfinancialservices.bm/admin/resources/documents/pimco-global-bond.pdf%0D
+Resolving northstarfinancialservices.bm (northstarfinancialservices.bm)... 65.52.168.70
+Connecting to northstarfinancialservices.bm (northstarfinancialservices.bm)|65.52.168.70|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:20:21 ERROR 400: Bad Request.
+

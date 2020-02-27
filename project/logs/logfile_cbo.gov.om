@@ -1,0 +1,6 @@
+--2020-02-26 00:23:16--  https://cbo.gov.om/sites/assets/Documents/English/LawRegulations/IBRF.pdf%0D
+Resolving cbo.gov.om (cbo.gov.om)... 62.231.227.108
+Connecting to cbo.gov.om (cbo.gov.om)|62.231.227.108|:443... connected.
+ERROR: cannot verify cbo.gov.om's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to cbo.gov.om insecurely, use `--no-check-certificate'.

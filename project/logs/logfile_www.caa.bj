@@ -1,0 +1,60 @@
+--2020-02-25 21:09:43--  http://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0D
+Resolving www.caa.bj (www.caa.bj)... 185.49.20.101
+Connecting to www.caa.bj (www.caa.bj)|185.49.20.101|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0d [following]
+--2020-02-25 21:09:43--  https://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0d
+Connecting to www.caa.bj (www.caa.bj)|185.49.20.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        80.8M=0s
+
+2020-02-25 21:09:44 (80.8 Mb/s) - ‘/dev/null’ saved [53]
+
+--2020-02-25 21:09:44--  http://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0D
+Resolving www.caa.bj (www.caa.bj)... 185.49.20.101
+Connecting to www.caa.bj (www.caa.bj)|185.49.20.101|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0d [following]
+--2020-02-25 21:09:44--  https://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0d
+Connecting to www.caa.bj (www.caa.bj)|185.49.20.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        78.2M=0s
+
+2020-02-25 21:09:44 (78.2 Mb/s) - ‘/dev/null’ saved [53]
+
+--2020-02-25 21:19:08--  http://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0D
+Resolving www.caa.bj (www.caa.bj)... 185.49.20.101
+Connecting to www.caa.bj (www.caa.bj)|185.49.20.101|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0d [following]
+--2020-02-25 21:19:08--  https://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0d
+Connecting to www.caa.bj (www.caa.bj)|185.49.20.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        32.4M=0s
+
+2020-02-25 21:19:08 (32.4 Mb/s) - ‘/dev/null’ saved [53]
+
+--2020-02-25 21:19:08--  http://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0D
+Resolving www.caa.bj (www.caa.bj)... 185.49.20.101
+Connecting to www.caa.bj (www.caa.bj)|185.49.20.101|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0d [following]
+--2020-02-25 21:19:09--  https://www.caa.bj/phocadownload/Dette_publique/Rapport_AVD_15_06_2017.pdf%0d
+Connecting to www.caa.bj (www.caa.bj)|185.49.20.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        78.5M=0s
+
+2020-02-25 21:19:09 (78.5 Mb/s) - ‘/dev/null’ saved [53]
+

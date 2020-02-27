@@ -1,0 +1,44 @@
+--2020-02-25 22:21:27--  http://www.safeway.com.fj/admin/images/broucher_doc/broucher_1.pdf%0D
+Resolving www.safeway.com.fj (www.safeway.com.fj)... 184.106.55.122
+Connecting to www.safeway.com.fj (www.safeway.com.fj)|184.106.55.122|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:21:28--  http://www.safeway.com.fj/admin/images/broucher_doc/broucher_1.pdf%0D
+Resolving www.safeway.com.fj (www.safeway.com.fj)... 184.106.55.122
+Connecting to www.safeway.com.fj (www.safeway.com.fj)|184.106.55.122|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 4.69M=0s
+
+2020-02-25 22:21:28 (4.69 Mb/s) - ‘/dev/null’ saved [2/2]
+
+--2020-02-25 22:21:28--  http://www.safeway.com.fj/admin/images/broucher_doc/broucher_1.pdf%0D
+Resolving www.safeway.com.fj (www.safeway.com.fj)... 184.106.55.122
+Connecting to www.safeway.com.fj (www.safeway.com.fj)|184.106.55.122|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 3.57M=0s
+
+2020-02-25 22:21:28 (3.57 Mb/s) - ‘/dev/null’ saved [2/2]
+
+--2020-02-25 22:21:28--  http://www.safeway.com.fj/admin/images/broucher_doc/broucher_1.pdf%0D
+Resolving www.safeway.com.fj (www.safeway.com.fj)... 184.106.55.122
+Connecting to www.safeway.com.fj (www.safeway.com.fj)|184.106.55.122|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 3.06M=0s
+
+2020-02-25 22:21:28 (3.06 Mb/s) - ‘/dev/null’ saved [2/2]
+
+200 OK
+Length: 2 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.64M=0s
+
+2020-02-25 22:21:28 (1.64 Mb/s) - ‘/dev/null’ saved [2/2]
+

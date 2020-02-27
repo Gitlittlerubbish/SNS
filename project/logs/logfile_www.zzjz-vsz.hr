@@ -1,0 +1,12 @@
+--2020-02-25 22:01:20--  http://www.zzjz-vsz.hr/pdf/Pertusis.pdf%0D
+Resolving www.zzjz-vsz.hr (www.zzjz-vsz.hr)... --2020-02-25 22:01:20--  http://www.zzjz-vsz.hr/pdf/Pertusis.pdf%0D
+Resolving www.zzjz-vsz.hr (www.zzjz-vsz.hr)... 144.76.95.178
+Connecting to www.zzjz-vsz.hr (www.zzjz-vsz.hr)|144.76.95.178|:80... 144.76.95.178
+Connecting to www.zzjz-vsz.hr (www.zzjz-vsz.hr)|144.76.95.178|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:01:21 ERROR 404: Not Found.
+
+Read error (Connection timed out) in headers.
+Giving up.
+

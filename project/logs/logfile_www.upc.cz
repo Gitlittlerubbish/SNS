@@ -1,0 +1,14 @@
+--2020-02-25 22:06:00--  https://www.upc.cz/pdf/Cenik.pdf%0D
+Resolving www.upc.cz (www.upc.cz)... 212.142.30.164, 212.142.30.174
+Connecting to www.upc.cz (www.upc.cz)|212.142.30.164|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Cookie coming from www.upc.cz attempted to set domain to upc.cz
+2020-02-25 22:06:00 ERROR 404: Not Found.
+
+--2020-02-25 22:06:00--  https://www.upc.cz/pdf/Cenik.pdf%0D
+Resolving www.upc.cz (www.upc.cz)... 212.142.30.164, 212.142.30.174
+Connecting to www.upc.cz (www.upc.cz)|212.142.30.164|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Cookie coming from www.upc.cz attempted to set domain to upc.cz
+2020-02-25 22:06:00 ERROR 404: Not Found.
+

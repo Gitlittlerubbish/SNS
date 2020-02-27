@@ -1,0 +1,12 @@
+--2020-02-25 23:25:41--  http://www.rk-medicus.lt/uploads/2010_01.pdf%0D
+Resolving www.rk-medicus.lt (www.rk-medicus.lt)... 79.98.24.9
+Connecting to www.rk-medicus.lt (www.rk-medicus.lt)|79.98.24.9|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:25:41 ERROR 404: Not Found.
+
+--2020-02-25 23:25:42--  http://www.rk-medicus.lt/uploads/2010_01.pdf%0D
+Resolving www.rk-medicus.lt (www.rk-medicus.lt)... 79.98.24.9
+Connecting to www.rk-medicus.lt (www.rk-medicus.lt)|79.98.24.9|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:25:42 ERROR 404: Not Found.
+

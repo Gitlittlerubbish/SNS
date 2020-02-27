@@ -1,0 +1,6 @@
+--2020-02-25 21:04:02--  http://www.cuet.ac.bd/admin/seat_plan.pdf%0D
+Resolving www.cuet.ac.bd (www.cuet.ac.bd)... failed: Connection timed out.
+wget: unable to resolve host address ‘www.cuet.ac.bd’
+--2020-02-25 21:14:58--  http://www.cuet.ac.bd/admin/seat_plan.pdf%0D
+Resolving www.cuet.ac.bd (www.cuet.ac.bd)... failed: Name or service not known.
+wget: unable to resolve host address ‘www.cuet.ac.bd’

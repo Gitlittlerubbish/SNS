@@ -1,0 +1,30 @@
+--2020-02-25 23:20:03--  http://www.vakcinas.lv/files/b02km3.pdf%0D
+Resolving www.vakcinas.lv (www.vakcinas.lv)... 45.63.119.45
+Connecting to www.vakcinas.lv (www.vakcinas.lv)|45.63.119.45|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.vakcinas.lv/ [following]
+--2020-02-25 23:20:03--  http://www.vakcinas.lv/
+Reusing existing connection to www.vakcinas.lv:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                    4.31G=0s
+
+2020-02-25 23:20:03 (4.31 Gb/s) - ‘/dev/null’ saved [3078]
+
+--2020-02-25 23:20:03--  http://www.vakcinas.lv/files/b02km3.pdf%0D
+Resolving www.vakcinas.lv (www.vakcinas.lv)... 45.63.119.45
+Connecting to www.vakcinas.lv (www.vakcinas.lv)|45.63.119.45|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.vakcinas.lv/ [following]
+--2020-02-25 23:20:03--  http://www.vakcinas.lv/
+Reusing existing connection to www.vakcinas.lv:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                    4.19G=0s
+
+2020-02-25 23:20:03 (4.19 Gb/s) - ‘/dev/null’ saved [3078]
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:25:00--  http://www.volksblatt.li/pdf/Sonderbund_2020.pdf%0D
+Resolving www.volksblatt.li (www.volksblatt.li)... 91.207.130.35
+Connecting to www.volksblatt.li (www.volksblatt.li)|91.207.130.35|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:25:00 ERROR 400: Bad Request.
+

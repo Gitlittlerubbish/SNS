@@ -1,0 +1,30 @@
+--2020-02-25 23:46:47--  https://xdoc.mx/preview/arenque-5dc5cc5e585d0%0D
+Resolving xdoc.mx (xdoc.mx)... 104.27.178.113, 104.27.179.113
+Connecting to xdoc.mx (xdoc.mx)|104.27.178.113|:443... connected.
+HTTP request sent, awaiting response... 307 
+Location: https://xdoc.mx/404 [following]
+--2020-02-25 23:46:48--  https://xdoc.mx/404
+Reusing existing connection to xdoc.mx:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                            830M=0s
+
+2020-02-25 23:46:48 (830 Mb/s) - ‘/dev/null’ saved [27370]
+
+--2020-02-25 23:46:48--  https://xdoc.mx/preview/arenque-5dc5cc5e585d0%0D
+Resolving xdoc.mx (xdoc.mx)... 104.27.178.113, 104.27.179.113
+Connecting to xdoc.mx (xdoc.mx)|104.27.178.113|:443... connected.
+HTTP request sent, awaiting response... 307 
+Location: https://xdoc.mx/404 [following]
+--2020-02-25 23:46:49--  https://xdoc.mx/404
+Reusing existing connection to xdoc.mx:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                           1.73G=0s
+
+2020-02-25 23:46:49 (1.73 Gb/s) - ‘/dev/null’ saved [27370]
+

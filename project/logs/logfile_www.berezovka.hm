@@ -1,0 +1,6 @@
+--2020-02-25 22:43:40--  http://www.berezovka.hm/index.php/component/attachments/download/51%0D
+Resolving www.berezovka.hm (www.berezovka.hm)... 185.83.216.117
+Connecting to www.berezovka.hm (www.berezovka.hm)|185.83.216.117|:80... connected.
+HTTP request sent, awaiting response... 502 Bad Gateway
+2020-02-25 22:43:40 ERROR 502: Bad Gateway.
+

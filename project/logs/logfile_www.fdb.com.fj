@@ -1,0 +1,12 @@
+--2020-02-25 22:21:09--  https://www.fdb.com.fj/small-medium-enterprise-loans/%0D
+Resolving www.fdb.com.fj (www.fdb.com.fj)... --2020-02-25 22:21:09--  https://www.fdb.com.fj/small-medium-enterprise-loans/%0D
+Resolving www.fdb.com.fj (www.fdb.com.fj)... 69.64.91.174
+Connecting to www.fdb.com.fj (www.fdb.com.fj)|69.64.91.174|:443... 69.64.91.174
+Connecting to www.fdb.com.fj (www.fdb.com.fj)|69.64.91.174|:443... connected.
+connected.
+ERROR: cannot verify www.fdb.com.fj's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.fdb.com.fj insecurely, use `--no-check-certificate'.
+ERROR: cannot verify www.fdb.com.fj's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.fdb.com.fj insecurely, use `--no-check-certificate'.

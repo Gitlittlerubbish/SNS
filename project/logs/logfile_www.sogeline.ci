@@ -1,0 +1,44 @@
+--2020-02-25 21:59:58--  https://www.sogeline.ci/part/fr/infosec.pdf%0D
+Resolving www.sogeline.ci (www.sogeline.ci)... 41.137.107.80
+Connecting to www.sogeline.ci (www.sogeline.ci)|41.137.107.80|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 21:59:58--  https://www.sogeline.ci/part/fr/infosec.pdf%0D
+Resolving www.sogeline.ci (www.sogeline.ci)... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  295M=0s
+
+2020-02-25 21:59:58 (295 Mb/s) - ‘/dev/null’ saved [247/247]
+
+--2020-02-25 21:59:58--  https://www.sogeline.ci/part/fr/infosec.pdf%0D
+Resolving www.sogeline.ci (www.sogeline.ci)... 41.137.107.80
+Connecting to www.sogeline.ci (www.sogeline.ci)|41.137.107.80|:443... 41.137.107.80
+Connecting to www.sogeline.ci (www.sogeline.ci)|41.137.107.80|:443... connected.
+HTTP request sent, awaiting response... connected.
+200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  123M=0s
+
+2020-02-25 21:59:59 (123 Mb/s) - ‘/dev/null’ saved [247/247]
+
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  122M=0s
+
+2020-02-25 21:59:59 (122 Mb/s) - ‘/dev/null’ saved [247/247]
+
+--2020-02-25 21:59:59--  https://www.sogeline.ci/part/fr/infosec.pdf%0D
+Resolving www.sogeline.ci (www.sogeline.ci)... 41.137.107.80
+Connecting to www.sogeline.ci (www.sogeline.ci)|41.137.107.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  299M=0s
+
+2020-02-25 21:59:59 (299 Mb/s) - ‘/dev/null’ saved [247/247]
+

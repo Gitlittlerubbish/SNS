@@ -1,0 +1,12 @@
+--2020-02-25 22:01:00--  https://www.vir.hr/prostorni_plan/izmjene_i_dopune_prostornog_plana.pdf%0D
+Resolving www.vir.hr (www.vir.hr)... 178.218.165.52
+Connecting to www.vir.hr (www.vir.hr)|178.218.165.52|:443... connected.
+--2020-02-25 22:01:00--  https://www.vir.hr/prostorni_plan/izmjene_i_dopune_prostornog_plana.pdf%0D
+Resolving www.vir.hr (www.vir.hr)... 178.218.165.52
+Connecting to www.vir.hr (www.vir.hr)|178.218.165.52|:443... connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Nije pronađeno
+2020-02-25 22:01:00 ERROR 404: Nije pronađeno.
+
+404 Nije pronađeno
+2020-02-25 22:01:01 ERROR 404: Nije pronađeno.
+

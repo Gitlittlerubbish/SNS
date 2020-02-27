@@ -1,0 +1,12 @@
+--2020-02-25 21:52:33--  http://stb.co/content/Publications/pub1439.pdf%0D
+Resolving stb.co (stb.co)... 146.20.181.176
+Connecting to stb.co (stb.co)|146.20.181.176|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:52:33 ERROR 400: Bad Request.
+
+--2020-02-25 21:52:33--  http://stb.co/content/Publications/pub1439.pdf%0D
+Resolving stb.co (stb.co)... 146.20.181.176
+Connecting to stb.co (stb.co)|146.20.181.176|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:52:33 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:22:55--  http://tankona.free.fr/jensen1969.pdf%0D
+Resolving tankona.free.fr (tankona.free.fr)... 212.27.63.114
+Connecting to tankona.free.fr (tankona.free.fr)|212.27.63.114|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:55 ERROR 404: Not Found.
+
+--2020-02-25 22:22:55--  http://tankona.free.fr/jensen1969.pdf%0D
+Resolving tankona.free.fr (tankona.free.fr)... 212.27.63.114
+Connecting to tankona.free.fr (tankona.free.fr)|212.27.63.114|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:55 ERROR 404: Not Found.
+

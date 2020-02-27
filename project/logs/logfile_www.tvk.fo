@@ -1,0 +1,12 @@
+--2020-02-25 22:19:26--  http://www.tvk.fo/files/bm.pdf%0D
+Resolving www.tvk.fo (www.tvk.fo)... --2020-02-25 22:19:26--  http://www.tvk.fo/files/bm.pdf%0D
+Resolving www.tvk.fo (www.tvk.fo)... 93.191.156.207
+Connecting to www.tvk.fo (www.tvk.fo)|93.191.156.207|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:26 ERROR 400: Bad Request.
+
+93.191.156.207
+Connecting to www.tvk.fo (www.tvk.fo)|93.191.156.207|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:26 ERROR 400: Bad Request.
+

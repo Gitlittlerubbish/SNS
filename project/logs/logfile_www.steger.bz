@@ -1,0 +1,12 @@
+--2020-02-25 21:08:36--  http://www.steger.bz/pdf/RundschreibenSteuerNr10_10AbsetzbarkeitvonGeschenkenundFirmenessen.pdf%0D
+Resolving www.steger.bz (www.steger.bz)... 78.46.154.163
+Connecting to www.steger.bz (www.steger.bz)|78.46.154.163|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:08:36 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:18:21--  http://www.steger.bz/pdf/RundschreibenSteuerNr10_10AbsetzbarkeitvonGeschenkenundFirmenessen.pdf%0D
+Resolving www.steger.bz (www.steger.bz)... 78.46.154.163
+Connecting to www.steger.bz (www.steger.bz)|78.46.154.163|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:18:21 ERROR 500: Internal Server Error.
+

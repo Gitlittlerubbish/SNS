@@ -1,0 +1,12 @@
+--2020-02-25 22:00:49--  http://www.dvds.hr/pdf/djevojcicasasibicama.pdf%0D
+Resolving www.dvds.hr (www.dvds.hr)... 66.206.25.26
+Connecting to www.dvds.hr (www.dvds.hr)|66.206.25.26|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:00:49 ERROR 404: Not Found.
+
+--2020-02-25 22:00:50--  http://www.dvds.hr/pdf/djevojcicasasibicama.pdf%0D
+Resolving www.dvds.hr (www.dvds.hr)... 66.206.25.26
+Connecting to www.dvds.hr (www.dvds.hr)|66.206.25.26|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:00:50 ERROR 404: Not Found.
+

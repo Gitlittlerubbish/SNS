@@ -1,0 +1,12 @@
+--2020-02-25 22:11:42--  http://www.moe.gov.eg/NCEEE/science_2.pdf%0D
+Resolving www.moe.gov.eg (www.moe.gov.eg)... 191.233.87.194
+Connecting to www.moe.gov.eg (www.moe.gov.eg)|191.233.87.194|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:42 ERROR 400: Bad Request.
+
+--2020-02-25 22:11:42--  http://www.moe.gov.eg/NCEEE/science_2.pdf%0D
+Resolving www.moe.gov.eg (www.moe.gov.eg)... 191.233.87.194
+Connecting to www.moe.gov.eg (www.moe.gov.eg)|191.233.87.194|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:42 ERROR 400: Bad Request.
+

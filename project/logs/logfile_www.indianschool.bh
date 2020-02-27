@@ -1,0 +1,22 @@
+--2020-02-25 21:02:44--  http://www.indianschool.bh/downloads/Students_leave_application_form.pdf%0D
+Resolving www.indianschool.bh (www.indianschool.bh)... 192.185.28.7
+Connecting to www.indianschool.bh (www.indianschool.bh)|192.185.28.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://indianschool.bh/downloads/Students_leave_application_form.pdf%0d [following]
+--2020-02-25 21:02:44--  https://indianschool.bh/downloads/Students_leave_application_form.pdf%0d
+Resolving indianschool.bh (indianschool.bh)... 192.185.28.7
+Connecting to indianschool.bh (indianschool.bh)|192.185.28.7|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:02:45 ERROR 404: Not Found.
+
+--2020-02-25 21:14:05--  http://www.indianschool.bh/downloads/Students_leave_application_form.pdf%0D
+Resolving www.indianschool.bh (www.indianschool.bh)... 192.185.28.7
+Connecting to www.indianschool.bh (www.indianschool.bh)|192.185.28.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://indianschool.bh/downloads/Students_leave_application_form.pdf%0d [following]
+--2020-02-25 21:14:06--  https://indianschool.bh/downloads/Students_leave_application_form.pdf%0d
+Resolving indianschool.bh (indianschool.bh)... 192.185.28.7
+Connecting to indianschool.bh (indianschool.bh)|192.185.28.7|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:14:06 ERROR 404: Not Found.
+

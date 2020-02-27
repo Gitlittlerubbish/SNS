@@ -1,0 +1,9 @@
+--2020-02-26 00:27:52--  http://www.thaiconsulate.org.pg/visa_application_pg0717.pdf%0D
+Resolving www.thaiconsulate.org.pg (www.thaiconsulate.org.pg)... failed: Connection timed out.
+wget: unable to resolve host address ‘www.thaiconsulate.org.pg’
+--2020-02-26 00:30:38--  http://www.thaiconsulate.org.pg/visa_application_pg0717.pdf%0D
+Resolving www.thaiconsulate.org.pg (www.thaiconsulate.org.pg)... 203.83.22.228
+Connecting to www.thaiconsulate.org.pg (www.thaiconsulate.org.pg)|203.83.22.228|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:30:38 ERROR 404: Not Found.
+

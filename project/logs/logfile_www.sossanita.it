@@ -1,0 +1,6 @@
+--2020-02-25 23:00:30--  http://www.sossanita.it/doc/2014_12_Oecd_diuguaglianze.pdf%0D
+Resolving www.sossanita.it (www.sossanita.it)... 31.11.34.26
+Connecting to www.sossanita.it (www.sossanita.it)|31.11.34.26|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:00:30 ERROR 400: Bad Request.
+

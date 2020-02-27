@@ -1,0 +1,12 @@
+--2020-02-25 21:37:08--  https://www.ryerson.ca/content/dam/admissions/Assets/AH2020.pdf%0D
+Resolving www.ryerson.ca (www.ryerson.ca)... 141.117.126.20
+Connecting to www.ryerson.ca (www.ryerson.ca)|141.117.126.20|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:08 ERROR 404: Not Found.
+
+--2020-02-25 21:38:44--  https://www.ryerson.ca/content/dam/admissions/Assets/AH2020.pdf%0D
+Resolving www.ryerson.ca (www.ryerson.ca)... 141.117.126.20
+Connecting to www.ryerson.ca (www.ryerson.ca)|141.117.126.20|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:44 ERROR 404: Not Found.
+

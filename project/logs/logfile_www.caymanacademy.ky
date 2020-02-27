@@ -1,0 +1,12 @@
+--2020-02-25 21:38:48--  http://www.caymanacademy.ky/images/Cayman-Academy-Brochure.pdf%0D
+Resolving www.caymanacademy.ky (www.caymanacademy.ky)... 35.209.167.179
+Connecting to www.caymanacademy.ky (www.caymanacademy.ky)|35.209.167.179|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:48 ERROR 404: Not Found.
+
+--2020-02-25 21:40:01--  http://www.caymanacademy.ky/images/Cayman-Academy-Brochure.pdf%0D
+Resolving www.caymanacademy.ky (www.caymanacademy.ky)... 35.209.167.179
+Connecting to www.caymanacademy.ky (www.caymanacademy.ky)|35.209.167.179|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:40:01 ERROR 404: Not Found.
+

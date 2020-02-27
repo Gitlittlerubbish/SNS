@@ -1,0 +1,60 @@
+--2020-02-25 22:22:42--  https://www.nuorisotutkimusseura.fi/images/julkaisuja/raippa_ritva.pdf%0D
+Resolving www.nuorisotutkimusseura.fi (www.nuorisotutkimusseura.fi)... 80.69.161.37
+Connecting to www.nuorisotutkimusseura.fi (www.nuorisotutkimusseura.fi)|80.69.161.37|:443... connected.
+--2020-02-25 22:22:42--  https://www.nuorisotutkimusseura.fi/images/julkaisuja/raippa_ritva.pdf%0D
+Resolving www.nuorisotutkimusseura.fi (www.nuorisotutkimusseura.fi)... 80.69.161.37
+Connecting to www.nuorisotutkimusseura.fi (www.nuorisotutkimusseura.fi)|80.69.161.37|:443... HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sivua-ei-loytynyt [following]
+--2020-02-25 22:22:42--  https://www.nuorisotutkimusseura.fi/sivua-ei-loytynyt
+Reusing existing connection to www.nuorisotutkimusseura.fi:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .                     6.21M=0.04s
+
+2020-02-25 22:22:42 (6.21 Mb/s) - ‘/dev/null’ saved [32081]
+
+--2020-02-25 22:22:42--  https://www.nuorisotutkimusseura.fi/images/julkaisuja/raippa_ritva.pdf%0D
+Resolving www.nuorisotutkimusseura.fi (www.nuorisotutkimusseura.fi)... 80.69.161.37
+Connecting to www.nuorisotutkimusseura.fi (www.nuorisotutkimusseura.fi)|80.69.161.37|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sivua-ei-loytynyt [following]
+--2020-02-25 22:22:43--  https://www.nuorisotutkimusseura.fi/sivua-ei-loytynyt
+Reusing existing connection to www.nuorisotutkimusseura.fi:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .                     7.00M=0.04s
+
+2020-02-25 22:22:43 (7.00 Mb/s) - ‘/dev/null’ saved [32081]
+
+302 Found
+Location: /sivua-ei-loytynyt [following]
+--2020-02-25 22:22:43--  https://www.nuorisotutkimusseura.fi/sivua-ei-loytynyt
+Reusing existing connection to www.nuorisotutkimusseura.fi:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .                     6.39M=0.04s
+
+2020-02-25 22:22:44 (6.39 Mb/s) - ‘/dev/null’ saved [32081]
+
+--2020-02-25 22:22:44--  https://www.nuorisotutkimusseura.fi/images/julkaisuja/raippa_ritva.pdf%0D
+Resolving www.nuorisotutkimusseura.fi (www.nuorisotutkimusseura.fi)... 80.69.161.37
+Connecting to www.nuorisotutkimusseura.fi (www.nuorisotutkimusseura.fi)|80.69.161.37|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sivua-ei-loytynyt [following]
+--2020-02-25 22:22:44--  https://www.nuorisotutkimusseura.fi/sivua-ei-loytynyt
+Reusing existing connection to www.nuorisotutkimusseura.fi:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .                     6.91M=0.04s
+
+2020-02-25 22:22:44 (6.91 Mb/s) - ‘/dev/null’ saved [32081]
+

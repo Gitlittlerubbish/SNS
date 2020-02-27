@@ -1,0 +1,12 @@
+--2020-02-25 21:00:12--  https://miq.edu.az/vakant_rus_bolmesi%0D
+Resolving miq.edu.az (miq.edu.az)... 82.194.5.52
+Connecting to miq.edu.az (miq.edu.az)|82.194.5.52|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:13 ERROR 404: Not Found.
+
+--2020-02-25 21:12:12--  https://miq.edu.az/vakant_rus_bolmesi%0D
+Resolving miq.edu.az (miq.edu.az)... 82.194.5.52
+Connecting to miq.edu.az (miq.edu.az)|82.194.5.52|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:13 ERROR 404: Not Found.
+

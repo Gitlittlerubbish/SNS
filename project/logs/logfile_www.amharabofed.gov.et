@@ -1,0 +1,12 @@
+--2020-02-25 22:17:55--  http://www.amharabofed.gov.et/PDF_Files/strategic_plan/Eastern_Amhara_DC_Docum_Final.pdf%0D
+Resolving www.amharabofed.gov.et (www.amharabofed.gov.et)... 213.55.103.150
+Connecting to www.amharabofed.gov.et (www.amharabofed.gov.et)|213.55.103.150|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:17:56 ERROR 400: Bad Request.
+
+--2020-02-25 22:17:57--  http://www.amharabofed.gov.et/PDF_Files/strategic_plan/Eastern_Amhara_DC_Docum_Final.pdf%0D
+Resolving www.amharabofed.gov.et (www.amharabofed.gov.et)... 213.55.103.150
+Connecting to www.amharabofed.gov.et (www.amharabofed.gov.et)|213.55.103.150|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:17:58 ERROR 400: Bad Request.
+

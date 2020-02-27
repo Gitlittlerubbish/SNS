@@ -1,10 +1,6 @@
---2020-02-25 15:27:01--  http://www.asal.dz/files/English.pdf
+--2020-02-25 20:55:44--  http://www.asal.dz/files/English.pdf%0D
 Resolving www.asal.dz (www.asal.dz)... 80.246.0.10
 Connecting to www.asal.dz (www.asal.dz)|80.246.0.10|:80... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://www.asal.dz/files/English.pdf [following]
---2020-02-25 15:27:01--  https://www.asal.dz/files/English.pdf
-Connecting to www.asal.dz (www.asal.dz)|80.246.0.10|:443... connected.
-ERROR: cannot verify www.asal.dz's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to www.asal.dz insecurely, use `--no-check-certificate'.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 20:55:44 ERROR 500: Internal Server Error.
+

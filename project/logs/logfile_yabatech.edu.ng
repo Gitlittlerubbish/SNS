@@ -1,0 +1,6 @@
+--2020-02-26 00:16:10--  http://yabatech.edu.ng/transcriptguide.pdf%0D
+Resolving yabatech.edu.ng (yabatech.edu.ng)... 217.174.242.105
+Connecting to yabatech.edu.ng (yabatech.edu.ng)|217.174.242.105|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:16:10 ERROR 400: Bad Request.
+

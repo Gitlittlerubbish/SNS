@@ -1,0 +1,6 @@
+--2020-02-25 22:50:18--  http://megphed.gov.in/standards/guiderural.pdf%0D
+Resolving megphed.gov.in (megphed.gov.in)... 164.100.179.119
+Connecting to megphed.gov.in (megphed.gov.in)|164.100.179.119|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:18 ERROR 400: Bad Request.
+

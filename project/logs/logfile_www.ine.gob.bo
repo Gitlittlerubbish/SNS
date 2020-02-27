@@ -1,0 +1,20 @@
+--2020-02-25 21:15:48--  http://www.ine.gob.bo/pdf/Preguntas_Frecuentes.pdf%0D
+Resolving www.ine.gob.bo (www.ine.gob.bo)... 200.105.137.11
+Connecting to www.ine.gob.bo (www.ine.gob.bo)|200.105.137.11|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ine.gob.bo/pdf/Preguntas_Frecuentes.pdf%0d [following]
+--2020-02-25 21:15:48--  https://www.ine.gob.bo/pdf/Preguntas_Frecuentes.pdf%0d
+Connecting to www.ine.gob.bo (www.ine.gob.bo)|200.105.137.11|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:15:49 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:23:21--  http://www.ine.gob.bo/pdf/Preguntas_Frecuentes.pdf%0D
+Resolving www.ine.gob.bo (www.ine.gob.bo)... 200.105.137.11
+Connecting to www.ine.gob.bo (www.ine.gob.bo)|200.105.137.11|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ine.gob.bo/pdf/Preguntas_Frecuentes.pdf%0d [following]
+--2020-02-25 21:23:21--  https://www.ine.gob.bo/pdf/Preguntas_Frecuentes.pdf%0d
+Connecting to www.ine.gob.bo (www.ine.gob.bo)|200.105.137.11|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:23:22 ERROR 500: Internal Server Error.
+

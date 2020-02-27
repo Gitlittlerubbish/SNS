@@ -1,0 +1,12 @@
+--2020-02-25 21:05:15--  http://www.nhf.org.bd/images/FAQ/Echocardiography.pdf%0D
+Resolving www.nhf.org.bd (www.nhf.org.bd)... 203.191.33.18
+Connecting to www.nhf.org.bd (www.nhf.org.bd)|203.191.33.18|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:05:16 ERROR 404: Not Found.
+
+--2020-02-25 21:15:47--  http://www.nhf.org.bd/images/FAQ/Echocardiography.pdf%0D
+Resolving www.nhf.org.bd (www.nhf.org.bd)... 203.191.33.18
+Connecting to www.nhf.org.bd (www.nhf.org.bd)|203.191.33.18|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:48 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:36:20--  http://www.enterprisingminds.ca/download/leadership_that_gets_results.pdf%0D
+Resolving www.enterprisingminds.ca (www.enterprisingminds.ca)... 206.188.192.250
+Connecting to www.enterprisingminds.ca (www.enterprisingminds.ca)|206.188.192.250|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:21 ERROR 404: Not Found.
+
+--2020-02-25 21:38:10--  http://www.enterprisingminds.ca/download/leadership_that_gets_results.pdf%0D
+Resolving www.enterprisingminds.ca (www.enterprisingminds.ca)... 206.188.192.250
+Connecting to www.enterprisingminds.ca (www.enterprisingminds.ca)|206.188.192.250|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:10 ERROR 404: Not Found.
+

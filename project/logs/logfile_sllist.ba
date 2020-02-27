@@ -1,0 +1,12 @@
+--2020-02-25 21:17:28--  http://sllist.ba/glasnik/2019/broj043.pdf%0D
+Resolving sllist.ba (sllist.ba)... 217.199.134.235
+Connecting to sllist.ba (sllist.ba)|217.199.134.235|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:28 ERROR 404: Not Found.
+
+--2020-02-25 21:24:38--  http://sllist.ba/glasnik/2019/broj043.pdf%0D
+Resolving sllist.ba (sllist.ba)... 217.199.134.235
+Connecting to sllist.ba (sllist.ba)|217.199.134.235|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:38 ERROR 404: Not Found.
+

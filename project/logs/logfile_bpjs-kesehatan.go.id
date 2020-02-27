@@ -1,0 +1,6 @@
+--2020-02-25 22:53:49--  https://bpjs-kesehatan.go.id/bpjs/dmdocuments/eac4e7a830f58b4ade926754f74b6caf.pdf%0D
+Resolving bpjs-kesehatan.go.id (bpjs-kesehatan.go.id)... 13.67.56.225
+Connecting to bpjs-kesehatan.go.id (bpjs-kesehatan.go.id)|13.67.56.225|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:53:51 ERROR 400: Bad Request.
+

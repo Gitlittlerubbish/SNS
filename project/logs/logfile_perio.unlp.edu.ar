@@ -1,0 +1,12 @@
+--2020-02-25 20:53:23--  https://perio.unlp.edu.ar/tpm/textos/tpm-mision_vision_y_cb-ejemplos.pdf%0D
+Resolving perio.unlp.edu.ar (perio.unlp.edu.ar)... 163.10.16.134
+Connecting to perio.unlp.edu.ar (perio.unlp.edu.ar)|163.10.16.134|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 20:53:26 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:06:39--  https://perio.unlp.edu.ar/tpm/textos/tpm-mision_vision_y_cb-ejemplos.pdf%0D
+Resolving perio.unlp.edu.ar (perio.unlp.edu.ar)... 163.10.16.134
+Connecting to perio.unlp.edu.ar (perio.unlp.edu.ar)|163.10.16.134|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:06:40 ERROR 500: Internal Server Error.
+

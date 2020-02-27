@@ -1,0 +1,12 @@
+--2020-02-25 22:29:00--  http://qanet.gm/statehouse/National_Health_Policy_2012-2020_MoHSW-Gambia.pdf%0D
+Resolving qanet.gm (qanet.gm)... --2020-02-25 22:29:01--  http://qanet.gm/statehouse/National_Health_Policy_2012-2020_MoHSW-Gambia.pdf%0D
+Resolving qanet.gm (qanet.gm)... 196.46.232.4
+Connecting to qanet.gm (qanet.gm)|196.46.232.4|:80... 196.46.232.4
+Connecting to qanet.gm (qanet.gm)|196.46.232.4|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:29:01 ERROR 500: Internal Server Error.
+
+500 Internal Server Error
+2020-02-25 22:29:01 ERROR 500: Internal Server Error.
+

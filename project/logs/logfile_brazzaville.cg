@@ -1,0 +1,12 @@
+--2020-02-25 21:56:22--  https://brazzaville.cg/sites/default/files/Documentation/Doing_Business/Lexecution_des_contrats/Acte_uniforme_de_lOHADA_relatif_aux_procedures_simplifiees_de_recouvrement_et_des_voies_dexecution.pdf%0D
+Resolving brazzaville.cg (brazzaville.cg)... 162.249.110.58
+Connecting to brazzaville.cg (brazzaville.cg)|162.249.110.58|:443... --2020-02-25 21:56:22--  https://brazzaville.cg/sites/default/files/Documentation/Doing_Business/Lexecution_des_contrats/Acte_uniforme_de_lOHADA_relatif_aux_procedures_simplifiees_de_recouvrement_et_des_voies_dexecution.pdf%0D
+Resolving brazzaville.cg (brazzaville.cg)... 162.249.110.58
+Connecting to brazzaville.cg (brazzaville.cg)|162.249.110.58|:443... connected.
+connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘brazzaville.cg’.
+To connect to brazzaville.cg insecurely, use `--no-check-certificate'.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘brazzaville.cg’.
+To connect to brazzaville.cg insecurely, use `--no-check-certificate'.

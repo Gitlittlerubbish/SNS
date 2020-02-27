@@ -1,0 +1,12 @@
+--2020-02-25 22:22:48--  https://www.medecine-voyages.fr/publications/ficheinfovaccinStamaril.pdf%0D
+Resolving www.medecine-voyages.fr (www.medecine-voyages.fr)... 195.64.164.104
+Connecting to www.medecine-voyages.fr (www.medecine-voyages.fr)|195.64.164.104|:443... --2020-02-25 22:22:48--  https://www.medecine-voyages.fr/publications/ficheinfovaccinStamaril.pdf%0D
+Resolving www.medecine-voyages.fr (www.medecine-voyages.fr)... 195.64.164.104
+Connecting to www.medecine-voyages.fr (www.medecine-voyages.fr)|195.64.164.104|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:48 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:22:48 ERROR 404: Not Found.
+

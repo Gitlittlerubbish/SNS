@@ -1,0 +1,6 @@
+--2020-02-25 23:05:09--  https://parish.gov.je/StClement/Documents/Samares%2520Pathways.pdf%0D
+Resolving parish.gov.je (parish.gov.je)... 52.156.194.171
+Connecting to parish.gov.je (parish.gov.je)|52.156.194.171|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 23:05:09 ERROR 500: Internal Server Error.
+

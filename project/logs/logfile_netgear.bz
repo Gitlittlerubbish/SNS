@@ -1,0 +1,12 @@
+--2020-02-25 21:09:05--  http://netgear.bz/images/datasheet/orbi/CBR40.pdf%0D
+Resolving netgear.bz (netgear.bz)... 34.208.16.195, 52.24.95.109
+Connecting to netgear.bz (netgear.bz)|34.208.16.195|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:09:05 ERROR 400: Bad Request.
+
+--2020-02-25 21:18:41--  http://netgear.bz/images/datasheet/orbi/CBR40.pdf%0D
+Resolving netgear.bz (netgear.bz)... 52.24.95.109, 34.208.16.195
+Connecting to netgear.bz (netgear.bz)|52.24.95.109|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:18:41 ERROR 400: Bad Request.
+

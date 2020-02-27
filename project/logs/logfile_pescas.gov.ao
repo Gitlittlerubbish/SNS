@@ -1,0 +1,6 @@
+--2020-02-25 21:01:56--  https://pescas.gov.ao/public/documentos/13.pdf%0D
+Resolving pescas.gov.ao (pescas.gov.ao)... 105.174.6.162
+Connecting to pescas.gov.ao (pescas.gov.ao)|105.174.6.162|:443... connected.
+ERROR: cannot verify pescas.gov.ao's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to pescas.gov.ao insecurely, use `--no-check-certificate'.

@@ -1,0 +1,6 @@
+--2020-02-25 22:42:56--  https://anap.gouv.ht/documents/Liste_des_APs.pdf%0D
+Resolving anap.gouv.ht (anap.gouv.ht)... 162.241.225.159
+Connecting to anap.gouv.ht (anap.gouv.ht)|162.241.225.159|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:42:56 ERROR 404: Not Found.
+

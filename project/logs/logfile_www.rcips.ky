@@ -1,0 +1,20 @@
+--2020-02-25 21:38:33--  http://www.rcips.ky/upimages/ckeditor/1556745292_2018CrimeandTrafficStatisticsReport.pdf%0D
+Resolving www.rcips.ky (www.rcips.ky)... 66.85.75.75
+Connecting to www.rcips.ky (www.rcips.ky)|66.85.75.75|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rcips.ky/upimages/ckeditor/1556745292_2018CrimeandTrafficStatisticsReport.pdf%0d [following]
+--2020-02-25 21:38:33--  https://www.rcips.ky/upimages/ckeditor/1556745292_2018CrimeandTrafficStatisticsReport.pdf%0d
+Connecting to www.rcips.ky (www.rcips.ky)|66.85.75.75|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:34 ERROR 404: Not Found.
+
+--2020-02-25 21:39:49--  http://www.rcips.ky/upimages/ckeditor/1556745292_2018CrimeandTrafficStatisticsReport.pdf%0D
+Resolving www.rcips.ky (www.rcips.ky)... 66.85.75.75
+Connecting to www.rcips.ky (www.rcips.ky)|66.85.75.75|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rcips.ky/upimages/ckeditor/1556745292_2018CrimeandTrafficStatisticsReport.pdf%0d [following]
+--2020-02-25 21:39:49--  https://www.rcips.ky/upimages/ckeditor/1556745292_2018CrimeandTrafficStatisticsReport.pdf%0d
+Connecting to www.rcips.ky (www.rcips.ky)|66.85.75.75|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:39:50 ERROR 404: Not Found.
+

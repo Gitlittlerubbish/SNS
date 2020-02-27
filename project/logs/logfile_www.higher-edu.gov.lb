@@ -1,0 +1,6 @@
+--2020-02-25 23:20:48--  http://www.higher-edu.gov.lb/Workshops/Conf_QA/29_4_2011/Sawsan_Majid.pdf%0D
+Resolving www.higher-edu.gov.lb (www.higher-edu.gov.lb)... 192.186.240.180
+Connecting to www.higher-edu.gov.lb (www.higher-edu.gov.lb)|192.186.240.180|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:20:48 ERROR 400: Bad Request.
+

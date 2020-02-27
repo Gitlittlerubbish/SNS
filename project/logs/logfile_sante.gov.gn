@@ -1,0 +1,20 @@
+--2020-02-25 22:39:27--  http://sante.gov.gn/wp-content/uploads/2019/01/nume%25CC%2581risation0001.pdf%0D
+Resolving sante.gov.gn (sante.gov.gn)... 35.209.227.95
+Connecting to sante.gov.gn (sante.gov.gn)|35.209.227.95|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sante.gov.gn/wp-content/uploads/2019/01/nume%25CC%2581risation0001.pdf%0d [following]
+--2020-02-25 22:39:28--  https://sante.gov.gn/wp-content/uploads/2019/01/nume%25CC%2581risation0001.pdf%0d
+Connecting to sante.gov.gn (sante.gov.gn)|35.209.227.95|:443... connected.
+--2020-02-25 22:39:28--  http://sante.gov.gn/wp-content/uploads/2019/01/nume%25CC%2581risation0001.pdf%0D
+Resolving sante.gov.gn (sante.gov.gn)... 35.209.227.95
+Connecting to sante.gov.gn (sante.gov.gn)|35.209.227.95|:80... connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sante.gov.gn/wp-content/uploads/2019/01/nume%25CC%2581risation0001.pdf%0d [following]
+--2020-02-25 22:39:28--  https://sante.gov.gn/wp-content/uploads/2019/01/nume%25CC%2581risation0001.pdf%0d
+Connecting to sante.gov.gn (sante.gov.gn)|35.209.227.95|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:39:29 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:39:29 ERROR 404: Not Found.
+

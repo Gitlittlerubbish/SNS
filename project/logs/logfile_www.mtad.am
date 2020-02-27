@@ -1,0 +1,12 @@
+--2020-02-25 20:54:36--  http://www.mtad.am/files/docs/1053.pdf%0D
+Resolving www.mtad.am (www.mtad.am)... 91.221.229.155
+Connecting to www.mtad.am (www.mtad.am)|91.221.229.155|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:37 ERROR 404: Not Found.
+
+--2020-02-25 21:07:31--  http://www.mtad.am/files/docs/1053.pdf%0D
+Resolving www.mtad.am (www.mtad.am)... 91.221.229.155
+Connecting to www.mtad.am (www.mtad.am)|91.221.229.155|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:31 ERROR 404: Not Found.
+

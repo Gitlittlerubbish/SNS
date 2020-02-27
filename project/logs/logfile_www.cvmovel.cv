@@ -1,0 +1,12 @@
+--2020-02-25 21:32:08--  https://www.cvmovel.cv/manuais/ManualMatematica6ano.pdf%0D
+Resolving www.cvmovel.cv (www.cvmovel.cv)... 41.221.193.31
+Connecting to www.cvmovel.cv (www.cvmovel.cv)|41.221.193.31|:443... connected.
+ERROR: cannot verify www.cvmovel.cv's certificate, issued by ‘CN=Symantec Class 3 EV SSL CA - G3,OU=Symantec Trust Network,O=Symantec Corporation,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.cvmovel.cv insecurely, use `--no-check-certificate'.
+--2020-02-25 21:35:14--  https://www.cvmovel.cv/manuais/ManualMatematica6ano.pdf%0D
+Resolving www.cvmovel.cv (www.cvmovel.cv)... 41.221.193.31
+Connecting to www.cvmovel.cv (www.cvmovel.cv)|41.221.193.31|:443... connected.
+ERROR: cannot verify www.cvmovel.cv's certificate, issued by ‘CN=Symantec Class 3 EV SSL CA - G3,OU=Symantec Trust Network,O=Symantec Corporation,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.cvmovel.cv insecurely, use `--no-check-certificate'.

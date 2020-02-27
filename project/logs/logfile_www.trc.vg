@@ -1,0 +1,15 @@
+--2020-02-25 21:25:34--  http://www.trc.vg/images/attachments/Press_Releases_2016/Press%2520Release.pdf%0D
+Resolving www.trc.vg (www.trc.vg)... 162.210.157.26, 63.143.106.50, 23.136.96.19
+Connecting to www.trc.vg (www.trc.vg)|162.210.157.26|:80... failed: Connection timed out.
+Connecting to www.trc.vg (www.trc.vg)|63.143.106.50|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:25:37 ERROR 400: Bad Request.
+
+--2020-02-25 21:30:53--  http://www.trc.vg/images/attachments/Press_Releases_2016/Press%2520Release.pdf%0D
+Resolving www.trc.vg (www.trc.vg)... 23.136.96.19, 162.210.157.26, 63.143.106.50
+Connecting to www.trc.vg (www.trc.vg)|23.136.96.19|:80... failed: Connection timed out.
+Connecting to www.trc.vg (www.trc.vg)|162.210.157.26|:80... failed: Connection timed out.
+Connecting to www.trc.vg (www.trc.vg)|63.143.106.50|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:30:59 ERROR 400: Bad Request.
+

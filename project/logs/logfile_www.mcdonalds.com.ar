@@ -1,0 +1,10 @@
+--2020-02-25 21:05:13--  http://www.mcdonalds.com.ar/open24%0D
+Resolving www.mcdonalds.com.ar (www.mcdonalds.com.ar)... 45.60.34.33
+Connecting to www.mcdonalds.com.ar (www.mcdonalds.com.ar)|45.60.34.33|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mcdonalds.com.ar/open24%0D [following]
+--2020-02-25 21:05:13--  https://www.mcdonalds.com.ar/open24%0D
+Connecting to www.mcdonalds.com.ar (www.mcdonalds.com.ar)|45.60.34.33|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:05:13 ERROR 403: Forbidden.
+

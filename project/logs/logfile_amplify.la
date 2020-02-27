@@ -1,0 +1,6 @@
+--2020-02-25 23:18:35--  http://amplify.la/deck/%0D
+Resolving amplify.la (amplify.la)... 162.144.23.247
+Connecting to amplify.la (amplify.la)|162.144.23.247|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:18:36 ERROR 404: Not Found.
+

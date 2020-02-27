@@ -1,0 +1,12 @@
+--2020-02-25 23:06:25--  http://www.apnk.kz/download/734/Matematika___Matematika_szdg_1.pdf%0D
+Resolving www.apnk.kz (www.apnk.kz)... 195.210.46.46
+Connecting to www.apnk.kz (www.apnk.kz)|195.210.46.46|:80... connected.
+HTTP request sent, awaiting response... 404 Представление не найдено [name, type, prefix]: category, pdf, contentView
+2020-02-25 23:06:25 ERROR 404: Представление не найдено [name, type, prefix]: category, pdf, contentView.
+
+--2020-02-25 23:06:25--  http://www.apnk.kz/download/734/Fizkultura_i_sport___Dene_trbies_zhne_sport_szdg_1.pdf%0D
+Resolving www.apnk.kz (www.apnk.kz)... 195.210.46.46
+Connecting to www.apnk.kz (www.apnk.kz)|195.210.46.46|:80... connected.
+HTTP request sent, awaiting response... 404 Представление не найдено [name, type, prefix]: category, pdf, contentView
+2020-02-25 23:06:26 ERROR 404: Представление не найдено [name, type, prefix]: category, pdf, contentView.
+

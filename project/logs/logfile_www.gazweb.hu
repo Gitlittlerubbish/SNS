@@ -1,0 +1,6 @@
+--2020-02-25 22:47:12--  http://www.gazweb.hu/doc_munkavedelem/meretatvalto.pdf%0D
+Resolving www.gazweb.hu (www.gazweb.hu)... 78.24.185.63
+Connecting to www.gazweb.hu (www.gazweb.hu)|78.24.185.63|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:47:13 ERROR 404: Not Found.
+

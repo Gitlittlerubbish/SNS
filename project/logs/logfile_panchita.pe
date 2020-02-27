@@ -1,0 +1,6 @@
+--2020-02-26 00:36:08--  https://panchita.pe/carta/panchitaesp.pdf%0D
+Resolving panchita.pe (panchita.pe)... 174.142.8.44
+Connecting to panchita.pe (panchita.pe)|174.142.8.44|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:36:08 ERROR 400: Bad Request.
+

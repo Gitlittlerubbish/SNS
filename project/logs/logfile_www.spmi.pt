@@ -1,0 +1,36 @@
+--2020-02-26 00:42:25--  https://www.spmi.pt/revista/vol08/ch5_v8n1jan2001.pdf%0D
+Resolving www.spmi.pt (www.spmi.pt)... 94.126.172.16
+Connecting to www.spmi.pt (www.spmi.pt)|94.126.172.16|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.spmi.pt/ [following]
+--2020-02-26 00:42:28--  https://www.spmi.pt/
+Reusing existing connection to www.spmi.pt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 172900 (169K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 11.8M 0s
+    50K .......... .......... .......... .......... .......... 59% 12.7M 0s
+   100K .......... .......... .......... .......... .......... 88% 97.3M 0s
+   150K .......... ........                                   100%  220M=0.07s
+
+2020-02-26 00:42:28 (19.3 Mb/s) - ‘/dev/null’ saved [172900/172900]
+
+--2020-02-26 00:42:28--  https://www.spmi.pt/revista/vol08/ch5_v8n1jan2001.pdf%0D
+Resolving www.spmi.pt (www.spmi.pt)... 94.126.172.16
+Connecting to www.spmi.pt (www.spmi.pt)|94.126.172.16|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.spmi.pt/ [following]
+--2020-02-26 00:42:30--  https://www.spmi.pt/
+Reusing existing connection to www.spmi.pt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 172900 (169K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 11.9M 0s
+    50K .......... .......... .......... .......... .......... 59% 12.3M 0s
+   100K .......... .......... .......... .......... .......... 88% 98.3M 0s
+   150K .......... ........                                   100%  213M=0.07s
+
+2020-02-26 00:42:30 (19.0 Mb/s) - ‘/dev/null’ saved [172900/172900]
+

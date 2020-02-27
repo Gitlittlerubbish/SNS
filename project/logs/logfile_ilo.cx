@@ -1,0 +1,6 @@
+--2020-02-25 21:47:57--  https://ilo.cx/docs/L01.pdf%0D
+--2020-02-25 21:47:57--  https://ilo.cx/docs/L01.pdf%0D
+Resolving ilo.cx (ilo.cx)... Resolving ilo.cx (ilo.cx)... failed: Name or service not known.
+wget: unable to resolve host address ‘ilo.cx’
+failed: Name or service not known.
+wget: unable to resolve host address ‘ilo.cx’

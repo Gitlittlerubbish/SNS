@@ -1,0 +1,6 @@
+--2020-02-25 21:02:59--  http://gov.ai/forms/passport/form-c1.pdf%0D
+Resolving gov.ai (gov.ai)... 45.60.96.252, 107.154.146.252
+Connecting to gov.ai (gov.ai)|45.60.96.252|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:03:00 ERROR 403: Forbidden.
+

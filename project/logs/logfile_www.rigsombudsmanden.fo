@@ -1,0 +1,24 @@
+--2020-02-25 22:19:21--  http://www.rigsombudsmanden.fo/multimedia/Fakta_aftalesystem.pdf%0D
+Resolving www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)... --2020-02-25 22:19:21--  http://www.rigsombudsmanden.fo/multimedia/Fakta_aftalesystem.pdf%0D
+Resolving www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)... 104.20.12.195, 104.20.11.195
+Connecting to www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)|104.20.12.195|:80... connected.
+HTTP request sent, awaiting response... 104.20.11.195, 104.20.12.195
+Connecting to www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)|104.20.11.195|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:21 ERROR 400: Bad Request.
+
+--2020-02-25 22:19:21--  http://www.rigsombudsmanden.fo/multimedia/Fakta_om_motivation.pdf%0D
+Resolving www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)... 104.20.12.195, 104.20.11.195
+Connecting to www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)|104.20.12.195|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:21 ERROR 400: Bad Request.
+
+--2020-02-25 22:19:21--  http://www.rigsombudsmanden.fo/multimedia/Fakta_om_motivation.pdf%0D
+Resolving www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)... 104.20.11.195, 104.20.12.195
+Connecting to www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)|104.20.11.195|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:22 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:19:22 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:22:18--  http://www.fa-sett.no/filer/den_tredelte_hjernen.pdf%0D
+Resolving www.fa-sett.no (www.fa-sett.no)... 194.63.249.232
+Connecting to www.fa-sett.no (www.fa-sett.no)|194.63.249.232|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:22:19 ERROR 404: Not Found.
+

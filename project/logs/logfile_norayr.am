@@ -1,0 +1,12 @@
+--2020-02-25 20:54:13--  http://norayr.am/papers/VEE18.pdf%0D
+Resolving norayr.am (norayr.am)... 81.16.1.26
+Connecting to norayr.am (norayr.am)|81.16.1.26|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:54:14 ERROR 404: Not Found.
+
+--2020-02-25 21:07:13--  http://norayr.am/papers/VEE18.pdf%0D
+Resolving norayr.am (norayr.am)... 81.16.1.26
+Connecting to norayr.am (norayr.am)|81.16.1.26|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:13 ERROR 404: Not Found.
+

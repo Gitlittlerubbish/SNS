@@ -1,0 +1,57 @@
+--2020-02-25 21:39:45--  https://www.ttlaptoipse.cf/Documents/P731.pdf%0D
+Resolving www.ttlaptoipse.cf (www.ttlaptoipse.cf)... 104.31.90.48, 104.31.91.48
+Connecting to www.ttlaptoipse.cf (www.ttlaptoipse.cf)|104.31.90.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.08M
+    50K .......... .......... .......... .......... .......... 10.3M
+   100K .......... .......... .......... .......... .......... 9.60M
+   150K .......... .......... .......... .......... .......... 5.12M
+   200K .......... .......... .                                 197M=0.2s
+
+2020-02-25 21:39:46 (7.42 Mb/s) - ‘/dev/null’ saved [226546]
+
+--2020-02-25 21:39:46--  https://www.ttlaptoipse.cf/Documents/P731.pdf%0D
+Resolving www.ttlaptoipse.cf (www.ttlaptoipse.cf)... 104.31.91.48, 104.31.90.48
+Connecting to www.ttlaptoipse.cf (www.ttlaptoipse.cf)|104.31.91.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.09M
+    50K .......... .....                                       26.1M=0.09s
+
+2020-02-25 21:39:46 (6.28 Mb/s) - ‘/dev/null’ saved [67049]
+
+--2020-02-25 21:40:48--  https://www.ttlaptoipse.cf/Documents/P731.pdf%0D
+Resolving www.ttlaptoipse.cf (www.ttlaptoipse.cf)... 104.31.91.48, 104.31.90.48
+Connecting to www.ttlaptoipse.cf (www.ttlaptoipse.cf)|104.31.91.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.32M
+    50K .......... .......... .......... .......... .......... 13.5M
+   100K .......... .......... .......... .......... .......... 13.7M
+   150K .......... .........                                   10.1G=0.1s
+
+2020-02-25 21:40:49 (11.9 Mb/s) - ‘/dev/null’ saved [173432]
+
+--2020-02-25 21:40:49--  https://www.ttlaptoipse.cf/Documents/P731.pdf%0D
+Resolving www.ttlaptoipse.cf (www.ttlaptoipse.cf)... 104.31.90.48, 104.31.91.48
+Connecting to www.ttlaptoipse.cf (www.ttlaptoipse.cf)|104.31.90.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 8.11M
+    50K .......... .......... .......... .......... .......... 13.0M
+   100K .......... .......... .......... .......... .......... 14.7M
+   150K .......... .......... .......... .......... .......... 15.2M
+   200K .......... .......... .......... .......... .......... 13.8M
+   250K .......... .......... .......... .......... .           234M=0.2s
+
+2020-02-25 21:40:49 (14.2 Mb/s) - ‘/dev/null’ saved [298544]
+

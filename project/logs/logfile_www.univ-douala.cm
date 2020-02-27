@@ -1,0 +1,12 @@
+--2020-02-25 21:35:36--  http://www.univ-douala.cm/STD/Etoundi_et_al_2018.pdf%0D
+Resolving www.univ-douala.cm (www.univ-douala.cm)... 178.63.81.246
+Connecting to www.univ-douala.cm (www.univ-douala.cm)|178.63.81.246|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:36 ERROR 404: Not Found.
+
+--2020-02-25 21:37:34--  http://www.univ-douala.cm/STD/Etoundi_et_al_2018.pdf%0D
+Resolving www.univ-douala.cm (www.univ-douala.cm)... 178.63.81.246
+Connecting to www.univ-douala.cm (www.univ-douala.cm)|178.63.81.246|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:34 ERROR 404: Not Found.
+

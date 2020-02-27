@@ -1,0 +1,24 @@
+--2020-02-25 22:39:39--  https://www.bao.gw/files/BAO_seguro_saude_particulares.pdf%0D
+Resolving www.bao.gw (www.bao.gw)... --2020-02-25 22:39:40--  https://www.bao.gw/files/BAO_seguro_saude_particulares.pdf%0D
+Resolving www.bao.gw (www.bao.gw)... 188.93.230.15
+Connecting to www.bao.gw (www.bao.gw)|188.93.230.15|:443... 188.93.230.15
+Connecting to www.bao.gw (www.bao.gw)|188.93.230.15|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:39:40 ERROR 404: Not Found.
+
+--2020-02-25 22:39:40--  https://www.bao.gw/files/BAO_precario_2017.pdf%0D
+Resolving www.bao.gw (www.bao.gw)... 188.93.230.15
+Connecting to www.bao.gw (www.bao.gw)|188.93.230.15|:443... 404 Not Found
+2020-02-25 22:39:40 ERROR 404: Not Found.
+
+--2020-02-25 22:39:40--  https://www.bao.gw/files/BAO_precario_2017.pdf%0D
+Resolving www.bao.gw (www.bao.gw)... 188.93.230.15
+Connecting to www.bao.gw (www.bao.gw)|188.93.230.15|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:39:40 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:39:40 ERROR 404: Not Found.
+

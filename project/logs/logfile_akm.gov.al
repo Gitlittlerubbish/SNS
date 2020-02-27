@@ -1,32 +1,22 @@
---2020-02-25 15:07:09--  http://akm.gov.al/assets/vkm_nr_247.pdf
+--2020-02-25 20:55:14--  http://akm.gov.al/assets/vkm_nr_247.pdf%0D
 Resolving akm.gov.al (akm.gov.al)... 134.0.42.123
 Connecting to akm.gov.al (akm.gov.al)|134.0.42.123|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 275004 (269K) [application/pdf]
+Length: unspecified [text/html]
 Saving to: ‘/dev/null’
 
-     0K .......... .......... .......... .......... .......... 18%  984K 2s
-    50K .......... .......... .......... .......... .......... 37% 1.86M 1s
-   100K .......... .......... .......... .......... .......... 55% 7.66M 1s
-   150K .......... .......... .......... .......... .......... 74% 1.38M 0s
-   200K .......... .......... .......... .......... .......... 93% 1.07M 0s
-   250K .......... ........                                   100% 6.98M=1.4s
+     0K                                                        1.68G=0s
 
-2020-02-25 15:07:12 (1.58 Mb/s) - ‘/dev/null’ saved [275004/275004]
+2020-02-25 20:55:14 (1.68 Gb/s) - ‘/dev/null’ saved [757]
 
---2020-02-25 15:07:12--  http://akm.gov.al/assets/vkm_nr_247.pdf
+--2020-02-25 20:55:14--  http://akm.gov.al/assets/vkm_nr_247.pdf%0D
 Resolving akm.gov.al (akm.gov.al)... 134.0.42.123
 Connecting to akm.gov.al (akm.gov.al)|134.0.42.123|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 275004 (269K) [application/pdf]
+Length: unspecified [text/html]
 Saving to: ‘/dev/null’
 
-     0K .......... .......... .......... .......... .......... 18%  505K 4s
-    50K .......... .......... .......... .......... .......... 37%  869K 2s
-   100K .......... .......... .......... .......... .......... 55%  944K 1s
-   150K .......... .......... .......... .......... .......... 74%  625K 1s
-   200K .......... .......... .......... .......... .......... 93%  488K 0s
-   250K .......... ........                                   100%  424K=3.6s
+     0K                                                        1.84G=0s
 
-2020-02-25 15:07:16 (616 Kb/s) - ‘/dev/null’ saved [275004/275004]
+2020-02-25 20:55:14 (1.84 Gb/s) - ‘/dev/null’ saved [757]
 

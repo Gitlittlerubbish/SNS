@@ -1,0 +1,12 @@
+--2020-02-26 00:29:38--  http://www.microbank.com.pg/about_us/NMB_AR2011/Download/NMB_AR_2011.pdf%0D
+Resolving www.microbank.com.pg (www.microbank.com.pg)... 203.83.22.46
+Connecting to www.microbank.com.pg (www.microbank.com.pg)|203.83.22.46|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:29:39 ERROR 404: Not Found.
+
+--2020-02-26 00:31:48--  http://www.microbank.com.pg/about_us/NMB_AR2011/Download/NMB_AR_2011.pdf%0D
+Resolving www.microbank.com.pg (www.microbank.com.pg)... 203.83.22.46
+Connecting to www.microbank.com.pg (www.microbank.com.pg)|203.83.22.46|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:31:48 ERROR 404: Not Found.
+

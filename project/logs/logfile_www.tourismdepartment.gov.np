@@ -1,0 +1,6 @@
+--2020-02-26 00:03:55--  https://www.tourismdepartment.gov.np/files/download/79d87e69dc74cd7%0D
+Resolving www.tourismdepartment.gov.np (www.tourismdepartment.gov.np)... 202.45.144.31
+Connecting to www.tourismdepartment.gov.np (www.tourismdepartment.gov.np)|202.45.144.31|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:03:56 ERROR 400: Bad Request.
+

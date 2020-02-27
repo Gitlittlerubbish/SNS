@@ -1,0 +1,12 @@
+--2020-02-25 22:16:40--  https://www.tallinn.ee/Biojaatmed_A5_est%0D
+Resolving www.tallinn.ee (www.tallinn.ee)... 80.235.77.44
+Connecting to www.tallinn.ee (www.tallinn.ee)|80.235.77.44|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:16:41 ERROR 404: Not Found.
+
+--2020-02-25 22:16:50--  https://www.tallinn.ee/Biojaatmed_A5_est%0D
+Resolving www.tallinn.ee (www.tallinn.ee)... 80.235.77.44
+Connecting to www.tallinn.ee (www.tallinn.ee)|80.235.77.44|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:16:50 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:56:28--  https://expressway.ie/pdfs/1470224678-X1.pdf%0D
+Resolving expressway.ie (expressway.ie)... 194.106.151.151
+Connecting to expressway.ie (expressway.ie)|194.106.151.151|:443... connected.
+ERROR: cannot verify expressway.ie's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to expressway.ie insecurely, use `--no-check-certificate'.

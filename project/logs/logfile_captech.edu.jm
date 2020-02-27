@@ -1,0 +1,6 @@
+--2020-02-25 23:01:06--  http://captech.edu.jm/copies/cob_good_practice_guide_3.pdf%0D
+Resolving captech.edu.jm (captech.edu.jm)... 67.222.38.67
+Connecting to captech.edu.jm (captech.edu.jm)|67.222.38.67|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:01:06 ERROR 404: Not Found.
+

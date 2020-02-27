@@ -1,0 +1,12 @@
+--2020-02-25 21:46:51--  http://www.bonnier.net.cn/download/d_20200129104813.pdf%0D
+Resolving www.bonnier.net.cn (www.bonnier.net.cn)... --2020-02-25 21:46:51--  http://www.bonnier.net.cn/download/d_20200129104813.pdf%0D
+Resolving www.bonnier.net.cn (www.bonnier.net.cn)... 120.24.184.97
+Connecting to www.bonnier.net.cn (www.bonnier.net.cn)|120.24.184.97|:80... 120.24.184.97
+Connecting to www.bonnier.net.cn (www.bonnier.net.cn)|120.24.184.97|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:46:51 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 21:46:51 ERROR 404: Not Found.
+

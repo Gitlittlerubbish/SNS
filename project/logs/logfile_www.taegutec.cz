@@ -1,0 +1,60 @@
+--2020-02-25 22:05:54--  http://www.taegutec.cz/innotool/prirucka_obrabeni_2114.pdf%0D
+Resolving www.taegutec.cz (www.taegutec.cz)... --2020-02-25 22:05:54--  http://www.taegutec.cz/innotool/prirucka_obrabeni_2114.pdf%0D
+Resolving www.taegutec.cz (www.taegutec.cz)... 88.86.111.205
+Connecting to www.taegutec.cz (www.taegutec.cz)|88.86.111.205|:80... 88.86.111.205
+Connecting to www.taegutec.cz (www.taegutec.cz)|88.86.111.205|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: ../index.php [following]
+--2020-02-25 22:05:55--  http://www.taegutec.cz/index.php
+Reusing existing connection to www.taegutec.cz:80.
+HTTP request sent, awaiting response... 302 Found
+Location: ../index.php [following]
+--2020-02-25 22:05:55--  http://www.taegutec.cz/index.php
+Reusing existing connection to www.taegutec.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2095 (2.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 4.65G=0s
+
+2020-02-25 22:05:55 (4.65 Gb/s) - ‘/dev/null’ saved [2095/2095]
+
+--2020-02-25 22:05:55--  http://www.taegutec.cz/innotool/prirucka_obrabeni_2114.pdf%0D
+Resolving www.taegutec.cz (www.taegutec.cz)... 88.86.111.205
+Connecting to www.taegutec.cz (www.taegutec.cz)|88.86.111.205|:80... 200 OK
+Length: 2095 (2.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 5.17G=0s
+
+2020-02-25 22:05:55 (5.17 Gb/s) - ‘/dev/null’ saved [2095/2095]
+
+--2020-02-25 22:05:55--  http://www.taegutec.cz/innotool/prirucka_obrabeni_2114.pdf%0D
+Resolving www.taegutec.cz (www.taegutec.cz)... 88.86.111.205
+Connecting to www.taegutec.cz (www.taegutec.cz)|88.86.111.205|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: ../index.php [following]
+--2020-02-25 22:05:55--  http://www.taegutec.cz/index.php
+Reusing existing connection to www.taegutec.cz:80.
+HTTP request sent, awaiting response... 302 Found
+Location: ../index.php [following]
+--2020-02-25 22:05:55--  http://www.taegutec.cz/index.php
+Reusing existing connection to www.taegutec.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2095 (2.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 4.44G=0s
+
+2020-02-25 22:05:55 (4.44 Gb/s) - ‘/dev/null’ saved [2095/2095]
+
+200 OK
+Length: 2095 (2.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 4.70G=0s
+
+2020-02-25 22:05:55 (4.70 Gb/s) - ‘/dev/null’ saved [2095/2095]
+

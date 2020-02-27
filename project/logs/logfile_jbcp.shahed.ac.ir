@@ -1,0 +1,6 @@
+--2020-02-25 22:55:12--  http://jbcp.shahed.ac.ir/article_541_a6dbe33b6204d4d0ea974eca25ff7c3d.pdf%0D
+Resolving jbcp.shahed.ac.ir (jbcp.shahed.ac.ir)... 77.104.80.40
+Connecting to jbcp.shahed.ac.ir (jbcp.shahed.ac.ir)|77.104.80.40|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:55:12 ERROR 404: Not Found.
+

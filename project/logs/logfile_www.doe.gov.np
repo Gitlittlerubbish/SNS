@@ -1,0 +1,6 @@
+--2020-02-26 00:03:03--  http://www.doe.gov.np/assets/uploads/files/47441f6a3f1e62dedb7bb91655b8df92.pdf%0D
+Resolving www.doe.gov.np (www.doe.gov.np)... 202.45.144.21
+Connecting to www.doe.gov.np (www.doe.gov.np)|202.45.144.21|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection reset by peer) in headers.
+Giving up.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:12:08--  http://had.co.nz/reshape/introduction.pdf%0D
+Resolving had.co.nz (had.co.nz)... 52.219.112.44
+Connecting to had.co.nz (had.co.nz)|52.219.112.44|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:12:08 ERROR 404: Not Found.
+

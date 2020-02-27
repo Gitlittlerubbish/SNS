@@ -1,0 +1,68 @@
+--2020-02-25 21:17:18--  http://sbb.ba/pdf/djugum_mirsad.pdf%0D
+Resolving sbb.ba (sbb.ba)... 104.24.126.93, 104.24.127.93
+Connecting to sbb.ba (sbb.ba)|104.24.126.93|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sbb.ba/pdf/djugum_mirsad.pdf [following]
+--2020-02-25 21:17:19--  http://www.sbb.ba/pdf/djugum_mirsad.pdf
+Resolving www.sbb.ba (www.sbb.ba)... 78.47.181.108
+Connecting to www.sbb.ba (www.sbb.ba)|78.47.181.108|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98857 (97K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 9.38M 0s
+    50K .......... .......... .......... .......... ......    100% 17.5M=0.07s
+
+2020-02-25 21:17:19 (12.1 Mb/s) - ‘/dev/null’ saved [98857/98857]
+
+--2020-02-25 21:17:19--  http://sbb.ba/pdf/djugum_mirsad.pdf%0D
+Resolving sbb.ba (sbb.ba)... 104.24.126.93, 104.24.127.93
+Connecting to sbb.ba (sbb.ba)|104.24.126.93|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sbb.ba/pdf/djugum_mirsad.pdf [following]
+--2020-02-25 21:17:20--  http://www.sbb.ba/pdf/djugum_mirsad.pdf
+Resolving www.sbb.ba (www.sbb.ba)... 78.47.181.108
+Connecting to www.sbb.ba (www.sbb.ba)|78.47.181.108|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98857 (97K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 9.41M 0s
+    50K .......... .......... .......... .......... ......    100% 17.5M=0.07s
+
+2020-02-25 21:17:20 (12.1 Mb/s) - ‘/dev/null’ saved [98857/98857]
+
+--2020-02-25 21:24:30--  http://sbb.ba/pdf/djugum_mirsad.pdf%0D
+Resolving sbb.ba (sbb.ba)... 104.24.127.93, 104.24.126.93
+Connecting to sbb.ba (sbb.ba)|104.24.127.93|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sbb.ba/pdf/djugum_mirsad.pdf [following]
+--2020-02-25 21:24:31--  http://www.sbb.ba/pdf/djugum_mirsad.pdf
+Resolving www.sbb.ba (www.sbb.ba)... 78.47.181.108
+Connecting to www.sbb.ba (www.sbb.ba)|78.47.181.108|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98857 (97K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 9.39M 0s
+    50K .......... .......... .......... .......... ......    100% 17.3M=0.07s
+
+2020-02-25 21:24:31 (12.0 Mb/s) - ‘/dev/null’ saved [98857/98857]
+
+--2020-02-25 21:24:31--  http://sbb.ba/pdf/djugum_mirsad.pdf%0D
+Resolving sbb.ba (sbb.ba)... 104.24.126.93, 104.24.127.93
+Connecting to sbb.ba (sbb.ba)|104.24.126.93|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sbb.ba/pdf/djugum_mirsad.pdf [following]
+--2020-02-25 21:24:31--  http://www.sbb.ba/pdf/djugum_mirsad.pdf
+Resolving www.sbb.ba (www.sbb.ba)... 78.47.181.108
+Connecting to www.sbb.ba (www.sbb.ba)|78.47.181.108|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98857 (97K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 9.38M 0s
+    50K .......... .......... .......... .......... ......    100% 17.5M=0.07s
+
+2020-02-25 21:24:32 (12.1 Mb/s) - ‘/dev/null’ saved [98857/98857]
+

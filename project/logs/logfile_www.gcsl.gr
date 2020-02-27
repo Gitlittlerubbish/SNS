@@ -1,0 +1,12 @@
+--2020-02-25 22:35:29--  http://www.gcsl.gr/media/environment/MERCURY08062012.pdf%0D
+Resolving www.gcsl.gr (www.gcsl.gr)... --2020-02-25 22:35:29--  http://www.gcsl.gr/media/environment/MERCURY08062012.pdf%0D
+Resolving www.gcsl.gr (www.gcsl.gr)... 62.1.1.88
+Connecting to www.gcsl.gr (www.gcsl.gr)|62.1.1.88|:80... 62.1.1.88
+Connecting to www.gcsl.gr (www.gcsl.gr)|62.1.1.88|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:35:29 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:35:29 ERROR 400: Bad Request.
+

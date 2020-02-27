@@ -1,0 +1,6 @@
+--2020-02-25 22:46:25--  http://www.hkeaa.edu.hk/DocLibrary/Candidates/2019DAR_C.pdf%0D
+Resolving www.hkeaa.edu.hk (www.hkeaa.edu.hk)... 103.6.136.236
+Connecting to www.hkeaa.edu.hk (www.hkeaa.edu.hk)|103.6.136.236|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:46:25 ERROR 400: Bad Request.
+

@@ -1,0 +1,92 @@
+--2020-02-25 22:21:57--  https://www.makupalat.fi/goto/82092%0D
+Resolving www.makupalat.fi (www.makupalat.fi)... 217.78.0.65
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.makupalat.fi/fi [following]
+--2020-02-25 22:21:57--  http://www.makupalat.fi/fi
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.makupalat.fi/fi [following]
+--2020-02-25 22:21:57--  https://www.makupalat.fi/fi
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:21:57--  https://www.makupalat.fi/goto/82092%0D
+Resolving www.makupalat.fi (www.makupalat.fi)... 217.78.0.65
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.makupalat.fi/fi [following]
+--2020-02-25 22:21:57--  http://www.makupalat.fi/fi
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.makupalat.fi/fi [following]
+--2020-02-25 22:21:57--  https://www.makupalat.fi/fi
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21.0M
+    50K .......... .......... .......... .......... .......... 1.12G
+   100K .......... .......... .......... .......... .......... 41.3M
+   150K .......... .......... .......... .......... ..........  529M
+   200K .......... .......... .......... .......... .........  46.3M=0.04s
+
+2020-02-25 22:21:59 (52.0 Mb/s) - ‘/dev/null’ saved [255185]
+
+--2020-02-25 22:21:59--  https://www.makupalat.fi/goto/82092%0D
+Resolving www.makupalat.fi (www.makupalat.fi)... 217.78.0.65
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.makupalat.fi/fi [following]
+--2020-02-25 22:21:59--  http://www.makupalat.fi/fi
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.makupalat.fi/fi [following]
+--2020-02-25 22:21:59--  https://www.makupalat.fi/fi
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41.4M
+    50K .......... .......... .......... .......... .......... 42.1M
+   100K .......... .......... .......... .......... ..........  105M
+   150K .......... .......... .......... .......... .......... 67.1M
+   200K .......... .......... .......... .......... .........  1.10G=0.03s
+
+2020-02-25 22:21:59 (68.0 Mb/s) - ‘/dev/null’ saved [255185]
+
+--2020-02-25 22:21:59--  https://www.makupalat.fi/goto/82092%0D
+Resolving www.makupalat.fi (www.makupalat.fi)... 217.78.0.65
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.makupalat.fi/fi [following]
+--2020-02-25 22:21:59--  http://www.makupalat.fi/fi
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.makupalat.fi/fi [following]
+--2020-02-25 22:21:59--  https://www.makupalat.fi/fi
+Connecting to www.makupalat.fi (www.makupalat.fi)|217.78.0.65|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39.2M
+    50K .......... .......... .......... .......... .......... 45.8M
+   100K .......... .......... .......... .......... ..........  340M
+   150K .......... .......... .......... .......... .......... 46.4M
+   200K .......... .......... .......... .......... .........   703M=0.03s
+
+2020-02-25 22:22:00 (68.1 Mb/s) - ‘/dev/null’ saved [255185]
+
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40.4M
+    50K .......... .......... .......... .......... .......... 41.8M
+   100K .......... .......... .......... .......... .......... 1.08G
+   150K .......... .......... .......... .......... .......... 42.5M
+   200K .......... .......... .......... .......... .........  1.01G=0.03s
+
+2020-02-25 22:22:01 (67.3 Mb/s) - ‘/dev/null’ saved [255185]
+

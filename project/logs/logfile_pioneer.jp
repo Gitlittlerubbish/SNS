@@ -1,0 +1,15 @@
+--2020-02-25 23:04:16--  https://pioneer.jp/support/purpose/faq/pdf/16cyber-connect_pan.pdf%0D
+Resolving pioneer.jp (pioneer.jp)... 153.153.159.136
+Connecting to pioneer.jp (pioneer.jp)|153.153.159.136|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://jpn.pioneer/ja/support/purpose/faq/pdf/16cyber-connect_pan.pdf%0d [following]
+--2020-02-25 23:04:16--  http://jpn.pioneer/ja/support/purpose/faq/pdf/16cyber-connect_pan.pdf%0d
+Resolving jpn.pioneer (jpn.pioneer)... 153.153.159.136
+Connecting to jpn.pioneer (jpn.pioneer)|153.153.159.136|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jpn.pioneer/ja/support/purpose/faq/pdf/16cyber-connect_pan.pdf%0d [following]
+--2020-02-25 23:04:17--  https://jpn.pioneer/ja/support/purpose/faq/pdf/16cyber-connect_pan.pdf%0d
+Connecting to jpn.pioneer (jpn.pioneer)|153.153.159.136|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:04:18 ERROR 404: Not Found.
+

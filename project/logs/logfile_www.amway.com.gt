@@ -1,0 +1,24 @@
+--2020-02-25 22:37:19--  http://www.amway.com.gt/downloads/Preguntas_Frecuentes_Fragancias_Ertia.pdf%0D
+Resolving www.amway.com.gt (www.amway.com.gt)... --2020-02-25 22:37:20--  http://www.amway.com.gt/downloads/Preguntas_Frecuentes_Fragancias_Ertia.pdf%0D
+Resolving www.amway.com.gt (www.amway.com.gt)... 104.82.241.212
+Connecting to www.amway.com.gt (www.amway.com.gt)|104.82.241.212|:80... connected.
+HTTP request sent, awaiting response... 104.82.241.212
+Connecting to www.amway.com.gt (www.amway.com.gt)|104.82.241.212|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:37:20 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:37:20 ERROR 400: Bad Request.
+
+--2020-02-25 22:37:22--  http://www.amway.com.gt/downloads/Preguntas_Frecuentes_Fragancias_Ertia.pdf%0D
+Resolving www.amway.com.gt (www.amway.com.gt)... 104.82.241.212
+Connecting to www.amway.com.gt (www.amway.com.gt)|104.82.241.212|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:37:22--  http://www.amway.com.gt/downloads/Preguntas_Frecuentes_Fragancias_Ertia.pdf%0D
+Resolving www.amway.com.gt (www.amway.com.gt)... 104.82.241.212
+Connecting to www.amway.com.gt (www.amway.com.gt)|104.82.241.212|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:37:22 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:37:22 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:36:46--  https://www.talltreehealth.ca/s/Diabetes-2%0D
+Resolving www.talltreehealth.ca (www.talltreehealth.ca)... 198.49.23.144, 198.49.23.145, 198.185.159.144, ...
+Connecting to www.talltreehealth.ca (www.talltreehealth.ca)|198.49.23.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:47 ERROR 404: Not Found.
+
+--2020-02-25 21:38:27--  https://www.talltreehealth.ca/s/Diabetes-2%0D
+Resolving www.talltreehealth.ca (www.talltreehealth.ca)... 198.185.159.145, 198.49.23.144, 198.49.23.145, ...
+Connecting to www.talltreehealth.ca (www.talltreehealth.ca)|198.185.159.145|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:38:28 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 23:05:21--  https://eis.hu.edu.jo/deanshipfiles/pub103674802.pdf%0D
+Resolving eis.hu.edu.jo (eis.hu.edu.jo)... 87.236.232.216
+Connecting to eis.hu.edu.jo (eis.hu.edu.jo)|87.236.232.216|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:21 ERROR 400: Bad Request.
+
+--2020-02-25 23:05:21--  https://eis.hu.edu.jo/deanshipfiles/pub101261172.pdf%0D
+Resolving eis.hu.edu.jo (eis.hu.edu.jo)... 87.236.232.216
+Connecting to eis.hu.edu.jo (eis.hu.edu.jo)|87.236.232.216|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:21 ERROR 400: Bad Request.
+

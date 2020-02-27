@@ -1,0 +1,12 @@
+--2020-02-25 21:05:23--  https://www.hohenstein.com.bd/fileadmin/user_upload/Downloads/Test_Standards/OEKO-TEX/OEKO-TEX_Standard_MADE_IN_GREEN_EN.pdf%0D
+Resolving www.hohenstein.com.bd (www.hohenstein.com.bd)... 46.232.230.195
+Connecting to www.hohenstein.com.bd (www.hohenstein.com.bd)|46.232.230.195|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:05:23 ERROR 404: Not Found.
+
+--2020-02-25 21:15:52--  https://www.hohenstein.com.bd/fileadmin/user_upload/Downloads/Test_Standards/OEKO-TEX/OEKO-TEX_Standard_MADE_IN_GREEN_EN.pdf%0D
+Resolving www.hohenstein.com.bd (www.hohenstein.com.bd)... 46.232.230.195
+Connecting to www.hohenstein.com.bd (www.hohenstein.com.bd)|46.232.230.195|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:52 ERROR 404: Not Found.
+

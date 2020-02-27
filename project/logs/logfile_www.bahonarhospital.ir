@@ -1,0 +1,6 @@
+--2020-02-25 22:54:34--  http://www.bahonarhospital.ir/TempImage/barname.pdf%0D
+Resolving www.bahonarhospital.ir (www.bahonarhospital.ir)... 185.10.75.29
+Connecting to www.bahonarhospital.ir (www.bahonarhospital.ir)|185.10.75.29|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:54:34 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:44:35--  https://www.ficohsapensiones.hn/media/1055/openbts-40-manual.pdf%0D
+Resolving www.ficohsapensiones.hn (www.ficohsapensiones.hn)... 190.5.68.13
+Connecting to www.ficohsapensiones.hn (www.ficohsapensiones.hn)|190.5.68.13|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:44:36 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:05:52--  https://www.orange.jo/en/documents/contracts/adsl_arabic.pdf%0D
+Resolving www.orange.jo (www.orange.jo)... 213.139.33.145
+Connecting to www.orange.jo (www.orange.jo)|213.139.33.145|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:52 ERROR 400: Bad Request.
+

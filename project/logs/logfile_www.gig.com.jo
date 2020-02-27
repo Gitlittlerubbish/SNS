@@ -1,0 +1,6 @@
+--2020-02-25 23:06:05--  https://www.gig.com.jo/DataFiles/MediaArabic/MedicalNetworkNew/Medical_Network_pharmacy.pdf%0D
+Resolving www.gig.com.jo (www.gig.com.jo)... 162.241.240.166
+Connecting to www.gig.com.jo (www.gig.com.jo)|162.241.240.166|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:06:05 ERROR 400: Bad Request.
+

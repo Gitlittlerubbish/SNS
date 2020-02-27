@@ -1,0 +1,12 @@
+--2020-02-25 21:37:43--  http://www.uniset.ca/microstates/Act_on_Greenland_Self-Government.pdf%0D
+Resolving www.uniset.ca (www.uniset.ca)... 66.96.149.32
+Connecting to www.uniset.ca (www.uniset.ca)|66.96.149.32|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:37:43 ERROR 400: Bad Request.
+
+--2020-02-25 21:39:08--  http://www.uniset.ca/microstates/Act_on_Greenland_Self-Government.pdf%0D
+Resolving www.uniset.ca (www.uniset.ca)... 66.96.149.32
+Connecting to www.uniset.ca (www.uniset.ca)|66.96.149.32|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:39:08 ERROR 400: Bad Request.
+

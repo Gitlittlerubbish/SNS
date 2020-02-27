@@ -1,0 +1,12 @@
+--2020-02-25 21:21:28--  http://www.engbrasil.eng.br/artigos/art1.pdf%0D
+Resolving www.engbrasil.eng.br (www.engbrasil.eng.br)... 187.17.111.98
+Connecting to www.engbrasil.eng.br (www.engbrasil.eng.br)|187.17.111.98|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:21:29 ERROR 400: Bad Request.
+
+--2020-02-25 21:27:12--  http://www.engbrasil.eng.br/artigos/art1.pdf%0D
+Resolving www.engbrasil.eng.br (www.engbrasil.eng.br)... 187.17.111.98
+Connecting to www.engbrasil.eng.br (www.engbrasil.eng.br)|187.17.111.98|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:27:12 ERROR 400: Bad Request.
+

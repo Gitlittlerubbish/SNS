@@ -1,0 +1,12 @@
+--2020-02-25 22:05:34--  http://www.vyzkum.cz/storage/att/BB743D4E2B61E95FA36D7DADD47BE704/Z%25C3%25A1kon_130_2002.pdf%0D
+Resolving www.vyzkum.cz (www.vyzkum.cz)... --2020-02-25 22:05:34--  http://www.vyzkum.cz/storage/att/BB743D4E2B61E95FA36D7DADD47BE704/Z%25C3%25A1kon_130_2002.pdf%0D
+Resolving www.vyzkum.cz (www.vyzkum.cz)... 82.100.39.139
+Connecting to www.vyzkum.cz (www.vyzkum.cz)|82.100.39.139|:80... 82.100.39.139
+Connecting to www.vyzkum.cz (www.vyzkum.cz)|82.100.39.139|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:05:34 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:05:34 ERROR 400: Bad Request.
+

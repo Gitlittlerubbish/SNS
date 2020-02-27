@@ -1,0 +1,12 @@
+--2020-02-25 22:05:38--  https://www.fce.vutbr.cz/che/doc/chemicke_nazvoslovi.pdf%0D
+Resolving www.fce.vutbr.cz (www.fce.vutbr.cz)... --2020-02-25 22:05:38--  https://www.fce.vutbr.cz/che/doc/chemicke_nazvoslovi.pdf%0D
+Resolving www.fce.vutbr.cz (www.fce.vutbr.cz)... 147.229.16.89
+Connecting to www.fce.vutbr.cz (www.fce.vutbr.cz)|147.229.16.89|:443... 147.229.16.89
+Connecting to www.fce.vutbr.cz (www.fce.vutbr.cz)|147.229.16.89|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:05:38 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:05:38 ERROR 400: Bad Request.
+

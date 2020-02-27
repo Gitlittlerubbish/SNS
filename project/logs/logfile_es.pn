@@ -1,0 +1,36 @@
+--2020-02-26 00:40:27--  http://es.pn/oPGrva%0D
+Resolving es.pn (es.pn)... 67.199.248.13, 67.199.248.12
+Connecting to es.pn (es.pn)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://espn.go.com/photo/2007/0828/cardinals_playbook.pdf [following]
+--2020-02-26 00:40:28--  http://espn.go.com/photo/2007/0828/cardinals_playbook.pdf
+Resolving espn.go.com (espn.go.com)... 13.35.198.38, 13.35.198.69, 13.35.198.97, ...
+Connecting to espn.go.com (espn.go.com)|13.35.198.38|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.espn.com/photo/2007/0828/cardinals_playbook.pdf [following]
+--2020-02-26 00:40:28--  https://www.espn.com/photo/2007/0828/cardinals_playbook.pdf
+Resolving www.espn.com (www.espn.com)... 99.84.5.106, 99.84.5.81, 99.84.5.119, ...
+Connecting to www.espn.com (www.espn.com)|99.84.5.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 839028 (819K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 2.77M 2s
+    50K .......... .......... .......... .......... .......... 12% 5.54M 2s
+   100K .......... .......... .......... .......... .......... 18%  846M 1s
+   150K .......... .......... .......... .......... .......... 24% 8.46M 1s
+   200K .......... .......... .......... .......... .......... 30% 16.3M 1s
+   250K .......... .......... .......... .......... .......... 36%  850M 1s
+   300K .......... .......... .......... .......... .......... 42%  821M 0s
+   350K .......... .......... .......... .......... .......... 48% 8.56M 0s
+   400K .......... .......... .......... .......... .......... 54% 16.4M 0s
+   450K .......... .......... .......... .......... .......... 61%  936M 0s
+   500K .......... .......... .......... .......... .......... 67% 1.37G 0s
+   550K .......... .......... .......... .......... .......... 73%  705M 0s
+   600K .......... .......... .......... .......... .......... 79%  739M 0s
+   650K .......... .......... .......... .......... .......... 85%  790M 0s
+   700K .......... .......... .......... .......... .......... 91% 3.15G 0s
+   750K .......... .......... .....                            94% 8.01G=0.4s
+
+2020-02-26 00:40:29 (17.1 Mb/s) - Connection closed at byte 794565. Giving up.
+

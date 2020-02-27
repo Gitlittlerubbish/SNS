@@ -1,3 +1,6 @@
---2020-02-25 14:33:22--  http://legacy.npa.gov.af/Documents/ProcurementLaw/Dari/ProcurementLawNew.pdf
-Resolving legacy.npa.gov.af (legacy.npa.gov.af)... failed: Operation timed out.
-wget: unable to resolve host address ‘legacy.npa.gov.af’
+--2020-02-25 20:54:19--  http://legacy.npa.gov.af/Documents/APPLeS.pdf%0D
+Resolving legacy.npa.gov.af (legacy.npa.gov.af)... 13.209.224.22
+Connecting to legacy.npa.gov.af (legacy.npa.gov.af)|13.209.224.22|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:54:19 ERROR 400: Bad Request.
+

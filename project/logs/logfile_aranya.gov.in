@@ -1,0 +1,6 @@
+--2020-02-25 22:51:05--  https://aranya.gov.in/downloads/FC_Act_1980.pdf%0D
+Resolving aranya.gov.in (aranya.gov.in)... 164.100.80.175
+Connecting to aranya.gov.in (aranya.gov.in)|164.100.80.175|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:51:06 ERROR 400: Bad Request.
+

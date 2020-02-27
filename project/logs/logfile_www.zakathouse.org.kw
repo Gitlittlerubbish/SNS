@@ -1,0 +1,6 @@
+--2020-02-25 23:15:48--  https://www.zakathouse.org.kw/pdf/report2017.pdf%0D
+Resolving www.zakathouse.org.kw (www.zakathouse.org.kw)... 83.96.51.124
+Connecting to www.zakathouse.org.kw (www.zakathouse.org.kw)|83.96.51.124|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:15:49 ERROR 400: Bad Request.
+

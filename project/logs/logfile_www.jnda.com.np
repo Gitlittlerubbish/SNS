@@ -1,0 +1,12 @@
+--2020-02-26 00:04:03--  http://www.jnda.com.np/article/2ygmcpkyve2.pdf%0D
+Resolving www.jnda.com.np (www.jnda.com.np)... 143.95.252.251
+Connecting to www.jnda.com.np (www.jnda.com.np)|143.95.252.251|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:04:06 ERROR 404: Not Found.
+
+--2020-02-26 00:04:17--  http://www.jnda.com.np/article/ax67kyuor74.pdf%0D
+Resolving www.jnda.com.np (www.jnda.com.np)... 143.95.252.251
+Connecting to www.jnda.com.np (www.jnda.com.np)|143.95.252.251|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:04:17 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:23:00--  https://home.moe.gov.om/file/mwatna/pdf/8.pdf%0D
+Resolving home.moe.gov.om (home.moe.gov.om)... 185.255.204.33
+Connecting to home.moe.gov.om (home.moe.gov.om)|185.255.204.33|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:23:01 ERROR 403: Forbidden.
+

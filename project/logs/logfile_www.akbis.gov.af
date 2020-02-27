@@ -1,50 +1,12 @@
---2020-02-25 14:29:15--  https://www.akbis.gov.af/uploads/countryinfo/1459572836.pdf
+--2020-02-25 20:54:18--  https://www.akbis.gov.af/uploads/countryinfo/1459572836.pdf%0D
+Resolving www.akbis.gov.af (www.akbis.gov.af)... 104.27.145.107, 104.27.144.107
+Connecting to www.akbis.gov.af (www.akbis.gov.af)|104.27.145.107|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:54:19 ERROR 400: Bad Request.
+
+--2020-02-25 20:54:19--  https://www.akbis.gov.af/uploads/countryinfo/363475816.pdf%0D
 Resolving www.akbis.gov.af (www.akbis.gov.af)... 104.27.144.107, 104.27.145.107
 Connecting to www.akbis.gov.af (www.akbis.gov.af)|104.27.144.107|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 84731 (83K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 60% 31.0M 0s
-    50K .......... .......... .......... ..                   100% 28.2M=0.02s
-
-2020-02-25 14:29:15 (29.8 Mb/s) - ‘/dev/null’ saved [84731/84731]
-
---2020-02-25 14:29:15--  https://www.akbis.gov.af/uploads/countryinfo/1459572836.pdf
-Resolving www.akbis.gov.af (www.akbis.gov.af)... 104.27.144.107, 104.27.145.107
-Connecting to www.akbis.gov.af (www.akbis.gov.af)|104.27.144.107|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 84731 (83K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 60% 50.9M 0s
-    50K .......... .......... .......... ..                   100% 29.1M=0.02s
-
-2020-02-25 14:29:15 (39.3 Mb/s) - ‘/dev/null’ saved [84731/84731]
-
---2020-02-25 14:29:15--  https://www.akbis.gov.af/uploads/countryinfo/363475816.pdf
-Resolving www.akbis.gov.af (www.akbis.gov.af)... 104.27.144.107, 104.27.145.107
-Connecting to www.akbis.gov.af (www.akbis.gov.af)|104.27.144.107|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 138342 (135K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 37% 42.0M 0s
-    50K .......... .......... .......... .......... .......... 74% 31.2M 0s
-   100K .......... .......... .......... .....                100% 43.0M=0.03s
-
-2020-02-25 14:29:15 (37.5 Mb/s) - ‘/dev/null’ saved [138342/138342]
-
---2020-02-25 14:29:15--  https://www.akbis.gov.af/uploads/countryinfo/363475816.pdf
-Resolving www.akbis.gov.af (www.akbis.gov.af)... 104.27.144.107, 104.27.145.107
-Connecting to www.akbis.gov.af (www.akbis.gov.af)|104.27.144.107|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 138342 (135K) [application/pdf]
-Saving to: ‘/dev/null’
-
-     0K .......... .......... .......... .......... .......... 37% 48.5M 0s
-    50K .......... .......... .......... .......... .......... 74% 37.3M 0s
-   100K .......... .......... .......... .....                100% 40.9M=0.03s
-
-2020-02-25 14:29:15 (41.9 Mb/s) - ‘/dev/null’ saved [138342/138342]
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:54:19 ERROR 400: Bad Request.
 

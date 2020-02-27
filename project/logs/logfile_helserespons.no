@@ -1,0 +1,22 @@
+--2020-02-26 00:22:31--  https://helserespons.no/web/doku/1547475104_755.pdf%0D
+Resolving helserespons.no (helserespons.no)... 87.238.50.82
+Connecting to helserespons.no (helserespons.no)|87.238.50.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 29.5M=0s
+
+2020-02-26 00:22:31 (29.5 Mb/s) - ‘/dev/null’ saved [22/22]
+
+--2020-02-26 00:22:31--  https://helserespons.no/web/doku/1547475104_755.pdf%0D
+Resolving helserespons.no (helserespons.no)... 87.238.50.82
+Connecting to helserespons.no (helserespons.no)|87.238.50.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 10.6M=0s
+
+2020-02-26 00:22:31 (10.6 Mb/s) - ‘/dev/null’ saved [22/22]
+

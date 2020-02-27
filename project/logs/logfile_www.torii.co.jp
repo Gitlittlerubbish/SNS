@@ -1,0 +1,30 @@
+--2020-02-25 23:02:47--  https://www.torii.co.jp/health/oyakudati/pdf/oyakudati_11.pdf%0D
+Resolving www.torii.co.jp (www.torii.co.jp)... 210.128.210.226
+Connecting to www.torii.co.jp (www.torii.co.jp)|210.128.210.226|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.torii.co.jp/404.html [following]
+--2020-02-25 23:02:48--  https://www.torii.co.jp/404.html
+Reusing existing connection to www.torii.co.jp:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                         483K=0.2s
+
+2020-02-25 23:02:48 (483 Kb/s) - ‘/dev/null’ saved [14362]
+
+--2020-02-25 23:02:48--  https://www.torii.co.jp/health/oyakudati/pdf/oyakudati_11.pdf%0D
+Resolving www.torii.co.jp (www.torii.co.jp)... 210.128.210.226
+Connecting to www.torii.co.jp (www.torii.co.jp)|210.128.210.226|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.torii.co.jp/404.html [following]
+--2020-02-25 23:02:49--  https://www.torii.co.jp/404.html
+Reusing existing connection to www.torii.co.jp:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                         501K=0.2s
+
+2020-02-25 23:02:50 (501 Kb/s) - ‘/dev/null’ saved [14362]
+

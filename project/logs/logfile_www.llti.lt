@@ -1,0 +1,12 @@
+--2020-02-25 23:25:13--  http://www.llti.lt/failai/14_Skaiciuotes.pdf%0D
+Resolving www.llti.lt (www.llti.lt)... 193.219.55.187
+Connecting to www.llti.lt (www.llti.lt)|193.219.55.187|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 23:25:14 ERROR 403: Forbidden.
+
+--2020-02-25 23:25:16--  http://www.llti.lt/failai/14_Skaiciuotes.pdf%0D
+Resolving www.llti.lt (www.llti.lt)... 193.219.55.187
+Connecting to www.llti.lt (www.llti.lt)|193.219.55.187|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 23:25:16 ERROR 403: Forbidden.
+

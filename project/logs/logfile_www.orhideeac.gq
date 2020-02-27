@@ -1,0 +1,50 @@
+--2020-02-25 22:15:57--  https://www.orhideeac.gq/PDF/GDPR/Danske_Bank_privacy_notice.pdf%0D
+Resolving www.orhideeac.gq (www.orhideeac.gq)... 104.18.52.42, 104.18.53.42
+Connecting to www.orhideeac.gq (www.orhideeac.gq)|104.18.52.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.10M
+    50K .......... .......... .......... .......... .......... 9.60M
+   100K .......... .......... .......... .......... .......... 10.4M
+   150K .......... .......... .......... ..                    83.7M=0.2s
+
+2020-02-25 22:15:58 (9.02 Mb/s) - ‘/dev/null’ saved [186570]
+
+--2020-02-25 22:15:58--  https://www.orhideeac.gq/PDF/GDPR/Danske_Bank_privacy_notice.pdf%0D
+Resolving www.orhideeac.gq (www.orhideeac.gq)... 104.18.52.42, 104.18.53.42
+Connecting to www.orhideeac.gq (www.orhideeac.gq)|104.18.52.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...        6.76M=0.05s
+
+2020-02-25 22:15:58 (6.76 Mb/s) - ‘/dev/null’ saved [44284]
+
+--2020-02-25 22:16:10--  https://www.orhideeac.gq/PDF/GDPR/Danske_Bank_privacy_notice.pdf%0D
+Resolving www.orhideeac.gq (www.orhideeac.gq)... 104.18.53.42, 104.18.52.42
+Connecting to www.orhideeac.gq (www.orhideeac.gq)|104.18.53.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...        6.52M=0.05s
+
+2020-02-25 22:16:10 (6.52 Mb/s) - ‘/dev/null’ saved [44497]
+
+--2020-02-25 22:16:10--  https://www.orhideeac.gq/PDF/GDPR/Danske_Bank_privacy_notice.pdf%0D
+Resolving www.orhideeac.gq (www.orhideeac.gq)... 104.18.53.42, 104.18.52.42
+Connecting to www.orhideeac.gq (www.orhideeac.gq)|104.18.53.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.10M
+    50K .......... .......... .......... .......... .......... 9.51M
+   100K .......... .......... .......... .......... .......... 1.85G
+   150K .......... .......... .......... ....                  2.61G=0.1s
+
+2020-02-25 22:16:11 (12.2 Mb/s) - ‘/dev/null’ saved [188862]
+

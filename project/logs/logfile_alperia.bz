@@ -1,0 +1,12 @@
+--2020-02-25 21:08:57--  http://alperia.bz/public/user_upload/centrale_idroelettrica_lasa.pdf%0D
+Resolving alperia.bz (alperia.bz)... 89.190.167.9
+Connecting to alperia.bz (alperia.bz)|89.190.167.9|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:08:57 ERROR 400: Bad Request.
+
+--2020-02-25 21:18:34--  http://alperia.bz/public/user_upload/centrale_idroelettrica_lasa.pdf%0D
+Resolving alperia.bz (alperia.bz)... 89.190.167.9
+Connecting to alperia.bz (alperia.bz)|89.190.167.9|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:18:34 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:43:18--  http://www.dhl.com.ht/content/dam/downloads/ht/express/solutions/dhl_emailship_pdf_client_en_031000.pdf%0D
+Resolving www.dhl.com.ht (www.dhl.com.ht)... 104.86.110.138, 104.86.110.147
+Connecting to www.dhl.com.ht (www.dhl.com.ht)|104.86.110.138|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:43:18 ERROR 404: Not Found.
+

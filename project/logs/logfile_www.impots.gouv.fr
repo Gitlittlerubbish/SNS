@@ -1,0 +1,12 @@
+--2020-02-25 22:22:56--  https://www.impots.gouv.fr/portail/1metier1particulierev5patrimoinelogement510calculidlseuilsrfr2016th2017pdf%0D
+Resolving www.impots.gouv.fr (www.impots.gouv.fr)... --2020-02-25 22:22:56--  https://www.impots.gouv.fr/portail/1metier1particulierev5patrimoinelogement510calculidlseuilsrfr2016th2017pdf%0D
+Resolving www.impots.gouv.fr (www.impots.gouv.fr)... 152.199.19.61
+Connecting to www.impots.gouv.fr (www.impots.gouv.fr)|152.199.19.61|:443... 152.199.19.61
+Connecting to www.impots.gouv.fr (www.impots.gouv.fr)|152.199.19.61|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:56 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:22:56 ERROR 404: Not Found.
+

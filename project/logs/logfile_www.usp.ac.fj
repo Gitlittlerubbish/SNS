@@ -1,0 +1,24 @@
+--2020-02-25 22:19:50--  http://www.usp.ac.fj/annualreport2012%0D
+Resolving www.usp.ac.fj (www.usp.ac.fj)... --2020-02-25 22:19:50--  http://www.usp.ac.fj/annualreport2012%0D
+Resolving www.usp.ac.fj (www.usp.ac.fj)... 144.120.8.2
+Connecting to www.usp.ac.fj (www.usp.ac.fj)|144.120.8.2|:80... 144.120.8.2
+Connecting to www.usp.ac.fj (www.usp.ac.fj)|144.120.8.2|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:51 ERROR 403: Forbidden.
+
+--2020-02-25 22:19:51--  http://www.usp.ac.fj/annualreport2018%0D
+Resolving www.usp.ac.fj (www.usp.ac.fj)... 144.120.8.2
+Connecting to www.usp.ac.fj (www.usp.ac.fj)|144.120.8.2|:80... 403 Forbidden
+2020-02-25 22:19:51 ERROR 403: Forbidden.
+
+--2020-02-25 22:19:51--  http://www.usp.ac.fj/annualreport2018%0D
+Resolving www.usp.ac.fj (www.usp.ac.fj)... 144.120.8.2
+Connecting to www.usp.ac.fj (www.usp.ac.fj)|144.120.8.2|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:19:52 ERROR 403: Forbidden.
+
+403 Forbidden
+2020-02-25 22:19:52 ERROR 403: Forbidden.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:18:46--  http://kwena.co.bw/tempex/Kwena_Products_Brucher(1).pdf%0D
+Resolving kwena.co.bw (kwena.co.bw)... 172.104.48.73
+Connecting to kwena.co.bw (kwena.co.bw)|172.104.48.73|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:47 ERROR 404: Not Found.
+
+--2020-02-25 21:25:25--  http://kwena.co.bw/tempex/Kwena_Products_Brucher(1).pdf%0D
+Resolving kwena.co.bw (kwena.co.bw)... 172.104.48.73
+Connecting to kwena.co.bw (kwena.co.bw)|172.104.48.73|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:26 ERROR 404: Not Found.
+

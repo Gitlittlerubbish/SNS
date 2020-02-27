@@ -1,0 +1,64 @@
+--2020-02-25 21:55:47--  https://www.ceni.cd/assets/bundles/documents/1479807223.pdf%0D
+Resolving www.ceni.cd (www.ceni.cd)... --2020-02-25 21:55:47--  https://www.ceni.cd/assets/bundles/documents/1479807223.pdf%0D
+Resolving www.ceni.cd (www.ceni.cd)... 94.23.248.116
+Connecting to www.ceni.cd (www.ceni.cd)|94.23.248.116|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ceni.cd/ [following]
+--2020-02-25 21:55:47--  https://www.ceni.cd/
+Reusing existing connection to www.ceni.cd:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19.9M
+    50K .......... .......... .......... ..........             718M=0.02s
+
+2020-02-25 21:55:47 (35.3 Mb/s) - ‘/dev/null’ saved [92846]
+
+--2020-02-25 21:55:47--  https://www.ceni.cd/assets/bundles/documents/1479807223.pdf%0D
+Resolving www.ceni.cd (www.ceni.cd)... 94.23.248.116
+Connecting to www.ceni.cd (www.ceni.cd)|94.23.248.116|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ceni.cd/ [following]
+--2020-02-25 21:55:47--  https://www.ceni.cd/
+Reusing existing connection to www.ceni.cd:443.
+HTTP request sent, awaiting response... 94.23.248.116
+Connecting to www.ceni.cd (www.ceni.cd)|94.23.248.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19.6M
+    50K .......... .......... .......302 Found
+Location: https://www.ceni.cd/ [following]
+--2020-02-25 21:55:47--  https://www.ceni.cd/
+Reusing existing connection to www.ceni.cd:443.
+HTTP request sent, awaiting response... ... ..........            32.5M=0.03s
+
+2020-02-25 21:55:47 (23.8 Mb/s) - ‘/dev/null’ saved [92846]
+
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27.6M
+    50K .......... .......... .......... ..........            44.6M=0.02s
+
+2020-02-25 21:55:48 (33.3 Mb/s) - ‘/dev/null’ saved [92846]
+
+--2020-02-25 21:55:48--  https://www.ceni.cd/assets/bundles/documents/1479807223.pdf%0D
+Resolving www.ceni.cd (www.ceni.cd)... 94.23.248.116
+Connecting to www.ceni.cd (www.ceni.cd)|94.23.248.116|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ceni.cd/ [following]
+--2020-02-25 21:55:48--  https://www.ceni.cd/
+Reusing existing connection to www.ceni.cd:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19.9M
+    50K .......... .......... .......... ..........             721M=0.02s
+
+2020-02-25 21:55:48 (35.4 Mb/s) - ‘/dev/null’ saved [92846]
+

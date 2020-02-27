@@ -1,0 +1,12 @@
+--2020-02-25 22:22:26--  https://www.wika.fi/upload/DS_DS9904_GB_1167.pdf%0D
+Resolving www.wika.fi (www.wika.fi)... --2020-02-25 22:22:27--  https://www.wika.fi/upload/DS_DS9904_GB_1167.pdf%0D
+Resolving www.wika.fi (www.wika.fi)... 54.67.125.151
+Connecting to www.wika.fi (www.wika.fi)|54.67.125.151|:443... 62.67.56.196
+Connecting to www.wika.fi (www.wika.fi)|62.67.56.196|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:22:27 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:22:27 ERROR 400: Bad Request.
+

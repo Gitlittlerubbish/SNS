@@ -1,0 +1,20 @@
+--2020-02-25 22:31:11--  http://medialiteracy.ge/uploads/resources/3056a0a4030ad99.pdf%0D
+Resolving medialiteracy.ge (medialiteracy.ge)... --2020-02-25 22:31:11--  http://medialiteracy.ge/uploads/resources/3056a0a4030ad99.pdf%0D
+Resolving medialiteracy.ge (medialiteracy.ge)... 217.147.239.172
+Connecting to medialiteracy.ge (medialiteracy.ge)|217.147.239.172|:80... 217.147.239.172
+Connecting to medialiteracy.ge (medialiteracy.ge)|217.147.239.172|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /ge/uploads/resources/3056a0a4030ad99.pdf [following]
+--2020-02-25 22:31:11--  http://medialiteracy.ge/ge/uploads/resources/3056a0a4030ad99.pdf
+Reusing existing connection to medialiteracy.ge:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /ge/uploads/resources/3056a0a4030ad99.pdf [following]
+--2020-02-25 22:31:11--  http://medialiteracy.ge/ge/uploads/resources/3056a0a4030ad99.pdf
+Reusing existing connection to medialiteracy.ge:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:31:11 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:31:11 ERROR 404: Not Found.
+

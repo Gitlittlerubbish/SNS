@@ -1,0 +1,6 @@
+--2020-02-26 00:22:13--  https://www.elfadistrelec.no/Web/Downloads/_c/at/CEWE_catalogue_eng_cat.pdf%0D
+Resolving www.elfadistrelec.no (www.elfadistrelec.no)... 192.225.208.206
+Connecting to www.elfadistrelec.no (www.elfadistrelec.no)|192.225.208.206|:443... connected.
+HTTP request sent, awaiting response... 405 Not Allowed
+2020-02-26 00:22:14 ERROR 405: Not Allowed.
+

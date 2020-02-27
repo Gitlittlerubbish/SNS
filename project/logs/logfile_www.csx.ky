@@ -1,0 +1,12 @@
+--2020-02-25 21:38:10--  https://www.csx.ky/csxdol/DailyOfficialList.pdf%0D
+Resolving www.csx.ky (www.csx.ky)... 216.144.83.10
+Connecting to www.csx.ky (www.csx.ky)|216.144.83.10|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:38:11 ERROR 400: Bad Request.
+
+--2020-02-25 21:39:29--  https://www.csx.ky/csxdol/DailyOfficialList.pdf%0D
+Resolving www.csx.ky (www.csx.ky)... 216.144.83.10
+Connecting to www.csx.ky (www.csx.ky)|216.144.83.10|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:39:29 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:11:16--  http://www.opacademy.bm/downloads/OP_Newsletter_June2013.pdf%0D
+Resolving www.opacademy.bm (www.opacademy.bm)... 50.116.16.213
+Connecting to www.opacademy.bm (www.opacademy.bm)|50.116.16.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:16 ERROR 404: Not Found.
+
+--2020-02-25 21:20:10--  http://www.opacademy.bm/downloads/OP_Newsletter_June2013.pdf%0D
+Resolving www.opacademy.bm (www.opacademy.bm)... 50.116.16.213
+Connecting to www.opacademy.bm (www.opacademy.bm)|50.116.16.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:10 ERROR 404: Not Found.
+

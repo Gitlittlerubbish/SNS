@@ -1,0 +1,8 @@
+--2020-02-25 23:05:00--  https://www1.offshore.hsbc.co.je/1/PA_ES_Content_Mgmt/content/hsbc_expat/pdf/en/important_documents/inward_payment_form.pdf%0D
+Resolving www1.offshore.hsbc.co.je (www1.offshore.hsbc.co.je)... 203.112.92.21
+Connecting to www1.offshore.hsbc.co.je (www1.offshore.hsbc.co.je)|203.112.92.21|:443... connected.
+ERROR: cannot verify www1.offshore.hsbc.co.je's certificate, issued by ‘CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Issued certificate has expired.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www1.offshore.hsbc.co.je’.
+To connect to www1.offshore.hsbc.co.je insecurely, use `--no-check-certificate'.

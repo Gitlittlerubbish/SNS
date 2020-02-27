@@ -1,0 +1,12 @@
+--2020-02-25 23:46:35--  https://snieg.mx/documentacionportal/programas/paeg_2019_anexo.pdf%0D
+Resolving snieg.mx (snieg.mx)... 200.23.8.89
+Connecting to snieg.mx (snieg.mx)|200.23.8.89|:443... connected.
+ERROR: cannot verify snieg.mx's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to snieg.mx insecurely, use `--no-check-certificate'.
+--2020-02-25 23:46:36--  https://snieg.mx/documentacionportal/programas/paeg_2019.pdf%0D
+Resolving snieg.mx (snieg.mx)... 200.23.8.89
+Connecting to snieg.mx (snieg.mx)|200.23.8.89|:443... connected.
+ERROR: cannot verify snieg.mx's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to snieg.mx insecurely, use `--no-check-certificate'.

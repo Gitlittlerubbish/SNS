@@ -1,0 +1,12 @@
+--2020-02-25 21:11:17--  https://www.bdashipping.bm/uploads/TerminalMapr15002.pdf%0D
+Resolving www.bdashipping.bm (www.bdashipping.bm)... 185.58.214.101, 185.58.214.100, 185.58.214.105, ...
+Connecting to www.bdashipping.bm (www.bdashipping.bm)|185.58.214.101|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:17 ERROR 404: Not Found.
+
+--2020-02-25 21:20:11--  https://www.bdashipping.bm/uploads/TerminalMapr15002.pdf%0D
+Resolving www.bdashipping.bm (www.bdashipping.bm)... 185.58.214.106
+Connecting to www.bdashipping.bm (www.bdashipping.bm)|185.58.214.106|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:20:11 ERROR 404: Not Found.
+

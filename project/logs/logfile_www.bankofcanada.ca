@@ -1,0 +1,30 @@
+--2020-02-25 21:37:22--  https://www.bankofcanada.ca/wp-content/uploads/2010/09/taylor1.pdf%0D
+Resolving www.bankofcanada.ca (www.bankofcanada.ca)... 104.67.20.12
+Connecting to www.bankofcanada.ca (www.bankofcanada.ca)|104.67.20.12|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:23 ERROR 404: Not Found.
+
+--2020-02-25 21:38:55--  https://www.bankofcanada.ca/wp-content/uploads/2010/09/taylor1.pdf%0D
+Resolving www.bankofcanada.ca (www.bankofcanada.ca)... 104.67.20.12
+Connecting to www.bankofcanada.ca (www.bankofcanada.ca)|104.67.20.12|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 85.6M
+    50K .......... .........                                   2.53G=0.005s
+
+2020-02-25 21:38:55 (118 Mb/s) - ‘/dev/null’ saved [71224]
+
+--2020-02-25 21:38:55--  https://www.bankofcanada.ca/wp-content/uploads/2010/09/taylor1.pdf%0D
+Resolving www.bankofcanada.ca (www.bankofcanada.ca)... 104.67.20.12
+Connecting to www.bankofcanada.ca (www.bankofcanada.ca)|104.67.20.12|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 81.2M
+    50K .......... .........                                   1.42G=0.005s
+
+2020-02-25 21:38:55 (110 Mb/s) - ‘/dev/null’ saved [71224]
+

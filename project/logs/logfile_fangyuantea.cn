@@ -1,0 +1,12 @@
+--2020-02-25 21:45:32--  http://fangyuantea.cn/factsheets/l_cyhalogen.pdf%0D
+Resolving fangyuantea.cn (fangyuantea.cn)... 156.253.19.83
+Connecting to fangyuantea.cn (fangyuantea.cn)|156.253.19.83|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:45:32 ERROR 400: Bad Request.
+
+--2020-02-25 21:46:02--  http://fangyuantea.cn/factsheets/l_cyhalogen.pdf%0D
+Resolving fangyuantea.cn (fangyuantea.cn)... 156.253.19.83
+Connecting to fangyuantea.cn (fangyuantea.cn)|156.253.19.83|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:02 ERROR 400: Bad Request.
+

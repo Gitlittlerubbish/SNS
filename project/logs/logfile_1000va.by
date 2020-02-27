@@ -1,0 +1,12 @@
+--2020-02-25 21:06:32--  http://1000va.by/Content/files/DOC000281296.pdf%0D
+Resolving 1000va.by (1000va.by)... 178.159.242.28
+Connecting to 1000va.by (1000va.by)|178.159.242.28|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:06:32 ERROR 400: Bad Request.
+
+--2020-02-25 21:16:47--  http://1000va.by/Content/files/DOC000281296.pdf%0D
+Resolving 1000va.by (1000va.by)... 178.159.242.28
+Connecting to 1000va.by (1000va.by)|178.159.242.28|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:16:47 ERROR 400: Bad Request.
+

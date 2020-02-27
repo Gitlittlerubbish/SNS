@@ -1,0 +1,12 @@
+--2020-02-25 21:00:10--  https://www.oedg.at/patienten/pdf/1508_Guide_Diabetes.pdf%0D
+Resolving www.oedg.at (www.oedg.at)... 85.13.145.82
+Connecting to www.oedg.at (www.oedg.at)|85.13.145.82|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:11 ERROR 404: Not Found.
+
+--2020-02-25 21:12:11--  https://www.oedg.at/patienten/pdf/1508_Guide_Diabetes.pdf%0D
+Resolving www.oedg.at (www.oedg.at)... 85.13.145.82
+Connecting to www.oedg.at (www.oedg.at)|85.13.145.82|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:11 ERROR 404: Not Found.
+

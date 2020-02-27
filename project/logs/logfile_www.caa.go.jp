@@ -1,0 +1,6 @@
+--2020-02-25 23:03:39--  https://www.caa.go.jp/law/nal/pdf/k_ichiran_1.pdf%0D
+Resolving www.caa.go.jp (www.caa.go.jp)... 202.232.210.64
+Connecting to www.caa.go.jp (www.caa.go.jp)|202.232.210.64|:443... connected.
+ERROR: cannot verify www.caa.go.jp's certificate, issued by ‘CN=GlobalSign Organization Validation CA - SHA256 - G2,O=GlobalSign nv-sa,C=BE’:
+  Unable to locally verify the issuer's authority.
+To connect to www.caa.go.jp insecurely, use `--no-check-certificate'.

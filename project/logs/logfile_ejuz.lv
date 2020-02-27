@@ -1,0 +1,30 @@
+--2020-02-25 23:19:49--  http://ejuz.lv/karteacm11%0D
+Resolving ejuz.lv (ejuz.lv)... 94.101.233.44
+Connecting to ejuz.lv (ejuz.lv)|94.101.233.44|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ejuz.lv [following]
+--2020-02-25 23:19:50--  http://ejuz.lv/
+Connecting to ejuz.lv (ejuz.lv)|94.101.233.44|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7894 (7.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                               100% 13.1G=0s
+
+2020-02-25 23:19:50 (13.1 Gb/s) - ‘/dev/null’ saved [7894/7894]
+
+--2020-02-25 23:19:50--  http://ejuz.lv/karteacm11%0D
+Resolving ejuz.lv (ejuz.lv)... 94.101.233.44
+Connecting to ejuz.lv (ejuz.lv)|94.101.233.44|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://ejuz.lv [following]
+--2020-02-25 23:19:50--  http://ejuz.lv/
+Connecting to ejuz.lv (ejuz.lv)|94.101.233.44|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7103 (6.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                100% 12.6G=0s
+
+2020-02-25 23:19:50 (12.6 Gb/s) - ‘/dev/null’ saved [7103/7103]
+

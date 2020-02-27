@@ -1,0 +1,20 @@
+--2020-02-25 22:06:01--  http://kralmotoru.cz/content/fabiamanual.pdf%0D
+Resolving kralmotoru.cz (kralmotoru.cz)... --2020-02-25 22:06:01--  http://kralmotoru.cz/content/fabiamanual.pdf%0D
+Resolving kralmotoru.cz (kralmotoru.cz)... 68.183.71.56
+Connecting to kralmotoru.cz (kralmotoru.cz)|68.183.71.56|:80... 68.183.71.56
+Connecting to kralmotoru.cz (kralmotoru.cz)|68.183.71.56|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kralmotoru.cz/content/fabiamanual.pdf%0D [following]
+--2020-02-25 22:06:01--  https://kralmotoru.cz/content/fabiamanual.pdf%0D
+Connecting to kralmotoru.cz (kralmotoru.cz)|68.183.71.56|:443... 301 Moved Permanently
+Location: https://kralmotoru.cz/content/fabiamanual.pdf%0D [following]
+--2020-02-25 22:06:02--  https://kralmotoru.cz/content/fabiamanual.pdf%0D
+Connecting to kralmotoru.cz (kralmotoru.cz)|68.183.71.56|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:06:02 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:06:02 ERROR 404: Not Found.
+

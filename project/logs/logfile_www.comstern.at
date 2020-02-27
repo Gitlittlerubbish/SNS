@@ -1,0 +1,12 @@
+--2020-02-25 20:59:27--  https://www.comstern.at/gfx1188173org/powerbank20000-en.pdf%0D
+Resolving www.comstern.at (www.comstern.at)... 92.42.189.139
+Connecting to www.comstern.at (www.comstern.at)|92.42.189.139|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:59:27 ERROR 400: Bad Request.
+
+--2020-02-25 21:11:35--  https://www.comstern.at/gfx1188173org/powerbank20000-en.pdf%0D
+Resolving www.comstern.at (www.comstern.at)... 92.42.189.139
+Connecting to www.comstern.at (www.comstern.at)|92.42.189.139|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:35 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:46:46--  http://www.ovcexpo.com.cn/filedownload/69706%0D
+Resolving www.ovcexpo.com.cn (www.ovcexpo.com.cn)... --2020-02-25 21:46:46--  http://www.ovcexpo.com.cn/filedownload/69706%0D
+Resolving www.ovcexpo.com.cn (www.ovcexpo.com.cn)... 118.31.136.41
+Connecting to www.ovcexpo.com.cn (www.ovcexpo.com.cn)|118.31.136.41|:80... 114.55.205.31
+Connecting to www.ovcexpo.com.cn (www.ovcexpo.com.cn)|114.55.205.31|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:47 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 21:46:47 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:45:44--  http://aspice.cn/doc/Automotive_SPICE_v30.pdf%0D
+Resolving aspice.cn (aspice.cn)... 101.132.242.83
+Connecting to aspice.cn (aspice.cn)|101.132.242.83|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:45:45 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:46:12--  http://aspice.cn/doc/Automotive_SPICE_v30.pdf%0D
+Resolving aspice.cn (aspice.cn)... 101.132.242.83
+Connecting to aspice.cn (aspice.cn)|101.132.242.83|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:46:12 ERROR 500: Internal Server Error.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:17:41--  http://www.csa.gov.et/images/policy_proclamatioin.pdf%0D
+Resolving www.csa.gov.et (www.csa.gov.et)... --2020-02-25 22:17:41--  http://www.csa.gov.et/images/policy_proclamatioin.pdf%0D
+Resolving www.csa.gov.et (www.csa.gov.et)... 213.55.92.105
+Connecting to www.csa.gov.et (www.csa.gov.et)|213.55.92.105|:80... 213.55.92.105
+Connecting to www.csa.gov.et (www.csa.gov.et)|213.55.92.105|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:17:42 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:17:42 ERROR 400: Bad Request.
+

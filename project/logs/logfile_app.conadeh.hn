@@ -1,0 +1,6 @@
+--2020-02-25 22:44:28--  http://app.conadeh.hn/Anual2012/informes/CONADEH_2012.pdf%0D
+Resolving app.conadeh.hn (app.conadeh.hn)... 190.92.18.85
+Connecting to app.conadeh.hn (app.conadeh.hn)|190.92.18.85|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:44:28 ERROR 400: Bad Request.
+

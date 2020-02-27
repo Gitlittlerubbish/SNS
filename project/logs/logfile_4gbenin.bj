@@ -1,0 +1,14 @@
+--2020-02-25 21:10:10--  https://4gbenin.bj/public/telecharger2.php%3Ffichier%3DAvis_cotation_IXP.PDF%0D
+Resolving 4gbenin.bj (4gbenin.bj)... 81.91.225.8
+Connecting to 4gbenin.bj (4gbenin.bj)|81.91.225.8|:443... connected.
+ERROR: cannot verify 4gbenin.bj's certificate, issued by ‘emailAddress=webmaster@benintelecoms.bj,CN=www.benintelecoms.bj,OU=CSM,O=BENIN TELECOMS SA,L=COTONOU,ST=BENIN,C=BJ’:
+  Self-signed certificate encountered.
+    ERROR: certificate common name ‘www.benintelecoms.bj’ doesn't match requested host name ‘4gbenin.bj’.
+To connect to 4gbenin.bj insecurely, use `--no-check-certificate'.
+--2020-02-25 21:19:31--  https://4gbenin.bj/public/telecharger2.php%3Ffichier%3DAvis_cotation_IXP.PDF%0D
+Resolving 4gbenin.bj (4gbenin.bj)... 81.91.225.8
+Connecting to 4gbenin.bj (4gbenin.bj)|81.91.225.8|:443... connected.
+ERROR: cannot verify 4gbenin.bj's certificate, issued by ‘emailAddress=webmaster@benintelecoms.bj,CN=www.benintelecoms.bj,OU=CSM,O=BENIN TELECOMS SA,L=COTONOU,ST=BENIN,C=BJ’:
+  Self-signed certificate encountered.
+    ERROR: certificate common name ‘www.benintelecoms.bj’ doesn't match requested host name ‘4gbenin.bj’.
+To connect to 4gbenin.bj insecurely, use `--no-check-certificate'.

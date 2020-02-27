@@ -1,0 +1,12 @@
+--2020-02-25 22:01:09--  https://www.sumari.hr/biblio/pdf/10183.pdf%0D
+--2020-02-25 22:01:09--  https://www.sumari.hr/biblio/pdf/10183.pdf%0D
+Resolving www.sumari.hr (www.sumari.hr)... Resolving www.sumari.hr (www.sumari.hr)... 195.29.212.129
+Connecting to www.sumari.hr (www.sumari.hr)|195.29.212.129|:443... 195.29.212.129
+Connecting to www.sumari.hr (www.sumari.hr)|195.29.212.129|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:10 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:01:10 ERROR 400: Bad Request.
+

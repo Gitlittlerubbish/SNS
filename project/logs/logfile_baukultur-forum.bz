@@ -1,0 +1,60 @@
+--2020-02-25 21:08:48--  https://baukultur-forum.bz/ablage/plaquette_krutenau.pdf%0D
+Resolving baukultur-forum.bz (baukultur-forum.bz)... 185.100.85.10
+Connecting to baukultur-forum.bz (baukultur-forum.bz)|185.100.85.10|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://baukultur-forum.bz/bilder/login [following]
+--2020-02-25 21:08:48--  https://baukultur-forum.bz/bilder/login
+Reusing existing connection to baukultur-forum.bz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                 528M=0s
+
+2020-02-25 21:08:49 (528 Mb/s) - ‘/dev/null’ saved [22332]
+
+--2020-02-25 21:08:49--  https://baukultur-forum.bz/ablage/plaquette_krutenau.pdf%0D
+Resolving baukultur-forum.bz (baukultur-forum.bz)... 185.100.85.10
+Connecting to baukultur-forum.bz (baukultur-forum.bz)|185.100.85.10|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://baukultur-forum.bz/bilder/login [following]
+--2020-02-25 21:08:49--  https://baukultur-forum.bz/bilder/login
+Reusing existing connection to baukultur-forum.bz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                 416M=0s
+
+2020-02-25 21:08:49 (416 Mb/s) - ‘/dev/null’ saved [22332]
+
+--2020-02-25 21:18:31--  https://baukultur-forum.bz/ablage/plaquette_krutenau.pdf%0D
+Resolving baukultur-forum.bz (baukultur-forum.bz)... 185.100.85.10
+Connecting to baukultur-forum.bz (baukultur-forum.bz)|185.100.85.10|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://baukultur-forum.bz/bilder/login [following]
+--2020-02-25 21:18:31--  https://baukultur-forum.bz/bilder/login
+Reusing existing connection to baukultur-forum.bz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                 499M=0s
+
+2020-02-25 21:18:32 (499 Mb/s) - ‘/dev/null’ saved [22332]
+
+--2020-02-25 21:18:32--  https://baukultur-forum.bz/ablage/plaquette_krutenau.pdf%0D
+Resolving baukultur-forum.bz (baukultur-forum.bz)... 185.100.85.10
+Connecting to baukultur-forum.bz (baukultur-forum.bz)|185.100.85.10|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://baukultur-forum.bz/bilder/login [following]
+--2020-02-25 21:18:32--  https://baukultur-forum.bz/bilder/login
+Reusing existing connection to baukultur-forum.bz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                 605M=0s
+
+2020-02-25 21:18:32 (605 Mb/s) - ‘/dev/null’ saved [22332]
+

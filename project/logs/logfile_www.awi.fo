@@ -1,0 +1,12 @@
+--2020-02-25 22:19:33--  http://www.awi.fo/pdf/awistar35.pdf%0D
+Resolving www.awi.fo (www.awi.fo)... 195.69.129.23
+Connecting to www.awi.fo (www.awi.fo)|195.69.129.23|:80... --2020-02-25 22:19:33--  http://www.awi.fo/pdf/awistar35.pdf%0D
+Resolving www.awi.fo (www.awi.fo)... 195.69.129.23
+Connecting to www.awi.fo (www.awi.fo)|195.69.129.23|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:33 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:19:33 ERROR 400: Bad Request.
+

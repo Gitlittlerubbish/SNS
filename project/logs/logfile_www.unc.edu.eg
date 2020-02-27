@@ -1,0 +1,20 @@
+--2020-02-25 22:11:52--  http://www.unc.edu.eg/images/files/Basic_Clinical_Urology.pdf%0D
+Resolving www.unc.edu.eg (www.unc.edu.eg)... --2020-02-25 22:11:52--  http://www.unc.edu.eg/images/files/Basic_Clinical_Urology.pdf%0D
+Resolving www.unc.edu.eg (www.unc.edu.eg)... 193.227.50.152
+Connecting to www.unc.edu.eg (www.unc.edu.eg)|193.227.50.152|:80... 193.227.50.152
+Connecting to www.unc.edu.eg (www.unc.edu.eg)|193.227.50.152|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.unc.edu.eg/ar/images/files/Basic_Clinical_Urology.pdf [following]
+--2020-02-25 22:11:53--  http://www.unc.edu.eg/ar/images/files/Basic_Clinical_Urology.pdf
+Reusing existing connection to www.unc.edu.eg:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.unc.edu.eg/ar/images/files/Basic_Clinical_Urology.pdf [following]
+--2020-02-25 22:11:53--  http://www.unc.edu.eg/ar/images/files/Basic_Clinical_Urology.pdf
+Reusing existing connection to www.unc.edu.eg:80.
+HTTP request sent, awaiting response... 404 المجموعة غير موجودة
+2020-02-25 22:11:53 ERROR 404: المجموعة غير موجودة.
+
+404 المجموعة غير موجودة
+2020-02-25 22:11:53 ERROR 404: المجموعة غير موجودة.
+

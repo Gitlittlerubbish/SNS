@@ -1,0 +1,12 @@
+--2020-02-25 22:11:46--  https://www.adib.eg/media/157794/ADIBEG_Accounts_ScheduleofCharges_Arabic_English.pdf%0D
+Resolving www.adib.eg (www.adib.eg)... --2020-02-25 22:11:46--  https://www.adib.eg/media/157794/ADIBEG_Accounts_ScheduleofCharges_Arabic_English.pdf%0D
+Resolving www.adib.eg (www.adib.eg)... 213.158.162.62
+Connecting to www.adib.eg (www.adib.eg)|213.158.162.62|:443... 213.158.162.62
+Connecting to www.adib.eg (www.adib.eg)|213.158.162.62|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:47 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:11:47 ERROR 400: Bad Request.
+

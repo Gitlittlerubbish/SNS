@@ -1,0 +1,30 @@
+--2020-02-25 23:25:18--  http://www.laraneda.lt/failai/translation_checklist_en.pdf%0D
+Resolving www.laraneda.lt (www.laraneda.lt)... 79.98.28.18
+Connecting to www.laraneda.lt (www.laraneda.lt)|79.98.28.18|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.laraneda.lt/ [following]
+--2020-02-25 23:25:18--  http://www.laraneda.lt/
+Reusing existing connection to www.laraneda.lt:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                        3.61M=0.03s
+
+2020-02-25 23:25:18 (3.61 Mb/s) - ‘/dev/null’ saved [15172]
+
+--2020-02-25 23:25:18--  http://www.laraneda.lt/failai/translation_checklist_en.pdf%0D
+Resolving www.laraneda.lt (www.laraneda.lt)... 79.98.28.18
+Connecting to www.laraneda.lt (www.laraneda.lt)|79.98.28.18|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.laraneda.lt/ [following]
+--2020-02-25 23:25:19--  http://www.laraneda.lt/
+Reusing existing connection to www.laraneda.lt:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                        3.61M=0.03s
+
+2020-02-25 23:25:19 (3.61 Mb/s) - ‘/dev/null’ saved [15172]
+

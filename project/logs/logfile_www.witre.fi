@@ -1,0 +1,12 @@
+--2020-02-25 22:22:37--  https://www.witre.fi/contentWFI/datasheet/78933_Technical.pdf%0D
+Resolving www.witre.fi (www.witre.fi)... 185.33.213.153
+Connecting to www.witre.fi (www.witre.fi)|185.33.213.153|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:37 ERROR 404: Not Found.
+
+--2020-02-25 22:22:37--  https://www.witre.fi/contentWFI/datasheet/78933_Technical.pdf%0D
+Resolving www.witre.fi (www.witre.fi)... 185.33.213.153
+Connecting to www.witre.fi (www.witre.fi)|185.33.213.153|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:22:38 ERROR 404: Not Found.
+

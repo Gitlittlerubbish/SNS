@@ -1,0 +1,6 @@
+--2020-02-26 00:25:25--  https://uol.edu.pk/downloads/prospectus/uol_prospectus.pdf%0D
+Resolving uol.edu.pk (uol.edu.pk)... 20.189.74.130
+Connecting to uol.edu.pk (uol.edu.pk)|20.189.74.130|:443... connected.
+ERROR: cannot verify uol.edu.pk's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to uol.edu.pk insecurely, use `--no-check-certificate'.

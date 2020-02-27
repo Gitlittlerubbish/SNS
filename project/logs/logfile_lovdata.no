@@ -1,0 +1,42 @@
+Warning: wildcards not supported in HTTP.
+--2020-02-26 00:21:20--  https://lovdata.no/eu/32004l0038*%0D
+Resolving lovdata.no (lovdata.no)... 146.192.246.146
+Connecting to lovdata.no (lovdata.no)|146.192.246.146|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://lovdata.no/static/NLX3/32004l0038.pdf [following]
+--2020-02-26 00:21:20--  https://lovdata.no/static/NLX3/32004l0038.pdf
+Reusing existing connection to lovdata.no:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 282167 (276K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 12.4M 0s
+    50K .......... .......... .......... .......... .......... 36% 12.6M 0s
+   100K .......... .......... .......... .......... .......... 54% 7.27M 0s
+   150K .......... .......... .......... .......... .......... 72% 11.1M 0s
+   200K .......... .......... .......... .......... .......... 90% 12.5M 0s
+   250K .......... .......... .....                           100% 7.35M=0.2s
+
+2020-02-26 00:21:20 (10.3 Mb/s) - ‘/dev/null’ saved [282167/282167]
+
+Warning: wildcards not supported in HTTP.
+--2020-02-26 00:21:20--  https://lovdata.no/eu/32004l0038*%0D
+Resolving lovdata.no (lovdata.no)... 146.192.246.146
+Connecting to lovdata.no (lovdata.no)|146.192.246.146|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://lovdata.no/static/NLX3/32004l0038.pdf [following]
+--2020-02-26 00:21:20--  https://lovdata.no/static/NLX3/32004l0038.pdf
+Reusing existing connection to lovdata.no:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 282167 (276K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 12.7M 0s
+    50K .......... .......... .......... .......... .......... 36% 12.1M 0s
+   100K .......... .......... .......... .......... .......... 54% 7.50M 0s
+   150K .......... .......... .......... .......... .......... 72% 11.5M 0s
+   200K .......... .......... .......... .......... .......... 90% 12.6M 0s
+   250K .......... .......... .....                           100% 7.35M=0.2s
+
+2020-02-26 00:21:21 (10.4 Mb/s) - ‘/dev/null’ saved [282167/282167]
+

@@ -1,0 +1,20 @@
+--2020-02-25 21:01:43--  http://bamsibahamas.edu.bs/BAMSIUAF.pdf%0D
+Resolving bamsibahamas.edu.bs (bamsibahamas.edu.bs)... 162.241.169.31
+Connecting to bamsibahamas.edu.bs (bamsibahamas.edu.bs)|162.241.169.31|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://bamsibahamas.edu.bs/BAMSIUAF.pdf%0d [following]
+--2020-02-25 21:01:43--  https://bamsibahamas.edu.bs/BAMSIUAF.pdf%0d
+Connecting to bamsibahamas.edu.bs (bamsibahamas.edu.bs)|162.241.169.31|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:01:46 ERROR 404: Not Found.
+
+--2020-02-25 21:13:11--  http://bamsibahamas.edu.bs/BAMSIUAF.pdf%0D
+Resolving bamsibahamas.edu.bs (bamsibahamas.edu.bs)... 162.241.169.31
+Connecting to bamsibahamas.edu.bs (bamsibahamas.edu.bs)|162.241.169.31|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://bamsibahamas.edu.bs/BAMSIUAF.pdf%0d [following]
+--2020-02-25 21:13:11--  https://bamsibahamas.edu.bs/BAMSIUAF.pdf%0d
+Connecting to bamsibahamas.edu.bs (bamsibahamas.edu.bs)|162.241.169.31|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:13 ERROR 404: Not Found.
+

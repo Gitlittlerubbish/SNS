@@ -1,0 +1,12 @@
+--2020-02-25 22:48:57--  https://www.asi.is/media/312703/teleworking_agreement_en.pdf%0D
+Resolving www.asi.is (www.asi.is)... 217.171.214.14
+Connecting to www.asi.is (www.asi.is)|217.171.214.14|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:48:57 ERROR 400: Bad Request.
+
+--2020-02-25 22:49:04--  https://www.asi.is/media/312703/teleworking_agreement_en.pdf%0D
+Resolving www.asi.is (www.asi.is)... 217.171.214.14
+Connecting to www.asi.is (www.asi.is)|217.171.214.14|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:49:04 ERROR 400: Bad Request.
+

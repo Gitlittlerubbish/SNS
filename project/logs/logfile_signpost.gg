@@ -1,0 +1,12 @@
+--2020-02-25 22:38:49--  http://signpost.gg/CHttpHandler.ashx%3Fid%3D99437%26p%3D0%0D
+Resolving signpost.gg (signpost.gg)... 195.226.152.43
+Connecting to signpost.gg (signpost.gg)|195.226.152.43|:80... --2020-02-25 22:38:49--  http://signpost.gg/CHttpHandler.ashx%3Fid%3D99437%26p%3D0%0D
+Resolving signpost.gg (signpost.gg)... 195.226.152.43
+Connecting to signpost.gg (signpost.gg)|195.226.152.43|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:49 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:38:49 ERROR 400: Bad Request.
+

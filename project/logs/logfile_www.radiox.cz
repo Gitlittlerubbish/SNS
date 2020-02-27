@@ -1,0 +1,60 @@
+--2020-02-25 22:05:31--  http://www.radiox.cz/vincom/sheets/102249.pdf%0D
+Resolving www.radiox.cz (www.radiox.cz)... 77.93.211.241
+Connecting to www.radiox.cz (www.radiox.cz)|77.93.211.241|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: index.php [following]
+--2020-02-25 22:05:31--  http://www.radiox.cz/vincom/sheets/index.php
+Connecting to www.radiox.cz (www.radiox.cz)|77.93.211.241|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        34.7M=0s
+
+2020-02-25 22:05:31 (34.7 Mb/s) - ‘/dev/null’ saved [25]
+
+--2020-02-25 22:05:31--  http://www.radiox.cz/vincom/sheets/102249.pdf%0D
+Resolving www.radiox.cz (www.radiox.cz)... 77.93.211.241
+Connecting to www.radiox.cz (www.radiox.cz)|77.93.211.241|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: index.php [following]
+--2020-02-25 22:05:31--  http://www.radiox.cz/vincom/sheets/index.php
+Connecting to www.radiox.cz (www.radiox.cz)|77.93.211.241|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        36.3M=0s
+
+2020-02-25 22:05:31 (36.3 Mb/s) - ‘/dev/null’ saved [25]
+
+--2020-02-25 22:05:32--  http://www.radiox.cz/vincom/sheets/102249.pdf%0D
+Resolving www.radiox.cz (www.radiox.cz)... 77.93.211.241
+Connecting to www.radiox.cz (www.radiox.cz)|77.93.211.241|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: index.php [following]
+--2020-02-25 22:05:32--  http://www.radiox.cz/vincom/sheets/index.php
+Connecting to www.radiox.cz (www.radiox.cz)|77.93.211.241|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 25 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 8.40M=0s
+
+2020-02-25 22:05:32 (8.40 Mb/s) - ‘/dev/null’ saved [25/25]
+
+--2020-02-25 22:05:32--  http://www.radiox.cz/vincom/sheets/102249.pdf%0D
+Resolving www.radiox.cz (www.radiox.cz)... 77.93.211.241
+Connecting to www.radiox.cz (www.radiox.cz)|77.93.211.241|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: index.php [following]
+--2020-02-25 22:05:32--  http://www.radiox.cz/vincom/sheets/index.php
+Connecting to www.radiox.cz (www.radiox.cz)|77.93.211.241|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 25 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 66.1M=0s
+
+2020-02-25 22:05:32 (66.1 Mb/s) - ‘/dev/null’ saved [25/25]
+

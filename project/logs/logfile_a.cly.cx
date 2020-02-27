@@ -1,0 +1,64 @@
+--2020-02-25 21:47:59--  http://a.cly.cx/a/Fe9FMUbZG0y%0D
+Resolving a.cly.cx (a.cly.cx)... 52.51.19.73, 34.249.213.174
+Connecting to a.cly.cx (a.cly.cx)|52.51.19.73|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 21:47:59--  http://a.cly.cx/a/Fe9FMUbZG0y%0D
+Resolving a.cly.cx (a.cly.cx)... 34.249.213.174, 52.51.19.73
+Connecting to a.cly.cx (a.cly.cx)|34.249.213.174|:80... connected.
+HTTP request sent, awaiting response... 302 
+Location: https://www.htkhorizon.com/horizon-web/pageNotFound.jsp [following]
+--2020-02-25 21:47:59--  https://www.htkhorizon.com/horizon-web/pageNotFound.jsp
+Resolving www.htkhorizon.com (www.htkhorizon.com)... 52.210.230.128, 34.250.11.84
+Connecting to www.htkhorizon.com (www.htkhorizon.com)|52.210.230.128|:443... connected.
+HTTP request sent, awaiting response... 302 
+Location: https://www.htkhorizon.com/horizon-web/pageNotFound.jsp [following]
+--2020-02-25 21:47:59--  https://www.htkhorizon.com/horizon-web/pageNotFound.jsp
+Resolving www.htkhorizon.com (www.htkhorizon.com)... 34.250.11.84, 52.210.230.128
+Connecting to www.htkhorizon.com (www.htkhorizon.com)|34.250.11.84|:443... 200 
+Length: 1738 (1.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 4.64G=0s
+
+2020-02-25 21:47:59 (4.64 Gb/s) - ‘/dev/null’ saved [1738/1738]
+
+--2020-02-25 21:47:59--  http://a.cly.cx/a/Fe9FMUbZG0y%0D
+Resolving a.cly.cx (a.cly.cx)... 34.249.213.174, 52.51.19.73
+Connecting to a.cly.cx (a.cly.cx)|34.249.213.174|:80... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 
+Length: 1738 (1.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 3.70G=0s
+
+2020-02-25 21:47:59 (3.70 Gb/s) - ‘/dev/null’ saved [1738/1738]
+
+--2020-02-25 21:47:59--  http://a.cly.cx/a/Fe9FMUbZG0y%0D
+Resolving a.cly.cx (a.cly.cx)... 34.249.213.174, 52.51.19.73
+Connecting to a.cly.cx (a.cly.cx)|34.249.213.174|:80... connected.
+HTTP request sent, awaiting response... 302 
+Location: https://www.htkhorizon.com/horizon-web/pageNotFound.jsp [following]
+--2020-02-25 21:47:59--  https://www.htkhorizon.com/horizon-web/pageNotFound.jsp
+Resolving www.htkhorizon.com (www.htkhorizon.com)... 52.210.230.128, 34.250.11.84
+Connecting to www.htkhorizon.com (www.htkhorizon.com)|52.210.230.128|:443... connected.
+302 
+Location: https://www.htkhorizon.com/horizon-web/pageNotFound.jsp [following]
+--2020-02-25 21:48:00--  https://www.htkhorizon.com/horizon-web/pageNotFound.jsp
+HTTP request sent, awaiting response... Resolving www.htkhorizon.com (www.htkhorizon.com)... 52.210.230.128, 34.250.11.84
+Connecting to www.htkhorizon.com (www.htkhorizon.com)|52.210.230.128|:443... 200 
+Length: 1738 (1.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 1.14G=0s
+
+2020-02-25 21:48:00 (1.14 Gb/s) - ‘/dev/null’ saved [1738/1738]
+
+connected.
+HTTP request sent, awaiting response... 200 
+Length: 1738 (1.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 5.12G=0s
+
+2020-02-25 21:48:00 (5.12 Gb/s) - ‘/dev/null’ saved [1738/1738]
+

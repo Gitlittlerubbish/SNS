@@ -1,0 +1,6 @@
+--2020-02-25 23:26:07--  https://www.g-sec.lu/practicaltls.pdf%0D
+Resolving www.g-sec.lu (www.g-sec.lu)... 204.14.88.111
+Connecting to www.g-sec.lu (www.g-sec.lu)|204.14.88.111|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:26:07 ERROR 404: Not Found.
+

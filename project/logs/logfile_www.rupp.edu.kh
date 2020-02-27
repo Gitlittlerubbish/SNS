@@ -1,0 +1,12 @@
+--2020-02-25 21:33:19--  http://www.rupp.edu.kh/document/Policy_with_Executive_Summary.pdf%0D
+Resolving www.rupp.edu.kh (www.rupp.edu.kh)... 65.254.238.132
+Connecting to www.rupp.edu.kh (www.rupp.edu.kh)|65.254.238.132|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:33:20 ERROR 400: Bad Request.
+
+--2020-02-25 21:36:09--  http://www.rupp.edu.kh/document/Policy_with_Executive_Summary.pdf%0D
+Resolving www.rupp.edu.kh (www.rupp.edu.kh)... 65.254.238.132
+Connecting to www.rupp.edu.kh (www.rupp.edu.kh)|65.254.238.132|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:36:09 ERROR 400: Bad Request.
+

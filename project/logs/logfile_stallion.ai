@@ -1,0 +1,6 @@
+--2020-02-25 21:03:36--  https://stallion.ai/public/docs/STARTUPS_ENGLISH.pdf%0D
+Resolving stallion.ai (stallion.ai)... 35.237.64.212
+Connecting to stallion.ai (stallion.ai)|35.237.64.212|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:03:37 ERROR 500: Internal Server Error.
+

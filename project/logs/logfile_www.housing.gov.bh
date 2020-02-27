@@ -1,0 +1,12 @@
+--2020-02-25 21:03:11--  http://www.housing.gov.bh/en/ProjectsDocument/Hamala.pdf%0D
+Resolving www.housing.gov.bh (www.housing.gov.bh)... 52.213.12.79
+Connecting to www.housing.gov.bh (www.housing.gov.bh)|52.213.12.79|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:03:12 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:28--  http://www.housing.gov.bh/en/ProjectsDocument/Hamala.pdf%0D
+Resolving www.housing.gov.bh (www.housing.gov.bh)... 52.213.12.79
+Connecting to www.housing.gov.bh (www.housing.gov.bh)|52.213.12.79|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:28 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:24:08--  http://sav.li/c4r%0D
+Resolving sav.li (sav.li)... 193.104.25.210
+Connecting to sav.li (sav.li)|193.104.25.210|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:24:08 ERROR 400: Bad Request.
+

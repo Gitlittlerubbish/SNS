@@ -1,0 +1,12 @@
+--2020-02-25 22:23:09--  http://www.chbligny.fr/uploads/media/Surveillance_du_diabete_mai_2012.PDF%0D
+Resolving www.chbligny.fr (www.chbligny.fr)... --2020-02-25 22:23:09--  http://www.chbligny.fr/uploads/media/Surveillance_du_diabete_mai_2012.PDF%0D
+Resolving www.chbligny.fr (www.chbligny.fr)... 62.4.4.196
+Connecting to www.chbligny.fr (www.chbligny.fr)|62.4.4.196|:80... 62.4.4.196
+Connecting to www.chbligny.fr (www.chbligny.fr)|62.4.4.196|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:09 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:23:09 ERROR 404: Not Found.
+

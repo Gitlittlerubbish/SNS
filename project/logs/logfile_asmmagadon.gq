@@ -1,0 +1,59 @@
+--2020-02-25 22:16:29--  http://asmmagadon.gq/content/pdf/voorwaardennl.pdf%0D
+Resolving asmmagadon.gq (asmmagadon.gq)... 104.24.114.98, 104.24.115.98
+Connecting to asmmagadon.gq (asmmagadon.gq)|104.24.114.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.17M
+    50K .......... .......... .......... .......... .......... 13.6M
+   100K .......... .......... .......... .......... .......... 83.1M
+   150K .......... .........                                   8.19G=0.09s
+
+2020-02-25 22:16:29 (15.0 Mb/s) - ‘/dev/null’ saved [173432]
+
+--2020-02-25 22:16:29--  http://asmmagadon.gq/content/pdf/voorwaardennl.pdf%0D
+Resolving asmmagadon.gq (asmmagadon.gq)... 104.24.114.98, 104.24.115.98
+Connecting to asmmagadon.gq (asmmagadon.gq)|104.24.114.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 6.86M
+    50K .......... .....                                       3.52G=0.06s
+
+2020-02-25 22:16:29 (8.94 Mb/s) - ‘/dev/null’ saved [66731]
+
+--2020-02-25 22:16:40--  http://asmmagadon.gq/content/pdf/voorwaardennl.pdf%0D
+Resolving asmmagadon.gq (asmmagadon.gq)... 104.24.114.98, 104.24.115.98
+Connecting to asmmagadon.gq (asmmagadon.gq)|104.24.114.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.39M
+    50K .......... .......... .......... .......... .......... 14.3M
+   100K .......... .......... .......... .......... ..........  146M
+   150K .......... .......... .......... .......... .......... 3.23G
+   200K .....                                                  3.00G=0.09s
+
+2020-02-25 22:16:40 (19.3 Mb/s) - ‘/dev/null’ saved [210277]
+
+--2020-02-25 22:16:40--  http://asmmagadon.gq/content/pdf/voorwaardennl.pdf%0D
+Resolving asmmagadon.gq (asmmagadon.gq)... 104.24.115.98, 104.24.114.98
+Connecting to asmmagadon.gq (asmmagadon.gq)|104.24.115.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 6.72M
+    50K .......... .......... .......... .......... .......... 16.4M
+   100K .......... .......... .......... .......... ..........  237M
+   150K .......... .......... .......... .......... ..........  236M
+   200K .......... .......... .......... .......... .......... 15.8M
+   250K .......... .......... .......... .......... ..........  505M
+   300K .......... .......... .......... .......... ..........  377M
+   350K .......... .......... .......... .                     2.47G=0.1s
+
+2020-02-25 22:16:41 (26.6 Mb/s) - ‘/dev/null’ saved [390630]
+

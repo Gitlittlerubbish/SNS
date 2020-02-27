@@ -1,0 +1,12 @@
+--2020-02-25 23:43:49--  https://imfpa.mq/plaquettes/IMF0042.pdf%0D
+Resolving imfpa.mq (imfpa.mq)... 54.36.91.62
+Connecting to imfpa.mq (imfpa.mq)|54.36.91.62|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:43:50 ERROR 404: Not Found.
+
+--2020-02-25 23:43:50--  https://imfpa.mq/plaquettes/IMF0006.pdf%0D
+Resolving imfpa.mq (imfpa.mq)... 54.36.91.62
+Connecting to imfpa.mq (imfpa.mq)|54.36.91.62|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:43:51 ERROR 404: Not Found.
+

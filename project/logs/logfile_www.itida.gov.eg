@@ -1,0 +1,12 @@
+--2020-02-25 22:12:18--  https://www.itida.gov.eg/English/Documents/3.pdf%0D
+Resolving www.itida.gov.eg (www.itida.gov.eg)... 81.21.99.52
+Connecting to www.itida.gov.eg (www.itida.gov.eg)|81.21.99.52|:443... connected.
+ERROR: cannot verify www.itida.gov.eg's certificate, issued by ‘CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.itida.gov.eg insecurely, use `--no-check-certificate'.
+--2020-02-25 22:13:12--  https://www.itida.gov.eg/English/Documents/3.pdf%0D
+Resolving www.itida.gov.eg (www.itida.gov.eg)... 81.21.99.52
+Connecting to www.itida.gov.eg (www.itida.gov.eg)|81.21.99.52|:443... connected.
+ERROR: cannot verify www.itida.gov.eg's certificate, issued by ‘CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.itida.gov.eg insecurely, use `--no-check-certificate'.

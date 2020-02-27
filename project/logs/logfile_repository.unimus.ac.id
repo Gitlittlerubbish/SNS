@@ -1,0 +1,12 @@
+--2020-02-25 22:52:25--  http://repository.unimus.ac.id/1441/3/BAB%25202.pdf%0D
+Resolving repository.unimus.ac.id (repository.unimus.ac.id)... 103.97.100.142
+Connecting to repository.unimus.ac.id (repository.unimus.ac.id)|103.97.100.142|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:52:26 ERROR 404: Not Found.
+
+--2020-02-25 22:52:26--  http://repository.unimus.ac.id/451/3/BAB%2520II.pdf%0D
+Resolving repository.unimus.ac.id (repository.unimus.ac.id)... 103.97.100.142
+Connecting to repository.unimus.ac.id (repository.unimus.ac.id)|103.97.100.142|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:52:26 ERROR 404: Not Found.
+

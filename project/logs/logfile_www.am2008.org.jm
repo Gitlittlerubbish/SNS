@@ -1,0 +1,6 @@
+--2020-02-25 23:01:06--  http://www.am2008.org.jm/studinfo/gpa.pdf%0D
+Resolving www.am2008.org.jm (www.am2008.org.jm)... 196.3.0.4
+Connecting to www.am2008.org.jm (www.am2008.org.jm)|196.3.0.4|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:01:07 ERROR 400: Bad Request.
+

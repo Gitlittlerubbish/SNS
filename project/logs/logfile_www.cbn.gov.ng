@@ -1,0 +1,6 @@
+--2020-02-26 00:16:52--  https://www.cbn.gov.ng/Out/EduSeries/Series9.pdf%0D
+Resolving www.cbn.gov.ng (www.cbn.gov.ng)... 104.18.65.25, 104.18.176.55
+Connecting to www.cbn.gov.ng (www.cbn.gov.ng)|104.18.65.25|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:16:52 ERROR 400: Bad Request.
+

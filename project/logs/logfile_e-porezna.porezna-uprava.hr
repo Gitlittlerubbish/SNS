@@ -1,0 +1,12 @@
+--2020-02-25 22:01:19--  https://e-porezna.porezna-uprava.hr/Upute/G2B/Izjava_o_opozivu_punomoci_zakljucan.pdf%0D
+Resolving e-porezna.porezna-uprava.hr (e-porezna.porezna-uprava.hr)... --2020-02-25 22:01:19--  https://e-porezna.porezna-uprava.hr/Upute/G2B/Izjava_o_opozivu_punomoci_zakljucan.pdf%0D
+Resolving e-porezna.porezna-uprava.hr (e-porezna.porezna-uprava.hr)... 185.20.29.73
+Connecting to e-porezna.porezna-uprava.hr (e-porezna.porezna-uprava.hr)|185.20.29.73|:443... 185.20.29.73
+Connecting to e-porezna.porezna-uprava.hr (e-porezna.porezna-uprava.hr)|185.20.29.73|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:01:19 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:01:19 ERROR 400: Bad Request.
+

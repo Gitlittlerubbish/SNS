@@ -1,0 +1,12 @@
+--2020-02-25 21:06:28--  http://kompoled.by/sitedocs/08434.pdf%0D
+Resolving kompoled.by (kompoled.by)... 178.172.235.199
+Connecting to kompoled.by (kompoled.by)|178.172.235.199|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:06:29 ERROR 404: Not Found.
+
+--2020-02-25 21:16:44--  http://kompoled.by/sitedocs/08434.pdf%0D
+Resolving kompoled.by (kompoled.by)... 178.172.235.199
+Connecting to kompoled.by (kompoled.by)|178.172.235.199|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:44 ERROR 404: Not Found.
+

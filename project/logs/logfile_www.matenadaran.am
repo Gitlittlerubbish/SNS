@@ -1,0 +1,12 @@
+--2020-02-25 20:53:56--  http://www.matenadaran.am/ftp/data/Banber-16.pdf%0D
+Resolving www.matenadaran.am (www.matenadaran.am)... 182.50.130.67
+Connecting to www.matenadaran.am (www.matenadaran.am)|182.50.130.67|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:53:57 ERROR 400: Bad Request.
+
+--2020-02-25 21:07:02--  http://www.matenadaran.am/ftp/data/Banber-16.pdf%0D
+Resolving www.matenadaran.am (www.matenadaran.am)... 182.50.130.67
+Connecting to www.matenadaran.am (www.matenadaran.am)|182.50.130.67|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:07:03 ERROR 400: Bad Request.
+

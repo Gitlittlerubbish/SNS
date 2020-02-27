@@ -1,0 +1,30 @@
+--2020-02-25 23:49:24--  http://tannan.fm/images/kouen2016.pdf%0D
+Resolving tannan.fm (tannan.fm)... 202.181.99.93
+Connecting to tannan.fm (tannan.fm)|202.181.99.93|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://tannan.fm/contents/404.html [following]
+--2020-02-25 23:49:25--  http://tannan.fm/contents/404.html
+Reusing existing connection to tannan.fm:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11583 (11K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                          100% 4.56G=0s
+
+2020-02-25 23:49:25 (4.56 Gb/s) - ‘/dev/null’ saved [11583/11583]
+
+--2020-02-25 23:49:25--  http://tannan.fm/images/kouen2016.pdf%0D
+Resolving tannan.fm (tannan.fm)... 202.181.99.93
+Connecting to tannan.fm (tannan.fm)|202.181.99.93|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://tannan.fm/contents/404.html [following]
+--2020-02-25 23:49:26--  http://tannan.fm/contents/404.html
+Reusing existing connection to tannan.fm:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 11583 (11K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                          100% 4.30G=0s
+
+2020-02-25 23:49:26 (4.30 Gb/s) - ‘/dev/null’ saved [11583/11583]
+

@@ -1,0 +1,44 @@
+--2020-02-25 20:56:18--  https://www.arc.gov.au/file/10737/download%3Ftoken%3DDzhh5Fmq%0D
+Resolving www.arc.gov.au (www.arc.gov.au)... 104.103.225.101
+Connecting to www.arc.gov.au (www.arc.gov.au)|104.103.225.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..         1.04M=0.3s
+
+2020-02-25 20:56:19 (1.04 Mb/s) - ‘/dev/null’ saved [43832]
+
+--2020-02-25 20:56:19--  https://www.arc.gov.au/file/10737/download%3Ftoken%3DDzhh5Fmq%0D
+Resolving www.arc.gov.au (www.arc.gov.au)... 104.103.225.101
+Connecting to www.arc.gov.au (www.arc.gov.au)|104.103.225.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43832 (43K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..        100%  140M=0.002s
+
+2020-02-25 20:56:19 (140 Mb/s) - ‘/dev/null’ saved [43832/43832]
+
+--2020-02-25 21:08:55--  https://www.arc.gov.au/file/10737/download%3Ftoken%3DDzhh5Fmq%0D
+Resolving www.arc.gov.au (www.arc.gov.au)... 104.107.250.103
+Connecting to www.arc.gov.au (www.arc.gov.au)|104.107.250.103|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43832 (43K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..        100% 16.3M=0.02s
+
+2020-02-25 21:08:55 (16.3 Mb/s) - ‘/dev/null’ saved [43832/43832]
+
+--2020-02-25 21:08:55--  https://www.arc.gov.au/file/10737/download%3Ftoken%3DDzhh5Fmq%0D
+Resolving www.arc.gov.au (www.arc.gov.au)... 104.107.250.103
+Connecting to www.arc.gov.au (www.arc.gov.au)|104.107.250.103|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43832 (43K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..        100% 19.4M=0.02s
+
+2020-02-25 21:08:55 (19.4 Mb/s) - ‘/dev/null’ saved [43832/43832]
+

@@ -1,0 +1,6 @@
+--2020-02-25 21:00:53--  https://www.mobilitat.ad/Uploads/manual_complementari_senyalitzacio_privada_3_20191017175558_ca-ES.pdf%0D
+Resolving www.mobilitat.ad (www.mobilitat.ad)... 194.158.80.55
+Connecting to www.mobilitat.ad (www.mobilitat.ad)|194.158.80.55|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:00:53 ERROR 400: Bad Request.
+

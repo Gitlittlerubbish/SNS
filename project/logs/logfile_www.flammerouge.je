@@ -1,0 +1,30 @@
+--2020-02-25 23:04:41--  http://www.flammerouge.je/services/efrmedicert.pdf%0D
+Resolving www.flammerouge.je (www.flammerouge.je)... 195.26.90.15
+Connecting to www.flammerouge.je (www.flammerouge.je)|195.26.90.15|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.flammerouge.je/404.htm [following]
+--2020-02-25 23:04:42--  http://www.flammerouge.je/404.htm
+Reusing existing connection to www.flammerouge.je:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..........                                              484M=0s
+
+2020-02-25 23:04:42 (484 Mb/s) - ‘/dev/null’ saved [11145]
+
+--2020-02-25 23:04:42--  http://www.flammerouge.je/services/efrmedicert.pdf%0D
+Resolving www.flammerouge.je (www.flammerouge.je)... 195.26.90.15
+Connecting to www.flammerouge.je (www.flammerouge.je)|195.26.90.15|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.flammerouge.je/404.htm [following]
+--2020-02-25 23:04:42--  http://www.flammerouge.je/404.htm
+Reusing existing connection to www.flammerouge.je:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..........                                              279M=0s
+
+2020-02-25 23:04:42 (279 Mb/s) - ‘/dev/null’ saved [11145]
+

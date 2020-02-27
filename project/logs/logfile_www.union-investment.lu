@@ -1,0 +1,11 @@
+--2020-02-25 23:26:43--  https://www.union-investment.lu/data/docme/pif/UniGlobal/global_pdf/document/global.pdf%0D
+Resolving www.union-investment.lu (www.union-investment.lu)... 94.100.243.162
+Connecting to www.union-investment.lu (www.union-investment.lu)|94.100.243.162|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://wartung.union-investment.de/waf/ [following]
+--2020-02-25 23:26:43--  http://wartung.union-investment.de/waf/
+Resolving wartung.union-investment.de (wartung.union-investment.de)... 94.100.243.131
+Connecting to wartung.union-investment.de (wartung.union-investment.de)|94.100.243.131|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

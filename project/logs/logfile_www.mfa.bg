@@ -1,0 +1,14 @@
+--2020-02-25 21:27:38--  https://www.mfa.bg/upload/27757/Hungary1.pdf%0D
+Resolving www.mfa.bg (www.mfa.bg)... 104.24.111.11, 104.24.110.11
+Connecting to www.mfa.bg (www.mfa.bg)|104.24.111.11|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Cookie coming from www.mfa.bg attempted to set domain to mfa.bg
+2020-02-25 21:27:38 ERROR 404: Not Found.
+
+--2020-02-25 21:32:41--  https://www.mfa.bg/upload/27757/Hungary1.pdf%0D
+Resolving www.mfa.bg (www.mfa.bg)... 104.24.111.11, 104.24.110.11
+Connecting to www.mfa.bg (www.mfa.bg)|104.24.111.11|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+Cookie coming from www.mfa.bg attempted to set domain to mfa.bg
+2020-02-25 21:32:41 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:49:44--  https://rti.gov.in/Compendium_Online.pdf%0D
+Resolving rti.gov.in (rti.gov.in)... 164.100.60.250
+Connecting to rti.gov.in (rti.gov.in)|164.100.60.250|:443... connected.
+ERROR: cannot verify rti.gov.in's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to rti.gov.in insecurely, use `--no-check-certificate'.

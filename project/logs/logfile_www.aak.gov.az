@@ -1,0 +1,12 @@
+--2020-02-25 21:00:39--  http://www.aak.gov.az/qanunvericilik/elmi_dereceler_asasname.pdf%0D
+Resolving www.aak.gov.az (www.aak.gov.az)... 31.170.236.83
+Connecting to www.aak.gov.az (www.aak.gov.az)|31.170.236.83|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:00:40 ERROR 404: Not Found.
+
+--2020-02-25 21:12:28--  http://www.aak.gov.az/qanunvericilik/elmi_dereceler_asasname.pdf%0D
+Resolving www.aak.gov.az (www.aak.gov.az)... 31.170.236.83
+Connecting to www.aak.gov.az (www.aak.gov.az)|31.170.236.83|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:28 ERROR 404: Not Found.
+

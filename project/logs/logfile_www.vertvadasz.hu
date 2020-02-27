@@ -1,0 +1,24 @@
+--2020-02-25 22:47:26--  http://www.vertvadasz.hu/arak/arak.pdf%0D
+Resolving www.vertvadasz.hu (www.vertvadasz.hu)... 195.70.36.42
+Connecting to www.vertvadasz.hu (www.vertvadasz.hu)|195.70.36.42|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.17M
+    50K                                                        13504G=0.08s
+
+2020-02-25 22:47:27 (5.26 Mb/s) - ‘/dev/null’ saved [52044]
+
+--2020-02-25 22:47:27--  http://www.vertvadasz.hu/arak/arak.pdf%0D
+Resolving www.vertvadasz.hu (www.vertvadasz.hu)... 195.70.36.42
+Connecting to www.vertvadasz.hu (www.vertvadasz.hu)|195.70.36.42|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.18M
+    50K                                                        13504G=0.08s
+
+2020-02-25 22:47:27 (5.27 Mb/s) - ‘/dev/null’ saved [52044]
+

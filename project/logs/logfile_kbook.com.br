@@ -1,0 +1,12 @@
+--2020-02-25 21:20:22--  https://kbook.com.br/wp-content/files_mf/grandesertoveredasguimaresrosa.pdf%0D
+Resolving kbook.com.br (kbook.com.br)... 187.45.193.167
+Connecting to kbook.com.br (kbook.com.br)|187.45.193.167|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:26:29--  https://kbook.com.br/wp-content/files_mf/grandesertoveredasguimaresrosa.pdf%0D
+Resolving kbook.com.br (kbook.com.br)... 187.45.193.167
+Connecting to kbook.com.br (kbook.com.br)|187.45.193.167|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:26:32 ERROR 404: Not Found.
+

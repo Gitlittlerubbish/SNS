@@ -1,0 +1,6 @@
+--2020-02-26 00:02:20--  https://www.gipf.com.na/web/reports/annual/GIPF_IAR2018.pdf%0D
+Resolving www.gipf.com.na (www.gipf.com.na)... 196.20.25.84
+Connecting to www.gipf.com.na (www.gipf.com.na)|196.20.25.84|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:02:22 ERROR 400: Bad Request.
+

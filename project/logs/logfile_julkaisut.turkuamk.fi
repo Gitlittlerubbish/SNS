@@ -1,0 +1,12 @@
+--2020-02-25 22:21:54--  http://julkaisut.turkuamk.fi/isbn9789522166104.pdf%0D
+Resolving julkaisut.turkuamk.fi (julkaisut.turkuamk.fi)... 195.148.208.8
+Connecting to julkaisut.turkuamk.fi (julkaisut.turkuamk.fi)|195.148.208.8|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:21:54 ERROR 400: Bad Request.
+
+--2020-02-25 22:21:55--  http://julkaisut.turkuamk.fi/isbn9789522166104.pdf%0D
+Resolving julkaisut.turkuamk.fi (julkaisut.turkuamk.fi)... 195.148.208.8
+Connecting to julkaisut.turkuamk.fi (julkaisut.turkuamk.fi)|195.148.208.8|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:21:55 ERROR 400: Bad Request.
+

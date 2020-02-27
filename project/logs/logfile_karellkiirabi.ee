@@ -1,0 +1,76 @@
+--2020-02-25 22:17:02--  https://karellkiirabi.ee/Ravimid/Nurofen.pdf%0D
+Resolving karellkiirabi.ee (karellkiirabi.ee)... 185.31.240.26
+Connecting to karellkiirabi.ee (karellkiirabi.ee)|185.31.240.26|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://karellkiirabi.ee/et/Ravimid/Nurofen.pdf [following]
+--2020-02-25 22:17:02--  https://karellkiirabi.ee/et/Ravimid/Nurofen.pdf
+Reusing existing connection to karellkiirabi.ee:443.
+HTTP request sent, awaiting response... 303 See other
+Location: /et/cb-login-et [following]
+--2020-02-25 22:17:02--  https://karellkiirabi.ee/et/cb-login-et
+Reusing existing connection to karellkiirabi.ee:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....      5.71M=0.07s
+
+2020-02-25 22:17:02 (5.71 Mb/s) - ‘/dev/null’ saved [46687]
+
+--2020-02-25 22:17:02--  https://karellkiirabi.ee/Ravimid/Nurofen.pdf%0D
+Resolving karellkiirabi.ee (karellkiirabi.ee)... 185.31.240.26
+Connecting to karellkiirabi.ee (karellkiirabi.ee)|185.31.240.26|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://karellkiirabi.ee/et/Ravimid/Nurofen.pdf [following]
+--2020-02-25 22:17:02--  https://karellkiirabi.ee/et/Ravimid/Nurofen.pdf
+Reusing existing connection to karellkiirabi.ee:443.
+HTTP request sent, awaiting response... 303 See other
+Location: /et/cb-login-et [following]
+--2020-02-25 22:17:02--  https://karellkiirabi.ee/et/cb-login-et
+Reusing existing connection to karellkiirabi.ee:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....      5.75M=0.06s
+
+2020-02-25 22:17:03 (5.75 Mb/s) - ‘/dev/null’ saved [46687]
+
+--2020-02-25 22:17:06--  https://karellkiirabi.ee/Ravimid/Nurofen.pdf%0D
+Resolving karellkiirabi.ee (karellkiirabi.ee)... 185.31.240.26
+Connecting to karellkiirabi.ee (karellkiirabi.ee)|185.31.240.26|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://karellkiirabi.ee/et/Ravimid/Nurofen.pdf [following]
+--2020-02-25 22:17:06--  https://karellkiirabi.ee/et/Ravimid/Nurofen.pdf
+Reusing existing connection to karellkiirabi.ee:443.
+HTTP request sent, awaiting response... 303 See other
+Location: /et/cb-login-et [following]
+--2020-02-25 22:17:06--  https://karellkiirabi.ee/et/cb-login-et
+Reusing existing connection to karellkiirabi.ee:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....      5.74M=0.07s
+
+2020-02-25 22:17:06 (5.74 Mb/s) - ‘/dev/null’ saved [46687]
+
+--2020-02-25 22:17:06--  https://karellkiirabi.ee/Ravimid/Nurofen.pdf%0D
+Resolving karellkiirabi.ee (karellkiirabi.ee)... 185.31.240.26
+Connecting to karellkiirabi.ee (karellkiirabi.ee)|185.31.240.26|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://karellkiirabi.ee/et/Ravimid/Nurofen.pdf [following]
+--2020-02-25 22:17:06--  https://karellkiirabi.ee/et/Ravimid/Nurofen.pdf
+Reusing existing connection to karellkiirabi.ee:443.
+HTTP request sent, awaiting response... 303 See other
+Location: /et/cb-login-et [following]
+--2020-02-25 22:17:06--  https://karellkiirabi.ee/et/cb-login-et
+Reusing existing connection to karellkiirabi.ee:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....      5.72M=0.07s
+
+2020-02-25 22:17:06 (5.72 Mb/s) - ‘/dev/null’ saved [46687]
+

@@ -1,0 +1,44 @@
+--2020-02-25 21:37:49--  https://www.abbotsford.ca/AssetFactory.aspx%3Fdid%3D19164%0D
+Resolving www.abbotsford.ca (www.abbotsford.ca)... 207.102.134.76
+Connecting to www.abbotsford.ca (www.abbotsford.ca)|207.102.134.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1047 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  230M=0s
+
+2020-02-25 21:37:49 (230 Mb/s) - ‘/dev/null’ saved [1047/1047]
+
+--2020-02-25 21:37:49--  https://www.abbotsford.ca/AssetFactory.aspx%3Fdid%3D19164%0D
+Resolving www.abbotsford.ca (www.abbotsford.ca)... 207.102.134.76
+Connecting to www.abbotsford.ca (www.abbotsford.ca)|207.102.134.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1047 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  161M=0s
+
+2020-02-25 21:37:50 (161 Mb/s) - ‘/dev/null’ saved [1047/1047]
+
+--2020-02-25 21:39:12--  https://www.abbotsford.ca/AssetFactory.aspx%3Fdid%3D19164%0D
+Resolving www.abbotsford.ca (www.abbotsford.ca)... 207.102.134.76
+Connecting to www.abbotsford.ca (www.abbotsford.ca)|207.102.134.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1047 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  446M=0s
+
+2020-02-25 21:39:13 (446 Mb/s) - ‘/dev/null’ saved [1047/1047]
+
+--2020-02-25 21:39:13--  https://www.abbotsford.ca/AssetFactory.aspx%3Fdid%3D19164%0D
+Resolving www.abbotsford.ca (www.abbotsford.ca)... 207.102.134.76
+Connecting to www.abbotsford.ca (www.abbotsford.ca)|207.102.134.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1047 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  484M=0s
+
+2020-02-25 21:39:14 (484 Mb/s) - ‘/dev/null’ saved [1047/1047]
+

@@ -1,0 +1,25 @@
+--2020-02-25 21:44:22--  http://www.paper.edu.cn/scholar/showpdf/NUD2gN5IMTD0AxeQh%0D
+Resolving www.paper.edu.cn (www.paper.edu.cn)... failed: Connection timed out.
+wget: unable to resolve host address ‘www.paper.edu.cn’
+--2020-02-25 21:44:28--  http://www.paper.edu.cn/scholar/showpdf/NUD2gN5IMTD0AxeQh%0D
+Resolving www.paper.edu.cn (www.paper.edu.cn)... 211.151.95.16
+Connecting to www.paper.edu.cn (www.paper.edu.cn)|211.151.95.16|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      73.7M=0s
+
+2020-02-25 21:44:29 (73.7 Mb/s) - ‘/dev/null’ saved [1449]
+
+--2020-02-25 21:44:29--  http://www.paper.edu.cn/scholar/showpdf/NUD2gN5IMTD0AxeQh%0D
+Resolving www.paper.edu.cn (www.paper.edu.cn)... 211.151.95.16
+Connecting to www.paper.edu.cn (www.paper.edu.cn)|211.151.95.16|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                       130M=0s
+
+2020-02-25 21:44:29 (130 Mb/s) - ‘/dev/null’ saved [1449]
+

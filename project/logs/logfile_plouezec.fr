@@ -1,0 +1,12 @@
+--2020-02-25 22:23:10--  http://plouezec.fr/formation/doc/windows_live_mail.pdf%0D
+Resolving plouezec.fr (plouezec.fr)... --2020-02-25 22:23:10--  http://plouezec.fr/formation/doc/windows_live_mail.pdf%0D
+Resolving plouezec.fr (plouezec.fr)... 81.88.48.95
+Connecting to plouezec.fr (plouezec.fr)|81.88.48.95|:80... 81.88.48.95
+Connecting to plouezec.fr (plouezec.fr)|81.88.48.95|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:23:10 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:23:10 ERROR 404: Not Found.
+

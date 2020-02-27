@@ -1,0 +1,12 @@
+--2020-02-25 21:13:03--  http://www.thimphu.gov.bt/counter/direct_download/532%0D
+Resolving www.thimphu.gov.bt (www.thimphu.gov.bt)... 43.230.208.9
+Connecting to www.thimphu.gov.bt (www.thimphu.gov.bt)|43.230.208.9|:80... connected.
+HTTP request sent, awaiting response... 500 500 Service unavailable (with message)
+2020-02-25 21:13:05 ERROR 500: 500 Service unavailable (with message).
+
+--2020-02-25 21:21:31--  http://www.thimphu.gov.bt/counter/direct_download/532%0D
+Resolving www.thimphu.gov.bt (www.thimphu.gov.bt)... 43.230.208.9
+Connecting to www.thimphu.gov.bt (www.thimphu.gov.bt)|43.230.208.9|:80... connected.
+HTTP request sent, awaiting response... 500 500 Service unavailable (with message)
+2020-02-25 21:21:31 ERROR 500: 500 Service unavailable (with message).
+

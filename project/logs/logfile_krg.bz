@@ -1,0 +1,119 @@
+--2020-02-25 21:08:08--  http://krg.bz/2nKpd4a%0D
+Resolving krg.bz (krg.bz)... 67.199.248.13, 67.199.248.12
+Connecting to krg.bz (krg.bz)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz [following]
+--2020-02-25 21:08:08--  http://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz
+Resolving www.keurig.com (www.keurig.com)... 104.86.135.221
+Connecting to www.keurig.com (www.keurig.com)|104.86.135.221|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz [following]
+--2020-02-25 21:08:08--  https://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz
+Connecting to www.keurig.com (www.keurig.com)|104.86.135.221|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 637911 (623K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 2.90M 2s
+    50K .......... .......... .......... .......... .......... 16% 4.24M 1s
+   100K .......... .......... .......... .......... .......... 24% 2.33M 1s
+   150K .......... .......... .......... .......... .......... 32% 7.78M 1s
+   200K .......... .......... .......... .......... .......... 40% 3.73M 1s
+   250K .......... .......... .......... .......... .......... 48% 4.52M 1s
+   300K .......... .......... .......... .......... .......... 56% 2.77G 1s
+   350K .......... .......... .......... .......... .......... 64% 19.8M 0s
+   400K .......... .......... .......... .......... .......... 72% 23.0M 0s
+   450K .......... .......... .......... .......... .......... 80% 10.2M 0s
+   500K .......... .......... .......... .......... .......... 88% 5.45M 0s
+   550K .......... .......... .......... .......... .......... 96% 35.7M 0s
+   600K .......... .......... ..                              100% 3.98G=0.8s
+
+2020-02-25 21:08:10 (6.13 Mb/s) - ‘/dev/null’ saved [637911/637911]
+
+--2020-02-25 21:08:10--  http://krg.bz/2nKpd4a%0D
+Resolving krg.bz (krg.bz)... 67.199.248.12, 67.199.248.13
+Connecting to krg.bz (krg.bz)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 21:08:10--  https://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz
+Resolving www.keurig.com (www.keurig.com)... 104.86.135.221
+Connecting to www.keurig.com (www.keurig.com)|104.86.135.221|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 637911 (623K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8%  815M 0s
+    50K .......... .......... .......... .......... .......... 16%  846M 0s
+   100K .......... .......... .......... .......... .......... 24% 1.27G 0s
+   150K .......... .......... .......... .......... .......... 32% 2.73G 0s
+   200K .......... .......... .......... .......... .......... 40% 6.62G 0s
+   250K .......... .......... .......... .......... .......... 48% 4.04G 0s
+   300K .......... .......... .......... .......... .......... 56% 1.24G 0s
+   350K .......... .......... .......... .......... .......... 64% 4.95G 0s
+   400K .......... .......... .......... .......... .......... 72% 2.73G 0s
+   450K .......... .......... .......... .......... .......... 80% 1.78G 0s
+   500K .......... .......... .......... .......... .......... 88% 1.46G 0s
+   550K .......... .......... .......... .......... .......... 96% 9.21G 0s
+   600K .......... .......... ..                              100% 2.00G=0.003s
+
+2020-02-25 21:08:10 (1.80 Gb/s) - ‘/dev/null’ saved [637911/637911]
+
+--2020-02-25 21:18:00--  http://krg.bz/2nKpd4a%0D
+Resolving krg.bz (krg.bz)... 67.199.248.13, 67.199.248.12
+Connecting to krg.bz (krg.bz)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 21:18:01--  https://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz
+Resolving www.keurig.com (www.keurig.com)... 104.82.235.62
+Connecting to www.keurig.com (www.keurig.com)|104.82.235.62|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 637911 (623K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 5.66M 1s
+    50K .......... .......... .......... .......... .......... 16% 16.9M 1s
+   100K .......... .......... .......... .......... .......... 24% 6.96M 0s
+   150K .......... .......... .......... .......... .......... 32% 44.0M 0s
+   200K .......... .......... .......... .......... .......... 40% 28.7M 0s
+   250K .......... .......... .......... .......... .......... 48% 27.7M 0s
+   300K .......... .......... .......... .......... .......... 56% 13.9M 0s
+   350K .......... .......... .......... .......... .......... 64% 41.1M 0s
+   400K .......... .......... .......... .......... .......... 72% 54.6M 0s
+   450K .......... .......... .......... .......... .......... 80% 50.8M 0s
+   500K .......... .......... .......... .......... .......... 88% 71.0M 0s
+   550K .......... .......... .......... .......... .......... 96% 36.1M 0s
+   600K .......... .......... ..                              100% 1.12G=0.3s
+
+2020-02-25 21:18:01 (19.2 Mb/s) - ‘/dev/null’ saved [637911/637911]
+
+--2020-02-25 21:18:01--  http://krg.bz/2nKpd4a%0D
+Resolving krg.bz (krg.bz)... 67.199.248.12, 67.199.248.13
+Connecting to krg.bz (krg.bz)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 21:18:01--  https://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz
+Resolving www.keurig.com (www.keurig.com)... 104.82.235.62
+Connecting to www.keurig.com (www.keurig.com)|104.82.235.62|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 637911 (623K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8%  609M 0s
+    50K .......... .......... .......... .......... .......... 16% 67.8M 0s
+   100K .......... .......... .......... .......... .......... 24%  982M 0s
+   150K .......... .......... .......... .......... .......... 32%  656M 0s
+   200K .......... .......... .......... .......... .......... 40%  599M 0s
+   250K .......... .......... .......... .......... .......... 48%  140M 0s
+   300K .......... .......... .......... .......... .......... 56%  916M 0s
+   350K .......... .......... .......... .......... .......... 64%  750M 0s
+   400K .......... .......... .......... .......... .......... 72% 1.01G 0s
+   450K .......... .......... .......... .......... .......... 80%  874M 0s
+   500K .......... .......... .......... .......... .......... 88%  822M 0s
+   550K .......... .......... .......... .......... .......... 96%  940M 0s
+   600K .......... .......... ..                              100%  983M=0.01s
+
+2020-02-25 21:18:01 (356 Mb/s) - ‘/dev/null’ saved [637911/637911]
+

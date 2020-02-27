@@ -1,0 +1,66 @@
+--2020-02-25 21:59:26--  http://www.petroci.ci/fichier-joint/1%0D
+Resolving www.petroci.ci (www.petroci.ci)... 216.170.124.201, 216.138.234.150
+Connecting to www.petroci.ci (www.petroci.ci)|216.170.124.201|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.petroci.ci/page_erreur_404.php [following]
+--2020-02-25 21:59:27--  http://www.petroci.ci/page_erreur_404.php
+Reusing existing connection to www.petroci.ci:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.37M
+    50K ..                                                     44544G=0.2s
+
+2020-02-25 21:59:27 (2.50 Mb/s) - ‘/dev/null’ saved [53984]
+
+--2020-02-25 21:59:27--  http://www.petroci.ci/fichier-joint/1%0D
+Resolving www.petroci.ci (www.petroci.ci)... 216.170.124.201, 216.138.234.150
+Connecting to www.petroci.ci (www.petroci.ci)|216.170.124.201|:80... --2020-02-25 21:59:27--  http://www.petroci.ci/fichier-joint/1%0D
+Resolving www.petroci.ci (www.petroci.ci)... 216.138.234.150, 216.170.124.201
+Connecting to www.petroci.ci (www.petroci.ci)|216.138.234.150|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.petroci.ci/page_erreur_404.php [following]
+--2020-02-25 21:59:27--  http://www.petroci.ci/page_erreur_404.php
+Reusing existing connection to www.petroci.ci:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.58M
+    50K ..                                                     44544G=0.3s
+
+2020-02-25 21:59:28 (1.67 Mb/s) - ‘/dev/null’ saved [53984]
+
+failed: Connection timed out.
+Connecting to www.petroci.ci (www.petroci.ci)|216.170.124.201|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.petroci.ci/page_erreur_404.php [following]
+--2020-02-25 21:59:30--  http://www.petroci.ci/page_erreur_404.php
+Reusing existing connection to www.petroci.ci:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.37M
+    50K ..                                                     1.08G=0.2s
+
+2020-02-25 21:59:31 (2.50 Mb/s) - ‘/dev/null’ saved [53984]
+
+--2020-02-25 21:59:31--  http://www.petroci.ci/fichier-joint/1%0D
+Resolving www.petroci.ci (www.petroci.ci)... 216.138.234.150, 216.170.124.201
+Connecting to www.petroci.ci (www.petroci.ci)|216.138.234.150|:80... failed: Connection timed out.
+Connecting to www.petroci.ci (www.petroci.ci)|216.170.124.201|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.petroci.ci/page_erreur_404.php [following]
+--2020-02-25 21:59:34--  http://www.petroci.ci/page_erreur_404.php
+Reusing existing connection to www.petroci.ci:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.37M
+    50K ..                                                      193M=0.2s
+
+2020-02-25 21:59:34 (2.50 Mb/s) - ‘/dev/null’ saved [53984]
+

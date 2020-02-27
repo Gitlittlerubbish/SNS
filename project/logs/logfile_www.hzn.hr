@@ -1,0 +1,12 @@
+--2020-02-25 22:00:38--  https://www.hzn.hr/UserDocsImages/pdf/AutPrav.pdf%0D
+Resolving www.hzn.hr (www.hzn.hr)... 185.143.192.9
+Connecting to www.hzn.hr (www.hzn.hr)|185.143.192.9|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:00:39 ERROR 400: Bad Request.
+
+--2020-02-25 22:00:39--  https://www.hzn.hr/UserDocsImages/pdf/AutPrav.pdf%0D
+Resolving www.hzn.hr (www.hzn.hr)... 185.143.192.9
+Connecting to www.hzn.hr (www.hzn.hr)|185.143.192.9|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:00:39 ERROR 400: Bad Request.
+

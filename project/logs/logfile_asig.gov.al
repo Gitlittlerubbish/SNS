@@ -1,24 +1,22 @@
---2020-02-25 14:55:56--  http://asig.gov.al/inspire_md_ir_and_iso_v1_2_20100616.pdf
+--2020-02-25 20:55:02--  http://asig.gov.al/inspire_md_ir_and_iso_v1_2_20100616.pdf%0D
 Resolving asig.gov.al (asig.gov.al)... 134.0.41.110
 Connecting to asig.gov.al (asig.gov.al)|134.0.41.110|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 439072 (429K) [application/pdf]
+Length: unspecified [text/html]
 Saving to: ‘/dev/null’
 
-     0K .......... .......... .......... .......... .......... 11% 3.19M 1s
-    50K .......... .......... .......... .......... .......... 23% 2.45M 1s
-   100K .......... .......... .......... .......... .......... 34% 4.67M 1s
-   150K .......... .......... .......... .......... .......... 46% 2.54M 1s
-   200K .......... .......... .......... .......... .......... 58% 7.78M 0s
-   250K .......... .......... .......... .......... .......... 69% 1.28M 0s
-   300K .......... .......... .......... .......... .......... 81%  647K 0s
-   350K .......... .......... .......... .......... .......... 93%  368K 0s
-   400K .......... .......... ........                        100%  398K=3.3s
+     0K                                                        1.51G=0s
 
-2020-02-25 14:56:00 (1.08 Mb/s) - ‘/dev/null’ saved [439072/439072]
+2020-02-25 20:55:02 (1.51 Gb/s) - ‘/dev/null’ saved [725]
 
---2020-02-25 14:56:00--  http://asig.gov.al/inspire_md_ir_and_iso_v1_2_20100616.pdf
+--2020-02-25 20:55:02--  http://asig.gov.al/inspire_md_ir_and_iso_v1_2_20100616.pdf%0D
 Resolving asig.gov.al (asig.gov.al)... 134.0.41.110
-Connecting to asig.gov.al (asig.gov.al)|134.0.41.110|:80... failed: Operation timed out.
-Giving up.
+Connecting to asig.gov.al (asig.gov.al)|134.0.41.110|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        1.78G=0s
+
+2020-02-25 20:55:03 (1.78 Gb/s) - ‘/dev/null’ saved [725]
 

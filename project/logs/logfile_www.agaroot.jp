@@ -1,0 +1,62 @@
+--2020-02-25 23:04:19--  http://www.agaroot.jp/wp-content/uploads/2017/01/AGAROOT_sample_koumuin_senmon_keizaikei1.pdf%0D
+Resolving www.agaroot.jp (www.agaroot.jp)... 52.194.14.231, 54.95.49.161, 54.65.115.38
+Connecting to www.agaroot.jp (www.agaroot.jp)|52.194.14.231|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.agaroot.jp/wp-content/uploads/2017/01/AGAROOT_sample_koumuin_senmon_keizaikei1.pdf%0d [following]
+--2020-02-25 23:04:20--  https://www.agaroot.jp/wp-content/uploads/2017/01/AGAROOT_sample_koumuin_senmon_keizaikei1.pdf%0d
+Connecting to www.agaroot.jp (www.agaroot.jp)|52.194.14.231|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://s3-ap-northeast-1.amazonaws.com/production.wp.s3.agaroot.jp/wp-content/uploads/2017/01/AGAROOT_sample_koumuin_senmon_keizaikei1.pdf [following]
+--2020-02-25 23:04:21--  https://s3-ap-northeast-1.amazonaws.com/production.wp.s3.agaroot.jp/wp-content/uploads/2017/01/AGAROOT_sample_koumuin_senmon_keizaikei1.pdf
+Resolving s3-ap-northeast-1.amazonaws.com (s3-ap-northeast-1.amazonaws.com)... 52.219.68.146
+Connecting to s3-ap-northeast-1.amazonaws.com (s3-ap-northeast-1.amazonaws.com)|52.219.68.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 606714 (592K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8%  609K 7s
+    50K .......... .......... .......... .......... .......... 16% 1.83M 4s
+   100K .......... .......... .......... .......... .......... 25%  914K 4s
+   150K .......... .......... .......... .......... .......... 33%  838M 3s
+   200K .......... .......... .......... .......... .......... 42% 1.83M 2s
+   250K .......... .......... .......... .......... .......... 50%  971M 2s
+   300K .......... .......... .......... .......... .......... 59%  744M 1s
+   350K .......... .......... .......... .......... .......... 67% 1.83M 1s
+   400K .......... .......... .......... .......... .......... 75% 1.83M 1s
+   450K .......... .......... .......... .......... .......... 84%  599M 0s
+   500K .......... .......... .......... .......... .......... 92%  489M 0s
+   550K .......... .......... .......... .......... ..        100%  613M=2.0s
+
+2020-02-25 23:04:24 (2.40 Mb/s) - ‘/dev/null’ saved [606714/606714]
+
+--2020-02-25 23:04:24--  http://www.agaroot.jp/wp-content/uploads/2017/01/AGAROOT_sample_koumuin_senmon_keizaikei1.pdf%0D
+Resolving www.agaroot.jp (www.agaroot.jp)... 52.194.14.231, 54.95.49.161, 54.65.115.38
+Connecting to www.agaroot.jp (www.agaroot.jp)|52.194.14.231|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.agaroot.jp/wp-content/uploads/2017/01/AGAROOT_sample_koumuin_senmon_keizaikei1.pdf%0d [following]
+--2020-02-25 23:04:24--  https://www.agaroot.jp/wp-content/uploads/2017/01/AGAROOT_sample_koumuin_senmon_keizaikei1.pdf%0d
+Connecting to www.agaroot.jp (www.agaroot.jp)|52.194.14.231|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://s3-ap-northeast-1.amazonaws.com/production.wp.s3.agaroot.jp/wp-content/uploads/2017/01/AGAROOT_sample_koumuin_senmon_keizaikei1.pdf [following]
+--2020-02-25 23:04:25--  https://s3-ap-northeast-1.amazonaws.com/production.wp.s3.agaroot.jp/wp-content/uploads/2017/01/AGAROOT_sample_koumuin_senmon_keizaikei1.pdf
+Resolving s3-ap-northeast-1.amazonaws.com (s3-ap-northeast-1.amazonaws.com)... 52.219.68.146
+Connecting to s3-ap-northeast-1.amazonaws.com (s3-ap-northeast-1.amazonaws.com)|52.219.68.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 606714 (592K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8%  910K 5s
+    50K .......... .......... .......... .......... .......... 16% 1.05G 2s
+   100K .......... .......... .......... .......... .......... 25% 1.82M 2s
+   150K .......... .......... .......... .......... .......... 33% 1.32G 1s
+   200K .......... .......... .......... .......... .......... 42% 1.82M 1s
+   250K .......... .......... .......... .......... .......... 50% 2.01G 1s
+   300K .......... .......... .......... .......... .......... 59% 1.81M 1s
+   350K .......... .......... .......... .......... .......... 67%  560M 1s
+   400K .......... .......... .......... .......... .......... 75% 1.83M 0s
+   450K .......... .......... .......... .......... .......... 84%  278M 0s
+   500K .......... .......... .......... .......... .......... 92%  658M 0s
+   550K .......... .......... .......... .......... ..        100% 1.56M=1.6s
+
+2020-02-25 23:04:28 (3.08 Mb/s) - ‘/dev/null’ saved [606714/606714]
+

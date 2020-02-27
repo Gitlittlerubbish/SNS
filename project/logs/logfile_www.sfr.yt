@@ -1,0 +1,6 @@
+--2020-02-25 23:46:18--  https://www.sfr.yt/sites/default/files/documents/Bilans_GES_SRR.pdf%0D
+Resolving www.sfr.yt (www.sfr.yt)... 195.115.116.14
+Connecting to www.sfr.yt (www.sfr.yt)|195.115.116.14|:443... connected.
+ERROR: cannot verify www.sfr.yt's certificate, issued by ‘CN=Gandi Standard SSL CA 2,O=Gandi,L=Paris,ST=Paris,C=FR’:
+  Unable to locally verify the issuer's authority.
+To connect to www.sfr.yt insecurely, use `--no-check-certificate'.

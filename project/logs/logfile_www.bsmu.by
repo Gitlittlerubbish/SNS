@@ -1,0 +1,20 @@
+--2020-02-25 21:06:21--  https://www.bsmu.by/files/b9e8be39785500ec136467dd26f9c7dd/%0D
+Resolving www.bsmu.by (www.bsmu.by)... 178.172.181.65
+Connecting to www.bsmu.by (www.bsmu.by)|178.172.181.65|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bsmu.by/files/b9e8be39785500ec136467dd26f9c7dd/%0d/ [following]
+--2020-02-25 21:06:22--  https://www.bsmu.by/files/b9e8be39785500ec136467dd26f9c7dd/%0d/
+Connecting to www.bsmu.by (www.bsmu.by)|178.172.181.65|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:06:22 ERROR 404: Not Found.
+
+--2020-02-25 21:16:38--  https://www.bsmu.by/files/b9e8be39785500ec136467dd26f9c7dd/%0D
+Resolving www.bsmu.by (www.bsmu.by)... 178.172.181.65
+Connecting to www.bsmu.by (www.bsmu.by)|178.172.181.65|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bsmu.by/files/b9e8be39785500ec136467dd26f9c7dd/%0d/ [following]
+--2020-02-25 21:16:39--  https://www.bsmu.by/files/b9e8be39785500ec136467dd26f9c7dd/%0d/
+Connecting to www.bsmu.by (www.bsmu.by)|178.172.181.65|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:39 ERROR 404: Not Found.
+

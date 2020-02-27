@@ -1,0 +1,12 @@
+--2020-02-25 22:14:27--  http://www.guadalajzarac.gq/_attachment/194209/%0D
+Resolving www.guadalajzarac.gq (www.guadalajzarac.gq)... 104.18.36.106, 104.18.37.106
+Connecting to www.guadalajzarac.gq (www.guadalajzarac.gq)|104.18.36.106|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 22:14:47--  http://www.guadalajzarac.gq/_attachment/194209/%0D
+Resolving www.guadalajzarac.gq (www.guadalajzarac.gq)... 104.18.37.106, 104.18.36.106
+Connecting to www.guadalajzarac.gq (www.guadalajzarac.gq)|104.18.37.106|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

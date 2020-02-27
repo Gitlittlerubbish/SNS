@@ -1,0 +1,64 @@
+--2020-02-25 22:58:56--  http://clk.im/R78l%0D
+Resolving clk.im (clk.im)... 34.203.175.7, 52.20.162.227
+Connecting to clk.im (clk.im)|34.203.175.7|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://oops.clk.im/ [following]
+--2020-02-25 22:58:56--  http://oops.clk.im/
+Resolving oops.clk.im (oops.clk.im)... 52.217.39.163
+Connecting to oops.clk.im (oops.clk.im)|52.217.39.163|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7022 (6.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                100% 4.68G=0s
+
+2020-02-25 22:58:57 (4.68 Gb/s) - ‘/dev/null’ saved [7022/7022]
+
+--2020-02-25 22:58:57--  http://clk.im/R78l%0D
+Resolving clk.im (clk.im)... 34.203.175.7, 52.20.162.227
+Connecting to clk.im (clk.im)|34.203.175.7|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://oops.clk.im/ [following]
+--2020-02-25 22:58:57--  http://oops.clk.im/
+Resolving oops.clk.im (oops.clk.im)... 52.217.39.163
+Connecting to oops.clk.im (oops.clk.im)|52.217.39.163|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7022 (6.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                100% 12.9G=0s
+
+2020-02-25 22:58:57 (12.9 Gb/s) - ‘/dev/null’ saved [7022/7022]
+
+--2020-02-25 22:58:57--  http://clk.im/1lIg%0D
+Resolving clk.im (clk.im)... 52.20.162.227, 34.203.175.7
+Connecting to clk.im (clk.im)|52.20.162.227|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://oops.clk.im/ [following]
+--2020-02-25 22:58:57--  http://oops.clk.im/
+Resolving oops.clk.im (oops.clk.im)... 52.217.39.163
+Connecting to oops.clk.im (oops.clk.im)|52.217.39.163|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7022 (6.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                100% 13.3G=0s
+
+2020-02-25 22:58:57 (13.3 Gb/s) - ‘/dev/null’ saved [7022/7022]
+
+--2020-02-25 22:58:57--  http://clk.im/1lIg%0D
+Resolving clk.im (clk.im)... 34.203.175.7, 52.20.162.227
+Connecting to clk.im (clk.im)|34.203.175.7|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://oops.clk.im/ [following]
+--2020-02-25 22:58:57--  http://oops.clk.im/
+Resolving oops.clk.im (oops.clk.im)... 52.217.39.163
+Connecting to oops.clk.im (oops.clk.im)|52.217.39.163|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7022 (6.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                100% 13.4G=0s
+
+2020-02-25 22:58:58 (13.4 Gb/s) - ‘/dev/null’ saved [7022/7022]
+

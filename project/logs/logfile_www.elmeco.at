@@ -1,0 +1,12 @@
+--2020-02-25 20:59:56--  http://www.elmeco.at/downloads/DR_30_Kabelabroller.pdf%0D
+Resolving www.elmeco.at (www.elmeco.at)... 84.116.32.65
+Connecting to www.elmeco.at (www.elmeco.at)|84.116.32.65|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:56 ERROR 404: Not Found.
+
+--2020-02-25 21:11:58--  http://www.elmeco.at/downloads/DR_30_Kabelabroller.pdf%0D
+Resolving www.elmeco.at (www.elmeco.at)... 84.116.32.65
+Connecting to www.elmeco.at (www.elmeco.at)|84.116.32.65|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:58 ERROR 404: Not Found.
+

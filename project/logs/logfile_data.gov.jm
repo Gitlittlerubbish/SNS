@@ -1,0 +1,22 @@
+--2020-02-25 23:00:59--  https://data.gov.jm/node/1711/download%0D
+Resolving data.gov.jm (data.gov.jm)... 196.3.190.35
+Connecting to data.gov.jm (data.gov.jm)|196.3.190.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                              1.60M=0.1s
+
+2020-02-25 23:01:00 (1.60 Mb/s) - ‘/dev/null’ saved [23642]
+
+--2020-02-25 23:01:00--  https://data.gov.jm/node/1711/download%0D
+Resolving data.gov.jm (data.gov.jm)... 196.3.190.35
+Connecting to data.gov.jm (data.gov.jm)|196.3.190.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                              1.58M=0.1s
+
+2020-02-25 23:01:01 (1.58 Mb/s) - ‘/dev/null’ saved [23642]
+

@@ -1,0 +1,24 @@
+--2020-02-25 21:46:02--  http://www.airida.cn/drugpopup/Cefotaxime.pdf%0D
+Resolving www.airida.cn (www.airida.cn)... 211.72.204.156
+Connecting to www.airida.cn (www.airida.cn)|211.72.204.156|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:03 ERROR 400: Bad Request.
+
+--2020-02-25 21:46:03--  http://www.airida.cn/drugpopup/Chloramphenicol.pdf%0D
+Resolving www.airida.cn (www.airida.cn)... 211.72.204.156
+Connecting to www.airida.cn (www.airida.cn)|211.72.204.156|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:03 ERROR 400: Bad Request.
+
+--2020-02-25 21:46:22--  http://www.airida.cn/drugpopup/Cefotaxime.pdf%0D
+Resolving www.airida.cn (www.airida.cn)... 211.72.204.156
+Connecting to www.airida.cn (www.airida.cn)|211.72.204.156|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:22 ERROR 400: Bad Request.
+
+--2020-02-25 21:46:22--  http://www.airida.cn/drugpopup/Chloramphenicol.pdf%0D
+Resolving www.airida.cn (www.airida.cn)... 211.72.204.156
+Connecting to www.airida.cn (www.airida.cn)|211.72.204.156|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:23 ERROR 400: Bad Request.
+

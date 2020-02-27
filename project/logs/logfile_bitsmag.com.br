@@ -1,0 +1,68 @@
+--2020-02-25 21:20:05--  http://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf%0D
+Resolving bitsmag.com.br (bitsmag.com.br)... 70.32.92.249
+Connecting to bitsmag.com.br (bitsmag.com.br)|70.32.92.249|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf [following]
+--2020-02-25 21:20:06--  https://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf
+Connecting to bitsmag.com.br (bitsmag.com.br)|70.32.92.249|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134991 (132K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.11M 1s
+    50K .......... .......... .......... .......... .......... 75% 2.22M 0s
+   100K .......... .......... .......... .                    100% 7.18M=0.6s
+
+2020-02-25 21:20:07 (1.83 Mb/s) - ‘/dev/null’ saved [134991/134991]
+
+--2020-02-25 21:20:07--  http://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf%0D
+Resolving bitsmag.com.br (bitsmag.com.br)... 70.32.92.249
+Connecting to bitsmag.com.br (bitsmag.com.br)|70.32.92.249|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf [following]
+--2020-02-25 21:20:08--  https://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf
+Connecting to bitsmag.com.br (bitsmag.com.br)|70.32.92.249|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134991 (132K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.85M 0s
+    50K .......... .......... .......... .......... .......... 75% 2.78M 0s
+   100K .......... .......... .......... .                    100% 3.62G=0.4s
+
+2020-02-25 21:20:09 (2.93 Mb/s) - ‘/dev/null’ saved [134991/134991]
+
+--2020-02-25 21:26:19--  http://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf%0D
+Resolving bitsmag.com.br (bitsmag.com.br)... 70.32.92.249
+Connecting to bitsmag.com.br (bitsmag.com.br)|70.32.92.249|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf [following]
+--2020-02-25 21:26:20--  https://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf
+Connecting to bitsmag.com.br (bitsmag.com.br)|70.32.92.249|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134991 (132K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.85M 0s
+    50K .......... .......... .......... .......... .......... 75% 2.79M 0s
+   100K .......... .......... .......... .                    100% 4.14G=0.4s
+
+2020-02-25 21:26:20 (2.93 Mb/s) - ‘/dev/null’ saved [134991/134991]
+
+--2020-02-25 21:26:20--  http://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf%0D
+Resolving bitsmag.com.br (bitsmag.com.br)... 70.32.92.249
+Connecting to bitsmag.com.br (bitsmag.com.br)|70.32.92.249|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf [following]
+--2020-02-25 21:26:21--  https://bitsmag.com.br/Sontag_Susan_1964_Notes_on_Camp.pdf
+Connecting to bitsmag.com.br (bitsmag.com.br)|70.32.92.249|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134991 (132K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.85M 0s
+    50K .......... .......... .......... .......... .......... 75% 2.78M 0s
+   100K .......... .......... .......... .                    100% 3.56G=0.4s
+
+2020-02-25 21:26:22 (2.93 Mb/s) - ‘/dev/null’ saved [134991/134991]
+

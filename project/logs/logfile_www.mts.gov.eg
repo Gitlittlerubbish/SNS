@@ -1,0 +1,12 @@
+--2020-02-25 22:12:22--  http://www.mts.gov.eg/multimedia/docs/91.PDF%0D
+Resolving www.mts.gov.eg (www.mts.gov.eg)... 213.131.82.115
+Connecting to www.mts.gov.eg (www.mts.gov.eg)|213.131.82.115|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:12:22 ERROR 404: Not Found.
+
+--2020-02-25 22:13:13--  http://www.mts.gov.eg/multimedia/docs/91.PDF%0D
+Resolving www.mts.gov.eg (www.mts.gov.eg)... 213.131.82.115
+Connecting to www.mts.gov.eg (www.mts.gov.eg)|213.131.82.115|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:13:13 ERROR 404: Not Found.
+

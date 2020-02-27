@@ -1,0 +1,12 @@
+--2020-02-25 22:31:54--  https://www.bmfsfj.de/blob/jump/94322/merkblatt-kinderzuschlag-data.pdf%0D
+Resolving www.bmfsfj.de (www.bmfsfj.de)... 185.49.16.119
+Connecting to www.bmfsfj.de (www.bmfsfj.de)|185.49.16.119|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:31:54 ERROR 404: Not Found.
+
+--2020-02-25 22:31:55--  https://www.bmfsfj.de/blob/jump/94322/merkblatt-kinderzuschlag-data.pdf%0D
+Resolving www.bmfsfj.de (www.bmfsfj.de)... 185.49.16.119
+Connecting to www.bmfsfj.de (www.bmfsfj.de)|185.49.16.119|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:31:55 ERROR 404: Not Found.
+

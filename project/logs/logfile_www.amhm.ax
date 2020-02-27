@@ -1,7 +1,0 @@
-URL transformed to HTTPS due to an HSTS policy
---2020-02-25 14:39:01--  https://www.amhm.ax/analysbestallning-vattenanalys-ovrigt
-Resolving www.amhm.ax (www.amhm.ax)... 194.110.179.130
-Connecting to www.amhm.ax (www.amhm.ax)|194.110.179.130|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 14:39:04 ERROR 404: Not Found.
-

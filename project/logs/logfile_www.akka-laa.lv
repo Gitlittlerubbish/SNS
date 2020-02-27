@@ -1,0 +1,6 @@
+--2020-02-25 23:20:35--  http://www.akka-laa.lv/files/14_11_2019_2.pdf%0D
+Resolving www.akka-laa.lv (www.akka-laa.lv)... 87.226.68.228
+Connecting to www.akka-laa.lv (www.akka-laa.lv)|87.226.68.228|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:20:35 ERROR 404: Not Found.
+

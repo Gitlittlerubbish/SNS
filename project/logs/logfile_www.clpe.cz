@@ -1,0 +1,12 @@
+--2020-02-25 22:05:22--  http://www.clpe.cz/klasifikace_prehled_NPP_2018.pdf%0D
+Resolving www.clpe.cz (www.clpe.cz)... 185.99.64.39
+Connecting to www.clpe.cz (www.clpe.cz)|185.99.64.39|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:05:23 ERROR 404: Not Found.
+
+--2020-02-25 22:05:23--  http://www.clpe.cz/klasifikace_prehled_NPP_2018.pdf%0D
+Resolving www.clpe.cz (www.clpe.cz)... 185.99.64.39
+Connecting to www.clpe.cz (www.clpe.cz)|185.99.64.39|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:05:23 ERROR 404: Not Found.
+

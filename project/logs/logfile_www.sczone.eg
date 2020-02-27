@@ -1,0 +1,12 @@
+--2020-02-25 22:11:40--  https://www.sczone.eg/English/Documents/9.pdf%0D
+--2020-02-25 22:11:40--  https://www.sczone.eg/English/Documents/9.pdf%0D
+Resolving www.sczone.eg (www.sczone.eg)... Resolving www.sczone.eg (www.sczone.eg)... 52.233.169.21
+Connecting to www.sczone.eg (www.sczone.eg)|52.233.169.21|:443... 52.233.169.21
+Connecting to www.sczone.eg (www.sczone.eg)|52.233.169.21|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:40 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:11:40 ERROR 400: Bad Request.
+

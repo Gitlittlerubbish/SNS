@@ -1,0 +1,12 @@
+--2020-02-25 21:45:53--  http://www.craton.cn/Uploadfiles/200914141236_GaoShan_2004.pdf%0D
+Resolving www.craton.cn (www.craton.cn)... 159.226.119.161
+Connecting to www.craton.cn (www.craton.cn)|159.226.119.161|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:45:56 ERROR 400: Bad Request.
+
+--2020-02-25 21:46:18--  http://www.craton.cn/Uploadfiles/200914141236_GaoShan_2004.pdf%0D
+Resolving www.craton.cn (www.craton.cn)... 159.226.119.161
+Connecting to www.craton.cn (www.craton.cn)|159.226.119.161|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:19 ERROR 400: Bad Request.
+

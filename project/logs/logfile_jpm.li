@@ -1,0 +1,38 @@
+--2020-02-25 23:23:53--  https://jpm.li/cic%0D
+Resolving jpm.li (jpm.li)... 104.27.168.107, 104.27.169.107
+Connecting to jpm.li (jpm.li)|104.27.168.107|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://jpm.li [following]
+--2020-02-25 23:23:53--  http://jpm.li/
+Connecting to jpm.li (jpm.li)|104.27.168.107|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jpm.li/ [following]
+--2020-02-25 23:23:54--  https://jpm.li/
+Connecting to jpm.li (jpm.li)|104.27.168.107|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        98.0M=0s
+
+2020-02-25 23:23:54 (98.0 Mb/s) - ‘/dev/null’ saved [74]
+
+--2020-02-25 23:23:54--  https://jpm.li/cic%0D
+Resolving jpm.li (jpm.li)... 104.27.168.107, 104.27.169.107
+Connecting to jpm.li (jpm.li)|104.27.168.107|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://jpm.li [following]
+--2020-02-25 23:23:55--  http://jpm.li/
+Connecting to jpm.li (jpm.li)|104.27.168.107|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jpm.li/ [following]
+--2020-02-25 23:23:55--  https://jpm.li/
+Connecting to jpm.li (jpm.li)|104.27.168.107|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        98.6M=0s
+
+2020-02-25 23:23:55 (98.6 Mb/s) - ‘/dev/null’ saved [74]
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:21:21--  http://www.moim.gov.lb/Download.aspx%3Fidf%3D1157%0D
+Resolving www.moim.gov.lb (www.moim.gov.lb)... 93.185.92.42
+Connecting to www.moim.gov.lb (www.moim.gov.lb)|93.185.92.42|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:21:22 ERROR 400: Bad Request.
+

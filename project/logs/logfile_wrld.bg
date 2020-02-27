@@ -1,0 +1,224 @@
+--2020-02-25 21:26:47--  http://wrld.bg/rScu50vxSYD%0D
+Resolving wrld.bg (wrld.bg)... 54.241.242.72
+Connecting to wrld.bg (wrld.bg)|54.241.242.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://worldbank.org [following]
+--2020-02-25 21:26:47--  http://worldbank.org/
+Resolving worldbank.org (worldbank.org)... 52.22.246.62, 34.232.182.112
+Connecting to worldbank.org (worldbank.org)|52.22.246.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.worldbank.org/ [following]
+--2020-02-25 21:26:47--  http://www.worldbank.org/
+Resolving www.worldbank.org (www.worldbank.org)... 143.204.175.93, 143.204.175.125, 143.204.175.10, ...
+Connecting to www.worldbank.org (www.worldbank.org)|143.204.175.93|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.worldbank.org/ [following]
+--2020-02-25 21:26:47--  https://www.worldbank.org/
+Connecting to www.worldbank.org (www.worldbank.org)|143.204.175.93|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197901 (193K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  237M 0s
+    50K .......... .......... .......... .......... .......... 51%  302M 0s
+   100K .......... .......... .......... .......... .......... 77%  502M 0s
+   150K .......... .......... .......... .......... ...       100%  508M=0.005s
+
+2020-02-25 21:26:47 (344 Mb/s) - ‘/dev/null’ saved [197901/197901]
+
+--2020-02-25 21:26:47--  http://wrld.bg/rScu50vxSYD%0D
+Resolving wrld.bg (wrld.bg)... 54.241.242.72
+Connecting to wrld.bg (wrld.bg)|54.241.242.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://worldbank.org [following]
+--2020-02-25 21:26:48--  http://worldbank.org/
+Resolving worldbank.org (worldbank.org)... 52.22.246.62, 34.232.182.112
+Connecting to worldbank.org (worldbank.org)|52.22.246.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.worldbank.org/ [following]
+--2020-02-25 21:26:48--  http://www.worldbank.org/
+Resolving www.worldbank.org (www.worldbank.org)... 143.204.175.10, 143.204.175.62, 143.204.175.93, ...
+Connecting to www.worldbank.org (www.worldbank.org)|143.204.175.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.worldbank.org/ [following]
+--2020-02-25 21:26:48--  https://www.worldbank.org/
+Connecting to www.worldbank.org (www.worldbank.org)|143.204.175.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197901 (193K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  248M 0s
+    50K .......... .......... .......... .......... .......... 51%  311M 0s
+   100K .......... .......... .......... .......... .......... 77%  466M 0s
+   150K .......... .......... .......... .......... ...       100%  545M=0.004s
+
+2020-02-25 21:26:48 (352 Mb/s) - ‘/dev/null’ saved [197901/197901]
+
+--2020-02-25 21:26:48--  http://wrld.bg/9UA0307RQHl%0D
+Resolving wrld.bg (wrld.bg)... 54.241.242.72
+Connecting to wrld.bg (wrld.bg)|54.241.242.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://worldbank.org [following]
+--2020-02-25 21:26:48--  http://worldbank.org/
+Resolving worldbank.org (worldbank.org)... 52.22.246.62, 34.232.182.112
+Connecting to worldbank.org (worldbank.org)|52.22.246.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.worldbank.org/ [following]
+--2020-02-25 21:26:48--  http://www.worldbank.org/
+Resolving www.worldbank.org (www.worldbank.org)... 143.204.175.10, 143.204.175.62, 143.204.175.93, ...
+Connecting to www.worldbank.org (www.worldbank.org)|143.204.175.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.worldbank.org/ [following]
+--2020-02-25 21:26:48--  https://www.worldbank.org/
+Connecting to www.worldbank.org (www.worldbank.org)|143.204.175.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197901 (193K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  248M 0s
+    50K .......... .......... .......... .......... .......... 51%  324M 0s
+   100K .......... .......... .......... .......... .......... 77%  547M 0s
+   150K .......... .......... .......... .......... ...       100%  416M=0.005s
+
+2020-02-25 21:26:48 (351 Mb/s) - ‘/dev/null’ saved [197901/197901]
+
+--2020-02-25 21:26:48--  http://wrld.bg/9UA0307RQHl%0D
+Resolving wrld.bg (wrld.bg)... 54.241.242.72
+Connecting to wrld.bg (wrld.bg)|54.241.242.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://worldbank.org [following]
+--2020-02-25 21:26:49--  http://worldbank.org/
+Resolving worldbank.org (worldbank.org)... 34.232.182.112, 52.22.246.62
+Connecting to worldbank.org (worldbank.org)|34.232.182.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.worldbank.org/ [following]
+--2020-02-25 21:26:49--  http://www.worldbank.org/
+Resolving www.worldbank.org (www.worldbank.org)... 143.204.175.93, 143.204.175.125, 143.204.175.10, ...
+Connecting to www.worldbank.org (www.worldbank.org)|143.204.175.93|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.worldbank.org/ [following]
+--2020-02-25 21:26:49--  https://www.worldbank.org/
+Connecting to www.worldbank.org (www.worldbank.org)|143.204.175.93|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197901 (193K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  230M 0s
+    50K .......... .......... .......... .......... .......... 51%  247M 0s
+   100K .......... .......... .......... .......... .......... 77%  596M 0s
+   150K .......... .......... .......... .......... ...       100%  412M=0.005s
+
+2020-02-25 21:26:49 (318 Mb/s) - ‘/dev/null’ saved [197901/197901]
+
+--2020-02-25 21:31:58--  http://wrld.bg/rScu50vxSYD%0D
+Resolving wrld.bg (wrld.bg)... 54.241.242.72
+Connecting to wrld.bg (wrld.bg)|54.241.242.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://worldbank.org [following]
+--2020-02-25 21:31:58--  http://worldbank.org/
+Resolving worldbank.org (worldbank.org)... 52.22.246.62, 34.232.182.112
+Connecting to worldbank.org (worldbank.org)|52.22.246.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.worldbank.org/ [following]
+--2020-02-25 21:31:58--  http://www.worldbank.org/
+Resolving www.worldbank.org (www.worldbank.org)... 99.84.5.23, 99.84.5.110, 99.84.5.95, ...
+Connecting to www.worldbank.org (www.worldbank.org)|99.84.5.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.worldbank.org/ [following]
+--2020-02-25 21:31:58--  https://www.worldbank.org/
+Connecting to www.worldbank.org (www.worldbank.org)|99.84.5.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197901 (193K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  251M 0s
+    50K .......... .......... .......... .......... .......... 51%  249M 0s
+   100K .......... .......... .......... .......... .......... 77%  593M 0s
+   150K .......... .......... .......... .......... ...       100% 1.10G=0.004s
+
+2020-02-25 21:31:58 (369 Mb/s) - ‘/dev/null’ saved [197901/197901]
+
+--2020-02-25 21:31:58--  http://wrld.bg/rScu50vxSYD%0D
+Resolving wrld.bg (wrld.bg)... 54.241.242.72
+Connecting to wrld.bg (wrld.bg)|54.241.242.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://worldbank.org [following]
+--2020-02-25 21:31:59--  http://worldbank.org/
+Resolving worldbank.org (worldbank.org)... 52.22.246.62, 34.232.182.112
+Connecting to worldbank.org (worldbank.org)|52.22.246.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.worldbank.org/ [following]
+--2020-02-25 21:31:59--  http://www.worldbank.org/
+Resolving www.worldbank.org (www.worldbank.org)... 99.84.5.33, 99.84.5.23, 99.84.5.110, ...
+Connecting to www.worldbank.org (www.worldbank.org)|99.84.5.33|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.worldbank.org/ [following]
+--2020-02-25 21:31:59--  https://www.worldbank.org/
+Connecting to www.worldbank.org (www.worldbank.org)|99.84.5.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197901 (193K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  269M 0s
+    50K .......... .......... .......... .......... .......... 51%  326M 0s
+   100K .......... .......... .......... .......... .......... 77%  626M 0s
+   150K .......... .......... .......... .......... ...       100% 1.02G=0.004s
+
+2020-02-25 21:31:59 (419 Mb/s) - ‘/dev/null’ saved [197901/197901]
+
+--2020-02-25 21:31:59--  http://wrld.bg/9UA0307RQHl%0D
+Resolving wrld.bg (wrld.bg)... 54.241.242.72
+Connecting to wrld.bg (wrld.bg)|54.241.242.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://worldbank.org [following]
+--2020-02-25 21:31:59--  http://worldbank.org/
+Resolving worldbank.org (worldbank.org)... 52.22.246.62, 34.232.182.112
+Connecting to worldbank.org (worldbank.org)|52.22.246.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.worldbank.org/ [following]
+--2020-02-25 21:31:59--  http://www.worldbank.org/
+Resolving www.worldbank.org (www.worldbank.org)... 99.84.5.110, 99.84.5.95, 99.84.5.33, ...
+Connecting to www.worldbank.org (www.worldbank.org)|99.84.5.110|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.worldbank.org/ [following]
+--2020-02-25 21:31:59--  https://www.worldbank.org/
+Connecting to www.worldbank.org (www.worldbank.org)|99.84.5.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197901 (193K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  275M 0s
+    50K .......... .......... .......... .......... .......... 51%  351M 0s
+   100K .......... .......... .......... .......... .......... 77%  531M 0s
+   150K .......... .......... .......... .......... ...       100% 1.81G=0.004s
+
+2020-02-25 21:31:59 (437 Mb/s) - ‘/dev/null’ saved [197901/197901]
+
+--2020-02-25 21:31:59--  http://wrld.bg/9UA0307RQHl%0D
+Resolving wrld.bg (wrld.bg)... 54.241.242.72
+Connecting to wrld.bg (wrld.bg)|54.241.242.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://worldbank.org [following]
+--2020-02-25 21:32:00--  http://worldbank.org/
+Resolving worldbank.org (worldbank.org)... 52.22.246.62, 34.232.182.112
+Connecting to worldbank.org (worldbank.org)|52.22.246.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.worldbank.org/ [following]
+--2020-02-25 21:32:00--  http://www.worldbank.org/
+Resolving www.worldbank.org (www.worldbank.org)... 99.84.5.95, 99.84.5.33, 99.84.5.23, ...
+Connecting to www.worldbank.org (www.worldbank.org)|99.84.5.95|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.worldbank.org/ [following]
+--2020-02-25 21:32:00--  https://www.worldbank.org/
+Connecting to www.worldbank.org (www.worldbank.org)|99.84.5.95|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197901 (193K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  171M 0s
+    50K .......... .......... .......... .......... .......... 51%  604M 0s
+   100K .......... .......... .......... .......... .......... 77%  522M 0s
+   150K .......... .......... .......... .......... ...       100%  947M=0.004s
+
+2020-02-25 21:32:00 (374 Mb/s) - ‘/dev/null’ saved [197901/197901]
+

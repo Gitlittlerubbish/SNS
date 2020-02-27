@@ -1,0 +1,6 @@
+--2020-02-26 00:16:30--  https://aul.edu.ng/downloads/MTCNA_Outline.pdf%0D
+Resolving aul.edu.ng (aul.edu.ng)... 199.192.21.231
+Connecting to aul.edu.ng (aul.edu.ng)|199.192.21.231|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘aul.edu.ng’.
+To connect to aul.edu.ng insecurely, use `--no-check-certificate'.

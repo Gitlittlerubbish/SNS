@@ -1,0 +1,64 @@
+--2020-02-25 21:59:57--  https://www.emploijeunes.ci/web/docs/bulletin_parution2.pdf%0D
+Resolving www.emploijeunes.ci (www.emploijeunes.ci)... 158.69.247.8
+Connecting to www.emploijeunes.ci (www.emploijeunes.ci)|158.69.247.8|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.agenceemploijeunes.ci/ [following]
+--2020-02-25 21:59:58--  https://www.agenceemploijeunes.ci/
+Resolving www.agenceemploijeunes.ci (www.agenceemploijeunes.ci)... --2020-02-25 21:59:58--  https://www.emploijeunes.ci/web/docs/bulletin_parution2.pdf%0D
+Resolving www.emploijeunes.ci (www.emploijeunes.ci)... 158.69.247.8
+Connecting to www.emploijeunes.ci (www.emploijeunes.ci)|158.69.247.8|:443... connected.
+45.60.123.11
+Connecting to www.agenceemploijeunes.ci (www.agenceemploijeunes.ci)|45.60.123.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         119M=0s
+
+2020-02-25 21:59:58 (119 Mb/s) - ‘/dev/null’ saved [428]
+
+--2020-02-25 21:59:58--  https://www.emploijeunes.ci/web/docs/bulletin_parution2.pdf%0D
+Resolving www.emploijeunes.ci (www.emploijeunes.ci)... 158.69.247.8
+Connecting to www.emploijeunes.ci (www.emploijeunes.ci)|158.69.247.8|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.agenceemploijeunes.ci/ [following]
+--2020-02-25 21:59:58--  https://www.agenceemploijeunes.ci/
+Resolving www.agenceemploijeunes.ci (www.agenceemploijeunes.ci)... 45.60.123.11
+Connecting to www.agenceemploijeunes.ci (www.agenceemploijeunes.ci)|45.60.123.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         302M=0s
+
+2020-02-25 21:59:58 (302 Mb/s) - ‘/dev/null’ saved [428]
+
+--2020-02-25 21:59:58--  https://www.emploijeunes.ci/web/docs/bulletin_parution2.pdf%0D
+Resolving www.emploijeunes.ci (www.emploijeunes.ci)... 158.69.247.8
+Connecting to www.emploijeunes.ci (www.emploijeunes.ci)|158.69.247.8|:443... HTTP request sent, awaiting response... connected.
+302 Found
+Location: https://www.agenceemploijeunes.ci/ [following]
+--2020-02-25 21:59:58--  https://www.agenceemploijeunes.ci/
+Resolving www.agenceemploijeunes.ci (www.agenceemploijeunes.ci)... 45.60.123.11
+Connecting to www.agenceemploijeunes.ci (www.agenceemploijeunes.ci)|45.60.123.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         310M=0s
+
+2020-02-25 21:59:58 (310 Mb/s) - ‘/dev/null’ saved [427]
+
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.agenceemploijeunes.ci/ [following]
+--2020-02-25 21:59:58--  https://www.agenceemploijeunes.ci/
+Resolving www.agenceemploijeunes.ci (www.agenceemploijeunes.ci)... 45.60.123.11
+Connecting to www.agenceemploijeunes.ci (www.agenceemploijeunes.ci)|45.60.123.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         308M=0s
+
+2020-02-25 21:59:58 (308 Mb/s) - ‘/dev/null’ saved [427]
+

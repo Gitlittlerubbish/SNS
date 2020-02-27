@@ -1,0 +1,30 @@
+--2020-02-25 22:46:49--  http://tinyurl.hu/0KLl/%0D
+Resolving tinyurl.hu (tinyurl.hu)... 46.249.154.87
+Connecting to tinyurl.hu (tinyurl.hu)|46.249.154.87|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tinyurl.hu/0KLl/%0d [following]
+--2020-02-25 22:46:49--  https://tinyurl.hu/0KLl/%0d
+Connecting to tinyurl.hu (tinyurl.hu)|46.249.154.87|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4877 (4.8K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100% 2.95G=0s
+
+2020-02-25 22:46:51 (2.95 Gb/s) - ‘/dev/null’ saved [4877/4877]
+
+--2020-02-25 22:46:51--  http://tinyurl.hu/0KLl/%0D
+Resolving tinyurl.hu (tinyurl.hu)... 46.249.154.87
+Connecting to tinyurl.hu (tinyurl.hu)|46.249.154.87|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tinyurl.hu/0KLl/%0d [following]
+--2020-02-25 22:46:51--  https://tinyurl.hu/0KLl/%0d
+Connecting to tinyurl.hu (tinyurl.hu)|46.249.154.87|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4877 (4.8K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100% 3.82G=0s
+
+2020-02-25 22:46:51 (3.82 Gb/s) - ‘/dev/null’ saved [4877/4877]
+

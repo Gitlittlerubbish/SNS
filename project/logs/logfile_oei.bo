@@ -1,0 +1,20 @@
+--2020-02-25 21:15:51--  https://oei.bo/assets/files/manual_corporativo.pdf%0D
+Resolving oei.bo (oei.bo)... 213.134.60.149
+Connecting to oei.bo (oei.bo)|213.134.60.149|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://oei.bo/historico/assets/files/manual_corporativo.pdf%0D [following]
+--2020-02-25 21:15:51--  https://oei.bo/historico/assets/files/manual_corporativo.pdf%0D
+Reusing existing connection to oei.bo:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:52 ERROR 404: Not Found.
+
+--2020-02-25 21:23:24--  https://oei.bo/assets/files/manual_corporativo.pdf%0D
+Resolving oei.bo (oei.bo)... 213.134.60.149
+Connecting to oei.bo (oei.bo)|213.134.60.149|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://oei.bo/historico/assets/files/manual_corporativo.pdf%0D [following]
+--2020-02-25 21:23:24--  https://oei.bo/historico/assets/files/manual_corporativo.pdf%0D
+Reusing existing connection to oei.bo:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:24 ERROR 404: Not Found.
+

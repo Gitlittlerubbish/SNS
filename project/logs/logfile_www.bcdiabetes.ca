@@ -1,0 +1,12 @@
+--2020-02-25 21:37:40--  https://www.bcdiabetes.ca/handouts/%3Ffile%3D1lGtvbHZOaKKWYZKyPUmDEIlFuS2Ut1iWvOFld4QzeLs%0D
+Resolving www.bcdiabetes.ca (www.bcdiabetes.ca)... 104.152.169.152
+Connecting to www.bcdiabetes.ca (www.bcdiabetes.ca)|104.152.169.152|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:37:42 ERROR 404: Not Found.
+
+--2020-02-25 21:39:05--  https://www.bcdiabetes.ca/handouts/%3Ffile%3D1lGtvbHZOaKKWYZKyPUmDEIlFuS2Ut1iWvOFld4QzeLs%0D
+Resolving www.bcdiabetes.ca (www.bcdiabetes.ca)... 104.152.169.152
+Connecting to www.bcdiabetes.ca (www.bcdiabetes.ca)|104.152.169.152|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:39:07 ERROR 404: Not Found.
+

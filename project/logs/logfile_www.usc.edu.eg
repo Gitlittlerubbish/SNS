@@ -1,0 +1,12 @@
+--2020-02-25 22:11:41--  http://www.usc.edu.eg/uploads/0c113ca7ea862eddfb5378649902a0df.pdf%0D
+Resolving www.usc.edu.eg (www.usc.edu.eg)... 192.99.18.229
+Connecting to www.usc.edu.eg (www.usc.edu.eg)|192.99.18.229|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:11:42 ERROR 500: Internal Server Error.
+
+--2020-02-25 22:11:42--  http://www.usc.edu.eg/uploads/0c113ca7ea862eddfb5378649902a0df.pdf%0D
+Resolving www.usc.edu.eg (www.usc.edu.eg)... 192.99.18.229
+Connecting to www.usc.edu.eg (www.usc.edu.eg)|192.99.18.229|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:11:42 ERROR 500: Internal Server Error.
+

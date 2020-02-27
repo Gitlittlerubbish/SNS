@@ -1,0 +1,12 @@
+--2020-02-25 22:21:30--  http://fijiclimatechangeportal.gov.fj/sites/default/files/documents/FijiReport_NationalPACCReport_Final_0.pdf%0D
+Resolving fijiclimatechangeportal.gov.fj (fijiclimatechangeportal.gov.fj)... --2020-02-25 22:21:30--  http://fijiclimatechangeportal.gov.fj/sites/default/files/documents/FijiReport_NationalPACCReport_Final_0.pdf%0D
+Resolving fijiclimatechangeportal.gov.fj (fijiclimatechangeportal.gov.fj)... 124.108.30.40
+Connecting to fijiclimatechangeportal.gov.fj (fijiclimatechangeportal.gov.fj)|124.108.30.40|:80... connected.
+HTTP request sent, awaiting response... 124.108.30.40
+Connecting to fijiclimatechangeportal.gov.fj (fijiclimatechangeportal.gov.fj)|124.108.30.40|:80... 500 Service unavailable (with message)
+2020-02-25 22:21:31 ERROR 500: Service unavailable (with message).
+
+connected.
+HTTP request sent, awaiting response... 500 Service unavailable (with message)
+2020-02-25 22:21:32 ERROR 500: Service unavailable (with message).
+

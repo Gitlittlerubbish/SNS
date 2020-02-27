@@ -1,0 +1,12 @@
+--2020-02-25 21:37:10--  http://www.ohri.ca/emerg/cdr/docs/cdr_ankle_card.pdf%0D
+Resolving www.ohri.ca (www.ohri.ca)... 204.187.39.27
+Connecting to www.ohri.ca (www.ohri.ca)|204.187.39.27|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:37:10 ERROR 400: Bad Request.
+
+--2020-02-25 21:38:45--  http://www.ohri.ca/emerg/cdr/docs/cdr_ankle_card.pdf%0D
+Resolving www.ohri.ca (www.ohri.ca)... 204.187.39.27
+Connecting to www.ohri.ca (www.ohri.ca)|204.187.39.27|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:38:45 ERROR 400: Bad Request.
+

@@ -1,0 +1,20 @@
+--2020-02-25 21:45:51--  http://ntgrchina.cn/Upfilepath_sc/EX7300_QSG_EN.pdf%0D
+Resolving ntgrchina.cn (ntgrchina.cn)... 120.24.70.58
+Connecting to ntgrchina.cn (ntgrchina.cn)|120.24.70.58|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /Upfilepath_sc/EX7300_QSG_EN.pdf%0D?WebShieldDRSessionVerify=qua0lt2dU4PzWg5occlz [following]
+--2020-02-25 21:45:52--  http://ntgrchina.cn/Upfilepath_sc/EX7300_QSG_EN.pdf%0D?WebShieldDRSessionVerify=qua0lt2dU4PzWg5occlz
+Connecting to ntgrchina.cn (ntgrchina.cn)|120.24.70.58|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /Upfilepath_sc/EX7300_QSG_EN.pdf%0D [following]
+--2020-02-25 21:45:52--  http://ntgrchina.cn/Upfilepath_sc/EX7300_QSG_EN.pdf%0D
+Connecting to ntgrchina.cn (ntgrchina.cn)|120.24.70.58|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:45:53 ERROR 400: Bad Request.
+
+--2020-02-25 21:46:18--  http://ntgrchina.cn/Upfilepath_sc/EX7300_QSG_EN.pdf%0D
+Resolving ntgrchina.cn (ntgrchina.cn)... 120.24.70.58
+Connecting to ntgrchina.cn (ntgrchina.cn)|120.24.70.58|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:46:18 ERROR 400: Bad Request.
+

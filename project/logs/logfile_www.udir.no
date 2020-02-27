@@ -1,0 +1,6 @@
+--2020-02-26 00:22:20--  https://www.udir.no/contentassets/04cad89a748244808d03b7654ffe83b6/rammer_for_skriving.pdf%0D
+Resolving www.udir.no (www.udir.no)... 195.254.217.220
+Connecting to www.udir.no (www.udir.no)|195.254.217.220|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:20 ERROR 400: Bad Request.
+

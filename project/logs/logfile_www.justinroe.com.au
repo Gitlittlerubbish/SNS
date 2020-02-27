@@ -1,0 +1,12 @@
+--2020-02-25 20:58:26--  https://www.justinroe.com.au/resources/infosheet-ACLMCLInfoSheetRoe2017.pdf%0D
+Resolving www.justinroe.com.au (www.justinroe.com.au)... 101.0.112.229
+Connecting to www.justinroe.com.au (www.justinroe.com.au)|101.0.112.229|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:58:27 ERROR 404: Not Found.
+
+--2020-02-25 21:10:42--  https://www.justinroe.com.au/resources/infosheet-ACLMCLInfoSheetRoe2017.pdf%0D
+Resolving www.justinroe.com.au (www.justinroe.com.au)... 101.0.112.229
+Connecting to www.justinroe.com.au (www.justinroe.com.au)|101.0.112.229|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:10:43 ERROR 404: Not Found.
+

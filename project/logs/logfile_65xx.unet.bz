@@ -1,0 +1,12 @@
+--2020-02-25 21:08:28--  http://65xx.unet.bz/ds/22v10.pdf%0D
+Resolving 65xx.unet.bz (65xx.unet.bz)... 96.69.15.179
+Connecting to 65xx.unet.bz (65xx.unet.bz)|96.69.15.179|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:08:29 ERROR 404: Not Found.
+
+--2020-02-25 21:18:15--  http://65xx.unet.bz/ds/22v10.pdf%0D
+Resolving 65xx.unet.bz (65xx.unet.bz)... 96.69.15.179
+Connecting to 65xx.unet.bz (65xx.unet.bz)|96.69.15.179|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:18:15 ERROR 404: Not Found.
+

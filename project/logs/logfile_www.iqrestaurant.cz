@@ -1,0 +1,12 @@
+--2020-02-25 22:05:52--  http://www.iqrestaurant.cz/brno/menu.pdf%0D
+Resolving www.iqrestaurant.cz (www.iqrestaurant.cz)... 46.28.105.132
+Connecting to www.iqrestaurant.cz (www.iqrestaurant.cz)|46.28.105.132|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:05:52--  http://www.iqrestaurant.cz/brno/menu.pdf%0D
+Resolving www.iqrestaurant.cz (www.iqrestaurant.cz)... 46.28.105.132
+Connecting to www.iqrestaurant.cz (www.iqrestaurant.cz)|46.28.105.132|:80... 404 Not Found
+2020-02-25 22:05:52 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:05:52 ERROR 404: Not Found.
+

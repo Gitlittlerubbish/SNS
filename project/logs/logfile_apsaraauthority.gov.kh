@@ -1,0 +1,12 @@
+--2020-02-25 21:33:54--  http://apsaraauthority.gov.kh/imgs/documents/104/living_road_BD.pdf%0D
+Resolving apsaraauthority.gov.kh (apsaraauthority.gov.kh)... 119.81.143.228
+Connecting to apsaraauthority.gov.kh (apsaraauthority.gov.kh)|119.81.143.228|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:33:57 ERROR 404: Not Found.
+
+--2020-02-25 21:36:32--  http://apsaraauthority.gov.kh/imgs/documents/104/living_road_BD.pdf%0D
+Resolving apsaraauthority.gov.kh (apsaraauthority.gov.kh)... 119.81.143.228
+Connecting to apsaraauthority.gov.kh (apsaraauthority.gov.kh)|119.81.143.228|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:36:32 ERROR 404: Not Found.
+

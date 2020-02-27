@@ -1,0 +1,20 @@
+--2020-02-25 21:27:19--  https://www.mrrb.bg/docs/66da667ea9e041bbe911bd772bbf75e0.pdf%0D
+Resolving www.mrrb.bg (www.mrrb.bg)... 85.14.37.47
+Connecting to www.mrrb.bg (www.mrrb.bg)|85.14.37.47|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mrrb.bg/static/media/ups/articles/attachments/66da667ea9e041bbe911bd772bbf75e0.pdf%0D [following]
+--2020-02-25 21:27:19--  https://www.mrrb.bg/static/media/ups/articles/attachments/66da667ea9e041bbe911bd772bbf75e0.pdf%0D
+Reusing existing connection to www.mrrb.bg:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:27:20 ERROR 404: Not Found.
+
+--2020-02-25 21:32:27--  https://www.mrrb.bg/docs/66da667ea9e041bbe911bd772bbf75e0.pdf%0D
+Resolving www.mrrb.bg (www.mrrb.bg)... 85.14.37.47
+Connecting to www.mrrb.bg (www.mrrb.bg)|85.14.37.47|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mrrb.bg/static/media/ups/articles/attachments/66da667ea9e041bbe911bd772bbf75e0.pdf%0D [following]
+--2020-02-25 21:32:27--  https://www.mrrb.bg/static/media/ups/articles/attachments/66da667ea9e041bbe911bd772bbf75e0.pdf%0D
+Reusing existing connection to www.mrrb.bg:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:28 ERROR 404: Not Found.
+

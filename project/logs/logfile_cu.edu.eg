@@ -1,0 +1,12 @@
+--2020-02-25 22:11:33--  https://cu.edu.eg/userfiles/1-t4.pdf%0D
+Resolving cu.edu.eg (cu.edu.eg)... --2020-02-25 22:11:33--  https://cu.edu.eg/userfiles/1-t4.pdf%0D
+Resolving cu.edu.eg (cu.edu.eg)... 195.246.42.213
+Connecting to cu.edu.eg (cu.edu.eg)|195.246.42.213|:443... connected.
+195.246.42.213
+Connecting to cu.edu.eg (cu.edu.eg)|195.246.42.213|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:11:34 ERROR 403: Forbidden.
+
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:11:34 ERROR 403: Forbidden.
+

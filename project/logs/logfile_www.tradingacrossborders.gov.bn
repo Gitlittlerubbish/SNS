@@ -1,0 +1,12 @@
+--2020-02-25 21:26:11--  http://www.tradingacrossborders.gov.bn/Downloadable/BDTTC%25202017.pdf%0D
+Resolving www.tradingacrossborders.gov.bn (www.tradingacrossborders.gov.bn)... 103.4.188.86
+Connecting to www.tradingacrossborders.gov.bn (www.tradingacrossborders.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:11 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:26--  http://www.tradingacrossborders.gov.bn/Downloadable/BDTTC%25202017.pdf%0D
+Resolving www.tradingacrossborders.gov.bn (www.tradingacrossborders.gov.bn)... 103.4.188.86
+Connecting to www.tradingacrossborders.gov.bn (www.tradingacrossborders.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:26 ERROR 400: Bad Request.
+

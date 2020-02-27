@@ -1,0 +1,12 @@
+--2020-02-25 21:17:02--  http://oss.ba/dokumenti/rs218.pdf%0D
+Resolving oss.ba (oss.ba)... 195.130.35.104
+Connecting to oss.ba (oss.ba)|195.130.35.104|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:02 ERROR 404: Not Found.
+
+--2020-02-25 21:24:17--  http://oss.ba/dokumenti/rs218.pdf%0D
+Resolving oss.ba (oss.ba)... 195.130.35.104
+Connecting to oss.ba (oss.ba)|195.130.35.104|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:17 ERROR 404: Not Found.
+

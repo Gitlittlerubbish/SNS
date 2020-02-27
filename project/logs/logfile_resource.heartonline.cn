@@ -1,0 +1,12 @@
+--2020-02-25 21:46:28--  http://resource.heartonline.cn/2044/2015_aagb_bIaWHO4.pdf%0D
+Resolving resource.heartonline.cn (resource.heartonline.cn)... 101.89.125.237, 101.89.125.226, 101.89.125.227, ...
+Connecting to resource.heartonline.cn (resource.heartonline.cn)|101.89.125.237|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:46:30 ERROR 404: Not Found.
+
+--2020-02-25 21:46:34--  http://resource.heartonline.cn/2044/2015_aagb_bIaWHO4.pdf%0D
+Resolving resource.heartonline.cn (resource.heartonline.cn)... 101.89.125.237, 101.89.125.226, 101.89.125.227, ...
+Connecting to resource.heartonline.cn (resource.heartonline.cn)|101.89.125.237|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:46:35 ERROR 404: Not Found.
+

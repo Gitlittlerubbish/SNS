@@ -1,0 +1,12 @@
+--2020-02-25 22:06:12--  http://www.svanemaerket.dk/-/criteriadoc/3462%0D
+Resolving www.svanemaerket.dk (www.svanemaerket.dk)... --2020-02-25 22:06:12--  http://www.svanemaerket.dk/-/criteriadoc/3462%0D
+Resolving www.svanemaerket.dk (www.svanemaerket.dk)... 62.116.217.39
+Connecting to www.svanemaerket.dk (www.svanemaerket.dk)|62.116.217.39|:80... connected.
+HTTP request sent, awaiting response... 62.116.217.39
+Connecting to www.svanemaerket.dk (www.svanemaerket.dk)|62.116.217.39|:80... 400 Bad Request
+2020-02-25 22:06:12 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:06:12 ERROR 400: Bad Request.
+

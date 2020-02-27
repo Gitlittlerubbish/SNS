@@ -1,0 +1,44 @@
+--2020-02-25 21:47:17--  http://www.angenk.cn/uploads/tmp/d78f46b137.pdf%0D
+Resolving www.angenk.cn (www.angenk.cn)... --2020-02-25 21:47:17--  http://www.angenk.cn/uploads/tmp/d78f46b137.pdf%0D
+Resolving www.angenk.cn (www.angenk.cn)... 45.199.3.248
+Connecting to www.angenk.cn (www.angenk.cn)|45.199.3.248|:80... 45.199.3.248
+Connecting to www.angenk.cn (www.angenk.cn)|45.199.3.248|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        2.42M=0s
+
+2020-02-25 21:47:18 (2.42 Mb/s) - ‘/dev/null’ saved [2]
+
+--2020-02-25 21:47:18--  http://www.angenk.cn/uploads/tmp/d78f46b137.pdf%0D
+Resolving www.angenk.cn (www.angenk.cn)... 45.199.3.248
+Connecting to www.angenk.cn (www.angenk.cn)|45.199.3.248|:80... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        2.25M=0s
+
+2020-02-25 21:47:18 (2.25 Mb/s) - ‘/dev/null’ saved [2]
+
+--2020-02-25 21:47:18--  http://www.angenk.cn/uploads/tmp/d78f46b137.pdf%0D
+Resolving www.angenk.cn (www.angenk.cn)... 45.199.3.248
+Connecting to www.angenk.cn (www.angenk.cn)|45.199.3.248|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        2.35M=0s
+
+2020-02-25 21:47:18 (2.35 Mb/s) - ‘/dev/null’ saved [2]
+
+200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        1.22M=0s
+
+2020-02-25 21:47:18 (1.22 Mb/s) - ‘/dev/null’ saved [2]
+

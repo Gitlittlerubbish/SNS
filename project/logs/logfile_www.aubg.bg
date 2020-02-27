@@ -1,0 +1,22 @@
+--2020-02-25 21:26:56--  http://www.aubg.bg/documents/641%0D
+Resolving www.aubg.bg (www.aubg.bg)... 83.143.248.42
+Connecting to www.aubg.bg (www.aubg.bg)|83.143.248.42|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.aubg.edu/documents/641%0d [following]
+--2020-02-25 21:26:57--  https://www.aubg.edu/documents/641%0d
+Resolving www.aubg.edu (www.aubg.edu)... 83.143.248.42
+Connecting to www.aubg.edu (www.aubg.edu)|83.143.248.42|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:26:57 ERROR 404: Not Found.
+
+--2020-02-25 21:32:05--  http://www.aubg.bg/documents/641%0D
+Resolving www.aubg.bg (www.aubg.bg)... 83.143.248.42
+Connecting to www.aubg.bg (www.aubg.bg)|83.143.248.42|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.aubg.edu/documents/641%0d [following]
+--2020-02-25 21:32:05--  https://www.aubg.edu/documents/641%0d
+Resolving www.aubg.edu (www.aubg.edu)... 83.143.248.42
+Connecting to www.aubg.edu (www.aubg.edu)|83.143.248.42|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:32:06 ERROR 404: Not Found.
+

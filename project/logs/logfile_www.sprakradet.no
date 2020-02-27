@@ -1,0 +1,6 @@
+--2020-02-26 00:22:23--  https://www.sprakradet.no/localfiles/stedsnavn/ordliste_mm.pdf%0D
+Resolving www.sprakradet.no (www.sprakradet.no)... 93.190.81.170
+Connecting to www.sprakradet.no (www.sprakradet.no)|93.190.81.170|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:24 ERROR 400: Bad Request.
+

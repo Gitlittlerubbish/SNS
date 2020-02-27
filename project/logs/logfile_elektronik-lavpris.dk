@@ -1,0 +1,60 @@
+--2020-02-25 22:06:11--  https://elektronik-lavpris.dk/files/sup2/doc8025.pdf%0D
+Resolving elektronik-lavpris.dk (elektronik-lavpris.dk)... --2020-02-25 22:06:11--  https://elektronik-lavpris.dk/files/sup2/doc8025.pdf%0D
+Resolving elektronik-lavpris.dk (elektronik-lavpris.dk)... 46.4.122.189
+Connecting to elektronik-lavpris.dk (elektronik-lavpris.dk)|46.4.122.189|:443... 46.4.122.189
+Connecting to elektronik-lavpris.dk (elektronik-lavpris.dk)|46.4.122.189|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: https://elektronik-lavpris.dk/index.php [following]
+--2020-02-25 22:06:11--  https://elektronik-lavpris.dk/index.php
+Reusing existing connection to elektronik-lavpris.dk:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://elektronik-lavpris.dk/index.php [following]
+--2020-02-25 22:06:11--  https://elektronik-lavpris.dk/index.php
+Reusing existing connection to elektronik-lavpris.dk:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                7.14M=0.02s
+
+2020-02-25 22:06:11 (7.14 Mb/s) - ‘/dev/null’ saved [21741]
+
+--2020-02-25 22:06:11--  https://elektronik-lavpris.dk/files/sup2/doc8025.pdf%0D
+.. .......... .                                6.46M=0.03s
+
+2020-02-25 22:06:11 (6.46 Mb/s) - ‘/dev/null’ saved [21741]
+
+Resolving elektronik-lavpris.dk (elektronik-lavpris.dk)... --2020-02-25 22:06:11--  https://elektronik-lavpris.dk/files/sup2/doc8025.pdf%0D
+Resolving elektronik-lavpris.dk (elektronik-lavpris.dk)... 46.4.122.189
+Connecting to elektronik-lavpris.dk (elektronik-lavpris.dk)|46.4.122.189|:443... 46.4.122.189
+Connecting to elektronik-lavpris.dk (elektronik-lavpris.dk)|46.4.122.189|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: https://elektronik-lavpris.dk/index.php [following]
+--2020-02-25 22:06:11--  https://elektronik-lavpris.dk/index.php
+Reusing existing connection to elektronik-lavpris.dk:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://elektronik-lavpris.dk/index.php [following]
+--2020-02-25 22:06:11--  https://elektronik-lavpris.dk/index.php
+Reusing existing connection to elektronik-lavpris.dk:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                7.14M=0.02s
+
+2020-02-25 22:06:11 (7.14 Mb/s) - ‘/dev/null’ saved [21741]
+
+.. .......... .                                7.19M=0.02s
+
+2020-02-25 22:06:11 (7.19 Mb/s) - ‘/dev/null’ saved [21741]
+

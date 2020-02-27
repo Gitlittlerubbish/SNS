@@ -1,0 +1,11 @@
+--2020-02-25 22:42:51--  http://www.douane.gouv.ht/AGD/sydonia.pdf%0D
+Resolving www.douane.gouv.ht (www.douane.gouv.ht)... 162.210.99.100
+Connecting to www.douane.gouv.ht (www.douane.gouv.ht)|162.210.99.100|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://douane.gouv.ht/AGD/sydonia.pdf%0d [following]
+--2020-02-25 22:42:51--  https://douane.gouv.ht/AGD/sydonia.pdf%0d
+Resolving douane.gouv.ht (douane.gouv.ht)... 162.210.99.100
+Connecting to douane.gouv.ht (douane.gouv.ht)|162.210.99.100|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:42:52 ERROR 404: Not Found.
+

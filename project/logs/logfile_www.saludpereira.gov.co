@@ -1,0 +1,12 @@
+--2020-02-25 21:51:46--  http://www.saludpereira.gov.co/medios/Ley_485_de_1998.pdf%0D
+Resolving www.saludpereira.gov.co (www.saludpereira.gov.co)... 170.254.229.116
+Connecting to www.saludpereira.gov.co (www.saludpereira.gov.co)|170.254.229.116|:80... connected.
+HTTP request sent, awaiting response... 404 Vista no encontrada [nombre, tipo, prefijo]: category, pdf, contentView
+2020-02-25 21:51:47 ERROR 404: Vista no encontrada [nombre, tipo, prefijo]: category, pdf, contentView.
+
+--2020-02-25 21:51:51--  http://www.saludpereira.gov.co/medios/Ley_485_de_1998.pdf%0D
+Resolving www.saludpereira.gov.co (www.saludpereira.gov.co)... 170.254.229.116
+Connecting to www.saludpereira.gov.co (www.saludpereira.gov.co)|170.254.229.116|:80... connected.
+HTTP request sent, awaiting response... 404 Vista no encontrada [nombre, tipo, prefijo]: category, pdf, contentView
+2020-02-25 21:51:51 ERROR 404: Vista no encontrada [nombre, tipo, prefijo]: category, pdf, contentView.
+

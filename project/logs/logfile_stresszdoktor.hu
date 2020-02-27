@@ -1,0 +1,32 @@
+--2020-02-25 22:47:01--  http://stresszdoktor.hu/uploads/tudastar/rivotril.pdf%0D
+Resolving stresszdoktor.hu (stresszdoktor.hu)... 195.228.86.141
+Connecting to stresszdoktor.hu (stresszdoktor.hu)|195.228.86.141|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://stresszdoktor.hu [following]
+--2020-02-25 22:47:01--  https://stresszdoktor.hu/
+Connecting to stresszdoktor.hu (stresszdoktor.hu)|195.228.86.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 8.19M
+    50K .......... .......... ......                           8.55M=0.07s
+
+2020-02-25 22:47:03 (8.31 Mb/s) - ‘/dev/null’ saved [77845]
+
+--2020-02-25 22:47:03--  http://stresszdoktor.hu/uploads/tudastar/rivotril.pdf%0D
+Resolving stresszdoktor.hu (stresszdoktor.hu)... 195.228.86.141
+Connecting to stresszdoktor.hu (stresszdoktor.hu)|195.228.86.141|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://stresszdoktor.hu [following]
+--2020-02-25 22:47:03--  https://stresszdoktor.hu/
+Connecting to stresszdoktor.hu (stresszdoktor.hu)|195.228.86.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.78M
+    50K .......... .......... ......                           1.64G=0.05s
+
+2020-02-25 22:47:06 (11.8 Mb/s) - ‘/dev/null’ saved [77845]
+

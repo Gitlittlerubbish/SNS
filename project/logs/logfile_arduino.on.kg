@@ -1,0 +1,6 @@
+--2020-02-25 23:16:45--  http://arduino.on.kg/upload/boards/doc2525.pdf%0D
+Resolving arduino.on.kg (arduino.on.kg)... 176.126.165.15
+Connecting to arduino.on.kg (arduino.on.kg)|176.126.165.15|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:16:45 ERROR 404: Not Found.
+

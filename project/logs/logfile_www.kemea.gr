@@ -1,0 +1,12 @@
+--2020-02-25 22:35:24--  http://www.kemea.gr/images/documents/EC1142008CIP.pdf%0D
+Resolving www.kemea.gr (www.kemea.gr)... --2020-02-25 22:35:24--  http://www.kemea.gr/images/documents/EC1142008CIP.pdf%0D
+Resolving www.kemea.gr (www.kemea.gr)... 84.205.246.81
+Connecting to www.kemea.gr (www.kemea.gr)|84.205.246.81|:80... 84.205.246.81
+Connecting to www.kemea.gr (www.kemea.gr)|84.205.246.81|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:35:24 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:35:24 ERROR 400: Bad Request.
+

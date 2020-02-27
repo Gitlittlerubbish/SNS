@@ -1,0 +1,26 @@
+--2020-02-25 23:47:20--  http://revistabiomedica.mx/index.php/revbiomed/article/download/440/451%0D
+Resolving revistabiomedica.mx (revistabiomedica.mx)... 132.247.28.199
+Connecting to revistabiomedica.mx (revistabiomedica.mx)|132.247.28.199|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133258 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 1.02M 1s
+    50K .......... .......... .......... .......... .......... 76% 3.05M 0s
+   100K .......... .......... ..........                      100% 1.84M=0.7s
+
+2020-02-25 23:47:22 (1.59 Mb/s) - ‘/dev/null’ saved [133258/133258]
+
+--2020-02-25 23:47:22--  http://revistabiomedica.mx/index.php/revbiomed/article/download/440/451%0D
+Resolving revistabiomedica.mx (revistabiomedica.mx)... 132.247.28.199
+Connecting to revistabiomedica.mx (revistabiomedica.mx)|132.247.28.199|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133258 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 1.51M 0s
+    50K .......... .......... .......... .......... .......... 76% 1.51M 0s
+   100K .......... .......... ..........                      100% 1.83M=0.7s
+
+2020-02-25 23:47:23 (1.58 Mb/s) - ‘/dev/null’ saved [133258/133258]
+

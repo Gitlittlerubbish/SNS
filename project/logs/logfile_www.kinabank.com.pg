@@ -1,0 +1,9 @@
+--2020-02-26 00:29:39--  https://www.kinabank.com.pg/wp-content/uploads/Kina_Frequently_asked_questions.pdf%0D
+Resolving www.kinabank.com.pg (www.kinabank.com.pg)... failed: Connection timed out.
+wget: unable to resolve host address ‘www.kinabank.com.pg’
+--2020-02-26 00:31:48--  https://www.kinabank.com.pg/wp-content/uploads/Kina_Frequently_asked_questions.pdf%0D
+Resolving www.kinabank.com.pg (www.kinabank.com.pg)... 3.105.165.214
+Connecting to www.kinabank.com.pg (www.kinabank.com.pg)|3.105.165.214|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:31:50 ERROR 404: Not Found.
+

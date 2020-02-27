@@ -1,0 +1,6 @@
+--2020-02-25 22:43:39--  http://sac.hm/manuals/Concord%2520Ultra.pdf%0D
+Resolving sac.hm (sac.hm)... 142.54.24.29
+Connecting to sac.hm (sac.hm)|142.54.24.29|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:43:39 ERROR 400: Bad Request.
+

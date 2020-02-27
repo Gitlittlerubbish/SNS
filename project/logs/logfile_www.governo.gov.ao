@@ -1,0 +1,6 @@
+--2020-02-25 21:01:26--  http://www.governo.gov.ao/download.aspx%3Fid%3D2235%26tipo%3Dlegislacao%0D
+Resolving www.governo.gov.ao (www.governo.gov.ao)... 154.116.255.10
+Connecting to www.governo.gov.ao (www.governo.gov.ao)|154.116.255.10|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:01:26 ERROR 400: Bad Request.
+

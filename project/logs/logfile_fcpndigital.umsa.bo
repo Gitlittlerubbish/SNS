@@ -1,0 +1,12 @@
+--2020-02-25 21:15:14--  http://fcpndigital.umsa.bo/obiologia/libros/BiologiaII.pdf%0D
+Resolving fcpndigital.umsa.bo (fcpndigital.umsa.bo)... 200.7.170.250
+Connecting to fcpndigital.umsa.bo (fcpndigital.umsa.bo)|200.7.170.250|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:14 ERROR 404: Not Found.
+
+--2020-02-25 21:22:52--  http://fcpndigital.umsa.bo/obiologia/libros/BiologiaII.pdf%0D
+Resolving fcpndigital.umsa.bo (fcpndigital.umsa.bo)... 200.7.170.250
+Connecting to fcpndigital.umsa.bo (fcpndigital.umsa.bo)|200.7.170.250|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:22:53 ERROR 404: Not Found.
+

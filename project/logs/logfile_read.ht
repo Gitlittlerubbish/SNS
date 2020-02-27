@@ -1,0 +1,11 @@
+--2020-02-25 22:42:11--  http://read.ht/BXmQ%0D
+Resolving read.ht (read.ht)... 52.74.17.139
+Connecting to read.ht (read.ht)|52.74.17.139|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.read.ht/BXmQ%0d [following]
+--2020-02-25 22:42:11--  http://www.read.ht/BXmQ%0d
+Resolving www.read.ht (www.read.ht)... 35.154.23.72, 15.206.110.4
+Connecting to www.read.ht (www.read.ht)|35.154.23.72|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:42:12 ERROR 403: Forbidden.
+

@@ -1,0 +1,12 @@
+--2020-02-25 20:53:20--  http://alevazquez.com.ar/pdfs/Ciclo_Celular_Mitosis_Meiosis.pdf%0D
+Resolving alevazquez.com.ar (alevazquez.com.ar)... 158.69.136.11
+Connecting to alevazquez.com.ar (alevazquez.com.ar)|158.69.136.11|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 20:53:21 ERROR 403: Forbidden.
+
+--2020-02-25 21:06:36--  http://alevazquez.com.ar/pdfs/Ciclo_Celular_Mitosis_Meiosis.pdf%0D
+Resolving alevazquez.com.ar (alevazquez.com.ar)... 158.69.136.11
+Connecting to alevazquez.com.ar (alevazquez.com.ar)|158.69.136.11|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:06:36 ERROR 403: Forbidden.
+

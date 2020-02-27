@@ -1,0 +1,20 @@
+--2020-02-25 21:33:01--  http://num.edu.kh/Research/SERIESVOLUME3_LV05.pdf%0D
+Resolving num.edu.kh (num.edu.kh)... 170.10.164.155
+Connecting to num.edu.kh (num.edu.kh)|170.10.164.155|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://num.edu.kh/Research/SERIESVOLUME3_LV05.pdf%0d [following]
+--2020-02-25 21:33:01--  https://num.edu.kh/Research/SERIESVOLUME3_LV05.pdf%0d
+Connecting to num.edu.kh (num.edu.kh)|170.10.164.155|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:33:02 ERROR 404: Not Found.
+
+--2020-02-25 21:35:54--  http://num.edu.kh/Research/SERIESVOLUME3_LV05.pdf%0D
+Resolving num.edu.kh (num.edu.kh)... 170.10.164.155
+Connecting to num.edu.kh (num.edu.kh)|170.10.164.155|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://num.edu.kh/Research/SERIESVOLUME3_LV05.pdf%0d [following]
+--2020-02-25 21:35:55--  https://num.edu.kh/Research/SERIESVOLUME3_LV05.pdf%0d
+Connecting to num.edu.kh (num.edu.kh)|170.10.164.155|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:35:55 ERROR 404: Not Found.
+

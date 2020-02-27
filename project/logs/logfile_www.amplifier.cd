@@ -1,0 +1,12 @@
+--2020-02-25 21:55:37--  https://www.amplifier.cd/Test_Equipment/other/eshs30.pdf%0D
+Resolving www.amplifier.cd (www.amplifier.cd)... --2020-02-25 21:55:37--  https://www.amplifier.cd/Test_Equipment/other/eshs30.pdf%0D
+Resolving www.amplifier.cd (www.amplifier.cd)... 109.199.120.184
+Connecting to www.amplifier.cd (www.amplifier.cd)|109.199.120.184|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:55:37 ERROR 404: Not Found.
+
+109.199.120.184
+Connecting to www.amplifier.cd (www.amplifier.cd)|109.199.120.184|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:55:38 ERROR 404: Not Found.
+

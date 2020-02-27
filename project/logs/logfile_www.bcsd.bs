@@ -1,0 +1,12 @@
+--2020-02-25 21:02:23--  https://www.bcsd.bs/wp-content/uploads/2018/11/APD_Proxy_Form_2018-CORP.pdf%0D
+Resolving www.bcsd.bs (www.bcsd.bs)... 107.180.51.10
+Connecting to www.bcsd.bs (www.bcsd.bs)|107.180.51.10|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:02:25 ERROR 404: Not Found.
+
+--2020-02-25 21:13:44--  https://www.bcsd.bs/wp-content/uploads/2018/11/APD_Proxy_Form_2018-CORP.pdf%0D
+Resolving www.bcsd.bs (www.bcsd.bs)... 107.180.51.10
+Connecting to www.bcsd.bs (www.bcsd.bs)|107.180.51.10|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:13:46 ERROR 404: Not Found.
+

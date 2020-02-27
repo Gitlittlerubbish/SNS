@@ -1,0 +1,6 @@
+--2020-02-25 22:50:03--  https://www.itecgoi.in/downloads/deputation_of_experts.pdf%0D
+Resolving www.itecgoi.in (www.itecgoi.in)... 220.156.189.170
+Connecting to www.itecgoi.in (www.itecgoi.in)|220.156.189.170|:443... connected.
+ERROR: cannot verify www.itecgoi.in's certificate, issued by ‘CN=RapidSSL RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.itecgoi.in insecurely, use `--no-check-certificate'.

@@ -1,0 +1,6 @@
+--2020-02-26 00:04:32--  http://psconline.psc.gov.np/Document/CandidateinstructionManual.pdf%0D
+Resolving psconline.psc.gov.np (psconline.psc.gov.np)... 202.45.144.213
+Connecting to psconline.psc.gov.np (psconline.psc.gov.np)|202.45.144.213|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:04:33 ERROR 404: Not Found.
+

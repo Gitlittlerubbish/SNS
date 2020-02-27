@@ -1,0 +1,6 @@
+--2020-02-26 00:22:22--  https://ecpatnorge.no/s/CRCC156_OPSC-Guidelines.pdf%0D
+Resolving ecpatnorge.no (ecpatnorge.no)... 198.49.23.145, 198.49.23.144, 198.185.159.144, ...
+Connecting to ecpatnorge.no (ecpatnorge.no)|198.49.23.145|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:22:22 ERROR 404: Not Found.
+

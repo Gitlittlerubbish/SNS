@@ -1,0 +1,6 @@
+--2020-02-25 23:31:38--  https://www.treasury.gov.my/pdf/penerbitan/arahan_perbendaharaan.pdf%0D
+Resolving www.treasury.gov.my (www.treasury.gov.my)... 203.217.178.106
+Connecting to www.treasury.gov.my (www.treasury.gov.my)|203.217.178.106|:443... connected.
+ERROR: cannot verify www.treasury.gov.my's certificate, issued by ‘CN=Entrust Certification Authority - L1K,OU=(c) 2012 Entrust\\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\\, Inc.,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.treasury.gov.my insecurely, use `--no-check-certificate'.

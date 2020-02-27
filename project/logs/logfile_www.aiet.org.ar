@@ -1,0 +1,6 @@
+--2020-02-25 21:05:47--  http://www.aiet.org.ar/desc/tablacostos.pdf%0D
+Resolving www.aiet.org.ar (www.aiet.org.ar)... 200.58.120.105
+Connecting to www.aiet.org.ar (www.aiet.org.ar)|200.58.120.105|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:05:48 ERROR 400: Bad Request.
+

@@ -1,0 +1,38 @@
+--2020-02-26 00:01:25--  http://www.unam.edu.na/Media_Release.pdf%0D
+Resolving www.unam.edu.na (www.unam.edu.na)... 41.205.129.157
+Connecting to www.unam.edu.na (www.unam.edu.na)|41.205.129.157|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.unam.edu.na/search/?search=Media%20Release%20pdf [following]
+--2020-02-26 00:01:26--  http://www.unam.edu.na/search/?search=Media%20Release%20pdf
+Reusing existing connection to www.unam.edu.na:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.unam.edu.na/search?search=Media%20Release%20pdf [following]
+--2020-02-26 00:01:26--  http://www.unam.edu.na/search?search=Media%20Release%20pdf
+Reusing existing connection to www.unam.edu.na:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .........             1.70M=0.2s
+
+2020-02-26 00:01:29 (1.70 Mb/s) - ‘/dev/null’ saved [40371]
+
+--2020-02-26 00:01:29--  http://www.unam.edu.na/Media_Release.pdf%0D
+Resolving www.unam.edu.na (www.unam.edu.na)... 41.205.129.157
+Connecting to www.unam.edu.na (www.unam.edu.na)|41.205.129.157|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.unam.edu.na/search/?search=Media%20Release%20pdf [following]
+--2020-02-26 00:01:30--  http://www.unam.edu.na/search/?search=Media%20Release%20pdf
+Reusing existing connection to www.unam.edu.na:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.unam.edu.na/search?search=Media%20Release%20pdf [following]
+--2020-02-26 00:01:30--  http://www.unam.edu.na/search?search=Media%20Release%20pdf
+Reusing existing connection to www.unam.edu.na:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .........             1.74M=0.2s
+
+2020-02-26 00:01:32 (1.74 Mb/s) - ‘/dev/null’ saved [40371]
+

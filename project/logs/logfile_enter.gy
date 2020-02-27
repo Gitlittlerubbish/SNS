@@ -1,0 +1,30 @@
+--2020-02-25 22:40:57--  http://enter.gy/6046DAcxw%0D
+Resolving enter.gy (enter.gy)... 184.72.243.192
+Connecting to enter.gy (enter.gy)|184.72.243.192|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /error?url=6046DAcxw [following]
+--2020-02-25 22:40:58--  http://enter.gy/error?url=6046DAcxw
+Reusing existing connection to enter.gy:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 223 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  545M=0s
+
+2020-02-25 22:40:58 (545 Mb/s) - ‘/dev/null’ saved [223/223]
+
+--2020-02-25 22:40:58--  http://enter.gy/6046DAcxw%0D
+Resolving enter.gy (enter.gy)... 184.72.243.192
+Connecting to enter.gy (enter.gy)|184.72.243.192|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /error?url=6046DAcxw [following]
+--2020-02-25 22:40:58--  http://enter.gy/error?url=6046DAcxw
+Reusing existing connection to enter.gy:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 223 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  556M=0s
+
+2020-02-25 22:40:58 (556 Mb/s) - ‘/dev/null’ saved [223/223]
+

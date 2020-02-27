@@ -1,0 +1,12 @@
+--2020-02-25 21:21:22--  http://www.doencasdofigado.com.br/guide_lines/Guidelines_VHC_ABR2009.pdf%0D
+Resolving www.doencasdofigado.com.br (www.doencasdofigado.com.br)... 186.202.149.50
+Connecting to www.doencasdofigado.com.br (www.doencasdofigado.com.br)|186.202.149.50|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:21:23 ERROR 400: Bad Request.
+
+--2020-02-25 21:27:07--  http://www.doencasdofigado.com.br/guide_lines/Guidelines_VHC_ABR2009.pdf%0D
+Resolving www.doencasdofigado.com.br (www.doencasdofigado.com.br)... 186.202.149.50
+Connecting to www.doencasdofigado.com.br (www.doencasdofigado.com.br)|186.202.149.50|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:27:08 ERROR 400: Bad Request.
+

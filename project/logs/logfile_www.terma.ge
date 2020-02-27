@@ -1,0 +1,12 @@
+--2020-02-25 22:30:58--  http://www.terma.ge/Content/files/bbcfbf19_katalog_gree_2018_rac.pdf%0D
+Resolving www.terma.ge (www.terma.ge)... 80.240.28.100
+Connecting to www.terma.ge (www.terma.ge)|80.240.28.100|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:30:59 ERROR 400: Bad Request.
+
+--2020-02-25 22:31:00--  http://www.terma.ge/Content/files/bbcfbf19_katalog_gree_2018_rac.pdf%0D
+Resolving www.terma.ge (www.terma.ge)... 80.240.28.100
+Connecting to www.terma.ge (www.terma.ge)|80.240.28.100|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:31:01 ERROR 400: Bad Request.
+

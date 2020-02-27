@@ -1,0 +1,6 @@
+--2020-02-25 23:02:59--  http://www.lib.kobe-u.ac.jp/repository/90002820.pdf%0D
+Resolving www.lib.kobe-u.ac.jp (www.lib.kobe-u.ac.jp)... 133.30.51.59
+Connecting to www.lib.kobe-u.ac.jp (www.lib.kobe-u.ac.jp)|133.30.51.59|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:03:00 ERROR 404: Not Found.
+

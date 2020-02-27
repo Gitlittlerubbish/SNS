@@ -1,0 +1,112 @@
+--2020-02-25 22:31:27--  http://www.bildungsserver.de/link/lamont_molnar_boundaries%0D
+Resolving www.bildungsserver.de (www.bildungsserver.de)... 193.175.194.33
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:80... --2020-02-25 22:31:27--  http://www.bildungsserver.de/link/lamont_molnar_boundaries%0D
+Resolving www.bildungsserver.de (www.bildungsserver.de)... 193.175.194.33
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bildungsserver.de/link/lamont_molnar_boundaries%0d [following]
+--2020-02-25 22:31:27--  https://www.bildungsserver.de/link/lamont_molnar_boundaries%0d
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... 301 Moved Permanently
+Location: https://www.bildungsserver.de/link/lamont_molnar_boundaries%0d [following]
+--2020-02-25 22:31:27--  https://www.bildungsserver.de/link/lamont_molnar_boundaries%0d
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: https://www.bildungsserver.de/lnk/index.html?link=lamont_molnar_boundaries%0d [following]
+--2020-02-25 22:31:27--  https://www.bildungsserver.de/lnk/index.html?link=lamont_molnar_boundaries%0d
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... 302 Found
+Location: https://www.bildungsserver.de/lnk/index.html?link=lamont_molnar_boundaries%0d [following]
+--2020-02-25 22:31:27--  https://www.bildungsserver.de/lnk/index.html?link=lamont_molnar_boundaries%0d
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: http://www.bildungsserver.de/ [following]
+--2020-02-25 22:31:27--  http://www.bildungsserver.de/
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:80... 302 Found
+Location: http://www.bildungsserver.de/ [following]
+--2020-02-25 22:31:27--  http://www.bildungsserver.de/
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bildungsserver.de/ [following]
+--2020-02-25 22:31:27--  https://www.bildungsserver.de/
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... 301 Moved Permanently
+Location: https://www.bildungsserver.de/ [following]
+--2020-02-25 22:31:27--  https://www.bildungsserver.de/
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ............ .......... .......... .......... ........... .......... 2.58M
+    50K .......... .......... ........ 2.77M
+    50K .......... .......... .......... ...                   1.64M=0.3s
+
+2020-02-25 22:31:28 (2.10 Mb/s) - ‘/dev/null’ saved [85419]
+
+--2020-02-25 22:31:28--  http://www.bildungsserver.de/link/lamont_molnar_boundaries%0D
+Resolving www.bildungsserver.de (www.bildungsserver.de)... 193.175.194.33
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:80... ..... ...                   1.57M=0.3s
+
+2020-02-25 22:31:28 (2.12 Mb/s) - ‘/dev/null’ saved [85419]
+
+--2020-02-25 22:31:28--  http://www.bildungsserver.de/link/lamont_molnar_boundaries%0D
+Resolving www.bildungsserver.de (www.bildungsserver.de)... 193.175.194.33
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bildungsserver.de/link/lamont_molnar_boundaries%0d [following]
+--2020-02-25 22:31:28--  https://www.bildungsserver.de/link/lamont_molnar_boundaries%0d
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... 301 Moved Permanently
+Location: https://www.bildungsserver.de/link/lamont_molnar_boundaries%0d [following]
+--2020-02-25 22:31:28--  https://www.bildungsserver.de/link/lamont_molnar_boundaries%0d
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: https://www.bildungsserver.de/lnk/index.html?link=lamont_molnar_boundaries%0d [following]
+--2020-02-25 22:31:28--  https://www.bildungsserver.de/lnk/index.html?link=lamont_molnar_boundaries%0d
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... 302 Found
+Location: https://www.bildungsserver.de/lnk/index.html?link=lamont_molnar_boundaries%0d [following]
+--2020-02-25 22:31:28--  https://www.bildungsserver.de/lnk/index.html?link=lamont_molnar_boundaries%0d
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 302 Found
+Location: http://www.bildungsserver.de/ [following]
+--2020-02-25 22:31:28--  http://www.bildungsserver.de/
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:80... 302 Found
+Location: http://www.bildungsserver.de/ [following]
+--2020-02-25 22:31:28--  http://www.bildungsserver.de/
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bildungsserver.de/ [following]
+--2020-02-25 22:31:28--  https://www.bildungsserver.de/
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... 301 Moved Permanently
+Location: https://www.bildungsserver.de/ [following]
+--2020-02-25 22:31:28--  https://www.bildungsserver.de/
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ............ .......... .......... .......... ........... .......... 2.75M
+    50K ........... 2.82M
+    50K .......... .......... ....... .......... .......... ...                   1.76M=0.3s
+
+2020-02-25 22:31:29 (2.27 Mb/s) - ‘/dev/null’ saved [85419]
+
+..... ...                   1.71M=0.3s
+
+2020-02-25 22:31:29 (2.21 Mb/s) - ‘/dev/null’ saved [85419]
+

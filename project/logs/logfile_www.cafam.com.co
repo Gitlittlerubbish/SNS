@@ -1,0 +1,12 @@
+--2020-02-25 21:52:42--  https://www.cafam.com.co/comunicaciones/diasazulesfebrero.pdf%0D
+Resolving www.cafam.com.co (www.cafam.com.co)... 52.232.231.174
+Connecting to www.cafam.com.co (www.cafam.com.co)|52.232.231.174|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:52:42 ERROR 400: Bad Request.
+
+--2020-02-25 21:52:44--  https://www.cafam.com.co/comunicaciones/diasazulesfebrero.pdf%0D
+Resolving www.cafam.com.co (www.cafam.com.co)... 52.232.231.174
+Connecting to www.cafam.com.co (www.cafam.com.co)|52.232.231.174|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:52:44 ERROR 400: Bad Request.
+

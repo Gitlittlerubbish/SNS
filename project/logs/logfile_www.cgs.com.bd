@@ -1,0 +1,12 @@
+--2020-02-25 21:04:36--  https://www.cgs.com.bd/downloads/20180830-151548.pdf%0D
+Resolving www.cgs.com.bd (www.cgs.com.bd)... 162.255.166.188
+Connecting to www.cgs.com.bd (www.cgs.com.bd)|162.255.166.188|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:04:36 ERROR 404: Not Found.
+
+--2020-02-25 21:15:17--  https://www.cgs.com.bd/downloads/20180830-151548.pdf%0D
+Resolving www.cgs.com.bd (www.cgs.com.bd)... 162.255.166.188
+Connecting to www.cgs.com.bd (www.cgs.com.bd)|162.255.166.188|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:17 ERROR 404: Not Found.
+

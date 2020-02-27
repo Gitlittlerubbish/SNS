@@ -1,0 +1,12 @@
+--2020-02-25 22:30:59--  http://femicide.ge/res/docs/preventing_eng.pdf%0D
+Resolving femicide.ge (femicide.ge)... 217.147.225.29
+Connecting to femicide.ge (femicide.ge)|217.147.225.29|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:30:59 ERROR 403: Forbidden.
+
+--2020-02-25 22:31:01--  http://femicide.ge/res/docs/preventing_eng.pdf%0D
+Resolving femicide.ge (femicide.ge)... 217.147.225.29
+Connecting to femicide.ge (femicide.ge)|217.147.225.29|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:31:01 ERROR 403: Forbidden.
+

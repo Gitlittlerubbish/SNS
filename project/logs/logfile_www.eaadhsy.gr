@@ -1,0 +1,12 @@
+--2020-02-25 22:34:53--  https://www.eaadhsy.gr/n4412/prosarthmaC.pdf%0D
+Resolving www.eaadhsy.gr (www.eaadhsy.gr)... --2020-02-25 22:34:54--  https://www.eaadhsy.gr/n4412/prosarthmaC.pdf%0D
+Resolving www.eaadhsy.gr (www.eaadhsy.gr)... 195.167.83.50
+Connecting to www.eaadhsy.gr (www.eaadhsy.gr)|195.167.83.50|:443... 195.167.83.50
+Connecting to www.eaadhsy.gr (www.eaadhsy.gr)|195.167.83.50|:443... connected.
+connected.
+ERROR: cannot verify www.eaadhsy.gr's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.eaadhsy.gr insecurely, use `--no-check-certificate'.
+ERROR: cannot verify www.eaadhsy.gr's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
+  Unable to locally verify the issuer's authority.
+To connect to www.eaadhsy.gr insecurely, use `--no-check-certificate'.

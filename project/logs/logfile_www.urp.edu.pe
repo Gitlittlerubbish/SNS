@@ -1,0 +1,6 @@
+--2020-02-26 00:36:47--  http://www.urp.edu.pe/pdf/clase_variablesdeinvestigacion.pdf%0D
+Resolving www.urp.edu.pe (www.urp.edu.pe)... 168.121.49.86
+Connecting to www.urp.edu.pe (www.urp.edu.pe)|168.121.49.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:36:48 ERROR 400: Bad Request.
+

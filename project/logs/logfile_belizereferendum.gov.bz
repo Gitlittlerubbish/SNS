@@ -1,0 +1,12 @@
+--2020-02-25 21:08:53--  http://belizereferendum.gov.bz/files/WebstersProposals.pdf%0D
+Resolving belizereferendum.gov.bz (belizereferendum.gov.bz)... 104.208.244.85
+Connecting to belizereferendum.gov.bz (belizereferendum.gov.bz)|104.208.244.85|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:08:56 ERROR 500: Internal Server Error.
+
+--2020-02-25 21:18:33--  http://belizereferendum.gov.bz/files/WebstersProposals.pdf%0D
+Resolving belizereferendum.gov.bz (belizereferendum.gov.bz)... 104.208.244.85
+Connecting to belizereferendum.gov.bz (belizereferendum.gov.bz)|104.208.244.85|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:18:33 ERROR 500: Internal Server Error.
+

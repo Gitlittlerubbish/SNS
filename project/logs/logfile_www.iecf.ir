@@ -1,0 +1,6 @@
+--2020-02-25 22:54:18--  http://www.iecf.ir/Content/media/article/244.pdf%0D
+Resolving www.iecf.ir (www.iecf.ir)... 185.192.112.24
+Connecting to www.iecf.ir (www.iecf.ir)|185.192.112.24|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:54:18 ERROR 400: Bad Request.
+

@@ -1,0 +1,20 @@
+--2020-02-25 21:07:01--  https://united-music.by/pub/manuals/870/PMP1680S_PMP980S_PMP960M_M_EN.pdf%0D
+Resolving united-music.by (united-music.by)... 185.107.73.215, 185.107.73.225, 185.107.73.205
+Connecting to united-music.by (united-music.by)|185.107.73.215|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://united-music.by/ru/page-not-found.html [following]
+--2020-02-25 21:07:02--  https://united-music.by/ru/page-not-found.html
+Connecting to united-music.by (united-music.by)|185.107.73.215|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:07:02 ERROR 404: Not Found.
+
+--2020-02-25 21:17:11--  https://united-music.by/pub/manuals/870/PMP1680S_PMP980S_PMP960M_M_EN.pdf%0D
+Resolving united-music.by (united-music.by)... 185.107.73.215, 185.107.73.225, 185.107.73.205
+Connecting to united-music.by (united-music.by)|185.107.73.215|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://united-music.by/ru/page-not-found.html [following]
+--2020-02-25 21:17:12--  https://united-music.by/ru/page-not-found.html
+Connecting to united-music.by (united-music.by)|185.107.73.215|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:12 ERROR 404: Not Found.
+

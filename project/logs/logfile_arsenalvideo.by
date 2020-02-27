@@ -1,0 +1,18 @@
+--2020-02-25 21:06:42--  https://arsenalvideo.by/upload/iblock/f50/f502eb880c7a2ce206d271dc0fbce707.pdf%0D
+Resolving arsenalvideo.by (arsenalvideo.by)... 178.159.46.37
+Connecting to arsenalvideo.by (arsenalvideo.by)|178.159.46.37|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://arsenalvideo.by:443/upload/iblock/f50/f502eb880c7a2ce206d271dc0fbce707.pdf%0d/ [following]
+--2020-02-25 21:06:42--  http://arsenalvideo.by:443/upload/iblock/f50/f502eb880c7a2ce206d271dc0fbce707.pdf%0d/
+Connecting to arsenalvideo.by (arsenalvideo.by)|178.159.46.37|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://arsenalvideo.by/upload/iblock/f50/f502eb880c7a2ce206d271dc0fbce707.pdf%0d/ [following]
+--2020-02-25 21:06:42--  https://arsenalvideo.by/upload/iblock/f50/f502eb880c7a2ce206d271dc0fbce707.pdf%0d/
+Reusing existing connection to arsenalvideo.by:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:06:42 ERROR 404: Not Found.
+
+--2020-02-25 21:16:53--  https://arsenalvideo.by/upload/iblock/f50/f502eb880c7a2ce206d271dc0fbce707.pdf%0D
+Resolving arsenalvideo.by (arsenalvideo.by)... 178.159.46.37
+Connecting to arsenalvideo.by (arsenalvideo.by)|178.159.46.37|:443... connected.
+Unable to establish SSL connection.

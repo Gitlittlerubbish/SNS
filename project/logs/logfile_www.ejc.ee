@@ -1,0 +1,12 @@
+--2020-02-25 22:16:40--  http://www.ejc.ee/625907%0D
+Resolving www.ejc.ee (www.ejc.ee)... 199.26.225.29
+Connecting to www.ejc.ee (www.ejc.ee)|199.26.225.29|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:16:40 ERROR 400: Bad Request.
+
+--2020-02-25 22:16:50--  http://www.ejc.ee/625907%0D
+Resolving www.ejc.ee (www.ejc.ee)... 199.26.225.29
+Connecting to www.ejc.ee (www.ejc.ee)|199.26.225.29|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:16:50 ERROR 400: Bad Request.
+

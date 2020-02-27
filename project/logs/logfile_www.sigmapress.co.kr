@@ -1,0 +1,32 @@
+--2020-02-25 23:14:13--  http://www.sigmapress.co.kr/shop/shop_image/g29585_1435905775.pdf%0D
+Resolving www.sigmapress.co.kr (www.sigmapress.co.kr)... 183.111.169.85
+Connecting to www.sigmapress.co.kr (www.sigmapress.co.kr)|183.111.169.85|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://error.inohosting.co.kr/403.htm [following]
+--2020-02-25 23:14:14--  http://error.inohosting.co.kr/403.htm
+Resolving error.inohosting.co.kr (error.inohosting.co.kr)... 183.111.169.85
+Connecting to error.inohosting.co.kr (error.inohosting.co.kr)|183.111.169.85|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://inohosting.co.kr/error/403.htm [following]
+--2020-02-25 23:14:15--  http://inohosting.co.kr/error/403.htm
+Resolving inohosting.co.kr (inohosting.co.kr)... 183.111.169.85
+Connecting to inohosting.co.kr (inohosting.co.kr)|183.111.169.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:14:16 ERROR 404: Not Found.
+
+--2020-02-25 23:14:18--  http://www.sigmapress.co.kr/shop/shop_image/g29585_1435905775.pdf%0D
+Resolving www.sigmapress.co.kr (www.sigmapress.co.kr)... 183.111.169.85
+Connecting to www.sigmapress.co.kr (www.sigmapress.co.kr)|183.111.169.85|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://error.inohosting.co.kr/403.htm [following]
+--2020-02-25 23:14:19--  http://error.inohosting.co.kr/403.htm
+Resolving error.inohosting.co.kr (error.inohosting.co.kr)... 183.111.169.85
+Connecting to error.inohosting.co.kr (error.inohosting.co.kr)|183.111.169.85|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://inohosting.co.kr/error/403.htm [following]
+--2020-02-25 23:14:19--  http://inohosting.co.kr/error/403.htm
+Resolving inohosting.co.kr (inohosting.co.kr)... 183.111.169.85
+Connecting to inohosting.co.kr (inohosting.co.kr)|183.111.169.85|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:14:20 ERROR 404: Not Found.
+

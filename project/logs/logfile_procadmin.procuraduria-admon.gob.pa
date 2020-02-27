@@ -1,0 +1,6 @@
+--2020-02-26 00:26:22--  http://procadmin.procuraduria-admon.gob.pa/pdf/cuadernos/CuadernosAdmin_08_may.pdf%0D
+Resolving procadmin.procuraduria-admon.gob.pa (procadmin.procuraduria-admon.gob.pa)... 168.77.213.119
+Connecting to procadmin.procuraduria-admon.gob.pa (procadmin.procuraduria-admon.gob.pa)|168.77.213.119|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:26:23 ERROR 404: Not Found.
+

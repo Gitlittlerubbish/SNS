@@ -1,0 +1,6 @@
+--2020-02-25 22:43:40--  http://sccup.idv.hm/SCCup/doc/2015-16_schedule_update.pdf%0D
+Resolving sccup.idv.hm (sccup.idv.hm)... 162.217.144.39
+Connecting to sccup.idv.hm (sccup.idv.hm)|162.217.144.39|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:43:43 ERROR 400: Bad Request.
+

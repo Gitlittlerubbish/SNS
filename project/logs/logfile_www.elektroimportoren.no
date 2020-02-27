@@ -1,0 +1,6 @@
+--2020-02-26 00:22:16--  https://www.elektroimportoren.no/docs/varmecomfort/veiledningflexwatt.pdf%0D
+Resolving www.elektroimportoren.no (www.elektroimportoren.no)... 104.20.164.107, 104.20.163.107
+Connecting to www.elektroimportoren.no (www.elektroimportoren.no)|104.20.164.107|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:16 ERROR 400: Bad Request.
+

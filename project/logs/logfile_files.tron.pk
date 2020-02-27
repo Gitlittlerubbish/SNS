@@ -1,0 +1,12 @@
+--2020-02-26 00:24:18--  http://files.tron.pk/tariff.pdf%0D
+Resolving files.tron.pk (files.tron.pk)... 67.205.139.39
+Connecting to files.tron.pk (files.tron.pk)|67.205.139.39|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:24:18 ERROR 404: Not Found.
+
+--2020-02-26 00:24:18--  http://files.tron.pk/1125.pdf%0D
+Resolving files.tron.pk (files.tron.pk)... 67.205.139.39
+Connecting to files.tron.pk (files.tron.pk)|67.205.139.39|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:24:19 ERROR 404: Not Found.
+

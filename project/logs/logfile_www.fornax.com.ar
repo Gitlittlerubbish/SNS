@@ -1,0 +1,12 @@
+--2020-02-25 20:53:20--  http://www.fornax.com.ar/pdfs/Valvula_de_seguridad_y_termostato.pdf%0D
+Resolving www.fornax.com.ar (www.fornax.com.ar)... 45.33.96.65
+Connecting to www.fornax.com.ar (www.fornax.com.ar)|45.33.96.65|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 20:53:20 ERROR 403: Forbidden.
+
+--2020-02-25 21:06:36--  http://www.fornax.com.ar/pdfs/Valvula_de_seguridad_y_termostato.pdf%0D
+Resolving www.fornax.com.ar (www.fornax.com.ar)... 45.33.96.65
+Connecting to www.fornax.com.ar (www.fornax.com.ar)|45.33.96.65|:80... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:06:36 ERROR 403: Forbidden.
+

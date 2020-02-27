@@ -1,0 +1,6 @@
+--2020-02-25 23:00:20--  https://www.3cx.it/Centralino/3CXPhoneSystem_brochure_it.pdf%0D
+Resolving www.3cx.it (www.3cx.it)... 35.195.88.158
+Connecting to www.3cx.it (www.3cx.it)|35.195.88.158|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:00:20 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:06:50--  http://www.putney.dj/media/604c8affa57cb34cffff86e6ffffffe7.pdf%0D
+Resolving www.putney.dj (www.putney.dj)... --2020-02-25 22:06:50--  http://www.putney.dj/media/604c8affa57cb34cffff86e6ffffffe7.pdf%0D
+Resolving www.putney.dj (www.putney.dj)... 217.26.52.52
+Connecting to www.putney.dj (www.putney.dj)|217.26.52.52|:80... 217.26.52.52
+Connecting to www.putney.dj (www.putney.dj)|217.26.52.52|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:06:51 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:06:51 ERROR 404: Not Found.
+

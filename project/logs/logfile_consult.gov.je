@@ -1,0 +1,10 @@
+--2020-02-25 23:04:52--  http://consult.gov.je/events/25662/3419130_accessible.pdf%0D
+Resolving consult.gov.je (consult.gov.je)... 35.179.9.147, 52.56.245.48
+Connecting to consult.gov.je (consult.gov.je)|35.179.9.147|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://consult.gov.je/events/25662/3419130_accessible.pdf%0D [following]
+--2020-02-25 23:04:52--  https://consult.gov.je/events/25662/3419130_accessible.pdf%0D
+Connecting to consult.gov.je (consult.gov.je)|35.179.9.147|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:04:53 ERROR 404: Not Found.
+

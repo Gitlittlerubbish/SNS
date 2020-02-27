@@ -1,0 +1,13 @@
+--2020-02-25 21:47:28--  http://www.mouser.cn/pdfdocs/Polyfuse_PTC-Selection_Guide.pdf%0D
+Resolving www.mouser.cn (www.mouser.cn)... --2020-02-25 21:47:28--  http://www.mouser.cn/pdfdocs/Polyfuse_PTC-Selection_Guide.pdf%0D
+Resolving www.mouser.cn (www.mouser.cn)... 104.84.252.229
+Connecting to www.mouser.cn (www.mouser.cn)|104.84.252.229|:80... 104.84.252.229
+Connecting to www.mouser.cn (www.mouser.cn)|104.84.252.229|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 405 Method Not Allowed
+Syntax error in Set-Cookie: akacd_Default_PR=3760120048~rv=11~id=17e16a7ed41a6997961e79b44836dc7a; path=/;; HttpOnly at position 78.
+2020-02-25 21:47:30 ERROR 405: Method Not Allowed.
+
+Read error (Connection timed out) in headers.
+Giving up.
+

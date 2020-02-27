@@ -1,0 +1,6 @@
+--2020-02-25 22:56:35--  http://www.nui.ie/college/docs/exemption.pdf%0D
+Resolving www.nui.ie (www.nui.ie)... 99.80.184.10
+Connecting to www.nui.ie (www.nui.ie)|99.80.184.10|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:56:35 ERROR 400: Bad Request.
+

@@ -1,0 +1,44 @@
+--2020-02-25 21:52:05--  https://www.javeriana.edu.co/biblos/tesis/ciencias/tesis286.pdf%0D
+Resolving www.javeriana.edu.co (www.javeriana.edu.co)... 200.3.149.136
+Connecting to www.javeriana.edu.co (www.javeriana.edu.co)|200.3.149.136|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1875 (1.8K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 45.7K=0.3s
+
+2020-02-25 21:52:06 (45.7 Kb/s) - ‘/dev/null’ saved [1875/1875]
+
+--2020-02-25 21:52:06--  https://www.javeriana.edu.co/biblos/tesis/ciencias/tesis286.pdf%0D
+Resolving www.javeriana.edu.co (www.javeriana.edu.co)... 200.3.149.136
+Connecting to www.javeriana.edu.co (www.javeriana.edu.co)|200.3.149.136|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1875 (1.8K) [text/html]
+Saving to: ‘/dev/null’
+--2020-02-25 21:52:07--  https://www.javeriana.edu.co/biblos/tesis/ciencias/tesis286.pdf%0D
+Resolving www.javeriana.edu.co (www.javeriana.edu.co)... 200.3.149.136
+Connecting to www.javeriana.edu.co (www.javeriana.edu.co)|200.3.149.136|:443... connected.
+
+     0K .                                                     100% 40.4K=0.4s
+
+2020-02-25 21:52:08 (40.4 Kb/s) - ‘/dev/null’ saved [1875/1875]
+
+HTTP request sent, awaiting response... 200 OK
+Length: 1875 (1.8K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 40.9K=0.4s
+
+2020-02-25 21:52:08 (40.9 Kb/s) - ‘/dev/null’ saved [1875/1875]
+
+--2020-02-25 21:52:08--  https://www.javeriana.edu.co/biblos/tesis/ciencias/tesis286.pdf%0D
+Resolving www.javeriana.edu.co (www.javeriana.edu.co)... 200.3.149.136
+Connecting to www.javeriana.edu.co (www.javeriana.edu.co)|200.3.149.136|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1875 (1.8K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 1.41G=0s
+
+2020-02-25 21:52:09 (1.41 Gb/s) - ‘/dev/null’ saved [1875/1875]
+

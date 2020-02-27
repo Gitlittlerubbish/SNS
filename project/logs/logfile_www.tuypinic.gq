@@ -1,0 +1,53 @@
+--2020-02-25 22:16:00--  http://www.tuypinic.gq/publicaties/download/limits_of_licensing_literature_review.pdf%0D
+Resolving www.tuypinic.gq (www.tuypinic.gq)... 104.28.3.65, 104.28.2.65
+Connecting to www.tuypinic.gq (www.tuypinic.gq)|104.28.3.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.06M
+    50K .......... .......... .......... .......... .......... 10.3M
+   100K .......... .......... .......... .......... ..........  238M
+   150K .......... ....                                        2.02G=0.1s
+
+2020-02-25 22:16:01 (11.0 Mb/s) - ‘/dev/null’ saved [168166]
+
+--2020-02-25 22:16:01--  http://www.tuypinic.gq/publicaties/download/limits_of_licensing_literature_review.pdf%0D
+Resolving www.tuypinic.gq (www.tuypinic.gq)... 104.28.2.65, 104.28.3.65
+Connecting to www.tuypinic.gq (www.tuypinic.gq)|104.28.2.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.00M
+    50K .......... .......... .......... .......... .......... 9.72M
+   100K ..                                                     44096G=0.1s
+
+2020-02-25 22:16:01 (6.78 Mb/s) - ‘/dev/null’ saved [105156]
+
+--2020-02-25 22:16:12--  http://www.tuypinic.gq/publicaties/download/limits_of_licensing_literature_review.pdf%0D
+Resolving www.tuypinic.gq (www.tuypinic.gq)... 104.28.2.65, 104.28.3.65
+Connecting to www.tuypinic.gq (www.tuypinic.gq)|104.28.2.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.14M
+    50K .......... .......... .......... .......... .......... 9.84M
+   100K .......... .......... .......... .......... .......... 11.3M
+   150K .......... .......... .........                         212M=0.2s
+
+2020-02-25 22:16:13 (9.25 Mb/s) - ‘/dev/null’ saved [183577]
+
+--2020-02-25 22:16:13--  http://www.tuypinic.gq/publicaties/download/limits_of_licensing_literature_review.pdf%0D
+Resolving www.tuypinic.gq (www.tuypinic.gq)... 104.28.2.65, 104.28.3.65
+Connecting to www.tuypinic.gq (www.tuypinic.gq)|104.28.2.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.22M
+    50K .......... .......... .......... ...                    101M=0.06s
+
+2020-02-25 22:16:13 (11.5 Mb/s) - ‘/dev/null’ saved [85078]
+

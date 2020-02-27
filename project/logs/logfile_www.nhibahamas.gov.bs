@@ -1,0 +1,84 @@
+--2020-02-25 21:02:28--  http://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf%0D
+Resolving www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)... 24.51.113.177
+Connecting to www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)|24.51.113.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf [following]
+--2020-02-25 21:02:29--  https://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf
+Connecting to www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)|24.51.113.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338978 (331K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 3.99M 1s
+    50K .......... .......... .......... .......... .......... 30% 4.00M 0s
+   100K .......... .......... .......... .......... .......... 45%  648M 0s
+   150K .......... .......... .......... .......... .......... 60% 2.00M 0s
+   200K .......... .......... .......... .......... .......... 75% 3.38G 0s
+   250K .......... .......... .......... .......... .......... 90% 11.4M 0s
+   300K .......... .......... .......... .                    100% 3.46G=0.4s
+
+2020-02-25 21:02:30 (6.07 Mb/s) - ‘/dev/null’ saved [338978/338978]
+
+--2020-02-25 21:02:30--  http://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf%0D
+Resolving www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)... 24.51.113.177
+Connecting to www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)|24.51.113.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf [following]
+--2020-02-25 21:02:30--  https://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf
+Connecting to www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)|24.51.113.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338978 (331K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 3.94M 1s
+    50K .......... .......... .......... .......... .......... 30% 3.93M 0s
+   100K .......... .......... .......... .......... .......... 45% 23.0M 0s
+   150K .......... .......... .......... .......... .......... 60% 4.75M 0s
+   200K .......... .......... .......... .......... .......... 75% 2.96M 0s
+   250K .......... .......... .......... .......... .......... 90% 5.92M 0s
+   300K .......... .......... .......... .                    100% 6.28G=0.5s
+
+2020-02-25 21:02:31 (5.22 Mb/s) - ‘/dev/null’ saved [338978/338978]
+
+--2020-02-25 21:13:49--  http://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf%0D
+Resolving www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)... 24.51.113.177
+Connecting to www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)|24.51.113.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf [following]
+--2020-02-25 21:13:49--  https://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf
+Connecting to www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)|24.51.113.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338978 (331K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 3.94M 1s
+    50K .......... .......... .......... .......... .......... 30% 3.95M 0s
+   100K .......... .......... .......... .......... .......... 45%  131M 0s
+   150K .......... .......... .......... .......... .......... 60% 2.00M 0s
+   200K .......... .......... .......... .......... .......... 75% 4.24G 0s
+   250K .......... .......... .......... .......... .......... 90% 5.21M 0s
+   300K .......... .......... .......... .                    100% 4.70G=0.5s
+
+2020-02-25 21:13:50 (5.49 Mb/s) - ‘/dev/null’ saved [338978/338978]
+
+--2020-02-25 21:13:50--  http://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf%0D
+Resolving www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)... 24.51.113.177
+Connecting to www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)|24.51.113.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf [following]
+--2020-02-25 21:13:51--  https://www.nhibahamas.gov.bs/wp-content/uploads/2016/10/Facilities-Manager.pdf
+Connecting to www.nhibahamas.gov.bs (www.nhibahamas.gov.bs)|24.51.113.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338978 (331K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 3.94M 1s
+    50K .......... .......... .......... .......... .......... 30% 3.93M 0s
+   100K .......... .......... .......... .......... .......... 45% 43.6M 0s
+   150K .......... .......... .......... .......... .......... 60% 4.32M 0s
+   200K .......... .......... .......... .......... .......... 75% 3.96M 0s
+   250K .......... .......... .......... .......... .......... 90% 52.2M 0s
+   300K .......... .......... .......... .                    100% 2.65M=0.5s
+
+2020-02-25 21:13:52 (5.22 Mb/s) - ‘/dev/null’ saved [338978/338978]
+

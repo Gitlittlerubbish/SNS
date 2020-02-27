@@ -1,0 +1,68 @@
+--2020-02-25 22:31:40--  http://www.nw3.de/dokum/luftverkehr.pdf%0D
+Resolving www.nw3.de (www.nw3.de)... 217.160.0.248
+Connecting to www.nw3.de (www.nw3.de)|217.160.0.248|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.nw3.de/dokum/luftverkehr.pdf [following]
+--2020-02-25 22:31:40--  http://www.nw3.de/dokum/luftverkehr.pdf
+Reusing existing connection to www.nw3.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 110185 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .....--2020-02-25 22:31:40--  http://www.nw3.de/dokum/luftverkehr.pdf%0D
+Resolving www.nw3.de (www.nw3.de)... 217.160.0.248
+Connecting to www.nw3.de (www.nw3.de)|217.160.0.248|:80... ..... .......... .......... ..connected.
+HTTP request sent, awaiting response... ........ 46% 12.9M 0s
+    50K .......... .......... ..........301 Moved Permanently
+Location: http://www.nw3.de/dokum/luftverkehr.pdf [following]
+--2020-02-25 22:31:40--  http://www.nw3.de/dokum/luftverkehr.pdf
+Reusing existing connection to www.nw3.de:80.
+HTTP request sent, awaiting response...  .......... .......... 92% 36.3M 0s
+   100K .......                                               100% 21.3M=0.05s
+
+2020-02-25 22:31:40 (19.2 Mb/s) - ‘/dev/null’ saved [110185/110185]
+
+--2020-02-25 22:31:40--  http://www.nw3.de/dokum/luftverkehr.pdf%0D
+Resolving www.nw3.de (www.nw3.de)... 217.160.0.248
+Connecting to www.nw3.de (www.nw3.de)|217.160.0.248|:80... 200 OK
+Length: 110185 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .....connected.
+HTTP request sent, awaiting response... ..... .......... .......... ..301 Moved Permanently
+Location: http://www.nw3.de/dokum/luftverkehr.pdf [following]
+--2020-02-25 22:31:40--  http://www.nw3.de/dokum/luftverkehr.pdf
+Reusing existing connection to www.nw3.de:80.
+HTTP request sent, awaiting response... ........ 46% 12.9M 0s
+    50K .......... .......... .......... .......... .......... 92% 36.8M 0s200 OK
+Length: 110185 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ...
+   100K .......                                               100% 20.7M=0.05s
+
+2020-02-25 22:31:40 (19.2 Mb/s) - ‘/dev/null’ saved [110185/110185]
+
+..--2020-02-25 22:31:40--  http://www.nw3.de/dokum/luftverkehr.pdf%0D
+Resolving www.nw3.de (www.nw3.de)... 217.160.0.248
+Connecting to www.nw3.de (www.nw3.de)|217.160.0.248|:80... ..... .......... .......... ..connected.
+HTTP request sent, awaiting response... ........ 46% 13.1M 0s
+    50K .......... .......... .......... .301 Moved Permanently
+Location: http://www.nw3.de/dokum/luftverkehr.pdf [following]
+--2020-02-25 22:31:40--  http://www.nw3.de/dokum/luftverkehr.pdf
+....Reusing existing connection to www.nw3.de:80.
+HTTP request sent, awaiting response... ..... .......... 92% 36.6M 0s
+   100K .......                                               100% 19.1M=0.05s
+
+2020-02-25 22:31:40 (19.3 Mb/s) - ‘/dev/null’ saved [110185/110185]
+
+200 OK
+Length: 110185 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 13.4M 0s
+    50K .......... .......... .......... .......... .......... 92% 38.6M 0s
+   100K .......                                               100% 34.2M=0.04s
+
+2020-02-25 22:31:40 (20.5 Mb/s) - ‘/dev/null’ saved [110185/110185]
+

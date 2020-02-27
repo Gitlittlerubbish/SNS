@@ -1,0 +1,12 @@
+--2020-02-25 22:11:30--  http://www.sis.gov.eg/Newvr/alayam.pdf%0D
+Resolving www.sis.gov.eg (www.sis.gov.eg)... --2020-02-25 22:11:30--  http://www.sis.gov.eg/Newvr/alayam.pdf%0D
+Resolving www.sis.gov.eg (www.sis.gov.eg)... 84.36.233.200
+Connecting to www.sis.gov.eg (www.sis.gov.eg)|84.36.233.200|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:11:30 ERROR 500: Internal Server Error.
+
+84.36.233.200
+Connecting to www.sis.gov.eg (www.sis.gov.eg)|84.36.233.200|:80... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:11:31 ERROR 500: Internal Server Error.
+

@@ -1,0 +1,58 @@
+--2020-02-25 22:27:28--  https://www.zahnradscheibze.ga/docs/marken/gute_gruende.pdf%0D
+Resolving www.zahnradscheibze.ga (www.zahnradscheibze.ga)... 104.27.132.171, 104.27.133.171
+Connecting to www.zahnradscheibze.ga (www.zahnradscheibze.ga)|104.27.132.171|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 9.93M
+    50K .......... .......... .......... .......... .......... 14.7M
+   100K .......... .......... .......... .......... ..........  231M
+   150K .......... .......... .......... .......... ..........  310M
+   200K .......... ...--2020-02-25 22:27:28--  https://www.zahnradscheibze.ga/docs/marken/gute_gruende.pdf%0D
+Resolving www.zahnradscheibze.ga (www.zahnradscheibze.ga)... 104.27.132.171, 104.27.133.171
+Connecting to www.zahnradscheibze.ga (www.zahnradscheibze.ga)|104.27.132.171|:443... connected.
+HTTP request sent, awaiting response... ....... .......... ......                11.2M=0.1s
+
+2020-02-25 22:27:28 (19.6 Mb/s) - ‘/dev/null’ saved [241826]
+
+--2020-02-25 22:27:28--  https://www.zahnradscheibze.ga/docs/marken/gute_gruende.pdf%0D
+Resolving www.zahnradscheibze.ga (www.zahnradscheibze.ga)... 104.27.132.171, 104.27.133.171
+Connecting to www.zahnradscheibze.ga (www.zahnradscheibze.ga)|104.27.132.171|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......... .......... .......... .......... 5.04M
+    50K .......... .......... .......... .......... ......        4.64M=0.08s
+
+2020-02-25 22:27:29 (4.64 Mb/s) - ‘/dev/null’ saved [44284]
+
+..... 10.6M
+   100K .......... .......... .......... .......... ..........  235M
+   150K .......... .......... .......... .......... .......... 9.86M
+   200K .......... .......... .......... .......... .......... 10.7M
+   250K .......... .......... .......... .......... .          8.27M=0.2s
+
+2020-02-25 22:27:29 (9.85 Mb/s) - ‘/dev/null’ saved [298544]
+
+--2020-02-25 22:27:29--  https://www.zahnradscheibze.ga/docs/marken/gute_gruende.pdf%0D
+Resolving www.zahnradscheibze.ga (www.zahnradscheibze.ga)... 104.27.132.171, 104.27.133.171
+Connecting to www.zahnradscheibze.ga (www.zahnradscheibze.ga)|104.27.132.171|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.15M
+    50K .......... .......... .......... .......... .......... 14.5M
+   100K .......... .......... .......... .......... ..........  591M
+   150K .......... .......... .......... .......... ..........  199M
+   200K .......... .......... .......... .......... .......... 15.0M
+   250K ......                                                 6.37G=0.1s
+
+2020-02-25 22:27:29 (18.2 Mb/s) - ‘/dev/null’ saved [262374]
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:05:14--  http://www.brighterfutures.org.je/media/1115/administrator-job-description.pdf%0D
+Resolving www.brighterfutures.org.je (www.brighterfutures.org.je)... 54.246.135.146
+Connecting to www.brighterfutures.org.je (www.brighterfutures.org.je)|54.246.135.146|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:14 ERROR 400: Bad Request.
+

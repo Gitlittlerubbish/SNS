@@ -1,0 +1,12 @@
+--2020-02-25 21:04:27--  https://www.pstu.ac.bd/files/publications/1550802256.pdf%0D
+Resolving www.pstu.ac.bd (www.pstu.ac.bd)... 103.48.119.144
+Connecting to www.pstu.ac.bd (www.pstu.ac.bd)|103.48.119.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:04:28 ERROR 404: Not Found.
+
+--2020-02-25 21:15:12--  https://www.pstu.ac.bd/files/publications/1550802256.pdf%0D
+Resolving www.pstu.ac.bd (www.pstu.ac.bd)... 103.48.119.144
+Connecting to www.pstu.ac.bd (www.pstu.ac.bd)|103.48.119.144|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:13 ERROR 404: Not Found.
+

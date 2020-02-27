@@ -1,0 +1,20 @@
+--2020-02-25 21:17:32--  https://mtel.ba/Binary/405/Lista_ovlastenih_serivsa.pdf%0D
+Resolving mtel.ba (mtel.ba)... 195.178.37.181
+Connecting to mtel.ba (mtel.ba)|195.178.37.181|:443... connected.
+HTTP request sent, awaiting response... 302 Security Redirect
+Location: https://mtel.ba/50xmtelba.html [following]
+--2020-02-25 21:17:32--  https://mtel.ba/50xmtelba.html
+Connecting to mtel.ba (mtel.ba)|195.178.37.181|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:33 ERROR 404: Not Found.
+
+--2020-02-25 21:24:42--  https://mtel.ba/Binary/405/Lista_ovlastenih_serivsa.pdf%0D
+Resolving mtel.ba (mtel.ba)... 195.178.37.181
+Connecting to mtel.ba (mtel.ba)|195.178.37.181|:443... connected.
+HTTP request sent, awaiting response... 302 Security Redirect
+Location: https://mtel.ba/50xmtelba.html [following]
+--2020-02-25 21:24:42--  https://mtel.ba/50xmtelba.html
+Connecting to mtel.ba (mtel.ba)|195.178.37.181|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:42 ERROR 404: Not Found.
+

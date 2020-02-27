@@ -1,0 +1,12 @@
+--2020-02-25 21:03:16--  http://www.bahraincustoms.gov.bh/uploads/files/upDoc/Forgin_Goods_Guides.pdf%0D
+Resolving www.bahraincustoms.gov.bh (www.bahraincustoms.gov.bh)... 89.31.192.98
+Connecting to www.bahraincustoms.gov.bh (www.bahraincustoms.gov.bh)|89.31.192.98|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:03:17 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:31--  http://www.bahraincustoms.gov.bh/uploads/files/upDoc/Forgin_Goods_Guides.pdf%0D
+Resolving www.bahraincustoms.gov.bh (www.bahraincustoms.gov.bh)... 89.31.192.98
+Connecting to www.bahraincustoms.gov.bh (www.bahraincustoms.gov.bh)|89.31.192.98|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:31 ERROR 400: Bad Request.
+

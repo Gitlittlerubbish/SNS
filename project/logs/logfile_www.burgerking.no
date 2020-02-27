@@ -1,0 +1,22 @@
+--2020-02-26 00:22:20--  http://www.burgerking.no/services/pdf/download/nutrition%0D
+Resolving www.burgerking.no (www.burgerking.no)... 52.203.251.126, 34.197.29.161
+Connecting to www.burgerking.no (www.burgerking.no)|52.203.251.126|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  105M=0s
+
+2020-02-26 00:22:20 (105 Mb/s) - ‘/dev/null’ saved [42/42]
+
+--2020-02-26 00:22:20--  http://www.burgerking.no/services/pdf/download/nutrition%0D
+Resolving www.burgerking.no (www.burgerking.no)... 34.197.29.161, 52.203.251.126
+Connecting to www.burgerking.no (www.burgerking.no)|34.197.29.161|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  101M=0s
+
+2020-02-26 00:22:20 (101 Mb/s) - ‘/dev/null’ saved [42/42]
+

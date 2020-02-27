@@ -1,0 +1,108 @@
+--2020-02-25 22:38:25--  https://esl.gg/cc2018rules%0D
+Resolving esl.gg (esl.gg)... 67.199.248.12, 67.199.248.13
+Connecting to esl.gg (esl.gg)|67.199.248.12|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://play.eslgaming.com/fifa/playstation/fifa19-ps4/major/playstation-continental-cup-2018-qualifier-1-na/rules/ [following]
+--2020-02-25 22:38:25--  https://play.eslgaming.com/fifa/playstation/fifa19-ps4/major/playstation-continental-cup-2018-qualifier-1-na/rules/
+Resolving play.eslgaming.com (play.eslgaming.com)... 193.41.200.16, 193.41.200.17
+Connecting to play.eslgaming.com (play.eslgaming.com)|193.41.200.16|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cdn.eslgaming.com/misc/media/play/fifa/playstation/continental-cup/Rules-EN.pdf [following]
+--2020-02-25 22:38:26--  https://cdn.eslgaming.com/misc/media/play/fifa/playstation/continental-cup/Rules-EN.pdf
+Resolving cdn.eslgaming.com (cdn.eslgaming.com)... 2.22.129.20
+Connecting to cdn.eslgaming.com (cdn.eslgaming.com)|2.22.129.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 341099 (333K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 84.5M 0s
+    50K .......... .......... .......... .......... .......... 30% 2.11G 0s
+   100K .......... .......... .......... .......... .......... 45%  569M 0s
+   150K .......... .......... .......... .......... .......... 60%  255M 0s
+   200K .......... .......... .......... .......... .......... 75% 2.13G 0s
+   250K .......... .......... .......... .......... .......... 90% 60.2M 0s
+   300K .......... .......... .......... ...                  100% 2.92G=0.01s
+
+2020-02-25 22:38:26 (189 Mb/s) - ‘/dev/null’ saved [341099/341099]
+
+--2020-02-25 22:38:26--  https://esl.gg/cc2018rules%0D
+Resolving esl.gg (esl.gg)... 67.199.248.12, 67.199.248.13
+Connecting to esl.gg (esl.gg)|67.199.248.12|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://play.eslgaming.com/fifa/playstation/fifa19-ps4/major/playstation-continental-cup-2018-qualifier-1-na/rules/ [following]
+--2020-02-25 22:38:26--  https://play.eslgaming.com/fifa/playstation/fifa19-ps4/major/playstation-continental-cup-2018-qualifier-1-na/rules/
+Resolving play.eslgaming.com (play.eslgaming.com)... 193.41.200.17, 193.41.200.16
+Connecting to play.eslgaming.com (play.eslgaming.com)|193.41.200.17|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cdn.eslgaming.com/misc/media/play/fifa/playstation/continental-cup/Rules-EN.pdf [following]
+--2020-02-25 22:38:26--  https://cdn.eslgaming.com/misc/media/play/fifa/playstation/continental-cup/Rules-EN.pdf
+Resolving cdn.eslgaming.com (cdn.eslgaming.com)... 2.22.129.20
+Connecting to cdn.eslgaming.com (cdn.eslgaming.com)|2.22.129.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 341099 (333K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 88.9M 0s
+    50K .......... .......... .......... .......... .......... 30%  336M 0s
+   100K .......... .......... .......... .......... .......... 45%  375M 0s
+   150K .......... .......... .......... .......... .......... 60% 2.58G 0s
+   200K .......... .......... .......... .......... .......... 75%  370M 0s
+   250K .......... .......... .......... .......... .......... 90% 61.9M 0s
+   300K .......... .......... .......... ...                  100% 6.07G=0.01s
+
+2020-02-25 22:38:26 (184 Mb/s) - ‘/dev/null’ saved [341099/341099]
+
+--2020-02-25 22:38:27--  https://esl.gg/cc2018rules%0D
+Resolving esl.gg (esl.gg)... 67.199.248.12, 67.199.248.13
+Connecting to esl.gg (esl.gg)|67.199.248.12|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://play.eslgaming.com/fifa/playstation/fifa19-ps4/major/playstation-continental-cup-2018-qualifier-1-na/rules/ [following]
+--2020-02-25 22:38:27--  https://play.eslgaming.com/fifa/playstation/fifa19-ps4/major/playstation-continental-cup-2018-qualifier-1-na/rules/
+Resolving play.eslgaming.com (play.eslgaming.com)... 193.41.200.16, 193.41.200.17
+Connecting to play.eslgaming.com (play.eslgaming.com)|193.41.200.16|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cdn.eslgaming.com/misc/media/play/fifa/playstation/continental-cup/Rules-EN.pdf [following]
+--2020-02-25 22:38:27--  https://cdn.eslgaming.com/misc/media/play/fifa/playstation/continental-cup/Rules-EN.pdf
+Resolving cdn.eslgaming.com (cdn.eslgaming.com)... 2.22.129.20
+Connecting to cdn.eslgaming.com (cdn.eslgaming.com)|2.22.129.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 341099 (333K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 88.8M 0s
+    50K .......... .......... .......... .......... .......... 30% 1.77G 0s
+   100K .......... .......... .......... .......... .......... 45%  758M 0s
+   150K .......... .......... .......... .......... .......... 60%  225M 0s
+   200K .......... .......... .......... .......... .......... 75% 1.48G 0s
+   250K .......... .......... .......... .......... .......... 90% 55.6M 0s
+   300K .......... .......... .......... ...                  100% 2.95G=0.01s
+
+2020-02-25 22:38:27 (183 Mb/s) - ‘/dev/null’ saved [341099/341099]
+
+--2020-02-25 22:38:27--  https://esl.gg/cc2018rules%0D
+Resolving esl.gg (esl.gg)... 67.199.248.13, 67.199.248.12
+Connecting to esl.gg (esl.gg)|67.199.248.13|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://play.eslgaming.com/fifa/playstation/fifa19-ps4/major/playstation-continental-cup-2018-qualifier-1-na/rules/ [following]
+--2020-02-25 22:38:28--  https://play.eslgaming.com/fifa/playstation/fifa19-ps4/major/playstation-continental-cup-2018-qualifier-1-na/rules/
+Resolving play.eslgaming.com (play.eslgaming.com)... 193.41.200.16, 193.41.200.17
+Connecting to play.eslgaming.com (play.eslgaming.com)|193.41.200.16|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cdn.eslgaming.com/misc/media/play/fifa/playstation/continental-cup/Rules-EN.pdf [following]
+--2020-02-25 22:38:28--  https://cdn.eslgaming.com/misc/media/play/fifa/playstation/continental-cup/Rules-EN.pdf
+Resolving cdn.eslgaming.com (cdn.eslgaming.com)... 2.22.129.20
+Connecting to cdn.eslgaming.com (cdn.eslgaming.com)|2.22.129.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 341099 (333K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 82.6M 0s
+    50K .......... .......... .......... .......... .......... 30% 2.43G 0s
+   100K .......... .......... .......... .......... .......... 45%  540M 0s
+   150K .......... .......... .......... .......... .......... 60%  246M 0s
+   200K .......... .......... .......... .......... .......... 75%  952M 0s
+   250K .......... .......... .......... .......... .......... 90% 56.5M 0s
+   300K .......... .......... .......... ...                  100% 6.59G=0.02s
+
+2020-02-25 22:38:28 (179 Mb/s) - ‘/dev/null’ saved [341099/341099]
+

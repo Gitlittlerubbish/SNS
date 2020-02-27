@@ -1,0 +1,40 @@
+--2020-02-25 22:56:15--  https://itpc.gov.iq/upload/upfile/ar/644.pdf%0D
+Resolving itpc.gov.iq (itpc.gov.iq)... 66.111.53.230
+Connecting to itpc.gov.iq (itpc.gov.iq)|66.111.53.230|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://firewallgateway.com/error/browsernotallowed [following]
+--2020-02-25 22:56:15--  http://firewallgateway.com/error/browsernotallowed
+Resolving firewallgateway.com (firewallgateway.com)... 50.116.92.26
+Connecting to firewallgateway.com (firewallgateway.com)|50.116.92.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://firewallgateway.com/error/browsernotallowed/ [following]
+--2020-02-25 22:56:15--  http://firewallgateway.com/error/browsernotallowed/
+Reusing existing connection to firewallgateway.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2796 (2.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 5.39G=0s
+
+2020-02-25 22:56:15 (5.39 Gb/s) - ‘/dev/null’ saved [2796/2796]
+
+--2020-02-25 22:56:15--  https://itpc.gov.iq/upload/upfile/ar/644.pdf%0D
+Resolving itpc.gov.iq (itpc.gov.iq)... 66.111.53.230
+Connecting to itpc.gov.iq (itpc.gov.iq)|66.111.53.230|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://firewallgateway.com/error/browsernotallowed [following]
+--2020-02-25 22:56:16--  http://firewallgateway.com/error/browsernotallowed
+Resolving firewallgateway.com (firewallgateway.com)... 50.116.92.26
+Connecting to firewallgateway.com (firewallgateway.com)|50.116.92.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://firewallgateway.com/error/browsernotallowed/ [following]
+--2020-02-25 22:56:16--  http://firewallgateway.com/error/browsernotallowed/
+Reusing existing connection to firewallgateway.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2796 (2.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 5.27G=0s
+
+2020-02-25 22:56:16 (5.27 Gb/s) - ‘/dev/null’ saved [2796/2796]
+

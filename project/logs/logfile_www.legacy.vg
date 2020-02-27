@@ -1,0 +1,12 @@
+--2020-02-25 21:25:18--  http://www.legacy.vg/clients/212/newsletters/fall09.pdf%0D
+Resolving www.legacy.vg (www.legacy.vg)... 162.214.0.170
+Connecting to www.legacy.vg (www.legacy.vg)|162.214.0.170|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:25:18 ERROR 404: Not Found.
+
+--2020-02-25 21:30:41--  http://www.legacy.vg/clients/212/newsletters/fall09.pdf%0D
+Resolving www.legacy.vg (www.legacy.vg)... 162.214.0.170
+Connecting to www.legacy.vg (www.legacy.vg)|162.214.0.170|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:30:42 ERROR 404: Not Found.
+

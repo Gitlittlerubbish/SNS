@@ -1,0 +1,12 @@
+--2020-02-25 22:16:18--  https://www.leuseirm.gq/contentassets/fada85d4686f486ebc31dd278a7a7778/pressehefte.pdf%0D
+Resolving www.leuseirm.gq (www.leuseirm.gq)... 104.31.66.137, 104.31.67.137
+Connecting to www.leuseirm.gq (www.leuseirm.gq)|104.31.66.137|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 22:16:31--  https://www.leuseirm.gq/contentassets/fada85d4686f486ebc31dd278a7a7778/pressehefte.pdf%0D
+Resolving www.leuseirm.gq (www.leuseirm.gq)... 104.31.67.137, 104.31.66.137
+Connecting to www.leuseirm.gq (www.leuseirm.gq)|104.31.67.137|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:26:03--  https://www.kpmgregulatorylibrary.lu/Home/GetAssociatedFile/12985%0D
+Resolving www.kpmgregulatorylibrary.lu (www.kpmgregulatorylibrary.lu)... 185.3.44.207
+Connecting to www.kpmgregulatorylibrary.lu (www.kpmgregulatorylibrary.lu)|185.3.44.207|:443... connected.
+ERROR: cannot verify www.kpmgregulatorylibrary.lu's certificate, issued by ‘CN=Gandi Standard SSL CA 2,O=Gandi,L=Paris,ST=Paris,C=FR’:
+  Unable to locally verify the issuer's authority.
+To connect to www.kpmgregulatorylibrary.lu insecurely, use `--no-check-certificate'.

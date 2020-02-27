@@ -1,0 +1,6 @@
+--2020-02-25 22:50:13--  http://www.biharvidhanparishad.gov.in/SBI.pdf%0D
+Resolving www.biharvidhanparishad.gov.in (www.biharvidhanparishad.gov.in)... 164.100.37.163
+Connecting to www.biharvidhanparishad.gov.in (www.biharvidhanparishad.gov.in)|164.100.37.163|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:13 ERROR 400: Bad Request.
+

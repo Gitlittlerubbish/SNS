@@ -1,0 +1,12 @@
+--2020-02-25 21:09:24--  https://nvr.bz/support/catalogdl/manual/NVR800_200_204mk2_manual_20180926.pdf%0D
+Resolving nvr.bz (nvr.bz)... 153.127.207.196
+Connecting to nvr.bz (nvr.bz)|153.127.207.196|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:25 ERROR 404: Not Found.
+
+--2020-02-25 21:18:59--  https://nvr.bz/support/catalogdl/manual/NVR800_200_204mk2_manual_20180926.pdf%0D
+Resolving nvr.bz (nvr.bz)... 153.127.207.196
+Connecting to nvr.bz (nvr.bz)|153.127.207.196|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:00 ERROR 404: Not Found.
+

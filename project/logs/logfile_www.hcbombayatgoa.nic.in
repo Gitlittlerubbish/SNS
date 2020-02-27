@@ -1,0 +1,6 @@
+--2020-02-25 22:50:13--  http://www.hcbombayatgoa.nic.in/noteofappearance.pdf%0D
+Resolving www.hcbombayatgoa.nic.in (www.hcbombayatgoa.nic.in)... 164.100.238.135
+Connecting to www.hcbombayatgoa.nic.in (www.hcbombayatgoa.nic.in)|164.100.238.135|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:50:14 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:13:34--  http://www2.eit.ac.nz/library/ls_guides_apareferencingfaq.html%0D
+Resolving www2.eit.ac.nz (www2.eit.ac.nz)... 49.0.28.100
+Connecting to www2.eit.ac.nz (www2.eit.ac.nz)|49.0.28.100|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:13:34 ERROR 400: Bad Request.
+

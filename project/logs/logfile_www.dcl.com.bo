@@ -1,0 +1,12 @@
+--2020-02-25 21:16:43--  http://www.dcl.com.bo/documentos/negocios/impuestos.pdf%0D
+Resolving www.dcl.com.bo (www.dcl.com.bo)... 107.180.49.117
+Connecting to www.dcl.com.bo (www.dcl.com.bo)|107.180.49.117|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:16:43 ERROR 400: Bad Request.
+
+--2020-02-25 21:24:07--  http://www.dcl.com.bo/documentos/negocios/impuestos.pdf%0D
+Resolving www.dcl.com.bo (www.dcl.com.bo)... 107.180.49.117
+Connecting to www.dcl.com.bo (www.dcl.com.bo)|107.180.49.117|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:24:07 ERROR 400: Bad Request.
+

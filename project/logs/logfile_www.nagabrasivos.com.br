@@ -1,0 +1,64 @@
+--2020-02-25 21:20:13--  http://www.nagabrasivos.com.br/tabela_conversao.pdf%0D
+Resolving www.nagabrasivos.com.br (www.nagabrasivos.com.br)... 192.185.215.153
+Connecting to www.nagabrasivos.com.br (www.nagabrasivos.com.br)|192.185.215.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nagabrasivos.com.br/tabela_conversao.pdf [following]
+--2020-02-25 21:20:14--  https://www.nagabrasivos.com.br/tabela_conversao.pdf
+Connecting to www.nagabrasivos.com.br (www.nagabrasivos.com.br)|192.185.215.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52988 (52K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 96% 1.92M 0s
+    50K .                                                     100% 28608G=0.2s
+
+2020-02-25 21:20:15 (1.99 Mb/s) - ‘/dev/null’ saved [52988/52988]
+
+--2020-02-25 21:20:15--  http://www.nagabrasivos.com.br/tabela_conversao.pdf%0D
+Resolving www.nagabrasivos.com.br (www.nagabrasivos.com.br)... 192.185.215.153
+Connecting to www.nagabrasivos.com.br (www.nagabrasivos.com.br)|192.185.215.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nagabrasivos.com.br/tabela_conversao.pdf [following]
+--2020-02-25 21:20:16--  https://www.nagabrasivos.com.br/tabela_conversao.pdf
+Connecting to www.nagabrasivos.com.br (www.nagabrasivos.com.br)|192.185.215.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52988 (52K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 96% 1.83M 0s
+    50K .                                                     100% 28608G=0.2s
+
+2020-02-25 21:20:17 (1.89 Mb/s) - ‘/dev/null’ saved [52988/52988]
+
+--2020-02-25 21:26:24--  http://www.nagabrasivos.com.br/tabela_conversao.pdf%0D
+Resolving www.nagabrasivos.com.br (www.nagabrasivos.com.br)... 192.185.215.153
+Connecting to www.nagabrasivos.com.br (www.nagabrasivos.com.br)|192.185.215.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nagabrasivos.com.br/tabela_conversao.pdf [following]
+--2020-02-25 21:26:25--  https://www.nagabrasivos.com.br/tabela_conversao.pdf
+Connecting to www.nagabrasivos.com.br (www.nagabrasivos.com.br)|192.185.215.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52988 (52K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 96% 1.84M 0s
+    50K .                                                     100% 28608G=0.2s
+
+2020-02-25 21:26:26 (1.90 Mb/s) - ‘/dev/null’ saved [52988/52988]
+
+--2020-02-25 21:26:26--  http://www.nagabrasivos.com.br/tabela_conversao.pdf%0D
+Resolving www.nagabrasivos.com.br (www.nagabrasivos.com.br)... 192.185.215.153
+Connecting to www.nagabrasivos.com.br (www.nagabrasivos.com.br)|192.185.215.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nagabrasivos.com.br/tabela_conversao.pdf [following]
+--2020-02-25 21:26:27--  https://www.nagabrasivos.com.br/tabela_conversao.pdf
+Connecting to www.nagabrasivos.com.br (www.nagabrasivos.com.br)|192.185.215.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52988 (52K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 96% 1.73M 0s
+    50K .                                                     100% 28608G=0.2s
+
+2020-02-25 21:26:28 (1.79 Mb/s) - ‘/dev/null’ saved [52988/52988]
+

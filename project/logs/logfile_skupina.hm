@@ -1,0 +1,10 @@
+--2020-02-25 22:43:38--  http://skupina.hm/download/RIDELIST_HM_2019-2.pdf%0D
+Resolving skupina.hm (skupina.hm)... 81.2.197.14
+Connecting to skupina.hm (skupina.hm)|81.2.197.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /404 [following]
+--2020-02-25 22:43:38--  http://skupina.hm/404
+Reusing existing connection to skupina.hm:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:43:38 ERROR 404: Not Found.
+

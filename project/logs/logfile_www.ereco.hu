@@ -1,0 +1,6 @@
+--2020-02-25 22:47:40--  http://www.ereco.hu/pdf/pricemisk.pdf%0D
+Resolving www.ereco.hu (www.ereco.hu)... 92.43.203.162
+Connecting to www.ereco.hu (www.ereco.hu)|92.43.203.162|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:47:40 ERROR 404: Not Found.
+

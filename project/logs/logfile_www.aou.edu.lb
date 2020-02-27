@@ -1,0 +1,12 @@
+--2020-02-25 23:21:20--  http://www.aou.edu.lb/OnlineServices/Documents/StudentAcademicInformation.pdf%0D
+Resolving www.aou.edu.lb (www.aou.edu.lb)... 213.175.172.195
+Connecting to www.aou.edu.lb (www.aou.edu.lb)|213.175.172.195|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:21:21 ERROR 400: Bad Request.
+
+--2020-02-25 23:21:21--  http://www.aou.edu.lb/OnlineServices/Preface/1127.pdf%0D
+Resolving www.aou.edu.lb (www.aou.edu.lb)... 213.175.172.195
+Connecting to www.aou.edu.lb (www.aou.edu.lb)|213.175.172.195|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:21:21 ERROR 400: Bad Request.
+

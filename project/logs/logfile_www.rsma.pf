@@ -1,0 +1,12 @@
+--2020-02-25 22:24:13--  https://www.rsma.pf/images/fichiers/PAM_2019_Guide_daccueil_du_personnel_arrivant_Version_du_30_jan_2019.pdf%0D
+Resolving www.rsma.pf (www.rsma.pf)... --2020-02-25 22:24:13--  https://www.rsma.pf/images/fichiers/PAM_2019_Guide_daccueil_du_personnel_arrivant_Version_du_30_jan_2019.pdf%0D
+Resolving www.rsma.pf (www.rsma.pf)... 91.121.39.47
+Connecting to www.rsma.pf (www.rsma.pf)|91.121.39.47|:443... 91.121.39.47
+Connecting to www.rsma.pf (www.rsma.pf)|91.121.39.47|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 22:24:14 ERROR 500: Internal Server Error.
+
+500 Internal Server Error
+2020-02-25 22:24:14 ERROR 500: Internal Server Error.
+

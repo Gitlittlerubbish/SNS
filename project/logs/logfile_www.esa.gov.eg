@@ -1,0 +1,12 @@
+--2020-02-25 22:11:56--  http://www.esa.gov.eg/files/laws/10.pdf%0D
+Resolving www.esa.gov.eg (www.esa.gov.eg)... 41.196.0.170
+Connecting to www.esa.gov.eg (www.esa.gov.eg)|41.196.0.170|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:56 ERROR 400: Bad Request.
+
+--2020-02-25 22:11:57--  http://www.esa.gov.eg/files/laws/10.pdf%0D
+Resolving www.esa.gov.eg (www.esa.gov.eg)... 41.196.0.170
+Connecting to www.esa.gov.eg (www.esa.gov.eg)|41.196.0.170|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:11:57 ERROR 400: Bad Request.
+

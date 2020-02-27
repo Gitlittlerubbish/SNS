@@ -1,0 +1,30 @@
+--2020-02-25 23:24:08--  http://wdc.li/6010D0mEQ%0D
+Resolving wdc.li (wdc.li)... 54.236.70.234, 107.23.241.98, 54.236.67.202, ...
+Connecting to wdc.li (wdc.li)|54.236.70.234|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /error?url=6010D0mEQ [following]
+--2020-02-25 23:24:08--  http://wdc.li/error?url=6010D0mEQ
+Reusing existing connection to wdc.li:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 223 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  533M=0s
+
+2020-02-25 23:24:09 (533 Mb/s) - ‘/dev/null’ saved [223/223]
+
+--2020-02-25 23:24:09--  http://wdc.li/6010D0mEQ%0D
+Resolving wdc.li (wdc.li)... 107.23.241.100, 107.23.223.185, 54.236.70.234, ...
+Connecting to wdc.li (wdc.li)|107.23.241.100|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /error?url=6010D0mEQ [following]
+--2020-02-25 23:24:09--  http://wdc.li/error?url=6010D0mEQ
+Reusing existing connection to wdc.li:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 223 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  474M=0s
+
+2020-02-25 23:24:09 (474 Mb/s) - ‘/dev/null’ saved [223/223]
+

@@ -1,0 +1,12 @@
+--2020-02-26 00:28:32--  https://sls.ncsl.com.pg/MemberAPI/DownloadMemberTermsAndConditions%0D
+Resolving sls.ncsl.com.pg (sls.ncsl.com.pg)... 124.240.203.46
+Connecting to sls.ncsl.com.pg (sls.ncsl.com.pg)|124.240.203.46|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:28:35 ERROR 400: Bad Request.
+
+--2020-02-26 00:30:56--  https://sls.ncsl.com.pg/MemberAPI/DownloadMemberTermsAndConditions%0D
+Resolving sls.ncsl.com.pg (sls.ncsl.com.pg)... 124.240.203.46
+Connecting to sls.ncsl.com.pg (sls.ncsl.com.pg)|124.240.203.46|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:30:58 ERROR 400: Bad Request.
+

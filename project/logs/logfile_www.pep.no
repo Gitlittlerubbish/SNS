@@ -1,0 +1,10 @@
+--2020-02-26 00:22:26--  http://www.pep.no/files/fagartikler/Mer_proaktiv_planlegging.pdf%0D
+Resolving www.pep.no (www.pep.no)... 213.162.240.29
+Connecting to www.pep.no (www.pep.no)|213.162.240.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pep.no/files/fagartikler/Mer_proaktiv_planlegging.pdf%0D [following]
+--2020-02-26 00:22:27--  https://www.pep.no/files/fagartikler/Mer_proaktiv_planlegging.pdf%0D
+Connecting to www.pep.no (www.pep.no)|213.162.240.29|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:22:27 ERROR 404: Not Found.
+

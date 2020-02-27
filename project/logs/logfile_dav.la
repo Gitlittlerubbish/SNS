@@ -1,0 +1,6 @@
+--2020-02-25 23:18:34--  http://dav.la/32%0D
+Resolving dav.la (dav.la)... 159.203.77.193
+Connecting to dav.la (dav.la)|159.203.77.193|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:18:34 ERROR 404: Not Found.
+

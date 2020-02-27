@@ -1,0 +1,9 @@
+--2020-02-25 21:00:50--  http://halal.az/files/uploads/137.pdf%0D
+Resolving halal.az (halal.az)... failed: Connection timed out.
+wget: unable to resolve host address ‘halal.az’
+--2020-02-25 21:12:34--  http://halal.az/files/uploads/137.pdf%0D
+Resolving halal.az (halal.az)... 192.185.11.47
+Connecting to halal.az (halal.az)|192.185.11.47|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:12:35 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:24:39--  http://www.vcl.li/bilder/449.pdf%0D
+Resolving www.vcl.li (www.vcl.li)... 80.74.142.70
+Connecting to www.vcl.li (www.vcl.li)|80.74.142.70|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:24:40 ERROR 404: Not Found.
+

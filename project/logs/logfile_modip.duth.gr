@@ -1,0 +1,12 @@
+--2020-02-25 22:35:25--  http://modip.duth.gr/thesmiko/Handbook.pdf%0D
+Resolving modip.duth.gr (modip.duth.gr)... --2020-02-25 22:35:25--  http://modip.duth.gr/thesmiko/Handbook.pdf%0D
+Resolving modip.duth.gr (modip.duth.gr)... 83.212.146.17
+Connecting to modip.duth.gr (modip.duth.gr)|83.212.146.17|:80... 83.212.146.17
+Connecting to modip.duth.gr (modip.duth.gr)|83.212.146.17|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:35:25 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:35:25 ERROR 404: Not Found.
+

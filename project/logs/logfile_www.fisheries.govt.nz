@@ -1,0 +1,6 @@
+--2020-02-26 00:12:01--  https://www.fisheries.govt.nz/dmsdocument/18581/direct%0D
+Resolving www.fisheries.govt.nz (www.fisheries.govt.nz)... 149.126.74.173
+Connecting to www.fisheries.govt.nz (www.fisheries.govt.nz)|149.126.74.173|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-26 00:12:01 ERROR 403: Forbidden.
+

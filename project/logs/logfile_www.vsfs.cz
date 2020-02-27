@@ -1,0 +1,12 @@
+--2020-02-25 22:05:31--  https://www.vsfs.cz/pruvodce.pdf%0D
+Resolving www.vsfs.cz (www.vsfs.cz)... 81.2.195.60
+Connecting to www.vsfs.cz (www.vsfs.cz)|81.2.195.60|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:05:32 ERROR 400: Bad Request.
+
+--2020-02-25 22:05:32--  https://www.vsfs.cz/pruvodce.pdf%0D
+Resolving www.vsfs.cz (www.vsfs.cz)... 81.2.195.60
+Connecting to www.vsfs.cz (www.vsfs.cz)|81.2.195.60|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:05:32 ERROR 400: Bad Request.
+

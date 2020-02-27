@@ -1,0 +1,20 @@
+--2020-02-25 23:24:31--  http://www.zub.li/pdf/10_TechnicalReference.pdf%0D
+Resolving www.zub.li (www.zub.li)... 78.46.81.37
+Connecting to www.zub.li (www.zub.li)|78.46.81.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /zub/pdf/10_TechnicalReference.pdf%0D [following]
+--2020-02-25 23:24:31--  http://www.zub.li/zub/pdf/10_TechnicalReference.pdf%0D
+Connecting to www.zub.li (www.zub.li)|78.46.81.37|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:24:32 ERROR 404: Not Found.
+
+--2020-02-25 23:24:32--  http://www.zub.li/pdf/10_TechnicalReference.pdf%0D
+Resolving www.zub.li (www.zub.li)... 78.46.81.37
+Connecting to www.zub.li (www.zub.li)|78.46.81.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /zub/pdf/10_TechnicalReference.pdf%0D [following]
+--2020-02-25 23:24:32--  http://www.zub.li/zub/pdf/10_TechnicalReference.pdf%0D
+Connecting to www.zub.li (www.zub.li)|78.46.81.37|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:24:32 ERROR 404: Not Found.
+

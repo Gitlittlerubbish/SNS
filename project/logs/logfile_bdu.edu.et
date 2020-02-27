@@ -1,0 +1,12 @@
+--2020-02-25 22:17:39--  https://bdu.edu.et/node/61/attachment%0D
+Resolving bdu.edu.et (bdu.edu.et)... --2020-02-25 22:17:39--  https://bdu.edu.et/node/61/attachment%0D
+Resolving bdu.edu.et (bdu.edu.et)... 213.55.102.54
+Connecting to bdu.edu.et (bdu.edu.et)|213.55.102.54|:443... 213.55.102.54
+Connecting to bdu.edu.et (bdu.edu.et)|213.55.102.54|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:17:40 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:17:40 ERROR 400: Bad Request.
+

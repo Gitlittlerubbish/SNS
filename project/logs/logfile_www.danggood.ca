@@ -1,0 +1,28 @@
+--2020-02-25 21:36:25--  http://www.danggood.ca/menu.pdf%0D
+Resolving www.danggood.ca (www.danggood.ca)... 107.180.25.155
+Connecting to www.danggood.ca (www.danggood.ca)|107.180.25.155|:80... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:38:12--  http://www.danggood.ca/menu.pdf%0D
+Resolving www.danggood.ca (www.danggood.ca)... 107.180.25.155
+Connecting to www.danggood.ca (www.danggood.ca)|107.180.25.155|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                     33.0M=0.001s
+
+2020-02-25 21:38:13 (33.0 Mb/s) - ‘/dev/null’ saved [2523]
+
+--2020-02-25 21:38:13--  http://www.danggood.ca/menu.pdf%0D
+Resolving www.danggood.ca (www.danggood.ca)... 107.180.25.155
+Connecting to www.danggood.ca (www.danggood.ca)|107.180.25.155|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                     59.1M=0s
+
+2020-02-25 21:38:13 (59.1 Mb/s) - ‘/dev/null’ saved [2523]
+

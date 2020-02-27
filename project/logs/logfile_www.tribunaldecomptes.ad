@@ -1,0 +1,6 @@
+--2020-02-25 21:00:38--  https://www.tribunaldecomptes.ad/descarregar%3Fid%3D108%0D
+Resolving www.tribunaldecomptes.ad (www.tribunaldecomptes.ad)... 194.158.80.39
+Connecting to www.tribunaldecomptes.ad (www.tribunaldecomptes.ad)|194.158.80.39|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:00:38 ERROR 400: Bad Request.
+

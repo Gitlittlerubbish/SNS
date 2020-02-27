@@ -1,0 +1,12 @@
+--2020-02-25 22:17:01--  https://www.eoy.ee/img/Lindude_r2nne.pdf%0D
+Resolving www.eoy.ee (www.eoy.ee)... 217.146.69.38
+Connecting to www.eoy.ee (www.eoy.ee)|217.146.69.38|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:01 ERROR 404: Not Found.
+
+--2020-02-25 22:17:05--  https://www.eoy.ee/img/Lindude_r2nne.pdf%0D
+Resolving www.eoy.ee (www.eoy.ee)... 217.146.69.38
+Connecting to www.eoy.ee (www.eoy.ee)|217.146.69.38|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:17:05 ERROR 404: Not Found.
+

@@ -1,0 +1,60 @@
+--2020-02-25 21:04:09--  http://www.bip.org.bd/SharingFiles/201309081343231.pdf%0D
+Resolving www.bip.org.bd (www.bip.org.bd)... 162.241.24.41
+Connecting to www.bip.org.bd (www.bip.org.bd)|162.241.24.41|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.bip.org.bd/site/login [following]
+--2020-02-25 21:04:10--  http://www.bip.org.bd/site/login
+Reusing existing connection to www.bip.org.bd:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..                    2.27M=0.1s
+
+2020-02-25 21:04:10 (2.27 Mb/s) - ‘/dev/null’ saved [33226]
+
+--2020-02-25 21:04:10--  http://www.bip.org.bd/SharingFiles/201309081343231.pdf%0D
+Resolving www.bip.org.bd (www.bip.org.bd)... 162.241.24.41
+Connecting to www.bip.org.bd (www.bip.org.bd)|162.241.24.41|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.bip.org.bd/site/login [following]
+--2020-02-25 21:04:11--  http://www.bip.org.bd/site/login
+Reusing existing connection to www.bip.org.bd:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..                    2.18M=0.1s
+
+2020-02-25 21:04:12 (2.18 Mb/s) - ‘/dev/null’ saved [33226]
+
+--2020-02-25 21:15:01--  http://www.bip.org.bd/SharingFiles/201309081343231.pdf%0D
+Resolving www.bip.org.bd (www.bip.org.bd)... 162.241.24.41
+Connecting to www.bip.org.bd (www.bip.org.bd)|162.241.24.41|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.bip.org.bd/site/login [following]
+--2020-02-25 21:15:02--  http://www.bip.org.bd/site/login
+Reusing existing connection to www.bip.org.bd:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..                    2.35M=0.1s
+
+2020-02-25 21:15:02 (2.35 Mb/s) - ‘/dev/null’ saved [33226]
+
+--2020-02-25 21:15:02--  http://www.bip.org.bd/SharingFiles/201309081343231.pdf%0D
+Resolving www.bip.org.bd (www.bip.org.bd)... 162.241.24.41
+Connecting to www.bip.org.bd (www.bip.org.bd)|162.241.24.41|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.bip.org.bd/site/login [following]
+--2020-02-25 21:15:03--  http://www.bip.org.bd/site/login
+Reusing existing connection to www.bip.org.bd:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..                    2.35M=0.1s
+
+2020-02-25 21:15:04 (2.35 Mb/s) - ‘/dev/null’ saved [33226]
+

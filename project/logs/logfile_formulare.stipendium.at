@@ -1,0 +1,12 @@
+--2020-02-25 20:59:36--  https://formulare.stipendium.at/sb1_hilfe.pdf%0D
+Resolving formulare.stipendium.at (formulare.stipendium.at)... 94.247.144.129
+Connecting to formulare.stipendium.at (formulare.stipendium.at)|94.247.144.129|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:59:36 ERROR 404: Not Found.
+
+--2020-02-25 21:11:43--  https://formulare.stipendium.at/sb1_hilfe.pdf%0D
+Resolving formulare.stipendium.at (formulare.stipendium.at)... 94.247.144.129
+Connecting to formulare.stipendium.at (formulare.stipendium.at)|94.247.144.129|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:11:43 ERROR 404: Not Found.
+

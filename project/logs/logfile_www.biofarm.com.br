@@ -1,0 +1,80 @@
+--2020-02-25 21:21:34--  http://www.biofarm.com.br/Bulas/BIO020038.pdf%0D
+Resolving www.biofarm.com.br (www.biofarm.com.br)... 108.179.252.32
+Connecting to www.biofarm.com.br (www.biofarm.com.br)|108.179.252.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://biofarm.com.br/Bulas/BIO020038.pdf [following]
+--2020-02-25 21:21:35--  http://biofarm.com.br/Bulas/BIO020038.pdf
+Resolving biofarm.com.br (biofarm.com.br)... 108.179.252.32
+Reusing existing connection to www.biofarm.com.br:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 247122 (241K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.87M 1s
+    50K .......... .......... .......... .......... .......... 41% 3.75M 0s
+   100K .......... .......... .......... .......... .......... 62% 11.7G 0s
+   150K .......... .......... .......... .......... .......... 82% 14.9G 0s
+   200K .......... .......... .......... .......... .         100% 3.14M=0.4s
+
+2020-02-25 21:21:35 (4.53 Mb/s) - ‘/dev/null’ saved [247122/247122]
+
+--2020-02-25 21:21:35--  http://www.biofarm.com.br/Bulas/BIO020038.pdf%0D
+Resolving www.biofarm.com.br (www.biofarm.com.br)... 108.179.252.32
+Connecting to www.biofarm.com.br (www.biofarm.com.br)|108.179.252.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://biofarm.com.br/Bulas/BIO020038.pdf [following]
+--2020-02-25 21:21:36--  http://biofarm.com.br/Bulas/BIO020038.pdf
+Resolving biofarm.com.br (biofarm.com.br)... 108.179.252.32
+Reusing existing connection to www.biofarm.com.br:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 247122 (241K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.87M 1s
+    50K .......... .......... .......... .......... .......... 41% 3.68M 0s
+   100K .......... .......... .......... .......... .......... 62% 1.68G 0s
+   150K .......... .......... .......... .......... .......... 82% 3.64M 0s
+   200K .......... .......... .......... .......... .         100% 8.03G=0.4s
+
+2020-02-25 21:21:37 (4.46 Mb/s) - ‘/dev/null’ saved [247122/247122]
+
+--2020-02-25 21:27:16--  http://www.biofarm.com.br/Bulas/BIO020038.pdf%0D
+Resolving www.biofarm.com.br (www.biofarm.com.br)... 108.179.252.32
+Connecting to www.biofarm.com.br (www.biofarm.com.br)|108.179.252.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://biofarm.com.br/Bulas/BIO020038.pdf [following]
+--2020-02-25 21:27:17--  http://biofarm.com.br/Bulas/BIO020038.pdf
+Resolving biofarm.com.br (biofarm.com.br)... 108.179.252.32
+Reusing existing connection to www.biofarm.com.br:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 247122 (241K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.84M 1s
+    50K .......... .......... .......... .......... .......... 41% 3.67M 0s
+   100K .......... .......... .......... .......... .......... 62% 10.3G 0s
+   150K .......... .......... .......... .......... .......... 82% 14.8G 0s
+   200K .......... .......... .......... .......... .         100% 3.06M=0.4s
+
+2020-02-25 21:27:17 (4.45 Mb/s) - ‘/dev/null’ saved [247122/247122]
+
+--2020-02-25 21:27:17--  http://www.biofarm.com.br/Bulas/BIO020038.pdf%0D
+Resolving www.biofarm.com.br (www.biofarm.com.br)... 108.179.252.32
+Connecting to www.biofarm.com.br (www.biofarm.com.br)|108.179.252.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://biofarm.com.br/Bulas/BIO020038.pdf [following]
+--2020-02-25 21:27:18--  http://biofarm.com.br/Bulas/BIO020038.pdf
+Resolving biofarm.com.br (biofarm.com.br)... 108.179.252.32
+Reusing existing connection to www.biofarm.com.br:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 247122 (241K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.87M 1s
+    50K .......... .......... .......... .......... .......... 41% 3.83M 0s
+   100K .......... .......... .......... .......... .......... 62% 5.99G 0s
+   150K .......... .......... .......... .......... .......... 82% 9.17G 0s
+   200K .......... .......... .......... .......... .         100% 3.20M=0.4s
+
+2020-02-25 21:27:19 (4.58 Mb/s) - ‘/dev/null’ saved [247122/247122]
+

@@ -1,0 +1,10 @@
+--2020-02-25 23:49:16--  http://877.fm/tablePrint.php%0D
+Resolving 877.fm (877.fm)... 219.94.128.49
+Connecting to 877.fm (877.fm)|219.94.128.49|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://877.fm/tablePrint.php%0d [following]
+--2020-02-25 23:49:17--  https://877.fm/tablePrint.php%0d
+Connecting to 877.fm (877.fm)|219.94.128.49|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:49:18 ERROR 404: Not Found.
+

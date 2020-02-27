@@ -1,0 +1,12 @@
+--2020-02-25 22:00:04--  https://lanawa.ci/pdf/ayoka-10.pdf%0D
+Resolving lanawa.ci (lanawa.ci)... 51.15.160.148
+Connecting to lanawa.ci (lanawa.ci)|51.15.160.148|:443... --2020-02-25 22:00:04--  https://lanawa.ci/pdf/ayoka-10.pdf%0D
+connected.
+Resolving lanawa.ci (lanawa.ci)... 51.15.160.148
+Connecting to lanawa.ci (lanawa.ci)|51.15.160.148|:443... connected.
+ERROR: cannot verify lanawa.ci's certificate, issued by ‘CN=RapidSSL RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Issued certificate has expired.
+To connect to lanawa.ci insecurely, use `--no-check-certificate'.
+ERROR: cannot verify lanawa.ci's certificate, issued by ‘CN=RapidSSL RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
+  Issued certificate has expired.
+To connect to lanawa.ci insecurely, use `--no-check-certificate'.

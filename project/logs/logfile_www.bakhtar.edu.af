@@ -1,10 +1,6 @@
---2020-02-25 14:30:44--  http://www.bakhtar.edu.af/Prospectus_Files/Law%2520Letrature.pdf
-Resolving www.bakhtar.edu.af (www.bakhtar.edu.af)... 104.31.68.23, 104.31.69.23
-Connecting to www.bakhtar.edu.af (www.bakhtar.edu.af)|104.31.68.23|:80... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://www.bakhtar.edu.af/Prospectus_Files/Law%2520Letrature.pdf [following]
---2020-02-25 14:30:44--  https://www.bakhtar.edu.af/Prospectus_Files/Law%2520Letrature.pdf
-Connecting to www.bakhtar.edu.af (www.bakhtar.edu.af)|104.31.68.23|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 14:30:45 ERROR 404: Not Found.
+--2020-02-25 20:54:04--  https://www.bakhtar.edu.af/Faculty_CV/ytyty.pdf%0D
+Resolving www.bakhtar.edu.af (www.bakhtar.edu.af)... 104.31.69.23, 104.31.68.23
+Connecting to www.bakhtar.edu.af (www.bakhtar.edu.af)|104.31.69.23|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:54:04 ERROR 400: Bad Request.
 

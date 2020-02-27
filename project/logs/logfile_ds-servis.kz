@@ -1,0 +1,10 @@
+--2020-02-25 23:06:54--  http://ds-servis.kz/docs/1431/%0D
+Resolving ds-servis.kz (ds-servis.kz)... 91.215.136.27
+Connecting to ds-servis.kz (ds-servis.kz)|91.215.136.27|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://ds-servis.kz/404/ [following]
+--2020-02-25 23:06:54--  http://ds-servis.kz/404/
+Reusing existing connection to ds-servis.kz:80.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 23:06:55 ERROR 403: Forbidden.
+

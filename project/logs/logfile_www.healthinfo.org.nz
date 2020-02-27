@@ -1,0 +1,6 @@
+--2020-02-26 00:11:52--  https://www.healthinfo.org.nz/patientinfo/110997.pdf%0D
+Resolving www.healthinfo.org.nz (www.healthinfo.org.nz)... 202.124.113.88
+Connecting to www.healthinfo.org.nz (www.healthinfo.org.nz)|202.124.113.88|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:11:54 ERROR 400: Bad Request.
+

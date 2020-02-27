@@ -1,0 +1,12 @@
+--2020-02-25 21:15:07--  http://www.bhutanpost.bt/wp-content/uploads/2017/documents/amazondocument.pdf%0D
+Resolving www.bhutanpost.bt (www.bhutanpost.bt)... 202.144.128.216
+Connecting to www.bhutanpost.bt (www.bhutanpost.bt)|202.144.128.216|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:09 ERROR 404: Not Found.
+
+--2020-02-25 21:22:48--  http://www.bhutanpost.bt/wp-content/uploads/2017/documents/amazondocument.pdf%0D
+Resolving www.bhutanpost.bt (www.bhutanpost.bt)... 202.144.128.216
+Connecting to www.bhutanpost.bt (www.bhutanpost.bt)|202.144.128.216|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:22:49 ERROR 404: Not Found.
+

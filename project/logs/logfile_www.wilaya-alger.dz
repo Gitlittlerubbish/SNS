@@ -1,28 +1,22 @@
---2020-02-25 15:31:38--  http://www.wilaya-alger.dz/ONML.pdf
+--2020-02-25 20:55:52--  http://www.wilaya-alger.dz/ONML.pdf%0D
 Resolving www.wilaya-alger.dz (www.wilaya-alger.dz)... 197.112.0.111
 Connecting to www.wilaya-alger.dz (www.wilaya-alger.dz)|197.112.0.111|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 191011 (187K) [application/pdf]
+Length: 247 [text/html]
 Saving to: ‘/dev/null’
 
-     0K .......... .......... .......... .......... .......... 26% 10.7M 0s
-    50K .......... .......... .......... .......... .......... 53% 4.91M 0s
-   100K .......... .......... .......... .......... .......... 80% 6.24M 0s
-   150K .......... .......... .......... ......               100% 4.22M=0.3s
+     0K                                                       100%  564M=0s
 
-2020-02-25 15:31:38 (5.92 Mb/s) - ‘/dev/null’ saved [191011/191011]
+2020-02-25 20:55:52 (564 Mb/s) - ‘/dev/null’ saved [247/247]
 
---2020-02-25 15:31:38--  http://www.wilaya-alger.dz/ONML.pdf
+--2020-02-25 20:55:52--  http://www.wilaya-alger.dz/ONML.pdf%0D
 Resolving www.wilaya-alger.dz (www.wilaya-alger.dz)... 197.112.0.111
 Connecting to www.wilaya-alger.dz (www.wilaya-alger.dz)|197.112.0.111|:80... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 191011 (187K) [application/pdf]
+Length: 247 [text/html]
 Saving to: ‘/dev/null’
 
-     0K .......... .......... .......... .......... .......... 26% 6.06M 0s
-    50K .......... .......... .......... .......... .......... 53% 8.19M 0s
-   100K .......... .......... .......... .......... .......... 80% 7.95M 0s
-   150K .......... .......... .......... ......               100% 7.49M=0.2s
+     0K                                                       100%  249M=0s
 
-2020-02-25 15:31:39 (7.31 Mb/s) - ‘/dev/null’ saved [191011/191011]
+2020-02-25 20:55:52 (249 Mb/s) - ‘/dev/null’ saved [247/247]
 

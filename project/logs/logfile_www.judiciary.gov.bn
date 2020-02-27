@@ -1,0 +1,12 @@
+--2020-02-25 21:26:42--  http://www.judiciary.gov.bn/SJD%2520Images/Bankruptcy%2520leaflet.pdf%0D
+Resolving www.judiciary.gov.bn (www.judiciary.gov.bn)... 103.4.188.86
+Connecting to www.judiciary.gov.bn (www.judiciary.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:43 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:55--  http://www.judiciary.gov.bn/SJD%2520Images/Bankruptcy%2520leaflet.pdf%0D
+Resolving www.judiciary.gov.bn (www.judiciary.gov.bn)... 103.4.188.86
+Connecting to www.judiciary.gov.bn (www.judiciary.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:55 ERROR 400: Bad Request.
+

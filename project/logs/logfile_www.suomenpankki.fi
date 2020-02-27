@@ -1,0 +1,12 @@
+--2020-02-25 22:22:24--  https://www.suomenpankki.fi/link/3fdc87046a6e4ec980cd6f036ff9a7cb.aspx%0D
+Resolving www.suomenpankki.fi (www.suomenpankki.fi)... 80.248.168.81
+Connecting to www.suomenpankki.fi (www.suomenpankki.fi)|80.248.168.81|:443... --2020-02-25 22:22:24--  https://www.suomenpankki.fi/link/3fdc87046a6e4ec980cd6f036ff9a7cb.aspx%0D
+Resolving www.suomenpankki.fi (www.suomenpankki.fi)... 80.248.168.81
+Connecting to www.suomenpankki.fi (www.suomenpankki.fi)|80.248.168.81|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:22:25 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:22:25 ERROR 400: Bad Request.
+

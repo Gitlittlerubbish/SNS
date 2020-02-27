@@ -1,0 +1,47 @@
+--2020-02-26 00:11:17--  http://www.waikato.ac.nz/go/tsf%0D
+Resolving www.waikato.ac.nz (www.waikato.ac.nz)... 130.217.226.80
+Connecting to www.waikato.ac.nz (www.waikato.ac.nz)|130.217.226.80|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.waikato.ac.nz/go/tsf%0d [following]
+--2020-02-26 00:11:18--  https://www.waikato.ac.nz/go/tsf%0d
+Connecting to www.waikato.ac.nz (www.waikato.ac.nz)|130.217.226.80|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.waikato.ac.nz/__matrix-data/assets/pdf_file/0020/74018/4885-FEDU-Teacher-Education-Supplementary-Form-FINAL-Full-Version.pdf [following]
+--2020-02-26 00:11:19--  https://www.waikato.ac.nz/__matrix-data/assets/pdf_file/0020/74018/4885-FEDU-Teacher-Education-Supplementary-Form-FINAL-Full-Version.pdf
+Reusing existing connection to www.waikato.ac.nz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 325058 (317K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  510K 4s
+    50K .......... .......... .......... .......... .......... 31%  766K 3s
+   100K .......... .......... .......... .......... .......... 47% 1.53M 2s
+   150K .......... .......... .......... .......... .......... 63% 1.53M 1s
+   200K .......... .......... .......... .......... .......... 78% 1.53M 1s
+   250K .......... .......... .......... .......... .......... 94% 1.53M 0s
+   300K .......... .......                                    100% 1.23G=2.4s
+
+2020-02-26 00:11:22 (1.08 Mb/s) - ‘/dev/null’ saved [325058/325058]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-26 00:11:22--  https://www.waikato.ac.nz/go/tsf%0D
+Resolving www.waikato.ac.nz (www.waikato.ac.nz)... 130.217.226.80
+Connecting to www.waikato.ac.nz (www.waikato.ac.nz)|130.217.226.80|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.waikato.ac.nz/__matrix-data/assets/pdf_file/0020/74018/4885-FEDU-Teacher-Education-Supplementary-Form-FINAL-Full-Version.pdf [following]
+--2020-02-26 00:11:23--  https://www.waikato.ac.nz/__matrix-data/assets/pdf_file/0020/74018/4885-FEDU-Teacher-Education-Supplementary-Form-FINAL-Full-Version.pdf
+Reusing existing connection to www.waikato.ac.nz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 325058 (317K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  510K 4s
+    50K .......... .......... .......... .......... .......... 31%  764K 3s
+   100K .......... .......... .......... .......... .......... 47% 1.53M 2s
+   150K .......... .......... .......... .......... .......... 63% 1.53M 1s
+   200K .......... .......... .......... .......... .......... 78% 1.53M 1s
+   250K .......... .......... .......... .......... .......... 94% 1.53M 0s
+   300K .......... .......                                    100% 6.05G=2.4s
+
+2020-02-26 00:11:26 (1.08 Mb/s) - ‘/dev/null’ saved [325058/325058]
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:47:53--  http://www.fits.cx/doc/shoukokin202002_1.pdf%0D
+Resolving www.fits.cx (www.fits.cx)... --2020-02-25 21:47:53--  http://www.fits.cx/doc/shoukokin202002_1.pdf%0D
+Resolving www.fits.cx (www.fits.cx)... 150.60.190.67
+Connecting to www.fits.cx (www.fits.cx)|150.60.190.67|:80... 150.60.190.67
+Connecting to www.fits.cx (www.fits.cx)|150.60.190.67|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:47:53 ERROR 403: Forbidden.
+
+403 Forbidden
+2020-02-25 21:47:53 ERROR 403: Forbidden.
+

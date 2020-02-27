@@ -1,0 +1,12 @@
+--2020-02-25 22:38:50--  http://www.pinkladies.org.gg/clientpics/My-Biggest-Challenge.pdf%0D
+Resolving www.pinkladies.org.gg (www.pinkladies.org.gg)... --2020-02-25 22:38:50--  http://www.pinkladies.org.gg/clientpics/My-Biggest-Challenge.pdf%0D
+Resolving www.pinkladies.org.gg (www.pinkladies.org.gg)... 88.208.252.155
+Connecting to www.pinkladies.org.gg (www.pinkladies.org.gg)|88.208.252.155|:80... 88.208.252.155
+Connecting to www.pinkladies.org.gg (www.pinkladies.org.gg)|88.208.252.155|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:38:50 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:38:50 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:04:12--  https://dgda.gov.bd/images/Draft_Animal_Vaccine_Guidelines.pdf%0D
+Resolving dgda.gov.bd (dgda.gov.bd)... 69.39.239.111
+Connecting to dgda.gov.bd (dgda.gov.bd)|69.39.239.111|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:04:13 ERROR 404: Not Found.
+
+--2020-02-25 21:15:04--  https://dgda.gov.bd/images/Draft_Animal_Vaccine_Guidelines.pdf%0D
+Resolving dgda.gov.bd (dgda.gov.bd)... 69.39.239.111
+Connecting to dgda.gov.bd (dgda.gov.bd)|69.39.239.111|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:06 ERROR 404: Not Found.
+

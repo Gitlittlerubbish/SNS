@@ -1,0 +1,6 @@
+--2020-02-25 22:52:40--  http://cpns.polri.go.id/download/pengumuman.pdf%0D
+Resolving cpns.polri.go.id (cpns.polri.go.id)... 120.29.228.80
+Connecting to cpns.polri.go.id (cpns.polri.go.id)|120.29.228.80|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:52:42 ERROR 404: Not Found.
+

@@ -1,0 +1,30 @@
+--2020-02-25 21:59:41--  http://www.entretienroutier.gouv.ci/situation.pdf%0D
+Resolving www.entretienroutier.gouv.ci (www.entretienroutier.gouv.ci)... 164.160.41.77
+Connecting to www.entretienroutier.gouv.ci (www.entretienroutier.gouv.ci)|164.160.41.77|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 21:59:41--  http://secure.sndi.ci/Interdit.xml
+Resolving secure.sndi.ci (secure.sndi.ci)... 164.160.41.79
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 21:59:41--  https://secure.sndi.ci/Interdit.xml
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 21:59:43--  http://www.entretienroutier.gouv.ci/situation.pdf%0D
+Resolving www.entretienroutier.gouv.ci (www.entretienroutier.gouv.ci)... 164.160.41.77
+Connecting to www.entretienroutier.gouv.ci (www.entretienroutier.gouv.ci)|164.160.41.77|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 21:59:43--  http://secure.sndi.ci/Interdit.xml
+Resolving secure.sndi.ci (secure.sndi.ci)... 164.160.41.79
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://secure.sndi.ci/Interdit.xml [following]
+--2020-02-25 21:59:43--  https://secure.sndi.ci/Interdit.xml
+Connecting to secure.sndi.ci (secure.sndi.ci)|164.160.41.79|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+Read error (Connection timed out) in headers.
+Giving up.
+

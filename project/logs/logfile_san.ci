@@ -1,0 +1,12 @@
+--2020-02-25 22:00:10--  https://san.ci/download/file%3Fcid%3D708%0D
+Resolving san.ci (san.ci)... --2020-02-25 22:00:10--  https://san.ci/download/file%3Fcid%3D708%0D
+Resolving san.ci (san.ci)... 104.128.229.233
+Connecting to san.ci (san.ci)|104.128.229.233|:443... 104.128.229.233
+Connecting to san.ci (san.ci)|104.128.229.233|:443... connected.
+connected.
+ERROR: cannot verify san.ci's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Issued certificate has expired.
+To connect to san.ci insecurely, use `--no-check-certificate'.
+ERROR: cannot verify san.ci's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
+  Issued certificate has expired.
+To connect to san.ci insecurely, use `--no-check-certificate'.

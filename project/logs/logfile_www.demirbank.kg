@@ -1,0 +1,14 @@
+--2020-02-25 23:18:11--  http://www.demirbank.kg/uploads/pages/instructions-ad3cc99e18.pdf%0D
+Resolving www.demirbank.kg (www.demirbank.kg)... 93.171.215.67
+Connecting to www.demirbank.kg (www.demirbank.kg)|93.171.215.67|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.demirbank.kg/uploads/pages/instructions-ad3cc99e18.pdf%0d [following]
+--2020-02-25 23:18:12--  https://www.demirbank.kg/uploads/pages/instructions-ad3cc99e18.pdf%0d
+Connecting to www.demirbank.kg (www.demirbank.kg)|93.171.215.67|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.demirbank.kg/ky/uploads/pages/instructions-ad3cc99e18.pdf [following]
+--2020-02-25 23:18:12--  https://www.demirbank.kg/ky/uploads/pages/instructions-ad3cc99e18.pdf
+Reusing existing connection to www.demirbank.kg:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:18:13 ERROR 404: Not Found.
+

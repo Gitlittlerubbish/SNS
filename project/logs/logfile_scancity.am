@@ -1,0 +1,20 @@
+--2020-02-25 20:53:43--  http://scancity.am/images/pdf/Motorola_LS2208_Quick_guide_RU.pdf%0D
+Resolving scancity.am (scancity.am)... 5.101.152.59
+Connecting to scancity.am (scancity.am)|5.101.152.59|:80... connected.
+HTTP request sent, awaiting response... 303 See other
+Location: http://scancity.am/am/images/pdf/Motorola_LS2208_Quick_guide_RU.pdf [following]
+--2020-02-25 20:53:43--  http://scancity.am/am/images/pdf/Motorola_LS2208_Quick_guide_RU.pdf
+Reusing existing connection to scancity.am:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 20:53:43 ERROR 404: Not Found.
+
+--2020-02-25 21:06:56--  http://scancity.am/images/pdf/Motorola_LS2208_Quick_guide_RU.pdf%0D
+Resolving scancity.am (scancity.am)... 5.101.152.59
+Connecting to scancity.am (scancity.am)|5.101.152.59|:80... connected.
+HTTP request sent, awaiting response... 303 See other
+Location: http://scancity.am/am/images/pdf/Motorola_LS2208_Quick_guide_RU.pdf [following]
+--2020-02-25 21:06:56--  http://scancity.am/am/images/pdf/Motorola_LS2208_Quick_guide_RU.pdf
+Reusing existing connection to scancity.am:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:06:57 ERROR 404: Not Found.
+

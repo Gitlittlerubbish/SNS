@@ -1,0 +1,12 @@
+--2020-02-25 22:31:06--  http://gias.ge/images/article_images/article_image_2019518_103930.pdf%0D
+Resolving gias.ge (gias.ge)... --2020-02-25 22:31:07--  http://gias.ge/images/article_images/article_image_2019518_103930.pdf%0D
+Resolving gias.ge (gias.ge)... 88.99.72.71
+Connecting to gias.ge (gias.ge)|88.99.72.71|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:31:07 ERROR 400: Bad Request.
+
+88.99.72.71
+Connecting to gias.ge (gias.ge)|88.99.72.71|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:31:07 ERROR 400: Bad Request.
+

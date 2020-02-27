@@ -1,0 +1,74 @@
+--2020-02-25 21:19:05--  https://www.stanbicbank.co.bw/standimg/SBG/FaceLift/Balance_Transfer_terms_and_conditions_FINAL.pdf%0D
+Resolving www.stanbicbank.co.bw (www.stanbicbank.co.bw)... 104.16.28.40, 104.16.29.40
+Connecting to www.stanbicbank.co.bw (www.stanbicbank.co.bw)|104.16.28.40|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page [following]
+--2020-02-25 21:19:07--  https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page
+Reusing existing connection to www.stanbicbank.co.bw:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.46M
+    50K .......... .......... .......... .......... .......... 2.13G
+   100K .......... .......... .......... ........              1.91M=0.3s
+
+2020-02-25 21:19:08 (3.41 Mb/s) - ‘/dev/null’ saved [141982]
+
+--2020-02-25 21:19:08--  https://www.stanbicbank.co.bw/standimg/SBG/FaceLift/Balance_Transfer_terms_and_conditions_FINAL.pdf%0D
+Resolving www.stanbicbank.co.bw (www.stanbicbank.co.bw)... 104.16.29.40, 104.16.28.40
+Connecting to www.stanbicbank.co.bw (www.stanbicbank.co.bw)|104.16.29.40|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page [following]
+--2020-02-25 21:19:09--  https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page
+Reusing existing connection to www.stanbicbank.co.bw:443.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:19:12--  https://www.stanbicbank.co.bw/standimg/NigeriaPensionManagers/fileDownloads/Locations.pdf%0D
+Resolving www.stanbicbank.co.bw (www.stanbicbank.co.bw)... 104.16.29.40, 104.16.28.40
+Connecting to www.stanbicbank.co.bw (www.stanbicbank.co.bw)|104.16.29.40|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page [following]
+--2020-02-25 21:19:13--  https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page
+Reusing existing connection to www.stanbicbank.co.bw:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.93M
+    50K .......... .......... .......... .......... .......... 1.33G
+   100K .......... .......... .......... ..........            1.07M=0.5s
+
+2020-02-25 21:19:15 (2.20 Mb/s) - ‘/dev/null’ saved [143865]
+
+--2020-02-25 21:19:15--  https://www.stanbicbank.co.bw/standimg/NigeriaPensionManagers/fileDownloads/Locations.pdf%0D
+Resolving www.stanbicbank.co.bw (www.stanbicbank.co.bw)... 104.16.28.40, 104.16.29.40
+Connecting to www.stanbicbank.co.bw (www.stanbicbank.co.bw)|104.16.28.40|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page [following]
+--2020-02-25 21:19:16--  https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page
+Reusing existing connection to www.stanbicbank.co.bw:443.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:25:35--  https://www.stanbicbank.co.bw/standimg/SBG/FaceLift/Balance_Transfer_terms_and_conditions_FINAL.pdf%0D
+Resolving www.stanbicbank.co.bw (www.stanbicbank.co.bw)... 104.16.28.40, 104.16.29.40
+Connecting to www.stanbicbank.co.bw (www.stanbicbank.co.bw)|104.16.28.40|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page [following]
+--2020-02-25 21:25:36--  https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page
+Reusing existing connection to www.stanbicbank.co.bw:443.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+--2020-02-25 21:25:39--  https://www.stanbicbank.co.bw/standimg/NigeriaPensionManagers/fileDownloads/Locations.pdf%0D
+Resolving www.stanbicbank.co.bw (www.stanbicbank.co.bw)... 104.16.28.40, 104.16.29.40
+Connecting to www.stanbicbank.co.bw (www.stanbicbank.co.bw)|104.16.28.40|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page [following]
+--2020-02-25 21:25:40--  https://www.stanbicbank.co.bw/botswana/About-Us/404-Error-page
+Reusing existing connection to www.stanbicbank.co.bw:443.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+

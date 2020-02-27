@@ -1,0 +1,6 @@
+--2020-02-25 23:16:29--  https://epa.org.kw/Portals/0/PDF/Doc1111111.pdf%0D
+Resolving epa.org.kw (epa.org.kw)... 83.96.97.41
+Connecting to epa.org.kw (epa.org.kw)|83.96.97.41|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:16:30 ERROR 400: Bad Request.
+

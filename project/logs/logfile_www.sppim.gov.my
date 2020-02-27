@@ -1,0 +1,6 @@
+--2020-02-25 23:33:13--  https://www.sppim.gov.my/pdf/panduan/panduan_NCR_LuarNegara.pdf%0D
+Resolving www.sppim.gov.my (www.sppim.gov.my)... 103.8.161.218
+Connecting to www.sppim.gov.my (www.sppim.gov.my)|103.8.161.218|:443... connected.
+ERROR: cannot verify www.sppim.gov.my's certificate, issued by ‘CN=GlobalSign Extended Validation CA - SHA256 - G3,O=GlobalSign nv-sa,C=BE’:
+  Unable to locally verify the issuer's authority.
+To connect to www.sppim.gov.my insecurely, use `--no-check-certificate'.

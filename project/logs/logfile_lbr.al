@@ -1,78 +1,50 @@
---2020-02-25 14:42:35--  http://lbr.al/d4sh
-Resolving lbr.al (lbr.al)... 104.27.170.198, 104.27.171.198
-Connecting to lbr.al (lbr.al)|104.27.170.198|:80... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://www.environment.gov.au/system/files/resources/bb29bc9f-8b96-4b10-84a0-46b7d36d5b8e/files/climate-solutions-package.pdf [following]
---2020-02-25 14:42:36--  https://www.environment.gov.au/system/files/resources/bb29bc9f-8b96-4b10-84a0-46b7d36d5b8e/files/climate-solutions-package.pdf
-Resolving www.environment.gov.au (www.environment.gov.au)... 155.187.2.124
-Connecting to www.environment.gov.au (www.environment.gov.au)|155.187.2.124|:443... connected.
+--2020-02-25 20:54:32--  http://lbr.al/d4sh%0D
+Resolving lbr.al (lbr.al)... 104.27.171.198, 104.27.170.198
+Connecting to lbr.al (lbr.al)|104.27.171.198|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://lbr.al [following]
+--2020-02-25 20:54:33--  http://lbr.al/
+Reusing existing connection to lbr.al:80.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.liberal.org.au [following]
+--2020-02-25 20:54:34--  http://www.liberal.org.au/
+Resolving www.liberal.org.au (www.liberal.org.au)... 13.239.93.18, 3.105.135.149
+Connecting to www.liberal.org.au (www.liberal.org.au)|13.239.93.18|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.liberal.org.au/ [following]
+--2020-02-25 20:54:34--  https://www.liberal.org.au/
+Connecting to www.liberal.org.au (www.liberal.org.au)|13.239.93.18|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 1195383 (1.1M) [application/pdf]
+Length: unspecified [text/html]
 Saving to: ‘/dev/null’
 
-     0K .......... .......... .......... .......... ..........  4%  345K 27s
-    50K .......... .......... .......... .......... ..........  8%  585K 20s
-   100K .......... .......... .......... .......... .......... 12% 1.15M 15s
-   150K .......... .......... .......... .......... .......... 17%  656K 14s
-   200K .......... .......... .......... .......... .......... 21%  728K 13s
-   250K .......... .......... .......... .......... .......... 25% 1.17M 11s
-   300K .......... .......... .......... .......... .......... 29% 1.20M 10s
-   350K .......... .......... .......... .......... .......... 34%  836K 9s
-   400K .......... .......... .......... .......... .......... 38% 1.20M 8s
-   450K .......... .......... .......... .......... .......... 42% 1.35M 7s
-   500K .......... .......... .......... .......... .......... 47% 1.38M 6s
-   550K .......... .......... .......... .......... .......... 51% 2.09M 5s
-   600K .......... .......... .......... .......... .......... 55% 1.57M 5s
-   650K .......... .......... .......... .......... .......... 59% 1.42M 4s
-   700K .......... .......... .......... .......... .......... 64% 5.51M 4s
-   750K .......... .......... .......... .......... .......... 68% 1.60M 3s
-   800K .......... .......... .......... .......... .......... 72% 2.09M 3s
-   850K .......... .......... .......... .......... .......... 77% 3.32M 2s
-   900K .......... .......... .......... .......... .......... 81% 2.53M 2s
-   950K .......... .......... .......... .......... .......... 85% 1.93M 1s
-  1000K .......... .......... .......... .......... .......... 89% 2.34M 1s
-  1050K .......... .......... .......... .......... .......... 94% 4.26M 0s
-  1100K .......... .......... .......... .......... .......... 98% 3.39M 0s
-  1150K .......... .......                                    100% 2.04M=7.8s
+     0K .......... .......... .......... .......... ..........  692K
+    50K .......... .....                                        341M=0.6s
 
-2020-02-25 14:42:46 (1.23 Mb/s) - ‘/dev/null’ saved [1195383/1195383]
+2020-02-25 20:54:36 (901 Kb/s) - ‘/dev/null’ saved [66706]
 
---2020-02-25 14:42:46--  http://lbr.al/d4sh
-Resolving lbr.al (lbr.al)... 104.27.170.198, 104.27.171.198
-Connecting to lbr.al (lbr.al)|104.27.170.198|:80... connected.
-HTTP request sent, awaiting response... 301 Moved Permanently
-Location: https://www.environment.gov.au/system/files/resources/bb29bc9f-8b96-4b10-84a0-46b7d36d5b8e/files/climate-solutions-package.pdf [following]
---2020-02-25 14:42:47--  https://www.environment.gov.au/system/files/resources/bb29bc9f-8b96-4b10-84a0-46b7d36d5b8e/files/climate-solutions-package.pdf
-Resolving www.environment.gov.au (www.environment.gov.au)... 155.187.2.124
-Connecting to www.environment.gov.au (www.environment.gov.au)|155.187.2.124|:443... connected.
+--2020-02-25 20:54:36--  http://lbr.al/d4sh%0D
+Resolving lbr.al (lbr.al)... 104.27.171.198, 104.27.170.198
+Connecting to lbr.al (lbr.al)|104.27.171.198|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://lbr.al [following]
+--2020-02-25 20:54:37--  http://lbr.al/
+Reusing existing connection to lbr.al:80.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.liberal.org.au [following]
+--2020-02-25 20:54:38--  http://www.liberal.org.au/
+Resolving www.liberal.org.au (www.liberal.org.au)... 13.239.93.18, 3.105.135.149
+Connecting to www.liberal.org.au (www.liberal.org.au)|13.239.93.18|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.liberal.org.au/ [following]
+--2020-02-25 20:54:38--  https://www.liberal.org.au/
+Connecting to www.liberal.org.au (www.liberal.org.au)|13.239.93.18|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 1195383 (1.1M) [application/pdf]
+Length: unspecified [text/html]
 Saving to: ‘/dev/null’
 
-     0K .......... .......... .......... .......... ..........  4%  540K 17s
-    50K .......... .......... .......... .......... ..........  8%  598K 15s
-   100K .......... .......... .......... .......... .......... 12%  679K 14s
-   150K .......... .......... .......... .......... .......... 17%  737K 13s
-   200K .......... .......... .......... .......... .......... 21%  809K 11s
-   250K .......... .......... .......... .......... .......... 25% 1.05M 10s
-   300K .......... .......... .......... .......... .......... 29%  710K 10s
-   350K .......... .......... .......... .......... .......... 34% 1.27M 8s
-   400K .......... .......... .......... .......... .......... 38% 1.35M 7s
-   450K .......... .......... .......... .......... .......... 42% 1.40M 7s
-   500K .......... .......... .......... .......... .......... 47% 1.16M 6s
-   550K .......... .......... .......... .......... .......... 51% 2.00M 5s
-   600K .......... .......... .......... .......... .......... 55% 1.50M 5s
-   650K .......... .......... .......... .......... .......... 59% 1.49M 4s
-   700K .......... .......... .......... .......... .......... 64% 1.61M 4s
-   750K .......... .......... .......... .......... .......... 68% 3.83M 3s
-   800K .......... .......... .......... .......... .......... 72% 1.76M 2s
-   850K .......... .......... .......... .......... .......... 77% 2.78M 2s
-   900K .......... .......... .......... .......... .......... 81% 1.58M 2s
-   950K .......... .......... .......... .......... .......... 85% 5.00M 1s
-  1000K .......... .......... .......... .......... .......... 89% 2.08M 1s
-  1050K .......... .......... .......... .......... .......... 94% 8.82M 0s
-  1100K .......... .......... .......... .......... .......... 98% 1.79M 0s
-  1150K .......... .......                                    100% 12.1M=7.7s
+     0K .......... .......... .......... .......... ..........  697K
+    50K .......... .....                                        360M=0.6s
 
-2020-02-25 14:42:56 (1.25 Mb/s) - ‘/dev/null’ saved [1195383/1195383]
+2020-02-25 20:54:40 (908 Kb/s) - ‘/dev/null’ saved [66706]
 

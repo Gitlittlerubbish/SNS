@@ -1,0 +1,12 @@
+--2020-02-25 22:22:25--  https://moonsoft.fi/materials/automatedqa_codecollabdatasheet.pdf%0D
+Resolving moonsoft.fi (moonsoft.fi)... --2020-02-25 22:22:25--  https://moonsoft.fi/materials/automatedqa_codecollabdatasheet.pdf%0D
+Resolving moonsoft.fi (moonsoft.fi)... 188.127.200.215
+Connecting to moonsoft.fi (moonsoft.fi)|188.127.200.215|:443... 188.127.200.215
+Connecting to moonsoft.fi (moonsoft.fi)|188.127.200.215|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:22:25 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:22:25 ERROR 400: Bad Request.
+

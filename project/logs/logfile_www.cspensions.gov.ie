@@ -1,0 +1,6 @@
+--2020-02-25 22:56:21--  http://www.cspensions.gov.ie/faq1.pdf%0D
+Resolving www.cspensions.gov.ie (www.cspensions.gov.ie)... 193.178.98.189
+Connecting to www.cspensions.gov.ie (www.cspensions.gov.ie)|193.178.98.189|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:56:21 ERROR 400: Bad Request.
+

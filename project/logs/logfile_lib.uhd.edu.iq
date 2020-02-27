@@ -1,0 +1,6 @@
+--2020-02-25 22:56:05--  http://lib.uhd.edu.iq/files/sample6/11500_6.pdf%0D
+Resolving lib.uhd.edu.iq (lib.uhd.edu.iq)... 176.9.105.254
+Connecting to lib.uhd.edu.iq (lib.uhd.edu.iq)|176.9.105.254|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:56:06 ERROR 404: Not Found.
+

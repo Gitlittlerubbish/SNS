@@ -1,0 +1,12 @@
+--2020-02-25 21:15:31--  https://www.contraloria.gob.bo/portal/Uploads/PDFportal/20121217_313.pdf%0D
+Resolving www.contraloria.gob.bo (www.contraloria.gob.bo)... 190.11.83.35, 181.115.189.131
+Connecting to www.contraloria.gob.bo (www.contraloria.gob.bo)|190.11.83.35|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:15:32 ERROR 400: Bad Request.
+
+--2020-02-25 21:23:07--  https://www.contraloria.gob.bo/portal/Uploads/PDFportal/20121217_313.pdf%0D
+Resolving www.contraloria.gob.bo (www.contraloria.gob.bo)... 181.115.189.131, 190.11.83.35
+Connecting to www.contraloria.gob.bo (www.contraloria.gob.bo)|181.115.189.131|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:23:08 ERROR 400: Bad Request.
+

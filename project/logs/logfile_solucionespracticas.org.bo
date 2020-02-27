@@ -1,0 +1,12 @@
+--2020-02-25 21:16:06--  http://solucionespracticas.org.bo/Descargar/442251/1342892%0D
+Resolving solucionespracticas.org.bo (solucionespracticas.org.bo)... 54.218.11.255
+Connecting to solucionespracticas.org.bo (solucionespracticas.org.bo)|54.218.11.255|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:16:06 ERROR 400: Bad Request.
+
+--2020-02-25 21:23:37--  http://solucionespracticas.org.bo/Descargar/442251/1342892%0D
+Resolving solucionespracticas.org.bo (solucionespracticas.org.bo)... 54.218.11.255
+Connecting to solucionespracticas.org.bo (solucionespracticas.org.bo)|54.218.11.255|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:23:37 ERROR 400: Bad Request.
+

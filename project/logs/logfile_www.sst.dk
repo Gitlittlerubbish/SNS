@@ -1,0 +1,12 @@
+--2020-02-25 22:06:36--  https://www.sst.dk/~/media/6D4D2974F7454128BAAF21792CEFA473.ashx%0D
+Resolving www.sst.dk (www.sst.dk)... 40.114.228.161
+Connecting to www.sst.dk (www.sst.dk)|40.114.228.161|:443... connected.
+--2020-02-25 22:06:36--  https://www.sst.dk/~/media/6D4D2974F7454128BAAF21792CEFA473.ashx%0D
+Resolving www.sst.dk (www.sst.dk)... 40.114.228.161
+Connecting to www.sst.dk (www.sst.dk)|40.114.228.161|:443... HTTP request sent, awaiting response... connected.
+400 Bad Request
+2020-02-25 22:06:36 ERROR 400: Bad Request.
+
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:06:36 ERROR 400: Bad Request.
+

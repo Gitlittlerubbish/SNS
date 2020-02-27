@@ -1,0 +1,12 @@
+--2020-02-25 21:12:57--  http://www.nsb.gov.bt/publication/download.php%3Fid%3D192%0D
+Resolving www.nsb.gov.bt (www.nsb.gov.bt)... 202.144.146.196
+Connecting to www.nsb.gov.bt (www.nsb.gov.bt)|202.144.146.196|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:12:59 ERROR 404: Not Found.
+
+--2020-02-25 21:21:27--  http://www.nsb.gov.bt/publication/download.php%3Fid%3D192%0D
+Resolving www.nsb.gov.bt (www.nsb.gov.bt)... 202.144.146.196
+Connecting to www.nsb.gov.bt (www.nsb.gov.bt)|202.144.146.196|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:21:28 ERROR 404: Not Found.
+

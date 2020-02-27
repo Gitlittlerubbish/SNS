@@ -1,0 +1,28 @@
+--2020-02-25 21:40:29--  http://www.akterapp.cf/~dsnaidu/Naidu_Survey_DCDISJournal_2002.pdf%0D
+Resolving www.akterapp.cf (www.akterapp.cf)... 195.20.48.10
+Connecting to www.akterapp.cf (www.akterapp.cf)|195.20.48.10|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 641 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.60G=0s
+
+2020-02-25 21:40:31 (1.60 Gb/s) - ‘/dev/null’ saved [641/641]
+
+--2020-02-25 21:40:31--  http://www.akterapp.cf/~dsnaidu/Naidu_Survey_DCDISJournal_2002.pdf%0D
+Resolving www.akterapp.cf (www.akterapp.cf)... 195.20.48.10
+Connecting to www.akterapp.cf (www.akterapp.cf)|195.20.48.10|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 641 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.57G=0s
+
+2020-02-25 21:40:32 (1.57 Gb/s) - ‘/dev/null’ saved [641/641]
+
+--2020-02-25 21:41:31--  http://www.akterapp.cf/~dsnaidu/Naidu_Survey_DCDISJournal_2002.pdf%0D
+Resolving www.akterapp.cf (www.akterapp.cf)... 195.20.48.10
+Connecting to www.akterapp.cf (www.akterapp.cf)|195.20.48.10|:80... connected.
+HTTP request sent, awaiting response... 502 Bad Gateway
+2020-02-25 21:41:31 ERROR 502: Bad Gateway.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:04:33--  https://www.mope.gov.np/download/SREPclean.pdf.75fc6c5d52e2914e1f675fab66a52371%0D
+Resolving www.mope.gov.np (www.mope.gov.np)... 202.45.144.31
+Connecting to www.mope.gov.np (www.mope.gov.np)|202.45.144.31|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:04:35 ERROR 404: Not Found.
+

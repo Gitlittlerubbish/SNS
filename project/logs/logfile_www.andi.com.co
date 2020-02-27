@@ -1,0 +1,12 @@
+--2020-02-25 21:52:40--  http://www.andi.com.co/Uploads/Unilever.pdf%0D
+Resolving www.andi.com.co (www.andi.com.co)... 200.31.14.234
+Connecting to www.andi.com.co (www.andi.com.co)|200.31.14.234|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:52:40 ERROR 400: Bad Request.
+
+--2020-02-25 21:52:42--  http://www.andi.com.co/Uploads/Unilever.pdf%0D
+Resolving www.andi.com.co (www.andi.com.co)... 200.31.14.234
+Connecting to www.andi.com.co (www.andi.com.co)|200.31.14.234|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:52:42 ERROR 400: Bad Request.
+

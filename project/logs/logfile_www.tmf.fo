@@ -1,0 +1,12 @@
+--2020-02-25 22:19:26--  http://www.tmf.fo/04_Lonartalvur/Lonartalva_2010.pdf%0D
+Resolving www.tmf.fo (www.tmf.fo)... --2020-02-25 22:19:26--  http://www.tmf.fo/04_Lonartalvur/Lonartalva_2010.pdf%0D
+Resolving www.tmf.fo (www.tmf.fo)... 87.238.248.115
+Connecting to www.tmf.fo (www.tmf.fo)|87.238.248.115|:80... 87.238.248.115
+Connecting to www.tmf.fo (www.tmf.fo)|87.238.248.115|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:19:26 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:19:26 ERROR 400: Bad Request.
+

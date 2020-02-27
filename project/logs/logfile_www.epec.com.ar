@@ -1,0 +1,6 @@
+--2020-02-25 21:05:33--  https://www.epec.com.ar/docs/educativo/normasT/ET20.PDF%0D
+Resolving www.epec.com.ar (www.epec.com.ar)... 200.41.44.227, 190.96.113.250
+Connecting to www.epec.com.ar (www.epec.com.ar)|200.41.44.227|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-02-25 21:05:34 ERROR 500: Internal Server Error.
+

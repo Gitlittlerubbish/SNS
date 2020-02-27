@@ -1,0 +1,12 @@
+--2020-02-25 22:22:26--  https://www.barentsinfo.fi/docs/Gorbachev_speech.pdf%0D
+Resolving www.barentsinfo.fi (www.barentsinfo.fi)... --2020-02-25 22:22:26--  https://www.barentsinfo.fi/docs/Gorbachev_speech.pdf%0D
+Resolving www.barentsinfo.fi (www.barentsinfo.fi)... 193.167.215.46
+Connecting to www.barentsinfo.fi (www.barentsinfo.fi)|193.167.215.46|:443... 193.167.215.46
+Connecting to www.barentsinfo.fi (www.barentsinfo.fi)|193.167.215.46|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:22:26 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:22:26 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:24:42--  http://bisesargodha.edu.pk/downloads/SSC_Reg_Session_2019_21.pdf%0D
+Resolving bisesargodha.edu.pk (bisesargodha.edu.pk)... 203.99.163.141
+Connecting to bisesargodha.edu.pk (bisesargodha.edu.pk)|203.99.163.141|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:24:43 ERROR 400: Bad Request.
+

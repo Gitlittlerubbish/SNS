@@ -1,0 +1,12 @@
+--2020-02-26 00:29:30--  http://www.bsp.com.pg/Resources/Documents/2016/BSP_Portfolio_web.pdf%0D
+Resolving www.bsp.com.pg (www.bsp.com.pg)... 117.53.167.49
+Connecting to www.bsp.com.pg (www.bsp.com.pg)|117.53.167.49|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:29:31 ERROR 400: Bad Request.
+
+--2020-02-26 00:31:41--  http://www.bsp.com.pg/Resources/Documents/2016/BSP_Portfolio_web.pdf%0D
+Resolving www.bsp.com.pg (www.bsp.com.pg)... 117.53.167.49
+Connecting to www.bsp.com.pg (www.bsp.com.pg)|117.53.167.49|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:31:42 ERROR 400: Bad Request.
+

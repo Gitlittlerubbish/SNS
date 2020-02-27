@@ -1,0 +1,6 @@
+--2020-02-25 22:54:45--  http://ofmas.ir/dlpaper/y2066.pdf%0D
+Resolving ofmas.ir (ofmas.ir)... 86.106.142.114
+Connecting to ofmas.ir (ofmas.ir)|86.106.142.114|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:54:45 ERROR 400: Bad Request.
+

@@ -1,0 +1,6 @@
+--2020-02-25 23:05:55--  http://jera.psut.edu.jo/Documents/Jordan.pdf%0D
+Resolving jera.psut.edu.jo (jera.psut.edu.jo)... 193.188.67.49
+Connecting to jera.psut.edu.jo (jera.psut.edu.jo)|193.188.67.49|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:05:55 ERROR 400: Bad Request.
+

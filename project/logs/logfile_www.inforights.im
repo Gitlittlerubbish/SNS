@@ -1,0 +1,6 @@
+--2020-02-25 22:58:37--  https://www.inforights.im/media/1416/dpo.pdf%0D
+Resolving www.inforights.im (www.inforights.im)... 107.162.158.222
+Connecting to www.inforights.im (www.inforights.im)|107.162.158.222|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:58:37 ERROR 400: Bad Request.
+

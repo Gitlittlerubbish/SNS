@@ -1,0 +1,6 @@
+--2020-02-25 21:04:00--  http://sot.ag/9z6Rh%0D
+Resolving sot.ag (sot.ag)... 192.225.208.11
+Connecting to sot.ag (sot.ag)|192.225.208.11|:80... connected.
+HTTP request sent, awaiting response... 405 Not Allowed
+2020-02-25 21:04:00 ERROR 405: Not Allowed.
+

@@ -1,0 +1,10 @@
+--2020-02-25 22:51:04--  http://delhipolicelicensing.gov.in/downloads/listofarmsdealers.pdf%0D
+Resolving delhipolicelicensing.gov.in (delhipolicelicensing.gov.in)... 164.100.229.181
+Connecting to delhipolicelicensing.gov.in (delhipolicelicensing.gov.in)|164.100.229.181|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://delhipolicelicensing.gov.in/downloads/listofarmsdealers.pdf%0D [following]
+--2020-02-25 22:51:04--  https://delhipolicelicensing.gov.in/downloads/listofarmsdealers.pdf%0D
+Connecting to delhipolicelicensing.gov.in (delhipolicelicensing.gov.in)|164.100.229.181|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:51:05 ERROR 404: Not Found.
+

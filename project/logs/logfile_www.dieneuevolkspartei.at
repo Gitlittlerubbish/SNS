@@ -1,0 +1,12 @@
+--2020-02-25 20:59:34--  https://www.dieneuevolkspartei.at/Download/Regierungsprogramm_2020.pdf%0D
+Resolving www.dieneuevolkspartei.at (www.dieneuevolkspartei.at)... 193.187.8.11
+Connecting to www.dieneuevolkspartei.at (www.dieneuevolkspartei.at)|193.187.8.11|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:59:34 ERROR 400: Bad Request.
+
+--2020-02-25 21:11:41--  https://www.dieneuevolkspartei.at/Download/Regierungsprogramm_2020.pdf%0D
+Resolving www.dieneuevolkspartei.at (www.dieneuevolkspartei.at)... 193.187.8.11
+Connecting to www.dieneuevolkspartei.at (www.dieneuevolkspartei.at)|193.187.8.11|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:41 ERROR 400: Bad Request.
+

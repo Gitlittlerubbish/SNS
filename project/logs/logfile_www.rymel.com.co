@@ -1,0 +1,12 @@
+--2020-02-25 21:51:52--  http://www.rymel.com.co/CatalogoProductos.pdf%0D
+Resolving www.rymel.com.co (www.rymel.com.co)... 69.49.115.33
+Connecting to www.rymel.com.co (www.rymel.com.co)|69.49.115.33|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:51:55 ERROR 404: Not Found.
+
+--2020-02-25 21:51:55--  http://www.rymel.com.co/CatalogoProductos.pdf%0D
+Resolving www.rymel.com.co (www.rymel.com.co)... 69.49.115.33
+Connecting to www.rymel.com.co (www.rymel.com.co)|69.49.115.33|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:51:56 ERROR 404: Not Found.
+

@@ -1,0 +1,6 @@
+--2020-02-25 22:52:53--  https://idx.co.id/media/5379/sido.pdf%0D
+Resolving idx.co.id (idx.co.id)... 111.95.248.111
+Connecting to idx.co.id (idx.co.id)|111.95.248.111|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:52:53 ERROR 400: Bad Request.
+

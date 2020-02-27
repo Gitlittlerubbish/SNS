@@ -1,0 +1,12 @@
+--2020-02-25 21:36:24--  https://www.ttc.ca/PDF/Maps/TTC_SubwayStreetcarMap_Printable.pdf%0D
+Resolving www.ttc.ca (www.ttc.ca)... 69.172.201.18
+Connecting to www.ttc.ca (www.ttc.ca)|69.172.201.18|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:36:24 ERROR 400: Bad Request.
+
+--2020-02-25 21:38:11--  https://www.ttc.ca/PDF/Maps/TTC_SubwayStreetcarMap_Printable.pdf%0D
+Resolving www.ttc.ca (www.ttc.ca)... 69.172.201.18
+Connecting to www.ttc.ca (www.ttc.ca)|69.172.201.18|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:38:11 ERROR 400: Bad Request.
+

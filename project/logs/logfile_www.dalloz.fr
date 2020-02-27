@@ -1,0 +1,12 @@
+--2020-02-25 22:22:52--  https://www.dalloz.fr/comptepersonnel/modedemploi.pdf%0D
+Resolving www.dalloz.fr (www.dalloz.fr)... --2020-02-25 22:22:52--  https://www.dalloz.fr/comptepersonnel/modedemploi.pdf%0D
+Resolving www.dalloz.fr (www.dalloz.fr)... 82.112.98.25
+Connecting to www.dalloz.fr (www.dalloz.fr)|82.112.98.25|:443... 82.112.98.25
+Connecting to www.dalloz.fr (www.dalloz.fr)|82.112.98.25|:443... connected.
+connected.
+HTTP request sent, awaiting response... HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:22:52 ERROR 400: Bad Request.
+
+400 Bad Request
+2020-02-25 22:22:52 ERROR 400: Bad Request.
+

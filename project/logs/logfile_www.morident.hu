@@ -1,0 +1,6 @@
+--2020-02-25 22:47:33--  http://www.morident.hu/pdf/ProlacSan_cikk.pdf%0D
+Resolving www.morident.hu (www.morident.hu)... 78.24.184.237
+Connecting to www.morident.hu (www.morident.hu)|78.24.184.237|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:47:35 ERROR 404: Not Found.
+

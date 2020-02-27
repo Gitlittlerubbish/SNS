@@ -1,0 +1,12 @@
+--2020-02-25 21:59:59--  https://www.fonctionpublique.gouv.ci/documentation/Loi_XXX_Code_Deontologie.pdf%0D
+Resolving www.fonctionpublique.gouv.ci (www.fonctionpublique.gouv.ci)... 45.60.123.11
+Connecting to www.fonctionpublique.gouv.ci (www.fonctionpublique.gouv.ci)|45.60.123.11|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 21:59:59 ERROR 403: Forbidden.
+
+--2020-02-25 22:00:00--  https://www.fonctionpublique.gouv.ci/documentation/Loi_XXX_Code_Deontologie.pdf%0D
+Resolving www.fonctionpublique.gouv.ci (www.fonctionpublique.gouv.ci)... 45.60.123.11
+Connecting to www.fonctionpublique.gouv.ci (www.fonctionpublique.gouv.ci)|45.60.123.11|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-25 22:00:00 ERROR 403: Forbidden.
+

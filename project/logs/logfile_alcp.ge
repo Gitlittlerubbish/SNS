@@ -1,0 +1,24 @@
+--2020-02-25 22:30:23--  http://alcp.ge/pdfs/b2a67ef933c961bd4642053ecc58d0a5.pdf%0D
+Resolving alcp.ge (alcp.ge)... 213.157.215.232
+Connecting to alcp.ge (alcp.ge)|213.157.215.232|:80... --2020-02-25 22:30:23--  http://alcp.ge/pdfs/b2a67ef933c961bd4642053ecc58d0a5.pdf%0D
+Resolving alcp.ge (alcp.ge)... 213.157.215.232
+Connecting to alcp.ge (alcp.ge)|213.157.215.232|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:30:23 ERROR 404: Not Found.
+
+--2020-02-25 22:30:23--  http://alcp.ge/pdfs/afcea95ceda9ef825dcd83c3aa855df3.pdf%0D
+Resolving alcp.ge (alcp.ge)... 213.157.215.232
+Connecting to alcp.ge (alcp.ge)|213.157.215.232|:80... 404 Not Found
+2020-02-25 22:30:23 ERROR 404: Not Found.
+
+--2020-02-25 22:30:23--  http://alcp.ge/pdfs/afcea95ceda9ef825dcd83c3aa855df3.pdf%0D
+Resolving alcp.ge (alcp.ge)... 213.157.215.232
+Connecting to alcp.ge (alcp.ge)|213.157.215.232|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:30:23 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:30:23 ERROR 404: Not Found.
+

@@ -1,0 +1,10 @@
+--2020-02-26 00:04:27--  http://nra.gov.np/uploads/docs/M8c5wbDtij160619070048.pdf%0D
+Resolving nra.gov.np (nra.gov.np)... 202.45.147.136
+Connecting to nra.gov.np (nra.gov.np)|202.45.147.136|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://nra.gov.np/np/uploads/docs/M8c5wbDtij160619070048.pdf%0D [following]
+--2020-02-26 00:04:27--  http://nra.gov.np/np/uploads/docs/M8c5wbDtij160619070048.pdf%0D
+Reusing existing connection to nra.gov.np:80.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:04:27 ERROR 404: Not Found.
+

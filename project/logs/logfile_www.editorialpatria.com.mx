@@ -1,0 +1,11 @@
+--2020-02-25 23:47:56--  http://www.editorialpatria.com.mx/pdffiles/9786074384154.pdf%0D
+Resolving www.editorialpatria.com.mx (www.editorialpatria.com.mx)... 50.87.248.116
+Connecting to www.editorialpatria.com.mx (www.editorialpatria.com.mx)|50.87.248.116|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://editorialpatria.com.mx/pdffiles/9786074384154.pdf%0d [following]
+--2020-02-25 23:47:57--  https://editorialpatria.com.mx/pdffiles/9786074384154.pdf%0d
+Resolving editorialpatria.com.mx (editorialpatria.com.mx)... 50.87.248.116
+Connecting to editorialpatria.com.mx (editorialpatria.com.mx)|50.87.248.116|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:47:57 ERROR 404: Not Found.
+

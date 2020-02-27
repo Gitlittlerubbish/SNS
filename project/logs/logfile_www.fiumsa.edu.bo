@@ -1,0 +1,12 @@
+--2020-02-25 21:15:51--  http://www.fiumsa.edu.bo/rbf/numero16.pdf%0D
+Resolving www.fiumsa.edu.bo (www.fiumsa.edu.bo)... 200.7.160.189
+Connecting to www.fiumsa.edu.bo (www.fiumsa.edu.bo)|200.7.160.189|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:51 ERROR 404: Not Found.
+
+--2020-02-25 21:23:24--  http://www.fiumsa.edu.bo/rbf/numero16.pdf%0D
+Resolving www.fiumsa.edu.bo (www.fiumsa.edu.bo)... 200.7.160.189
+Connecting to www.fiumsa.edu.bo (www.fiumsa.edu.bo)|200.7.160.189|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:24 ERROR 404: Not Found.
+

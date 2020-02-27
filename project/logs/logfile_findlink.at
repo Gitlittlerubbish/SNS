@@ -1,0 +1,12 @@
+--2020-02-25 20:59:24--  http://findlink.at/n9%0D
+Resolving findlink.at (findlink.at)... 158.106.89.74
+Connecting to findlink.at (findlink.at)|158.106.89.74|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:59:24 ERROR 400: Bad Request.
+
+--2020-02-25 21:11:33--  http://findlink.at/n9%0D
+Resolving findlink.at (findlink.at)... 158.106.89.74
+Connecting to findlink.at (findlink.at)|158.106.89.74|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:11:33 ERROR 400: Bad Request.
+

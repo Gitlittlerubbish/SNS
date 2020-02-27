@@ -1,0 +1,12 @@
+--2020-02-25 22:06:18--  http://sks.dk/div/kalender.pdf%0D
+Resolving sks.dk (sks.dk)... --2020-02-25 22:06:18--  http://sks.dk/div/kalender.pdf%0D
+Resolving sks.dk (sks.dk)... 130.226.229.188
+Connecting to sks.dk (sks.dk)|130.226.229.188|:80... connected.
+HTTP request sent, awaiting response... 130.226.229.188
+Connecting to sks.dk (sks.dk)|130.226.229.188|:80... 400 Bad Request
+2020-02-25 22:06:18 ERROR 400: Bad Request.
+
+connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:06:18 ERROR 400: Bad Request.
+

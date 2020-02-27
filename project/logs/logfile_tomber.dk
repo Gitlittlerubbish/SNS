@@ -1,0 +1,12 @@
+--2020-02-25 22:06:11--  http://tomber.dk/images/3/31/Canon_1300D_preview.pdf%0D
+Resolving tomber.dk (tomber.dk)... --2020-02-25 22:06:11--  http://tomber.dk/images/3/31/Canon_1300D_preview.pdf%0D
+Resolving tomber.dk (tomber.dk)... 94.231.103.161
+Connecting to tomber.dk (tomber.dk)|94.231.103.161|:80... connected.
+HTTP request sent, awaiting response... 94.231.103.161
+Connecting to tomber.dk (tomber.dk)|94.231.103.161|:80... 406 Not Acceptable
+2020-02-25 22:06:11 ERROR 406: Not Acceptable.
+
+connected.
+HTTP request sent, awaiting response... 406 Not Acceptable
+2020-02-25 22:06:11 ERROR 406: Not Acceptable.
+

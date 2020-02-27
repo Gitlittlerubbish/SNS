@@ -1,0 +1,24 @@
+--2020-02-25 22:01:04--  http://www.alan-caplar.iz.hr/images/clanci/273.pdf%0D
+Resolving www.alan-caplar.iz.hr (www.alan-caplar.iz.hr)... --2020-02-25 22:01:04--  http://www.alan-caplar.iz.hr/images/clanci/273.pdf%0D
+Resolving www.alan-caplar.iz.hr (www.alan-caplar.iz.hr)... 178.218.172.68
+Connecting to www.alan-caplar.iz.hr (www.alan-caplar.iz.hr)|178.218.172.68|:80... 178.218.172.68
+Connecting to www.alan-caplar.iz.hr (www.alan-caplar.iz.hr)|178.218.172.68|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 22:01:05 ERROR 404: Not Found.
+
+--2020-02-25 22:01:05--  http://www.alan-caplar.iz.hr/images/clanci/181.pdf%0D
+Resolving www.alan-caplar.iz.hr (www.alan-caplar.iz.hr)... 2020-02-25 22:01:05 ERROR 404: Not Found.
+
+178.218.172.68
+Connecting to www.alan-caplar.iz.hr (www.alan-caplar.iz.hr)|178.218.172.68|:80... --2020-02-25 22:01:05--  http://www.alan-caplar.iz.hr/images/clanci/181.pdf%0D
+Resolving www.alan-caplar.iz.hr (www.alan-caplar.iz.hr)... 178.218.172.68
+Connecting to www.alan-caplar.iz.hr (www.alan-caplar.iz.hr)|178.218.172.68|:80... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 22:01:05 ERROR 404: Not Found.
+
+2020-02-25 22:01:05 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 22:44:34--  http://www.conatel.gob.hn/doc/Regulacion/leyes/REGLAMENTO_GENERAL.pdf%0D
+Resolving www.conatel.gob.hn (www.conatel.gob.hn)... 181.210.2.132
+Connecting to www.conatel.gob.hn (www.conatel.gob.hn)|181.210.2.132|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:44:34 ERROR 400: Bad Request.
+
+--2020-02-25 22:44:34--  http://www.conatel.gob.hn/doc/Regulacion/leyes/REGLAMENTO_GENERAL.pdf%0D
+Resolving www.conatel.gob.hn (www.conatel.gob.hn)... 181.210.2.132
+Connecting to www.conatel.gob.hn (www.conatel.gob.hn)|181.210.2.132|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:44:34 ERROR 400: Bad Request.
+

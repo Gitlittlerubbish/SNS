@@ -1,0 +1,72 @@
+--2020-02-25 21:59:59--  http://www.ins.ci/n/documents/Questionnaire_menage.pdf%0D
+Resolving www.ins.ci (www.ins.ci)... 46.19.123.142
+Connecting to www.ins.ci (www.ins.ci)|46.19.123.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ins.ci/n/documents/Questionnaire_menage.pdf [following]
+--2020-02-25 21:59:59--  http://www.ins.ci/n/documents/Questionnaire_menage.pdf
+Connecting to www.ins.ci (www.ins.ci)|46.19.123.142|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 177406 (173K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 9.13M 0s
+    50K .......... .......... .......... .......... .......... 57% 15.8M 0s
+   100K .......... .......... .......... .......... .......... 86% 35.7M 0s
+   150K .......... .......... ...                             100% 9.46M=0.1s
+
+2020-02-25 21:59:59 (13.9 Mb/s) - ‘/dev/null’ saved [177406/177406]
+
+--2020-02-25 21:59:59--  http://www.ins.ci/n/documents/Questionnaire_menage.pdf%0D
+Resolving www.ins.ci (www.ins.ci)... 46.19.123.142
+Connecting to www.ins.ci (www.ins.ci)|46.19.123.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ins.ci/n/documents/Questionnaire_menage.pdf [following]
+--2020-02-25 21:59:59--  http://www.ins.ci/n/documents/Questionnaire_menage.pdf
+Connecting to www.ins.ci (www.ins.ci)|46.19.123.142|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 177406 (173K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .--2020-02-25 21:59:59--  http://www.ins.ci/n/documents/Questionnaire_menage.pdf%0D
+Resolving www.ins.ci (www.ins.ci)... 46.19.123.142
+Connecting to www.ins.ci (www.ins.ci)|46.19.123.142|:80... .......connected.
+HTTP request sent, awaiting response... .. ........301 Moved Permanently
+Location: http://www.ins.ci/n/documents/Questionnaire_menage.pdf [following]
+--2020-02-25 21:59:59--  http://www.ins.ci/n/documents/Questionnaire_menage.pdf
+Connecting to www.ins.ci (www.ins.ci)|46.19.123.142|:80... .. .........connected.
+HTTP request sent, awaiting response... . .......... 28% 9.66M 0s
+    50K .......... .......... .......... .......... .......... 57% 14.9M 0s
+   100K .......... .......... .......... .......... .......... 86% 32.9M 0s
+   150K .......... .......... ...                             100% 4.59G=0.08s
+
+2020-02-25 21:59:59 (17.2 Mb/s) - ‘/dev/null’ saved [177406/177406]
+
+200 OK
+Length: 177406 (173K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 8.59M 0s
+    50K .......... .......... .......... .......... .......... 57% 16.7M 0s
+   100K .......... .......... .......... .......... .......... 86% 25.8M 0s
+   150K .......... .......... ...                             100% 40.4M=0.09s
+
+2020-02-25 21:59:59 (15.3 Mb/s) - ‘/dev/null’ saved [177406/177406]
+
+--2020-02-25 21:59:59--  http://www.ins.ci/n/documents/Questionnaire_menage.pdf%0D
+Resolving www.ins.ci (www.ins.ci)... 46.19.123.142
+Connecting to www.ins.ci (www.ins.ci)|46.19.123.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ins.ci/n/documents/Questionnaire_menage.pdf [following]
+--2020-02-25 21:59:59--  http://www.ins.ci/n/documents/Questionnaire_menage.pdf
+Connecting to www.ins.ci (www.ins.ci)|46.19.123.142|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 177406 (173K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 8.59M 0s
+    50K .......... .......... .......... .......... .......... 57% 25.9M 0s
+   100K .......... .......... .......... .......... .......... 86% 17.1M 0s
+   150K .......... .......... ...                             100% 2.96G=0.09s
+
+2020-02-25 22:00:00 (16.2 Mb/s) - ‘/dev/null’ saved [177406/177406]
+

@@ -1,0 +1,34 @@
+--2020-02-25 23:17:03--  https://www.kgma.kg/pdf/18Polojenie_o_nagrudnom_znake_KGMA.pdf%0D
+Resolving www.kgma.kg (www.kgma.kg)... 176.126.167.152
+Connecting to www.kgma.kg (www.kgma.kg)|176.126.167.152|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.kgma.kg/ru [following]
+--2020-02-25 23:17:04--  https://www.kgma.kg/ru
+Reusing existing connection to www.kgma.kg:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.97M
+    50K .......... .......... .......... .......... .......... 3.94M
+   100K ....                                                   5.06G=0.3s
+
+2020-02-25 23:17:05 (2.76 Mb/s) - ‘/dev/null’ saved [107412]
+
+--2020-02-25 23:17:05--  https://www.kgma.kg/pdf/18Polojenie_o_nagrudnom_znake_KGMA.pdf%0D
+Resolving www.kgma.kg (www.kgma.kg)... 176.126.167.152
+Connecting to www.kgma.kg (www.kgma.kg)|176.126.167.152|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.kgma.kg/ru [following]
+--2020-02-25 23:17:06--  https://www.kgma.kg/ru
+Reusing existing connection to www.kgma.kg:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  925K
+    50K .......... .......... .......... .......... .......... 1.85M
+   100K ....                                                   2.66G=0.7s
+
+2020-02-25 23:17:07 (1.29 Mb/s) - ‘/dev/null’ saved [107412]
+

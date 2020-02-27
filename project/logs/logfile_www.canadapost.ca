@@ -1,0 +1,128 @@
+--2020-02-25 21:36:18--  https://www.canadapost.ca/santascorner%0D
+Resolving www.canadapost.ca (www.canadapost.ca)... 2.22.129.173
+Connecting to www.canadapost.ca (www.canadapost.ca)|2.22.129.173|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santascorner%0D [following]
+--2020-02-25 21:36:18--  https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santascorner%0D
+Resolving sso.epost.ca (sso.epost.ca)... 198.33.200.21
+Connecting to sso.epost.ca (sso.epost.ca)|198.33.200.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3794 (3.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100%  202M=0s
+
+2020-02-25 21:36:19 (202 Mb/s) - ‘/dev/null’ saved [3794/3794]
+
+--2020-02-25 21:36:19--  https://www.canadapost.ca/santascorner%0D
+Resolving www.canadapost.ca (www.canadapost.ca)... 2.22.129.173
+Connecting to www.canadapost.ca (www.canadapost.ca)|2.22.129.173|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santascorner%0D [following]
+--2020-02-25 21:36:19--  https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santascorner%0D
+Resolving sso.epost.ca (sso.epost.ca)... 198.33.200.21
+Connecting to sso.epost.ca (sso.epost.ca)|198.33.200.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3794 (3.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100%  831M=0s
+
+2020-02-25 21:36:19 (831 Mb/s) - ‘/dev/null’ saved [3794/3794]
+
+--2020-02-25 21:36:19--  https://www.canadapost.ca/santa%0D
+Resolving www.canadapost.ca (www.canadapost.ca)... 2.22.129.173
+Connecting to www.canadapost.ca (www.canadapost.ca)|2.22.129.173|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santa%0D [following]
+--2020-02-25 21:36:19--  https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santa%0D
+Resolving sso.epost.ca (sso.epost.ca)... 198.33.200.21
+Connecting to sso.epost.ca (sso.epost.ca)|198.33.200.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3766 (3.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 1.34G=0s
+
+2020-02-25 21:36:20 (1.34 Gb/s) - ‘/dev/null’ saved [3766/3766]
+
+--2020-02-25 21:36:20--  https://www.canadapost.ca/santa%0D
+Resolving www.canadapost.ca (www.canadapost.ca)... 2.22.129.173
+Connecting to www.canadapost.ca (www.canadapost.ca)|2.22.129.173|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santa%0D [following]
+--2020-02-25 21:36:20--  https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santa%0D
+Resolving sso.epost.ca (sso.epost.ca)... 198.33.200.21
+Connecting to sso.epost.ca (sso.epost.ca)|198.33.200.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3766 (3.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100%  181M=0s
+
+2020-02-25 21:36:20 (181 Mb/s) - ‘/dev/null’ saved [3766/3766]
+
+--2020-02-25 21:38:08--  https://www.canadapost.ca/santascorner%0D
+Resolving www.canadapost.ca (www.canadapost.ca)... 2.22.129.173
+Connecting to www.canadapost.ca (www.canadapost.ca)|2.22.129.173|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santascorner%0D [following]
+--2020-02-25 21:38:08--  https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santascorner%0D
+Resolving sso.epost.ca (sso.epost.ca)... 198.33.200.21
+Connecting to sso.epost.ca (sso.epost.ca)|198.33.200.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3794 (3.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 11.6G=0s
+
+2020-02-25 21:38:08 (11.6 Gb/s) - ‘/dev/null’ saved [3794/3794]
+
+--2020-02-25 21:38:08--  https://www.canadapost.ca/santascorner%0D
+Resolving www.canadapost.ca (www.canadapost.ca)... 2.22.129.173
+Connecting to www.canadapost.ca (www.canadapost.ca)|2.22.129.173|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santascorner%0D [following]
+--2020-02-25 21:38:09--  https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santascorner%0D
+Resolving sso.epost.ca (sso.epost.ca)... 198.33.200.21
+Connecting to sso.epost.ca (sso.epost.ca)|198.33.200.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3794 (3.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 1.38G=0s
+
+2020-02-25 21:38:09 (1.38 Gb/s) - ‘/dev/null’ saved [3794/3794]
+
+--2020-02-25 21:38:09--  https://www.canadapost.ca/santa%0D
+Resolving www.canadapost.ca (www.canadapost.ca)... 2.22.129.173
+Connecting to www.canadapost.ca (www.canadapost.ca)|2.22.129.173|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santa%0D [following]
+--2020-02-25 21:38:09--  https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santa%0D
+Resolving sso.epost.ca (sso.epost.ca)... 198.33.200.21
+Connecting to sso.epost.ca (sso.epost.ca)|198.33.200.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3766 (3.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 1.84G=0s
+
+2020-02-25 21:38:10 (1.84 Gb/s) - ‘/dev/null’ saved [3766/3766]
+
+--2020-02-25 21:38:10--  https://www.canadapost.ca/santa%0D
+Resolving www.canadapost.ca (www.canadapost.ca)... 2.22.129.173
+Connecting to www.canadapost.ca (www.canadapost.ca)|2.22.129.173|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santa%0D [following]
+--2020-02-25 21:38:10--  https://sso.epost.ca/pkmsvouchfor?CPG_eCommunity&https://www.canadapost.ca/santa%0D
+Resolving sso.epost.ca (sso.epost.ca)... 198.33.200.21
+Connecting to sso.epost.ca (sso.epost.ca)|198.33.200.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3766 (3.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 11.9G=0s
+
+2020-02-25 21:38:10 (11.9 Gb/s) - ‘/dev/null’ saved [3766/3766]
+

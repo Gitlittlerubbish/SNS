@@ -1,0 +1,12 @@
+--2020-02-26 00:29:08--  http://www.transparts.com.pg/CATALOGUES/TRANSPARTS-INDUSTRIALFITTINGS.pdf%0D
+Resolving www.transparts.com.pg (www.transparts.com.pg)... 202.171.240.208
+Connecting to www.transparts.com.pg (www.transparts.com.pg)|202.171.240.208|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:29:09 ERROR 404: Not Found.
+
+--2020-02-26 00:31:21--  http://www.transparts.com.pg/CATALOGUES/TRANSPARTS-INDUSTRIALFITTINGS.pdf%0D
+Resolving www.transparts.com.pg (www.transparts.com.pg)... 202.171.240.208
+Connecting to www.transparts.com.pg (www.transparts.com.pg)|202.171.240.208|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-26 00:31:22 ERROR 404: Not Found.
+

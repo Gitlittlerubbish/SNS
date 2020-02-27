@@ -1,0 +1,67 @@
+--2020-02-25 21:27:45--  https://www.lib.bg/publish/IFLA/IFLA_ISBD.pdf%0D
+Resolving www.lib.bg (www.lib.bg)... 195.191.149.230
+Connecting to www.lib.bg (www.lib.bg)|195.191.149.230|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.lib.bg/ [following]
+--2020-02-25 21:27:45--  http://www.lib.bg/
+Connecting to www.lib.bg (www.lib.bg)|195.191.149.230|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lib.bg/ [following]
+--2020-02-25 21:27:45--  https://www.lib.bg/
+Connecting to www.lib.bg (www.lib.bg)|195.191.149.230|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..         4.08M=0.08s
+
+2020-02-25 21:27:46 (4.08 Mb/s) - ‘/dev/null’ saved [43189]
+
+--2020-02-25 21:27:46--  https://www.lib.bg/publish/IFLA/IFLA_ISBD.pdf%0D
+Resolving www.lib.bg (www.lib.bg)... 195.191.149.230
+Connecting to www.lib.bg (www.lib.bg)|195.191.149.230|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.lib.bg/ [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 21:27:46--  https://www.lib.bg/
+Reusing existing connection to www.lib.bg:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..         4.08M=0.08s
+
+2020-02-25 21:27:46 (4.08 Mb/s) - ‘/dev/null’ saved [43174]
+
+--2020-02-25 21:32:46--  https://www.lib.bg/publish/IFLA/IFLA_ISBD.pdf%0D
+Resolving www.lib.bg (www.lib.bg)... 195.191.149.230
+Connecting to www.lib.bg (www.lib.bg)|195.191.149.230|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.lib.bg/ [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 21:32:46--  https://www.lib.bg/
+Reusing existing connection to www.lib.bg:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..         2.72M=0.1s
+
+2020-02-25 21:32:46 (2.72 Mb/s) - ‘/dev/null’ saved [43189]
+
+--2020-02-25 21:32:46--  https://www.lib.bg/publish/IFLA/IFLA_ISBD.pdf%0D
+Resolving www.lib.bg (www.lib.bg)... 195.191.149.230
+Connecting to www.lib.bg (www.lib.bg)|195.191.149.230|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.lib.bg/ [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-02-25 21:32:47--  https://www.lib.bg/
+Reusing existing connection to www.lib.bg:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..         2.72M=0.1s
+
+2020-02-25 21:32:47 (2.72 Mb/s) - ‘/dev/null’ saved [43189]
+

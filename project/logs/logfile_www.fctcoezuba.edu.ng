@@ -1,0 +1,6 @@
+--2020-02-26 00:17:04--  http://www.fctcoezuba.edu.ng/journal/journal/Vol41-5.pdf%0D
+Resolving www.fctcoezuba.edu.ng (www.fctcoezuba.edu.ng)... 104.238.93.113
+Connecting to www.fctcoezuba.edu.ng (www.fctcoezuba.edu.ng)|104.238.93.113|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:17:07 ERROR 400: Bad Request.
+

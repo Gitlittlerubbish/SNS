@@ -1,0 +1,6 @@
+--2020-02-25 23:04:55--  https://www.smarterliving.je/media/1020/q-rad_brochure-1218.pdf%0D
+Resolving www.smarterliving.je (www.smarterliving.je)... 54.194.70.9
+Connecting to www.smarterliving.je (www.smarterliving.je)|54.194.70.9|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:04:55 ERROR 400: Bad Request.
+

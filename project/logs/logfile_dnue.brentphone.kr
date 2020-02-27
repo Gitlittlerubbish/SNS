@@ -1,0 +1,6 @@
+--2020-02-25 23:13:41--  http://dnue.brentphone.kr/contents/eng_400.pdf%0D
+Resolving dnue.brentphone.kr (dnue.brentphone.kr)... 211.172.247.17
+Connecting to dnue.brentphone.kr (dnue.brentphone.kr)|211.172.247.17|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:13:42 ERROR 400: Bad Request.
+

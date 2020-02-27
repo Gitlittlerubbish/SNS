@@ -1,0 +1,6 @@
+--2020-02-25 23:32:58--  https://mazda.com.my/PriceList/WestMalaysia/2019/MazdaCX5_Price(W).pdf%0D
+Resolving mazda.com.my (mazda.com.my)... 104.26.2.190, 104.26.3.190
+Connecting to mazda.com.my (mazda.com.my)|104.26.2.190|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:32:59 ERROR 400: Bad Request.
+

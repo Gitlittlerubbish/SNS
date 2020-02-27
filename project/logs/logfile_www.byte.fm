@@ -1,0 +1,6 @@
+--2020-02-25 23:49:36--  https://www.byte.fm/static/pdf/freunde_von_bytefm.pdf%0D
+Resolving www.byte.fm (www.byte.fm)... 3.123.67.147, 35.157.109.87, 3.121.168.131
+Connecting to www.byte.fm (www.byte.fm)|3.123.67.147|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:49:36 ERROR 404: Not Found.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:04:05--  http://www.portcity.edu.bd/files/636443108440159577_amidsummernightsdream.pdf%0D
+Resolving www.portcity.edu.bd (www.portcity.edu.bd)... 198.38.83.4
+Connecting to www.portcity.edu.bd (www.portcity.edu.bd)|198.38.83.4|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:04:05 ERROR 400: Bad Request.
+
+--2020-02-25 21:14:58--  http://www.portcity.edu.bd/files/636443108440159577_amidsummernightsdream.pdf%0D
+Resolving www.portcity.edu.bd (www.portcity.edu.bd)... 198.38.83.4
+Connecting to www.portcity.edu.bd (www.portcity.edu.bd)|198.38.83.4|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:14:58 ERROR 400: Bad Request.
+

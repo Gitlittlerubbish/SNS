@@ -1,0 +1,6 @@
+--2020-02-25 23:01:42--  http://www.osc.gov.jm/Legislation/Staff%2520Order.pdf%0D
+Resolving www.osc.gov.jm (www.osc.gov.jm)... 162.254.27.82
+Connecting to www.osc.gov.jm (www.osc.gov.jm)|162.254.27.82|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 23:01:42 ERROR 400: Bad Request.
+

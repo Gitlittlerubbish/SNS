@@ -1,0 +1,12 @@
+--2020-02-25 22:28:16--  http://aiu.edu.gm/ApplicationForm2011AIUWA.pdf%0D
+Resolving aiu.edu.gm (aiu.edu.gm)... 50.63.166.121
+Connecting to aiu.edu.gm (aiu.edu.gm)|50.63.166.121|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:28:17--  http://aiu.edu.gm/ApplicationForm2011AIUWA.pdf%0D
+Resolving aiu.edu.gm (aiu.edu.gm)... 50.63.166.121
+Connecting to aiu.edu.gm (aiu.edu.gm)|50.63.166.121|:80... 404 Not Found
+2020-02-25 22:28:17 ERROR 404: Not Found.
+
+connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:28:17 ERROR 404: Not Found.
+

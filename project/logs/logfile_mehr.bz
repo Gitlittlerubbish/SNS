@@ -1,0 +1,40 @@
+--2020-02-25 21:08:10--  http://mehr.bz/raeumundstreu%0D
+Resolving mehr.bz (mehr.bz)... 213.164.78.7
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mehr.bz/raeumundstreu%0D [following]
+--2020-02-25 21:08:10--  https://mehr.bz/raeumundstreu%0D
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+
+Username/Password Authentication Failed.
+--2020-02-25 21:08:10--  http://mehr.bz/diw2014%0D
+Resolving mehr.bz (mehr.bz)... 213.164.78.7
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mehr.bz/diw2014%0D [following]
+--2020-02-25 21:08:10--  https://mehr.bz/diw2014%0D
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+
+Username/Password Authentication Failed.
+--2020-02-25 21:18:01--  http://mehr.bz/raeumundstreu%0D
+Resolving mehr.bz (mehr.bz)... 213.164.78.7
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mehr.bz/raeumundstreu%0D [following]
+--2020-02-25 21:18:01--  https://mehr.bz/raeumundstreu%0D
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+
+Username/Password Authentication Failed.
+--2020-02-25 21:18:02--  http://mehr.bz/diw2014%0D
+Resolving mehr.bz (mehr.bz)... 213.164.78.7
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mehr.bz/diw2014%0D [following]
+--2020-02-25 21:18:02--  https://mehr.bz/diw2014%0D
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+
+Username/Password Authentication Failed.

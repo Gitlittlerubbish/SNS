@@ -1,0 +1,6 @@
+--2020-02-25 22:52:32--  https://www.kemdikbud.go.id/main/files/download/7bdf2592741007e%0D
+Resolving www.kemdikbud.go.id (www.kemdikbud.go.id)... 118.98.227.101
+Connecting to www.kemdikbud.go.id (www.kemdikbud.go.id)|118.98.227.101|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 22:52:34 ERROR 400: Bad Request.
+

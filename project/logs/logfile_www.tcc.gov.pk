@@ -1,0 +1,6 @@
+--2020-02-26 00:24:39--  http://www.tcc.gov.pk/Downloads/FCTC.pdf%0D
+Resolving www.tcc.gov.pk (www.tcc.gov.pk)... 210.56.11.13
+Connecting to www.tcc.gov.pk (www.tcc.gov.pk)|210.56.11.13|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:24:40 ERROR 400: Bad Request.
+

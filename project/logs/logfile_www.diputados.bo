@@ -1,0 +1,12 @@
+--2020-02-25 21:16:43--  http://www.diputados.bo/sites/default/files/cpe2014.pdf%0D
+Resolving www.diputados.bo (www.diputados.bo)... 181.115.186.90
+Connecting to www.diputados.bo (www.diputados.bo)|181.115.186.90|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:16:45 ERROR 404: Not Found.
+
+--2020-02-25 21:24:07--  http://www.diputados.bo/sites/default/files/cpe2014.pdf%0D
+Resolving www.diputados.bo (www.diputados.bo)... 181.115.186.90
+Connecting to www.diputados.bo (www.diputados.bo)|181.115.186.90|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:09 ERROR 404: Not Found.
+

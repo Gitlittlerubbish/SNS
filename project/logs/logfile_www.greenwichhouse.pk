@@ -1,0 +1,7 @@
+--2020-02-26 00:24:02--  http://www.greenwichhouse.pk/PDFs/Admission_Form.pdf%0D
+Resolving www.greenwichhouse.pk (www.greenwichhouse.pk)... 111.68.107.181, 111.68.107.178, 111.68.107.179, ...
+Connecting to www.greenwichhouse.pk (www.greenwichhouse.pk)|111.68.107.181|:80... failed: Connection timed out.
+Connecting to www.greenwichhouse.pk (www.greenwichhouse.pk)|111.68.107.178|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:24:06 ERROR 400: Bad Request.
+

@@ -1,0 +1,76 @@
+--2020-02-25 21:27:52--  https://www.gov.bg/files/common/Doklad_DAR.pdf%0D
+Resolving www.gov.bg (www.gov.bg)... 212.122.160.97
+Connecting to www.gov.bg (www.gov.bg)|212.122.160.97|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Location: https://www.gov.bg/bg/404 [following]
+--2020-02-25 21:27:52--  https://www.gov.bg/bg/404
+Reusing existing connection to www.gov.bg:443.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ..                                          2.82M=0.04s
+
+2020-02-25 21:27:53 (2.82 Mb/s) - ‘/dev/null’ saved [12849]
+
+--2020-02-25 21:27:53--  https://www.gov.bg/files/common/Doklad_DAR.pdf%0D
+Resolving www.gov.bg (www.gov.bg)... 212.122.160.97
+Connecting to www.gov.bg (www.gov.bg)|212.122.160.97|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Location: https://www.gov.bg/bg/404 [following]
+--2020-02-25 21:27:53--  https://www.gov.bg/bg/404
+Reusing existing connection to www.gov.bg:443.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ..                                          2.80M=0.04s
+
+2020-02-25 21:27:53 (2.80 Mb/s) - ‘/dev/null’ saved [12849]
+
+--2020-02-25 21:32:50--  https://www.gov.bg/files/common/Doklad_DAR.pdf%0D
+Resolving www.gov.bg (www.gov.bg)... 212.122.160.97
+Connecting to www.gov.bg (www.gov.bg)|212.122.160.97|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Location: https://www.gov.bg/bg/404 [following]
+--2020-02-25 21:32:50--  https://www.gov.bg/bg/404
+Reusing existing connection to www.gov.bg:443.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ..                                          2.82M=0.04s
+
+2020-02-25 21:32:51 (2.82 Mb/s) - ‘/dev/null’ saved [12849]
+
+--2020-02-25 21:32:51--  https://www.gov.bg/files/common/Doklad_DAR.pdf%0D
+Resolving www.gov.bg (www.gov.bg)... 212.122.160.97
+Connecting to www.gov.bg (www.gov.bg)|212.122.160.97|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Location: https://www.gov.bg/bg/404 [following]
+--2020-02-25 21:32:51--  https://www.gov.bg/bg/404
+Reusing existing connection to www.gov.bg:443.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Cookie coming from www.gov.bg attempted to set domain to gov.bg
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ..                                          2.82M=0.04s
+
+2020-02-25 21:32:51 (2.82 Mb/s) - ‘/dev/null’ saved [12849]
+

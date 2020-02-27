@@ -1,0 +1,42 @@
+--2020-02-25 23:03:29--  http://www.ndhl.jp/pdf/bus.pdf%0D
+Resolving www.ndhl.jp (www.ndhl.jp)... 219.94.206.170
+Connecting to www.ndhl.jp (www.ndhl.jp)|219.94.206.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ndhl.jp/pdf/bus.pdf [following]
+--2020-02-25 23:03:30--  https://www.ndhl.jp/pdf/bus.pdf
+Connecting to www.ndhl.jp (www.ndhl.jp)|219.94.206.170|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319545 (312K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16%  925K 2s
+    50K .......... .......... .......... .......... .......... 32% 1.85M 1s
+   100K .......... .......... .......... .......... .......... 48% 1.85M 1s
+   150K .......... .......... .......... .......... .......... 64%  406M 0s
+   200K .......... .......... .......... .......... .......... 80%  883M 0s
+   250K .......... .......... .......... .......... .......... 96% 1.86M 0s
+   300K .......... ..                                         100%  381M=1.1s
+
+2020-02-25 23:03:33 (2.31 Mb/s) - ‘/dev/null’ saved [319545/319545]
+
+--2020-02-25 23:03:33--  http://www.ndhl.jp/pdf/bus.pdf%0D
+Resolving www.ndhl.jp (www.ndhl.jp)... 219.94.206.170
+Connecting to www.ndhl.jp (www.ndhl.jp)|219.94.206.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ndhl.jp/pdf/bus.pdf [following]
+--2020-02-25 23:03:34--  https://www.ndhl.jp/pdf/bus.pdf
+Connecting to www.ndhl.jp (www.ndhl.jp)|219.94.206.170|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319545 (312K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 1.01M 2s
+    50K .......... .......... .......... .......... .......... 32% 1.85M 1s
+   100K .......... .......... .......... .......... .......... 48% 11.1M 1s
+   150K .......... .......... .......... .......... .......... 64% 2.22M 0s
+   200K .......... .......... .......... .......... .......... 80%  389M 0s
+   250K .......... .......... .......... .......... .......... 96% 11.4M 0s
+   300K .......... ..                                         100%  430M=0.9s
+
+2020-02-25 23:03:36 (2.89 Mb/s) - ‘/dev/null’ saved [319545/319545]
+

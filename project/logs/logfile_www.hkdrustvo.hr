@@ -1,0 +1,60 @@
+--2020-02-25 22:00:34--  https://www.hkdrustvo.hr/datoteke/399%0D
+Resolving www.hkdrustvo.hr (www.hkdrustvo.hr)... 185.58.73.14
+Connecting to www.hkdrustvo.hr (www.hkdrustvo.hr)|185.58.73.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 9.09M
+    50K .......... .........                                   2.99G=0.05s
+
+2020-02-25 22:00:35 (12.7 Mb/s) - ‘/dev/null’ saved [71562]
+
+--2020-02-25 22:00:35--  https://www.hkdrustvo.hr/datoteke/399%0D
+Resolving www.hkdrustvo.hr (www.hkdrustvo.hr)... 185.58.73.14
+Connecting to www.hkdrustvo.hr (www.hkdrustvo.hr)|185.58.73.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 8.72M
+    50K .......... .........                                   1.84G=0.05s
+
+2020-02-25 22:00:35 (12.2 Mb/s) - ‘/dev/null’ saved [71562]
+
+--2020-02-25 22:00:35--  https://www.hkdrustvo.hr/datoteke/3245%0D
+Resolving www.hkdrustvo.hr (www.hkdrustvo.hr)... 185.58.73.14
+Connecting to www.hkdrustvo.hr (www.hkdrustvo.hr)|185.58.73.14|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:00:35--  https://www.hkdrustvo.hr/datoteke/399%0D
+Resolving www.hkdrustvo.hr (www.hkdrustvo.hr)... 185.58.73.14
+Connecting to www.hkdrustvo.hr (www.hkdrustvo.hr)|185.58.73.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 9.09M
+    50K .......... .........                                   5.76G=0.05s
+
+2020-02-25 22:00:35 (12.7 Mb/s) - ‘/dev/null’ saved [71562]
+
+--2020-02-25 22:00:35--  https://www.hkdrustvo.hr/datoteke/399%0D
+Resolving www.hkdrustvo.hr (www.hkdrustvo.hr)... 185.58.73.14
+Connecting to www.hkdrustvo.hr (www.hkdrustvo.hr)|185.58.73.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 8.86M
+    50K .......... .........                                   1.03G=0.05s
+
+2020-02-25 22:00:36 (12.3 Mb/s) - ‘/dev/null’ saved [71562]
+
+--2020-02-25 22:00:36--  https://www.hkdrustvo.hr/datoteke/3245%0D
+Resolving www.hkdrustvo.hr (www.hkdrustvo.hr)... 185.58.73.14
+Connecting to www.hkdrustvo.hr (www.hkdrustvo.hr)|185.58.73.14|:443... connected.
+HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
+Giving up.
+
+Read error (Connection timed out) in headers.
+Giving up.
+

@@ -1,0 +1,6 @@
+--2020-02-26 00:23:56--  https://hsedocs.pdo.com.om/FormServerTemplates/L3LiftingOperationsandequipmentmanagementCheckListfinal.pdf%0D
+Resolving hsedocs.pdo.com.om (hsedocs.pdo.com.om)... 185.233.168.177
+Connecting to hsedocs.pdo.com.om (hsedocs.pdo.com.om)|185.233.168.177|:443... connected.
+ERROR: cannot verify hsedocs.pdo.com.om's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to hsedocs.pdo.com.om insecurely, use `--no-check-certificate'.

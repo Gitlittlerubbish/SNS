@@ -1,0 +1,12 @@
+--2020-02-25 22:22:56--  http://www.debart.fr/pdf/triangle_equilateral.pdf%0D
+Resolving www.debart.fr (www.debart.fr)... 81.169.145.75
+Connecting to www.debart.fr (www.debart.fr)|81.169.145.75|:80... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:22:56--  http://www.debart.fr/pdf/triangle_equilateral.pdf%0D
+Resolving www.debart.fr (www.debart.fr)... 81.169.145.75
+Connecting to www.debart.fr (www.debart.fr)|81.169.145.75|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 22:22:56 ERROR 404: Not Found.
+
+2020-02-25 22:22:56 ERROR 404: Not Found.
+

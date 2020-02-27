@@ -1,0 +1,12 @@
+--2020-02-25 21:26:07--  https://www.aiti.gov.bn/AmateurRadioPastPapers/AMR-06-2011.pdf%0D
+Resolving www.aiti.gov.bn (www.aiti.gov.bn)... 202.152.78.37
+Connecting to www.aiti.gov.bn (www.aiti.gov.bn)|202.152.78.37|:443... connected.
+ERROR: cannot verify www.aiti.gov.bn's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.aiti.gov.bn insecurely, use `--no-check-certificate'.
+--2020-02-25 21:31:22--  https://www.aiti.gov.bn/AmateurRadioPastPapers/AMR-06-2011.pdf%0D
+Resolving www.aiti.gov.bn (www.aiti.gov.bn)... 202.152.78.37
+Connecting to www.aiti.gov.bn (www.aiti.gov.bn)|202.152.78.37|:443... connected.
+ERROR: cannot verify www.aiti.gov.bn's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
+  Unable to locally verify the issuer's authority.
+To connect to www.aiti.gov.bn insecurely, use `--no-check-certificate'.

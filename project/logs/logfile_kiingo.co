@@ -1,0 +1,12 @@
+--2020-02-25 21:51:02--  https://kiingo.co/A%0D
+Resolving kiingo.co (kiingo.co)... 52.33.107.163
+Connecting to kiingo.co (kiingo.co)|52.33.107.163|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:51:03 ERROR 400: Bad Request.
+
+--2020-02-25 21:51:08--  https://kiingo.co/A%0D
+Resolving kiingo.co (kiingo.co)... 52.33.107.163
+Connecting to kiingo.co (kiingo.co)|52.33.107.163|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:51:09 ERROR 400: Bad Request.
+

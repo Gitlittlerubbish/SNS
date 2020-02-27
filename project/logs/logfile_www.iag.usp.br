@@ -1,0 +1,12 @@
+--2020-02-25 21:19:52--  https://www.iag.usp.br/~eder/guia_relatorio.pdf%0D
+Resolving www.iag.usp.br (www.iag.usp.br)... 143.107.18.8
+Connecting to www.iag.usp.br (www.iag.usp.br)|143.107.18.8|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:54 ERROR 404: Not Found.
+
+--2020-02-25 21:26:07--  https://www.iag.usp.br/~eder/guia_relatorio.pdf%0D
+Resolving www.iag.usp.br (www.iag.usp.br)... 143.107.18.8
+Connecting to www.iag.usp.br (www.iag.usp.br)|143.107.18.8|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:26:09 ERROR 404: Not Found.
+

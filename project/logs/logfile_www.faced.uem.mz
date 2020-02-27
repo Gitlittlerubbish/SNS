@@ -1,0 +1,6 @@
+--2020-02-25 23:59:26--  http://www.faced.uem.mz/images/rcd.pdf%0D
+Resolving www.faced.uem.mz (www.faced.uem.mz)... 196.3.96.21
+Connecting to www.faced.uem.mz (www.faced.uem.mz)|196.3.96.21|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:59:27 ERROR 404: Not Found.
+

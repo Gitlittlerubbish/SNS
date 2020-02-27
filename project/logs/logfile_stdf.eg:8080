@@ -1,0 +1,12 @@
+--2020-02-25 22:11:40--  http://stdf.eg:8080/web/download/352153%0D
+Resolving stdf.eg (stdf.eg)... --2020-02-25 22:11:40--  http://stdf.eg:8080/web/download/352153%0D
+Resolving stdf.eg (stdf.eg)... 195.43.18.114
+Connecting to stdf.eg (stdf.eg)|195.43.18.114|:8080... 195.43.18.114
+Connecting to stdf.eg (stdf.eg)|195.43.18.114|:8080... connected.
+HTTP request sent, awaiting response... connected.
+HTTP request sent, awaiting response... 404 Not Found
+404 Not Found
+2020-02-25 22:11:40 ERROR 404: Not Found.
+
+2020-02-25 22:11:40 ERROR 404: Not Found.
+

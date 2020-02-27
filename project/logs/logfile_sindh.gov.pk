@@ -1,0 +1,6 @@
+--2020-02-26 00:23:57--  https://sindh.gov.pk/PakistanITPolicyandActionplan.pdf%0D
+Resolving sindh.gov.pk (sindh.gov.pk)... 203.101.184.123
+Connecting to sindh.gov.pk (sindh.gov.pk)|203.101.184.123|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:23:58 ERROR 400: Bad Request.
+

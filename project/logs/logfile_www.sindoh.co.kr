@@ -1,0 +1,6 @@
+--2020-02-25 23:14:25--  https://www.sindoh.co.kr/upload/downcenter/1207119886219909.pdf%0D
+Resolving www.sindoh.co.kr (www.sindoh.co.kr)... 221.146.165.148
+Connecting to www.sindoh.co.kr (www.sindoh.co.kr)|221.146.165.148|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.sindoh.co.kr’.
+To connect to www.sindoh.co.kr insecurely, use `--no-check-certificate'.

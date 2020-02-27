@@ -1,0 +1,6 @@
+--2020-02-26 00:22:36--  http://www.asu.edu.om/downloads/University-Catalogue.pdf%0D
+Resolving www.asu.edu.om (www.asu.edu.om)... 107.180.46.162
+Connecting to www.asu.edu.om (www.asu.edu.om)|107.180.46.162|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:22:36 ERROR 400: Bad Request.
+

@@ -1,0 +1,12 @@
+--2020-02-25 21:26:45--  http://www.mof.gov.bn/MOD%2520Tender%2520Documents/DORSRM10.pdf%0D
+Resolving www.mof.gov.bn (www.mof.gov.bn)... 103.4.188.86
+Connecting to www.mof.gov.bn (www.mof.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:26:46 ERROR 400: Bad Request.
+
+--2020-02-25 21:31:57--  http://www.mof.gov.bn/MOD%2520Tender%2520Documents/DORSRM10.pdf%0D
+Resolving www.mof.gov.bn (www.mof.gov.bn)... 103.4.188.86
+Connecting to www.mof.gov.bn (www.mof.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:31:57 ERROR 400: Bad Request.
+

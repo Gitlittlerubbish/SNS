@@ -1,0 +1,6 @@
+--2020-02-26 00:24:23--  https://www.ecp.gov.pk/servicesrules.pdf%0D
+Resolving www.ecp.gov.pk (www.ecp.gov.pk)... 182.176.19.106, 182.176.19.105
+Connecting to www.ecp.gov.pk (www.ecp.gov.pk)|182.176.19.106|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-26 00:24:24 ERROR 400: Bad Request.
+

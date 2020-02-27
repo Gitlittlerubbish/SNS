@@ -1,0 +1,12 @@
+--2020-02-25 20:56:39--  http://netk.net.au/Psychology/Psychology17.pdf%0D
+Resolving netk.net.au (netk.net.au)... 223.27.17.111
+Connecting to netk.net.au (netk.net.au)|223.27.17.111|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 20:56:40 ERROR 400: Bad Request.
+
+--2020-02-25 21:09:13--  http://netk.net.au/Psychology/Psychology17.pdf%0D
+Resolving netk.net.au (netk.net.au)... 223.27.17.111
+Connecting to netk.net.au (netk.net.au)|223.27.17.111|:80... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2020-02-25 21:09:13 ERROR 400: Bad Request.
+

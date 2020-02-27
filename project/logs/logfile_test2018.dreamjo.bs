@@ -1,0 +1,30 @@
+--2020-02-25 21:01:55--  http://test2018.dreamjo.bs/docs/suti-szabalyzat.pdf%0D
+Resolving test2018.dreamjo.bs (test2018.dreamjo.bs)... 104.28.22.115, 104.28.23.115
+Connecting to test2018.dreamjo.bs (test2018.dreamjo.bs)|104.28.22.115|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://test2018.dreamjo.bs/docs/suti-szabalyzat.pdf%0D [following]
+--2020-02-25 21:01:55--  https://test2018.dreamjo.bs/docs/suti-szabalyzat.pdf%0D
+Connecting to test2018.dreamjo.bs (test2018.dreamjo.bs)|104.28.22.115|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://test.dreamjo.bs [following]
+--2020-02-25 21:01:55--  https://test.dreamjo.bs/
+Resolving test.dreamjo.bs (test.dreamjo.bs)... 104.28.23.115, 104.28.22.115
+Connecting to test.dreamjo.bs (test.dreamjo.bs)|104.28.23.115|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+
+Username/Password Authentication Failed.
+--2020-02-25 21:13:21--  http://test2018.dreamjo.bs/docs/suti-szabalyzat.pdf%0D
+Resolving test2018.dreamjo.bs (test2018.dreamjo.bs)... 104.28.22.115, 104.28.23.115
+Connecting to test2018.dreamjo.bs (test2018.dreamjo.bs)|104.28.22.115|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://test2018.dreamjo.bs/docs/suti-szabalyzat.pdf%0D [following]
+--2020-02-25 21:13:21--  https://test2018.dreamjo.bs/docs/suti-szabalyzat.pdf%0D
+Connecting to test2018.dreamjo.bs (test2018.dreamjo.bs)|104.28.22.115|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://test.dreamjo.bs [following]
+--2020-02-25 21:13:21--  https://test.dreamjo.bs/
+Resolving test.dreamjo.bs (test.dreamjo.bs)... 104.28.23.115, 104.28.22.115
+Connecting to test.dreamjo.bs (test.dreamjo.bs)|104.28.23.115|:443... connected.
+HTTP request sent, awaiting response... 401 Unauthorized
+
+Username/Password Authentication Failed.

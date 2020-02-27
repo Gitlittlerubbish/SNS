@@ -1,0 +1,12 @@
+--2020-02-25 21:15:52--  https://elpais.bo/14-01-2019-comodin/%0D
+Resolving elpais.bo (elpais.bo)... 45.76.61.201
+Connecting to elpais.bo (elpais.bo)|45.76.61.201|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:15:55 ERROR 404: Not Found.
+
+--2020-02-25 21:23:24--  https://elpais.bo/14-01-2019-comodin/%0D
+Resolving elpais.bo (elpais.bo)... 45.76.61.201
+Connecting to elpais.bo (elpais.bo)|45.76.61.201|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:23:27 ERROR 404: Not Found.
+

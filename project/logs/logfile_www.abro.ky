@@ -1,0 +1,12 @@
+--2020-02-25 21:39:02--  http://www.abro.ky/assets/volume-3-issue-3.pdf%0D
+Resolving www.abro.ky (www.abro.ky)... 107.0.182.126
+Connecting to www.abro.ky (www.abro.ky)|107.0.182.126|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:39:02 ERROR 404: Not Found.
+
+--2020-02-25 21:40:11--  http://www.abro.ky/assets/volume-3-issue-3.pdf%0D
+Resolving www.abro.ky (www.abro.ky)... 107.0.182.126
+Connecting to www.abro.ky (www.abro.ky)|107.0.182.126|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:40:11 ERROR 404: Not Found.
+

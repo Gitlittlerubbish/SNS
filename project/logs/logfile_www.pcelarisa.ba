@@ -1,0 +1,12 @@
+--2020-02-25 21:17:05--  http://www.pcelarisa.ba/podrska/text_4.pdf%0D
+Resolving www.pcelarisa.ba (www.pcelarisa.ba)... 185.212.108.129
+Connecting to www.pcelarisa.ba (www.pcelarisa.ba)|185.212.108.129|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:17:06 ERROR 404: Not Found.
+
+--2020-02-25 21:24:20--  http://www.pcelarisa.ba/podrska/text_4.pdf%0D
+Resolving www.pcelarisa.ba (www.pcelarisa.ba)... 185.212.108.129
+Connecting to www.pcelarisa.ba (www.pcelarisa.ba)|185.212.108.129|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:24:20 ERROR 404: Not Found.
+

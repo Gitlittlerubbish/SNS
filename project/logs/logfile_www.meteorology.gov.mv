@@ -1,0 +1,6 @@
+--2020-02-25 23:41:06--  http://www.meteorology.gov.mv/uploads/e2ef524fbf3d9fe611d5a8e90fefdc9c.pdf%0D
+Resolving www.meteorology.gov.mv (www.meteorology.gov.mv)... 202.1.207.53
+Connecting to www.meteorology.gov.mv (www.meteorology.gov.mv)|202.1.207.53|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:41:07 ERROR 404: Not Found.
+

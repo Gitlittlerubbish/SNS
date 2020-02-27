@@ -1,0 +1,12 @@
+--2020-02-25 21:09:03--  https://www.heo.bz/store/medias/sailing/5dd/34e/8c3/original/5dd34e8c39819f3668f5f5f7.pdf%0D
+Resolving www.heo.bz (www.heo.bz)... 51.77.189.115
+Connecting to www.heo.bz (www.heo.bz)|51.77.189.115|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.heo.bz’.
+To connect to www.heo.bz insecurely, use `--no-check-certificate'.
+--2020-02-25 21:18:38--  https://www.heo.bz/store/medias/sailing/5dd/34e/8c3/original/5dd34e8c39819f3668f5f5f7.pdf%0D
+Resolving www.heo.bz (www.heo.bz)... 51.77.189.115
+Connecting to www.heo.bz (www.heo.bz)|51.77.189.115|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘www.heo.bz’.
+To connect to www.heo.bz insecurely, use `--no-check-certificate'.

@@ -1,0 +1,6 @@
+--2020-02-25 23:20:25--  http://colla.lv/wp-content/uploads/2016/07/Introduction_to_WCS.pdf%0D
+Resolving colla.lv (colla.lv)... 81.198.171.116
+Connecting to colla.lv (colla.lv)|81.198.171.116|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:20:27 ERROR 404: Not Found.
+

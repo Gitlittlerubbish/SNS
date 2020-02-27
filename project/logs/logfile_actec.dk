@@ -1,0 +1,12 @@
+--2020-02-25 22:06:11--  https://actec.dk/media/documents/70FC46554038.pdf%0D
+Resolving actec.dk (actec.dk)... 104.24.109.217, 104.24.108.217
+Connecting to actec.dk (actec.dk)|104.24.109.217|:443... connected.
+HTTP request sent, awaiting response... --2020-02-25 22:06:11--  https://actec.dk/media/documents/70FC46554038.pdf%0D
+Resolving actec.dk (actec.dk)... 104.24.108.217, 104.24.109.217
+Connecting to actec.dk (actec.dk)|104.24.108.217|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 22:06:11 ERROR 404: Not Found.
+
+404 Not Found
+2020-02-25 22:06:11 ERROR 404: Not Found.
+

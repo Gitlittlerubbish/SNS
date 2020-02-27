@@ -1,0 +1,6 @@
+--2020-02-25 23:24:15--  https://zhihao.li/anycast_sigcomm18.pdf%0D
+Resolving zhihao.li (zhihao.li)... 167.99.103.171
+Connecting to zhihao.li (zhihao.li)|167.99.103.171|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 23:24:16 ERROR 404: Not Found.
+

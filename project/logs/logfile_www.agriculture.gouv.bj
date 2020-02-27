@@ -1,0 +1,20 @@
+--2020-02-25 21:09:46--  http://www.agriculture.gouv.bj/IMG/pdf/livre_bonne_pratique_d_hygiene.pdf%0D
+Resolving www.agriculture.gouv.bj (www.agriculture.gouv.bj)... 137.255.9.103
+Connecting to www.agriculture.gouv.bj (www.agriculture.gouv.bj)|137.255.9.103|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.agriculture.gouv.bj/IMG/pdf/livre_bonne_pratique_d_hygiene.pdf%0d [following]
+--2020-02-25 21:09:47--  https://www.agriculture.gouv.bj/IMG/pdf/livre_bonne_pratique_d_hygiene.pdf%0d
+Connecting to www.agriculture.gouv.bj (www.agriculture.gouv.bj)|137.255.9.103|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:09:47 ERROR 404: Not Found.
+
+--2020-02-25 21:19:10--  http://www.agriculture.gouv.bj/IMG/pdf/livre_bonne_pratique_d_hygiene.pdf%0D
+Resolving www.agriculture.gouv.bj (www.agriculture.gouv.bj)... 137.255.9.103
+Connecting to www.agriculture.gouv.bj (www.agriculture.gouv.bj)|137.255.9.103|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.agriculture.gouv.bj/IMG/pdf/livre_bonne_pratique_d_hygiene.pdf%0d [following]
+--2020-02-25 21:19:10--  https://www.agriculture.gouv.bj/IMG/pdf/livre_bonne_pratique_d_hygiene.pdf%0d
+Connecting to www.agriculture.gouv.bj (www.agriculture.gouv.bj)|137.255.9.103|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-25 21:19:11 ERROR 404: Not Found.
+
