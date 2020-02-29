@@ -1,6 +1,0 @@
---2020-02-26 00:27:33--  https://www.starrett.com.pa/download_manual.asp%3Ffile%3Dp_886_4010.pdf%0D
-Resolving www.starrett.com.pa (www.starrett.com.pa)... 186.202.128.243
-Connecting to www.starrett.com.pa (www.starrett.com.pa)|186.202.128.243|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:27:35 ERROR 400: Bad Request.
-

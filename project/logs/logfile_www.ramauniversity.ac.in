@@ -1,6 +1,0 @@
---2020-02-25 22:50:18--  https://www.ramauniversity.ac.in/icipr2018/Bluebook.pdf%0D
-Resolving www.ramauniversity.ac.in (www.ramauniversity.ac.in)... 182.50.151.47
-Connecting to www.ramauniversity.ac.in (www.ramauniversity.ac.in)|182.50.151.47|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:50:19 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 23:15:46--  https://www.moh.gov.kw/UserGuides/3.pdf%0D
-Resolving www.moh.gov.kw (www.moh.gov.kw)... 83.96.35.211
-Connecting to www.moh.gov.kw (www.moh.gov.kw)|83.96.35.211|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:15:46 ERROR 400: Bad Request.
-

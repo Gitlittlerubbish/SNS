@@ -1,6 +1,0 @@
---2020-02-25 23:33:14--  https://iperkeso.gov.my/employer-quick-start-guide%0D
-Resolving iperkeso.gov.my (iperkeso.gov.my)... 112.137.168.226
-Connecting to iperkeso.gov.my (iperkeso.gov.my)|112.137.168.226|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘iperkeso.gov.my’.
-To connect to iperkeso.gov.my insecurely, use `--no-check-certificate'.

@@ -1,8 +1,0 @@
---2020-02-25 23:01:46--  https://www.caribbeanlanguages.org.jm/sites/default/files/uwi/2017_18_UG_Tuition_Fees_June_26.pdf%0D
-Resolving www.caribbeanlanguages.org.jm (www.caribbeanlanguages.org.jm)... 196.3.0.169
-Connecting to www.caribbeanlanguages.org.jm (www.caribbeanlanguages.org.jm)|196.3.0.169|:443... connected.
-ERROR: cannot verify www.caribbeanlanguages.org.jm's certificate, issued by ‘CN=VeriSign Class 3 International Server CA - G3,OU=Terms of use at https://www.verisign.com/rpa (c)10,OU=VeriSign Trust Network,O=VeriSign\\, Inc.,C=US’:
-  Issued certificate has expired.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘www.caribbeanlanguages.org.jm’.
-To connect to www.caribbeanlanguages.org.jm insecurely, use `--no-check-certificate'.

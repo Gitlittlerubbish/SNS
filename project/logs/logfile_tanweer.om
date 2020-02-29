@@ -1,6 +1,0 @@
---2020-02-26 00:23:12--  https://tanweer.om/uploadsall/vacancy/430091499.pdf%0D
-Resolving tanweer.om (tanweer.om)... 185.64.24.112
-Connecting to tanweer.om (tanweer.om)|185.64.24.112|:443... connected.
-ERROR: cannot verify tanweer.om's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to tanweer.om insecurely, use `--no-check-certificate'.

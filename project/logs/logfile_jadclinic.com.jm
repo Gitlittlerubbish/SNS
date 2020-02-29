@@ -1,6 +1,0 @@
---2020-02-25 23:01:04--  https://jadclinic.com.jm/media/fina_open_water_swimming_manual_2015_edition.pdf%0D
-Resolving jadclinic.com.jm (jadclinic.com.jm)... 45.79.214.191
-Connecting to jadclinic.com.jm (jadclinic.com.jm)|45.79.214.191|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘jadclinic.com.jm’.
-To connect to jadclinic.com.jm insecurely, use `--no-check-certificate'.

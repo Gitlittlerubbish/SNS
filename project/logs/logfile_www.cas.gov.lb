@@ -1,6 +1,0 @@
---2020-02-25 23:21:13--  http://www.cas.gov.lb/images/PDFs/enviromment.pdf%0D
-Resolving www.cas.gov.lb (www.cas.gov.lb)... 85.112.85.5
-Connecting to www.cas.gov.lb (www.cas.gov.lb)|85.112.85.5|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:21:13 ERROR 400: Bad Request.
-

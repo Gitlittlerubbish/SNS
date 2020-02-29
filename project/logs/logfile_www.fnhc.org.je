@@ -1,6 +1,0 @@
---2020-02-25 23:04:52--  https://www.fnhc.org.je/media/42535/seriousuntowardincident.pdf%0D
-Resolving www.fnhc.org.je (www.fnhc.org.je)... 54.72.118.82
-Connecting to www.fnhc.org.je (www.fnhc.org.je)|54.72.118.82|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:04:52 ERROR 400: Bad Request.
-

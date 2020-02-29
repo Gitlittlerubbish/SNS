@@ -1,6 +1,0 @@
---2020-02-25 23:02:37--  https://www.janu.jp/eng/01_hokkaido.pdf%0D
-Resolving www.janu.jp (www.janu.jp)... 164.70.19.211
-Connecting to www.janu.jp (www.janu.jp)|164.70.19.211|:443... connected.
-ERROR: cannot verify www.janu.jp's certificate, issued by ‘CN=Cybertrust Japan Secure Server CA,O=Cybertrust Japan Co.\\, Ltd.,C=JP’:
-  Issued certificate has expired.
-To connect to www.janu.jp insecurely, use `--no-check-certificate'.

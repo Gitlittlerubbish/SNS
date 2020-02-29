@@ -1,6 +1,0 @@
---2020-02-25 23:26:03--  http://www.in-visible.lu/Content/pdf/Surefire_Catalog.pdf%0D
-Resolving www.in-visible.lu (www.in-visible.lu)... 212.24.220.233
-Connecting to www.in-visible.lu (www.in-visible.lu)|212.24.220.233|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:26:03 ERROR 400: Bad Request.
-

@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 
 batch_size = 128
 
-epochs = 1
+epochs = 100
 
 df = pd.read_csv('data.csv')
 ip_df = df.drop(['Domain', 'Ip', 'Throughput', 'Unit'], axis = 1)
@@ -26,9 +26,7 @@ for item in l:
     ll.append(item)
 
 Y = np.array(ll)
-max_tp = Y.max()
-Y /= max_tp
-
+Y /= 1024
 print(Y.shape)
 
 # get the ndarray of X
@@ -65,7 +63,7 @@ def build_model():
     return model
 
 model = build_model()
-# model.fit(X_train, Y_train, epochs=80, batch_size=16, verbose=1)
+model.fit(X_train, Y_train, epochs=80, batch_size=16, verbose=1)
 
 ##########
 k = 4

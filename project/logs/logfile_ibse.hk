@@ -1,6 +1,0 @@
---2020-02-25 22:45:56--  http://ibse.hk/SBS5222/Building_and_Environment_v103y2016p36-43.pdf%0D
-Resolving ibse.hk (ibse.hk)... 203.135.129.51
-Connecting to ibse.hk (ibse.hk)|203.135.129.51|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:45:57 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 23:33:31--  http://www.micpa.com.my/micpamember/cpa_review/02.pdf%0D
-Resolving www.micpa.com.my (www.micpa.com.my)... 210.48.155.83
-Connecting to www.micpa.com.my (www.micpa.com.my)|210.48.155.83|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:33:32 ERROR 400: Bad Request.
-

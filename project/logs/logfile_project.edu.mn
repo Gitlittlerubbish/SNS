@@ -1,6 +1,0 @@
---2020-02-25 23:53:12--  http://project.edu.mn/uploads/3.pdf%0D
-Resolving project.edu.mn (project.edu.mn)... 203.217.139.14
-Connecting to project.edu.mn (project.edu.mn)|203.217.139.14|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:53:13 ERROR 400: Bad Request.
-

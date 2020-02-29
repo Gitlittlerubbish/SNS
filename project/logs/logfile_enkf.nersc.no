@@ -1,6 +1,0 @@
---2020-02-26 00:22:16--  https://enkf.nersc.no/Publications/hou05b.pdf%0D
-Resolving enkf.nersc.no (enkf.nersc.no)... 158.37.60.216
-Connecting to enkf.nersc.no (enkf.nersc.no)|158.37.60.216|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:22:17 ERROR 404: Not Found.
-

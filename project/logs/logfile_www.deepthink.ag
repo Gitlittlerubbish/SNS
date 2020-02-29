@@ -1,6 +1,0 @@
---2020-02-25 21:04:56--  https://www.deepthink.ag/hra/books/2008_005_001_14981.pdf%0D
-Resolving www.deepthink.ag (www.deepthink.ag)... 88.79.251.62
-Connecting to www.deepthink.ag (www.deepthink.ag)|88.79.251.62|:443... connected.
-ERROR: cannot verify www.deepthink.ag's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.deepthink.ag insecurely, use `--no-check-certificate'.

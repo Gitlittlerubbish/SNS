@@ -1,6 +1,0 @@
---2020-02-25 22:44:32--  http://www.sre.gob.hn/inicio/Leyes/ley_servicio_civil_1968.pdf%0D
-Resolving www.sre.gob.hn (www.sre.gob.hn)... 179.49.116.170
-Connecting to www.sre.gob.hn (www.sre.gob.hn)|179.49.116.170|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:44:32 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 23:52:07--  http://2012.parliament.mn/files/download/132478%0D
-Resolving 2012.parliament.mn (2012.parliament.mn)... 103.17.109.42
-Connecting to 2012.parliament.mn (2012.parliament.mn)|103.17.109.42|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:52:08 ERROR 400: Bad Request.
-

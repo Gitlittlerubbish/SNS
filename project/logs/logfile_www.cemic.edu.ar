@@ -1,6 +1,0 @@
---2020-02-25 21:05:56--  https://www.cemic.edu.ar/descargas/donaciondesangre_requisitos.pdf%0D
-Resolving www.cemic.edu.ar (www.cemic.edu.ar)... 190.221.2.139
-Connecting to www.cemic.edu.ar (www.cemic.edu.ar)|190.221.2.139|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:05:57 ERROR 400: Bad Request.
-

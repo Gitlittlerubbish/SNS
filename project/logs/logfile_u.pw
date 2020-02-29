@@ -1,6 +1,0 @@
---2020-02-26 00:25:45--  https://u.pw/1udTBlV%0D
-Resolving u.pw (u.pw)... 67.199.248.12, 67.199.248.13
-Connecting to u.pw (u.pw)|67.199.248.12|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘u.pw’.
-To connect to u.pw insecurely, use `--no-check-certificate'.

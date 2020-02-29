@@ -1,8 +1,0 @@
---2020-02-25 23:25:08--  https://www.lrs.lt/sip/getFile3%3Fp_fid%3D16794%0D
-Resolving www.lrs.lt (www.lrs.lt)... 107.154.141.31
-Connecting to www.lrs.lt (www.lrs.lt)|107.154.141.31|:443... connected.
-HTTP request sent, awaiting response... 403 Forbidden
-Cookie coming from www.lrs.lt attempted to set domain to lrs.lt
-Cookie coming from www.lrs.lt attempted to set domain to lrs.lt
-2020-02-25 23:25:08 ERROR 403: Forbidden.
-

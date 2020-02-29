@@ -1,6 +1,0 @@
---2020-02-25 23:23:52--  http://deb.li/swhipres17%0D
-Resolving deb.li (deb.li)... 217.196.148.211
-Connecting to deb.li (deb.li)|217.196.148.211|:80... connected.
-HTTP request sent, awaiting response... 502 Bad Gateway
-2020-02-25 23:23:52 ERROR 502: Bad Gateway.
-

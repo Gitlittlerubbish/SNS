@@ -1,6 +1,0 @@
---2020-02-25 23:52:08--  http://www.parliament.mn/files/87954%0D
-Resolving www.parliament.mn (www.parliament.mn)... 103.9.90.35
-Connecting to www.parliament.mn (www.parliament.mn)|103.9.90.35|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:52:09 ERROR 400: Bad Request.
-

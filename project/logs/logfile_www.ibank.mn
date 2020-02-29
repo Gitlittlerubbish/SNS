@@ -1,6 +1,0 @@
---2020-02-25 23:52:20--  https://www.ibank.mn/Content/manual.pdf%0D
-Resolving www.ibank.mn (www.ibank.mn)... 202.131.248.183, 203.91.119.23
-Connecting to www.ibank.mn (www.ibank.mn)|202.131.248.183|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:52:20 ERROR 400: Bad Request.
-

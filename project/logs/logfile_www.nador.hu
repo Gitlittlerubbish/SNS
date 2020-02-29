@@ -1,6 +1,0 @@
---2020-02-25 22:47:08--  https://www.nador.hu/images/Fortinet_Product_Matrix.pdf%0D
-Resolving www.nador.hu (www.nador.hu)... 81.0.104.219
-Connecting to www.nador.hu (www.nador.hu)|81.0.104.219|:443... connected.
-ERROR: cannot verify www.nador.hu's certificate, issued by ‘emailAddress=info@e-szigno.hu,CN=e-Szigno SSL CA 2014,O=Microsec Ltd.,L=Budapest,C=HU’:
-  Unable to locally verify the issuer's authority.
-To connect to www.nador.hu insecurely, use `--no-check-certificate'.

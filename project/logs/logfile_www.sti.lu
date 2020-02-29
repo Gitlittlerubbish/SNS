@@ -1,6 +1,0 @@
---2020-02-25 23:26:12--  https://www.sti.lu/document/2656/1642%0D
-Resolving www.sti.lu (www.sti.lu)... 185.36.180.67
-Connecting to www.sti.lu (www.sti.lu)|185.36.180.67|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:26:12 ERROR 400: Bad Request.
-

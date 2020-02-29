@@ -1,6 +1,0 @@
---2020-02-25 23:21:27--  http://www.databank.com.lb/docs/water%2520plan.pdf%0D
-Resolving www.databank.com.lb (www.databank.com.lb)... 80.77.182.154
-Connecting to www.databank.com.lb (www.databank.com.lb)|80.77.182.154|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:21:27 ERROR 400: Bad Request.
-

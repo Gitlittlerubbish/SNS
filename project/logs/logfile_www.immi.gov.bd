@@ -1,9 +1,0 @@
---2020-02-25 21:03:59--  http://www.immi.gov.bd/docs/PassportForm_fill.pdf%0D
-Resolving www.immi.gov.bd (www.immi.gov.bd)... failed: Connection timed out.
-wget: unable to resolve host address ‘www.immi.gov.bd’
---2020-02-25 21:14:57--  http://www.immi.gov.bd/docs/PassportForm_fill.pdf%0D
-Resolving www.immi.gov.bd (www.immi.gov.bd)... 202.79.18.220
-Connecting to www.immi.gov.bd (www.immi.gov.bd)|202.79.18.220|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 21:14:58 ERROR 404: Not Found.
-

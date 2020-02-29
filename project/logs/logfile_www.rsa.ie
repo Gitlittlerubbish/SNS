@@ -1,6 +1,0 @@
---2020-02-25 22:56:37--  https://www.rsa.ie/PageFiles/5206/Tyre_Safety_Information_Guide_.PDF%0D
-Resolving www.rsa.ie (www.rsa.ie)... 137.191.230.5
-Connecting to www.rsa.ie (www.rsa.ie)|137.191.230.5|:443... connected.
-ERROR: cannot verify www.rsa.ie's certificate, issued by ‘CN=GeoTrust RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.rsa.ie insecurely, use `--no-check-certificate'.

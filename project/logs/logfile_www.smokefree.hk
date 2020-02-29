@@ -1,6 +1,0 @@
---2020-02-25 22:45:21--  https://www.smokefree.hk/UserFiles/resources/smoking_risk_cessation/thematic_household_surveys/THS2005_26Report.pdf%0D
-Resolving www.smokefree.hk (www.smokefree.hk)... 58.64.216.132
-Connecting to www.smokefree.hk (www.smokefree.hk)|58.64.216.132|:443... connected.
-ERROR: cannot verify www.smokefree.hk's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.smokefree.hk insecurely, use `--no-check-certificate'.

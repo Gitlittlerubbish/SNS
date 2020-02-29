@@ -1,6 +1,0 @@
---2020-02-26 00:22:19--  https://www.fjord1.no/content/download/4996/95050%0D
-Resolving www.fjord1.no (www.fjord1.no)... 35.157.55.93
-Connecting to www.fjord1.no (www.fjord1.no)|35.157.55.93|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:22:20 ERROR 404: Not Found.
-

@@ -1,6 +1,0 @@
---2020-02-26 00:22:23--  http://co2web-info.sbsf.no/stoten92.pdf%0D
-Resolving co2web-info.sbsf.no (co2web-info.sbsf.no)... 162.241.225.81
-Connecting to co2web-info.sbsf.no (co2web-info.sbsf.no)|162.241.225.81|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:22:23 ERROR 404: Not Found.
-

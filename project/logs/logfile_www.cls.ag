@@ -1,6 +1,0 @@
---2020-02-25 21:04:51--  https://www.cls.ag/download/lincsafeproE.pdf%0D
-Resolving www.cls.ag (www.cls.ag)... 51.136.27.12
-Connecting to www.cls.ag (www.cls.ag)|51.136.27.12|:443... connected.
-ERROR: cannot verify www.cls.ag's certificate, issued by ‘CN=AlphaSSL CA - SHA256 - G2,O=GlobalSign nv-sa,C=BE’:
-  Unable to locally verify the issuer's authority.
-To connect to www.cls.ag insecurely, use `--no-check-certificate'.

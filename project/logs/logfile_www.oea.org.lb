@@ -1,6 +1,0 @@
---2020-02-25 23:21:28--  https://www.oea.org.lb/Library/Files/Arabic/income_ar.pdf%0D
-Resolving www.oea.org.lb (www.oea.org.lb)... 52.174.35.144
-Connecting to www.oea.org.lb (www.oea.org.lb)|52.174.35.144|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:21:29 ERROR 400: Bad Request.
-

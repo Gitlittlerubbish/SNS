@@ -1,6 +1,0 @@
---2020-02-25 23:05:58--  http://www.aaru.edu.jo/Documents/mjles/maeer.pdf%0D
-Resolving www.aaru.edu.jo (www.aaru.edu.jo)... 87.236.232.85
-Connecting to www.aaru.edu.jo (www.aaru.edu.jo)|87.236.232.85|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:05:58 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 22:45:42--  https://www.geodetic.gov.hk/transform/tformAPI_manual.pdf%0D
-Resolving www.geodetic.gov.hk (www.geodetic.gov.hk)... 59.152.234.18
-Connecting to www.geodetic.gov.hk (www.geodetic.gov.hk)|59.152.234.18|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:45:43 ERROR 400: Bad Request.
-

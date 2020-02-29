@@ -1,6 +1,0 @@
---2020-02-26 00:22:07--  http://byggebolig.no/imageoriginals/acd7ab298961356e4435279d82748a08d32e2911.pdf%0D
-Resolving byggebolig.no (byggebolig.no)... 81.27.38.145
-Connecting to byggebolig.no (byggebolig.no)|81.27.38.145|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:07 ERROR 400: Bad Request.
-

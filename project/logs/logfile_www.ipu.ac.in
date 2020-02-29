@@ -1,6 +1,0 @@
---2020-02-25 22:50:29--  http://www.ipu.ac.in/public/ntemp010716.pdf%0D
-Resolving www.ipu.ac.in (www.ipu.ac.in)... 164.100.158.96
-Connecting to www.ipu.ac.in (www.ipu.ac.in)|164.100.158.96|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:50:29 ERROR 400: Bad Request.
-

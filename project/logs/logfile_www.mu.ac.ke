@@ -1,6 +1,0 @@
---2020-02-25 23:09:14--  https://www.mu.ac.ke/images/staff_downloads/CUE_University_Appointment_Criteria.pdf%0D
-Resolving www.mu.ac.ke (www.mu.ac.ke)... 41.204.161.129
-Connecting to www.mu.ac.ke (www.mu.ac.ke)|41.204.161.129|:443... connected.
-ERROR: cannot verify www.mu.ac.ke's certificate, issued by ‘CN=COMODO RSA Organization Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to www.mu.ac.ke insecurely, use `--no-check-certificate'.

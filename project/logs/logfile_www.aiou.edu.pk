@@ -1,6 +1,0 @@
---2020-02-26 00:25:13--  https://www.aiou.edu.pk/downloads/Reappear.pdf%0D
-Resolving www.aiou.edu.pk (www.aiou.edu.pk)... 111.68.97.45
-Connecting to www.aiou.edu.pk (www.aiou.edu.pk)|111.68.97.45|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:25:14 ERROR 400: Bad Request.
-

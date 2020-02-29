@@ -1,6 +1,0 @@
---2020-02-25 22:56:36--  https://www.publicjobs.ie/restapi/documents/Principal_Officer_Level.pdf%0D
-Resolving www.publicjobs.ie (www.publicjobs.ie)... 137.191.229.43
-Connecting to www.publicjobs.ie (www.publicjobs.ie)|137.191.229.43|:443... connected.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2020-02-25 22:56:37 ERROR 500: Internal Server Error.
-

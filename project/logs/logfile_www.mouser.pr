@@ -1,7 +1,0 @@
---2020-02-26 00:42:54--  https://www.mouser.pr/datasheet/2/295/IS15BBFP4RGB_Wide36x24PB-1398076.pdf%0D
-Resolving www.mouser.pr (www.mouser.pr)... 2.22.109.164
-Connecting to www.mouser.pr (www.mouser.pr)|2.22.109.164|:443... connected.
-HTTP request sent, awaiting response... 405 Method Not Allowed
-Syntax error in Set-Cookie: akacd_Default_PR=3760130573~rv=78~id=0dbf024c5a6dc580666163942c66c2b2; path=/;; HttpOnly; Secure; SameSite=None at position 78.
-2020-02-26 00:42:56 ERROR 405: Method Not Allowed.
-

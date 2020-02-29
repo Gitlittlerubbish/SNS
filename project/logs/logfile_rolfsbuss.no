@@ -1,6 +1,0 @@
---2020-02-26 00:22:11--  https://rolfsbuss.no/kataloger/2019.pdf%0D
-Resolving rolfsbuss.no (rolfsbuss.no)... 217.70.37.187
-Connecting to rolfsbuss.no (rolfsbuss.no)|217.70.37.187|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘rolfsbuss.no’.
-To connect to rolfsbuss.no insecurely, use `--no-check-certificate'.

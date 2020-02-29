@@ -1,6 +1,0 @@
---2020-02-25 23:00:36--  http://www.idoroeud.it/utilita/velocit%25E0oraria.pdf%0D
-Resolving www.idoroeud.it (www.idoroeud.it)... 31.11.32.160
-Connecting to www.idoroeud.it (www.idoroeud.it)|31.11.32.160|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:00:36 ERROR 400: Bad Request.
-

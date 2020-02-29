@@ -1,6 +1,0 @@
---2020-02-25 23:08:12--  http://yournet.kz/books/priemy-oop.pdf%0D
-Resolving yournet.kz (yournet.kz)... 194.61.0.3
-Connecting to yournet.kz (yournet.kz)|194.61.0.3|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 23:08:13 ERROR 404: Not Found.
-

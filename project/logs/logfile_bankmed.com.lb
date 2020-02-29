@@ -1,6 +1,0 @@
---2020-02-25 23:21:06--  https://bankmed.com.lb/BOMedia/Upload/20191009081451686.pdf%0D
-Resolving bankmed.com.lb (bankmed.com.lb)... 13.81.172.122
-Connecting to bankmed.com.lb (bankmed.com.lb)|13.81.172.122|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:21:06 ERROR 400: Bad Request.
-

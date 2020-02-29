@@ -1,6 +1,0 @@
---2020-02-25 23:05:53--  https://www.bau.edu.jo/adm/data/back.pdf%0D
-Resolving www.bau.edu.jo (www.bau.edu.jo)... 87.236.233.118
-Connecting to www.bau.edu.jo (www.bau.edu.jo)|87.236.233.118|:443... connected.
-ERROR: cannot verify www.bau.edu.jo's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.bau.edu.jo insecurely, use `--no-check-certificate'.

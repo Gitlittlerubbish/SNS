@@ -1,6 +1,0 @@
---2020-02-26 00:22:24--  https://nedlasting.husbanken.no/Filer/9s01.pdf%0D
-Resolving nedlasting.husbanken.no (nedlasting.husbanken.no)... 109.163.10.88
-Connecting to nedlasting.husbanken.no (nedlasting.husbanken.no)|109.163.10.88|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:24 ERROR 400: Bad Request.
-

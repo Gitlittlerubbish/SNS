@@ -1,6 +1,0 @@
---2020-02-25 22:49:12--  https://hagstofa.is/media/50970/hag_180226a.pdf%0D
-Resolving hagstofa.is (hagstofa.is)... 157.157.115.20
-Connecting to hagstofa.is (hagstofa.is)|157.157.115.20|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:49:12 ERROR 400: Bad Request.
-

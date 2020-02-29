@@ -1,6 +1,0 @@
---2020-02-26 00:22:18--  https://www.nhh.no/contentassets/0eec8ce1f2bf4fe2b48d8fd68277fc44/diccionario_anglicismos.pdf%0D
-Resolving www.nhh.no (www.nhh.no)... 158.37.108.120
-Connecting to www.nhh.no (www.nhh.no)|158.37.108.120|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:18 ERROR 400: Bad Request.
-

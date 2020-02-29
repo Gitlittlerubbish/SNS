@@ -1,6 +1,0 @@
---2020-02-26 00:11:26--  https://www.healthnavigator.org.nz/media/1002/files-cholecystectomy.pdf%0D
-Resolving www.healthnavigator.org.nz (www.healthnavigator.org.nz)... 52.237.208.151
-Connecting to www.healthnavigator.org.nz (www.healthnavigator.org.nz)|52.237.208.151|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:11:27 ERROR 400: Bad Request.
-

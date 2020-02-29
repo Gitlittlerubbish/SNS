@@ -1,6 +1,0 @@
---2020-02-25 22:48:31--  https://www.hlaup.is/upload/files/ByrjendurB-SPS.pdf%0D
-Resolving www.hlaup.is (www.hlaup.is)... 217.171.213.160
-Connecting to www.hlaup.is (www.hlaup.is)|217.171.213.160|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:48:31 ERROR 400: Bad Request.
-

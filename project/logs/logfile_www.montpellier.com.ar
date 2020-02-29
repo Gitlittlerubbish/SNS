@@ -1,6 +1,0 @@
---2020-02-25 21:06:08--  http://www.montpellier.com.ar/prosp/17.pdf%0D
-Resolving www.montpellier.com.ar (www.montpellier.com.ar)... 200.55.245.196
-Connecting to www.montpellier.com.ar (www.montpellier.com.ar)|200.55.245.196|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:06:09 ERROR 400: Bad Request.
-

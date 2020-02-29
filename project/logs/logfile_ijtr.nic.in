@@ -1,6 +1,0 @@
---2020-02-25 22:49:43--  http://ijtr.nic.in/Bangalore_principles.pdf%0D
-Resolving ijtr.nic.in (ijtr.nic.in)... 164.100.90.93
-Connecting to ijtr.nic.in (ijtr.nic.in)|164.100.90.93|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:49:44 ERROR 400: Bad Request.
-

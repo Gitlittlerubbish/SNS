@@ -1,6 +1,0 @@
---2020-02-26 00:24:22--  http://www.finance.gov.pk/revised_procedure_for_operation_27122018.pdf%0D
-Resolving www.finance.gov.pk (www.finance.gov.pk)... 210.56.11.45
-Connecting to www.finance.gov.pk (www.finance.gov.pk)|210.56.11.45|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:24:22 ERROR 400: Bad Request.
-

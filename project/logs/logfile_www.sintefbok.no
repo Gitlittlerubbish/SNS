@@ -1,6 +1,0 @@
---2020-02-26 00:22:15--  https://www.sintefbok.no/book/download/1170/iorganisasjonkunnskapsformidling130122_safutgivelsersintef_notat_notessnotat_22_klimatisering_av_kontorbyggpdfsnotat22pdf%0D
-Resolving www.sintefbok.no (www.sintefbok.no)... 52.232.56.79
-Connecting to www.sintefbok.no (www.sintefbok.no)|52.232.56.79|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:16 ERROR 400: Bad Request.
-

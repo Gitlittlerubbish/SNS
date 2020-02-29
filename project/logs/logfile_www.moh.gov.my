@@ -1,6 +1,0 @@
---2020-02-25 23:33:18--  http://www.moh.gov.my/index.php/dl/554756755a584a6961585268626938794d4445334c314a31616e567259573476546d46306157397559577866553352795958526c5a326c6a5831427359573566516d39766131396d61573568624541794e564e46554651794d4445334c6e426b5a673d3d%0D
-Resolving www.moh.gov.my (www.moh.gov.my)... 103.8.163.232
-Connecting to www.moh.gov.my (www.moh.gov.my)|103.8.163.232|:80... connected.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2020-02-25 23:33:19 ERROR 500: Internal Server Error.
-

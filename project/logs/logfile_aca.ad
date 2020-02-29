@@ -1,6 +1,0 @@
---2020-02-25 21:00:57--  http://aca.ad/imaca/premsa/premsa01.pdf%0D
-Resolving aca.ad (aca.ad)... 194.158.80.16
-Connecting to aca.ad (aca.ad)|194.158.80.16|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:00:57 ERROR 400: Bad Request.
-

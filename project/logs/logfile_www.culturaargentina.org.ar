@@ -1,6 +1,0 @@
---2020-02-25 21:05:20--  https://www.culturaargentina.org.ar/Escritores%2520argentinos.pdf%0D
-Resolving www.culturaargentina.org.ar (www.culturaargentina.org.ar)... 52.144.47.138
-Connecting to www.culturaargentina.org.ar (www.culturaargentina.org.ar)|52.144.47.138|:443... connected.
-ERROR: cannot verify www.culturaargentina.org.ar's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to www.culturaargentina.org.ar insecurely, use `--no-check-certificate'.

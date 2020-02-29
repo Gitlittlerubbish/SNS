@@ -1,6 +1,0 @@
---2020-02-25 22:53:48--  https://sipuu.setkab.go.id/PUUdoc/175779/PP_Nomor_11_Tahun_2019.pdf%0D
-Resolving sipuu.setkab.go.id (sipuu.setkab.go.id)... 118.97.149.219
-Connecting to sipuu.setkab.go.id (sipuu.setkab.go.id)|118.97.149.219|:443... connected.
-ERROR: cannot verify sipuu.setkab.go.id's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to sipuu.setkab.go.id insecurely, use `--no-check-certificate'.

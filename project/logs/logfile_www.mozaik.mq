@@ -1,6 +1,0 @@
---2020-02-25 23:43:55--  http://www.mozaik.mq/ftp/FR_document/ForT_de_France_v04.pdf%0D
-Resolving www.mozaik.mq (www.mozaik.mq)... 195.200.184.132
-Connecting to www.mozaik.mq (www.mozaik.mq)|195.200.184.132|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:43:55 ERROR 400: Bad Request.
-

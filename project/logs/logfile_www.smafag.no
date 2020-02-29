@@ -1,6 +1,0 @@
---2020-02-26 00:22:24--  http://www.smafag.no/opplKontoret/Egenmelding.pdf%0D
-Resolving www.smafag.no (www.smafag.no)... 213.162.246.68
-Connecting to www.smafag.no (www.smafag.no)|213.162.246.68|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:22:24 ERROR 404: Not Found.
-

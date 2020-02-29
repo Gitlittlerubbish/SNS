@@ -1,6 +1,0 @@
---2020-02-25 23:47:37--  http://www.shcp.gob.mx/EGRESOS/PEF/serv_personales/normas/pq.pdf%0D
-Resolving www.shcp.gob.mx (www.shcp.gob.mx)... 200.33.48.100
-Connecting to www.shcp.gob.mx (www.shcp.gob.mx)|200.33.48.100|:80... connected.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2020-02-25 23:47:38 ERROR 500: Internal Server Error.
-

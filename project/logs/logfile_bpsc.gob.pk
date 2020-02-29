@@ -1,6 +1,0 @@
---2020-02-26 00:25:18--  http://bpsc.gob.pk/Downloads/Guidelines.pdf%0D
-Resolving bpsc.gob.pk (bpsc.gob.pk)... 182.50.135.105
-Connecting to bpsc.gob.pk (bpsc.gob.pk)|182.50.135.105|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:25:19 ERROR 400: Bad Request.
-

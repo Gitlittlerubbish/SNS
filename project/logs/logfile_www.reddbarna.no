@@ -1,6 +1,0 @@
---2020-02-26 00:22:07--  https://www.reddbarna.no/Media/mts_2016_2021.pdf%0D
-Resolving www.reddbarna.no (www.reddbarna.no)... 13.69.228.2
-Connecting to www.reddbarna.no (www.reddbarna.no)|13.69.228.2|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:07 ERROR 400: Bad Request.
-

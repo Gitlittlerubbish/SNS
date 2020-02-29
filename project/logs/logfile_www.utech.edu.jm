@@ -1,6 +1,0 @@
---2020-02-25 23:00:58--  http://www.utech.edu.jm/enrolment/SemesterizationBrochure2010.pdf%0D
-Resolving www.utech.edu.jm (www.utech.edu.jm)... 200.9.115.9
-Connecting to www.utech.edu.jm (www.utech.edu.jm)|200.9.115.9|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:00:58 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-26 00:42:23--  http://projects.itn.pt/UCQR_QAA/Meyers_1997.pdf%0D
-Resolving projects.itn.pt (projects.itn.pt)... 193.136.74.19
-Connecting to projects.itn.pt (projects.itn.pt)|193.136.74.19|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:42:23 ERROR 400: Bad Request.
-

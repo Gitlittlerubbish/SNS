@@ -1,6 +1,0 @@
---2020-02-26 00:24:59--  http://www.ndma.gov.pk/plans/drrpolicy2013.pdf%0D
-Resolving www.ndma.gov.pk (www.ndma.gov.pk)... 210.56.9.218
-Connecting to www.ndma.gov.pk (www.ndma.gov.pk)|210.56.9.218|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:24:59 ERROR 400: Bad Request.
-

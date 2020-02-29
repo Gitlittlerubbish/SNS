@@ -1,6 +1,0 @@
---2020-02-25 23:16:20--  https://www.kotc.com.kw/GasFillingPlant/Documents/Awareness_03.pdf%0D
-Resolving www.kotc.com.kw (www.kotc.com.kw)... 194.31.57.39
-Connecting to www.kotc.com.kw (www.kotc.com.kw)|194.31.57.39|:443... connected.
-ERROR: cannot verify www.kotc.com.kw's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.kotc.com.kw insecurely, use `--no-check-certificate'.

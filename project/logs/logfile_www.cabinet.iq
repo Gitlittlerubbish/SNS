@@ -1,6 +1,0 @@
---2020-02-25 22:55:40--  http://www.cabinet.iq/uploads/pdf/report20136.pdf%0D
-Resolving www.cabinet.iq (www.cabinet.iq)... 104.27.159.69, 104.27.158.69
-Connecting to www.cabinet.iq (www.cabinet.iq)|104.27.159.69|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:55:41 ERROR 400: Bad Request.
-

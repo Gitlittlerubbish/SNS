@@ -1,6 +1,0 @@
---2020-02-26 00:24:22--  http://www.pmd.gov.pk/jobs.pdf%0D
-Resolving www.pmd.gov.pk (www.pmd.gov.pk)... 203.124.42.75
-Connecting to www.pmd.gov.pk (www.pmd.gov.pk)|203.124.42.75|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:24:23 ERROR 400: Bad Request.
-

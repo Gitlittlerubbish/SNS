@@ -1,6 +1,0 @@
---2020-02-25 21:04:23--  http://www.tlv.ag/lgpd.pdf%0D
-Resolving www.tlv.ag (www.tlv.ag)... 201.73.144.59
-Connecting to www.tlv.ag (www.tlv.ag)|201.73.144.59|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:04:23 ERROR 400: Bad Request.
-

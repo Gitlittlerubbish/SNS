@@ -1,6 +1,0 @@
---2020-02-25 23:44:03--  https://pneugom.mq/sites/default/files/2014_psl_newsletter.pdf%0D
-Resolving pneugom.mq (pneugom.mq)... 87.98.161.102
-Connecting to pneugom.mq (pneugom.mq)|87.98.161.102|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘pneugom.mq’.
-To connect to pneugom.mq insecurely, use `--no-check-certificate'.

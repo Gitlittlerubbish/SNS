@@ -1,9 +1,0 @@
---2020-02-25 21:03:55--  http://customs.gov.bd/files/Finance_Act_2019_BG_Press.pdf%0D
-Resolving customs.gov.bd (customs.gov.bd)... failed: Connection timed out.
-wget: unable to resolve host address ‘customs.gov.bd’
---2020-02-25 21:14:56--  http://customs.gov.bd/files/Finance_Act_2019_BG_Press.pdf%0D
-Resolving customs.gov.bd (customs.gov.bd)... 123.49.37.3
-Connecting to customs.gov.bd (customs.gov.bd)|123.49.37.3|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 21:14:57 ERROR 404: Not Found.
-

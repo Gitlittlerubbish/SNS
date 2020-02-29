@@ -1,6 +1,0 @@
---2020-02-26 00:22:17--  https://www.samordnaopptak.no/info/pdfer/Soekerhandboka2002.pdf%0D
-Resolving www.samordnaopptak.no (www.samordnaopptak.no)... 129.240.118.130
-Connecting to www.samordnaopptak.no (www.samordnaopptak.no)|129.240.118.130|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:22:17 ERROR 404: Not Found.
-

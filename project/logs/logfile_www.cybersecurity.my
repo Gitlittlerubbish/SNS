@@ -1,6 +1,0 @@
---2020-02-25 23:33:24--  https://www.cybersecurity.my/data/content_files/11/649.pdf%0D
-Resolving www.cybersecurity.my (www.cybersecurity.my)... 210.19.86.8
-Connecting to www.cybersecurity.my (www.cybersecurity.my)|210.19.86.8|:443... connected.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2020-02-25 23:33:26 ERROR 500: Internal Server Error.
-

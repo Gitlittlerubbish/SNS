@@ -1,6 +1,0 @@
---2020-02-26 00:43:03--  http://tribunales.gov.pr/odin/Certificacion_de_Testamento.pdf%0D
-Resolving tribunales.gov.pr (tribunales.gov.pr)... 64.178.216.76
-Connecting to tribunales.gov.pr (tribunales.gov.pr)|64.178.216.76|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:43:04 ERROR 400: Bad Request.
-

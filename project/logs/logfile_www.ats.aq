@@ -1,6 +1,0 @@
---2020-02-25 21:03:42--  http://www.ats.aq/documents/ATCM34/att/ATCM34_att049_e.pdf%0D
-Resolving www.ats.aq (www.ats.aq)... 198.154.99.44
-Connecting to www.ats.aq (www.ats.aq)|198.154.99.44|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:03:43 ERROR 400: Bad Request.
-

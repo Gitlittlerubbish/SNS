@@ -1,6 +1,0 @@
---2020-02-25 22:41:36--  https://www.forestry.gov.gy/wp-content/uploads/2015/09/Market_report_2005_Q1.pdf%0D
-Resolving www.forestry.gov.gy (www.forestry.gov.gy)... 161.47.124.187
-Connecting to www.forestry.gov.gy (www.forestry.gov.gy)|161.47.124.187|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘www.forestry.gov.gy’.
-To connect to www.forestry.gov.gy insecurely, use `--no-check-certificate'.

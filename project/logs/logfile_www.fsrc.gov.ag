@@ -1,6 +1,0 @@
---2020-02-25 21:04:23--  https://www.fsrc.gov.ag/images/pdf/adf010_253340f2383d461b9fd78f4698ff8a11.pdf%0D
-Resolving www.fsrc.gov.ag (www.fsrc.gov.ag)... 206.214.22.69
-Connecting to www.fsrc.gov.ag (www.fsrc.gov.ag)|206.214.22.69|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:04:24 ERROR 400: Bad Request.
-

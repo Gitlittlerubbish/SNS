@@ -1,6 +1,0 @@
---2020-02-25 23:31:46--  http://www.abcd.com.my/honey.pdf%0D
-Resolving www.abcd.com.my (www.abcd.com.my)... 182.239.42.170
-Connecting to www.abcd.com.my (www.abcd.com.my)|182.239.42.170|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 23:31:47 ERROR 404: Not Found.
-

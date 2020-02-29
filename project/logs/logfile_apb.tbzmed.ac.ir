@@ -1,6 +1,0 @@
---2020-02-25 22:55:04--  http://apb.tbzmed.ac.ir/GetFile/APB_386_20170226104729%0D
-Resolving apb.tbzmed.ac.ir (apb.tbzmed.ac.ir)... 80.191.203.101
-Connecting to apb.tbzmed.ac.ir (apb.tbzmed.ac.ir)|80.191.203.101|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:55:06 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-26 00:21:52--  https://www.naturogfritid.no/bilder/test_villmarksliv_2009.pdf%0D
-Resolving www.naturogfritid.no (www.naturogfritid.no)... 89.221.244.121
-Connecting to www.naturogfritid.no (www.naturogfritid.no)|89.221.244.121|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:21:52 ERROR 400: Bad Request.
-

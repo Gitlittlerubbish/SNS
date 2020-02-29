@@ -1,6 +1,0 @@
---2020-02-25 20:59:34--  https://www.atrss.dz/ressources/fichiers_produits/fichier_produit_803.pdf%0D
-Resolving www.atrss.dz (www.atrss.dz)... 62.210.148.216
-Connecting to www.atrss.dz (www.atrss.dz)|62.210.148.216|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘www.atrss.dz’.
-To connect to www.atrss.dz insecurely, use `--no-check-certificate'.

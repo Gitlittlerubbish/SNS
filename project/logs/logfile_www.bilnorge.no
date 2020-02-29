@@ -1,6 +1,0 @@
---2020-02-26 00:21:14--  http://www.bilnorge.no/upload/WHO_stoyrapport2011.pdf%0D
-Resolving www.bilnorge.no (www.bilnorge.no)... 109.239.227.22
-Connecting to www.bilnorge.no (www.bilnorge.no)|109.239.227.22|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:21:14 ERROR 404: Not Found.
-

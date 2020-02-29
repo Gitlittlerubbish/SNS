@@ -1,6 +1,0 @@
---2020-02-25 23:11:45--  http://www.foresight.kr/attach/filedownloads/do_down/no/707%0D
-Resolving www.foresight.kr (www.foresight.kr)... 203.254.180.133
-Connecting to www.foresight.kr (www.foresight.kr)|203.254.180.133|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:11:46 ERROR 400: Bad Request.
-

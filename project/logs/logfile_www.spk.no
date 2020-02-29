@@ -1,6 +1,0 @@
---2020-02-26 00:22:27--  https://www.spk.no/globalassets/skjema/s031_bm.pdf%0D
-Resolving www.spk.no (www.spk.no)... 81.175.27.40
-Connecting to www.spk.no (www.spk.no)|81.175.27.40|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:28 ERROR 400: Bad Request.
-

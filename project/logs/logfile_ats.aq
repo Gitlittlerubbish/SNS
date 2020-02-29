@@ -1,6 +1,0 @@
---2020-02-25 21:03:42--  https://ats.aq/documents/ATCM32/fr/ATCM32_fr001_f.pdf%0D
-Resolving ats.aq (ats.aq)... 198.154.99.44
-Connecting to ats.aq (ats.aq)|198.154.99.44|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:03:42 ERROR 400: Bad Request.
-

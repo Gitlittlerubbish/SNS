@@ -1,6 +1,0 @@
---2020-02-25 23:13:58--  http://www.falatech.co.kr/PDS/CFPS07.pdf%0D
-Resolving www.falatech.co.kr (www.falatech.co.kr)... 211.40.118.130
-Connecting to www.falatech.co.kr (www.falatech.co.kr)|211.40.118.130|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:13:59 ERROR 400: Bad Request.
-

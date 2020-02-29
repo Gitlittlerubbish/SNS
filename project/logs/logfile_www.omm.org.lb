@@ -1,6 +1,0 @@
---2020-02-25 23:20:47--  http://www.omm.org.lb/arabic/docs/exposition/efeses-con.pdf%0D
-Resolving www.omm.org.lb (www.omm.org.lb)... 80.77.182.18
-Connecting to www.omm.org.lb (www.omm.org.lb)|80.77.182.18|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:20:47 ERROR 400: Bad Request.
-

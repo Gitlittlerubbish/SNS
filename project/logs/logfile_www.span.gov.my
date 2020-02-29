@@ -1,6 +1,0 @@
---2020-02-25 23:33:34--  https://www.span.gov.my/document/upload/p9tEiK2zpNaAu3QkfEx7qER6Dpu1g0JB.pdf%0D
-Resolving www.span.gov.my (www.span.gov.my)... 211.25.98.164
-Connecting to www.span.gov.my (www.span.gov.my)|211.25.98.164|:443... connected.
-ERROR: cannot verify www.span.gov.my's certificate, issued by ‘CN=Entrust Certification Authority - L1K,OU=(c) 2012 Entrust\\, Inc. - for authorized use only,OU=See www.entrust.net/legal-terms,O=Entrust\\, Inc.,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.span.gov.my insecurely, use `--no-check-certificate'.

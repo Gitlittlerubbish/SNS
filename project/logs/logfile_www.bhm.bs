@@ -1,6 +1,0 @@
---2020-02-25 21:01:35--  http://www.bhm.bs/BHM_Datasheets_airport.pdf%0D
-Resolving www.bhm.bs (www.bhm.bs)... failed: Name or service not known.
-wget: unable to resolve host address ‘www.bhm.bs’
---2020-02-25 21:13:05--  http://www.bhm.bs/BHM_Datasheets_airport.pdf%0D
-Resolving www.bhm.bs (www.bhm.bs)... failed: Name or service not known.
-wget: unable to resolve host address ‘www.bhm.bs’

@@ -1,6 +1,0 @@
---2020-02-25 22:45:52--  http://www.sth.org.hk/download/FeeSchedule.pdf%0D
-Resolving www.sth.org.hk (www.sth.org.hk)... 202.130.114.235
-Connecting to www.sth.org.hk (www.sth.org.hk)|202.130.114.235|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:45:52 ERROR 400: Bad Request.
-

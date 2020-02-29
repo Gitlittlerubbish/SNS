@@ -1,6 +1,0 @@
---2020-02-25 23:00:26--  http://www.giuliotortello.it/ebook/cathedral.pdf%0D
-Resolving www.giuliotortello.it (www.giuliotortello.it)... 31.11.32.175
-Connecting to www.giuliotortello.it (www.giuliotortello.it)|31.11.32.175|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:00:26 ERROR 400: Bad Request.
-

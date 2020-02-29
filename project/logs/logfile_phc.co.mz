@@ -1,6 +1,0 @@
---2020-02-25 23:58:59--  http://phc.co.mz/enews/DescricaoCompletaIntrastat.pdf%0D
-Resolving phc.co.mz (phc.co.mz)... 195.23.106.54
-Connecting to phc.co.mz (phc.co.mz)|195.23.106.54|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:59:00 ERROR 400: Bad Request.
-

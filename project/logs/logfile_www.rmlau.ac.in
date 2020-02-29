@@ -1,6 +1,0 @@
---2020-02-25 22:51:06--  http://www.rmlau.ac.in/pdf/julphy22.pdf%0D
-Resolving www.rmlau.ac.in (www.rmlau.ac.in)... 103.248.82.152
-Connecting to www.rmlau.ac.in (www.rmlau.ac.in)|103.248.82.152|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:51:06 ERROR 400: Bad Request.
-

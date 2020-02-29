@@ -1,6 +1,0 @@
---2020-02-25 23:18:41--  http://www.windev.la/windev-mobile-es.pdf%0D
-Resolving www.windev.la (www.windev.la)... 216.250.126.215
-Connecting to www.windev.la (www.windev.la)|216.250.126.215|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:18:41 ERROR 400: Bad Request.
-

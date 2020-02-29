@@ -1,6 +1,0 @@
---2020-02-25 21:00:49--  http://ecoa.ad/pdf/ecoa_12092017084809.pdf%0D
-Resolving ecoa.ad (ecoa.ad)... 194.158.80.16
-Connecting to ecoa.ad (ecoa.ad)|194.158.80.16|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:00:49 ERROR 400: Bad Request.
-

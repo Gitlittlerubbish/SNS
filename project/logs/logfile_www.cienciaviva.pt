@@ -1,6 +1,0 @@
---2020-02-26 00:41:41--  http://www.cienciaviva.pt/docs/quadrante.pdf%0D
-Resolving www.cienciaviva.pt (www.cienciaviva.pt)... 193.137.20.178
-Connecting to www.cienciaviva.pt (www.cienciaviva.pt)|193.137.20.178|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:41:41 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 22:56:50--  https://3arena.ie/images/uploads/New_Seating_Plan_02.pdf%0D
-Resolving 3arena.ie (3arena.ie)... 46.22.132.245
-Connecting to 3arena.ie (3arena.ie)|46.22.132.245|:443... connected.
-ERROR: cannot verify 3arena.ie's certificate, issued by ‘CN=Trusted Secure Certificate Authority 5,O=Corporation Service Company,L=Wilmington,ST=DE,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to 3arena.ie insecurely, use `--no-check-certificate'.

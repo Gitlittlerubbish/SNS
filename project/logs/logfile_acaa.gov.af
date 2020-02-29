@@ -1,6 +1,0 @@
---2020-02-25 20:54:21--  http://acaa.gov.af/wp-content/uploads/AERODROME.pdf%0D
-Resolving acaa.gov.af (acaa.gov.af)... 103.83.38.227
-Connecting to acaa.gov.af (acaa.gov.af)|103.83.38.227|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 20:54:21 ERROR 400: Bad Request.
-

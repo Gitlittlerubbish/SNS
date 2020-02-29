@@ -1,6 +1,0 @@
---2020-02-25 23:00:21--  http://www.cstp.it/linee/8fs.pdf%0D
-Resolving www.cstp.it (www.cstp.it)... 81.88.48.113
-Connecting to www.cstp.it (www.cstp.it)|81.88.48.113|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:00:21 ERROR 400: Bad Request.
-

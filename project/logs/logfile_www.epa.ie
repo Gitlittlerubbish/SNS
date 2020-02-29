@@ -1,6 +1,0 @@
---2020-02-25 22:56:39--  http://www.epa.ie/wfdstatus/rivers/rw_mtr_methods_manual.pdf%0D
-Resolving www.epa.ie (www.epa.ie)... 193.1.210.185
-Connecting to www.epa.ie (www.epa.ie)|193.1.210.185|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:56:39 ERROR 400: Bad Request.
-

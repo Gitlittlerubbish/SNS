@@ -1,6 +1,0 @@
---2020-02-25 23:00:40--  http://www.salute.gov.it/imgs/C_17_normativa_845_allegato.pdf%0D
-Resolving www.salute.gov.it (www.salute.gov.it)... 104.86.110.249, 104.86.110.250
-Connecting to www.salute.gov.it (www.salute.gov.it)|104.86.110.249|:80... connected.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2020-02-25 23:00:40 ERROR 500: Internal Server Error.
-

@@ -1,9 +1,0 @@
---2020-02-25 23:22:37--  https://www.mfdp.gov.lr/images/REOI_DBA_FIU_1_June_15_2018.pdf%0D
-Resolving www.mfdp.gov.lr (www.mfdp.gov.lr)... failed: Connection timed out.
-wget: unable to resolve host address ‘www.mfdp.gov.lr’
---2020-02-25 23:22:41--  https://www.mfdp.gov.lr/images/National_Consultation_on_the__Pro-Poor_Agenda_for_Prosperity_v3.pdf%0D
-Resolving www.mfdp.gov.lr (www.mfdp.gov.lr)... 178.128.174.245
-Connecting to www.mfdp.gov.lr (www.mfdp.gov.lr)|178.128.174.245|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 23:22:41 ERROR 404: Not Found.
-

@@ -1,6 +1,0 @@
---2020-02-26 00:24:35--  https://www.icmap.com.pk/downloads/QCR_Checklist_CAE.pdf%0D
-Resolving www.icmap.com.pk (www.icmap.com.pk)... 72.18.130.237
-Connecting to www.icmap.com.pk (www.icmap.com.pk)|72.18.130.237|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:24:36 ERROR 400: Bad Request.
-

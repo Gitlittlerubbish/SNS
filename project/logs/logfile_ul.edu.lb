@@ -1,6 +1,0 @@
---2020-02-25 23:20:53--  http://ul.edu.lb/publications/bio.pdf%0D
-Resolving ul.edu.lb (ul.edu.lb)... 77.42.251.32
-Connecting to ul.edu.lb (ul.edu.lb)|77.42.251.32|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:20:54 ERROR 400: Bad Request.
-

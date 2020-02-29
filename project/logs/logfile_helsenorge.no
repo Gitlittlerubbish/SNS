@@ -1,6 +1,0 @@
---2020-02-26 00:22:20--  https://helsenorge.no/SiteCollectionDocuments/kjernejournal-brosjyre.pdf%0D
-Resolving helsenorge.no (helsenorge.no)... 91.186.66.12
-Connecting to helsenorge.no (helsenorge.no)|91.186.66.12|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:21 ERROR 400: Bad Request.
-

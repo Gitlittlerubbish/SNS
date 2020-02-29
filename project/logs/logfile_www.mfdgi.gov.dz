@@ -1,6 +1,0 @@
---2020-02-25 20:59:46--  https://www.mfdgi.gov.dz/images/imprimes/Comment_remplir_G_12_2017.pdf%0D
-Resolving www.mfdgi.gov.dz (www.mfdgi.gov.dz)... 80.246.0.10
-Connecting to www.mfdgi.gov.dz (www.mfdgi.gov.dz)|80.246.0.10|:443... connected.
-ERROR: cannot verify www.mfdgi.gov.dz's certificate, issued by ‘CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.mfdgi.gov.dz insecurely, use `--no-check-certificate'.

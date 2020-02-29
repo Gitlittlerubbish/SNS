@@ -1,6 +1,0 @@
---2020-02-25 22:42:49--  http://www.bme.gouv.ht/insenpubcc/brochureclimatVULVF.pdf%0D
-Resolving www.bme.gouv.ht (www.bme.gouv.ht)... 216.240.135.104
-Connecting to www.bme.gouv.ht (www.bme.gouv.ht)|216.240.135.104|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:42:49 ERROR 400: Bad Request.
-

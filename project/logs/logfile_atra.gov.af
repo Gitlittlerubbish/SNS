@@ -1,6 +1,0 @@
---2020-02-25 20:54:28--  http://atra.gov.af/Content/files/VAS%2520LICENSE.pdf%0D
-Resolving atra.gov.af (atra.gov.af)... 103.132.98.203
-Connecting to atra.gov.af (atra.gov.af)|103.132.98.203|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 20:54:29 ERROR 400: Bad Request.
-

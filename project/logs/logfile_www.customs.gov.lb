@@ -1,6 +1,0 @@
---2020-02-25 23:21:12--  http://www.customs.gov.lb/Agreements/Files/AC_AR.pdf%0D
-Resolving www.customs.gov.lb (www.customs.gov.lb)... 85.112.85.5
-Connecting to www.customs.gov.lb (www.customs.gov.lb)|85.112.85.5|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:21:13 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 22:46:28--  https://www.aqhi.gov.hk/pdf/related_websites/APIreview_report.pdf%0D
-Resolving www.aqhi.gov.hk (www.aqhi.gov.hk)... 61.244.113.121, 61.244.113.120, 61.244.113.119, ...
-Connecting to www.aqhi.gov.hk (www.aqhi.gov.hk)|61.244.113.121|:443... connected.
-ERROR: cannot verify www.aqhi.gov.hk's certificate, issued by ‘CN=Hongkong Post e-Cert CA 1 - 15,O=Hongkong Post,L=Hong Kong,ST=Hong Kong,C=HK’:
-  Unable to locally verify the issuer's authority.
-To connect to www.aqhi.gov.hk insecurely, use `--no-check-certificate'.

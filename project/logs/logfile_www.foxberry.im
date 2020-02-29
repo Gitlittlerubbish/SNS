@@ -1,6 +1,0 @@
---2020-02-25 22:58:15--  https://www.foxberry.im/governance/conflict_of_interest_policy.pdf%0D
-Resolving www.foxberry.im (www.foxberry.im)... 212.71.234.25
-Connecting to www.foxberry.im (www.foxberry.im)|212.71.234.25|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘www.foxberry.im’.
-To connect to www.foxberry.im insecurely, use `--no-check-certificate'.

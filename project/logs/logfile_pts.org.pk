@@ -1,6 +1,0 @@
---2020-02-26 00:25:26--  http://pts.org.pk/Documents/195/Advertisement.pdf%0D
-Resolving pts.org.pk (pts.org.pk)... 175.107.240.161
-Connecting to pts.org.pk (pts.org.pk)|175.107.240.161|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:25:26 ERROR 400: Bad Request.
-

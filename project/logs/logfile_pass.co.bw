@@ -1,9 +1,0 @@
---2020-02-25 21:18:09--  http://pass.co.bw/pdf/InternationalFinancialServicesCentre.pdf%0D
-Resolving pass.co.bw (pass.co.bw)... failed: Connection timed out.
-wget: unable to resolve host address ‘pass.co.bw’
---2020-02-25 21:25:04--  http://pass.co.bw/pdf/InternationalFinancialServicesCentre.pdf%0D
-Resolving pass.co.bw (pass.co.bw)... 168.167.21.107
-Connecting to pass.co.bw (pass.co.bw)|168.167.21.107|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 21:25:04 ERROR 404: Not Found.
-

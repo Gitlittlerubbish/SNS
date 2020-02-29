@@ -1,6 +1,0 @@
---2020-02-25 23:00:20--  https://pellerey.unisal.it/052006.pdf%0D
-Resolving pellerey.unisal.it (pellerey.unisal.it)... 89.97.241.197
-Connecting to pellerey.unisal.it (pellerey.unisal.it)|89.97.241.197|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:00:20 ERROR 400: Bad Request.
-

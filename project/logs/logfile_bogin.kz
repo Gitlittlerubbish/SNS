@@ -1,6 +1,0 @@
---2020-02-25 23:06:51--  http://bogin.kz/images/price.pdf%0D
-Resolving bogin.kz (bogin.kz)... 195.210.46.66
-Connecting to bogin.kz (bogin.kz)|195.210.46.66|:80... connected.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2020-02-25 23:06:52 ERROR 500: Internal Server Error.
-

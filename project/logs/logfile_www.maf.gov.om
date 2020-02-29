@@ -1,6 +1,0 @@
---2020-02-26 00:23:25--  https://www.maf.gov.om/BakEnd/Publications/636515816131596986.pdf%0D
-Resolving www.maf.gov.om (www.maf.gov.om)... 5.162.223.145
-Connecting to www.maf.gov.om (www.maf.gov.om)|5.162.223.145|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:23:25 ERROR 400: Bad Request.
-

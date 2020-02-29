@@ -1,6 +1,0 @@
---2020-02-25 22:55:45--  http://www.cosit.gov.iq/documents/humandev.2016.pdf%0D
-Resolving www.cosit.gov.iq (www.cosit.gov.iq)... 149.202.90.58
-Connecting to www.cosit.gov.iq (www.cosit.gov.iq)|149.202.90.58|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:55:45 ERROR 400: Bad Request.
-

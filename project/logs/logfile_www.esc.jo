@@ -1,6 +1,0 @@
---2020-02-25 23:05:34--  http://www.esc.jo/documents/report/29.pdf%0D
-Resolving www.esc.jo (www.esc.jo)... 52.169.124.99
-Connecting to www.esc.jo (www.esc.jo)|52.169.124.99|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:05:34 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 22:52:59--  https://elib.umkendari.ac.id/eb_el/Qualitative_Research__Studying_How_Things_Work_Robert_Stake.pdf%0D
-Resolving elib.umkendari.ac.id (elib.umkendari.ac.id)... 180.250.214.158, 180.250.214.156
-Connecting to elib.umkendari.ac.id (elib.umkendari.ac.id)|180.250.214.158|:443... connected.
-ERROR: cannot verify elib.umkendari.ac.id's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to elib.umkendari.ac.id insecurely, use `--no-check-certificate'.

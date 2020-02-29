@@ -1,7 +1,0 @@
---2020-02-25 22:47:31--  https://www.mnb.hu/letoltes/emlekpenz2020hu.pdf%0D
-Resolving www.mnb.hu (www.mnb.hu)... 194.140.248.43
-Connecting to www.mnb.hu (www.mnb.hu)|194.140.248.43|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-Cookie coming from www.mnb.hu attempted to set domain to mnb.hu
-2020-02-25 22:47:31 ERROR 400: Bad Request.
-

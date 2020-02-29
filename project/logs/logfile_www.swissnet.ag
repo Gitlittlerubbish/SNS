@@ -1,6 +1,0 @@
---2020-02-25 21:04:30--  https://www.swissnet.ag/PDF/AGB_SN.pdf%0D
-Resolving www.swissnet.ag (www.swissnet.ag)... 85.10.203.22
-Connecting to www.swissnet.ag (www.swissnet.ag)|85.10.203.22|:443... connected.
-ERROR: cannot verify www.swissnet.ag's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to www.swissnet.ag insecurely, use `--no-check-certificate'.

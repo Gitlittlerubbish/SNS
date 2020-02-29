@@ -1,6 +1,0 @@
---2020-02-25 22:56:31--  http://www.acbi.ie/Downloads/IQC-Survey.pdf%0D
-Resolving www.acbi.ie (www.acbi.ie)... 79.170.244.14
-Connecting to www.acbi.ie (www.acbi.ie)|79.170.244.14|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:56:31 ERROR 400: Bad Request.
-

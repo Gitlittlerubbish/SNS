@@ -1,6 +1,0 @@
---2020-02-25 23:13:55--  https://hanbiro.co.kr/files/Livechat.pdf%0D
-Resolving hanbiro.co.kr (hanbiro.co.kr)... 211.234.111.31
-Connecting to hanbiro.co.kr (hanbiro.co.kr)|211.234.111.31|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘hanbiro.co.kr’.
-To connect to hanbiro.co.kr insecurely, use `--no-check-certificate'.

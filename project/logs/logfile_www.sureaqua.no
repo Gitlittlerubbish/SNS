@@ -1,6 +1,0 @@
---2020-02-26 00:22:21--  http://www.sureaqua.no/Sureaqua/library/ec_bioeconomy_strategy_2018.pdf%0D
-Resolving www.sureaqua.no (www.sureaqua.no)... 91.189.120.202
-Connecting to www.sureaqua.no (www.sureaqua.no)|91.189.120.202|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:21 ERROR 400: Bad Request.
-

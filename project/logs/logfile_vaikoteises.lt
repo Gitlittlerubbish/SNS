@@ -1,6 +1,0 @@
---2020-02-25 23:25:42--  http://vaikoteises.lt/media/file/Kauno.pdf%0D
-Resolving vaikoteises.lt (vaikoteises.lt)... 193.46.83.35
-Connecting to vaikoteises.lt (vaikoteises.lt)|193.46.83.35|:80... connected.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2020-02-25 23:25:42 ERROR 500: Internal Server Error.
-

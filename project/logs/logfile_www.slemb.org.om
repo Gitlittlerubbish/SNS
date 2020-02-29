@@ -1,6 +1,0 @@
---2020-02-26 00:23:04--  http://www.slemb.org.om/forms/1330461609.pdf%0D
-Resolving www.slemb.org.om (www.slemb.org.om)... 212.72.5.90
-Connecting to www.slemb.org.om (www.slemb.org.om)|212.72.5.90|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:23:05 ERROR 400: Bad Request.
-

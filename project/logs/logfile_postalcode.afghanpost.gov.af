@@ -1,6 +1,0 @@
---2020-02-25 20:54:21--  https://postalcode.afghanpost.gov.af/codes/area-coverd1063.pdf%0D
-Resolving postalcode.afghanpost.gov.af (postalcode.afghanpost.gov.af)... 103.132.98.11
-Connecting to postalcode.afghanpost.gov.af (postalcode.afghanpost.gov.af)|103.132.98.11|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 20:54:21 ERROR 400: Bad Request.
-

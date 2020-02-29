@@ -1,6 +1,0 @@
---2020-02-25 23:19:33--  https://www.intel.la/content/dam/doc/policy/policy-business-continuity-practices.pdf%0D
-Resolving www.intel.la (www.intel.la)... 104.86.143.61
-Connecting to www.intel.la (www.intel.la)|104.86.143.61|:443... connected.
-HTTP request sent, awaiting response... 403 Forbidden
-2020-02-25 23:19:33 ERROR 403: Forbidden.
-

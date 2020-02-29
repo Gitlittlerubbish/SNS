@@ -1,6 +1,0 @@
---2020-02-25 21:05:27--  http://www.anmat.gov.ar/boletin_anmat/Noviembre_2014/Dispo_7546-14.pdf%0D
-Resolving www.anmat.gov.ar (www.anmat.gov.ar)... 200.68.81.34
-Connecting to www.anmat.gov.ar (www.anmat.gov.ar)|200.68.81.34|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:05:27 ERROR 400: Bad Request.
-

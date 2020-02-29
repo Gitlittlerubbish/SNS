@@ -1,6 +1,0 @@
---2020-02-26 00:22:17--  https://www.legeforeningen.no/contentassets/c3b63f0c747f414c91f2fa10fca7e400/nihss.pdf%0D
-Resolving www.legeforeningen.no (www.legeforeningen.no)... 52.178.201.147
-Connecting to www.legeforeningen.no (www.legeforeningen.no)|52.178.201.147|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:18 ERROR 400: Bad Request.
-

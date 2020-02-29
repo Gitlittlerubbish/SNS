@@ -1,6 +1,0 @@
---2020-02-25 23:04:59--  http://demo1.logicalis.je/media/1184/process-portuguese.pdf%0D
-Resolving demo1.logicalis.je (demo1.logicalis.je)... 46.235.128.248
-Connecting to demo1.logicalis.je (demo1.logicalis.je)|46.235.128.248|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:04:59 ERROR 400: Bad Request.
-

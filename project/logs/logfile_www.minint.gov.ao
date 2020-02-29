@@ -1,6 +1,0 @@
---2020-02-25 21:01:26--  http://www.minint.gov.ao/download.aspx%3Fid%3D2253%26tipo%3Dlegislacao%0D
-Resolving www.minint.gov.ao (www.minint.gov.ao)... 154.116.255.10
-Connecting to www.minint.gov.ao (www.minint.gov.ao)|154.116.255.10|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:01:27 ERROR 400: Bad Request.
-

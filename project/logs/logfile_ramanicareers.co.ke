@@ -1,6 +1,0 @@
---2020-02-25 23:09:08--  https://ramanicareers.co.ke/docs/Ramanibrochure.pdf%0D
-Resolving ramanicareers.co.ke (ramanicareers.co.ke)... 162.213.253.97
-Connecting to ramanicareers.co.ke (ramanicareers.co.ke)|162.213.253.97|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘ramanicareers.co.ke’.
-To connect to ramanicareers.co.ke insecurely, use `--no-check-certificate'.

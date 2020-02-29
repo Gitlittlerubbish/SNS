@@ -1,6 +1,0 @@
---2020-02-25 23:20:46--  http://climatechange.moe.gov.lb/viewfile.aspx%3Fid%3D216%0D
-Resolving climatechange.moe.gov.lb (climatechange.moe.gov.lb)... 93.185.92.42
-Connecting to climatechange.moe.gov.lb (climatechange.moe.gov.lb)|93.185.92.42|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:20:47 ERROR 400: Bad Request.
-

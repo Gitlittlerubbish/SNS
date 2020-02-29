@@ -1,6 +1,0 @@
---2020-02-25 23:08:16--  https://www.orbital.co.ke/downloads/topo.pdf%0D
-Resolving www.orbital.co.ke (www.orbital.co.ke)... 173.249.7.118
-Connecting to www.orbital.co.ke (www.orbital.co.ke)|173.249.7.118|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:08:16 ERROR 400: Bad Request.
-

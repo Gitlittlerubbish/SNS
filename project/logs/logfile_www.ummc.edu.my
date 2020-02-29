@@ -1,6 +1,0 @@
---2020-02-25 23:33:06--  https://www.ummc.edu.my/files/pdpa/PRIVACYNOTICE.pdf%0D
-Resolving www.ummc.edu.my (www.ummc.edu.my)... 175.143.6.155, 103.18.0.204
-Connecting to www.ummc.edu.my (www.ummc.edu.my)|175.143.6.155|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:33:08 ERROR 400: Bad Request.
-

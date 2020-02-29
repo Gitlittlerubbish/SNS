@@ -1,6 +1,0 @@
---2020-02-26 00:23:26--  https://www.donate.om/DonationsPortal_AR/Data/Reports/OCO_Arabic_DonationsPortal.pdf%0D
-Resolving www.donate.om (www.donate.om)... 188.65.24.84
-Connecting to www.donate.om (www.donate.om)|188.65.24.84|:443... connected.
-ERROR: cannot verify www.donate.om's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.donate.om insecurely, use `--no-check-certificate'.

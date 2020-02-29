@@ -1,6 +1,0 @@
---2020-02-26 00:22:36--  https://www.omanpwp.om/PDF/AnnualReport2016.pdf%0D
-Resolving www.omanpwp.om (www.omanpwp.om)... 185.64.24.112
-Connecting to www.omanpwp.om (www.omanpwp.om)|185.64.24.112|:443... connected.
-ERROR: cannot verify www.omanpwp.om's certificate, issued by ‘CN=RapidSSL RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.omanpwp.om insecurely, use `--no-check-certificate'.

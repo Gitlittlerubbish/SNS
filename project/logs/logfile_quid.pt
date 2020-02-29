@@ -1,6 +1,0 @@
---2020-02-26 00:42:09--  https://quid.pt/pluginAppObj_62_28/CELEX_32014R0910_PT_TXT.pdf%0D
-Resolving quid.pt (quid.pt)... 80.172.241.40
-Connecting to quid.pt (quid.pt)|80.172.241.40|:443... connected.
-ERROR: cannot verify quid.pt's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Issued certificate has expired.
-To connect to quid.pt insecurely, use `--no-check-certificate'.

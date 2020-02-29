@@ -1,6 +1,0 @@
---2020-02-26 00:22:27--  http://www.vik-jfl.no/artikler/Fiskeknuter.pdf%0D
-Resolving www.vik-jfl.no (www.vik-jfl.no)... 193.93.253.53
-Connecting to www.vik-jfl.no (www.vik-jfl.no)|193.93.253.53|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:22:27 ERROR 404: Not Found.
-

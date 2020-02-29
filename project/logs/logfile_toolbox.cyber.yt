@@ -1,6 +1,0 @@
---2020-02-25 23:46:12--  https://toolbox.cyber.yt/verein/Benutzungsordnung_Mitglieder.pdf%0D
-Resolving toolbox.cyber.yt (toolbox.cyber.yt)... 195.201.198.49
-Connecting to toolbox.cyber.yt (toolbox.cyber.yt)|195.201.198.49|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘toolbox.cyber.yt’.
-To connect to toolbox.cyber.yt insecurely, use `--no-check-certificate'.

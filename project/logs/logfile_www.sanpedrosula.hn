@@ -1,6 +1,0 @@
---2020-02-25 22:44:09--  https://www.sanpedrosula.hn/requisitos/secretariamunicipal.pdf%0D
-Resolving www.sanpedrosula.hn (www.sanpedrosula.hn)... 200.52.153.82
-Connecting to www.sanpedrosula.hn (www.sanpedrosula.hn)|200.52.153.82|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:44:11 ERROR 400: Bad Request.
-

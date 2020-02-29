@@ -1,6 +1,0 @@
---2020-02-25 23:19:17--  https://www.lsb.gov.la/yearbook/2017.pdf%0D
-Resolving www.lsb.gov.la (www.lsb.gov.la)... 202.123.178.135
-Connecting to www.lsb.gov.la (www.lsb.gov.la)|202.123.178.135|:443... connected.
-ERROR: cannot verify www.lsb.gov.la's certificate, issued by ‘CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\\, Inc.,L=Scottsdale,ST=Arizona,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.lsb.gov.la insecurely, use `--no-check-certificate'.

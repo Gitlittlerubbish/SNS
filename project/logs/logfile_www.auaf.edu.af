@@ -1,6 +1,0 @@
---2020-02-25 20:54:17--  https://www.auaf.edu.af/media/1229/auaf_yearbook.pdf%0D
-Resolving www.auaf.edu.af (www.auaf.edu.af)... 166.62.119.53
-Connecting to www.auaf.edu.af (www.auaf.edu.af)|166.62.119.53|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 20:54:17 ERROR 400: Bad Request.
-

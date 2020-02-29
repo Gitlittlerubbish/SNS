@@ -1,6 +1,0 @@
---2020-02-25 23:00:22--  https://www.amedeolucente.it/public/lezione5.pdf%0D
-Resolving www.amedeolucente.it (www.amedeolucente.it)... 31.11.34.71
-Connecting to www.amedeolucente.it (www.amedeolucente.it)|31.11.34.71|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:00:22 ERROR 400: Bad Request.
-

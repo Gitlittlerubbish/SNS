@@ -1,6 +1,0 @@
---2020-02-26 00:22:18--  https://npi.nsd.no/dok/Veiledning_kreditering_av_vit_publikasjoner_til_institusjoner_2011.pdf%0D
-Resolving npi.nsd.no (npi.nsd.no)... 129.177.90.95
-Connecting to npi.nsd.no (npi.nsd.no)|129.177.90.95|:443... connected.
-HTTP request sent, awaiting response... 404 
-2020-02-26 00:22:18 ERROR 404: (no description).
-

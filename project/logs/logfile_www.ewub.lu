@@ -1,6 +1,0 @@
---2020-02-25 23:26:21--  https://www.ewub.lu/IMG/pdf/client_classification.pdf%0D
-Resolving www.ewub.lu (www.ewub.lu)... 212.24.208.3
-Connecting to www.ewub.lu (www.ewub.lu)|212.24.208.3|:443... connected.
-ERROR: cannot verify www.ewub.lu's certificate, issued by ‘CN=GlobalSign Domain Validation CA - SHA256 - G2,O=GlobalSign nv-sa,C=BE’:
-  Unable to locally verify the issuer's authority.
-To connect to www.ewub.lu insecurely, use `--no-check-certificate'.

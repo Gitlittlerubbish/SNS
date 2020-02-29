@@ -1,6 +1,0 @@
---2020-02-26 00:22:29--  http://www.dagensmedier.no/globalassets/tallogfakta/executive-summary-11-21-16.pdf%0D
-Resolving www.dagensmedier.no (www.dagensmedier.no)... 188.95.245.238
-Connecting to www.dagensmedier.no (www.dagensmedier.no)|188.95.245.238|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:29 ERROR 400: Bad Request.
-

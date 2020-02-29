@@ -1,6 +1,0 @@
---2020-02-25 23:53:47--  https://www.shilendans.gov.mn/pdfview%3Ffile%3D8e9a3dee0a0265a75acc577e02dbae27.pdf%0D
-Resolving www.shilendans.gov.mn (www.shilendans.gov.mn)... 103.17.108.180
-Connecting to www.shilendans.gov.mn (www.shilendans.gov.mn)|103.17.108.180|:443... connected.
-ERROR: cannot verify www.shilendans.gov.mn's certificate, issued by ‘CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to www.shilendans.gov.mn insecurely, use `--no-check-certificate'.

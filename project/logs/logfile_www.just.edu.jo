@@ -1,6 +1,0 @@
---2020-02-25 23:05:54--  http://www.just.edu.jo/DIC/AZLibrary/Budesonide.pdf%0D
-Resolving www.just.edu.jo (www.just.edu.jo)... 87.236.232.169
-Connecting to www.just.edu.jo (www.just.edu.jo)|87.236.232.169|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:05:55 ERROR 400: Bad Request.
-

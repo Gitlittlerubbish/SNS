@@ -1,6 +1,0 @@
---2020-02-26 00:22:24--  http://www.xn--momentverkty-5jb.no/pdf/258-327_09_TorqueTools_2017_EN.pdf%0D
-Resolving www.momentverktøy.no (www.xn--momentverkty-5jb.no)... 91.207.158.83
-Connecting to www.momentverktøy.no (www.xn--momentverkty-5jb.no)|91.207.158.83|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:24 ERROR 400: Bad Request.
-

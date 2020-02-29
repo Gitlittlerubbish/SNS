@@ -1,7 +1,0 @@
---2020-02-25 23:04:34--  https://www.jar.je/JAR_launch20151110160558.pdf%0D
-Resolving www.jar.je (www.jar.je)... 52.156.194.171
-Connecting to www.jar.je (www.jar.je)|52.156.194.171|:443... connected.
-ERROR: cannot verify www.jar.je's certificate, issued by ‘emailAddress=support@fortinet.com,CN=FortiWEB,OU=Fortinet,O=Fortinet Inc.,L=Vancouver,ST=Vancouver,C=CA’:
-  Self-signed certificate encountered.
-    ERROR: certificate common name ‘FortiWEB’ doesn't match requested host name ‘www.jar.je’.
-To connect to www.jar.je insecurely, use `--no-check-certificate'.

@@ -1,6 +1,0 @@
---2020-02-25 23:14:26--  https://www.gtck.re.kr/images/Attach_File/1395620405554.pdf%0D
-Resolving www.gtck.re.kr (www.gtck.re.kr)... 211.192.64.41
-Connecting to www.gtck.re.kr (www.gtck.re.kr)|211.192.64.41|:443... connected.
-ERROR: cannot verify www.gtck.re.kr's certificate, issued by ‘CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.gtck.re.kr insecurely, use `--no-check-certificate'.

@@ -1,6 +1,0 @@
---2020-02-25 23:21:24--  http://www.general-security.gov.lb/uploads/articles/0371.pdf%0D
-Resolving www.general-security.gov.lb (www.general-security.gov.lb)... 193.188.136.101
-Connecting to www.general-security.gov.lb (www.general-security.gov.lb)|193.188.136.101|:80... connected.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2020-02-25 23:21:25 ERROR 500: Internal Server Error.
-

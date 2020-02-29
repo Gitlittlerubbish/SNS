@@ -1,6 +1,0 @@
---2020-02-25 23:31:42--  http://www.jpapencen.gov.my/spp022017.pdf%0D
-Resolving www.jpapencen.gov.my (www.jpapencen.gov.my)... 202.75.5.22
-Connecting to www.jpapencen.gov.my (www.jpapencen.gov.my)|202.75.5.22|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:31:43 ERROR 400: Bad Request.
-

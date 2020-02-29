@@ -1,6 +1,0 @@
---2020-02-25 23:21:14--  http://www.interior.gov.lb/Download.aspx%3Fidf%3D81%0D
-Resolving www.interior.gov.lb (www.interior.gov.lb)... 93.185.92.42
-Connecting to www.interior.gov.lb (www.interior.gov.lb)|93.185.92.42|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:21:14 ERROR 400: Bad Request.
-

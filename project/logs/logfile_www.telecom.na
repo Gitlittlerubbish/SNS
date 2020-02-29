@@ -1,6 +1,0 @@
---2020-02-26 00:01:13--  https://www.telecom.na/downloads/broadband/fritz/Manual_FRITZBox_Fon_WLAN_7330.pdf%0D
-Resolving www.telecom.na (www.telecom.na)... 196.44.136.114
-Connecting to www.telecom.na (www.telecom.na)|196.44.136.114|:443... connected.
-ERROR: cannot verify www.telecom.na's certificate, issued by ‘CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE’:
-  Unable to locally verify the issuer's authority.
-To connect to www.telecom.na insecurely, use `--no-check-certificate'.

@@ -1,6 +1,0 @@
---2020-02-26 00:43:00--  http://www.ocif.gobierno.pr/documents/advertencia_re_ley_247.pdf%0D
-Resolving www.ocif.gobierno.pr (www.ocif.gobierno.pr)... 104.209.158.250
-Connecting to www.ocif.gobierno.pr (www.ocif.gobierno.pr)|104.209.158.250|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:43:00 ERROR 400: Bad Request.
-

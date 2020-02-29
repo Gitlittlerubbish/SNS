@@ -1,6 +1,0 @@
---2020-02-25 22:49:27--  http://www.scv.in/Packs.aspx%0D
-Resolving www.scv.in (www.scv.in)... 45.251.32.229
-Connecting to www.scv.in (www.scv.in)|45.251.32.229|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:49:27 ERROR 400: Bad Request.
-

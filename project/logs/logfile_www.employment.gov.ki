@@ -1,6 +1,0 @@
---2020-02-25 23:10:48--  https://www.employment.gov.ki/phocadownload/newvacancies/PD-%2520Estimator.pdf%0D
-Resolving www.employment.gov.ki (www.employment.gov.ki)... 143.95.237.92
-Connecting to www.employment.gov.ki (www.employment.gov.ki)|143.95.237.92|:443... connected.
-ERROR: cannot verify www.employment.gov.ki's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Issued certificate has expired.
-To connect to www.employment.gov.ki insecurely, use `--no-check-certificate'.

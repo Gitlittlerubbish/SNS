@@ -1,9 +1,0 @@
---2020-02-25 21:47:42--  http://witgor.ma.cx/YSP-800_e.pdf%0D
-Resolving witgor.ma.cx (witgor.ma.cx)... --2020-02-25 21:47:42--  http://witgor.ma.cx/YSP-800_e.pdf%0D
-Resolving witgor.ma.cx (witgor.ma.cx)... failed: Connection timed out.
-wget: unable to resolve host address ‘witgor.ma.cx’
-188.125.58.43
-Connecting to witgor.ma.cx (witgor.ma.cx)|188.125.58.43|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 21:47:45 ERROR 404: Not Found.
-

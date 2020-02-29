@@ -1,6 +1,0 @@
---2020-02-26 00:24:06--  http://www.sbp.org.pk/securitization.pdf%0D
-Resolving www.sbp.org.pk (www.sbp.org.pk)... 104.18.23.213, 104.18.22.213
-Connecting to www.sbp.org.pk (www.sbp.org.pk)|104.18.23.213|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:24:07 ERROR 400: Bad Request.
-

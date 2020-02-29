@@ -1,6 +1,0 @@
---2020-02-25 23:08:27--  http://www.kttc.ac.ke/images/BRONCHURE.pdf%0D
-Resolving www.kttc.ac.ke (www.kttc.ac.ke)... 65.254.250.200
-Connecting to www.kttc.ac.ke (www.kttc.ac.ke)|65.254.250.200|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:08:28 ERROR 400: Bad Request.
-

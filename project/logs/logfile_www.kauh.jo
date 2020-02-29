@@ -1,6 +1,0 @@
---2020-02-25 23:05:19--  http://www.kauh.jo/2017_Reoport.pdf%0D
-Resolving www.kauh.jo (www.kauh.jo)... 87.236.232.167
-Connecting to www.kauh.jo (www.kauh.jo)|87.236.232.167|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:05:21 ERROR 400: Bad Request.
-

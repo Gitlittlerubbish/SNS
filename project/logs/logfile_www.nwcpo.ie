@@ -1,6 +1,0 @@
---2020-02-25 22:56:21--  https://www.nwcpo.ie/forms/Form3.pdf%0D
-Resolving www.nwcpo.ie (www.nwcpo.ie)... 137.191.228.184
-Connecting to www.nwcpo.ie (www.nwcpo.ie)|137.191.228.184|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:56:21 ERROR 400: Bad Request.
-

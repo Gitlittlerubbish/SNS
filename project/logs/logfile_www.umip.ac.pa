@@ -1,6 +1,0 @@
---2020-02-26 00:26:31--  https://www.umip.ac.pa/documents/navegacion.pdf%0D
-Resolving www.umip.ac.pa (www.umip.ac.pa)... 40.76.5.137
-Connecting to www.umip.ac.pa (www.umip.ac.pa)|40.76.5.137|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:26:31 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 23:20:11--  https://mape.skola2030.lv/resources/10%0D
-Resolving mape.skola2030.lv (mape.skola2030.lv)... 81.198.73.61
-Connecting to mape.skola2030.lv (mape.skola2030.lv)|81.198.73.61|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:20:11 ERROR 400: Bad Request.
-

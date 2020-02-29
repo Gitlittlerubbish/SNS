@@ -1,6 +1,0 @@
---2020-02-26 00:21:37--  http://www.nursepartner.no/wp-content/uploads/NursePartner_Forsakringskassan_BegaranIntygA1E10ellerkonventionsintyg.pdf%0D
-Resolving www.nursepartner.no (www.nursepartner.no)... 82.99.18.66
-Connecting to www.nursepartner.no (www.nursepartner.no)|82.99.18.66|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:21:38 ERROR 404: Not Found.
-

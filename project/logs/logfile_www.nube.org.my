@@ -1,6 +1,0 @@
---2020-02-25 23:32:21--  https://www.nube.org.my/upload/M3_W5_int.pdf%0D
-Resolving www.nube.org.my (www.nube.org.my)... 110.4.40.46
-Connecting to www.nube.org.my (www.nube.org.my)|110.4.40.46|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:32:22 ERROR 400: Bad Request.
-

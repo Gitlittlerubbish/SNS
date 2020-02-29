@@ -1,6 +1,0 @@
---2020-02-25 20:54:22--  http://old.mcit.gov.af/Content/files/satalited.pdf%0D
-Resolving old.mcit.gov.af (old.mcit.gov.af)... 103.132.98.201
-Connecting to old.mcit.gov.af (old.mcit.gov.af)|103.132.98.201|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 20:54:22 ERROR 400: Bad Request.
-

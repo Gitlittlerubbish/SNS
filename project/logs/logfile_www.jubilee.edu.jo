@@ -1,6 +1,0 @@
---2020-02-25 23:05:57--  http://www.jubilee.edu.jo/Admission%2520Guide.pdf%0D
-Resolving www.jubilee.edu.jo (www.jubilee.edu.jo)... 213.186.164.2
-Connecting to www.jubilee.edu.jo (www.jubilee.edu.jo)|213.186.164.2|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:05:58 ERROR 400: Bad Request.
-

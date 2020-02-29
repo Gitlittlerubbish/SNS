@@ -1,6 +1,0 @@
---2020-02-26 00:26:26--  https://www.cnd.com.pa/documentos/agentes_autorizados_para_realizar_transacciones_en_el_mer.pdf%0D
-Resolving www.cnd.com.pa (www.cnd.com.pa)... 200.46.135.82
-Connecting to www.cnd.com.pa (www.cnd.com.pa)|200.46.135.82|:443... connected.
-ERROR: cannot verify www.cnd.com.pa's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.cnd.com.pa insecurely, use `--no-check-certificate'.

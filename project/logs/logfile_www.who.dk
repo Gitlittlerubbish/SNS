@@ -1,6 +1,0 @@
---2020-02-25 22:06:10--  http://www.who.dk/document/e67880.pdf%0D
-Resolving www.who.dk (www.who.dk)... --2020-02-25 22:06:10--  http://www.who.dk/document/e67880.pdf%0D
-Resolving www.who.dk (www.who.dk)... failed: Name or service not known.
-wget: unable to resolve host address ‘www.who.dk’
-failed: Name or service not known.
-wget: unable to resolve host address ‘www.who.dk’

@@ -1,6 +1,0 @@
---2020-02-26 00:22:21--  http://www2.artsdatabanken.no/faktaark/Faktaark211.pdf%0D
-Resolving www2.artsdatabanken.no (www2.artsdatabanken.no)... 129.241.38.12
-Connecting to www2.artsdatabanken.no (www2.artsdatabanken.no)|129.241.38.12|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:21 ERROR 400: Bad Request.
-

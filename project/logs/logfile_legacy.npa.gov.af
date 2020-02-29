@@ -1,6 +1,0 @@
---2020-02-25 20:54:19--  http://legacy.npa.gov.af/Documents/APPLeS.pdf%0D
-Resolving legacy.npa.gov.af (legacy.npa.gov.af)... 13.209.224.22
-Connecting to legacy.npa.gov.af (legacy.npa.gov.af)|13.209.224.22|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 20:54:19 ERROR 400: Bad Request.
-

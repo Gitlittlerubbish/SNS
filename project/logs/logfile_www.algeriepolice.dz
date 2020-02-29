@@ -1,6 +1,0 @@
---2020-02-25 20:59:40--  https://www.algeriepolice.dz/IMG/pdf/8mai_1945.pdf%0D
-Resolving www.algeriepolice.dz (www.algeriepolice.dz)... 196.20.124.135
-Connecting to www.algeriepolice.dz (www.algeriepolice.dz)|196.20.124.135|:443... connected.
-ERROR: cannot verify www.algeriepolice.dz's certificate, issued by ‘CN=COMODO RSA Organization Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to www.algeriepolice.dz insecurely, use `--no-check-certificate'.

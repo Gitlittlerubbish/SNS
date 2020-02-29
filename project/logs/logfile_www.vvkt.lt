@@ -1,6 +1,0 @@
---2020-02-25 23:25:49--  https://www.vvkt.lt/get_file.php%3Ffile%3DbWFqSjJKcWhhNnhtWjI2bHlKR1lwbWpEYWNkcm9HJTJGUWw1bWUyY1NSbU5tWW1KdkxuS0p0bldpcm1HZVd5SldpYXRCZ3hwUnNtWnR0WjIlMkJabFpCcTBwbVd5c2pJY1pkN2txRnVxTXpVbFpxWDBKTEdaNjl4aEpaNGJhNlVzbTZsbkdDWTBwNmFaWjVrYzVkenlBJTNEJTNE%0D
-Resolving www.vvkt.lt (www.vvkt.lt)... 195.182.81.108
-Connecting to www.vvkt.lt (www.vvkt.lt)|195.182.81.108|:443... connected.
-ERROR: cannot verify www.vvkt.lt's certificate, issued by ‘CN=COMODO RSA Domain Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to www.vvkt.lt insecurely, use `--no-check-certificate'.

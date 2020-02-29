@@ -1,6 +1,0 @@
---2020-02-25 23:21:01--  https://www.alfa.com.lb/files/alfatab.pdf%0D
-Resolving www.alfa.com.lb (www.alfa.com.lb)... 185.81.142.177
-Connecting to www.alfa.com.lb (www.alfa.com.lb)|185.81.142.177|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:21:02 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 23:32:12--  http://www.ecomesolutions.com.my/data/midea_error_code.pdf%0D
-Resolving www.ecomesolutions.com.my (www.ecomesolutions.com.my)... 103.8.25.228
-Connecting to www.ecomesolutions.com.my (www.ecomesolutions.com.my)|103.8.25.228|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:32:12 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-26 00:22:30--  https://signform.no/dss/statlige-blanketter%3Ftask%3Dform.downloadFile%26id%3D6195%0D
-Resolving signform.no (signform.no)... 199.116.76.98
-Connecting to signform.no (signform.no)|199.116.76.98|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:22:31 ERROR 404: Not Found.
-

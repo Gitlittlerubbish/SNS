@@ -1,6 +1,0 @@
---2020-02-25 23:13:48--  https://www.kribb.re.kr/file/2017_AR.pdf%0D
-Resolving www.kribb.re.kr (www.kribb.re.kr)... 210.218.221.77
-Connecting to www.kribb.re.kr (www.kribb.re.kr)|210.218.221.77|:443... connected.
-ERROR: cannot verify www.kribb.re.kr's certificate, issued by ‘CN=RapidSSL RSA CA 2018,OU=www.digicert.com,O=DigiCert Inc,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.kribb.re.kr insecurely, use `--no-check-certificate'.

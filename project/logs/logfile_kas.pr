@@ -1,6 +1,0 @@
---2020-02-26 00:42:42--  https://kas.pr/kaspersky_green_bear_book%0D
-Resolving kas.pr (kas.pr)... 77.74.178.29
-Connecting to kas.pr (kas.pr)|77.74.178.29|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:42:42 ERROR 400: Bad Request.
-

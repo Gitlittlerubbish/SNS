@@ -1,6 +1,0 @@
---2020-02-25 23:30:10--  https://docs.beam.mw/1039.pdf%0D
-Resolving docs.beam.mw (docs.beam.mw)... 99.84.5.100, 99.84.5.35, 99.84.5.101, ...
-Connecting to docs.beam.mw (docs.beam.mw)|99.84.5.100|:443... connected.
-HTTP request sent, awaiting response... 403 Forbidden
-2020-02-25 23:30:11 ERROR 403: Forbidden.
-

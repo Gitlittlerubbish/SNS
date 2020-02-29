@@ -1,6 +1,0 @@
---2020-02-26 00:26:12--  http://cw.pa/RO2018%0D
-Resolving cw.pa (cw.pa)... 201.224.58.176
-Connecting to cw.pa (cw.pa)|201.224.58.176|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:26:13 ERROR 400: Bad Request.
-

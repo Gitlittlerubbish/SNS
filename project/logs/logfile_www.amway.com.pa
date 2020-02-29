@@ -1,6 +1,0 @@
---2020-02-26 00:27:06--  http://www.amway.com.pa/downloads/hojas/3878.pdf%0D
-Resolving www.amway.com.pa (www.amway.com.pa)... 104.82.241.212
-Connecting to www.amway.com.pa (www.amway.com.pa)|104.82.241.212|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:27:07 ERROR 400: Bad Request.
-

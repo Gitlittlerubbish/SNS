@@ -1,6 +1,0 @@
---2020-02-25 23:24:29--  http://www.kunstmuseum.li/bilder/2560.pdf%0D
-Resolving www.kunstmuseum.li (www.kunstmuseum.li)... 88.198.26.38
-Connecting to www.kunstmuseum.li (www.kunstmuseum.li)|88.198.26.38|:80... connected.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2020-02-25 23:24:29 ERROR 500: Internal Server Error.
-

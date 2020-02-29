@@ -1,6 +1,0 @@
---2020-02-25 21:00:50--  https://hawke.chameleon.ad/Chi_%25C3%25A8_dio.pdf%0D
-Resolving hawke.chameleon.ad (hawke.chameleon.ad)... 37.187.132.158
-Connecting to hawke.chameleon.ad (hawke.chameleon.ad)|37.187.132.158|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘hawke.chameleon.ad’.
-To connect to hawke.chameleon.ad insecurely, use `--no-check-certificate'.

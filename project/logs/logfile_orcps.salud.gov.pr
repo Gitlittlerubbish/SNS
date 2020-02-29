@@ -1,6 +1,0 @@
---2020-02-26 00:42:57--  https://orcps.salud.gov.pr/Requisitosprofesion_rev_nov_2010.pdf%0D
-Resolving orcps.salud.gov.pr (orcps.salud.gov.pr)... 12.205.87.91
-Connecting to orcps.salud.gov.pr (orcps.salud.gov.pr)|12.205.87.91|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:43:00 ERROR 400: Bad Request.
-

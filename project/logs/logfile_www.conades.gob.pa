@@ -1,6 +1,0 @@
---2020-02-26 00:27:23--  https://www.conades.gob.pa/tmp/file/1361/ESTRATEGIADEDESARROLLOSOSTENIBLEHerrera.pdf%0D
-Resolving www.conades.gob.pa (www.conades.gob.pa)... 149.126.74.109
-Connecting to www.conades.gob.pa (www.conades.gob.pa)|149.126.74.109|:443... connected.
-ERROR: cannot verify www.conades.gob.pa's certificate, issued by ‘CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.conades.gob.pa insecurely, use `--no-check-certificate'.

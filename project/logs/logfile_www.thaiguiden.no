@@ -1,6 +1,0 @@
---2020-02-26 00:22:24--  http://www.thaiguiden.no/resources/download/guidancefortravelers4.pdf%0D
-Resolving www.thaiguiden.no (www.thaiguiden.no)... 77.111.240.110
-Connecting to www.thaiguiden.no (www.thaiguiden.no)|77.111.240.110|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:22:24 ERROR 404: Not Found.
-

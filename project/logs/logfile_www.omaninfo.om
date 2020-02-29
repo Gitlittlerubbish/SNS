@@ -1,6 +1,0 @@
---2020-02-26 00:23:26--  https://www.omaninfo.om/images/library/file/Book485511.pdf%0D
-Resolving www.omaninfo.om (www.omaninfo.om)... 5.37.56.186
-Connecting to www.omaninfo.om (www.omaninfo.om)|5.37.56.186|:443... connected.
-ERROR: cannot verify www.omaninfo.om's certificate, issued by ‘CN=DigiCert SHA2 Secure Server CA,O=DigiCert Inc,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.omaninfo.om insecurely, use `--no-check-certificate'.

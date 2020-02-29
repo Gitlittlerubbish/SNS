@@ -1,6 +1,0 @@
---2020-02-25 23:13:38--  http://nisl.kau.ac.kr/easy3.pdf%0D
-Resolving nisl.kau.ac.kr (nisl.kau.ac.kr)... 203.253.150.16
-Connecting to nisl.kau.ac.kr (nisl.kau.ac.kr)|203.253.150.16|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:13:39 ERROR 400: Bad Request.
-

@@ -1,7 +1,0 @@
---2020-02-25 21:02:01--  http://silac.minco.gov.ao/help/Ajuda_SILAC_Registo.pdf%0D
-Resolving silac.minco.gov.ao (silac.minco.gov.ao)... 41.74.247.118, 41.63.166.87
-Connecting to silac.minco.gov.ao (silac.minco.gov.ao)|41.74.247.118|:80... failed: Connection timed out.
-Connecting to silac.minco.gov.ao (silac.minco.gov.ao)|41.63.166.87|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:02:05 ERROR 400: Bad Request.
-

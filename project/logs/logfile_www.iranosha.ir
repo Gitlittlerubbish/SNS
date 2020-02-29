@@ -1,6 +1,0 @@
---2020-02-25 22:54:40--  http://www.iranosha.ir/file_source/4.pdf%0D
-Resolving www.iranosha.ir (www.iranosha.ir)... 89.144.129.18
-Connecting to www.iranosha.ir (www.iranosha.ir)|89.144.129.18|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:54:41 ERROR 400: Bad Request.
-

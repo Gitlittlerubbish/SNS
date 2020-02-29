@@ -1,6 +1,0 @@
---2020-02-26 00:36:48--  http://www.egeda.com.pe/documentos/Codigo_Penal.pdf%0D
-Resolving www.egeda.com.pe (www.egeda.com.pe)... 85.118.242.9
-Connecting to www.egeda.com.pe (www.egeda.com.pe)|85.118.242.9|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:36:48 ERROR 400: Bad Request.
-

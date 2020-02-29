@@ -1,6 +1,0 @@
---2020-02-25 21:05:23--  http://www.lu1ehr.com.ar/diodo.pdf%0D
-Resolving www.lu1ehr.com.ar (www.lu1ehr.com.ar)... 104.24.118.102, 104.24.119.102
-Connecting to www.lu1ehr.com.ar (www.lu1ehr.com.ar)|104.24.118.102|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:05:24 ERROR 400: Bad Request.
-

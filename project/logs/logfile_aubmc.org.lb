@@ -1,6 +1,0 @@
---2020-02-25 23:21:16--  http://aubmc.org.lb/Documents/press/Humane_Medicine_En.pdf%0D
-Resolving aubmc.org.lb (aubmc.org.lb)... 40.127.138.74
-Connecting to aubmc.org.lb (aubmc.org.lb)|40.127.138.74|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:21:18 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 23:49:09--  http://nfc.fm/documents/public_law_3_14.pdf%0D
-Resolving nfc.fm (nfc.fm)... 77.104.168.81
-Connecting to nfc.fm (nfc.fm)|77.104.168.81|:80... connected.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2020-02-25 23:49:10 ERROR 500: Internal Server Error.
-

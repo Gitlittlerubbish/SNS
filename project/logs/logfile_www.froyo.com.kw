@@ -1,6 +1,0 @@
---2020-02-25 23:15:48--  https://www.froyo.com.kw/downloads/froyo_profile.pdf%0D
-Resolving www.froyo.com.kw (www.froyo.com.kw)... 83.138.157.224
-Connecting to www.froyo.com.kw (www.froyo.com.kw)|83.138.157.224|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:15:48 ERROR 400: Bad Request.
-

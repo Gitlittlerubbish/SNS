@@ -1,6 +1,0 @@
---2020-02-25 21:05:58--  https://www.bancoprovincia.com.ar/CDN/Get/verano_restaurantes_bares%0D
-Resolving www.bancoprovincia.com.ar (www.bancoprovincia.com.ar)... 181.191.187.30, 181.191.186.30
-Connecting to www.bancoprovincia.com.ar (www.bancoprovincia.com.ar)|181.191.187.30|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:05:59 ERROR 400: Bad Request.
-

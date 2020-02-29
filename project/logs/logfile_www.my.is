@@ -1,7 +1,0 @@
---2020-02-25 22:48:49--  https://www.my.is/attachments/is_lps-pdf.30933/%0D
-Resolving www.my.is (www.my.is)... 104.18.1.162, 104.18.0.162
-Connecting to www.my.is (www.my.is)|104.18.1.162|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-Cookie coming from www.my.is attempted to set domain to my.is
-2020-02-25 22:48:50 ERROR 404: Not Found.
-

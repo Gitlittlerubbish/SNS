@@ -1,9 +1,0 @@
---2020-02-25 21:37:33--  https://vch.eduhealth.ca/PDFs/FA/FA.140.H692.pdf%0D
-Resolving vch.eduhealth.ca (vch.eduhealth.ca)... failed: Connection timed out.
-wget: unable to resolve host address ‘vch.eduhealth.ca’
---2020-02-25 21:39:02--  https://vch.eduhealth.ca/PDFs/FA/FA.140.H692.pdf%0D
-Resolving vch.eduhealth.ca (vch.eduhealth.ca)... 216.187.67.112
-Connecting to vch.eduhealth.ca (vch.eduhealth.ca)|216.187.67.112|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 21:39:03 ERROR 400: Bad Request.
-

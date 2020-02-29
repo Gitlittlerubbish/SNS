@@ -1,6 +1,0 @@
---2020-02-26 00:22:11--  https://www.forskningsradet.no/globalassets/asia_i_endring.pdf%0D
-Resolving www.forskningsradet.no (www.forskningsradet.no)... 104.18.27.39, 104.18.26.39
-Connecting to www.forskningsradet.no (www.forskningsradet.no)|104.18.27.39|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:11 ERROR 400: Bad Request.
-

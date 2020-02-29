@@ -1,6 +1,0 @@
---2020-02-25 23:26:12--  http://www.sacha.lu/archives/book_crp.pdf%0D
-Resolving www.sacha.lu (www.sacha.lu)... 195.26.5.2
-Connecting to www.sacha.lu (www.sacha.lu)|195.26.5.2|:80... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 23:26:12 ERROR 404: Not Found.
-

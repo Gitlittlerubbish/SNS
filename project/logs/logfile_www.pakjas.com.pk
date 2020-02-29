@@ -1,6 +1,0 @@
---2020-02-26 00:24:54--  https://www.pakjas.com.pk/papers/2366.pdf%0D
-Resolving www.pakjas.com.pk (www.pakjas.com.pk)... 209.132.252.16
-Connecting to www.pakjas.com.pk (www.pakjas.com.pk)|209.132.252.16|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:24:55 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 23:19:34--  http://www.erm.gov.la/Downloads/regulations/2121.pdf%0D
-Resolving www.erm.gov.la (www.erm.gov.la)... 183.182.99.107
-Connecting to www.erm.gov.la (www.erm.gov.la)|183.182.99.107|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:19:35 ERROR 400: Bad Request.
-

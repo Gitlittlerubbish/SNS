@@ -1,6 +1,0 @@
---2020-02-25 23:01:15--  http://www.jpccu.com.jm/documents/Motor_Vehicles_for_sale.pdf%0D
-Resolving www.jpccu.com.jm (www.jpccu.com.jm)... 72.252.250.123
-Connecting to www.jpccu.com.jm (www.jpccu.com.jm)|72.252.250.123|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:01:15 ERROR 400: Bad Request.
-

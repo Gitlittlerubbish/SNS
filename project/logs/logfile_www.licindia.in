@@ -1,6 +1,0 @@
---2020-02-25 22:49:23--  https://www.licindia.in/LOCATOR/microinsagent%0D
-Resolving www.licindia.in (www.licindia.in)... 64.185.181.238
-Connecting to www.licindia.in (www.licindia.in)|64.185.181.238|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:49:24 ERROR 400: Bad Request.
-

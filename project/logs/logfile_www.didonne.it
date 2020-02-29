@@ -1,6 +1,0 @@
---2020-02-25 23:00:27--  http://www.didonne.it/normativa/cartadirue4.pdf%0D
-Resolving www.didonne.it (www.didonne.it)... 159.213.38.136
-Connecting to www.didonne.it (www.didonne.it)|159.213.38.136|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:00:27 ERROR 400: Bad Request.
-

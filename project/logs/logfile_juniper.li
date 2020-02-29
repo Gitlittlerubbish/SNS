@@ -1,6 +1,0 @@
---2020-02-25 23:24:24--  https://juniper.li/support/990222.pdf%0D
-Resolving juniper.li (juniper.li)... 54.244.131.6
-Connecting to juniper.li (juniper.li)|54.244.131.6|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘juniper.li’.
-To connect to juniper.li insecurely, use `--no-check-certificate'.

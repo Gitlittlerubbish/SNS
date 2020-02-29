@@ -1,6 +1,0 @@
---2020-02-26 00:22:31--  https://www.vipps.no/documents/45/vipp0016_a6_brosjyre.pdf%0D
-Resolving www.vipps.no (www.vipps.no)... 143.204.175.58, 143.204.175.52, 143.204.175.16, ...
-Connecting to www.vipps.no (www.vipps.no)|143.204.175.58|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:22:31 ERROR 400: Bad Request.
-

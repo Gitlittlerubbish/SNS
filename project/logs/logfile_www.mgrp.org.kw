@@ -1,6 +1,0 @@
---2020-02-25 23:16:17--  http://www.mgrp.org.kw/docs/LaborLaw/36.pdf%0D
-Resolving www.mgrp.org.kw (www.mgrp.org.kw)... 91.140.151.150
-Connecting to www.mgrp.org.kw (www.mgrp.org.kw)|91.140.151.150|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:16:18 ERROR 400: Bad Request.
-

@@ -1,9 +1,0 @@
---2020-02-26 00:27:39--  http://www.kpmg.com.pg/images/accounting_for_leases.pdf%0D
-Resolving www.kpmg.com.pg (www.kpmg.com.pg)... failed: Connection timed out.
-wget: unable to resolve host address ‘www.kpmg.com.pg’
---2020-02-26 00:30:23--  http://www.kpmg.com.pg/images/accounting_for_leases.pdf%0D
-Resolving www.kpmg.com.pg (www.kpmg.com.pg)... 202.171.240.212
-Connecting to www.kpmg.com.pg (www.kpmg.com.pg)|202.171.240.212|:80... connected.
-HTTP request sent, awaiting response... Read error (Connection timed out) in headers.
-Giving up.
-

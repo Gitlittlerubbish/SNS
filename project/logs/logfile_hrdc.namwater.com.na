@@ -1,6 +1,0 @@
---2020-02-26 00:02:09--  https://hrdc.namwater.com.na/trades/eg.pdf%0D
-Resolving hrdc.namwater.com.na (hrdc.namwater.com.na)... 197.188.246.97
-Connecting to hrdc.namwater.com.na (hrdc.namwater.com.na)|197.188.246.97|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:02:10 ERROR 400: Bad Request.
-

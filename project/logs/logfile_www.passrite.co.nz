@@ -1,6 +1,0 @@
---2020-02-26 00:13:12--  https://www.passrite.co.nz/i/Files/NEWNZTATL01_111010.pdf%0D
-Resolving www.passrite.co.nz (www.passrite.co.nz)... 210.5.55.110
-Connecting to www.passrite.co.nz (www.passrite.co.nz)|210.5.55.110|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:13:13 ERROR 400: Bad Request.
-

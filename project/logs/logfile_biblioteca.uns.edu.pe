@@ -1,6 +1,0 @@
---2020-02-26 00:36:13--  http://biblioteca.uns.edu.pe/saladocentes/archivoz/publicacionez/manual_proteus.pdf%0D
-Resolving biblioteca.uns.edu.pe (biblioteca.uns.edu.pe)... 200.37.61.84
-Connecting to biblioteca.uns.edu.pe (biblioteca.uns.edu.pe)|200.37.61.84|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:36:14 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 23:20:58--  http://www.schoolnet.edu.lb/STV/Formats_de_papier.pdf%0D
-Resolving www.schoolnet.edu.lb (www.schoolnet.edu.lb)... 193.188.136.42
-Connecting to www.schoolnet.edu.lb (www.schoolnet.edu.lb)|193.188.136.42|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:20:58 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-26 00:22:14--  https://www.kringsjaa.no/wp-content/uploads/2019/06/sf_produktbroschuere_new.pdf%0D
-Resolving www.kringsjaa.no (www.kringsjaa.no)... 209.250.240.174
-Connecting to www.kringsjaa.no (www.kringsjaa.no)|209.250.240.174|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:22:15 ERROR 404: Not Found.
-

@@ -1,6 +1,0 @@
---2020-02-25 23:20:49--  http://www.byblosbank.com.lb/ContentFiles/5085PDF.pdf%0D
-Resolving www.byblosbank.com.lb (www.byblosbank.com.lb)... 167.114.141.163
-Connecting to www.byblosbank.com.lb (www.byblosbank.com.lb)|167.114.141.163|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:20:49 ERROR 400: Bad Request.
-

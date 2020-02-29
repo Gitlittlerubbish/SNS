@@ -1,6 +1,0 @@
---2020-02-25 22:49:48--  http://www.ecobrick.in/resource_data/KBAS100082.pdf%0D
-Resolving www.ecobrick.in (www.ecobrick.in)... 202.65.131.190
-Connecting to www.ecobrick.in (www.ecobrick.in)|202.65.131.190|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 22:49:48 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-26 00:04:46--  https://annapurnacooperative.com.np/document/sampatti-suddhikaran.pdf%0D
-Resolving annapurnacooperative.com.np (annapurnacooperative.com.np)... 104.218.54.134
-Connecting to annapurnacooperative.com.np (annapurnacooperative.com.np)|104.218.54.134|:443... connected.
-ERROR: cannot verify annapurnacooperative.com.np's certificate, issued by ‘CN=cPanel\\, Inc. Certification Authority,O=cPanel\\, Inc.,L=Houston,ST=TX,C=US’:
-  Issued certificate has expired.
-To connect to annapurnacooperative.com.np insecurely, use `--no-check-certificate'.

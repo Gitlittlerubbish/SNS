@@ -1,9 +1,0 @@
---2020-02-25 23:31:05--  https://natbank.co.mw/ftped_documents/ratestodayNovember1620180816.pdf%0D
-Resolving natbank.co.mw (natbank.co.mw)... failed: Connection timed out.
-wget: unable to resolve host address ‘natbank.co.mw’
---2020-02-25 23:31:08--  https://natbank.co.mw/ftped_documents/ratestodayJanuary1720200751.pdf%0D
-Resolving natbank.co.mw (natbank.co.mw)... 207.45.178.29
-Connecting to natbank.co.mw (natbank.co.mw)|207.45.178.29|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 23:31:10 ERROR 404: Not Found.
-

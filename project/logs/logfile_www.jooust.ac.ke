@@ -1,6 +1,0 @@
---2020-02-25 23:08:48--  https://www.jooust.ac.ke/downloads/per_diem_policy.pdf%0D
-Resolving www.jooust.ac.ke (www.jooust.ac.ke)... 41.204.161.167
-Connecting to www.jooust.ac.ke (www.jooust.ac.ke)|41.204.161.167|:443... connected.
-ERROR: cannot verify www.jooust.ac.ke's certificate, issued by ‘CN=COMODO RSA Organization Validation Secure Server CA,O=COMODO CA Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to www.jooust.ac.ke insecurely, use `--no-check-certificate'.

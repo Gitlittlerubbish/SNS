@@ -1,6 +1,0 @@
---2020-02-25 23:32:59--  https://portal.arid.my/Publications/2259f676-734b-4740-b5a3-296e47fb1969.pdf%0D
-Resolving portal.arid.my (portal.arid.my)... 185.168.194.72
-Connecting to portal.arid.my (portal.arid.my)|185.168.194.72|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:32:59 ERROR 400: Bad Request.
-

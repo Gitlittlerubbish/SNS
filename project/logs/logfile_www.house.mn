@@ -1,6 +1,0 @@
---2020-02-25 23:52:17--  https://www.house.mn/Fiscal/Download/2091%0D
-Resolving www.house.mn (www.house.mn)... 156.98.78.180
-Connecting to www.house.mn (www.house.mn)|156.98.78.180|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:52:19 ERROR 400: Bad Request.
-

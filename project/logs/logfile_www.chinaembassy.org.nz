@@ -1,6 +1,0 @@
---2020-02-26 00:10:46--  http://www.chinaembassy.org.nz/chn/gdtp/P020110124211690318724.pdf%0D
-Resolving www.chinaembassy.org.nz (www.chinaembassy.org.nz)... 106.48.58.48, 106.48.12.11
-Connecting to www.chinaembassy.org.nz (www.chinaembassy.org.nz)|106.48.58.48|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:10:49 ERROR 400: Bad Request.
-

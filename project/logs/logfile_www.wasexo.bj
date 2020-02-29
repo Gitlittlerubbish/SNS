@@ -1,9 +1,0 @@
---2020-02-25 21:10:39--  https://www.wasexo.bj/IMG/pdf/baccalaureat-benin_siou-2015_meilleurs_laureats.pdf%0D
-Resolving www.wasexo.bj (www.wasexo.bj)... failed: Connection timed out.
-wget: unable to resolve host address ‘www.wasexo.bj’
---2020-02-25 21:19:46--  https://www.wasexo.bj/IMG/pdf/baccalaureat-benin_siou-2015_meilleurs_laureats.pdf%0D
-Resolving www.wasexo.bj (www.wasexo.bj)... 51.255.169.45
-Connecting to www.wasexo.bj (www.wasexo.bj)|51.255.169.45|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-25 21:19:47 ERROR 404: Not Found.
-

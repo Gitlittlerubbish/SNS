@@ -1,6 +1,0 @@
---2020-02-25 23:04:51--  https://airport.labtest.gov.je/SiteCollectionDocuments/JerseyAirportConditionsofUse.pdf%0D
-Resolving airport.labtest.gov.je (airport.labtest.gov.je)... 52.156.194.171
-Connecting to airport.labtest.gov.je (airport.labtest.gov.je)|52.156.194.171|:443... connected.
-HTTP request sent, awaiting response... 500 Internal Server Error
-2020-02-25 23:04:51 ERROR 500: Internal Server Error.
-

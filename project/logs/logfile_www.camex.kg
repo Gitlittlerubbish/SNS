@@ -1,6 +1,0 @@
---2020-02-25 23:17:03--  https://www.camex.kg/files/camex_agreement_en.pdf%0D
-Resolving www.camex.kg (www.camex.kg)... 144.76.217.2
-Connecting to www.camex.kg (www.camex.kg)|144.76.217.2|:443... connected.
-ERROR: no certificate subject alternative name matches
-	requested host name ‘www.camex.kg’.
-To connect to www.camex.kg insecurely, use `--no-check-certificate'.

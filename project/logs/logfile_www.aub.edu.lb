@@ -1,6 +1,0 @@
---2020-02-25 23:20:59--  https://www.aub.edu.lb/Documents/map_posters.pdf%0D
-Resolving www.aub.edu.lb (www.aub.edu.lb)... 40.127.138.74
-Connecting to www.aub.edu.lb (www.aub.edu.lb)|40.127.138.74|:443... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:20:59 ERROR 400: Bad Request.
-

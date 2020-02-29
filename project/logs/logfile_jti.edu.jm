@@ -1,6 +1,0 @@
---2020-02-25 23:01:50--  https://jti.edu.jm/sites/default/files/pdf/JTI_Training_Schedule.pdf%0D
-Resolving jti.edu.jm (jti.edu.jm)... 72.252.248.29
-Connecting to jti.edu.jm (jti.edu.jm)|72.252.248.29|:443... connected.
-ERROR: cannot verify jti.edu.jm's certificate, issued by ‘CN=Sectigo RSA Organization Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB’:
-  Unable to locally verify the issuer's authority.
-To connect to jti.edu.jm insecurely, use `--no-check-certificate'.

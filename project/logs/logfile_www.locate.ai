@@ -1,6 +1,0 @@
---2020-02-25 21:02:57--  https://www.locate.ai/tos.pdf%0D
-Resolving www.locate.ai (www.locate.ai)... 54.69.168.247
-Connecting to www.locate.ai (www.locate.ai)|54.69.168.247|:443... connected.
-ERROR: cannot verify www.locate.ai's certificate, issued by ‘CN=RapidSSL TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US’:
-  Unable to locally verify the issuer's authority.
-To connect to www.locate.ai insecurely, use `--no-check-certificate'.

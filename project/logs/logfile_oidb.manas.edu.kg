@@ -1,6 +1,0 @@
---2020-02-25 23:18:18--  http://oidb.manas.edu.kg/pdf/sinav_yeni.pdf%0D
-Resolving oidb.manas.edu.kg (oidb.manas.edu.kg)... 212.42.111.134
-Connecting to oidb.manas.edu.kg (oidb.manas.edu.kg)|212.42.111.134|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 23:18:19 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-26 00:10:52--  https://www.kiwibank.co.nz/kiwibank_rates.pdf%0D
-Resolving www.kiwibank.co.nz (www.kiwibank.co.nz)... 99.84.5.103, 99.84.5.43, 99.84.5.45, ...
-Connecting to www.kiwibank.co.nz (www.kiwibank.co.nz)|99.84.5.103|:443... connected.
-HTTP request sent, awaiting response... 404 Not Found
-2020-02-26 00:10:53 ERROR 404: Not Found.
-

@@ -1,6 +1,0 @@
---2020-02-25 22:20:19--  http://www.ndmo.gov.fj/images/List_of_Provincial_Administrators.pdf%0D
-Resolving www.ndmo.gov.fj (www.ndmo.gov.fj)... --2020-02-25 22:20:20--  http://www.ndmo.gov.fj/images/List_of_Provincial_Administrators.pdf%0D
-Resolving www.ndmo.gov.fj (www.ndmo.gov.fj)... failed: Connection timed out.
-wget: unable to resolve host address ‘www.ndmo.gov.fj’
-failed: Connection timed out.
-wget: unable to resolve host address ‘www.ndmo.gov.fj’

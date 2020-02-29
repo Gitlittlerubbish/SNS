@@ -1,6 +1,0 @@
---2020-02-26 00:03:46--  http://www.pis.gov.np/download/download_document/25%0D
-Resolving www.pis.gov.np (www.pis.gov.np)... 202.45.144.21
-Connecting to www.pis.gov.np (www.pis.gov.np)|202.45.144.21|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-26 00:03:47 ERROR 400: Bad Request.
-

@@ -1,6 +1,0 @@
---2020-02-25 20:54:09--  http://gdsc.gov.af/Content/files/Division.pdf%0D
-Resolving gdsc.gov.af (gdsc.gov.af)... 103.132.98.203
-Connecting to gdsc.gov.af (gdsc.gov.af)|103.132.98.203|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 20:54:10 ERROR 400: Bad Request.
-

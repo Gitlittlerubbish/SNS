@@ -1,6 +1,0 @@
---2020-02-25 20:54:08--  http://www.asan.gov.af/images/pdfforms/eNID_Individual_Form.pdf%0D
-Resolving www.asan.gov.af (www.asan.gov.af)... 52.45.54.116, 34.230.181.51
-Connecting to www.asan.gov.af (www.asan.gov.af)|52.45.54.116|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 20:54:08 ERROR 400: Bad Request.
-

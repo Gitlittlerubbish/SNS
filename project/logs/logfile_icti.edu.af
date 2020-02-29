@@ -1,6 +1,0 @@
---2020-02-25 20:54:12--  http://icti.edu.af/Content/files/UPDATE.pdf%0D
-Resolving icti.edu.af (icti.edu.af)... 103.132.98.203
-Connecting to icti.edu.af (icti.edu.af)|103.132.98.203|:80... connected.
-HTTP request sent, awaiting response... 400 Bad Request
-2020-02-25 20:54:12 ERROR 400: Bad Request.
-
