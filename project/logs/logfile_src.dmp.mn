@@ -1,0 +1,12 @@
+--2020-03-02 07:41:27--  http://src.dmp.mn/18.pdf
+Resolving src.dmp.mn (src.dmp.mn)... 173.243.120.250
+Connecting to src.dmp.mn (src.dmp.mn)|173.243.120.250|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87302 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58% 1.96M 0s
+    50K .......... .......... .......... .....                100%  149M=0.2s
+
+2020-03-02 07:41:28 (3.31 Mb/s) - ‘/dev/null’ saved [87302/87302]
+

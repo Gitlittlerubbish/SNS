@@ -1,0 +1,13 @@
+--2020-03-02 01:21:53--  http://www.sea.vg/vifa/M17WG-09-08.pdf
+Resolving www.sea.vg (www.sea.vg)... 84.22.163.87
+Connecting to www.sea.vg (www.sea.vg)|84.22.163.87|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146010 (143K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 42.2M 0s
+    50K .......... .......... .......... .......... .......... 70% 71.6M 0s
+   100K .......... .......... .......... .......... ..        100% 66.8M=0.02s
+
+2020-03-02 01:21:54 (56.6 Mb/s) - ‘/dev/null’ saved [146010/146010]
+

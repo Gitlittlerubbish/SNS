@@ -1,0 +1,32 @@
+--2020-03-02 07:01:35--  http://www.ktstrade.com.my/products/shell/technicaldata/a01.pdf
+Resolving www.ktstrade.com.my (www.ktstrade.com.my)... 101.99.75.132
+Connecting to www.ktstrade.com.my (www.ktstrade.com.my)|101.99.75.132|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287411 (281K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.13M 2s
+    50K .......... .......... .......... .......... .......... 35% 1.30M 1s
+   100K .......... .......... .......... .......... .......... 53% 2.29M 1s
+   150K .......... .......... .......... .......... .......... 71% 9.25M 0s
+   200K .......... .......... .......... .......... .......... 89% 2.99M 0s
+   250K .......... .......... ..........                      100% 5.72M=1.1s
+
+2020-03-02 07:01:38 (2.13 Mb/s) - ‘/dev/null’ saved [287411/287411]
+
+--2020-03-02 07:01:46--  http://www.ktstrade.com.my/products/shell/technicaldata/a01.pdf
+Resolving www.ktstrade.com.my (www.ktstrade.com.my)... 101.99.75.132
+Connecting to www.ktstrade.com.my (www.ktstrade.com.my)|101.99.75.132|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287411 (281K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.16M 2s
+    50K .......... .......... .......... .......... .......... 35% 2.31M 1s
+   100K .......... .......... .......... .......... .......... 53% 2.33M 1s
+   150K .......... .......... .......... .......... .......... 71%  127M 0s
+   200K .......... .......... .......... .......... .......... 89% 2.34M 0s
+   250K .......... .......... ..........                      100%  117M=0.9s
+
+2020-03-02 07:01:48 (2.59 Mb/s) - ‘/dev/null’ saved [287411/287411]
+

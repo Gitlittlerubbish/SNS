@@ -1,0 +1,12 @@
+--2020-03-02 03:46:21--  http://philippelopes.free.fr/DebussyClaudeClairDeLune.pdf
+Resolving philippelopes.free.fr (philippelopes.free.fr)... 212.27.63.153
+Connecting to philippelopes.free.fr (philippelopes.free.fr)|212.27.63.153|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84282 (82K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 60% 16.2M 0s
+    50K .......... .......... .......... ..                   100%  121M=0.03s
+
+2020-03-02 03:46:21 (24.6 Mb/s) - ‘/dev/null’ saved [84282/84282]
+

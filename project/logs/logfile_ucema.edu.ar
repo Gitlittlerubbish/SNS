@@ -1,0 +1,13 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:07:48--  https://ucema.edu.ar/publicaciones/download/volume1/calvo.pdf
+Resolving ucema.edu.ar (ucema.edu.ar)... 190.104.233.116
+Connecting to ucema.edu.ar (ucema.edu.ar)|190.104.233.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66409 (65K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 77%  467K 0s
+    50K .......... ....                                       100%  644M=0.9s
+
+2020-03-01 23:07:52 (606 Kb/s) - ‘/dev/null’ saved [66409/66409]
+

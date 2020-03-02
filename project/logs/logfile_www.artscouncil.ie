@@ -1,0 +1,17 @@
+--2020-03-02 05:01:15--  http://www.artscouncil.ie/uploadedFiles/Indecon_Update_Report_fin.pdf
+Resolving www.artscouncil.ie (www.artscouncil.ie)... 92.51.240.102
+Connecting to www.artscouncil.ie (www.artscouncil.ie)|92.51.240.102|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 309614 (302K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 3.39M 1s
+    50K .......... .......... .......... .......... .......... 33% 27.3M 0s
+   100K .......... .......... .......... .......... .......... 49%  156M 0s
+   150K .......... .......... .......... .......... .......... 66% 29.6M 0s
+   200K .......... .......... .......... .......... .......... 82%  168M 0s
+   250K .......... .......... .......... .......... .......... 99%  292M 0s
+   300K ..                                                    100%  386K=0.2s
+
+2020-03-02 05:01:16 (15.9 Mb/s) - ‘/dev/null’ saved [309614/309614]
+

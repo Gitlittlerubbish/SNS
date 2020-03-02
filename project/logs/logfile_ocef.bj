@@ -1,0 +1,15 @@
+--2020-03-02 00:29:33--  http://ocef.bj/images/ANNEXE-K-SGESSS.pdf
+Resolving ocef.bj (ocef.bj)... 109.204.229.101
+Connecting to ocef.bj (ocef.bj)|109.204.229.101|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ocef.bj [following]
+--2020-03-02 00:29:33--  https://ocef.bj/
+Connecting to ocef.bj (ocef.bj)|109.204.229.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......                 651K=0.5s
+
+2020-03-02 00:29:34 (651 Kb/s) - ‘/dev/null’ saved [37195]
+

@@ -1,0 +1,13 @@
+--2020-03-02 04:37:20--  http://ebszerviz.hu/arlista.pdf
+Resolving ebszerviz.hu (ebszerviz.hu)... 92.43.203.182
+Connecting to ebszerviz.hu (ebszerviz.hu)|92.43.203.182|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110423 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 4.89M 0s
+    50K .......... .......... .......... .......... .......... 92% 9.64M 0s
+   100K .......                                               100% 1.02G=0.1s
+
+2020-03-02 04:37:20 (7.00 Mb/s) - ‘/dev/null’ saved [110423/110423]
+

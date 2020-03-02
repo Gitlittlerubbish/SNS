@@ -1,0 +1,13 @@
+--2020-03-02 07:08:43--  http://ptg.penang.gov.my/dokumen/FAQ_Bayar_Cukai_Tanah_Online.pdf
+Resolving ptg.penang.gov.my (ptg.penang.gov.my)... 58.27.61.131
+Connecting to ptg.penang.gov.my (ptg.penang.gov.my)|58.27.61.131|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107165 (105K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47%  143K 3s
+    50K .......... .......... .......... .......... .......... 95%  130K 0s
+   100K ....                                                  100% 62.4K=6.6s
+
+2020-03-02 07:08:50 (130 Kb/s) - ‘/dev/null’ saved [107165/107165]
+

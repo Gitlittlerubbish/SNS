@@ -1,0 +1,18 @@
+--2020-03-02 06:57:27--  http://www.mzuni.ac.mw/pressrelease/Upgrading_CODeL_Weekend_FTHM_2018_2019.pdf
+Resolving www.mzuni.ac.mw (www.mzuni.ac.mw)... 41.87.6.27
+Connecting to www.mzuni.ac.mw (www.mzuni.ac.mw)|41.87.6.27|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mzuni.ac.mw/pressrelease/Upgrading_CODeL_Weekend_FTHM_2018_2019.pdf [following]
+--2020-03-02 06:57:29--  https://www.mzuni.ac.mw/pressrelease/Upgrading_CODeL_Weekend_FTHM_2018_2019.pdf
+Connecting to www.mzuni.ac.mw (www.mzuni.ac.mw)|41.87.6.27|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 156975 (153K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 1.10M 1s
+    50K .......... .......... .......... .......... .......... 65% 2.21M 0s
+   100K .......... .......... .......... .......... .......... 97%  192M 0s
+   150K ...                                                   100% 1.35G=0.6s
+
+2020-03-02 06:57:31 (2.24 Mb/s) - ‘/dev/null’ saved [156975/156975]
+

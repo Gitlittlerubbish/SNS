@@ -1,0 +1,50 @@
+--2020-03-02 07:33:12--  http://www.standby.fm/IHPpdf.pdf
+Resolving www.standby.fm (www.standby.fm)... 136.144.185.17
+Connecting to www.standby.fm (www.standby.fm)|136.144.185.17|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://standbyproductions.nl/IHPpdf.pdf [following]
+--2020-03-02 07:33:12--  http://standbyproductions.nl/IHPpdf.pdf
+Resolving standbyproductions.nl (standbyproductions.nl)... 77.94.248.184
+Connecting to standbyproductions.nl (standbyproductions.nl)|77.94.248.184|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://standbyproductions.nl/IHPpdf.pdf [following]
+--2020-03-02 07:33:12--  https://standbyproductions.nl/IHPpdf.pdf
+Connecting to standbyproductions.nl (standbyproductions.nl)|77.94.248.184|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 505264 (493K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 5.63M 1s
+    50K .......... .......... .......... .......... .......... 20%  136M 0s
+   100K .......... .......... .......... .......... .......... 30% 12.1M 0s
+   150K .......... .......... .......... .......... .......... 40%  217M 0s
+   200K .......... .......... .......... .......... .......... 50% 4.16M 0s
+   250K .......... .......... .......... .......... .......... 60%  875M 0s
+   300K .......... .......... .......... .......... .......... 70%  327M 0s
+   350K .......... .......... .......... .......... .......... 81% 11.1M 0s
+   400K .......... .......... .......... .......... .......... 91%  180M 0s
+   450K .......... .......... .......... .......... ...       100%  451M=0.3s
+
+2020-03-02 07:33:13 (16.1 Mb/s) - ‘/dev/null’ saved [505264/505264]
+
+--2020-03-02 07:34:47--  http://www.standby.fm/prijslijsten/tape.pdf
+Resolving www.standby.fm (www.standby.fm)... 136.144.185.17
+Connecting to www.standby.fm (www.standby.fm)|136.144.185.17|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://standbyproductions.nl/prijslijsten/tape.pdf [following]
+--2020-03-02 07:34:47--  http://standbyproductions.nl/prijslijsten/tape.pdf
+Resolving standbyproductions.nl (standbyproductions.nl)... 77.94.248.184
+Connecting to standbyproductions.nl (standbyproductions.nl)|77.94.248.184|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://standbyproductions.nl/prijslijsten/tape.pdf [following]
+--2020-03-02 07:34:47--  https://standbyproductions.nl/prijslijsten/tape.pdf
+Connecting to standbyproductions.nl (standbyproductions.nl)|77.94.248.184|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90977 (89K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56% 5.70M 0s
+    50K .......... .......... .......... ........             100%  239M=0.07s
+
+2020-03-02 07:34:47 (9.95 Mb/s) - ‘/dev/null’ saved [90977/90977]
+

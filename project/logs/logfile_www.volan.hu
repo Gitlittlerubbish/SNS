@@ -1,0 +1,12 @@
+--2020-03-02 04:38:24--  http://www.volan.hu/dijszab/jegyar.pdf
+Resolving www.volan.hu (www.volan.hu)... 79.172.201.60
+Connecting to www.volan.hu (www.volan.hu)|79.172.201.60|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100429 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50% 6.65M 0s
+    50K .......... .......... .......... .......... ........  100%  157M=0.06s
+
+2020-03-02 04:38:24 (12.5 Mb/s) - ‘/dev/null’ saved [100429/100429]
+

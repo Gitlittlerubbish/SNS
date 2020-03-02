@@ -1,0 +1,17 @@
+--2020-03-02 03:46:58--  http://suite.appyourself.fr/miscs/doc/88
+Resolving suite.appyourself.fr (suite.appyourself.fr)... 54.194.148.179
+Connecting to suite.appyourself.fr (suite.appyourself.fr)|54.194.148.179|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://d397xw3titc834.cloudfront.net/doc/2/c3/2c33dad675fa799507a67320b73fcdfe.pdf [following]
+--2020-03-02 03:46:58--  https://d397xw3titc834.cloudfront.net/doc/2/c3/2c33dad675fa799507a67320b73fcdfe.pdf
+Resolving d397xw3titc834.cloudfront.net (d397xw3titc834.cloudfront.net)... 143.204.194.145, 143.204.194.153, 143.204.194.18, ...
+Connecting to d397xw3titc834.cloudfront.net (d397xw3titc834.cloudfront.net)|143.204.194.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92537 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 54.6M 0s
+    50K .......... .......... .......... ..........           100%  168M=0.009s
+
+2020-03-02 03:46:59 (78.2 Mb/s) - ‘/dev/null’ saved [92537/92537]
+

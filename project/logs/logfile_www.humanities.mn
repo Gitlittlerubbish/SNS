@@ -1,0 +1,15 @@
+--2020-03-02 07:45:33--  http://www.humanities.mn/fileman/Uploads/TaiwanICDF_scholarship.pdf
+Resolving www.humanities.mn (www.humanities.mn)... 66.181.168.231
+Connecting to www.humanities.mn (www.humanities.mn)|66.181.168.231|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 212544 (208K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  462K 3s
+    50K .......... .......... .......... .......... .......... 48% 1.33M 1s
+   100K .......... .......... .......... .......... .......... 72%  331M 0s
+   150K .......... .......... .......... .......... .......... 96% 1.33M 0s
+   200K .......                                               100%  307M=1.5s
+
+2020-03-02 07:45:35 (1.13 Mb/s) - ‘/dev/null’ saved [212544/212544]
+

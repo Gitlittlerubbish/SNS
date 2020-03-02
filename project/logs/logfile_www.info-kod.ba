@@ -1,0 +1,17 @@
+--2020-03-02 01:01:55--  http://www.info-kod.ba/datastore/filestore/37/ZD420_Comparison_Guide_A4.pdf
+Resolving www.info-kod.ba (www.info-kod.ba)... 46.23.86.90
+Connecting to www.info-kod.ba (www.info-kod.ba)|46.23.86.90|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.info-kod.ba/datastore/filestore/37/ZD420_Comparison_Guide_A4.pdf [following]
+--2020-03-02 01:01:55--  https://www.info-kod.ba/datastore/filestore/37/ZD420_Comparison_Guide_A4.pdf
+Connecting to www.info-kod.ba (www.info-kod.ba)|46.23.86.90|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125799 (123K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 7.31M 0s
+    50K .......... .......... .......... .......... .......... 81% 14.7M 0s
+   100K .......... .......... ..                              100%  143M=0.09s
+
+2020-03-02 01:01:56 (11.8 Mb/s) - ‘/dev/null’ saved [125799/125799]
+

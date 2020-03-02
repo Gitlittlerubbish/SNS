@@ -1,0 +1,25 @@
+--2020-03-02 04:33:14--  http://www.udomain.hk/static/pdf/UDHK_Service_Agreement.pdf
+Resolving www.udomain.hk (www.udomain.hk)... 103.15.183.131
+Connecting to www.udomain.hk (www.udomain.hk)|103.15.183.131|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.udomain.hk/static/pdf/UDHK_Service_Agreement.pdf [following]
+--2020-03-02 04:33:15--  https://www.udomain.hk/static/pdf/UDHK_Service_Agreement.pdf
+Connecting to www.udomain.hk (www.udomain.hk)|103.15.183.131|:443... connected.
+HTTP request sent, awaiting response... 200 
+Length: 541231 (529K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 2.00M 2s
+    50K .......... .......... .......... .......... .......... 18% 2.03M 2s
+   100K .......... .......... .......... .......... .......... 28%  290M 1s
+   150K .......... .......... .......... .......... .......... 37%  196M 1s
+   200K .......... .......... .......... .......... .......... 47% 2.13M 1s
+   250K .......... .......... .......... .......... .......... 56%  168M 0s
+   300K .......... .......... .......... .......... .......... 66% 2.16M 0s
+   350K .......... .......... .......... .......... .......... 75%  149M 0s
+   400K .......... .......... .......... .......... .......... 85%  231M 0s
+   450K .......... .......... .......... .......... .......... 94%  183M 0s
+   500K .......... .......... ........                        100%  313M=0.8s
+
+2020-03-02 04:33:17 (5.40 Mb/s) - ‘/dev/null’ saved [541231/541231]
+

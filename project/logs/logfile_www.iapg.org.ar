@@ -1,0 +1,12 @@
+--2020-03-01 23:17:26--  http://www.iapg.org.ar/docgas/1.pdf
+Resolving www.iapg.org.ar (www.iapg.org.ar)... 201.216.208.12
+Connecting to www.iapg.org.ar (www.iapg.org.ar)|201.216.208.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96009 (94K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 53%  500K 1s
+    50K .......... .......... .......... .......... ...       100% 1.16M=1.1s
+
+2020-03-01 23:17:28 (680 Kb/s) - ‘/dev/null’ saved [96009/96009]
+

@@ -1,0 +1,12 @@
+--2020-03-02 03:42:04--  http://www.mrd.gov.fj/images/Geological_Survey/petrol_potential.pdf
+Resolving www.mrd.gov.fj (www.mrd.gov.fj)... 124.108.30.31
+Connecting to www.mrd.gov.fj (www.mrd.gov.fj)|124.108.30.31|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72360 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70%  499K 0s
+    50K .......... ..........                                 100%  730M=0.8s
+
+2020-03-02 03:42:08 (704 Kb/s) - ‘/dev/null’ saved [72360/72360]
+

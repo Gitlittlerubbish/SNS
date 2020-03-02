@@ -1,0 +1,21 @@
+--2020-03-01 22:39:24--  http://movicel.co.ao/img/agents/FICHA_RECRUTAMENTO.pdf
+Resolving movicel.co.ao (movicel.co.ao)... 41.210.223.101
+Connecting to movicel.co.ao (movicel.co.ao)|41.210.223.101|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://movicel.co.ao/img/agents/FICHA_RECRUTAMENTO.pdf [following]
+--2020-03-01 22:39:25--  https://movicel.co.ao/img/agents/FICHA_RECRUTAMENTO.pdf
+Connecting to movicel.co.ao (movicel.co.ao)|41.210.223.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311255 (304K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 1.03M 2s
+    50K .......... .......... .......... .......... .......... 32% 2.06M 1s
+   100K .......... .......... .......... .......... .......... 49% 88.5M 1s
+   150K .......... .......... .......... .......... .......... 65% 2.11M 0s
+   200K .......... .......... .......... .......... .......... 82%  105M 0s
+   250K .......... .......... .......... .......... .......... 98%  132M 0s
+   300K ...                                                   100%  649K=0.8s
+
+2020-03-01 22:39:26 (3.11 Mb/s) - ‘/dev/null’ saved [311255/311255]
+

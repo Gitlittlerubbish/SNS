@@ -1,0 +1,15 @@
+--2020-03-02 04:46:00--  http://vidyamandira.ac.in/pdfs/exam_regulations_for_UG_students.pdf
+Resolving vidyamandira.ac.in (vidyamandira.ac.in)... 103.53.40.15
+Connecting to vidyamandira.ac.in (vidyamandira.ac.in)|103.53.40.15|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 231016 (226K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.08M 1s
+    50K .......... .......... .......... .......... .......... 44% 3.21M 1s
+   100K .......... .......... .......... .......... .......... 66% 93.4M 0s
+   150K .......... .......... .......... .......... .......... 88% 3.34M 0s
+   200K .......... .......... .....                           100%  102M=0.6s
+
+2020-03-02 04:46:02 (2.90 Mb/s) - ‘/dev/null’ saved [231016/231016]
+

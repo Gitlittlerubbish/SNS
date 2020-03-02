@@ -1,0 +1,14 @@
+--2020-03-02 00:33:56--  http://www.catering.bm/menu/english-buffet.pdf
+Resolving www.catering.bm (www.catering.bm)... 50.116.16.213
+Connecting to www.catering.bm (www.catering.bm)|50.116.16.213|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185898 (182K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 1.74M 1s
+    50K .......... .......... .......... .......... .......... 55% 3.44M 0s
+   100K .......... .......... .......... .......... .......... 82%  115M 0s
+   150K .......... .......... .......... .                    100% 1.52M=0.5s
+
+2020-03-02 00:33:57 (2.82 Mb/s) - ‘/dev/null’ saved [185898/185898]
+

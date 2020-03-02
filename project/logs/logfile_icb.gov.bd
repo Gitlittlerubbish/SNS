@@ -1,0 +1,12 @@
+--2020-03-02 00:11:02--  http://icb.gov.bd/pdf/Dudok_Hotline_26092018.pdf
+Resolving icb.gov.bd (icb.gov.bd)... 192.64.32.60
+Connecting to icb.gov.bd (icb.gov.bd)|192.64.32.60|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98540 (96K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 2.21M 0s
+    50K .......... .......... .......... .......... ......    100% 4.06M=0.3s
+
+2020-03-02 00:11:04 (2.83 Mb/s) - ‘/dev/null’ saved [98540/98540]
+

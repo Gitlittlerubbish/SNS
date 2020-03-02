@@ -1,0 +1,40 @@
+--2020-03-01 23:37:42--  http://www.safecosmeticsaustralia.com.au/s/FA_NaturallyOccuringInfoGraph.pdf
+Resolving www.safecosmeticsaustralia.com.au (www.safecosmeticsaustralia.com.au)... 198.185.159.145, 198.49.23.145, 198.185.159.144, ...
+Connecting to www.safecosmeticsaustralia.com.au (www.safecosmeticsaustralia.com.au)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.safecosmeticsaustralia.com.au/s/FA_NaturallyOccuringInfoGraph.pdf [following]
+--2020-03-01 23:37:42--  https://www.safecosmeticsaustralia.com.au/s/FA_NaturallyOccuringInfoGraph.pdf
+Connecting to www.safecosmeticsaustralia.com.au (www.safecosmeticsaustralia.com.au)|198.185.159.145|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/5d83da040fd5c802878a93b3/t/5d911799ca9fc92761b1e1b7/1569789878915/FA_NaturallyOccuringInfoGraph.pdf [following]
+--2020-03-01 23:37:43--  https://static1.squarespace.com/static/5d83da040fd5c802878a93b3/t/5d911799ca9fc92761b1e1b7/1569789878915/FA_NaturallyOccuringInfoGraph.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1074226 (1.0M) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  4% 31.0M 0s
+    50K .......... .......... .......... .......... ..........  9% 56.0M 0s
+   100K .......... .......... .......... .......... .......... 14% 84.7M 0s
+   150K .......... .......... .......... .......... .......... 19%  146M 0s
+   200K .......... .......... .......... .......... .......... 23%  101M 0s
+   250K .......... .......... .......... .......... .......... 28% 82.9M 0s
+   300K .......... .......... .......... .......... .......... 33% 98.2M 0s
+   350K .......... .......... .......... .......... .......... 38%  141M 0s
+   400K .......... .......... .......... .......... .......... 42%  120M 0s
+   450K .......... .......... .......... .......... .......... 47%  235M 0s
+   500K .......... .......... .......... .......... .......... 52% 85.1M 0s
+   550K .......... .......... .......... .......... .......... 57%  143M 0s
+   600K .......... .......... .......... .......... .......... 61%  123M 0s
+   650K .......... .......... .......... .......... .......... 66%  104M 0s
+   700K .......... .......... .......... .......... .......... 71%  142M 0s
+   750K .......... .......... .......... .......... .......... 76% 93.7M 0s
+   800K .......... .......... .......... .......... .......... 81%  157M 0s
+   850K .......... .......... .......... .......... .......... 85%  154M 0s
+   900K .......... .......... .......... .......... .......... 90%  124M 0s
+   950K .......... .......... .......... .......... .......... 95% 81.9M 0s
+  1000K .......... .......... .......... .......... ......... 100%  247M=0.09s
+
+2020-03-01 23:37:43 (99.0 Mb/s) - ‘/dev/null’ saved [1074226/1074226]
+

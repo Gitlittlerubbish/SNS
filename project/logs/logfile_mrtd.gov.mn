@@ -1,0 +1,25 @@
+--2020-03-02 07:45:48--  http://mrtd.gov.mn/upload/files/all_staff_web.pdf
+Resolving mrtd.gov.mn (mrtd.gov.mn)... 103.87.69.132
+Connecting to mrtd.gov.mn (mrtd.gov.mn)|103.87.69.132|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mrtd.gov.mn/upload/files/all_staff_web.pdf [following]
+--2020-03-02 07:45:48--  https://mrtd.gov.mn/upload/files/all_staff_web.pdf
+Connecting to mrtd.gov.mn (mrtd.gov.mn)|103.87.69.132|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 539043 (526K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9%  767K 5s
+    50K .......... .......... .......... .......... .......... 18% 1.53M 3s
+   100K .......... .......... .......... .......... .......... 28%  151M 2s
+   150K .......... .......... .......... .......... .......... 37% 1.27M 2s
+   200K .......... .......... .......... .......... .......... 47%  295M 1s
+   250K .......... .......... .......... .......... .......... 56%  229M 1s
+   300K .......... .......... .......... .......... .......... 66% 1.54M 1s
+   350K .......... .......... .......... .......... .......... 75%  162M 0s
+   400K .......... .......... .......... .......... .......... 85%  435M 0s
+   450K .......... .......... .......... .......... .......... 94%  133M 0s
+   500K .......... .......... ......                          100% 1.34G=1.4s
+
+2020-03-02 07:45:51 (3.08 Mb/s) - ‘/dev/null’ saved [539043/539043]
+

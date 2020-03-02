@@ -1,0 +1,11 @@
+--2020-03-02 03:45:49--  http://www.openmatikka.fi/potenssinarvoitus/potenssinlaskusaannot.pdf
+Resolving www.openmatikka.fi (www.openmatikka.fi)... 85.131.63.16
+Connecting to www.openmatikka.fi (www.openmatikka.fi)|85.131.63.16|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41364 (40K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..........           100% 5.72M=0.06s
+
+2020-03-02 03:45:49 (5.72 Mb/s) - ‘/dev/null’ saved [41364/41364]
+

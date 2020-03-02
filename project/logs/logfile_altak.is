@@ -1,0 +1,15 @@
+--2020-03-02 04:40:34--  http://altak.is/Attachment/GenericFile%3FattachmentId%3D35
+Resolving altak.is (altak.is)... 94.142.154.87
+Connecting to altak.is (altak.is)|94.142.154.87|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errorpage.htm?aspxerrorpath=/Attachment/GenericFile?attachmentId=35 [following]
+--2020-03-02 04:40:35--  http://altak.is/errorpage.htm?aspxerrorpath=/Attachment/GenericFile?attachmentId=35
+Reusing existing connection to altak.is:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1215 (1.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 1.22G=0s
+
+2020-03-02 04:40:35 (1.22 Gb/s) - ‘/dev/null’ saved [1215/1215]
+

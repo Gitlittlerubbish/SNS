@@ -1,0 +1,12 @@
+--2020-03-02 06:28:35--  http://www.caa.lu/uploads/documents/files/Circ99_6.pdf
+Resolving www.caa.lu (www.caa.lu)... 37.59.18.181
+Connecting to www.caa.lu (www.caa.lu)|37.59.18.181|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80536 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 8.92M 0s
+    50K .......... .......... ........                        100% 96.3M=0.05s
+
+2020-03-02 06:28:35 (13.3 Mb/s) - ‘/dev/null’ saved [80536/80536]
+

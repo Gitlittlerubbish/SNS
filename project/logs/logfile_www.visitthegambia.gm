@@ -1,0 +1,14 @@
+--2020-03-02 03:54:19--  http://www.visitthegambia.gm/download/Medication.pdf
+Resolving www.visitthegambia.gm (www.visitthegambia.gm)... 196.46.232.34
+Connecting to www.visitthegambia.gm (www.visitthegambia.gm)|196.46.232.34|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158115 (154K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 2.83M 0s
+    50K .......... .......... .......... .......... .......... 64% 5.64M 0s
+   100K .......... .......... .......... .......... .......... 97% 2.97M 0s
+   150K ....                                                  100% 55.6M=0.4s
+
+2020-03-02 03:54:20 (3.55 Mb/s) - ‘/dev/null’ saved [158115/158115]
+

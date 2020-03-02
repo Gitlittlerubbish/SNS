@@ -1,0 +1,13 @@
+--2020-03-02 04:37:41--  http://www.gazweb.hu/doc_munkavedelem/meretatvalto.pdf
+Resolving www.gazweb.hu (www.gazweb.hu)... 78.24.185.63
+Connecting to www.gazweb.hu (www.gazweb.hu)|78.24.185.63|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148272 (145K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 2.51M 0s
+    50K .......... .......... .......... .......... .......... 69% 5.24M 0s
+   100K .......... .......... .......... .......... ....      100% 9.13M=0.3s
+
+2020-03-02 04:37:41 (4.22 Mb/s) - ‘/dev/null’ saved [148272/148272]
+

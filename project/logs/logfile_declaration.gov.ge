@@ -1,0 +1,18 @@
+--2020-03-02 03:58:30--  http://declaration.gov.ge/Home/DownloadPdf/115509
+Resolving declaration.gov.ge (declaration.gov.ge)... 5.159.20.8
+Connecting to declaration.gov.ge (declaration.gov.ge)|5.159.20.8|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://declaration.gov.ge [following]
+--2020-03-02 03:58:31--  https://declaration.gov.ge/
+Connecting to declaration.gov.ge (declaration.gov.ge)|5.159.20.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199515 (195K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 2.51M 0s
+    50K .......... .......... .......... .......... .......... 51% 81.6M 0s
+   100K .......... .......... .......... .......... .......... 76% 5.06M 0s
+   150K .......... .......... .......... .......... ....      100% 85.9M=0.3s
+
+2020-03-02 03:58:32 (6.30 Mb/s) - ‘/dev/null’ saved [199515/199515]
+

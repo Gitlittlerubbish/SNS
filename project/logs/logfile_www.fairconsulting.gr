@@ -1,0 +1,15 @@
+--2020-03-02 04:05:51--  http://www.fairconsulting.gr/
+Resolving www.fairconsulting.gr (www.fairconsulting.gr)... 95.216.245.166
+Connecting to www.fairconsulting.gr (www.fairconsulting.gr)|95.216.245.166|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.fairconsulting.gr/ [following]
+--2020-03-02 04:05:51--  https://www.fairconsulting.gr/
+Connecting to www.fairconsulting.gr (www.fairconsulting.gr)|95.216.245.166|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ........              8.53M=0.04s
+
+2020-03-02 04:05:51 (8.53 Mb/s) - ‘/dev/null’ saved [39050]
+

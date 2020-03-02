@@ -1,0 +1,13 @@
+--2020-03-02 05:10:03--  http://www.jddb.gov.jm/files/Publications/farm_sec_survey_report_04.pdf
+Resolving www.jddb.gov.jm (www.jddb.gov.jm)... 66.96.144.190
+Connecting to www.jddb.gov.jm (www.jddb.gov.jm)|66.96.144.190|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 114966 (112K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44% 5.24M 0s
+    50K .......... .......... .......... .......... .......... 89% 4.69M 0s
+   100K .......... ..                                         100%  859M=0.2s
+
+2020-03-02 05:10:04 (5.55 Mb/s) - ‘/dev/null’ saved [114966/114966]
+

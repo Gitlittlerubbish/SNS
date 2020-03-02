@@ -1,0 +1,14 @@
+--2020-03-02 03:03:12--  http://www.dww.cz/docs/outcome_document.pdf
+Resolving www.dww.cz (www.dww.cz)... 81.2.194.105
+Connecting to www.dww.cz (www.dww.cz)|81.2.194.105|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203985 (199K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 2.82M 0s
+    50K .......... .......... .......... .......... .......... 50% 10.9M 0s
+   100K .......... .......... .......... .......... .......... 75% 48.8M 0s
+   150K .......... .......... .......... .......... ......... 100% 13.5M=0.2s
+
+2020-03-02 03:03:12 (7.39 Mb/s) - ‘/dev/null’ saved [203985/203985]
+

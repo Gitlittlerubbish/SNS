@@ -1,0 +1,39 @@
+--2020-03-02 03:38:06--  http://programmes.fnu.ac.fj/Files/201612210450Bachelor_of_Science_in_Agriculture.pdf
+Resolving programmes.fnu.ac.fj (programmes.fnu.ac.fj)... 103.99.43.9
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://programmes.fnu.ac.fj/Files/201612210450Bachelor_of_Science_in_Agriculture.pdf [following]
+--2020-03-02 03:38:07--  https://programmes.fnu.ac.fj/Files/201612210450Bachelor_of_Science_in_Agriculture.pdf
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 264113 (258K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19%  501K 3s
+    50K .......... .......... .......... .......... .......... 38% 1.33M 2s
+   100K .......... .......... .......... .......... .......... 58% 97.0M 1s
+   150K .......... .......... .......... .......... .......... 77%  197M 0s
+   200K .......... .......... .......... .......... .......... 96% 1.01M 0s
+   250K .......                                               100% 1.30M=1.5s
+
+2020-03-02 03:38:10 (1.37 Mb/s) - ‘/dev/null’ saved [264113/264113]
+
+--2020-03-02 03:38:10--  http://programmes.fnu.ac.fj/Files/2016122104737Bachelor_of_Science_in_Fisheries.pdf
+Resolving programmes.fnu.ac.fj (programmes.fnu.ac.fj)... 103.99.43.9
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://programmes.fnu.ac.fj/Files/2016122104737Bachelor_of_Science_in_Fisheries.pdf [following]
+--2020-03-02 03:38:11--  https://programmes.fnu.ac.fj/Files/2016122104737Bachelor_of_Science_in_Fisheries.pdf
+Connecting to programmes.fnu.ac.fj (programmes.fnu.ac.fj)|103.99.43.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207347 (202K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  500K 2s
+    50K .......... .......... .......... .......... .......... 49%  976K 1s
+   100K .......... .......... .......... .......... .......... 74%  249M 0s
+   150K .......... .......... .......... .......... .......... 98%  697M 0s
+   200K ..                                                    100%  370M=1.2s
+
+2020-03-02 03:38:14 (1.34 Mb/s) - ‘/dev/null’ saved [207347/207347]
+

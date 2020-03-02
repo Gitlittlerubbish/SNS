@@ -1,0 +1,19 @@
+--2020-03-01 23:39:39--  http://www.practicalcontrol.com.au/pdf_files/electrochemical/GMH3610_GMH3630_brochure.pdf
+Resolving www.practicalcontrol.com.au (www.practicalcontrol.com.au)... 118.88.26.36
+Connecting to www.practicalcontrol.com.au (www.practicalcontrol.com.au)|118.88.26.36|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.practicalcontrol.com.au/pdf_files/electrochemical/GMH3610_GMH3630_brochure.pdf [following]
+--2020-03-01 23:39:41--  https://www.practicalcontrol.com.au/pdf_files/electrochemical/GMH3610_GMH3630_brochure.pdf
+Connecting to www.practicalcontrol.com.au (www.practicalcontrol.com.au)|118.88.26.36|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245701 (240K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20%  568K 3s
+    50K .......... .......... .......... .......... .......... 41% 1.01M 2s
+   100K .......... .......... .......... .......... .......... 62%  563M 1s
+   150K .......... .......... .......... .......... .......... 83% 1.00M 0s
+   200K .......... .......... .......... .........            100%  290M=1.5s
+
+2020-03-01 23:39:44 (1.28 Mb/s) - ‘/dev/null’ saved [245701/245701]
+

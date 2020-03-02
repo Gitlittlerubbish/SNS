@@ -1,0 +1,21 @@
+--2020-03-02 05:03:23--  http://aca.im/driver_docs/Extron/PDU_IPL_T_PCS4.pdf
+Resolving aca.im (aca.im)... 13.224.227.83, 13.224.227.25, 13.224.227.97, ...
+Connecting to aca.im (aca.im)|13.224.227.83|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aca.im/driver_docs/Extron/PDU_IPL_T_PCS4.pdf [following]
+--2020-03-02 05:03:23--  https://aca.im/driver_docs/Extron/PDU_IPL_T_PCS4.pdf
+Connecting to aca.im (aca.im)|13.224.227.83|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 336712 (329K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  798K 3s
+    50K .......... .......... .......... .......... .......... 30% 1.34M 2s
+   100K .......... .......... .......... .......... .......... 45%  797M 1s
+   150K .......... .......... .......... .......... .......... 60% 40.4M 1s
+   200K .......... .......... .......... .......... .......... 76% 1.38M 0s
+   250K .......... .......... .......... .......... .......... 91% 81.2M 0s
+   300K .......... .......... ........                        100%  175M=1.1s
+
+2020-03-02 05:03:25 (2.37 Mb/s) - ‘/dev/null’ saved [336712/336712]
+

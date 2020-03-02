@@ -1,0 +1,28 @@
+--2020-03-02 05:57:54--  http://www.engcenter.co.kr/bbs/data/ENG_PDS2_1432362834.pdf
+Resolving www.engcenter.co.kr (www.engcenter.co.kr)... 15.164.188.143, 13.124.214.110
+Connecting to www.engcenter.co.kr (www.engcenter.co.kr)|15.164.188.143|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 171784 (168K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29%  663K 1s
+    50K .......... .......... .......... .......... .......... 59% 1.61M 1s
+   100K .......... .......... .......... .......... .......... 89%  157M 0s
+   150K .......... .......                                    100% 36.2M=0.9s
+
+2020-03-02 05:57:56 (1.56 Mb/s) - ‘/dev/null’ saved [171784/171784]
+
+--2020-03-02 05:58:14--  http://www.engcenter.co.kr/bbs/data/ENG_PDS2_1432362834.pdf
+Resolving www.engcenter.co.kr (www.engcenter.co.kr)... 13.124.214.110, 15.164.188.143
+Connecting to www.engcenter.co.kr (www.engcenter.co.kr)|13.124.214.110|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 171784 (168K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29%  702K 1s
+    50K .......... .......... .......... .......... .......... 59% 1.34M 1s
+   100K .......... .......... .......... .......... .......... 89%  357M 0s
+   150K .......... .......                                    100% 1.40G=0.9s
+
+2020-03-02 05:58:16 (1.54 Mb/s) - ‘/dev/null’ saved [171784/171784]
+

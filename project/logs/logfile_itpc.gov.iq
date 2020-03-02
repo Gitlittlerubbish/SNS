@@ -1,0 +1,19 @@
+--2020-03-02 05:01:02--  http://itpc.gov.iq/upload/upfile/ar/644.pdf
+Resolving itpc.gov.iq (itpc.gov.iq)... 66.111.53.230
+Connecting to itpc.gov.iq (itpc.gov.iq)|66.111.53.230|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://itpc.gov.iq/upload/upfile/ar/644.pdf [following]
+--2020-03-02 05:01:03--  https://itpc.gov.iq/upload/upfile/ar/644.pdf
+Connecting to itpc.gov.iq (itpc.gov.iq)|66.111.53.230|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 248437 (243K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.23M 1s
+    50K .......... .......... .......... .......... .......... 41% 2.10M 1s
+   100K .......... .......... .......... .......... .......... 61% 40.0M 0s
+   150K .......... .......... .......... .......... .......... 82% 5.12M 0s
+   200K .......... .......... .......... .......... ..        100% 3.18M=0.7s
+
+2020-03-02 05:01:04 (2.73 Mb/s) - ‘/dev/null’ saved [248437/248437]
+

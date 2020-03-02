@@ -1,0 +1,15 @@
+--2020-03-02 04:17:17--  http://www.bankofguyana.org.gy/Documents/Legislation/cap8502.pdf
+Resolving www.bankofguyana.org.gy (www.bankofguyana.org.gy)... 162.144.86.140
+Connecting to www.bankofguyana.org.gy (www.bankofguyana.org.gy)|162.144.86.140|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226802 (221K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.23M 1s
+    50K .......... .......... .......... .......... .......... 45% 2.42M 1s
+   100K .......... .......... .......... .......... .......... 67% 2.45M 0s
+   150K .......... .......... .......... .......... .......... 90% 2.43M 0s
+   200K .......... .......... .                               100%  198M=0.8s
+
+2020-03-02 04:17:19 (2.17 Mb/s) - ‘/dev/null’ saved [226802/226802]
+

@@ -1,0 +1,14 @@
+--2020-03-02 02:00:25--  http://www.aih.com.ky/wp-content/articles/051_CR155_Sp_Advantage.pdf
+Resolving www.aih.com.ky (www.aih.com.ky)... 70.34.33.230
+Connecting to www.aih.com.ky (www.aih.com.ky)|70.34.33.230|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 175189 (171K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 2.34M 0s
+    50K .......... .......... .......... .......... .......... 58% 4.60M 0s
+   100K .......... .......... .......... .......... .......... 87% 4.75M 0s
+   150K .......... .......... .                               100%  207M=0.4s
+
+2020-03-02 02:00:25 (3.99 Mb/s) - ‘/dev/null’ saved [175189/175189]
+

@@ -1,0 +1,15 @@
+--2020-03-02 08:33:03--  http://www.footes.co.nz/files/docs/footprintnewsletteraug2010.pdf
+Resolving www.footes.co.nz (www.footes.co.nz)... 52.237.209.250
+Connecting to www.footes.co.nz (www.footes.co.nz)|52.237.209.250|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 238136 (233K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21%  363K 4s
+    50K .......... .......... .......... .......... .......... 43%  805K 2s
+   100K .......... .......... .......... .......... .......... 64% 27.1M 1s
+   150K .......... .......... .......... .......... .......... 86%  819K 0s
+   200K .......... .......... .......... ..                   100%  521K=2.7s
+
+2020-03-02 08:33:07 (715 Kb/s) - ‘/dev/null’ saved [238136/238136]
+

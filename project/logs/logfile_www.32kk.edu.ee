@@ -1,0 +1,17 @@
+--2020-03-02 03:32:20--  http://www.32kk.edu.ee/muusikaarvutstugym.pdf
+Resolving www.32kk.edu.ee (www.32kk.edu.ee)... 195.250.188.52
+Connecting to www.32kk.edu.ee (www.32kk.edu.ee)|195.250.188.52|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.32kk.edu.ee/muusikaarvutstugym.pdf [following]
+--2020-03-02 03:32:20--  https://www.32kk.edu.ee/muusikaarvutstugym.pdf
+Connecting to www.32kk.edu.ee (www.32kk.edu.ee)|195.250.188.52|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133693 (131K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 4.09M 0s
+    50K .......... .......... .......... .......... .......... 76% 7.81M 0s
+   100K .......... .......... ..........                      100% 4.88M=0.2s
+
+2020-03-02 03:32:21 (5.25 Mb/s) - ‘/dev/null’ saved [133693/133693]
+

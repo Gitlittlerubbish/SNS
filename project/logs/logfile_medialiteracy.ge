@@ -1,0 +1,12 @@
+--2020-03-02 03:59:57--  http://medialiteracy.ge/uploads/resources/3056a0a4030ad99.pdf
+Resolving medialiteracy.ge (medialiteracy.ge)... 217.147.239.172
+Connecting to medialiteracy.ge (medialiteracy.ge)|217.147.239.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57321 (56K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 89% 2.78M 0s
+    50K .....                                                 100% 69.6M=0.1s
+
+2020-03-02 03:59:58 (3.10 Mb/s) - ‘/dev/null’ saved [57321/57321]
+

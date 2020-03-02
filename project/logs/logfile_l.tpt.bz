@@ -1,0 +1,23 @@
+--2020-03-02 00:22:21--  http://l.tpt.bz/ForcedLabor_13th
+Resolving l.tpt.bz (l.tpt.bz)... 67.199.248.12, 67.199.248.13
+Connecting to l.tpt.bz (l.tpt.bz)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1031&context=facultyworkingpapers [following]
+--2020-03-02 00:22:21--  http://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1031&context=facultyworkingpapers
+Resolving scholarlycommons.law.northwestern.edu (scholarlycommons.law.northwestern.edu)... 50.18.241.247, 13.57.92.51
+Connecting to scholarlycommons.law.northwestern.edu (scholarlycommons.law.northwestern.edu)|50.18.241.247|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1031&context=facultyworkingpapers [following]
+--2020-03-02 00:22:22--  https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1031&context=facultyworkingpapers
+Connecting to scholarlycommons.law.northwestern.edu (scholarlycommons.law.northwestern.edu)|50.18.241.247|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173900 (170K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29%  788K 1s
+    50K .......... .......... .......... .......... .......... 58% 96.6M 0s
+   100K .......... .......... .......... .......... .......... 88% 2.70M 0s
+   150K .......... .........                                  100% 1.89M=0.8s
+
+2020-03-02 00:22:24 (1.83 Mb/s) - ‘/dev/null’ saved [173900/173900]
+

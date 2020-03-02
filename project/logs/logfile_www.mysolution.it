@@ -1,0 +1,26 @@
+--2020-03-02 05:08:47--  http://www.mysolution.it/link/ec9226b2ee18476e9a54585f6f5939f6.aspx
+Resolving www.mysolution.it (www.mysolution.it)... 91.241.86.12
+Connecting to www.mysolution.it (www.mysolution.it)|91.241.86.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /globalassets/_nuovomysolution/pdf/direttiva-lotta-frodi-iva.pdf [following]
+--2020-03-02 05:08:47--  http://www.mysolution.it/globalassets/_nuovomysolution/pdf/direttiva-lotta-frodi-iva.pdf
+Reusing existing connection to www.mysolution.it:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mysolution.it/globalassets/_nuovomysolution/pdf/direttiva-lotta-frodi-iva.pdf [following]
+--2020-03-02 05:08:48--  https://www.mysolution.it/globalassets/_nuovomysolution/pdf/direttiva-lotta-frodi-iva.pdf
+Connecting to www.mysolution.it (www.mysolution.it)|91.241.86.12|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 392858 (384K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 5.24M 1s
+    50K .......... .......... .......... .......... .......... 26% 9.03M 0s
+   100K .......... .......... .......... .......... .......... 39% 7.13M 0s
+   150K .......... .......... .......... .......... .......... 52% 8.71M 0s
+   200K .......... .......... .......... .......... .......... 65% 10.6M 0s
+   250K .......... .......... .......... .......... .......... 78% 9.65M 0s
+   300K .......... .......... .......... .......... .......... 91% 9.13M 0s
+   350K .......... .......... .......... ...                  100% 10.9M=0.4s
+
+2020-03-02 05:08:48 (8.29 Mb/s) - ‘/dev/null’ saved [392858/392858]
+

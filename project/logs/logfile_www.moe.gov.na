@@ -1,0 +1,16 @@
+--2020-03-02 08:02:21--  http://www.moe.gov.na/files/MinisterremarksonNANTUvotes5Sept2016.pdf
+Resolving www.moe.gov.na (www.moe.gov.na)... 194.5.159.213
+Connecting to www.moe.gov.na (www.moe.gov.na)|194.5.159.213|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 275288 (269K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 16.1M 0s
+    50K .......... .......... .......... .......... .......... 37% 39.4M 0s
+   100K .......... .......... .......... .......... .......... 55% 76.2M 0s
+   150K .......... .......... .......... .......... .......... 74% 70.6M 0s
+   200K .......... .......... .......... .......... .......... 92% 39.0M 0s
+   250K .......... ........                                   100%  185M=0.06s
+
+2020-03-02 08:02:21 (37.8 Mb/s) - ‘/dev/null’ saved [275288/275288]
+

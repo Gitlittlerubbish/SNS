@@ -1,0 +1,18 @@
+--2020-03-02 05:11:46--  http://www.jamaicatax.gov.jm/documents/10194/0/GCT_4A_efillable.pdf/379803aa-c2e3-4468-babb-3e5f056b64f1
+Resolving www.jamaicatax.gov.jm (www.jamaicatax.gov.jm)... 196.3.191.20
+Connecting to www.jamaicatax.gov.jm (www.jamaicatax.gov.jm)|196.3.191.20|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.jamaicatax.gov.jm/documents/10194/0/GCT_4A_efillable.pdf/379803aa-c2e3-4468-babb-3e5f056b64f1 [following]
+--2020-03-02 05:11:47--  https://www.jamaicatax.gov.jm/documents/10194/0/GCT_4A_efillable.pdf/379803aa-c2e3-4468-babb-3e5f056b64f1
+Connecting to www.jamaicatax.gov.jm (www.jamaicatax.gov.jm)|196.3.191.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185308 (181K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 1.24M 1s
+    50K .......... .......... .......... .......... .......... 55% 2.23M 0s
+   100K .......... .......... .......... .......... .......... 82% 2.80M 0s
+   150K .......... .......... ..........                      100% 10.3M=0.7s
+
+2020-03-02 05:11:48 (2.16 Mb/s) - ‘/dev/null’ saved [185308/185308]
+

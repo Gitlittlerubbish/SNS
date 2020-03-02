@@ -1,0 +1,12 @@
+--2020-03-02 03:37:55--  http://www.sjondepilin.fo/fileadmin/pdf/Synshandicap_pa_Faeroerne.pdf
+Resolving www.sjondepilin.fo (www.sjondepilin.fo)... 64.111.108.21
+Connecting to www.sjondepilin.fo (www.sjondepilin.fo)|64.111.108.21|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78211 (76K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65% 2.60M 0s
+    50K .......... .......... ......                          100%  102M=0.2s
+
+2020-03-02 03:37:55 (3.92 Mb/s) - ‘/dev/null’ saved [78211/78211]
+

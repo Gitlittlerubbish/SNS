@@ -1,0 +1,16 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:47:50--  https://kapitalbank.az/useruploads/terms/Hearts_Bonus_12_11.pdf
+Resolving kapitalbank.az (kapitalbank.az)... 104.20.204.68, 104.20.205.68
+Connecting to kapitalbank.az (kapitalbank.az)|104.20.204.68|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  171M
+    50K .......... .......... .......... .......... ..........  482M
+   100K .......... .......... .......... .......... ..........  606M
+   150K .......... .......... .......... .......... ..........  292M
+   200K .......... .......... ......                            132M=0.007s
+
+2020-03-01 23:47:50 (266 Mb/s) - ‘/dev/null’ saved [232084]
+

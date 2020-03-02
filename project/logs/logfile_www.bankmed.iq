@@ -1,0 +1,12 @@
+--2020-03-02 04:59:32--  http://www.bankmed.iq/resources/files/Circular106.pdf
+Resolving www.bankmed.iq (www.bankmed.iq)... 13.81.172.122
+Connecting to www.bankmed.iq (www.bankmed.iq)|13.81.172.122|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77487 (76K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 13.6M 0s
+    50K .......... .......... .....                           100%  169M=0.03s
+
+2020-03-02 04:59:32 (19.8 Mb/s) - ‘/dev/null’ saved [77487/77487]
+

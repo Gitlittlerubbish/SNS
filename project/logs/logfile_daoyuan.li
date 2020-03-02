@@ -1,0 +1,40 @@
+--2020-03-02 06:25:49--  http://daoyuan.li/publications/li2016time.pdf
+Resolving daoyuan.li (daoyuan.li)... 104.27.181.25, 104.27.180.25
+Connecting to daoyuan.li (daoyuan.li)|104.27.181.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://daoyuan.li/publications/li2016time.pdf [following]
+--2020-03-02 06:25:49--  https://daoyuan.li/publications/li2016time.pdf
+Connecting to daoyuan.li (daoyuan.li)|104.27.181.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302081 (295K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 87.4M 0s
+    50K .......... .......... .......... .......... .......... 33% 52.0M 0s
+   100K .......... .......... .......... .......... .......... 50%  183M 0s
+   150K .......... .......... .......... .......... .......... 67%  304M 0s
+   200K .......... .......... .......... .......... .......... 84% 75.5M 0s
+   250K .......... .......... .......... .......... .....     100%  305M=0.02s
+
+2020-03-02 06:25:49 (106 Mb/s) - ‘/dev/null’ saved [302081/302081]
+
+--2020-03-02 06:25:50--  http://daoyuan.li/publications/li2016time.pdf
+Resolving daoyuan.li (daoyuan.li)... 104.27.181.25, 104.27.180.25
+Connecting to daoyuan.li (daoyuan.li)|104.27.181.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://daoyuan.li/publications/li2016time.pdf [following]
+--2020-03-02 06:25:50--  https://daoyuan.li/publications/li2016time.pdf
+Connecting to daoyuan.li (daoyuan.li)|104.27.181.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302081 (295K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 78.6M 0s
+    50K .......... .......... .......... .......... .......... 33%  131M 0s
+   100K .......... .......... .......... .......... .......... 50%  131M 0s
+   150K .......... .......... .......... .......... .......... 67%  177M 0s
+   200K .......... .......... .......... .......... .......... 84%  250M 0s
+   250K .......... .......... .......... .......... .....     100%  186M=0.02s
+
+2020-03-02 06:25:50 (139 Mb/s) - ‘/dev/null’ saved [302081/302081]
+

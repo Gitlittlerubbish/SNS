@@ -1,0 +1,16 @@
+--2020-03-02 04:03:38--  http://www.ucc.edu.gh/file/846/download%3Ftoken%3Dgw_aBgMP
+Resolving www.ucc.edu.gh (www.ucc.edu.gh)... 156.38.97.11
+Connecting to www.ucc.edu.gh (www.ucc.edu.gh)|156.38.97.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ucc.edu.gh/file/846/download%3Ftoken%3Dgw_aBgMP [following]
+--2020-03-02 04:03:39--  https://www.ucc.edu.gh/file/846/download%3Ftoken%3Dgw_aBgMP
+Connecting to www.ucc.edu.gh (www.ucc.edu.gh)|156.38.97.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 3.53M
+    50K .......... .......                                      509M=0.1s
+
+2020-03-02 04:03:40 (4.76 Mb/s) - ‘/dev/null’ saved [69327]
+

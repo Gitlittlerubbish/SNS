@@ -1,0 +1,17 @@
+--2020-03-02 04:13:31--  http://www.ews.com.gt/user_files/uploads/pall_CLARIS.pdf
+Resolving www.ews.com.gt (www.ews.com.gt)... 205.134.239.14
+Connecting to www.ews.com.gt (www.ews.com.gt)|205.134.239.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ews.com.gt/user_files/uploads/pall_CLARIS.pdf [following]
+--2020-03-02 04:13:31--  https://www.ews.com.gt/user_files/uploads/pall_CLARIS.pdf
+Connecting to www.ews.com.gt (www.ews.com.gt)|205.134.239.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116164 (113K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44%  981K 1s
+    50K .......... .......... .......... .......... .......... 88% 2.93M 0s
+   100K .......... ...                                        100%  770M=0.6s
+
+2020-03-02 04:13:32 (1.67 Mb/s) - ‘/dev/null’ saved [116164/116164]
+

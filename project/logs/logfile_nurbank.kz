@@ -1,0 +1,19 @@
+--2020-03-02 05:28:00--  http://nurbank.kz/up_files/2019/kodi_valutnih_operacii.pdf
+Resolving nurbank.kz (nurbank.kz)... 195.210.46.36
+Connecting to nurbank.kz (nurbank.kz)|195.210.46.36|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://nurbank.kz/up_files/2019/kodi_valutnih_operacii.pdf [following]
+--2020-03-02 05:28:01--  https://nurbank.kz/up_files/2019/kodi_valutnih_operacii.pdf
+Connecting to nurbank.kz (nurbank.kz)|195.210.46.36|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232342 (227K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 3.50M 0s
+    50K .......... .......... .......... .......... .......... 44% 3.65M 0s
+   100K .......... .......... .......... .......... .......... 66% 83.9M 0s
+   150K .......... .......... .......... .......... .......... 88%  256M 0s
+   200K .......... .......... ......                          100% 2.04M=0.3s
+
+2020-03-02 05:28:02 (5.40 Mb/s) - ‘/dev/null’ saved [232342/232342]
+

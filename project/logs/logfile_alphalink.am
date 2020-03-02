@@ -1,0 +1,14 @@
+--2020-03-01 23:27:10--  http://alphalink.am/images/brochures/MG4010.pdf
+Resolving alphalink.am (alphalink.am)... 136.243.2.176
+Connecting to alphalink.am (alphalink.am)|136.243.2.176|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193225 (189K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 7.36M 0s
+    50K .......... .......... .......... .......... .......... 52% 19.3M 0s
+   100K .......... .......... .......... .......... .......... 79% 27.7M 0s
+   150K .......... .......... .......... ........             100%  124M=0.09s
+
+2020-03-01 23:27:10 (16.4 Mb/s) - ‘/dev/null’ saved [193225/193225]
+

@@ -1,0 +1,14 @@
+--2020-03-02 07:58:57--  http://www.csoget.uem.mz/images/pdfs/Edital_Bolsas_2018.pdf
+Resolving www.csoget.uem.mz (www.csoget.uem.mz)... 196.3.96.205
+Connecting to www.csoget.uem.mz (www.csoget.uem.mz)|196.3.96.205|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164661 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.11M 1s
+    50K .......... .......... .......... .......... .......... 62% 2.19M 0s
+   100K .......... .......... .......... .......... .......... 93% 2.23M 0s
+   150K ..........                                            100% 46.9M=0.7s
+
+2020-03-02 07:58:58 (1.78 Mb/s) - ‘/dev/null’ saved [164661/164661]
+

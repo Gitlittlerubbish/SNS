@@ -1,0 +1,20 @@
+--2020-03-02 05:17:23--  http://www.jpnsh.jp/data/salt_cnts002.pdf
+Resolving www.jpnsh.jp (www.jpnsh.jp)... 60.43.151.187
+Connecting to www.jpnsh.jp (www.jpnsh.jp)|60.43.151.187|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.jpnsh.jp/data/salt_cnts002.pdf [following]
+--2020-03-02 05:17:25--  https://www.jpnsh.jp/data/salt_cnts002.pdf
+Connecting to www.jpnsh.jp (www.jpnsh.jp)|60.43.151.187|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265173 (259K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19%  444K 4s
+    50K .......... .......... .......... .......... .......... 38% 1.33M 2s
+   100K .......... .......... .......... .......... .......... 57% 1.33M 1s
+   150K .......... .......... .......... .......... .......... 77% 1.81M 1s
+   200K .......... .......... .......... .......... .......... 96% 1.82M 0s
+   250K ........                                              100%  806M=2.0s
+
+2020-03-02 05:17:28 (1.07 Mb/s) - ‘/dev/null’ saved [265173/265173]
+

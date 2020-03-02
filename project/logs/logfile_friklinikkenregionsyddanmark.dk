@@ -1,0 +1,18 @@
+--2020-03-02 03:03:55--  http://friklinikkenregionsyddanmark.dk/dwn324089
+Resolving friklinikkenregionsyddanmark.dk (friklinikkenregionsyddanmark.dk)... 193.163.231.65
+Connecting to friklinikkenregionsyddanmark.dk (friklinikkenregionsyddanmark.dk)|193.163.231.65|:80... connected.
+HTTP request sent, awaiting response... 302 Object moved
+Location: /dwn324089.pdf [following]
+--2020-03-02 03:03:55--  http://friklinikkenregionsyddanmark.dk/dwn324089.pdf
+Reusing existing connection to friklinikkenregionsyddanmark.dk:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 180828 (177K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 3.23M 0s
+    50K .......... .......... .......... .......... .......... 56% 7.88M 0s
+   100K .......... .......... .......... .......... .......... 84%  117M 0s
+   150K .......... .......... ......                          100%  981M=0.2s
+
+2020-03-02 03:03:56 (7.92 Mb/s) - ‘/dev/null’ saved [180828/180828]
+

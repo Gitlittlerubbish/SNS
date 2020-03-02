@@ -1,0 +1,17 @@
+--2020-03-02 05:18:03--  http://www.uqwimax.jp/service/area/files/toeimita_01.pdf
+Resolving www.uqwimax.jp (www.uqwimax.jp)... 13.227.170.106, 13.227.170.39, 13.227.170.128, ...
+Connecting to www.uqwimax.jp (www.uqwimax.jp)|13.227.170.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uqwimax.jp/service/area/files/toeimita_01.pdf [following]
+--2020-03-02 05:18:03--  https://www.uqwimax.jp/service/area/files/toeimita_01.pdf
+Connecting to www.uqwimax.jp (www.uqwimax.jp)|13.227.170.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141819 (138K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36%  801K 1s
+    50K .......... .......... .......... .......... .......... 72% 3.14M 0s
+   100K .......... .......... .......... ........             100% 58.4M=0.6s
+
+2020-03-02 05:18:04 (1.75 Mb/s) - ‘/dev/null’ saved [141819/141819]
+

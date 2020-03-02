@@ -1,0 +1,22 @@
+--2020-03-02 03:52:28--  http://www.abbihati.ga/downloads/05_hallenbad_bambados_monitoring_endbericht.pdf
+Resolving www.abbihati.ga (www.abbihati.ga)... 195.20.52.24
+Connecting to www.abbihati.ga (www.abbihati.ga)|195.20.52.24|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 639 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  256M=0s
+
+2020-03-02 03:52:30 (256 Mb/s) - ‘/dev/null’ saved [639/639]
+
+--2020-03-02 03:52:43--  http://www.abbihati.ga/downloads/05_hallenbad_bambados_monitoring_endbericht.pdf
+Resolving www.abbihati.ga (www.abbihati.ga)... 195.20.52.24
+Connecting to www.abbihati.ga (www.abbihati.ga)|195.20.52.24|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 639 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  232M=0s
+
+2020-03-02 03:52:43 (232 Mb/s) - ‘/dev/null’ saved [639/639]
+

@@ -1,0 +1,14 @@
+--2020-03-02 00:23:06--  http://www.scl.bz/zzilzaf-media.pdf
+Resolving www.scl.bz (www.scl.bz)... 143.204.192.49, 143.204.192.34, 143.204.192.2, ...
+Connecting to www.scl.bz (www.scl.bz)|143.204.192.49|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158534 (155K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 70.6M 0s
+    50K .......... .......... .......... .......... .......... 64% 6.47M 0s
+   100K .......... .......... .......... .......... .......... 96% 99.9M 0s
+   150K ....                                                  100% 10.1M=0.08s
+
+2020-03-02 00:23:07 (16.4 Mb/s) - ‘/dev/null’ saved [158534/158534]
+

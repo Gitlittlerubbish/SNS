@@ -1,0 +1,23 @@
+--2020-03-02 07:39:39--  http://scsu.mn/1ktE9t0
+Resolving scsu.mn (scsu.mn)... 67.199.248.13, 67.199.248.12
+Connecting to scsu.mn (scsu.mn)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.stcloudstate.edu/sopa/_files/documents/research/st-cloud-immigration-fact-sheet.pdf [following]
+--2020-03-02 07:39:39--  http://www.stcloudstate.edu/sopa/_files/documents/research/st-cloud-immigration-fact-sheet.pdf
+Resolving www.stcloudstate.edu (www.stcloudstate.edu)... 199.17.15.181
+Connecting to www.stcloudstate.edu (www.stcloudstate.edu)|199.17.15.181|:80... connected.
+HTTP request sent, awaiting response... 302 Object Moved
+Location: https://www.stcloudstate.edu/sopa/_files/documents/research/st-cloud-immigration-fact-sheet.pdf [following]
+--2020-03-02 07:39:40--  https://www.stcloudstate.edu/sopa/_files/documents/research/st-cloud-immigration-fact-sheet.pdf
+Connecting to www.stcloudstate.edu (www.stcloudstate.edu)|199.17.15.181|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190042 (186K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 1.93M 1s
+    50K .......... .......... .......... .......... .......... 53% 34.3M 0s
+   100K .......... .......... .......... .......... .......... 80% 4.18M 0s
+   150K .......... .......... .......... .....                100% 39.7M=0.3s
+
+2020-03-02 07:39:41 (4.61 Mb/s) - ‘/dev/null’ saved [190042/190042]
+

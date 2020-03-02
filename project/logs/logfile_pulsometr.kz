@@ -1,0 +1,22 @@
+--2020-03-02 05:27:38--  http://pulsometr.kz/index.php%3Fcontroller%3Dattachment%26id_attachment%3D37
+Resolving pulsometr.kz (pulsometr.kz)... 81.177.140.161
+Connecting to pulsometr.kz (pulsometr.kz)|81.177.140.161|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pulsometr.kz/index.php%3Fcontroller%3Dattachment%26id_attachment%3D37 [following]
+--2020-03-02 05:27:39--  https://pulsometr.kz/index.php%3Fcontroller%3Dattachment%26id_attachment%3D37
+Connecting to pulsometr.kz (pulsometr.kz)|81.177.140.161|:443... connected.
+HTTP request sent, awaiting response... 302 Moved
+Location: https://pulsometr.kz/ [following]
+--2020-03-02 05:27:40--  https://pulsometr.kz/
+Reusing existing connection to pulsometr.kz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.41M
+    50K .......... .......... .......... .......... .......... 5.37M
+   100K .......... .......... .......... .......... ..........  106M
+   150K .......... ......                                       153M=0.2s
+
+2020-03-02 05:27:42 (8.71 Mb/s) - ‘/dev/null’ saved [170579]
+

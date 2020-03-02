@@ -1,0 +1,13 @@
+--2020-03-02 06:01:03--  http://www.gpcr.or.kr/gpcr_data/An_anti-apoptotic_protein.pdf
+Resolving www.gpcr.or.kr (www.gpcr.or.kr)... 211.196.153.28
+Connecting to www.gpcr.or.kr (www.gpcr.or.kr)|211.196.153.28|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122013 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41%  662K 1s
+    50K .......... .......... .......... .......... .......... 83% 1.34M 0s
+   100K .......... .........                                  100%  518K=1.2s
+
+2020-03-02 06:01:06 (796 Kb/s) - ‘/dev/null’ saved [122013/122013]
+

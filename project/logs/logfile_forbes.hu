@@ -1,0 +1,19 @@
+--2020-03-02 04:37:40--  http://forbes.hu/documents/altalanos_adatkezelesi_tajekoztato_Forbeshu.pdf
+Resolving forbes.hu (forbes.hu)... 5.159.233.193
+Connecting to forbes.hu (forbes.hu)|5.159.233.193|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://forbes.hu/documents/altalanos_adatkezelesi_tajekoztato_Forbeshu.pdf [following]
+--2020-03-02 04:37:40--  https://forbes.hu/documents/altalanos_adatkezelesi_tajekoztato_Forbeshu.pdf
+Connecting to forbes.hu (forbes.hu)|5.159.233.193|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228813 (223K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 4.83M 0s
+    50K .......... .......... .......... .......... .......... 44% 9.85M 0s
+   100K .......... .......... .......... .......... .......... 67%  108M 0s
+   150K .......... .......... .......... .......... .......... 89% 10.7M 0s
+   200K .......... .......... ...                             100%  120M=0.2s
+
+2020-03-02 04:37:41 (10.8 Mb/s) - ‘/dev/null’ saved [228813/228813]
+

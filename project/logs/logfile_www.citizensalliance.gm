@@ -1,0 +1,20 @@
+--2020-03-02 03:55:09--  http://www.citizensalliance.gm/CAFINALCONSTITUTION.pdf
+Resolving www.citizensalliance.gm (www.citizensalliance.gm)... 109.108.140.33
+Connecting to www.citizensalliance.gm (www.citizensalliance.gm)|109.108.140.33|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.citizensalliance.gm/CAFINALCONSTITUTION.pdf [following]
+--2020-03-02 03:55:10--  https://www.citizensalliance.gm/CAFINALCONSTITUTION.pdf
+Connecting to www.citizensalliance.gm (www.citizensalliance.gm)|109.108.140.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260089 (254K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 27.9M 0s
+    50K .......... .......... .......... .......... .......... 39% 33.0M 0s
+   100K .......... .......... .......... .......... .......... 59% 72.0M 0s
+   150K .......... .......... .......... .......... .......... 78% 37.9M 0s
+   200K .......... .......... .......... .......... .......... 98% 50.6M 0s
+   250K ...                                                   100%  654K=0.05s
+
+2020-03-02 03:55:10 (40.3 Mb/s) - ‘/dev/null’ saved [260089/260089]
+

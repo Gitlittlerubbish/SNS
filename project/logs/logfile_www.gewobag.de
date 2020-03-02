@@ -1,0 +1,22 @@
+--2020-03-02 04:00:06--  http://www.gewobag.de/interessentenbogen/
+Resolving www.gewobag.de (www.gewobag.de)... 185.224.154.112
+Connecting to www.gewobag.de (www.gewobag.de)|185.224.154.112|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /wp-content/uploads/downloaddateien/interessentenbogen.pdf [following]
+--2020-03-02 04:00:07--  http://www.gewobag.de/wp-content/uploads/downloaddateien/interessentenbogen.pdf
+Reusing existing connection to www.gewobag.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 391957 (383K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 6.47M 0s
+    50K .......... .......... .......... .......... .......... 26% 18.7M 0s
+   100K .......... .......... .......... .......... .......... 39% 19.7M 0s
+   150K .......... .......... .......... .......... .......... 52% 20.2M 0s
+   200K .......... .......... .......... .......... .......... 65%  107M 0s
+   250K .......... .......... .......... .......... .......... 78% 19.7M 0s
+   300K .......... .......... .......... .......... .......... 91% 19.1M 0s
+   350K .......... .......... .......... ..                   100%  150M=0.2s
+
+2020-03-02 04:00:07 (18.0 Mb/s) - ‘/dev/null’ saved [391957/391957]
+

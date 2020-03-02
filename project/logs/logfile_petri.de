@@ -1,0 +1,22 @@
+--2020-03-02 04:00:42--  http://petri.de/download/Generalvollmacht.pdf
+Resolving petri.de (petri.de)... 81.169.145.70
+Connecting to petri.de (petri.de)|81.169.145.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50810 (50K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......... 100% 20.0M=0.02s
+
+2020-03-02 04:00:42 (20.0 Mb/s) - ‘/dev/null’ saved [50810/50810]
+
+--2020-03-02 04:00:48--  http://petri.de/download/Generalvollmacht.pdf
+Resolving petri.de (petri.de)... 81.169.145.70
+Connecting to petri.de (petri.de)|81.169.145.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50810 (50K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......... 100% 19.6M=0.02s
+
+2020-03-02 04:00:48 (19.6 Mb/s) - ‘/dev/null’ saved [50810/50810]
+

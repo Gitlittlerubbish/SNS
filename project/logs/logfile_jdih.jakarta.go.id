@@ -1,0 +1,15 @@
+--2020-03-02 04:53:20--  http://jdih.jakarta.go.id/himpunan/produk_download/6291
+Resolving jdih.jakarta.go.id (jdih.jakarta.go.id)... 103.209.7.24
+Connecting to jdih.jakarta.go.id (jdih.jakarta.go.id)|103.209.7.24|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://jdih.jakarta.go.id [following]
+--2020-03-02 04:53:21--  https://jdih.jakarta.go.id/
+Connecting to jdih.jakarta.go.id (jdih.jakarta.go.id)|103.209.7.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 53.2M=0s
+
+2020-03-02 04:53:22 (53.2 Mb/s) - ‘/dev/null’ saved [246/246]
+

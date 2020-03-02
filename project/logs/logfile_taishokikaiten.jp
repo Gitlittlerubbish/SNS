@@ -1,0 +1,12 @@
+--2020-03-02 05:12:45--  http://taishokikaiten.jp/pa.pdf
+Resolving taishokikaiten.jp (taishokikaiten.jp)... 210.134.165.9
+Connecting to taishokikaiten.jp (taishokikaiten.jp)|210.134.165.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70378 (69K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 72%  466K 0s
+    50K .......... ........                                   100% 1.13M=1.0s
+
+2020-03-02 05:12:47 (555 Kb/s) - ‘/dev/null’ saved [70378/70378]
+

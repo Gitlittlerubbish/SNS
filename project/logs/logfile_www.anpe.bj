@@ -1,0 +1,22 @@
+--2020-03-02 00:28:42--  http://www.anpe.bj/uploads/Liste_beneficaires_PAES_2017.pdf
+Resolving www.anpe.bj (www.anpe.bj)... 213.186.33.2
+Connecting to www.anpe.bj (www.anpe.bj)|213.186.33.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.anpe.bj/uploads/Liste_beneficaires_PAES_2017.pdf [following]
+--2020-03-02 00:28:42--  https://www.anpe.bj/uploads/Liste_beneficaires_PAES_2017.pdf
+Connecting to www.anpe.bj (www.anpe.bj)|213.186.33.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 373092 (364K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 37.4M 0s
+    50K .......... .......... .......... .......... .......... 27% 52.6M 0s
+   100K .......... .......... .......... .......... .......... 41% 53.4M 0s
+   150K .......... .......... .......... .......... .......... 54% 62.4M 0s
+   200K .......... .......... .......... .......... .......... 68% 41.9M 0s
+   250K .......... .......... .......... .......... .......... 82% 64.0M 0s
+   300K .......... .......... .......... .......... .......... 96% 56.8M 0s
+   350K .......... ....                                       100%  159M=0.06s
+
+2020-03-02 00:28:42 (52.3 Mb/s) - ‘/dev/null’ saved [373092/373092]
+

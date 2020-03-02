@@ -1,0 +1,15 @@
+--2020-03-02 02:22:13--  http://tandt.market.cx/Bulletman.pdf
+Resolving tandt.market.cx (tandt.market.cx)... 210.233.74.165
+Connecting to tandt.market.cx (tandt.market.cx)|210.233.74.165|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250818 (245K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20%  831K 2s
+    50K .......... .......... .......... .......... .......... 40% 1.72M 1s
+   100K .......... .......... .......... .......... .......... 61%  133M 0s
+   150K .......... .......... .......... .......... .......... 81% 1.76M 0s
+   200K .......... .......... .......... .......... ....      100% 74.4M=1.0s
+
+2020-03-02 02:22:15 (2.07 Mb/s) - ‘/dev/null’ saved [250818/250818]
+

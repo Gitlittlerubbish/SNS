@@ -1,0 +1,14 @@
+--2020-03-02 04:51:02--  http://esdm.jatengprov.go.id/download/Tsunami.pdf
+Resolving esdm.jatengprov.go.id (esdm.jatengprov.go.id)... 103.9.227.35
+Connecting to esdm.jatengprov.go.id (esdm.jatengprov.go.id)|103.9.227.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166754 (163K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30%  998K 1s
+    50K .......... .......... .......... .......... .......... 61% 2.18M 0s
+   100K .......... .......... .......... .......... .......... 92% 87.8M 0s
+   150K .......... ..                                         100% 82.1M=0.6s
+
+2020-03-02 04:51:04 (2.21 Mb/s) - ‘/dev/null’ saved [166754/166754]
+

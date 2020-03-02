@@ -1,0 +1,12 @@
+--2020-03-02 06:13:34--  http://docs.zl.lv/s_kraukle_1.pdf
+Resolving docs.zl.lv (docs.zl.lv)... 213.175.117.138
+Connecting to docs.zl.lv (docs.zl.lv)|213.175.117.138|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63449 (62K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 80% 4.48M 0s
+    50K .......... .                                          100%  152M=0.09s
+
+2020-03-02 06:13:35 (5.52 Mb/s) - ‘/dev/null’ saved [63449/63449]
+

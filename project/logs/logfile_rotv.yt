@@ -1,0 +1,14 @@
+--2020-03-02 07:27:30--  http://rotv.yt/media/konkurs_pyrkon2016/pyrkon2016_konkurs_regulamin.pdf
+Resolving rotv.yt (rotv.yt)... 104.28.14.104, 104.28.15.104
+Connecting to rotv.yt (rotv.yt)|104.28.14.104|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158740 (155K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32%  113M 0s
+    50K .......... .......... .......... .......... .......... 64% 12.5M 0s
+   100K .......... .......... .......... .......... .......... 96%  122M 0s
+   150K .....                                                 100% 1.00G=0.04s
+
+2020-03-02 07:27:30 (31.9 Mb/s) - ‘/dev/null’ saved [158740/158740]
+

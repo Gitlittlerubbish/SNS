@@ -1,0 +1,13 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 00:16:32--  https://av.by/pdf/zayavlenie_na_postanovku_na_uchet.pdf
+Resolving av.by (av.by)... 193.176.182.25
+Connecting to av.by (av.by)|193.176.182.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78490 (77K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65% 7.87M 0s
+    50K .......... .......... ......                          100% 32.0M=0.06s
+
+2020-03-02 00:16:32 (10.7 Mb/s) - ‘/dev/null’ saved [78490/78490]
+

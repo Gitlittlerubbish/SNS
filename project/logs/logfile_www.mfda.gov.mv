@@ -1,0 +1,15 @@
+--2020-03-02 07:13:50--  http://www.mfda.gov.mv/DOCS/1392267359.pdf
+Resolving www.mfda.gov.mv (www.mfda.gov.mv)... 202.21.186.162
+Connecting to www.mfda.gov.mv (www.mfda.gov.mv)|202.21.186.162|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207961 (203K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  796K 2s
+    50K .......... .......... .......... .......... .......... 49% 1.50M 1s
+   100K .......... .......... .......... .......... .......... 73% 2.01M 0s
+   150K .......... .......... .......... .......... .......... 98%  999K 0s
+   200K ...                                                   100%  506K=1.4s
+
+2020-03-02 07:13:52 (1.19 Mb/s) - ‘/dev/null’ saved [207961/207961]
+

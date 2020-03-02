@@ -1,0 +1,15 @@
+--2020-03-02 07:33:13--  http://www.489.fm/20141028.pdf
+Resolving www.489.fm (www.489.fm)... 203.104.254.163
+Connecting to www.489.fm (www.489.fm)|203.104.254.163|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.489.fm/20141028.pdf [following]
+--2020-03-02 07:33:14--  https://www.489.fm/20141028.pdf
+Connecting to www.489.fm (www.489.fm)|203.104.254.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41103 (40K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..........           100%  850M=0s
+
+2020-03-02 07:33:15 (850 Mb/s) - ‘/dev/null’ saved [41103/41103]
+

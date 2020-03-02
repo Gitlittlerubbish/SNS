@@ -1,0 +1,11 @@
+--2020-03-01 22:33:19--  http://www.govern.ad/cultura/item/download/136_96635499cb2c91368351c3288f5d2e06
+Resolving www.govern.ad (www.govern.ad)... 91.187.83.90
+Connecting to www.govern.ad (www.govern.ad)|91.187.83.90|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 994 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  568M=0s
+
+2020-03-01 22:33:19 (568 Mb/s) - ‘/dev/null’ saved [994/994]
+

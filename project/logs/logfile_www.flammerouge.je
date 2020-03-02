@@ -1,0 +1,11 @@
+--2020-03-02 05:21:20--  http://www.flammerouge.je/services/efrmedicert.pdf
+Resolving www.flammerouge.je (www.flammerouge.je)... 195.26.90.15
+Connecting to www.flammerouge.je (www.flammerouge.je)|195.26.90.15|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45121 (44K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ....      100% 32.4M=0.01s
+
+2020-03-02 05:21:20 (32.4 Mb/s) - ‘/dev/null’ saved [45121/45121]
+

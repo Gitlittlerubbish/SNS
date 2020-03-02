@@ -1,0 +1,11 @@
+--2020-03-02 03:53:16--  http://www.vivvantes.ga/mediakit/download-media-kit/
+Resolving www.vivvantes.ga (www.vivvantes.ga)... 195.20.51.211
+Connecting to www.vivvantes.ga (www.vivvantes.ga)|195.20.51.211|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 642 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  257M=0s
+
+2020-03-02 03:53:17 (257 Mb/s) - ‘/dev/null’ saved [642/642]
+

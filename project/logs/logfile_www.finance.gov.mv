@@ -1,0 +1,14 @@
+--2020-03-02 07:14:44--  http://www.finance.gov.mv/public/attachments/rZb43dKchGZUa8WYuhmlD6KZ3c3JsOeEYbNTB2N2.pdf
+Resolving www.finance.gov.mv (www.finance.gov.mv)... 178.128.29.15
+Connecting to www.finance.gov.mv (www.finance.gov.mv)|178.128.29.15|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159689 (156K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 1.25M 1s
+    50K .......... .......... .......... .......... .......... 64% 2.60M 0s
+   100K .......... .......... .......... .......... .......... 96%  155M 0s
+   150K .....                                                 100%  416M=0.5s
+
+2020-03-02 07:14:45 (2.62 Mb/s) - ‘/dev/null’ saved [159689/159689]
+

@@ -1,0 +1,29 @@
+--2020-03-02 06:06:40--  http://telematika.kstu.kg/server/books/ru/mobcommunication/nikitin_g_i_primenenie_funkcy_uolsha_v_sotovyh.pdf
+Resolving telematika.kstu.kg (telematika.kstu.kg)... 85.113.28.178
+Connecting to telematika.kstu.kg (telematika.kstu.kg)|85.113.28.178|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://telematika.kstu.kg:443/server/books/ru/mobcommunication/nikitin_g_i_primenenie_funkcy_uolsha_v_sotovyh.pdf [following]
+--2020-03-02 06:06:40--  https://telematika.kstu.kg/server/books/ru/mobcommunication/nikitin_g_i_primenenie_funkcy_uolsha_v_sotovyh.pdf
+Connecting to telematika.kstu.kg (telematika.kstu.kg)|85.113.28.178|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 719960 (703K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 3.87M 1s
+    50K .......... .......... .......... .......... .......... 14% 3.97M 1s
+   100K .......... .......... .......... .......... .......... 21%  143M 1s
+   150K .......... .......... .......... .......... .......... 28% 4.14M 1s
+   200K .......... .......... .......... .......... .......... 35%  117M 1s
+   250K .......... .......... .......... .......... .......... 42% 74.6M 0s
+   300K .......... .......... .......... .......... .......... 49% 4.25M 0s
+   350K .......... .......... .......... .......... .......... 56% 85.2M 0s
+   400K .......... .......... .......... .......... .......... 64% 67.3M 0s
+   450K .......... .......... .......... .......... .......... 71%  106M 0s
+   500K .......... .......... .......... .......... .......... 78% 4.60M 0s
+   550K .......... .......... .......... .......... .......... 85%  107M 0s
+   600K .......... .......... .......... .......... .......... 92% 71.8M 0s
+   650K .......... .......... .......... .......... .......... 99%  169M 0s
+   700K ...                                                   100%  506K=0.5s
+
+2020-03-02 06:06:41 (10.8 Mb/s) - ‘/dev/null’ saved [719960/719960]
+

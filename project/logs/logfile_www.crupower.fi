@@ -1,0 +1,18 @@
+--2020-03-02 03:45:29--  http://www.crupower.fi/ARC150-LEC.pdf
+Resolving www.crupower.fi (www.crupower.fi)... 31.217.192.70
+Connecting to www.crupower.fi (www.crupower.fi)|31.217.192.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.crupower.fi/ARC150-LEC.pdf [following]
+--2020-03-02 03:45:29--  https://www.crupower.fi/ARC150-LEC.pdf
+Connecting to www.crupower.fi (www.crupower.fi)|31.217.192.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 195815 (191K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 3.17M 0s
+    50K .......... .......... .......... .......... .......... 52% 8.92M 0s
+   100K .......... .......... .......... .......... .......... 78%  254M 0s
+   150K .......... .......... .......... .......... .         100% 7.78M=0.2s
+
+2020-03-02 03:45:29 (7.12 Mb/s) - ‘/dev/null’ saved [195815/195815]
+

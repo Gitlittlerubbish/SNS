@@ -1,0 +1,16 @@
+--2020-03-02 01:14:20--  http://www.engbrasil.eng.br/artigos/art1.pdf
+Resolving www.engbrasil.eng.br (www.engbrasil.eng.br)... 187.17.111.98
+Connecting to www.engbrasil.eng.br (www.engbrasil.eng.br)|187.17.111.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 282507 (276K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 1.14M 2s
+    50K .......... .......... .......... .......... .......... 36% 2.29M 1s
+   100K .......... .......... .......... .......... .......... 54%  102M 0s
+   150K .......... .......... .......... .......... .......... 72%  189M 0s
+   200K .......... .......... .......... .......... .......... 90% 2.33M 0s
+   250K .......... .......... .....                           100% 62.6M=0.7s
+
+2020-03-02 01:14:21 (3.12 Mb/s) - ‘/dev/null’ saved [282507/282507]
+

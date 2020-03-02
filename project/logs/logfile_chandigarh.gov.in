@@ -1,0 +1,14 @@
+--2020-03-02 04:44:33--  http://chandigarh.gov.in/pdf/citizen_charter_ctu.pdf
+Resolving chandigarh.gov.in (chandigarh.gov.in)... 164.100.178.27
+Connecting to chandigarh.gov.in (chandigarh.gov.in)|164.100.178.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154249 (151K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33%  718K 1s
+    50K .......... .......... .......... .......... .......... 66% 2.20M 0s
+   100K .......... .......... .......... .......... .......... 99%  157M 0s
+   150K                                                       100%  104K=0.8s
+
+2020-03-02 04:44:34 (1.63 Mb/s) - ‘/dev/null’ saved [154249/154249]
+

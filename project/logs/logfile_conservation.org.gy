@@ -1,0 +1,13 @@
+--2020-03-02 04:18:56--  http://conservation.org.gy/cg/cc/media/Tor_Policy_Analysis.pdf
+Resolving conservation.org.gy (conservation.org.gy)... 192.252.146.46
+Connecting to conservation.org.gy (conservation.org.gy)|192.252.146.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108683 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 2.21M 0s
+    50K .......... .......... .......... .......... .......... 94% 4.87M 0s
+   100K ......                                                100% 8.93M=0.3s
+
+2020-03-02 04:18:57 (3.17 Mb/s) - ‘/dev/null’ saved [108683/108683]
+

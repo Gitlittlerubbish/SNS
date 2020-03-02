@@ -1,0 +1,11 @@
+--2020-03-01 23:24:17--  http://kangaroo.am/Tasks_2010/Answers_2010_ARM.pdf
+Resolving kangaroo.am (kangaroo.am)... 5.189.179.197
+Connecting to kangaroo.am (kangaroo.am)|5.189.179.197|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40924 (40K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .........            100% 10.8M=0.03s
+
+2020-03-01 23:24:17 (10.8 Mb/s) - ‘/dev/null’ saved [40924/40924]
+

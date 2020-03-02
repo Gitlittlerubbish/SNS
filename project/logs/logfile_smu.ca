@@ -1,0 +1,22 @@
+--2020-03-02 01:51:41--  http://smu.ca/webfiles/CulturalIssues.pdf
+Resolving smu.ca (smu.ca)... 140.184.59.33
+Connecting to smu.ca (smu.ca)|140.184.59.33|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://smu.ca/webfiles/CulturalIssues.pdf [following]
+--2020-03-02 01:51:41--  https://smu.ca/webfiles/CulturalIssues.pdf
+Connecting to smu.ca (smu.ca)|140.184.59.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 374269 (365K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 1.74M 1s
+    50K .......... .......... .......... .......... .......... 27% 5.23M 1s
+   100K .......... .......... .......... .......... .......... 41% 5.11M 1s
+   150K .......... .......... .......... .......... .......... 54%  257M 0s
+   200K .......... .......... .......... .......... .......... 68% 5.29M 0s
+   250K .......... .......... .......... .......... .......... 82%  508M 0s
+   300K .......... .......... .......... .......... .......... 95% 5.49M 0s
+   350K .......... .....                                      100% 77.8M=0.6s
+
+2020-03-02 01:51:42 (5.44 Mb/s) - ‘/dev/null’ saved [374269/374269]
+

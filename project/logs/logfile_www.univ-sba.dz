@@ -1,0 +1,24 @@
+--2020-03-01 22:26:27--  http://www.univ-sba.dz/images/proclamation_novembre_1954.pdf
+Resolving www.univ-sba.dz (www.univ-sba.dz)... 193.194.79.140
+Connecting to www.univ-sba.dz (www.univ-sba.dz)|193.194.79.140|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52437 (51K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 97% 3.14M 0s
+    50K .                                                     100%  198K=0.1s
+
+2020-03-01 22:26:27 (3.21 Mb/s) - ‘/dev/null’ saved [52437/52437]
+
+--2020-03-01 22:26:28--  http://www.univ-sba.dz/images/proclamation_novembre_1954.pdf
+Resolving www.univ-sba.dz (www.univ-sba.dz)... 193.194.79.140
+Connecting to www.univ-sba.dz (www.univ-sba.dz)|193.194.79.140|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52437 (51K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 97% 3.17M 0s
+    50K .                                                     100%  198K=0.1s
+
+2020-03-01 22:26:28 (3.25 Mb/s) - ‘/dev/null’ saved [52437/52437]
+

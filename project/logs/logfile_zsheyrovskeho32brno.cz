@@ -1,0 +1,12 @@
+--2020-03-02 03:02:47--  http://zsheyrovskeho32brno.cz/files/heyrna/pravidla/Scrabble_pravidla.pdf
+Resolving zsheyrovskeho32brno.cz (zsheyrovskeho32brno.cz)... 81.2.195.64
+Connecting to zsheyrovskeho32brno.cz (zsheyrovskeho32brno.cz)|81.2.195.64|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79208 (77K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 64% 5.54M 0s
+    50K .......... .......... .......                         100% 6.00M=0.1s
+
+2020-03-02 03:02:47 (5.70 Mb/s) - ‘/dev/null’ saved [79208/79208]
+

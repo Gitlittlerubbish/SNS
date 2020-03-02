@@ -1,0 +1,12 @@
+--2020-03-02 04:11:35--  http://sbcs.edu.gu/wp-content/uploads/5TH.pdf
+Resolving sbcs.edu.gu (sbcs.edu.gu)... 216.172.169.110
+Connecting to sbcs.edu.gu (sbcs.edu.gu)|216.172.169.110|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54676 (53K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 93% 1.66M 0s
+    50K ...                                                   100%  219M=0.2s
+
+2020-03-02 04:11:36 (1.78 Mb/s) - ‘/dev/null’ saved [54676/54676]
+

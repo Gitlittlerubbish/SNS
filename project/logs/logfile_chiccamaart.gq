@@ -1,0 +1,13 @@
+--2020-03-02 03:28:40--  http://chiccamaart.gq/pdf/1E3F8CF1-BB7F-4D0C-A06A-0829301A5FAA.pdf
+Resolving chiccamaart.gq (chiccamaart.gq)... 104.27.181.121, 104.27.180.121
+Connecting to chiccamaart.gq (chiccamaart.gq)|104.27.181.121|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.3M
+    50K .......... .......... .......... .......... ..........  174M
+   100K ....                                                    717M=0.04s
+
+2020-03-02 03:28:40 (20.3 Mb/s) - ‘/dev/null’ saved [106794]
+

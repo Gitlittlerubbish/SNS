@@ -1,0 +1,31 @@
+--2020-03-02 06:08:30--  http://www.nexans.kg/eservice/Russia-en/documentDownload_297/Power_Submarine_cables_catalogue
+Resolving www.nexans.kg (www.nexans.kg)... 185.67.149.26
+Connecting to www.nexans.kg (www.nexans.kg)|185.67.149.26|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nexans.kg/eservice/Russia-en/documentDownload_297/Power_Submarine_cables_catalogue [following]
+--2020-03-02 06:08:30--  https://www.nexans.kg/eservice/Russia-en/documentDownload_297/Power_Submarine_cables_catalogue
+Connecting to www.nexans.kg (www.nexans.kg)|185.67.149.26|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nexans.kg/Germany/2013/SubmPowCables_FINAL_10jun13_engl.pdf [following]
+--2020-03-02 06:08:30--  https://www.nexans.kg/Germany/2013/SubmPowCables_FINAL_10jun13_engl.pdf
+Reusing existing connection to www.nexans.kg:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 637081 (622K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 9.22M 1s
+    50K .......... .......... .......... .......... .......... 16% 19.7M 0s
+   100K .......... .......... .......... .......... .......... 24% 18.9M 0s
+   150K .......... .......... .......... .......... .......... 32% 22.8M 0s
+   200K .......... .......... .......... .......... .......... 40%  102M 0s
+   250K .......... .......... .......... .......... .......... 48%  213M 0s
+   300K .......... .......... .......... .......... .......... 56% 22.8M 0s
+   350K .......... .......... .......... .......... .......... 64% 94.2M 0s
+   400K .......... .......... .......... .......... .......... 72% 30.6M 0s
+   450K .......... .......... .......... .......... .......... 80%  174M 0s
+   500K .......... .......... .......... .......... .......... 88%  112M 0s
+   550K .......... .......... .......... .......... .......... 96%  104M 0s
+   600K .......... .......... ..                              100%  921M=0.2s
+
+2020-03-02 06:08:31 (32.5 Mb/s) - ‘/dev/null’ saved [637081/637081]
+

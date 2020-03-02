@@ -1,0 +1,22 @@
+--2020-03-02 00:11:51--  http://daffodilvarsity.edu.bd/notice-file/Aplication_for_taking_extra_courses.pdf
+Resolving daffodilvarsity.edu.bd (daffodilvarsity.edu.bd)... 203.190.10.99
+Connecting to daffodilvarsity.edu.bd (daffodilvarsity.edu.bd)|203.190.10.99|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 31577 (31K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..........                      100%  344K=0.7s
+
+2020-03-02 00:11:52 (344 Kb/s) - ‘/dev/null’ saved [31577/31577]
+
+--2020-03-02 00:11:52--  http://daffodilvarsity.edu.bd/notice-file/Aplication_for_Picnic_or_Study_Tour.pdf
+Resolving daffodilvarsity.edu.bd (daffodilvarsity.edu.bd)... 203.190.10.99
+Connecting to daffodilvarsity.edu.bd (daffodilvarsity.edu.bd)|203.190.10.99|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28746 (28K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ........                        100%  151K=1.5s
+
+2020-03-02 00:11:56 (151 Kb/s) - ‘/dev/null’ saved [28746/28746]
+

@@ -1,0 +1,15 @@
+--2020-03-02 01:54:48--  http://www.johngraymemorialchurch.org.ky/media/2013synodtheme.pdf
+Resolving www.johngraymemorialchurch.org.ky (www.johngraymemorialchurch.org.ky)... 162.219.162.177
+Connecting to www.johngraymemorialchurch.org.ky (www.johngraymemorialchurch.org.ky)|162.219.162.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.johngraymemorialchurch.org.ky/ [following]
+--2020-03-02 01:54:49--  https://www.johngraymemorialchurch.org.ky/
+Connecting to www.johngraymemorialchurch.org.ky (www.johngraymemorialchurch.org.ky)|162.219.162.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                    317M=0s
+
+2020-03-02 01:54:50 (317 Mb/s) - ‘/dev/null’ saved [4235]
+

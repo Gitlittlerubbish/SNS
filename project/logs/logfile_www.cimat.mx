@@ -1,0 +1,21 @@
+--2020-03-02 07:30:43--  http://www.cimat.mx/~jcpardo/PaPa1.pdf
+Resolving www.cimat.mx (www.cimat.mx)... 148.235.65.229
+Connecting to www.cimat.mx (www.cimat.mx)|148.235.65.229|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cimat.mx/~jcpardo/PaPa1.pdf [following]
+--2020-03-02 07:30:44--  https://www.cimat.mx/~jcpardo/PaPa1.pdf
+Connecting to www.cimat.mx (www.cimat.mx)|148.235.65.229|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 354594 (346K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14%  803K 3s
+    50K .......... .......... .......... .......... .......... 28% 2.38M 2s
+   100K .......... .......... .......... .......... .......... 43% 2.41M 1s
+   150K .......... .......... .......... .......... .......... 57% 3.90M 1s
+   200K .......... .......... .......... .......... .......... 72% 6.10M 0s
+   250K .......... .......... .......... .......... .......... 86% 4.07M 0s
+   300K .......... .......... .......... .......... ......    100% 65.3M=1.1s
+
+2020-03-02 07:30:46 (2.51 Mb/s) - ‘/dev/null’ saved [354594/354594]
+

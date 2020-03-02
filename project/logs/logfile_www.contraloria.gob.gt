@@ -1,0 +1,11 @@
+--2020-03-02 04:13:24--  http://www.contraloria.gob.gt/imagenes/i_docs/DM_012/archivos/parte2/GUATEMALA/GUATEMALA.pdf
+Resolving www.contraloria.gob.gt (www.contraloria.gob.gt)... 168.194.72.134, 190.143.221.7
+Connecting to www.contraloria.gob.gt (www.contraloria.gob.gt)|168.194.72.134|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  180M=0s
+
+2020-03-02 04:13:24 (180 Mb/s) - ‘/dev/null’ saved [247/247]
+

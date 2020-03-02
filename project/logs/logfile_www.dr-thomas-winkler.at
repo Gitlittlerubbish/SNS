@@ -1,0 +1,13 @@
+--2020-03-01 23:43:09--  http://www.dr-thomas-winkler.at/fileadmin/files/Tabellen_Der_Jodgehalte.pdf
+Resolving www.dr-thomas-winkler.at (www.dr-thomas-winkler.at)... 81.19.159.59
+Connecting to www.dr-thomas-winkler.at (www.dr-thomas-winkler.at)|81.19.159.59|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128790 (126K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 3.12M 0s
+    50K .......... .......... .......... .......... .......... 79% 2.41M 0s
+   100K .......... .......... .....                           100% 3.08M=0.4s
+
+2020-03-01 23:43:09 (2.79 Mb/s) - ‘/dev/null’ saved [128790/128790]
+

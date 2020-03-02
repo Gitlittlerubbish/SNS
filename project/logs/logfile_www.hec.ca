@@ -1,0 +1,15 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:53:09--  https://www.hec.ca/cams/rubriques/symbole_sommation.pdf
+Resolving www.hec.ca (www.hec.ca)... 132.211.157.21
+Connecting to www.hec.ca (www.hec.ca)|132.211.157.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190518 (186K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 1.09M 1s
+    50K .......... .......... .......... .......... .......... 53% 4.20M 0s
+   100K .......... .......... .......... .......... .......... 80% 4.39M 0s
+   150K .......... .......... .......... ......               100% 3.23M=0.7s
+
+2020-03-02 01:53:10 (2.32 Mb/s) - ‘/dev/null’ saved [190518/190518]
+

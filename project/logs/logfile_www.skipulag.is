@@ -1,0 +1,12 @@
+--2020-03-02 04:40:16--  http://www.skipulag.is/media/skipulagsmal/Leidbbl_2_1utg_nov2011.pdf
+Resolving www.skipulag.is (www.skipulag.is)... 80.248.22.12
+Connecting to www.skipulag.is (www.skipulag.is)|80.248.22.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72701 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 4.58M 0s
+    50K .......... ..........                                 100%  148M=0.09s
+
+2020-03-02 04:40:17 (6.42 Mb/s) - ‘/dev/null’ saved [72701/72701]
+

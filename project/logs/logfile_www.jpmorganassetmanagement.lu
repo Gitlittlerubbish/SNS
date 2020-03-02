@@ -1,0 +1,12 @@
+--2020-03-02 06:29:18--  http://www.jpmorganassetmanagement.lu/EN/dms/Currency_hedged_share_classes_flyer.pdf
+Resolving www.jpmorganassetmanagement.lu (www.jpmorganassetmanagement.lu)... 82.98.90.173
+Connecting to www.jpmorganassetmanagement.lu (www.jpmorganassetmanagement.lu)|82.98.90.173|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 6.69M
+    50K ......                                                 66.8M=0.06s
+
+2020-03-02 06:29:18 (7.47 Mb/s) - ‘/dev/null’ saved [57879]
+

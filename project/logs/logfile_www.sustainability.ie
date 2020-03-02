@@ -1,0 +1,14 @@
+--2020-03-02 05:01:10--  http://www.sustainability.ie/deepadaptation.pdf
+Resolving www.sustainability.ie (www.sustainability.ie)... 78.137.164.56
+Connecting to www.sustainability.ie (www.sustainability.ie)|78.137.164.56|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179132 (175K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 14.6M 0s
+    50K .......... .......... .......... .......... .......... 57% 27.2M 0s
+   100K .......... .......... .......... .......... .......... 85%  187M 0s
+   150K .......... .......... ....                            100% 75.4M=0.05s
+
+2020-03-02 05:01:10 (29.8 Mb/s) - ‘/dev/null’ saved [179132/179132]
+

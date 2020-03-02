@@ -1,0 +1,17 @@
+--2020-03-02 04:55:52--  http://www.bahonarhospital.ir/TempImage/barname.pdf
+Resolving www.bahonarhospital.ir (www.bahonarhospital.ir)... 185.10.75.29
+Connecting to www.bahonarhospital.ir (www.bahonarhospital.ir)|185.10.75.29|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 339779 (332K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 1.94M 1s
+    50K .......... .......... .......... .......... .......... 30% 4.03M 1s
+   100K .......... .......... .......... .......... .......... 45%  150M 0s
+   150K .......... .......... .......... .......... .......... 60%  179M 0s
+   200K .......... .......... .......... .......... .......... 75% 3.83M 0s
+   250K .......... .......... .......... .......... .......... 90%  104M 0s
+   300K .......... .......... .......... .                    100% 36.1M=0.4s
+
+2020-03-02 04:55:53 (6.24 Mb/s) - ‘/dev/null’ saved [339779/339779]
+

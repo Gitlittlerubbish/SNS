@@ -1,0 +1,15 @@
+--2020-03-02 02:35:14--  http://www.cagmsp.cd/rapport_cag1/11.pdf
+Resolving www.cagmsp.cd (www.cagmsp.cd)... 92.48.90.167
+Connecting to www.cagmsp.cd (www.cagmsp.cd)|92.48.90.167|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cagmsp.cd/rapport_cag1/11.pdf [following]
+--2020-03-02 02:35:14--  https://www.cagmsp.cd/rapport_cag1/11.pdf
+Connecting to www.cagmsp.cd (www.cagmsp.cd)|92.48.90.167|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                      329M=0s
+
+2020-03-02 02:35:14 (329 Mb/s) - ‘/dev/null’ saved [2300]
+

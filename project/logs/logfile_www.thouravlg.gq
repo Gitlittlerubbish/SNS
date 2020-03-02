@@ -1,0 +1,11 @@
+--2020-03-02 03:29:23--  http://www.thouravlg.gq/globalassets/priser_og_zoner/163_omstigningsomrader_hovedstaden_marts19_web_v4_mj.pdf
+Resolving www.thouravlg.gq (www.thouravlg.gq)... 104.27.135.128, 104.27.134.128
+Connecting to www.thouravlg.gq (www.thouravlg.gq)|104.27.135.128|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...         114M=0.003s
+
+2020-03-02 03:29:23 (114 Mb/s) - ‘/dev/null’ saved [44284]
+

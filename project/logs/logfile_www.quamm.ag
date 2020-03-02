@@ -1,0 +1,19 @@
+--2020-03-01 23:00:03--  http://www.quamm.ag/
+Resolving www.quamm.ag (www.quamm.ag)... 194.150.248.140
+Connecting to www.quamm.ag (www.quamm.ag)|194.150.248.140|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://quamm.ag/images/pdf/start.pdf [following]
+--2020-03-01 23:00:03--  http://quamm.ag/images/pdf/start.pdf
+Resolving quamm.ag (quamm.ag)... 194.150.248.140
+Reusing existing connection to www.quamm.ag:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 159975 (156K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 8.38M 0s
+    50K .......... .......... .......... .......... .......... 64% 15.8M 0s
+   100K .......... .......... .......... .......... .......... 96%  160M 0s
+   150K ......                                                100% 1.02M=0.08s
+
+2020-03-01 23:00:03 (16.6 Mb/s) - ‘/dev/null’ saved [159975/159975]
+

@@ -1,0 +1,15 @@
+--2020-03-02 04:32:21--  http://tol.etvonline.hk/pdf/tol2013_eng_epi13.pdf
+Resolving tol.etvonline.hk (tol.etvonline.hk)... 59.188.18.207
+Connecting to tol.etvonline.hk (tol.etvonline.hk)|59.188.18.207|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240628 (235K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21%  349K 4s
+    50K .......... .......... .......... .......... .......... 42%  300K 3s
+   100K .......... .......... .......... .......... .......... 63%  263K 2s
+   150K .......... .......... .......... .......... .......... 85%  523K 1s
+   200K .......... .......... .......... ....                 100%  734K=5.3s
+
+2020-03-02 04:32:27 (365 Kb/s) - ‘/dev/null’ saved [240628/240628]
+

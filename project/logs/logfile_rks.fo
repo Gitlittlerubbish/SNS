@@ -1,0 +1,18 @@
+--2020-03-02 03:37:51--  http://rks.fo/download/file/23d8a5a84ee3199a0c28afd3798a6d84925f694f.pdf
+Resolving rks.fo (rks.fo)... 128.199.43.113
+Connecting to rks.fo (rks.fo)|128.199.43.113|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://rks.fo/download/file/23d8a5a84ee3199a0c28afd3798a6d84925f694f.pdf [following]
+--2020-03-02 03:37:51--  https://rks.fo/download/file/23d8a5a84ee3199a0c28afd3798a6d84925f694f.pdf
+Connecting to rks.fo (rks.fo)|128.199.43.113|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12.9M
+    50K .......... .......... .......... .......... .......... 13.4M
+   100K .......... .......... .......... .......... ..........  129M
+   150K .......... ..                                           104M=0.07s
+
+2020-03-02 03:37:51 (20.1 Mb/s) - ‘/dev/null’ saved [166458]
+

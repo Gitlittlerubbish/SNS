@@ -1,0 +1,16 @@
+--2020-03-02 03:03:08--  http://www.svickyngk.cz/images/oznaceni_svicek.pdf
+Resolving www.svickyngk.cz (www.svickyngk.cz)... 5.1.56.51
+Connecting to www.svickyngk.cz (www.svickyngk.cz)|5.1.56.51|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.svickyngk.cz/images/oznaceni_svicek.pdf [following]
+--2020-03-02 03:03:08--  https://www.svickyngk.cz/images/oznaceni_svicek.pdf
+Connecting to www.svickyngk.cz (www.svickyngk.cz)|5.1.56.51|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93491 (91K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54% 5.67M 0s
+    50K .......... .......... .......... .......... .         100%  640M=0.07s
+
+2020-03-02 03:03:08 (10.3 Mb/s) - ‘/dev/null’ saved [93491/93491]
+

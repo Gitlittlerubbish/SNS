@@ -1,0 +1,15 @@
+--2020-03-02 04:29:04--  http://www.cedars.hku.hk/predeparturenotes
+Resolving www.cedars.hku.hk (www.cedars.hku.hk)... 147.8.216.55
+Connecting to www.cedars.hku.hk (www.cedars.hku.hk)|147.8.216.55|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.cedars.hku.hk/predeparturenotes [following]
+--2020-03-02 04:29:04--  https://www.cedars.hku.hk/predeparturenotes
+Connecting to www.cedars.hku.hk (www.cedars.hku.hk)|147.8.216.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 27.9M=0s
+
+2020-03-02 04:29:06 (27.9 Mb/s) - ‘/dev/null’ saved [122/122]
+

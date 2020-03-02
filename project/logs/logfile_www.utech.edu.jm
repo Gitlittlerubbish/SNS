@@ -1,0 +1,12 @@
+--2020-03-02 05:09:37--  http://www.utech.edu.jm/enrolment/SemesterizationBrochure2010.pdf
+Resolving www.utech.edu.jm (www.utech.edu.jm)... 200.9.115.9
+Connecting to www.utech.edu.jm (www.utech.edu.jm)|200.9.115.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78644 (77K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65%  611K 0s
+    50K .......... .......... ......                          100%  146M=0.7s
+
+2020-03-02 05:09:40 (936 Kb/s) - ‘/dev/null’ saved [78644/78644]
+

@@ -1,0 +1,26 @@
+--2020-03-02 06:14:06--  http://llufb.llu.lv/LLU-studiju-materiali/LF/Antra_Balode_Projektu_vadisanas_pamati_stud_materials.pdf
+Resolving llufb.llu.lv (llufb.llu.lv)... 85.254.205.96
+Connecting to llufb.llu.lv (llufb.llu.lv)|85.254.205.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://llufb.llu.lv/LLU-studiju-materiali/LF/Antra_Balode_Projektu_vadisanas_pamati_stud_materials.pdf [following]
+--2020-03-02 06:14:06--  https://llufb.llu.lv/LLU-studiju-materiali/LF/Antra_Balode_Projektu_vadisanas_pamati_stud_materials.pdf
+Connecting to llufb.llu.lv (llufb.llu.lv)|85.254.205.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 593632 (580K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 10.0M 0s
+    50K .......... .......... .......... .......... .......... 17% 10.6M 0s
+   100K .......... .......... .......... .......... .......... 25%  204M 0s
+   150K .......... .......... .......... .......... .......... 34%  170M 0s
+   200K .......... .......... .......... .......... .......... 43% 10.4M 0s
+   250K .......... .......... .......... .......... .......... 51%  115M 0s
+   300K .......... .......... .......... .......... .......... 60% 12.6M 0s
+   350K .......... .......... .......... .......... .......... 68%  110M 0s
+   400K .......... .......... .......... .......... .......... 77%  451M 0s
+   450K .......... .......... .......... .......... .......... 86%  118M 0s
+   500K .......... .......... .......... .......... .......... 94% 13.4M 0s
+   550K .......... .......... .........                       100%  138M=0.2s
+
+2020-03-02 06:14:06 (23.8 Mb/s) - ‘/dev/null’ saved [593632/593632]
+

@@ -1,0 +1,12 @@
+--2020-03-02 02:01:10--  http://www.lirasri.cf/downloads/CHE_AP_195_Studieren_ohne_Abitur_2017.pdf
+Resolving www.lirasri.cf (www.lirasri.cf)... 104.27.143.140, 104.27.142.140
+Connecting to www.lirasri.cf (www.lirasri.cf)|104.27.143.140|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 87.1M
+    50K .......... .....                                       79.6M=0.006s
+
+2020-03-02 02:01:11 (85.2 Mb/s) - ‘/dev/null’ saved [66731]
+

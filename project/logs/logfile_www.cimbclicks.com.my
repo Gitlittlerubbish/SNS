@@ -1,0 +1,37 @@
+--2020-03-02 07:07:47--  http://www.cimbclicks.com.my/pdf/DuitNow-FAQ.pdf
+Resolving www.cimbclicks.com.my (www.cimbclicks.com.my)... 184.87.185.217
+Connecting to www.cimbclicks.com.my (www.cimbclicks.com.my)|184.87.185.217|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cimbclicks.com.my/pdf/DuitNow-FAQ.pdf [following]
+--2020-03-02 07:07:47--  https://www.cimbclicks.com.my/pdf/DuitNow-FAQ.pdf
+Connecting to www.cimbclicks.com.my (www.cimbclicks.com.my)|184.87.185.217|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277676 (271K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 79.5M 0s
+    50K .......... .......... .......... .......... .......... 36% 70.5M 0s
+   100K .......... .......... .......... .......... .......... 55%  147M 0s
+   150K .......... .......... .......... .......... .......... 73%  123M 0s
+   200K .......... .......... .......... .......... .......... 92%  119M 0s
+   250K .......... .......... .                               100%  795M=0.02s
+
+2020-03-02 07:07:48 (107 Mb/s) - ‘/dev/null’ saved [277676/277676]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 07:08:03--  https://www.cimbclicks.com.my/pdf/DuitNow-FAQ.pdf
+Resolving www.cimbclicks.com.my (www.cimbclicks.com.my)... 184.87.185.217
+Connecting to www.cimbclicks.com.my (www.cimbclicks.com.my)|184.87.185.217|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277676 (271K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 91.4M 0s
+    50K .......... .......... .......... .......... .......... 36% 87.4M 0s
+   100K .......... .......... .......... .......... .......... 55%  128M 0s
+   150K .......... .......... .......... .......... .......... 73%  127M 0s
+   200K .......... .......... .......... .......... .......... 92%  111M 0s
+   250K .......... .......... .                               100% 78.8M=0.02s
+
+2020-03-02 07:08:03 (104 Mb/s) - ‘/dev/null’ saved [277676/277676]
+

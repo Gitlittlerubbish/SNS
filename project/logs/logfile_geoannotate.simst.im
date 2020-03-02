@@ -1,0 +1,15 @@
+--2020-03-02 05:05:39--  http://geoannotate.simst.im/-necropsy.pdf
+Resolving geoannotate.simst.im (geoannotate.simst.im)... 165.227.212.84
+Connecting to geoannotate.simst.im (geoannotate.simst.im)|165.227.212.84|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://geoannotate.simst.im/-necropsy.pdf [following]
+--2020-03-02 05:05:39--  https://geoannotate.simst.im/-necropsy.pdf
+Connecting to geoannotate.simst.im (geoannotate.simst.im)|165.227.212.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 273 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 50.8M=0s
+
+2020-03-02 05:05:40 (50.8 Mb/s) - ‘/dev/null’ saved [273/273]
+

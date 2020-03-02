@@ -1,0 +1,36 @@
+--2020-03-01 22:22:01--  http://www.sntf.dz/documents/tizi.pdf
+Resolving www.sntf.dz (www.sntf.dz)... 82.196.25.84
+Connecting to www.sntf.dz (www.sntf.dz)|82.196.25.84|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sntf.dz/documents/tizi.pdf [following]
+--2020-03-01 22:22:02--  https://www.sntf.dz/documents/tizi.pdf
+Connecting to www.sntf.dz (www.sntf.dz)|82.196.25.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161167 (157K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 20.5M 0s
+    50K .......... .......... .......... .......... .......... 63% 21.7M 0s
+   100K .......... .......... .......... .......... .......... 95%  106M 0s
+   150K .......                                               100%  611M=0.04s
+
+2020-03-01 22:22:02 (30.1 Mb/s) - ‘/dev/null’ saved [161167/161167]
+
+--2020-03-01 22:22:06--  http://www.sntf.dz/documents/tizi.pdf
+Resolving www.sntf.dz (www.sntf.dz)... 82.196.25.84
+Connecting to www.sntf.dz (www.sntf.dz)|82.196.25.84|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sntf.dz/documents/tizi.pdf [following]
+--2020-03-01 22:22:06--  https://www.sntf.dz/documents/tizi.pdf
+Connecting to www.sntf.dz (www.sntf.dz)|82.196.25.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161167 (157K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 18.3M 0s
+    50K .......... .......... .......... .......... .......... 63% 22.9M 0s
+   100K .......... .......... .......... .......... .......... 95%  109M 0s
+   150K .......                                               100%  807M=0.04s
+
+2020-03-01 22:22:07 (29.2 Mb/s) - ‘/dev/null’ saved [161167/161167]
+

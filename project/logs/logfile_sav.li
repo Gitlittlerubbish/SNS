@@ -1,0 +1,24 @@
+--2020-03-02 06:24:34--  http://sav.li/c4r
+Resolving sav.li (sav.li)... 193.104.25.210
+Connecting to sav.li (sav.li)|193.104.25.210|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://pdf.euro.savills.co.uk/germany-research/ger-ger-2018/temporares-wohnen---eine-annaherung.pdf [following]
+--2020-03-02 06:24:35--  http://pdf.euro.savills.co.uk/germany-research/ger-ger-2018/temporares-wohnen---eine-annaherung.pdf
+Resolving pdf.euro.savills.co.uk (pdf.euro.savills.co.uk)... 104.97.147.225
+Connecting to pdf.euro.savills.co.uk (pdf.euro.savills.co.uk)|104.97.147.225|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pdf.euro.savills.co.uk:443/germany-research/ger-ger-2018/temporares-wohnen---eine-annaherung.pdf [following]
+--2020-03-02 06:24:36--  https://pdf.euro.savills.co.uk/germany-research/ger-ger-2018/temporares-wohnen---eine-annaherung.pdf
+Connecting to pdf.euro.savills.co.uk (pdf.euro.savills.co.uk)|104.97.147.225|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 209534 (205K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 36.2M 0s
+    50K .......... .......... .......... .......... .......... 48% 33.1M 0s
+   100K .......... .......... .......... .......... .......... 73%  163M 0s
+   150K .......... .......... .......... .......... .......... 97%  198M 0s
+   200K ....                                                  100%  757K=0.03s
+
+2020-03-02 06:24:36 (59.2 Mb/s) - ‘/dev/null’ saved [209534/209534]
+

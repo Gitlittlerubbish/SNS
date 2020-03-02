@@ -1,0 +1,24 @@
+--2020-03-01 23:05:46--  http://www.depema.ag/fileadmin/pdf/Unterstuetzungskasse.pdf
+Resolving www.depema.ag (www.depema.ag)... 134.119.225.147
+Connecting to www.depema.ag (www.depema.ag)|134.119.225.147|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.depema.ag/fileadmin/pdf/Unterstuetzungskasse.pdf [following]
+--2020-03-01 23:05:46--  https://www.depema.ag/fileadmin/pdf/Unterstuetzungskasse.pdf
+Connecting to www.depema.ag (www.depema.ag)|134.119.225.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 503389 (492K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 10.7M 0s
+    50K .......... .......... .......... .......... .......... 20% 23.3M 0s
+   100K .......... .......... .......... .......... .......... 30%  195M 0s
+   150K .......... .......... .......... .......... .......... 40%  167M 0s
+   200K .......... .......... .......... .......... .......... 50% 21.5M 0s
+   250K .......... .......... .......... .......... .......... 61%  422M 0s
+   300K .......... .......... .......... .......... .......... 71% 26.4M 0s
+   350K .......... .......... .......... .......... .......... 81%  133M 0s
+   400K .......... .......... .......... .......... .......... 91%  197M 0s
+   450K .......... .......... .......... .......... .         100%  233M=0.1s
+
+2020-03-01 23:05:47 (39.3 Mb/s) - ‘/dev/null’ saved [503389/503389]
+

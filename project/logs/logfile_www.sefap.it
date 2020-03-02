@@ -1,0 +1,11 @@
+--2020-03-02 05:08:57--  http://www.sefap.it/farmacovigilanza_news_201002/tachipirina_20012010.pdf
+Resolving www.sefap.it (www.sefap.it)... 94.23.72.164
+Connecting to www.sefap.it (www.sefap.it)|94.23.72.164|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37929 (37K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......              100% 7.47M=0.04s
+
+2020-03-02 05:08:57 (7.47 Mb/s) - ‘/dev/null’ saved [37929/37929]
+

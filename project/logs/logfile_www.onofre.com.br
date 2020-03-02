@@ -1,0 +1,16 @@
+--2020-03-02 01:09:05--  http://www.onofre.com.br/estaticos/bulas/195502.pdf
+Resolving www.onofre.com.br (www.onofre.com.br)... 92.122.54.81, 92.122.54.101
+Connecting to www.onofre.com.br (www.onofre.com.br)|92.122.54.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.onofre.com.br/estaticos/bulas/195502.pdf [following]
+--2020-03-02 01:09:05--  https://www.onofre.com.br/estaticos/bulas/195502.pdf
+Connecting to www.onofre.com.br (www.onofre.com.br)|92.122.54.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100222 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 85.3M 0s
+    50K .......... .......... .......... .......... .......   100% 79.1M=0.01s
+
+2020-03-02 01:09:05 (82.2 Mb/s) - ‘/dev/null’ saved [100222/100222]
+

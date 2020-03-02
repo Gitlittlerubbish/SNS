@@ -1,0 +1,13 @@
+--2020-03-02 00:14:13--  http://www.velozona.by/rassrochka/PrimerDogovora.pdf
+Resolving www.velozona.by (www.velozona.by)... 178.159.245.54
+Connecting to www.velozona.by (www.velozona.by)|178.159.245.54|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133813 (131K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 3.08M 0s
+    50K .......... .......... .......... .......... .......... 76% 6.29M 0s
+   100K .......... .......... ..........                      100% 4.14M=0.3s
+
+2020-03-02 00:14:13 (4.13 Mb/s) - ‘/dev/null’ saved [133813/133813]
+

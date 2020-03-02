@@ -1,0 +1,35 @@
+--2020-03-02 03:49:17--  http://www.rsma.pf/images/fichiers/PAM_2019_Guide_daccueil_du_personnel_arrivant_Version_du_30_jan_2019.pdf
+Resolving www.rsma.pf (www.rsma.pf)... 91.121.39.47
+Connecting to www.rsma.pf (www.rsma.pf)|91.121.39.47|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://rsma.pf/images/fichiers/PAM_2019_Guide_daccueil_du_personnel_arrivant_Version_du_30_jan_2019.pdf [following]
+--2020-03-02 03:49:17--  https://rsma.pf/images/fichiers/PAM_2019_Guide_daccueil_du_personnel_arrivant_Version_du_30_jan_2019.pdf
+Resolving rsma.pf (rsma.pf)... 91.121.39.47
+Connecting to rsma.pf (rsma.pf)|91.121.39.47|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rsma.pf/images/fichiers/PAM_2019_Guide_daccueil_du_personnel_arrivant_Version_du_30_jan_2019.pdf [following]
+--2020-03-02 03:49:17--  https://www.rsma.pf/images/fichiers/PAM_2019_Guide_daccueil_du_personnel_arrivant_Version_du_30_jan_2019.pdf
+Connecting to www.rsma.pf (www.rsma.pf)|91.121.39.47|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 789445 (771K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 25.6M 0s
+    50K .......... .......... .......... .......... .......... 12% 34.0M 0s
+   100K .......... .......... .......... .......... .......... 19% 98.7M 0s
+   150K .......... .......... .......... .......... .......... 25% 53.6M 0s
+   200K .......... .......... .......... .......... .......... 32% 73.1M 0s
+   250K .......... .......... .......... .......... .......... 38% 87.4M 0s
+   300K .......... .......... .......... .......... .......... 45% 51.2M 0s
+   350K .......... .......... .......... .......... .......... 51%  106M 0s
+   400K .......... .......... .......... .......... .......... 58% 51.3M 0s
+   450K .......... .......... .......... .......... .......... 64% 68.9M 0s
+   500K .......... .......... .......... .......... .......... 71% 66.7M 0s
+   550K .......... .......... .......... .......... .......... 77% 79.7M 0s
+   600K .......... .......... .......... .......... .......... 84%  110M 0s
+   650K .......... .......... .......... .......... .......... 90% 82.2M 0s
+   700K .......... .......... .......... .......... .......... 97% 63.3M 0s
+   750K .......... ..........                                 100%  281M=0.1s
+
+2020-03-02 03:49:18 (61.3 Mb/s) - ‘/dev/null’ saved [789445/789445]
+

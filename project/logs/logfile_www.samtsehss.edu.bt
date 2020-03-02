@@ -1,0 +1,11 @@
+--2020-03-02 00:39:26--  http://www.samtsehss.edu.bt/assets/form/program.pdf
+Resolving www.samtsehss.edu.bt (www.samtsehss.edu.bt)... 202.144.128.151
+Connecting to www.samtsehss.edu.bt (www.samtsehss.edu.bt)|202.144.128.151|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30011 (29K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .........                       100% 1.38M=0.2s
+
+2020-03-02 00:39:26 (1.38 Mb/s) - ‘/dev/null’ saved [30011/30011]
+

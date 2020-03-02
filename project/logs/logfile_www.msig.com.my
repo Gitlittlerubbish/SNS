@@ -1,0 +1,16 @@
+--2020-03-02 07:04:08--  http://www.msig.com.my/PDF/MSIG_FAQ_Leaflet_Hires_CH.pdf
+Resolving www.msig.com.my (www.msig.com.my)... 203.115.233.85
+Connecting to www.msig.com.my (www.msig.com.my)|203.115.233.85|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256383 (250K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19%  471K 3s
+    50K .......... .......... .......... .......... .......... 39%  712K 2s
+   100K .......... .......... .......... .......... .......... 59%  318K 2s
+   150K .......... .......... .......... .......... .......... 79%  720K 1s
+   200K .......... .......... .......... .......... .......... 99%  713K 0s
+   250K                                                       100% 61.3K=3.9s
+
+2020-03-02 07:04:13 (529 Kb/s) - ‘/dev/null’ saved [256383/256383]
+

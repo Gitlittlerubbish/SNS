@@ -1,0 +1,15 @@
+--2020-03-02 05:27:56--  http://www.optimus.com.kz/assets/default/img/pravo/dium_distance_marker_en.pdf
+Resolving www.optimus.com.kz (www.optimus.com.kz)... 185.98.7.111
+Connecting to www.optimus.com.kz (www.optimus.com.kz)|185.98.7.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246334 (241K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.66M 1s
+    50K .......... .......... .......... .......... .......... 41% 2.24M 1s
+   100K .......... .......... .......... .......... .......... 62%  216M 0s
+   150K .......... .......... .......... .......... .......... 83%  227M 0s
+   200K .......... .......... .......... ..........           100% 2.75M=0.6s
+
+2020-03-02 05:27:57 (3.56 Mb/s) - ‘/dev/null’ saved [246334/246334]
+

@@ -1,0 +1,25 @@
+--2020-03-02 04:13:10--  http://www.maga.gob.gt/download/Curriculum1.pdf
+Resolving www.maga.gob.gt (www.maga.gob.gt)... 181.114.15.104
+Connecting to www.maga.gob.gt (www.maga.gob.gt)|181.114.15.104|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.maga.gob.gt/download/Curriculum1.pdf [following]
+--2020-03-02 04:13:11--  https://www.maga.gob.gt/download/Curriculum1.pdf
+Connecting to www.maga.gob.gt (www.maga.gob.gt)|181.114.15.104|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 546709 (534K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9%  999K 4s
+    50K .......... .......... .......... .......... .......... 18% 3.20M 2s
+   100K .......... .......... .......... .......... .......... 28% 3.35M 2s
+   150K .......... .......... .......... .......... .......... 37% 82.7M 1s
+   200K .......... .......... .......... .......... .......... 46% 3.29M 1s
+   250K .......... .......... .......... .......... .......... 56% 3.30M 1s
+   300K .......... .......... .......... .......... .......... 65% 3.33M 1s
+   350K .......... .......... .......... .......... .......... 74% 3.37M 0s
+   400K .......... .......... .......... .......... .......... 84% 3.31M 0s
+   450K .......... .......... .......... .......... .......... 93% 61.0M 0s
+   500K .......... .......... .......... ...                  100% 2.35M=1.4s
+
+2020-03-02 04:13:15 (3.11 Mb/s) - ‘/dev/null’ saved [546709/546709]
+

@@ -1,0 +1,13 @@
+--2020-03-02 04:07:40--  http://agrotikosiatros.gr/documents/AERP-LSUHSC.pdf
+Resolving agrotikosiatros.gr (agrotikosiatros.gr)... 185.25.23.64
+Connecting to agrotikosiatros.gr (agrotikosiatros.gr)|185.25.23.64|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116706 (114K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 43% 2.99M 0s
+    50K .......... .......... .......... .......... .......... 87% 5.96M 0s
+   100K .......... ...                                        100%  117M=0.2s
+
+2020-03-02 04:07:41 (4.52 Mb/s) - ‘/dev/null’ saved [116706/116706]
+

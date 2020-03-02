@@ -1,0 +1,13 @@
+--2020-03-02 08:07:45--  http://www.apurvanepal.com.np/userfiles/DS_165_Rev01_Bergerthane_PU_Glossy_Finish.pdf
+Resolving www.apurvanepal.com.np (www.apurvanepal.com.np)... 95.216.42.40
+Connecting to www.apurvanepal.com.np (www.apurvanepal.com.np)|95.216.42.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128774 (126K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 5.50M 0s
+    50K .......... .......... .......... .......... .......... 79% 11.4M 0s
+   100K .......... .......... .....                           100% 61.5M=0.1s
+
+2020-03-02 08:07:45 (9.05 Mb/s) - ‘/dev/null’ saved [128774/128774]
+

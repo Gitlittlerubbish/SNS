@@ -1,0 +1,37 @@
+--2020-03-02 06:17:42--  http://www.cmc.com.lb/uploads/physicians/Claude_Tayar.pdf
+Resolving www.cmc.com.lb (www.cmc.com.lb)... 179.61.137.120
+Connecting to www.cmc.com.lb (www.cmc.com.lb)|179.61.137.120|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cmc.com.lb/uploads/physicians/Claude_Tayar.pdf [following]
+--2020-03-02 06:17:43--  https://www.cmc.com.lb/uploads/physicians/Claude_Tayar.pdf
+Connecting to www.cmc.com.lb (www.cmc.com.lb)|179.61.137.120|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 261873 (256K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 2.38M 1s
+    50K .......... .......... .......... .......... .......... 39% 4.71M 0s
+   100K .......... .......... .......... .......... .......... 58% 4.73M 0s
+   150K .......... .......... .......... .......... .......... 78% 4.84M 0s
+   200K .......... .......... .......... .......... .......... 97%  183M 0s
+   250K .....                                                 100%  940K=0.4s
+
+2020-03-02 06:17:44 (4.85 Mb/s) - ‘/dev/null’ saved [261873/261873]
+
+--2020-03-02 06:17:44--  http://www.cmc.com.lb/uploads/physicians/Ammar_Ghazale.pdf
+Resolving www.cmc.com.lb (www.cmc.com.lb)... 179.61.137.120
+Connecting to www.cmc.com.lb (www.cmc.com.lb)|179.61.137.120|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cmc.com.lb/uploads/physicians/Ammar_Ghazale.pdf [following]
+--2020-03-02 06:17:44--  https://www.cmc.com.lb/uploads/physicians/Ammar_Ghazale.pdf
+Connecting to www.cmc.com.lb (www.cmc.com.lb)|179.61.137.120|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107230 (105K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 2.39M 0s
+    50K .......... .......... .......... .......... .......... 95% 4.73M 0s
+   100K ....                                                  100%  729M=0.3s
+
+2020-03-02 06:17:45 (3.32 Mb/s) - ‘/dev/null’ saved [107230/107230]
+

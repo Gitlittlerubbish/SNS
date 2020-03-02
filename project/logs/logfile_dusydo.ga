@@ -1,0 +1,11 @@
+--2020-03-02 03:51:55--  http://dusydo.ga/627351.pdf
+Resolving dusydo.ga (dusydo.ga)... 195.20.52.39
+Connecting to dusydo.ga (dusydo.ga)|195.20.52.39|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 633 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  362M=0s
+
+2020-03-02 03:51:56 (362 Mb/s) - ‘/dev/null’ saved [633/633]
+

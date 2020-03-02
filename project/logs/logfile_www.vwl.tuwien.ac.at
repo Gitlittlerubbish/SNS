@@ -1,0 +1,13 @@
+--2020-03-01 23:43:13--  http://www.vwl.tuwien.ac.at/hanappi/AgeSo/rp/Nechyba_2004.pdf
+Resolving www.vwl.tuwien.ac.at (www.vwl.tuwien.ac.at)... 128.130.177.2
+Connecting to www.vwl.tuwien.ac.at (www.vwl.tuwien.ac.at)|128.130.177.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122319 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 4.76M 0s
+    50K .......... .......... .......... .......... .......... 83% 12.3M 0s
+   100K .......... .........                                  100% 6.43M=0.1s
+
+2020-03-01 23:43:14 (6.79 Mb/s) - ‘/dev/null’ saved [122319/122319]
+

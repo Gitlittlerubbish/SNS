@@ -1,0 +1,15 @@
+--2020-03-02 03:18:02--  http://www.kfs.edu.eg/pharmacy/pdf/201020151217236.pdf
+Resolving www.kfs.edu.eg (www.kfs.edu.eg)... 195.246.54.56
+Connecting to www.kfs.edu.eg (www.kfs.edu.eg)|195.246.54.56|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210445 (206K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 1.34M 1s
+    50K .......... .......... .......... .......... .......... 48% 5.27M 0s
+   100K .......... .......... .......... .......... .......... 72%  168M 0s
+   150K .......... .......... .......... .......... .......... 97% 5.65M 0s
+   200K .....                                                 100% 5.85M=0.5s
+
+2020-03-02 03:18:03 (3.61 Mb/s) - ‘/dev/null’ saved [210445/210445]
+

@@ -1,0 +1,13 @@
+--2020-03-01 23:18:54--  http://www.msal.gob.ar/images/stories/ministerio/intoxicaciones/policlorados/bifenilos_policlorados.pdf
+Resolving www.msal.gob.ar (www.msal.gob.ar)... 200.51.229.20
+Connecting to www.msal.gob.ar (www.msal.gob.ar)|200.51.229.20|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110764 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46%  333K 1s
+    50K .......... .......... .......... .......... .......... 92%  667K 0s
+   100K ........                                              100%  544M=1.8s
+
+2020-03-01 23:18:57 (481 Kb/s) - ‘/dev/null’ saved [110764/110764]
+

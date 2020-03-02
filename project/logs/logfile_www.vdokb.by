@@ -1,0 +1,13 @@
+--2020-03-02 00:14:14--  http://www.vdokb.by/posetiteljam/bronhastma.pdf
+Resolving www.vdokb.by (www.vdokb.by)... 93.125.99.79
+Connecting to www.vdokb.by (www.vdokb.by)|93.125.99.79|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124931 (122K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 3.36M 0s
+    50K .......... .......... .......... .......... .......... 81% 6.63M 0s
+   100K .......... .......... ..                              100% 81.9M=0.2s
+
+2020-03-02 00:14:15 (5.38 Mb/s) - ‘/dev/null’ saved [124931/124931]
+

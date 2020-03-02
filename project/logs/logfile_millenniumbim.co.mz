@@ -1,0 +1,26 @@
+--2020-03-02 07:59:19--  http://millenniumbim.co.mz/media/2882/cv_miguel_maya.pdf
+Resolving millenniumbim.co.mz (millenniumbim.co.mz)... 102.176.248.50
+Connecting to millenniumbim.co.mz (millenniumbim.co.mz)|102.176.248.50|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.millenniumbim.co.mz [following]
+--2020-03-02 07:59:20--  https://www.millenniumbim.co.mz/
+Resolving www.millenniumbim.co.mz (www.millenniumbim.co.mz)... 102.176.248.50
+Connecting to www.millenniumbim.co.mz (www.millenniumbim.co.mz)|102.176.248.50|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /pt/particulares/ [following]
+--2020-03-02 07:59:23--  https://www.millenniumbim.co.mz/pt/particulares/
+Reusing existing connection to www.millenniumbim.co.mz:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.millenniumbim.co.mz/pt/particulares [following]
+--2020-03-02 07:59:24--  https://www.millenniumbim.co.mz/pt/particulares
+Reusing existing connection to www.millenniumbim.co.mz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 108397 (106K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47%  777K 1s
+    50K .......... .......... .......... .......... .......... 94%  670K 0s
+   100K .....                                                 100%  521M=1.1s
+
+2020-03-02 07:59:25 (761 Kb/s) - ‘/dev/null’ saved [108397/108397]
+

@@ -1,0 +1,15 @@
+--2020-03-02 04:09:18--  http://www.kosmonaftis.gr/gomath/math_algeo/algeo_trianatomy.pdf
+Resolving www.kosmonaftis.gr (www.kosmonaftis.gr)... 94.130.71.189
+Connecting to www.kosmonaftis.gr (www.kosmonaftis.gr)|94.130.71.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236310 (231K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 7.20M 0s
+    50K .......... .......... .......... .......... .......... 43% 14.6M 0s
+   100K .......... .......... .......... .......... .......... 64% 92.0M 0s
+   150K .......... .......... .......... .......... .......... 86%  120M 0s
+   200K .......... .......... ..........                      100% 10.5M=0.1s
+
+2020-03-02 04:09:18 (16.2 Mb/s) - ‘/dev/null’ saved [236310/236310]
+

@@ -1,0 +1,15 @@
+--2020-03-02 03:42:08--  http://www.iss.school.fj/images/Council/Committee_Terms_of_Reference.pdf
+Resolving www.iss.school.fj (www.iss.school.fj)... 192.185.194.226
+Connecting to www.iss.school.fj (www.iss.school.fj)|192.185.194.226|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235986 (230K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.70M 1s
+    50K .......... .......... .......... .......... .......... 43% 3.44M 0s
+   100K .......... .......... .......... .......... .......... 65% 82.3M 0s
+   150K .......... .......... .......... .......... .......... 86%  352M 0s
+   200K .......... .......... ..........                      100% 2.15M=0.5s
+
+2020-03-02 03:42:10 (3.92 Mb/s) - ‘/dev/null’ saved [235986/235986]
+

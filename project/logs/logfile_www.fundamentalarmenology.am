@@ -1,0 +1,14 @@
+--2020-03-01 23:19:24--  http://www.fundamentalarmenology.am/datas/pdfs/388.pdf
+Resolving www.fundamentalarmenology.am (www.fundamentalarmenology.am)... 93.187.162.110
+Connecting to www.fundamentalarmenology.am (www.fundamentalarmenology.am)|93.187.162.110|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172441 (168K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 2.97M 0s
+    50K .......... .......... .......... .......... .......... 59% 5.77M 0s
+   100K .......... .......... .......... .......... .......... 89% 3.03M 0s
+   150K .......... ........                                   100%  127M=0.3s
+
+2020-03-01 23:19:25 (4.00 Mb/s) - ‘/dev/null’ saved [172441/172441]
+

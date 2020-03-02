@@ -1,0 +1,11 @@
+--2020-03-02 03:49:25--  http://www.intermat.pf/Equivalents_KRO-Mobil-shell.pdf
+Resolving www.intermat.pf (www.intermat.pf)... 123.50.65.171
+Connecting to www.intermat.pf (www.intermat.pf)|123.50.65.171|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5185 (5.1K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .....                                                 100%  133K=0.3s
+
+2020-03-02 03:49:26 (133 Kb/s) - ‘/dev/null’ saved [5185/5185]
+

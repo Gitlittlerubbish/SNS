@@ -1,0 +1,15 @@
+--2020-03-01 22:24:23--  http://casnos.com.dz/doc/doc_liste_des_medicaments_remboursables.pdf
+Resolving casnos.com.dz (casnos.com.dz)... 197.112.0.95
+Connecting to casnos.com.dz (casnos.com.dz)|197.112.0.95|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239468 (234K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21%  124M 0s
+    50K .......... .......... .......... .......... .......... 42% 7.02M 0s
+   100K .......... .......... .......... .......... .......... 64%  120M 0s
+   150K .......... .......... .......... .......... .......... 85% 7.12M 0s
+   200K .......... .......... .......... ...                  100%  157M=0.1s
+
+2020-03-01 22:24:25 (15.4 Mb/s) - ‘/dev/null’ saved [239468/239468]
+

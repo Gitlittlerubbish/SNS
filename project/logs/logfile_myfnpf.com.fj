@@ -1,0 +1,28 @@
+--2020-03-02 03:43:33--  http://myfnpf.com.fj/~myfnpf38/images/FORMS/MEMBERS/Voluntary_Registration_Form_final.pdf
+Resolving myfnpf.com.fj (myfnpf.com.fj)... 146.66.92.76
+Connecting to myfnpf.com.fj (myfnpf.com.fj)|146.66.92.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.myfnpf.com.fj/~myfnpf38/images/FORMS/MEMBERS/Voluntary_Registration_Form_final.pdf [following]
+--2020-03-02 03:43:34--  http://www.myfnpf.com.fj/~myfnpf38/images/FORMS/MEMBERS/Voluntary_Registration_Form_final.pdf
+Resolving www.myfnpf.com.fj (www.myfnpf.com.fj)... 146.66.92.76
+Reusing existing connection to myfnpf.com.fj:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.myfnpf.com.fj/~myfnpf38/images/FORMS/MEMBERS/Voluntary_Registration_Form_final.pdf [following]
+--2020-03-02 03:43:35--  https://www.myfnpf.com.fj/~myfnpf38/images/FORMS/MEMBERS/Voluntary_Registration_Form_final.pdf
+Connecting to www.myfnpf.com.fj (www.myfnpf.com.fj)|146.66.92.76|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://myfnpf.com.fj/images/FORMS/MEMBERS/Voluntary_Registration_Form_final.pdf [following]
+--2020-03-02 03:43:35--  https://myfnpf.com.fj/images/FORMS/MEMBERS/Voluntary_Registration_Form_final.pdf
+Connecting to myfnpf.com.fj (myfnpf.com.fj)|146.66.92.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225026 (220K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 2.33M 1s
+    50K .......... .......... .......... .......... .......... 45% 2.33M 0s
+   100K .......... .......... .......... .......... .......... 68%  106M 0s
+   150K .......... .......... .......... .......... .......... 91% 83.9M 0s
+   200K .......... .........                                  100%  967K=0.5s
+
+2020-03-02 03:43:37 (3.41 Mb/s) - ‘/dev/null’ saved [225026/225026]
+

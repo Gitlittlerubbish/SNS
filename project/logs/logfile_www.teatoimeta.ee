@@ -1,0 +1,13 @@
+--2020-03-02 03:31:41--  http://www.teatoimeta.ee/s2/664_779_64_Minu_5_meelt.pdf
+Resolving www.teatoimeta.ee (www.teatoimeta.ee)... 212.47.208.142
+Connecting to www.teatoimeta.ee (www.teatoimeta.ee)|212.47.208.142|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106739 (104K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 5.53M 0s
+    50K .......... .......... .......... .......... .......... 95% 11.7M 0s
+   100K ....                                                  100%  694K=0.1s
+
+2020-03-02 03:31:42 (7.83 Mb/s) - ‘/dev/null’ saved [106739/106739]
+

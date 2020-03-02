@@ -1,0 +1,18 @@
+--2020-03-02 06:28:08--  http://finasta.lt/files/Latvija/Q_A_3PL.pdf
+Resolving finasta.lt (finasta.lt)... 109.235.66.86
+Connecting to finasta.lt (finasta.lt)|109.235.66.86|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.invl.com/files/Latvija/Q_A_3PL.pdf [following]
+--2020-03-02 06:28:08--  https://www.invl.com/files/Latvija/Q_A_3PL.pdf
+Resolving www.invl.com (www.invl.com)... 109.235.66.86
+Connecting to www.invl.com (www.invl.com)|109.235.66.86|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153372 (150K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 5.08M 0s
+    50K .......... .......... .......... .......... .......... 66% 10.5M 0s
+   100K .......... .......... .......... .......... ......... 100% 9.66M=0.2s
+
+2020-03-02 06:28:08 (7.58 Mb/s) - ‘/dev/null’ saved [153372/153372]
+

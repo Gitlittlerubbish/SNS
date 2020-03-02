@@ -1,0 +1,20 @@
+--2020-03-01 23:05:39--  http://ir.voltabox.ag/download/companies/voltabox/Hauptversammlung/04_hv2018_Konzernabschluss2017.pdf
+Resolving ir.voltabox.ag (ir.voltabox.ag)... 212.18.19.47
+Connecting to ir.voltabox.ag (ir.voltabox.ag)|212.18.19.47|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ir.voltabox.ag/download/companies/voltabox/Hauptversammlung/04_hv2018_Konzernabschluss2017.pdf [following]
+--2020-03-01 23:05:39--  https://ir.voltabox.ag/download/companies/voltabox/Hauptversammlung/04_hv2018_Konzernabschluss2017.pdf
+Connecting to ir.voltabox.ag (ir.voltabox.ag)|212.18.19.47|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 273004 (267K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 18.1M 0s
+    50K .......... .......... .......... .......... .......... 37% 17.1M 0s
+   100K .......... .......... .......... .......... .......... 56% 17.1M 0s
+   150K .......... .......... .......... .......... .......... 75% 19.2M 0s
+   200K .......... .......... .......... .......... .......... 93% 93.4M 0s
+   250K .......... ......                                     100% 8.97M=0.1s
+
+2020-03-01 23:05:39 (19.6 Mb/s) - ‘/dev/null’ saved [273004/273004]
+

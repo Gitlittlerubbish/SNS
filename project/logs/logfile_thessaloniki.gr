@@ -1,0 +1,15 @@
+--2020-03-02 04:05:57--  http://thessaloniki.gr/telkat/
+Resolving thessaloniki.gr (thessaloniki.gr)... 84.205.252.236
+Connecting to thessaloniki.gr (thessaloniki.gr)|84.205.252.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://thessaloniki.gr/telkat/ [following]
+--2020-03-02 04:05:57--  https://thessaloniki.gr/telkat/
+Connecting to thessaloniki.gr (thessaloniki.gr)|84.205.252.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 83.0M=0s
+
+2020-03-02 04:05:57 (83.0 Mb/s) - ‘/dev/null’ saved [166/166]
+

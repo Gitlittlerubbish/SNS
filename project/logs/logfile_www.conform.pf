@@ -1,0 +1,16 @@
+--2020-03-02 03:48:23--  http://www.conform.pf/printpdf/124
+Resolving www.conform.pf (www.conform.pf)... 92.222.220.145
+Connecting to www.conform.pf (www.conform.pf)|92.222.220.145|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14.5M
+    50K .......... .......... .......... .......... .......... 28.5M
+   100K .......... .......... .......... .......... .......... 26.2M
+   150K .......... .......... .......... .......... .......... 28.2M
+   200K .......... .......... .......... .......... ..........  243M
+   250K .......... .....                                       1.13G=0.07s
+
+2020-03-02 03:48:26 (29.2 Mb/s) - ‘/dev/null’ saved [271852]
+

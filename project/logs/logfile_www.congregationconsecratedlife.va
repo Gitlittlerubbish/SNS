@@ -1,0 +1,12 @@
+--2020-03-02 04:24:21--  http://www.congregationconsecratedlife.va/content/dam/vitaconsacrata/PDF/Documenti/BEATITUDINI.pdf
+Resolving www.congregationconsecratedlife.va (www.congregationconsecratedlife.va)... 185.152.70.30
+Connecting to www.congregationconsecratedlife.va (www.congregationconsecratedlife.va)|185.152.70.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74723 (73K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68% 5.93M 0s
+    50K .......... .......... ..                              100% 34.2M=0.07s
+
+2020-03-02 04:24:21 (8.01 Mb/s) - ‘/dev/null’ saved [74723/74723]
+

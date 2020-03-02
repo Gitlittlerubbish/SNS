@@ -1,0 +1,22 @@
+--2020-03-02 05:21:43--  http://www.genuinejersey.je/media/1858/farm-shops.pdf
+Resolving www.genuinejersey.je (www.genuinejersey.je)... 54.246.135.146
+Connecting to www.genuinejersey.je (www.genuinejersey.je)|54.246.135.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.genuinejersey.je/media/1858/farm-shops.pdf [following]
+--2020-03-02 05:21:43--  https://www.genuinejersey.je/media/1858/farm-shops.pdf
+Connecting to www.genuinejersey.je (www.genuinejersey.je)|54.246.135.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 377024 (368K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 14.3M 0s
+    50K .......... .......... .......... .......... .......... 27%  209M 0s
+   100K .......... .......... .......... .......... .......... 40% 32.3M 0s
+   150K .......... .......... .......... .......... .......... 54%  148M 0s
+   200K .......... .......... .......... .......... .......... 67% 50.9M 0s
+   250K .......... .......... .......... .......... .......... 81% 84.8M 0s
+   300K .......... .......... .......... .......... .......... 95%  110M 0s
+   350K .......... ........                                   100% 70.8M=0.06s
+
+2020-03-02 05:21:43 (46.6 Mb/s) - ‘/dev/null’ saved [377024/377024]
+

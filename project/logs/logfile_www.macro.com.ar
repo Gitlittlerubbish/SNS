@@ -1,0 +1,18 @@
+--2020-03-01 23:06:18--  http://www.macro.com.ar/1517356342368/tarifario_b.pdf
+Resolving www.macro.com.ar (www.macro.com.ar)... 200.71.232.197
+Connecting to www.macro.com.ar (www.macro.com.ar)|200.71.232.197|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.macro.com.ar/1517356342368/tarifario_b.pdf [following]
+--2020-03-01 23:06:19--  https://www.macro.com.ar/1517356342368/tarifario_b.pdf
+Connecting to www.macro.com.ar (www.macro.com.ar)|200.71.232.197|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  333K
+    50K .......... .......... .......... .......... ..........  801K
+   100K .......... ...                                         78.7M=1.7s
+
+Last-modified header invalid -- time-stamp ignored.
+2020-03-01 23:06:22 (534 Kb/s) - ‘/dev/null’ saved [116171]
+

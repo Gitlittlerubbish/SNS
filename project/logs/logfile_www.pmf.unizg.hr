@@ -1,0 +1,12 @@
+--2020-03-02 02:54:37--  http://www.pmf.unizg.hr/_download/repository/Pravilnik_o_poslovima_s_posebnim_uvjetima_rada.pdf
+Resolving www.pmf.unizg.hr (www.pmf.unizg.hr)... 193.198.194.21
+Connecting to www.pmf.unizg.hr (www.pmf.unizg.hr)|193.198.194.21|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72584 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 5.25M 0s
+    50K .......... ..........                                 100% 81.7M=0.08s
+
+2020-03-02 02:54:38 (7.24 Mb/s) - ‘/dev/null’ saved [72584/72584]
+

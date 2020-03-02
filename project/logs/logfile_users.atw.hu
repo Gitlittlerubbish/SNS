@@ -1,0 +1,13 @@
+--2020-03-02 04:37:36--  http://users.atw.hu/wattmep/CRC/AN730a.pdf
+Resolving users.atw.hu (users.atw.hu)... 88.151.96.4
+Connecting to users.atw.hu (users.atw.hu)|88.151.96.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109182 (107K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 4.45M 0s
+    50K .......... .......... .......... .......... .......... 93% 5.14M 0s
+   100K ......                                                100%  221M=0.2s
+
+2020-03-02 04:37:36 (5.08 Mb/s) - ‘/dev/null’ saved [109182/109182]
+

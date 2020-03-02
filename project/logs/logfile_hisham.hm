@@ -1,0 +1,26 @@
+--2020-03-02 04:21:54--  http://hisham.hm/papers/peranconi_2003_ad_hoc_no_simmcast.pdf
+Resolving hisham.hm (hisham.hm)... 69.163.217.231
+Connecting to hisham.hm (hisham.hm)|69.163.217.231|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82638 (81K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 61% 1.55M 0s
+    50K .......... .......... ..........                      100% 84.1M=0.3s
+
+2020-03-02 04:21:54 (2.47 Mb/s) - ‘/dev/null’ saved [82638/82638]
+
+--2020-03-02 04:21:54--  http://hisham.hm/papers/muhammad_2004_quebrando_a_barreira.pdf
+Resolving hisham.hm (hisham.hm)... 69.163.217.231
+Connecting to hisham.hm (hisham.hm)|69.163.217.231|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172598 (169K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 1.53M 1s
+    50K .......... .......... .......... .......... .......... 59% 3.09M 0s
+   100K .......... .......... .......... .......... .......... 88%  137M 0s
+   150K .......... ........                                   100%  239M=0.4s
+
+2020-03-02 04:21:55 (3.41 Mb/s) - ‘/dev/null’ saved [172598/172598]
+

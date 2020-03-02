@@ -1,0 +1,13 @@
+--2020-03-02 05:08:36--  http://www.italianodimarca.it/pdf/english.pdf
+Resolving www.italianodimarca.it (www.italianodimarca.it)... 31.11.33.31
+Connecting to www.italianodimarca.it (www.italianodimarca.it)|31.11.33.31|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 126092 (123K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 4.25M 0s
+    50K .......... .......... .......... .......... .......... 81% 12.0M 0s
+   100K .......... .......... ...                             100%  151M=0.1s
+
+2020-03-02 05:08:38 (7.65 Mb/s) - ‘/dev/null’ saved [126092/126092]
+

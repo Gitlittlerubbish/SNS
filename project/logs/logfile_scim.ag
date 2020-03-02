@@ -1,0 +1,44 @@
+--2020-03-01 23:00:32--  http://scim.ag/Nocera
+Resolving scim.ag (scim.ag)... 67.199.248.13, 67.199.248.12
+Connecting to scim.ag (scim.ag)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-03-01 23:00:32--  http://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Resolving www.sciencemag.org (www.sciencemag.org)... 54.176.125.70, 52.52.73.120
+Connecting to www.sciencemag.org (www.sciencemag.org)|54.176.125.70|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-03-01 23:00:33--  https://www.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Connecting to www.sciencemag.org (www.sciencemag.org)|54.176.125.70|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-03-01 23:00:33--  http://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Resolving science.sciencemag.org (science.sciencemag.org)... 104.16.75.12, 104.16.74.12, 104.16.72.12, ...
+Connecting to science.sciencemag.org (science.sciencemag.org)|104.16.75.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-03-01 23:00:33--  https://science.sciencemag.org/content/early/2011/10/04/science.1209816.full.pdf
+Connecting to science.sciencemag.org (science.sciencemag.org)|104.16.75.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://science.sciencemag.org/content/sci/early/2011/10/04/science.1209816.full.pdf [following]
+--2020-03-01 23:00:34--  https://science.sciencemag.org/content/sci/early/2011/10/04/science.1209816.full.pdf
+Reusing existing connection to science.sciencemag.org:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://science.sciencemag.org/content/early/2011/10/04/science.1209816 [following]
+--2020-03-01 23:00:34--  https://science.sciencemag.org/content/early/2011/10/04/science.1209816
+Reusing existing connection to science.sciencemag.org:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://science.sciencemag.org/content/334/6056/645 [following]
+--2020-03-01 23:00:34--  https://science.sciencemag.org/content/334/6056/645
+Reusing existing connection to science.sciencemag.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 203678 (199K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  147M 0s
+    50K .......... .......... .......... .......... .......... 50%  649M 0s
+   100K .......... .......... .......... .......... .......... 75%  204M 0s
+   150K .......... .......... .......... .......... ........  100% 38.9M=0.02s
+
+2020-03-01 23:00:35 (104 Mb/s) - ‘/dev/null’ saved [203678/203678]
+

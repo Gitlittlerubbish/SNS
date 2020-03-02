@@ -1,0 +1,21 @@
+--2020-03-01 23:25:12--  http://www.idbank.am/Investment/legal_entity_eng.pdf
+Resolving www.idbank.am (www.idbank.am)... 193.57.28.71
+Connecting to www.idbank.am (www.idbank.am)|193.57.28.71|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.idbank.am/Investment/legal_entity_eng.pdf [following]
+--2020-03-01 23:25:13--  https://www.idbank.am/Investment/legal_entity_eng.pdf
+Connecting to www.idbank.am (www.idbank.am)|193.57.28.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 354851 (347K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 4.72M 1s
+    50K .......... .......... .......... .......... .......... 28% 5.04M 0s
+   100K .......... .......... .......... .......... .......... 43% 2.65M 0s
+   150K .......... .......... .......... .......... .......... 57% 1.27M 0s
+   200K .......... .......... .......... .......... .......... 72% 1.70M 0s
+   250K .......... .......... .......... .......... .......... 86% 1.68M 0s
+   300K .......... .......... .......... .......... ......    100% 2.45M=1.3s
+
+2020-03-01 23:25:14 (2.21 Mb/s) - ‘/dev/null’ saved [354851/354851]
+

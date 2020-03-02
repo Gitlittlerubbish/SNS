@@ -1,0 +1,15 @@
+--2020-03-02 00:38:13--  http://www.lhuentse.gov.bt/counter/direct_download/269
+Resolving www.lhuentse.gov.bt (www.lhuentse.gov.bt)... 43.230.208.9
+Connecting to www.lhuentse.gov.bt (www.lhuentse.gov.bt)|43.230.208.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 212201 (207K) [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  598K 2s
+    50K .......... .......... .......... .......... .......... 48% 2.50M 1s
+   100K .......... .......... .......... .......... .......... 72%  107M 0s
+   150K .......... .......... .......... .......... .......... 96%  249M 0s
+   200K .......                                               100%  613K=1.0s
+
+2020-03-02 00:38:15 (1.79 Mb/s) - ‘/dev/null’ saved [212201/212201]
+

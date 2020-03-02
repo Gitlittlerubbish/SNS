@@ -1,0 +1,30 @@
+--2020-03-02 04:14:49--  http://kek.gg/u/32mVx
+Resolving kek.gg (kek.gg)... 104.27.167.32, 104.27.166.32
+Connecting to kek.gg (kek.gg)|104.27.167.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kek.gg/u/32mVx [following]
+--2020-03-02 04:14:50--  https://kek.gg/u/32mVx
+Connecting to kek.gg (kek.gg)|104.27.167.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                   73.0M=0s
+
+2020-03-02 04:14:51 (73.0 Mb/s) - ‘/dev/null’ saved [4435]
+
+--2020-03-02 04:14:51--  http://kek.gg/u/CJNb
+Resolving kek.gg (kek.gg)... 104.27.167.32, 104.27.166.32
+Connecting to kek.gg (kek.gg)|104.27.167.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kek.gg/u/CJNb [following]
+--2020-03-02 04:14:51--  https://kek.gg/u/CJNb
+Connecting to kek.gg (kek.gg)|104.27.167.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ....                                                    152M=0s
+
+2020-03-02 04:14:51 (152 Mb/s) - ‘/dev/null’ saved [4495]
+

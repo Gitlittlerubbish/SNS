@@ -1,0 +1,18 @@
+--2020-03-02 00:00:02--  http://www.bahraincredit.com.bh/Administrator/MediaHandler/GenericHandler/documents/pdf/CC-Services-Fees-Charges.pdf
+Resolving www.bahraincredit.com.bh (www.bahraincredit.com.bh)... 63.34.213.48
+Connecting to www.bahraincredit.com.bh (www.bahraincredit.com.bh)|63.34.213.48|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://www.bahraincredit.com.bh/Administrator/MediaHandler/GenericHandler/documents/pdf/CC-Services-Fees-Charges.pdf [following]
+--2020-03-02 00:00:03--  https://www.bahraincredit.com.bh/Administrator/MediaHandler/GenericHandler/documents/pdf/CC-Services-Fees-Charges.pdf
+Connecting to www.bahraincredit.com.bh (www.bahraincredit.com.bh)|63.34.213.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170757 (167K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 13.5M 0s
+    50K .......... .......... .......... .......... .......... 59%  188M 0s
+   100K .......... .......... .......... .......... .......... 89% 23.0M 0s
+   150K .......... ......                                     100%  676M=0.05s
+
+2020-03-02 00:00:03 (27.0 Mb/s) - ‘/dev/null’ saved [170757/170757]
+

@@ -1,0 +1,12 @@
+--2020-03-02 00:32:49--  http://www.harbourfront.bm/christmas-menu.pdf
+Resolving www.harbourfront.bm (www.harbourfront.bm)... 50.116.16.213
+Connecting to www.harbourfront.bm (www.harbourfront.bm)|50.116.16.213|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72969 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 1.75M 0s
+    50K .......... .......... .                               100% 83.1M=0.2s
+
+2020-03-02 00:32:50 (2.48 Mb/s) - ‘/dev/null’ saved [72969/72969]
+

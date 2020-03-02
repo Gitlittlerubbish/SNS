@@ -1,0 +1,14 @@
+--2020-03-01 23:47:06--  http://www.elibrary.az/docs/qazet/qzt2019_4144.pdf
+Resolving www.elibrary.az (www.elibrary.az)... 85.132.27.188
+Connecting to www.elibrary.az (www.elibrary.az)|85.132.27.188|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 167316 (163K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 1.58M 1s
+    50K .......... .......... .......... .......... .......... 61% 4.40M 0s
+   100K .......... .......... .......... .......... .......... 91%  178M 0s
+   150K .......... ...                                        100% 1.55M=0.4s
+
+2020-03-01 23:47:07 (3.14 Mb/s) - ‘/dev/null’ saved [167316/167316]
+

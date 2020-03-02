@@ -1,0 +1,21 @@
+--2020-03-02 03:18:04--  http://fly.eg/Conditions_%26_terms.pdf
+Resolving fly.eg (fly.eg)... 188.40.68.212
+Connecting to fly.eg (fly.eg)|188.40.68.212|:80... connected.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: https://fly.eg/Conditions_&_terms.pdf [following]
+--2020-03-02 03:18:04--  https://fly.eg/Conditions_&_terms.pdf
+Connecting to fly.eg (fly.eg)|188.40.68.212|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319988 (312K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 9.03M 0s
+    50K .......... .......... .......... .......... .......... 32% 94.4M 0s
+   100K .......... .......... .......... .......... .......... 48% 18.2M 0s
+   150K .......... .......... .......... .......... .......... 64%  114M 0s
+   200K .......... .......... .......... .......... .......... 80% 19.6M 0s
+   250K .......... .......... .......... .......... .......... 96%  204M 0s
+   300K .......... ..                                         100%  186M=0.1s
+
+2020-03-02 03:18:04 (25.8 Mb/s) - ‘/dev/null’ saved [319988/319988]
+

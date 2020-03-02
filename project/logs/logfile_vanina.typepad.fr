@@ -1,0 +1,16 @@
+--2020-03-02 03:46:54--  http://vanina.typepad.fr/files/big_revolution_sentiments.pdf
+Resolving vanina.typepad.fr (vanina.typepad.fr)... 104.18.139.190, 104.18.140.190, 104.18.137.190, ...
+Connecting to vanina.typepad.fr (vanina.typepad.fr)|104.18.139.190|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://vanina.typepad.fr/files/big_revolution_sentiments.pdf [following]
+--2020-03-02 03:46:54--  https://vanina.typepad.fr/files/big_revolution_sentiments.pdf
+Connecting to vanina.typepad.fr (vanina.typepad.fr)|104.18.139.190|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91721 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55%  155M 0s
+    50K .......... .......... .......... .........            100%  423M=0.003s
+
+2020-03-02 03:46:55 (215 Mb/s) - ‘/dev/null’ saved [91721/91721]
+

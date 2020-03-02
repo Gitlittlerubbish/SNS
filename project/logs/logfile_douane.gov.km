@@ -1,0 +1,11 @@
+--2020-03-02 02:33:20--  http://douane.gov.km/file/textes-internationaux/8335convccd.pdf
+Resolving douane.gov.km (douane.gov.km)... 199.16.129.11
+Connecting to douane.gov.km (douane.gov.km)|199.16.129.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33712 (33K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..                   100% 3.02M=0.09s
+
+2020-03-02 02:33:20 (3.02 Mb/s) - ‘/dev/null’ saved [33712/33712]
+

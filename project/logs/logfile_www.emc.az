@@ -1,0 +1,41 @@
+--2020-03-01 23:48:44--  http://www.emc.az/collateral/TechnicalDocument/docu85469.pdf
+Resolving www.emc.az (www.emc.az)... 77.244.143.83, 77.244.143.73
+Connecting to www.emc.az (www.emc.az)|77.244.143.83|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/products/storage-5/docu85469.pdf [following]
+--2020-03-01 23:48:46--  http://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/products/storage-5/docu85469.pdf
+Resolving www.dellemc.com (www.dellemc.com)... 184.87.187.31
+Connecting to www.dellemc.com (www.dellemc.com)|184.87.187.31|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/products/storage-5/docu85469.pdf [following]
+--2020-03-01 23:48:46--  https://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/products/storage-5/docu85469.pdf
+Connecting to www.dellemc.com (www.dellemc.com)|184.87.187.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1082630 (1.0M) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  4% 80.0M 0s
+    50K .......... .......... .......... .......... ..........  9% 91.7M 0s
+   100K .......... .......... .......... .......... .......... 14% 88.7M 0s
+   150K .......... .......... .......... .......... .......... 18%  217M 0s
+   200K .......... .......... .......... .......... .......... 23% 74.0M 0s
+   250K .......... .......... .......... .......... .......... 28%  192M 0s
+   300K .......... .......... .......... .......... .......... 33%  269M 0s
+   350K .......... .......... .......... .......... .......... 37%  285M 0s
+   400K .......... .......... .......... .......... .......... 42% 81.1M 0s
+   450K .......... .......... .......... .......... .......... 47%  348M 0s
+   500K .......... .......... .......... .......... .......... 52% 30.0M 0s
+   550K .......... .......... .......... .......... .......... 56% 1.53G 0s
+   600K .......... .......... .......... .......... .......... 61%  845M 0s
+   650K .......... .......... .......... .......... .......... 66% 1.32G 0s
+   700K .......... .......... .......... .......... .......... 70%  133M 0s
+   750K .......... .......... .......... .......... .......... 75% 1.46G 0s
+   800K .......... .......... .......... .......... .......... 80% 89.2M 0s
+   850K .......... .......... .......... .......... .......... 85%  104M 0s
+   900K .......... .......... .......... .......... .......... 89%  321M 0s
+   950K .......... .......... .......... .......... .......... 94%  428M 0s
+  1000K .......... .......... .......... .......... .......... 99%  202M 0s
+  1050K .......                                               100% 1.52G=0.06s
+
+2020-03-01 23:48:47 (136 Mb/s) - ‘/dev/null’ saved [1082630/1082630]
+

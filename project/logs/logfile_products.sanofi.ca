@@ -1,0 +1,28 @@
+--2020-03-02 01:50:36--  http://products.sanofi.ca/en/suprax.pdf
+Resolving products.sanofi.ca (products.sanofi.ca)... 212.121.182.98
+Connecting to products.sanofi.ca (products.sanofi.ca)|212.121.182.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172399 (168K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 5.40M 0s
+    50K .......... .......... .......... .......... .......... 59% 19.0M 0s
+   100K .......... .......... .......... .......... .......... 89% 22.7M 0s
+   150K .......... ........                                   100% 28.9M=0.1s
+
+2020-03-02 01:50:36 (11.4 Mb/s) - ‘/dev/null’ saved [172399/172399]
+
+--2020-03-02 01:50:36--  http://products.sanofi.ca/fr/flagyl.pdf
+Resolving products.sanofi.ca (products.sanofi.ca)... 212.121.182.98
+Connecting to products.sanofi.ca (products.sanofi.ca)|212.121.182.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202630 (198K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 5.81M 0s
+    50K .......... .......... .......... .......... .......... 50% 16.3M 0s
+   100K .......... .......... .......... .......... .......... 75% 21.5M 0s
+   150K .......... .......... .......... .......... .......   100% 23.7M=0.1s
+
+2020-03-02 01:50:36 (12.3 Mb/s) - ‘/dev/null’ saved [202630/202630]
+

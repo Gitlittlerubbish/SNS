@@ -1,0 +1,13 @@
+--2020-03-02 07:13:46--  http://ooredoo.mv/uploads/omm-faq.pdf
+Resolving ooredoo.mv (ooredoo.mv)... 202.153.85.12
+Connecting to ooredoo.mv (ooredoo.mv)|202.153.85.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141137 (138K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36%  822K 1s
+    50K .......... .......... .......... .......... .......... 72% 1.92M 0s
+   100K .......... .......... .......... .......              100% 72.9M=0.7s
+
+2020-03-02 07:13:48 (1.58 Mb/s) - ‘/dev/null’ saved [141137/141137]
+

@@ -1,0 +1,13 @@
+--2020-03-01 23:43:12--  http://pdf4web.at/LinkedDocuments/kaufvertragprivat.pdf
+Resolving pdf4web.at (pdf4web.at)... 217.160.231.109
+Connecting to pdf4web.at (pdf4web.at)|217.160.231.109|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120623 (118K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 10.5M 0s
+    50K .......... .......... .......... .......... .......... 84% 23.5M 0s
+   100K .......... .......                                    100% 46.3M=0.06s
+
+2020-03-01 23:43:12 (16.2 Mb/s) - ‘/dev/null’ saved [120623/120623]
+

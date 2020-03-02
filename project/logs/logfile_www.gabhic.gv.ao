@@ -1,0 +1,19 @@
+--2020-03-01 22:39:09--  http://www.gabhic.gv.ao/output_efile.aspx%3Fid_file%3D1454
+Resolving www.gabhic.gv.ao (www.gabhic.gv.ao)... 93.104.209.173
+Connecting to www.gabhic.gv.ao (www.gabhic.gv.ao)|93.104.209.173|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /manutencao?aspxerrorpath=/output_efile.aspx?id_file=1454 [following]
+--2020-03-01 22:39:09--  http://www.gabhic.gv.ao/manutencao?aspxerrorpath=/output_efile.aspx?id_file=1454
+Reusing existing connection to www.gabhic.gv.ao:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.gabhic.gv.ao/manutencao/?aspxerrorpath=/output_efile.aspx?id_file=1454 [following]
+--2020-03-01 22:39:09--  http://www.gabhic.gv.ao/manutencao/?aspxerrorpath=/output_efile.aspx?id_file=1454
+Reusing existing connection to www.gabhic.gv.ao:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1525 (1.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  871M=0s
+
+2020-03-01 22:39:09 (871 Mb/s) - ‘/dev/null’ saved [1525/1525]
+

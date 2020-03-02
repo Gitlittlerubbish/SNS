@@ -1,0 +1,16 @@
+--2020-03-02 00:32:32--  http://www.latrattoria.bm/menu/dinner.pdf
+Resolving www.latrattoria.bm (www.latrattoria.bm)... 50.116.16.213
+Connecting to www.latrattoria.bm (www.latrattoria.bm)|50.116.16.213|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284359 (278K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 1.78M 1s
+    50K .......... .......... .......... .......... .......... 36% 3.44M 1s
+   100K .......... .......... .......... .......... .......... 54%  142M 0s
+   150K .......... .......... .......... .......... .......... 72% 3.44M 0s
+   200K .......... .......... .......... .......... .......... 90% 3.47M 0s
+   250K .......... .......... .......                         100%  141M=0.6s
+
+2020-03-02 00:32:33 (3.85 Mb/s) - ‘/dev/null’ saved [284359/284359]
+

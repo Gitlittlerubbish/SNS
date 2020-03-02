@@ -1,0 +1,14 @@
+--2020-03-02 07:58:12--  http://www.dra.uem.mz/images/edital_matriculas_2017_v3.pdf
+Resolving www.dra.uem.mz (www.dra.uem.mz)... 196.3.96.206
+Connecting to www.dra.uem.mz (www.dra.uem.mz)|196.3.96.206|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160371 (157K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.11M 1s
+    50K .......... .......... .......... .......... .......... 63% 2.22M 0s
+   100K .......... .......... .......... .......... .......... 95%  165M 0s
+   150K ......                                                100%  138M=0.6s
+
+2020-03-02 07:58:14 (2.31 Mb/s) - ‘/dev/null’ saved [160371/160371]
+

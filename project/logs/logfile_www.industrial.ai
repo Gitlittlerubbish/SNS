@@ -1,0 +1,25 @@
+--2020-03-01 22:42:28--  http://www.industrial.ai/sites/gemc.dev/files/panaview_for_mis1_mis2_mms3_operating_manual_english.pdf
+Resolving www.industrial.ai (www.industrial.ai)... 34.235.223.9
+Connecting to www.industrial.ai (www.industrial.ai)|34.235.223.9|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bakerhughesds.com/sites/g/files/cozyhq596/files/acquiadam_assets/panaview_for_mis1_mis2_mms3_operating_manual_english.pdf [following]
+--2020-03-01 22:42:28--  https://www.bakerhughesds.com/sites/g/files/cozyhq596/files/acquiadam_assets/panaview_for_mis1_mis2_mms3_operating_manual_english.pdf
+Resolving www.bakerhughesds.com (www.bakerhughesds.com)... 34.235.223.9
+Connecting to www.bakerhughesds.com (www.bakerhughesds.com)|34.235.223.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 505083 (493K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 4.80M 1s
+    50K .......... .......... .......... .......... .......... 20% 4.72M 1s
+   100K .......... .......... .......... .......... .......... 30%  194M 0s
+   150K .......... .......... .......... .......... .......... 40%  254M 0s
+   200K .......... .......... .......... .......... .......... 50% 4.76M 0s
+   250K .......... .......... .......... .......... .......... 60%  142M 0s
+   300K .......... .......... .......... .......... .......... 70% 5.07M 0s
+   350K .......... .......... .......... .......... .......... 81%  227M 0s
+   400K .......... .......... .......... .......... .......... 91%  230M 0s
+   450K .......... .......... .......... .......... ...       100%  137M=0.4s
+
+2020-03-01 22:42:29 (11.5 Mb/s) - ‘/dev/null’ saved [505083/505083]
+

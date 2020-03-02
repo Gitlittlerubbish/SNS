@@ -1,0 +1,17 @@
+--2020-03-02 01:21:40--  http://lp.vg/media/2015111703.pdf
+Resolving lp.vg (lp.vg)... 104.28.23.62, 104.28.22.62
+Connecting to lp.vg (lp.vg)|104.28.23.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lp.vg/media/2015111703.pdf [following]
+--2020-03-02 01:21:40--  https://lp.vg/media/2015111703.pdf
+Connecting to lp.vg (lp.vg)|104.28.23.62|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151966 (148K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 92.9M 0s
+    50K .......... .......... .......... .......... .......... 67% 31.8M 0s
+   100K .......... .......... .......... .......... ........  100%  311M=0.02s
+
+2020-03-02 01:21:40 (65.5 Mb/s) - ‘/dev/null’ saved [151966/151966]
+

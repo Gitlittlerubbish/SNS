@@ -1,0 +1,15 @@
+--2020-03-02 03:45:46--  http://www.diabetes.fi/files/3906/Liite_3._Hba1c-muuntotaulukko.pdf
+Resolving www.diabetes.fi (www.diabetes.fi)... 193.93.133.82
+Connecting to www.diabetes.fi (www.diabetes.fi)|193.93.133.82|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.diabetes.fi/files/3906/Liite_3._Hba1c-muuntotaulukko.pdf [following]
+--2020-03-02 03:45:47--  https://www.diabetes.fi/files/3906/Liite_3._Hba1c-muuntotaulukko.pdf
+Connecting to www.diabetes.fi (www.diabetes.fi)|193.93.133.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22825 (22K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..                              100% 54.7M=0.003s
+
+2020-03-02 03:45:47 (54.7 Mb/s) - ‘/dev/null’ saved [22825/22825]
+

@@ -1,0 +1,12 @@
+--2020-03-02 01:02:13--  http://www.ius.edu.ba/common/2014SpringChemistryProblemSample1.pdf
+Resolving www.ius.edu.ba (www.ius.edu.ba)... 217.75.198.212
+Connecting to www.ius.edu.ba (www.ius.edu.ba)|217.75.198.212|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94141 (92K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54% 2.57M 0s
+    50K .......... .......... .......... .......... .         100% 6.59M=0.2s
+
+2020-03-02 01:02:13 (3.56 Mb/s) - ‘/dev/null’ saved [94141/94141]
+

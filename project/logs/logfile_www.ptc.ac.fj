@@ -1,0 +1,13 @@
+--2020-03-02 03:42:13--  http://www.ptc.ac.fj/fastpage/downloads/HowToRead.pdf
+Resolving www.ptc.ac.fj (www.ptc.ac.fj)... 107.151.6.226
+Connecting to www.ptc.ac.fj (www.ptc.ac.fj)|107.151.6.226|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 142292 (139K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 2.82M 0s
+    50K .......... .......... .......... .......... .......... 71% 5.67M 0s
+   100K .......... .......... .......... ........             100% 63.4M=0.2s
+
+2020-03-02 03:42:14 (5.11 Mb/s) - ‘/dev/null’ saved [142292/142292]
+

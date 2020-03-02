@@ -1,0 +1,17 @@
+--2020-03-02 00:03:02--  http://www.visa.gov.bd/Img/MRV_FORM.pdf
+Resolving www.visa.gov.bd (www.visa.gov.bd)... 123.49.37.153
+Connecting to www.visa.gov.bd (www.visa.gov.bd)|123.49.37.153|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.visa.gov.bd/Img/MRV_FORM.pdf [following]
+--2020-03-02 00:03:05--  https://www.visa.gov.bd/Img/MRV_FORM.pdf
+Connecting to www.visa.gov.bd (www.visa.gov.bd)|123.49.37.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124451 (122K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41%  397K 1s
+    50K .......... .......... .......... .......... .......... 82%  664K 0s
+   100K .......... .......... .                               100%  865K=1.9s
+
+2020-03-02 00:03:14 (538 Kb/s) - ‘/dev/null’ saved [124451/124451]
+

@@ -1,0 +1,12 @@
+--2020-03-02 03:31:10--  http://www.maksumaksjad.ee/PDFdocs/MTA_juhend_170709.pdf
+Resolving www.maksumaksjad.ee (www.maksumaksjad.ee)... 212.47.208.131
+Connecting to www.maksumaksjad.ee (www.maksumaksjad.ee)|212.47.208.131|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85298 (83K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 60% 5.65M 0s
+    50K .......... .......... .......... ...                  100%  125M=0.07s
+
+2020-03-02 03:31:10 (9.14 Mb/s) - ‘/dev/null’ saved [85298/85298]
+

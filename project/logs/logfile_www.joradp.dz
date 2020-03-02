@@ -1,0 +1,38 @@
+--2020-03-01 22:19:03--  http://www.joradp.dz/TRV/F2003B03.pdf
+Resolving www.joradp.dz (www.joradp.dz)... 41.221.27.114
+Connecting to www.joradp.dz (www.joradp.dz)|41.221.27.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.joradp.dz/TRV/F2003B03.pdf [following]
+--2020-03-01 22:19:04--  https://www.joradp.dz/TRV/F2003B03.pdf
+Connecting to www.joradp.dz (www.joradp.dz)|41.221.27.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 177018 (173K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 3.37M 0s
+    50K .......... .......... .......... .......... .......... 57% 70.8M 0s
+   100K .......... .......... .......... .......... .......... 86% 6.91M 0s
+   150K .......... .......... ..                              100%  215M=0.2s
+
+2020-03-01 22:19:04 (7.55 Mb/s) - ‘/dev/null’ saved [177018/177018]
+
+--2020-03-01 22:19:04--  http://www.joradp.dz/TRV/A2007B13.pdf
+Resolving www.joradp.dz (www.joradp.dz)... 41.221.27.114
+Connecting to www.joradp.dz (www.joradp.dz)|41.221.27.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.joradp.dz/TRV/A2007B13.pdf [following]
+--2020-03-01 22:19:04--  https://www.joradp.dz/TRV/A2007B13.pdf
+Connecting to www.joradp.dz (www.joradp.dz)|41.221.27.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 286227 (280K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 3.31M 1s
+    50K .......... .......... .......... .......... .......... 35% 66.6M 0s
+   100K .......... .......... .......... .......... .......... 53% 6.44M 0s
+   150K .......... .......... .......... .......... .......... 71% 99.2M 0s
+   200K .......... .......... .......... .......... .......... 89% 7.54M 0s
+   250K .......... .......... .........                       100% 61.8M=0.3s
+
+2020-03-01 22:19:05 (8.95 Mb/s) - ‘/dev/null’ saved [286227/286227]
+

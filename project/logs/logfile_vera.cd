@@ -1,0 +1,57 @@
+--2020-03-02 02:34:28--  http://vera.cd/vulnerabilities
+Resolving vera.cd (vera.cd)... 67.199.248.12, 67.199.248.13
+Connecting to vera.cd (vera.cd)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.veracode.com/sites/default/files/Resources/Whitepapers/how-vulnerabilities-get-into-software-veracode.pdf [following]
+--2020-03-02 02:34:29--  https://www.veracode.com/sites/default/files/Resources/Whitepapers/how-vulnerabilities-get-into-software-veracode.pdf
+Resolving www.veracode.com (www.veracode.com)... 104.17.6.6, 104.17.7.6
+Connecting to www.veracode.com (www.veracode.com)|104.17.6.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 553239 (540K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 6.26M 1s
+    50K .......... .......... .......... .......... .......... 18% 3.13M 1s
+   100K .......... .......... .......... .......... .......... 27%  156M 1s
+   150K .......... .......... .......... .......... .......... 37%  290M 0s
+   200K .......... .......... .......... .......... .......... 46% 3.15M 0s
+   250K .......... .......... .......... .......... .......... 55%  273M 0s
+   300K .......... .......... .......... .......... .......... 64%  412M 0s
+   350K .......... .......... .......... .......... .......... 74%  424M 0s
+   400K .......... .......... .......... .......... .......... 83% 3.13M 0s
+   450K .......... .......... .......... .......... .......... 92%  231M 0s
+   500K .......... .......... .......... ..........           100%  823M=0.5s
+
+2020-03-02 02:34:31 (9.48 Mb/s) - ‘/dev/null’ saved [553239/553239]
+
+--2020-03-02 02:34:31--  http://vera.cd/2drJ8CL
+Resolving vera.cd (vera.cd)... 67.199.248.12, 67.199.248.13
+Connecting to vera.cd (vera.cd)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.veracode.com/sites/default/files/Resources/eBooks/7-kinds-of-security.pdf?utm_content=buffer5bf34&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer [following]
+--2020-03-02 02:34:31--  https://www.veracode.com/sites/default/files/Resources/eBooks/7-kinds-of-security.pdf?utm_content=buffer5bf34&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Resolving www.veracode.com (www.veracode.com)... 104.17.6.6, 104.17.7.6
+Connecting to www.veracode.com (www.veracode.com)|104.17.6.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 779367 (761K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 2.96M 2s
+    50K .......... .......... .......... .......... .......... 13% 2.94M 2s
+   100K .......... .......... .......... .......... .......... 19%  169M 1s
+   150K .......... .......... .......... .......... .......... 26%  362M 1s
+   200K .......... .......... .......... .......... .......... 32% 3.01M 1s
+   250K .......... .......... .......... .......... .......... 39%  557M 1s
+   300K .......... .......... .......... .......... .......... 45%  388M 0s
+   350K .......... .......... .......... .......... .......... 52%  181M 0s
+   400K .......... .......... .......... .......... .......... 59% 3.09M 0s
+   450K .......... .......... .......... .......... .......... 65% 96.5M 0s
+   500K .......... .......... .......... .......... .......... 72%  384M 0s
+   550K .......... .......... .......... .......... .......... 78%  330M 0s
+   600K .......... .......... .......... .......... .......... 85%  389M 0s
+   650K .......... .......... .......... .......... .......... 91%  209M 0s
+   700K .......... .......... .......... .......... .......... 98%  374M 0s
+   750K .......... .                                          100% 1.26G=0.6s
+
+2020-03-02 02:34:32 (11.0 Mb/s) - ‘/dev/null’ saved [779367/779367]
+

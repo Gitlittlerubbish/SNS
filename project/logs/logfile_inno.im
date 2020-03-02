@@ -1,0 +1,33 @@
+--2020-03-02 05:02:45--  http://inno.im/2vtj1mC
+Resolving inno.im (inno.im)... 67.199.248.13, 67.199.248.12
+Connecting to inno.im (inno.im)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.hse.gov.uk/pubns/indg417.pdf [following]
+--2020-03-02 05:02:45--  http://www.hse.gov.uk/pubns/indg417.pdf
+Resolving www.hse.gov.uk (www.hse.gov.uk)... 104.19.153.106, 104.19.152.106
+Connecting to www.hse.gov.uk (www.hse.gov.uk)|104.19.153.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hse.gov.uk/pubns/indg417.pdf [following]
+--2020-03-02 05:02:45--  https://www.hse.gov.uk/pubns/indg417.pdf
+Connecting to www.hse.gov.uk (www.hse.gov.uk)|104.19.153.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 677594 (662K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7%  127M 0s
+    50K .......... .......... .......... .......... .......... 15%  132M 0s
+   100K .......... .......... .......... .......... .......... 22%  450M 0s
+   150K .......... .......... .......... .......... .......... 30%  410M 0s
+   200K .......... .......... .......... .......... .......... 37%  160M 0s
+   250K .......... .......... .......... .......... .......... 45%  210M 0s
+   300K .......... .......... .......... .......... .......... 52%  201M 0s
+   350K .......... .......... .......... .......... .......... 60%  180M 0s
+   400K .......... .......... .......... .......... .......... 68%  233M 0s
+   450K .......... .......... .......... .......... .......... 75%  800M 0s
+   500K .......... .......... .......... .......... .......... 83%  155M 0s
+   550K .......... .......... .......... .......... .......... 90%  191M 0s
+   600K .......... .......... .......... .......... .......... 98%  251M 0s
+   650K .......... .                                          100% 1.63G=0.03s
+
+2020-03-02 05:02:46 (210 Mb/s) - ‘/dev/null’ saved [677594/677594]
+

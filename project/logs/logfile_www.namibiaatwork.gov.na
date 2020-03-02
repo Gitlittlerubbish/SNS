@@ -1,0 +1,16 @@
+--2020-03-02 08:02:40--  http://www.namibiaatwork.gov.na/images/pdf/2007_Labour_Act.pdf
+Resolving www.namibiaatwork.gov.na (www.namibiaatwork.gov.na)... 209.88.21.109
+Connecting to www.namibiaatwork.gov.na (www.namibiaatwork.gov.na)|209.88.21.109|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 297450 (290K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.00M 2s
+    50K .......... .......... .......... .......... .......... 34% 2.68M 1s
+   100K .......... .......... .......... .......... .......... 51%  108M 1s
+   150K .......... .......... .......... .......... .......... 68% 2.71M 0s
+   200K .......... .......... .......... .......... .......... 86%  112M 0s
+   250K .......... .......... .......... ..........           100%  108M=0.7s
+
+2020-03-02 08:02:42 (3.29 Mb/s) - ‘/dev/null’ saved [297450/297450]
+

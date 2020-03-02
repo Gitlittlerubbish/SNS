@@ -1,0 +1,12 @@
+--2020-03-01 22:13:55--  http://legacy.npa.gov.af/Documents/APPLeS.pdf
+Resolving legacy.npa.gov.af (legacy.npa.gov.af)... 13.209.224.22
+Connecting to legacy.npa.gov.af (legacy.npa.gov.af)|13.209.224.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72987 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70%  332K 1s
+    50K .......... .......... .                               100%  174M=1.2s
+
+2020-03-01 22:13:56 (473 Kb/s) - ‘/dev/null’ saved [72987/72987]
+

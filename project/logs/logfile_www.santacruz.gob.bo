@@ -1,0 +1,22 @@
+--2020-03-02 00:43:10--  http://www.santacruz.gob.bo/sczpdf/1598
+Resolving www.santacruz.gob.bo (www.santacruz.gob.bo)... 181.188.148.18
+Connecting to www.santacruz.gob.bo (www.santacruz.gob.bo)|181.188.148.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48678 (48K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......   100%  541K=0.7s
+
+2020-03-02 00:43:13 (541 Kb/s) - ‘/dev/null’ saved [48678/48678]
+
+--2020-03-02 00:46:30--  http://www.santacruz.gob.bo/sczpdf/308
+Resolving www.santacruz.gob.bo (www.santacruz.gob.bo)... 181.188.148.18
+Connecting to www.santacruz.gob.bo (www.santacruz.gob.bo)|181.188.148.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50539 (49K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......... 100%  253K=1.6s
+
+2020-03-02 00:46:33 (253 Kb/s) - ‘/dev/null’ saved [50539/50539]
+

@@ -1,0 +1,15 @@
+--2020-03-02 00:11:43--  http://jnu.ac.bd/assets/notice/5d4e5fc31b0d37bc0daf55f1b39cb483.pdf
+Resolving jnu.ac.bd (jnu.ac.bd)... 103.28.121.60
+Connecting to jnu.ac.bd (jnu.ac.bd)|103.28.121.60|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205390 (201K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  680K 2s
+    50K .......... .......... .......... .......... .......... 49% 1.32M 1s
+   100K .......... .......... .......... .......... .......... 74% 1.37M 0s
+   150K .......... .......... .......... .......... .......... 99% 1.33M 0s
+   200K                                                       100% 94.4K=1.5s
+
+2020-03-02 00:11:46 (1.08 Mb/s) - ‘/dev/null’ saved [205390/205390]
+

@@ -1,0 +1,15 @@
+--2020-03-02 07:14:54--  http://www.broffice.gov.mv/en/files/Annex_3_Legislative_Framework_for_Biodiversity_Conservation.pdf
+Resolving www.broffice.gov.mv (www.broffice.gov.mv)... 202.1.207.116
+Connecting to www.broffice.gov.mv (www.broffice.gov.mv)|202.1.207.116|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224415 (219K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  502K 3s
+    50K .......... .......... .......... .......... .......... 45% 1.01M 1s
+   100K .......... .......... .......... .......... .......... 68% 2.01M 1s
+   150K .......... .......... .......... .......... .......... 91% 2.03M 0s
+   200K .......... .........                                  100%  781M=1.6s
+
+2020-03-02 07:14:58 (1.10 Mb/s) - ‘/dev/null’ saved [224415/224415]
+

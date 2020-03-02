@@ -1,0 +1,25 @@
+--2020-03-01 22:31:51--  http://www.xamari.ad/pdf/435
+Resolving www.xamari.ad (www.xamari.ad)... 164.132.2.9
+Connecting to www.xamari.ad (www.xamari.ad)|164.132.2.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 6.34M
+    50K .......... .......... .......... .......... .......... 75.6M
+   100K ..........                                             3.31M=0.1s
+
+2020-03-01 22:31:53 (9.35 Mb/s) - ‘/dev/null’ saved [113642]
+
+--2020-03-01 22:31:53--  http://www.xamari.ad/pdf/283
+Resolving www.xamari.ad (www.xamari.ad)... 164.132.2.9
+Connecting to www.xamari.ad (www.xamari.ad)|164.132.2.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 6.39M
+    50K .......... ......                                       104M=0.07s
+
+2020-03-01 22:31:53 (8.30 Mb/s) - ‘/dev/null’ saved [67903]
+

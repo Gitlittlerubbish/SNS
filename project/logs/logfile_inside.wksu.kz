@@ -1,0 +1,46 @@
+--2020-03-02 05:25:02--  http://inside.wksu.kz/dmdocuments/%25D0%25A8%25D0%25B0%25D2%2593%25D1%258B%25D0%25BD_%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25BF%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2596%25D0%25BB%25D1%2596_%25D0%25BC%25D0%25B5%25D0%25BA%25D1%2582%25D0%25B5%25D0%25BF%25D1%2582%25D0%25B5%25D0%25B3%25D1%2596_%25D0%25BE%25D2%259B%25D1%258B%25D1%2582%25D1%2583_%25D3%2599%25D0%25B4%25D1%2596%25D1%2581%25D1%2582%25D0%25B5%25D0%25BC%25D0%25B5%25D1%2581%25D1%2596.pdf
+Resolving inside.wksu.kz (inside.wksu.kz)... 37.151.127.41
+Connecting to inside.wksu.kz (inside.wksu.kz)|37.151.127.41|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://inside.wksu.kz/dmdocuments/%D0%A8%D0%B0%D2%93%D1%8B%D0%BD_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%D1%96%D0%BB%D1%96_%D0%BC%D0%B5%D0%BA%D1%82%D0%B5%D0%BF%D1%82%D0%B5%D0%B3%D1%96_%D0%BE%D2%9B%D1%8B%D1%82%D1%83_%D3%99%D0%B4%D1%96%D1%81%D1%82%D0%B5%D0%BC%D0%B5%D1%81%D1%96.pdf [following]
+--2020-03-02 05:25:03--  https://inside.wksu.kz/dmdocuments/%D0%A8%D0%B0%D2%93%D1%8B%D0%BD_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%D1%96%D0%BB%D1%96_%D0%BC%D0%B5%D0%BA%D1%82%D0%B5%D0%BF%D1%82%D0%B5%D0%B3%D1%96_%D0%BE%D2%9B%D1%8B%D1%82%D1%83_%D3%99%D0%B4%D1%96%D1%81%D1%82%D0%B5%D0%BC%D0%B5%D1%81%D1%96.pdf
+Connecting to inside.wksu.kz (inside.wksu.kz)|37.151.127.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 530161 (518K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 1.66M 2s
+    50K .......... .......... .......... .......... .......... 19% 3.29M 2s
+   100K .......... .......... .......... .......... .......... 28%  365M 1s
+   150K .......... .......... .......... .......... .......... 38% 3.33M 1s
+   200K .......... .......... .......... .......... .......... 48%  210M 1s
+   250K .......... .......... .......... .......... .......... 57%  305M 0s
+   300K .......... .......... .......... .......... .......... 67% 3.35M 0s
+   350K .......... .......... .......... .......... .......... 77%  200M 0s
+   400K .......... .......... .......... .......... .......... 86%  276M 0s
+   450K .......... .......... .......... .......... .......... 96% 3.48M 0s
+   500K .......... .......                                    100%  202M=0.7s
+
+2020-03-02 05:25:05 (5.72 Mb/s) - ‘/dev/null’ saved [530161/530161]
+
+--2020-03-02 05:25:05--  http://inside.wksu.kz/dmdocuments/%25D0%2596%25D0%25B5%25D2%25A3%25D1%2596%25D0%25BB_%25D0%25B0%25D1%2582%25D0%25BB%25D0%25B5%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B0_%25D0%25BE%25D2%259B%25D1%258B%25D1%2582%25D1%2583_%25D3%2599%25D0%25B4%25D1%2596%25D1%2581%25D1%2582%25D0%25B5%25D0%25BC%25D0%25B5%25D1%2581%25D1%2596.pdf
+Resolving inside.wksu.kz (inside.wksu.kz)... 37.151.127.41
+Connecting to inside.wksu.kz (inside.wksu.kz)|37.151.127.41|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://inside.wksu.kz/dmdocuments/%D0%96%D0%B5%D2%A3%D1%96%D0%BB_%D0%B0%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%BE%D2%9B%D1%8B%D1%82%D1%83_%D3%99%D0%B4%D1%96%D1%81%D1%82%D0%B5%D0%BC%D0%B5%D1%81%D1%96.pdf [following]
+--2020-03-02 05:25:05--  https://inside.wksu.kz/dmdocuments/%D0%96%D0%B5%D2%A3%D1%96%D0%BB_%D0%B0%D1%82%D0%BB%D0%B5%D1%82%D0%B8%D0%BA%D0%B0_%D0%BE%D2%9B%D1%8B%D1%82%D1%83_%D3%99%D0%B4%D1%96%D1%81%D1%82%D0%B5%D0%BC%D0%B5%D1%81%D1%96.pdf
+Connecting to inside.wksu.kz (inside.wksu.kz)|37.151.127.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310980 (304K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 1.62M 1s
+    50K .......... .......... .......... .......... .......... 32% 3.28M 1s
+   100K .......... .......... .......... .......... .......... 49% 3.30M 1s
+   150K .......... .......... .......... .......... .......... 65%  205M 0s
+   200K .......... .......... .......... .......... .......... 82%  111M 0s
+   250K .......... .......... .......... .......... .......... 98% 3.34M 0s
+   300K ...                                                   100%  605K=0.6s
+
+2020-03-02 05:25:06 (3.95 Mb/s) - ‘/dev/null’ saved [310980/310980]
+

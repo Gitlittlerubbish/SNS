@@ -1,0 +1,12 @@
+--2020-03-02 03:54:54--  http://www.coastaleliteproperties.gm/pdf/Estate-Coastal-Garden-Plan.pdf
+Resolving www.coastaleliteproperties.gm (www.coastaleliteproperties.gm)... 109.108.140.33
+Connecting to www.coastaleliteproperties.gm (www.coastaleliteproperties.gm)|109.108.140.33|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71219 (70K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 71% 16.4M 0s
+    50K .......... .........                                  100% 72.2M=0.03s
+
+2020-03-02 03:54:54 (21.0 Mb/s) - ‘/dev/null’ saved [71219/71219]
+

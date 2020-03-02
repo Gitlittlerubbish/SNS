@@ -1,0 +1,26 @@
+--2020-03-02 02:28:37--  http://qbe.co/29kIvpk
+Resolving qbe.co (qbe.co)... 67.199.248.12, 67.199.248.13
+Connecting to qbe.co (qbe.co)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.accc.gov.au/system/files/Hot water bottles safety alert.pdf?linkId=26210235 [following]
+--2020-03-02 02:28:37--  https://www.accc.gov.au/system/files/Hot%20water%20bottles%20safety%20alert.pdf?linkId=26210235
+Resolving www.accc.gov.au (www.accc.gov.au)... 152.91.53.202
+Connecting to www.accc.gov.au (www.accc.gov.au)|152.91.53.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 524235 (512K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9%  666K 6s
+    50K .......... .......... .......... .......... .......... 19% 1.37M 4s
+   100K .......... .......... .......... .......... .......... 29% 1.29M 3s
+   150K .......... .......... .......... .......... .......... 39% 1.35M 2s
+   200K .......... .......... .......... .......... .......... 48%  985M 2s
+   250K .......... .......... .......... .......... .......... 58% 1.38M 1s
+   300K .......... .......... .......... .......... .......... 68%  193M 1s
+   350K .......... .......... .......... .......... .......... 78%  215M 1s
+   400K .......... .......... .......... .......... .......... 87% 1.31M 0s
+   450K .......... .......... .......... .......... .......... 97%  189M 0s
+   500K .......... .                                          100%  384M=2.2s
+
+2020-03-02 02:28:41 (1.95 Mb/s) - ‘/dev/null’ saved [524235/524235]
+

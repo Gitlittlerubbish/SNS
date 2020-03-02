@@ -1,0 +1,15 @@
+--2020-03-01 23:33:54--  http://www.snowymovies.com.au/cooma.pdf
+Resolving www.snowymovies.com.au (www.snowymovies.com.au)... 116.0.23.233
+Connecting to www.snowymovies.com.au (www.snowymovies.com.au)|116.0.23.233|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250088 (244K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20%  666K 2s
+    50K .......... .......... .......... .......... .......... 40%  667K 2s
+   100K .......... .......... .......... .......... .......... 61% 1.33M 1s
+   150K .......... .......... .......... .......... .......... 81%  299M 0s
+   200K .......... .......... .......... .......... ....      100% 1.18M=1.8s
+
+2020-03-01 23:33:56 (1.09 Mb/s) - ‘/dev/null’ saved [250088/250088]
+

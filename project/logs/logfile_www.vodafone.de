@@ -1,0 +1,17 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 04:00:11--  https://www.vodafone.de/infofaxe/251.pdf
+Resolving www.vodafone.de (www.vodafone.de)... 139.7.147.41
+Connecting to www.vodafone.de (www.vodafone.de)|139.7.147.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260329 (254K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 9.69M 0s
+    50K .......... .......... .......... .......... .......... 39% 20.4M 0s
+   100K .......... .......... .......... .......... .......... 59%  126M 0s
+   150K .......... .......... .......... .......... .......... 78%  632M 0s
+   200K .......... .......... .......... .......... .......... 98% 18.7M 0s
+   250K ....                                                  100%  693K=0.09s
+
+2020-03-02 04:00:12 (23.6 Mb/s) - ‘/dev/null’ saved [260329/260329]
+

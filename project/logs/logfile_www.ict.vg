@@ -1,0 +1,12 @@
+--2020-03-02 01:21:46--  http://www.ict.vg/newspdfs/bvi_platinum_document1.pdf
+Resolving www.ict.vg (www.ict.vg)... 65.254.231.110
+Connecting to www.ict.vg (www.ict.vg)|65.254.231.110|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65601 (64K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 78% 1.39M 0s
+    50K .......... ....                                       100% 1.53M=0.4s
+
+2020-03-02 01:21:47 (1.42 Mb/s) - ‘/dev/null’ saved [65601/65601]
+

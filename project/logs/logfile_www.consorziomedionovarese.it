@@ -1,0 +1,15 @@
+--2020-03-02 05:08:59--  http://www.consorziomedionovarese.it/Download/TabellaSimboli.pdf
+Resolving www.consorziomedionovarese.it (www.consorziomedionovarese.it)... 151.11.50.116
+Connecting to www.consorziomedionovarese.it (www.consorziomedionovarese.it)|151.11.50.116|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 240399 (235K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 3.88M 0s
+    50K .......... .......... .......... .......... .......... 42% 12.0M 0s
+   100K .......... .......... .......... .......... .......... 63% 84.1M 0s
+   150K .......... .......... .......... .......... .......... 85% 12.7M 0s
+   200K .......... .......... .......... ....                 100%  110M=0.2s
+
+2020-03-02 05:08:59 (10.7 Mb/s) - ‘/dev/null’ saved [240399/240399]
+

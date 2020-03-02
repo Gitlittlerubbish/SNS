@@ -1,0 +1,18 @@
+--2020-03-02 07:30:58--  http://sabritas.com.mx/tyc/sabritas_promo_embolsate_una_lana_2019_chatbot.pdf
+Resolving sabritas.com.mx (sabritas.com.mx)... 52.87.93.232, 34.192.253.67, 3.232.115.11
+Connecting to sabritas.com.mx (sabritas.com.mx)|52.87.93.232|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sabritas.com.mx:443/tyc/sabritas_promo_embolsate_una_lana_2019_chatbot.pdf [following]
+--2020-03-02 07:30:59--  https://sabritas.com.mx/tyc/sabritas_promo_embolsate_una_lana_2019_chatbot.pdf
+Connecting to sabritas.com.mx (sabritas.com.mx)|52.87.93.232|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159806 (156K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 4.79M 0s
+    50K .......... .......... .......... .......... .......... 64% 4.87M 0s
+   100K .......... .......... .......... .......... .......... 96%  132M 0s
+   150K ......                                                100% 1.13G=0.2s
+
+2020-03-02 07:30:59 (7.40 Mb/s) - ‘/dev/null’ saved [159806/159806]
+

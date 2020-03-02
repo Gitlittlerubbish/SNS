@@ -1,0 +1,56 @@
+--2020-03-02 04:00:54--  http://www.gasthof-schwarz.de/abokarte.html
+Resolving www.gasthof-schwarz.de (www.gasthof-schwarz.de)... 62.113.207.80
+Connecting to www.gasthof-schwarz.de (www.gasthof-schwarz.de)|62.113.207.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gasthof-schwarz.de/abokarte.html [following]
+--2020-03-02 04:00:54--  https://www.gasthof-schwarz.de/abokarte.html
+Connecting to www.gasthof-schwarz.de (www.gasthof-schwarz.de)|62.113.207.80|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.gasthof-schwarz.de/fileadmin/user_upload/pdf/abo.pdf [following]
+--2020-03-02 04:00:55--  http://www.gasthof-schwarz.de/fileadmin/user_upload/pdf/abo.pdf
+Connecting to www.gasthof-schwarz.de (www.gasthof-schwarz.de)|62.113.207.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gasthof-schwarz.de/fileadmin/user_upload/pdf/abo.pdf [following]
+--2020-03-02 04:00:55--  https://www.gasthof-schwarz.de/fileadmin/user_upload/pdf/abo.pdf
+Connecting to www.gasthof-schwarz.de (www.gasthof-schwarz.de)|62.113.207.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293146 (286K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 22.1M 0s
+    50K .......... .......... .......... .......... .......... 34% 17.1M 0s
+   100K .......... .......... .......... .......... .......... 52%  482M 0s
+   150K .......... .......... .......... .......... .......... 69% 29.6M 0s
+   200K .......... .......... .......... .......... .......... 87% 47.1M 0s
+   250K .......... .......... .......... ......               100%  613M=0.07s
+
+2020-03-02 04:00:55 (35.4 Mb/s) - ‘/dev/null’ saved [293146/293146]
+
+--2020-03-02 04:00:56--  http://www.gasthof-schwarz.de/abokarte.html
+Resolving www.gasthof-schwarz.de (www.gasthof-schwarz.de)... 62.113.207.80
+Connecting to www.gasthof-schwarz.de (www.gasthof-schwarz.de)|62.113.207.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gasthof-schwarz.de/abokarte.html [following]
+--2020-03-02 04:00:56--  https://www.gasthof-schwarz.de/abokarte.html
+Connecting to www.gasthof-schwarz.de (www.gasthof-schwarz.de)|62.113.207.80|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.gasthof-schwarz.de/fileadmin/user_upload/pdf/abo.pdf [following]
+--2020-03-02 04:00:56--  http://www.gasthof-schwarz.de/fileadmin/user_upload/pdf/abo.pdf
+Connecting to www.gasthof-schwarz.de (www.gasthof-schwarz.de)|62.113.207.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gasthof-schwarz.de/fileadmin/user_upload/pdf/abo.pdf [following]
+--2020-03-02 04:00:56--  https://www.gasthof-schwarz.de/fileadmin/user_upload/pdf/abo.pdf
+Connecting to www.gasthof-schwarz.de (www.gasthof-schwarz.de)|62.113.207.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293146 (286K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 19.1M 0s
+    50K .......... .......... .......... .......... .......... 34% 24.2M 0s
+   100K .......... .......... .......... .......... .......... 52% 86.7M 0s
+   150K .......... .......... .......... .......... .......... 69% 40.7M 0s
+   200K .......... .......... .......... .......... .......... 87% 61.5M 0s
+   250K .......... .......... .......... ......               100%  121M=0.06s
+
+2020-03-02 04:00:56 (37.7 Mb/s) - ‘/dev/null’ saved [293146/293146]
+

@@ -1,0 +1,18 @@
+--2020-03-02 03:37:50--  http://ls.fo/media/2768/patientidentifikation.pdf
+Resolving ls.fo (ls.fo)... 212.55.52.84
+Connecting to ls.fo (ls.fo)|212.55.52.84|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://ls.fo/media/2768/patientidentifikation.pdf [following]
+--2020-03-02 03:37:50--  https://ls.fo/media/2768/patientidentifikation.pdf
+Connecting to ls.fo (ls.fo)|212.55.52.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176213 (172K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 3.44M 0s
+    50K .......... .......... .......... .......... .......... 58% 3.65M 0s
+   100K .......... .......... .......... .......... .......... 87%  108M 0s
+   150K .......... .......... ..                              100% 3.29M=0.3s
+
+2020-03-02 03:37:51 (4.86 Mb/s) - ‘/dev/null’ saved [176213/176213]
+

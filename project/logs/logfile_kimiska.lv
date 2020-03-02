@@ -1,0 +1,17 @@
+--2020-03-02 06:14:02--  http://kimiska.lv/Uploads/Audumu_apzimejumi.pdf
+Resolving kimiska.lv (kimiska.lv)... 104.27.178.117, 104.27.179.117
+Connecting to kimiska.lv (kimiska.lv)|104.27.178.117|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kimiska.lv/Uploads/Audumu_apzimejumi.pdf [following]
+--2020-03-02 06:14:02--  https://kimiska.lv/Uploads/Audumu_apzimejumi.pdf
+Connecting to kimiska.lv (kimiska.lv)|104.27.178.117|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121770 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 12.2M 0s
+    50K .......... .......... .......... .......... .......... 84%  117M 0s
+   100K .......... ........                                   100%  344M=0.04s
+
+2020-03-02 06:14:02 (26.0 Mb/s) - ‘/dev/null’ saved [121770/121770]
+

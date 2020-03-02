@@ -1,0 +1,25 @@
+--2020-03-02 08:29:32--  http://www.aut.ac.nz/city-campus-map
+Resolving www.aut.ac.nz (www.aut.ac.nz)... 156.62.238.90
+Connecting to www.aut.ac.nz (www.aut.ac.nz)|156.62.238.90|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aut.ac.nz/city-campus-map [following]
+--2020-03-02 08:29:33--  https://www.aut.ac.nz/city-campus-map
+Connecting to www.aut.ac.nz (www.aut.ac.nz)|156.62.238.90|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.aut.ac.nz/__data/assets/pdf_file/0011/118919/AUT-campus-map-city.pdf [following]
+--2020-03-02 08:29:34--  https://www.aut.ac.nz/__data/assets/pdf_file/0011/118919/AUT-campus-map-city.pdf
+Reusing existing connection to www.aut.ac.nz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 349065 (341K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 1.46M 2s
+    50K .......... .......... .......... .......... .......... 29% 1.11M 2s
+   100K .......... .......... .......... .......... .......... 44%  253M 1s
+   150K .......... .......... .......... .......... .......... 58%  317M 0s
+   200K .......... .......... .......... .......... .......... 73% 1.37M 0s
+   250K .......... .......... .......... .......... .......... 88%  381M 0s
+   300K .......... .......... .......... ..........           100% 1.21M=1.2s
+
+2020-03-02 08:29:36 (2.27 Mb/s) - ‘/dev/null’ saved [349065/349065]
+

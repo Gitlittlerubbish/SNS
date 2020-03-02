@@ -1,0 +1,17 @@
+--2020-03-02 02:54:38--  http://poduke-itd.hr/naucimozajedno/instrukcije/potencije.pdf
+Resolving poduke-itd.hr (poduke-itd.hr)... 178.218.173.20
+Connecting to poduke-itd.hr (poduke-itd.hr)|178.218.173.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://poduke-itd.hr/naucimozajedno/instrukcije/potencije.pdf [following]
+--2020-03-02 02:54:38--  https://poduke-itd.hr/naucimozajedno/instrukcije/potencije.pdf
+Connecting to poduke-itd.hr (poduke-itd.hr)|178.218.173.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 142739 (139K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 5.43M 0s
+    50K .......... .......... .......... .......... .......... 71% 10.5M 0s
+   100K .......... .......... .......... .........            100% 9.30M=0.1s
+
+2020-03-02 02:54:39 (7.65 Mb/s) - ‘/dev/null’ saved [142739/142739]
+

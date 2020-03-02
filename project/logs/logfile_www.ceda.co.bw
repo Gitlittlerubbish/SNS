@@ -1,0 +1,12 @@
+--2020-03-02 01:07:37--  http://www.ceda.co.bw/sites/default/files/agribusiness_checklist.pdf
+Resolving www.ceda.co.bw (www.ceda.co.bw)... 83.143.28.82
+Connecting to www.ceda.co.bw (www.ceda.co.bw)|83.143.28.82|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77763 (76K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65% 1.05M 0s
+    50K .......... .......... .....                           100% 1.09M=0.6s
+
+2020-03-02 01:07:38 (1.06 Mb/s) - ‘/dev/null’ saved [77763/77763]
+

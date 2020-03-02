@@ -1,0 +1,14 @@
+--2020-03-02 01:01:22--  http://finpos.ba/files/Primjeri_obracuna_plate_za_porodilje.pdf
+Resolving finpos.ba (finpos.ba)... 88.99.103.38
+Connecting to finpos.ba (finpos.ba)|88.99.103.38|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180042 (176K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 7.25M 0s
+    50K .......... .......... .......... .......... .......... 56% 15.0M 0s
+   100K .......... .......... .......... .......... .......... 85%  121M 0s
+   150K .......... .......... .....                           100%  401M=0.09s
+
+2020-03-02 01:01:22 (16.4 Mb/s) - ‘/dev/null’ saved [180042/180042]
+

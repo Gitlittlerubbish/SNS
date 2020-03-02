@@ -1,0 +1,24 @@
+--2020-03-02 04:15:05--  http://www.oneesports.gg/maff-tekken-tournament-rules
+Resolving www.oneesports.gg (www.oneesports.gg)... 54.255.218.182, 52.77.93.121
+Connecting to www.oneesports.gg (www.oneesports.gg)|54.255.218.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.oneesports.gg/maff-tekken-tournament-rules [following]
+--2020-03-02 04:15:06--  https://www.oneesports.gg/maff-tekken-tournament-rules
+Connecting to www.oneesports.gg (www.oneesports.gg)|54.255.218.182|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://cdn.oneesports.gg/wp-content/uploads/2019/09/9-Sept-ONE-TEKKEN-7-TOKYO-INVITATIONALS-RULES.pdf [following]
+--2020-03-02 04:15:07--  https://cdn.oneesports.gg/wp-content/uploads/2019/09/9-Sept-ONE-TEKKEN-7-TOKYO-INVITATIONALS-RULES.pdf
+Resolving cdn.oneesports.gg (cdn.oneesports.gg)... 13.224.130.31, 13.224.130.73, 13.224.130.40, ...
+Connecting to cdn.oneesports.gg (cdn.oneesports.gg)|13.224.130.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 248431 (243K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.68M 1s
+    50K .......... .......... .......... .......... .......... 41%  132M 0s
+   100K .......... .......... .......... .......... .......... 61% 2.58M 0s
+   150K .......... .......... .......... .......... .......... 82%  110M 0s
+   200K .......... .......... .......... .......... ..        100%  452M=0.4s
+
+2020-03-02 04:15:08 (4.85 Mb/s) - ‘/dev/null’ saved [248431/248431]
+

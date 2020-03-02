@@ -1,0 +1,18 @@
+--2020-03-02 05:21:19--  http://nationaltrust.je/rockpool/SeashoreFoodChains.pdf
+Resolving nationaltrust.je (nationaltrust.je)... 193.203.241.81
+Connecting to nationaltrust.je (nationaltrust.je)|193.203.241.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://nationaltrust.je/rockpool/SeashoreFoodChains.pdf [following]
+--2020-03-02 05:21:19--  https://nationaltrust.je/rockpool/SeashoreFoodChains.pdf
+Connecting to nationaltrust.je (nationaltrust.je)|193.203.241.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188376 (184K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 17.3M 0s
+    50K .......... .......... .......... .......... .......... 54% 30.0M 0s
+   100K .......... .......... .......... .......... .......... 81% 12.8M 0s
+   150K .......... .......... .......... ...                  100% 13.8M=0.09s
+
+2020-03-02 05:21:20 (16.9 Mb/s) - ‘/dev/null’ saved [188376/188376]
+

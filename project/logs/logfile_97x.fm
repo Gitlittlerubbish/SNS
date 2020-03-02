@@ -1,0 +1,24 @@
+--2020-03-02 07:35:22--  http://97x.fm/images/cap-times.pdf
+Resolving 97x.fm (97x.fm)... 74.208.236.78
+Connecting to 97x.fm (97x.fm)|74.208.236.78|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61733 (60K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 82% 1.95M 0s
+    50K ..........                                            100% 3.53M=0.2s
+
+2020-03-02 07:35:23 (2.11 Mb/s) - ‘/dev/null’ saved [61733/61733]
+
+--2020-03-02 07:35:24--  http://97x.fm/images/cap-times.pdf
+Resolving 97x.fm (97x.fm)... 74.208.236.78
+Connecting to 97x.fm (97x.fm)|74.208.236.78|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61733 (60K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 82% 1.89M 0s
+    50K ..........                                            100% 3.50M=0.2s
+
+2020-03-02 07:35:25 (2.05 Mb/s) - ‘/dev/null’ saved [61733/61733]
+

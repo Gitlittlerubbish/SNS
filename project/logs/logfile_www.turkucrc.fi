@@ -1,0 +1,13 @@
+--2020-03-02 03:46:14--  http://www.turkucrc.fi/files/460/Lausunto_4_2007_henkilotietojen_kasitteesta.pdf
+Resolving www.turkucrc.fi (www.turkucrc.fi)... 193.93.134.83
+Connecting to www.turkucrc.fi (www.turkucrc.fi)|193.93.134.83|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 142808 (139K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 8.26M 0s
+    50K .......... .......... .......... .......... .......... 71% 10.5M 0s
+   100K .......... .......... .......... .........            100% 8.88M=0.1s
+
+2020-03-02 03:46:14 (9.15 Mb/s) - ‘/dev/null’ saved [142808/142808]
+

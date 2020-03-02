@@ -1,0 +1,15 @@
+--2020-03-02 00:00:36--  http://www.ruw.edu.bh/sites/default/files/new_idc_description.pdf
+Resolving www.ruw.edu.bh (www.ruw.edu.bh)... 173.248.157.250
+Connecting to www.ruw.edu.bh (www.ruw.edu.bh)|173.248.157.250|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ruw.edu.bh/sites/default/files/new_idc_description.pdf [following]
+--2020-03-02 00:00:38--  https://www.ruw.edu.bh/sites/default/files/new_idc_description.pdf
+Connecting to www.ruw.edu.bh (www.ruw.edu.bh)|173.248.157.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34344 (34K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                  100%  131M=0.002s
+
+2020-03-02 00:00:38 (131 Mb/s) - ‘/dev/null’ saved [34344/34344]
+

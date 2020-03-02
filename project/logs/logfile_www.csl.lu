@@ -1,0 +1,17 @@
+--2020-03-02 06:29:11--  http://www.csl.lu/fr/telechargements/publications/84cf300f6c
+Resolving www.csl.lu (www.csl.lu)... 78.141.186.214
+Connecting to www.csl.lu (www.csl.lu)|78.141.186.214|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.csl.lu:443/fr/telechargements/publications/84cf300f6c [following]
+--2020-03-02 06:29:11--  https://www.csl.lu/fr/telechargements/publications/84cf300f6c
+Connecting to www.csl.lu (www.csl.lu)|78.141.186.214|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 117497 (115K) [application/force-download]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 43% 15.6M 0s
+    50K .......... .......... .......... .......... .......... 87% 31.3M 0s
+   100K .......... ....                                       100% 12.2M=0.05s
+
+2020-03-02 06:29:11 (19.1 Mb/s) - ‘/dev/null’ saved [117497/117497]
+

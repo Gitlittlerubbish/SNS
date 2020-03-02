@@ -1,0 +1,15 @@
+--2020-03-02 03:45:19--  http://www.survo.fi/papers/Roots2013.pdf
+Resolving www.survo.fi (www.survo.fi)... 164.215.39.201
+Connecting to www.survo.fi (www.survo.fi)|164.215.39.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222638 (217K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 5.21M 0s
+    50K .......... .......... .......... .......... .......... 45% 10.6M 0s
+   100K .......... .......... .......... .......... .......... 68%  153M 0s
+   150K .......... .......... .......... .......... .......... 91%  159M 0s
+   200K .......... .......                                    100% 3.98M=0.2s
+
+2020-03-02 03:45:19 (11.3 Mb/s) - ‘/dev/null’ saved [222638/222638]
+

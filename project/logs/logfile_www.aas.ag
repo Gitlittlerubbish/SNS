@@ -1,0 +1,16 @@
+--2020-03-01 23:05:37--  http://www.aas.ag/fileadmin/user_upload/media/CAT_OPS/passagierinfo/03_cash_declarations_EU.pdf
+Resolving www.aas.ag (www.aas.ag)... 157.97.41.24
+Connecting to www.aas.ag (www.aas.ag)|157.97.41.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aas.ag/fileadmin/user_upload/media/CAT_OPS/passagierinfo/03_cash_declarations_EU.pdf [following]
+--2020-03-01 23:05:37--  https://www.aas.ag/fileadmin/user_upload/media/CAT_OPS/passagierinfo/03_cash_declarations_EU.pdf
+Connecting to www.aas.ag (www.aas.ag)|157.97.41.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65914 (64K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 77% 9.39M 0s
+    50K .......... ....                                       100% 1.08G=0.04s
+
+2020-03-01 23:05:37 (12.1 Mb/s) - ‘/dev/null’ saved [65914/65914]
+

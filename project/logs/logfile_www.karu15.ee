@@ -1,0 +1,11 @@
+--2020-03-02 03:31:56--  http://www.karu15.ee/Dokumendid/Karu15_kodukord.pdf
+Resolving www.karu15.ee (www.karu15.ee)... 82.131.119.98
+Connecting to www.karu15.ee (www.karu15.ee)|82.131.119.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37356 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100% 6.68M=0.04s
+
+2020-03-02 03:31:56 (6.68 Mb/s) - ‘/dev/null’ saved [37356/37356]
+

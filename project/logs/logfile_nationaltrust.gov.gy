@@ -1,0 +1,11 @@
+--2020-03-02 04:18:55--  http://nationaltrust.gov.gy/wp-content/uploads/2019/02/National-Trust-Act.pdf
+Resolving nationaltrust.gov.gy (nationaltrust.gov.gy)... 192.185.247.54
+Connecting to nationaltrust.gov.gy (nationaltrust.gov.gy)|192.185.247.54|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40106 (39K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .........            100% 1.97M=0.2s
+
+2020-03-02 04:18:56 (1.97 Mb/s) - ‘/dev/null’ saved [40106/40106]
+

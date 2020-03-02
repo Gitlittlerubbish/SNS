@@ -1,0 +1,19 @@
+--2020-03-02 03:54:53--  http://www.yep.gm/storage/app/media/Oct-Nov.pdf
+Resolving www.yep.gm (www.yep.gm)... 46.101.142.130
+Connecting to www.yep.gm (www.yep.gm)|46.101.142.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.yep.gm/storage/app/media/Oct-Nov.pdf [following]
+--2020-03-02 03:54:54--  https://www.yep.gm/storage/app/media/Oct-Nov.pdf
+Connecting to www.yep.gm (www.yep.gm)|46.101.142.130|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 244786 (239K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 23.2M 0s
+    50K .......... .......... .......... .......... .......... 41% 26.1M 0s
+   100K .......... .......... .......... .......... .......... 62%  126M 0s
+   150K .......... .......... .......... .......... .......... 83%  122M 0s
+   200K .......... .......... .......... .........            100% 25.6M=0.05s
+
+2020-03-02 03:54:54 (37.3 Mb/s) - ‘/dev/null’ saved [244786/244786]
+

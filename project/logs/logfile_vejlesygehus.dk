@@ -1,0 +1,17 @@
+--2020-03-02 03:03:49--  http://vejlesygehus.dk/dwn362608
+Resolving vejlesygehus.dk (vejlesygehus.dk)... 193.163.231.65
+Connecting to vejlesygehus.dk (vejlesygehus.dk)|193.163.231.65|:80... connected.
+HTTP request sent, awaiting response... 302 Object moved
+Location: /dwn362608.pdf [following]
+--2020-03-02 03:03:50--  http://vejlesygehus.dk/dwn362608.pdf
+Reusing existing connection to vejlesygehus.dk:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 104916 (102K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 4.36M 0s
+    50K .......... .......... .......... .......... .......... 97% 9.89M 0s
+   100K ..                                                    100%  380M=0.1s
+
+2020-03-02 03:03:50 (6.19 Mb/s) - ‘/dev/null’ saved [104916/104916]
+

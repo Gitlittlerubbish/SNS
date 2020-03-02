@@ -1,0 +1,14 @@
+--2020-03-02 08:26:37--  http://www.kfc.co.nz/files/allergens/
+Resolving www.kfc.co.nz (www.kfc.co.nz)... 23.101.208.52
+Connecting to www.kfc.co.nz (www.kfc.co.nz)|23.101.208.52|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181119 (177K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28%  693K 1s
+    50K .......... .......... .......... .......... .......... 56% 1.24M 1s
+   100K .......... .......... .......... .......... .......... 84%  372M 0s
+   150K .......... .......... ......                          100%  803M=0.9s
+
+2020-03-02 08:26:39 (1.57 Mb/s) - ‘/dev/null’ saved [181119/181119]
+

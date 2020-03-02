@@ -1,0 +1,13 @@
+--2020-03-02 03:38:35--  http://rbf.gov.fj/docs/2004_01_wp.pdf
+Resolving rbf.gov.fj (rbf.gov.fj)... 103.244.230.120
+Connecting to rbf.gov.fj (rbf.gov.fj)|103.244.230.120|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121737 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42%  444K 1s
+    50K .......... .......... .......... .......... .......... 84% 1.34M 0s
+   100K .......... ........                                   100%  551M=1.2s
+
+2020-03-02 03:38:37 (792 Kb/s) - ‘/dev/null’ saved [121737/121737]
+

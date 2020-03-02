@@ -1,0 +1,24 @@
+--2020-03-02 01:07:41--  http://www.stanbicbank.co.bw/standimg/SBG/FaceLift/Balance_Transfer_terms_and_conditions_FINAL.pdf
+Resolving www.stanbicbank.co.bw (www.stanbicbank.co.bw)... 104.16.29.40, 104.16.28.40
+Connecting to www.stanbicbank.co.bw (www.stanbicbank.co.bw)|104.16.29.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.06M
+    50K .......... .......... .......... .........             1.41M=0.6s
+
+2020-03-02 01:07:43 (1.20 Mb/s) - ‘/dev/null’ saved [91954]
+
+--2020-03-02 01:07:43--  http://www.stanbicbank.co.bw/standimg/NigeriaPensionManagers/fileDownloads/Locations.pdf
+Resolving www.stanbicbank.co.bw (www.stanbicbank.co.bw)... 104.16.29.40, 104.16.28.40
+Connecting to www.stanbicbank.co.bw (www.stanbicbank.co.bw)|104.16.29.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  982K
+    50K .......... .......... ..                               1.13M=0.6s
+
+2020-03-02 01:07:44 (1.02 Mb/s) - ‘/dev/null’ saved [74478]
+

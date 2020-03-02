@@ -1,0 +1,18 @@
+--2020-03-02 05:08:50--  http://www.sielteid.it/documents/CondizioniGenerali.pdf
+Resolving www.sielteid.it (www.sielteid.it)... 185.107.184.48
+Connecting to www.sielteid.it (www.sielteid.it)|185.107.184.48|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.sielteid.it/documents/CondizioniGenerali.pdf [following]
+--2020-03-02 05:08:51--  https://www.sielteid.it/documents/CondizioniGenerali.pdf
+Connecting to www.sielteid.it (www.sielteid.it)|185.107.184.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198396 (194K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 4.03M 0s
+    50K .......... .......... .......... .......... .......... 51% 8.17M 0s
+   100K .......... .......... .......... .......... .......... 77%  230M 0s
+   150K .......... .......... .......... .......... ...       100%  241M=0.2s
+
+2020-03-02 05:08:51 (10.2 Mb/s) - ‘/dev/null’ saved [198396/198396]
+

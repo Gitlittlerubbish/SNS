@@ -1,0 +1,14 @@
+--2020-03-02 07:27:52--  http://inper.mx/descargas/pdf/tecnicaZea.pdf
+Resolving inper.mx (inper.mx)... 187.248.23.141
+Connecting to inper.mx (inper.mx)|187.248.23.141|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155307 (152K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 1.40M 1s
+    50K .......... .......... .......... .......... .......... 65% 2.77M 0s
+   100K .......... .......... .......... .......... .......... 98% 2.80M 0s
+   150K .                                                     100% 26.0K=1.1s
+
+2020-03-02 07:27:53 (1.12 Mb/s) - ‘/dev/null’ saved [155307/155307]
+

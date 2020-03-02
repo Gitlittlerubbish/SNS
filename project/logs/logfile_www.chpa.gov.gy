@@ -1,0 +1,14 @@
+--2020-03-02 04:17:20--  http://www.chpa.gov.gy/images/stories/cap3620.pdf
+Resolving www.chpa.gov.gy (www.chpa.gov.gy)... 74.50.126.57
+Connecting to www.chpa.gov.gy (www.chpa.gov.gy)|74.50.126.57|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157764 (154K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 2.04M 0s
+    50K .......... .......... .......... .......... .......... 64% 3.91M 0s
+   100K .......... .......... .......... .......... .......... 97% 4.11M 0s
+   150K ....                                                  100%  555M=0.4s
+
+2020-03-02 04:17:21 (3.11 Mb/s) - ‘/dev/null’ saved [157764/157764]
+

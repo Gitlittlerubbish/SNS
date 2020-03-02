@@ -1,0 +1,12 @@
+--2020-03-02 05:22:28--  http://www.jsf.org.je/downloads/Supershot_2014/SuperShot-2014-Results-All.pdf
+Resolving www.jsf.org.je (www.jsf.org.je)... 88.80.185.18
+Connecting to www.jsf.org.je (www.jsf.org.je)|88.80.185.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98613 (96K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 40.9M 0s
+    50K .......... .......... .......... .......... ......    100%  256M=0.01s
+
+2020-03-02 05:22:28 (68.7 Mb/s) - ‘/dev/null’ saved [98613/98613]
+

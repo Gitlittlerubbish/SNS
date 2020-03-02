@@ -1,0 +1,16 @@
+--2020-03-01 22:13:51--  http://afghanwomensymposium.af/administrator/upload_file/bannerPDFs/a8d416f867c9dd184df734326aec5371.pdf
+Resolving afghanwomensymposium.af (afghanwomensymposium.af)... 45.33.122.159
+Connecting to afghanwomensymposium.af (afghanwomensymposium.af)|45.33.122.159|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302548 (295K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 1.75M 1s
+    50K .......... .......... .......... .......... .......... 33% 3.57M 1s
+   100K .......... .......... .......... .......... .......... 50% 99.4M 0s
+   150K .......... .......... .......... .......... .......... 67%  206M 0s
+   200K .......... .......... .......... .......... .......... 84% 3.59M 0s
+   250K .......... .......... .......... .......... .....     100% 76.1M=0.5s
+
+2020-03-01 22:13:52 (5.10 Mb/s) - ‘/dev/null’ saved [302548/302548]
+

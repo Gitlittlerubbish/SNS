@@ -1,0 +1,11 @@
+--2020-03-02 07:33:07--  http://demaart.com.user.fm/
+Resolving demaart.com.user.fm (demaart.com.user.fm)... 66.111.4.85, 66.111.4.86
+Connecting to demaart.com.user.fm (demaart.com.user.fm)|66.111.4.85|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 70.5M=0s
+
+2020-03-02 07:33:07 (70.5 Mb/s) - ‘/dev/null’ saved [141/141]
+

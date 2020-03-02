@@ -1,0 +1,22 @@
+--2020-03-02 07:39:35--  http://bny.mn/2yVQyFz
+Resolving bny.mn (bny.mn)... 67.199.248.12, 67.199.248.13
+Connecting to bny.mn (bny.mn)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pershing.com/_global-assets/pdf/global-custodian-prime-brokerage-survey.pdf?utm_source=twitter&utm_medium=social&utm_content=GC-award_2e899b5a-59b1-4bb2-b7db-c89ee226d0e9&utm_campaign=PRIME-_ [following]
+--2020-03-02 07:39:35--  https://www.pershing.com/_global-assets/pdf/global-custodian-prime-brokerage-survey.pdf?utm_source=twitter&utm_medium=social&utm_content=GC-award_2e899b5a-59b1-4bb2-b7db-c89ee226d0e9&utm_campaign=PRIME-_
+Resolving www.pershing.com (www.pershing.com)... 54.235.135.143
+Connecting to www.pershing.com (www.pershing.com)|54.235.135.143|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 348593 (340K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 2.37M 1s
+    50K .......... .......... .......... .......... .......... 29% 4.92M 1s
+   100K .......... .......... .......... .......... .......... 44% 78.4M 0s
+   150K .......... .......... .......... .......... .......... 58%  102M 0s
+   200K .......... .......... .......... .......... .......... 73% 5.10M 0s
+   250K .......... .......... .......... .......... .......... 88% 80.1M 0s
+   300K .......... .......... .......... ..........           100% 4.32M=0.4s
+
+2020-03-02 07:39:36 (6.53 Mb/s) - ‘/dev/null’ saved [348593/348593]
+

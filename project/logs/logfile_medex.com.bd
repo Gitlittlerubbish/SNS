@@ -1,0 +1,18 @@
+--2020-03-02 00:01:47--  http://medex.com.bd/attachments/tlXQzIN7mr8CyizMKZEwRhJ2PKsJxX/danazol-prescribing-information
+Resolving medex.com.bd (medex.com.bd)... 116.203.74.153
+Connecting to medex.com.bd (medex.com.bd)|116.203.74.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://medex.com.bd/attachments/tlXQzIN7mr8CyizMKZEwRhJ2PKsJxX/danazol-prescribing-information [following]
+--2020-03-02 00:01:47--  https://medex.com.bd/attachments/tlXQzIN7mr8CyizMKZEwRhJ2PKsJxX/danazol-prescribing-information
+Connecting to medex.com.bd (medex.com.bd)|116.203.74.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154987 (151K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 10.4M 0s
+    50K .......... .......... .......... .......... .......... 66% 23.7M 0s
+   100K .......... .......... .......... .......... .......... 99% 38.2M 0s
+   150K .                                                     100%  231M=0.07s
+
+2020-03-02 00:01:48 (18.4 Mb/s) - ‘/dev/null’ saved [154987/154987]
+

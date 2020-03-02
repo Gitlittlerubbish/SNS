@@ -1,0 +1,15 @@
+--2020-03-02 07:28:02--  http://fcaenlinea1.unam.mx/anexos/1159/1159_u12_act1.pdf
+Resolving fcaenlinea1.unam.mx (fcaenlinea1.unam.mx)... 132.248.18.15
+Connecting to fcaenlinea1.unam.mx (fcaenlinea1.unam.mx)|132.248.18.15|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 238965 (233K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21%  716K 2s
+    50K .......... .......... .......... .......... .......... 42% 1.43M 1s
+   100K .......... .......... .......... .......... .......... 64% 2.87M 1s
+   150K .......... .......... .......... .......... .......... 85% 77.9M 0s
+   200K .......... .......... .......... ...                  100% 1.96M=1.1s
+
+2020-03-02 07:28:04 (1.67 Mb/s) - ‘/dev/null’ saved [238965/238965]
+

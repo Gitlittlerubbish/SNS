@@ -1,0 +1,11 @@
+--2020-03-02 01:30:07--  http://www.abci.gov.bn/ABCi%2520Documents/PRODUCT%2520CERTIFICATION.pdf
+Resolving www.abci.gov.bn (www.abci.gov.bn)... 103.4.188.86
+Connecting to www.abci.gov.bn (www.abci.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                  201K=0.3s
+
+2020-03-02 01:30:08 (201 Kb/s) - ‘/dev/null’ saved [7092]
+

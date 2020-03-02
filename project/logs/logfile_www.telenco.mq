@@ -1,0 +1,19 @@
+--2020-03-02 07:20:46--  http://www.telenco.mq/upload/catalogue/produit/telenco/e1/341_etiqueteuse_BMP_41_FT_FR00410x1612.pdf
+Resolving www.telenco.mq (www.telenco.mq)... 31.193.50.228
+Connecting to www.telenco.mq (www.telenco.mq)|31.193.50.228|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.telenco.mq [following]
+--2020-03-02 07:20:46--  https://www.telenco.mq/
+Connecting to www.telenco.mq (www.telenco.mq)|31.193.50.228|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 8.44M
+    50K .......... .......... .......... .......... .......... 16.1M
+   100K .......... .......... .......... .......... .......... 18.3M
+   150K .......... .......... .......... .......... .......... 20.0M
+   200K .......... .......... .......... .......... .........  19.8M=0.1s
+
+2020-03-02 07:20:47 (14.9 Mb/s) - ‘/dev/null’ saved [255114]
+

@@ -1,0 +1,25 @@
+--2020-03-02 00:27:06--  http://www.sportnews.bz/uploads/media/Torschuetzenliste_Oberliga_Eccellenza_2015_2016_26.pdf
+Resolving www.sportnews.bz (www.sportnews.bz)... 37.186.134.170
+Connecting to www.sportnews.bz (www.sportnews.bz)|37.186.134.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sportnews.bz/uploads/media/Torschuetzenliste_Oberliga_Eccellenza_2015_2016_26.pdf [following]
+--2020-03-02 00:27:06--  https://www.sportnews.bz/uploads/media/Torschuetzenliste_Oberliga_Eccellenza_2015_2016_26.pdf
+Connecting to www.sportnews.bz (www.sportnews.bz)|37.186.134.170|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sportnews.bz/_old/uploads/media/Torschuetzenliste_Oberliga_Eccellenza_2015_2016_26.pdf [following]
+--2020-03-02 00:27:06--  https://www.sportnews.bz/_old/uploads/media/Torschuetzenliste_Oberliga_Eccellenza_2015_2016_26.pdf
+Reusing existing connection to www.sportnews.bz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 349940 (342K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 5.99M 0s
+    50K .......... .......... .......... .......... .......... 29% 12.3M 0s
+   100K .......... .......... .......... .......... .......... 43% 94.7M 0s
+   150K .......... .......... .......... .......... .......... 58%  114M 0s
+   200K .......... .......... .......... .......... .......... 73% 13.7M 0s
+   250K .......... .......... .......... .......... .......... 87% 96.1M 0s
+   300K .......... .......... .......... .......... .         100% 74.1M=0.1s
+
+2020-03-02 00:27:06 (18.9 Mb/s) - ‘/dev/null’ saved [349940/349940]
+

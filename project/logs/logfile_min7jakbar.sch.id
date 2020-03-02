@@ -1,0 +1,14 @@
+--2020-03-02 04:47:54--  http://min7jakbar.sch.id/home/download_file/11
+Resolving min7jakbar.sch.id (min7jakbar.sch.id)... 103.28.148.42
+Connecting to min7jakbar.sch.id (min7jakbar.sch.id)|103.28.148.42|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166610 (163K) [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 1.00M 1s
+    50K .......... .......... .......... .......... .......... 61% 2.40M 0s
+   100K .......... .......... .......... .......... .......... 92%  110M 0s
+   150K .......... ..                                         100%  663M=0.6s
+
+2020-03-02 04:47:56 (2.28 Mb/s) - ‘/dev/null’ saved [166610/166610]
+

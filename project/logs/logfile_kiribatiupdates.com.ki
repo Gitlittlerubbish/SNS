@@ -1,0 +1,15 @@
+--2020-03-02 05:33:37--  http://kiribatiupdates.com.ki/wp-content/uploads/2014/07/KIRIBATI_35TH_INDEPENDENCE_ANNIVERSARY.pdf
+Resolving kiribatiupdates.com.ki (kiribatiupdates.com.ki)... 162.144.5.115
+Connecting to kiribatiupdates.com.ki (kiribatiupdates.com.ki)|162.144.5.115|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232777 (227K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.25M 1s
+    50K .......... .......... .......... .......... .......... 43% 2.50M 1s
+   100K .......... .......... .......... .......... .......... 65%  115M 0s
+   150K .......... .......... .......... .......... .......... 87%  224M 0s
+   200K .......... .......... .......                         100% 1.40M=0.7s
+
+2020-03-02 05:33:39 (2.84 Mb/s) - ‘/dev/null’ saved [232777/232777]
+

@@ -1,0 +1,19 @@
+--2020-03-02 06:24:26--  http://ter.li/regras_petexperience
+Resolving ter.li (ter.li)... 52.6.84.124
+Connecting to ter.li (ter.li)|52.6.84.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://petexperience.com.br/wp-content/uploads/2019/07/FAQ-PET-EXPERIENCE-2019.pdf?utm_source=blogsaopauloparacriancas&utm_medium=site_sppc&utm_campaign=regras_pet_experience [following]
+--2020-03-02 06:24:26--  https://petexperience.com.br/wp-content/uploads/2019/07/FAQ-PET-EXPERIENCE-2019.pdf?utm_source=blogsaopauloparacriancas&utm_medium=site_sppc&utm_campaign=regras_pet_experience
+Resolving petexperience.com.br (petexperience.com.br)... 177.185.206.40
+Connecting to petexperience.com.br (petexperience.com.br)|177.185.206.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179706 (175K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28%  993K 1s
+    50K .......... .......... .......... .......... .......... 56% 2.01M 0s
+   100K .......... .......... .......... .......... .......... 85%  121M 0s
+   150K .......... .......... .....                           100%  162M=0.6s
+
+2020-03-02 06:24:28 (2.32 Mb/s) - ‘/dev/null’ saved [179706/179706]
+

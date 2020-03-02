@@ -1,0 +1,12 @@
+--2020-03-01 23:05:43--  http://northtexas.ag/wp-content/uploads/2019/06/minister__study_guide_for_polity_exam.pdf
+Resolving northtexas.ag (northtexas.ag)... 67.222.37.129
+Connecting to northtexas.ag (northtexas.ag)|67.222.37.129|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79847 (78K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 64% 1.23M 0s
+    50K .......... .......... .......                         100%  182M=0.3s
+
+2020-03-01 23:05:44 (1.91 Mb/s) - ‘/dev/null’ saved [79847/79847]
+

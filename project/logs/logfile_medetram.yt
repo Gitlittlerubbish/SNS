@@ -1,0 +1,15 @@
+--2020-03-02 07:27:30--  http://medetram.yt/wp-content/uploads/2015/05/prevoyante_26.pdf
+Resolving medetram.yt (medetram.yt)... 213.186.33.82
+Connecting to medetram.yt (medetram.yt)|213.186.33.82|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254973 (249K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 30.9M 0s
+    50K .......... .......... .......... .......... .......... 40% 57.8M 0s
+   100K .......... .......... .......... .......... .......... 60% 79.2M 0s
+   150K .......... .......... .......... .......... .......... 80%  344M 0s
+   200K .......... .......... .......... .......... ........  100%  108M=0.03s
+
+2020-03-02 07:27:30 (67.0 Mb/s) - ‘/dev/null’ saved [254973/254973]
+

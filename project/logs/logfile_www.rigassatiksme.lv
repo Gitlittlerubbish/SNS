@@ -1,0 +1,22 @@
+--2020-03-02 06:13:48--  http://www.rigassatiksme.lv/files/8_2_noteikumi_par_pasazieru_parvadajumu_kontroli.pdf
+Resolving www.rigassatiksme.lv (www.rigassatiksme.lv)... 92.240.80.72
+Connecting to www.rigassatiksme.lv (www.rigassatiksme.lv)|92.240.80.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rigassatiksme.lv/files/8_2_noteikumi_par_pasazieru_parvadajumu_kontroli.pdf [following]
+--2020-03-02 06:13:49--  https://www.rigassatiksme.lv/files/8_2_noteikumi_par_pasazieru_parvadajumu_kontroli.pdf
+Connecting to www.rigassatiksme.lv (www.rigassatiksme.lv)|92.240.80.72|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 360244 (352K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 8.39M 0s
+    50K .......... .......... .......... .......... .......... 28% 8.54M 0s
+   100K .......... .......... .......... .......... .......... 42%  222M 0s
+   150K .......... .......... .......... .......... .......... 56%  520M 0s
+   200K .......... .......... .......... .......... .......... 71% 8.30M 0s
+   250K .......... .......... .......... .......... .......... 85%  150M 0s
+   300K .......... .......... .......... .......... .......... 99% 9.35M 0s
+   350K .                                                     100%  217M=0.2s
+
+2020-03-02 06:13:49 (14.8 Mb/s) - ‘/dev/null’ saved [360244/360244]
+

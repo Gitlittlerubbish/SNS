@@ -1,0 +1,12 @@
+--2020-03-02 01:09:29--  http://www.nagabrasivos.com.br/tabela_conversao.pdf
+Resolving www.nagabrasivos.com.br (www.nagabrasivos.com.br)... 192.185.215.153
+Connecting to www.nagabrasivos.com.br (www.nagabrasivos.com.br)|192.185.215.153|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52988 (52K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 96% 1.68M 0s
+    50K .                                                     100%  286K=0.2s
+
+2020-03-02 01:09:30 (1.74 Mb/s) - ‘/dev/null’ saved [52988/52988]
+

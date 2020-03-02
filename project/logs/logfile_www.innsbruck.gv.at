@@ -1,0 +1,28 @@
+--2020-03-01 23:41:38--  http://www.innsbruck.gv.at/agb
+Resolving www.innsbruck.gv.at (www.innsbruck.gv.at)... 213.33.110.40, 193.170.216.85
+Connecting to www.innsbruck.gv.at (www.innsbruck.gv.at)|213.33.110.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.innsbruck.gv.at/agb [following]
+--2020-03-01 23:41:38--  https://www.innsbruck.gv.at/agb
+Connecting to www.innsbruck.gv.at (www.innsbruck.gv.at)|213.33.110.40|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: data.cfm?vpath=redaktion/ma_i/it_und_kommunikationstechnik/dokumente3/agb&download=yes [following]
+--2020-03-01 23:41:39--  https://www.innsbruck.gv.at/data.cfm?vpath=redaktion/ma_i/it_und_kommunikationstechnik/dokumente3/agb&download=yes
+Reusing existing connection to www.innsbruck.gv.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 489942 (478K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 4.73M 1s
+    50K .......... .......... .......... .......... .......... 20% 9.77M 0s
+   100K .......... .......... .......... .......... .......... 31% 89.3M 0s
+   150K .......... .......... .......... .......... .......... 41% 9.71M 0s
+   200K .......... .......... .......... .......... .......... 52% 4.84M 0s
+   250K .......... .......... .......... .......... .......... 62% 86.7M 0s
+   300K .......... .......... .......... .......... .......... 73% 9.44M 0s
+   350K .......... .......... .......... .......... .......... 83% 7.87M 0s
+   400K .......... .......... .......... .......... .......... 94% 11.2M 0s
+   450K .......... .......... ........                        100% 5.59M=0.4s
+
+2020-03-01 23:41:40 (8.94 Mb/s) - ‘/dev/null’ saved [489942/489942]
+

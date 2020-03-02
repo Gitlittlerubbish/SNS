@@ -1,0 +1,25 @@
+--2020-03-02 03:46:55--  http://hal.umontpellier.fr/hal-01756210/document
+Resolving hal.umontpellier.fr (hal.umontpellier.fr)... 193.48.96.10
+Connecting to hal.umontpellier.fr (hal.umontpellier.fr)|193.48.96.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://hal.umontpellier.fr/hal-01756210/document [following]
+--2020-03-02 03:46:55--  https://hal.umontpellier.fr/hal-01756210/document
+Connecting to hal.umontpellier.fr (hal.umontpellier.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 522193 (510K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 6.20M 1s
+    50K .......... .......... .......... .......... .......... 19% 12.8M 0s
+   100K .......... .......... .......... .......... .......... 29% 13.8M 0s
+   150K .......... .......... .......... .......... .......... 39% 71.4M 0s
+   200K .......... .......... .......... .......... .......... 49% 12.5M 0s
+   250K .......... .......... .......... .......... .......... 58% 13.3M 0s
+   300K .......... .......... .......... .......... .......... 68% 12.6M 0s
+   350K .......... .......... .......... .......... .......... 78%  709M 0s
+   400K .......... .......... .......... .......... .......... 88% 12.4M 0s
+   450K .......... .......... .......... .......... .......... 98% 12.8M 0s
+   500K .........                                             100% 2.04G=0.3s
+
+2020-03-02 03:46:56 (14.2 Mb/s) - ‘/dev/null’ saved [522193/522193]
+

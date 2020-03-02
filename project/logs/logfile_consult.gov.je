@@ -1,0 +1,19 @@
+--2020-03-02 05:21:43--  http://consult.gov.je/events/25662/3419130_accessible.pdf
+Resolving consult.gov.je (consult.gov.je)... 52.56.245.48, 3.9.9.42
+Connecting to consult.gov.je (consult.gov.je)|52.56.245.48|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://consult.gov.je/events/25662/3419130_accessible.pdf [following]
+--2020-03-02 05:21:43--  https://consult.gov.je/events/25662/3419130_accessible.pdf
+Connecting to consult.gov.je (consult.gov.je)|52.56.245.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 238251 (233K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 39.6M 0s
+    50K .......... .......... .......... .......... .......... 42% 88.7M 0s
+   100K .......... .......... .......... .......... .......... 64%  116M 0s
+   150K .......... .......... .......... .......... .......... 85% 72.7M 0s
+   200K .......... .......... .......... ..                   100%  112M=0.03s
+
+2020-03-02 05:21:43 (71.9 Mb/s) - ‘/dev/null’ saved [238251/238251]
+

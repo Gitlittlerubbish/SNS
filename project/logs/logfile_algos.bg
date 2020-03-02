@@ -1,0 +1,13 @@
+--2020-03-02 01:31:15--  http://algos.bg/downloads/Mehanizym_za_obratno_nachislqvane.pdf
+Resolving algos.bg (algos.bg)... 87.120.40.54
+Connecting to algos.bg (algos.bg)|87.120.40.54|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106080 (104K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 4.39M 0s
+    50K .......... .......... .......... .......... .......... 96% 5.28M 0s
+   100K ...                                                   100%  589K=0.2s
+
+2020-03-02 01:31:15 (4.96 Mb/s) - ‘/dev/null’ saved [106080/106080]
+

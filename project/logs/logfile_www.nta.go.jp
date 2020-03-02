@@ -1,0 +1,13 @@
+--2020-03-02 05:19:06--  http://www.nta.go.jp/information/release/pdf/0019012-161.pdf
+Resolving www.nta.go.jp (www.nta.go.jp)... 23.36.209.131
+Connecting to www.nta.go.jp (www.nta.go.jp)|23.36.209.131|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133682 (131K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 46.2M 0s
+    50K .......... .......... .......... .......... .......... 76% 64.9M 0s
+   100K .......... .......... ..........                      100%  107M=0.02s
+
+2020-03-02 05:19:07 (61.0 Mb/s) - ‘/dev/null’ saved [133682/133682]
+

@@ -1,0 +1,13 @@
+--2020-03-02 04:43:32--  http://www.sviindia.in/media/HDFC_Slip_blank.pdf
+Resolving www.sviindia.in (www.sviindia.in)... 43.231.127.43
+Connecting to www.sviindia.in (www.sviindia.in)|43.231.127.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130910 (128K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 1.21M 1s
+    50K .......... .......... .......... .......... .......... 78% 2.47M 0s
+   100K .......... .......... .......                         100% 23.6M=0.5s
+
+2020-03-02 04:43:33 (2.04 Mb/s) - ‘/dev/null’ saved [130910/130910]
+

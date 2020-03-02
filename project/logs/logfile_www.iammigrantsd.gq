@@ -1,0 +1,13 @@
+--2020-03-02 03:29:22--  http://www.iammigrantsd.gq/static/pdf/assurance_mobile.pdf
+Resolving www.iammigrantsd.gq (www.iammigrantsd.gq)... 104.27.162.40, 104.27.163.40
+Connecting to www.iammigrantsd.gq (www.iammigrantsd.gq)|104.27.162.40|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 9.92M
+    50K .......... .......... .......... .......... .......... 34.8M
+   100K .......... .......... .......... .......... ...         367M=0.05s
+
+2020-03-02 03:29:22 (21.8 Mb/s) - ‘/dev/null’ saved [147141]
+

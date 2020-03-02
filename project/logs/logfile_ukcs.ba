@@ -1,0 +1,27 @@
+--2020-03-02 01:01:51--  http://ukcs.ba/updf/ABOU_AL_ARDAT_MUHAMMED.pdf
+Resolving ukcs.ba (ukcs.ba)... 108.179.200.145
+Connecting to ukcs.ba (ukcs.ba)|108.179.200.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ukcs.ba/updf/ABOU_AL_ARDAT_MUHAMMED.pdf [following]
+--2020-03-02 01:01:51--  http://www.ukcs.ba/updf/ABOU_AL_ARDAT_MUHAMMED.pdf
+Resolving www.ukcs.ba (www.ukcs.ba)... 108.179.200.145
+Reusing existing connection to ukcs.ba:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 565452 (552K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 1.67M 2s
+    50K .......... .......... .......... .......... .......... 18% 3.38M 2s
+   100K .......... .......... .......... .......... .......... 27%  247M 1s
+   150K .......... .......... .......... .......... .......... 36%  135M 1s
+   200K .......... .......... .......... .......... .......... 45% 3.41M 1s
+   250K .......... .......... .......... .......... .......... 54%  415M 0s
+   300K .......... .......... .......... .......... .......... 63% 3.45M 0s
+   350K .......... .......... .......... .......... .......... 72%  181M 0s
+   400K .......... .......... .......... .......... .......... 81%  229M 0s
+   450K .......... .......... .......... .......... .......... 90%  306M 0s
+   500K .......... .......... .......... .......... .......... 99%  208M 0s
+   550K ..                                                    100%  360K=0.6s
+
+2020-03-02 01:01:52 (7.31 Mb/s) - ‘/dev/null’ saved [565452/565452]
+

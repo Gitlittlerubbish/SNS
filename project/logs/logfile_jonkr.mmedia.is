@@ -1,0 +1,15 @@
+--2020-03-02 04:40:34--  http://jonkr.mmedia.is/myvatn/faoman.pdf
+Resolving jonkr.mmedia.is (jonkr.mmedia.is)... 185.174.176.225
+Connecting to jonkr.mmedia.is (jonkr.mmedia.is)|185.174.176.225|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Could not parse String-Transport-Security header
+Length: 185986 (182K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 4.81M 0s
+    50K .......... .......... .......... .......... .......... 55% 10.1M 0s
+   100K .......... .......... .......... .......... .......... 82%  116M 0s
+   150K .......... .......... .......... .                    100%  143M=0.1s
+
+2020-03-02 04:40:34 (11.4 Mb/s) - ‘/dev/null’ saved [185986/185986]
+

@@ -1,0 +1,25 @@
+--2020-03-02 03:40:45--  http://www.bpfbi.ac.fj/documents/20161228_news.pdf
+Resolving www.bpfbi.ac.fj (www.bpfbi.ac.fj)... 157.7.107.88
+Connecting to www.bpfbi.ac.fj (www.bpfbi.ac.fj)|157.7.107.88|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bpfbi.ac.fj/documents/20161228_news.pdf [following]
+--2020-03-02 03:40:46--  https://www.bpfbi.ac.fj/documents/20161228_news.pdf
+Connecting to www.bpfbi.ac.fj (www.bpfbi.ac.fj)|157.7.107.88|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.freebirdsecondary.com/documents/20161228_news.pdf [following]
+--2020-03-02 03:40:48--  https://www.freebirdsecondary.com/documents/20161228_news.pdf
+Resolving www.freebirdsecondary.com (www.freebirdsecondary.com)... 150.60.159.198
+Connecting to www.freebirdsecondary.com (www.freebirdsecondary.com)|150.60.159.198|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274274 (268K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18%  663K 3s
+    50K .......... .......... .......... .......... .......... 37%  504M 1s
+   100K .......... .......... .......... .......... .......... 56% 1.33M 1s
+   150K .......... .......... .......... .......... .......... 74%  139M 0s
+   200K .......... .......... .......... .......... .......... 93% 1.81M 0s
+   250K .......... .......                                    100% 1.57G=1.2s
+
+2020-03-02 03:40:50 (1.90 Mb/s) - ‘/dev/null’ saved [274274/274274]
+

@@ -1,0 +1,23 @@
+--2020-03-02 06:26:56--  http://visaginas.lt/lt/doclib/sk3yvweml5677jjy4u48q6f8f4qbyzdv
+Resolving visaginas.lt (visaginas.lt)... 212.237.232.159
+Connecting to visaginas.lt (visaginas.lt)|212.237.232.159|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://visaginas.lt/index.php/lt/doclib/sk3yvweml5677jjy4u48q6f8f4qbyzdv [following]
+--2020-03-02 06:26:56--  https://visaginas.lt/index.php/lt/doclib/sk3yvweml5677jjy4u48q6f8f4qbyzdv
+Connecting to visaginas.lt (visaginas.lt)|212.237.232.159|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /doclib/sk3yvweml5677jjy4u48q6f8f4qbyzdv [following]
+--2020-03-02 06:26:57--  https://visaginas.lt/doclib/sk3yvweml5677jjy4u48q6f8f4qbyzdv
+Reusing existing connection to visaginas.lt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 224276 (219K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 3.46M 0s
+    50K .......... .......... .......... .......... .......... 45% 9.49M 0s
+   100K .......... .......... .......... .......... .......... 68% 9.83M 0s
+   150K .......... .......... .......... .......... .......... 91% 12.2M 0s
+   200K .......... .........                                  100% 39.6M=0.2s
+
+2020-03-02 06:26:57 (7.45 Mb/s) - ‘/dev/null’ saved [224276/224276]
+

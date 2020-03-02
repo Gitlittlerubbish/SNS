@@ -1,0 +1,11 @@
+--2020-03-02 04:39:30--  http://www.grundarfjordur.is/Files/Skra_0079294.pdf
+Resolving www.grundarfjordur.is (www.grundarfjordur.is)... 82.221.98.192
+Connecting to www.grundarfjordur.is (www.grundarfjordur.is)|82.221.98.192|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38976 (38K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ........             100% 1.83M=0.2s
+
+2020-03-02 04:39:30 (1.83 Mb/s) - ‘/dev/null’ saved [38976/38976]
+

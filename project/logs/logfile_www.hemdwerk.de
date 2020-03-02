@@ -1,0 +1,15 @@
+--2020-03-02 04:00:26--  http://www.hemdwerk.de/library/downloads/groessentabelle.pdf
+Resolving www.hemdwerk.de (www.hemdwerk.de)... 89.110.155.168
+Connecting to www.hemdwerk.de (www.hemdwerk.de)|89.110.155.168|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hemdwerk.de/library/downloads/groessentabelle.pdf [following]
+--2020-03-02 04:00:26--  https://www.hemdwerk.de/library/downloads/groessentabelle.pdf
+Connecting to www.hemdwerk.de (www.hemdwerk.de)|89.110.155.168|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 26927 (26K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                          100%  315M=0.001s
+
+2020-03-02 04:00:26 (315 Mb/s) - ‘/dev/null’ saved [26927/26927]
+

@@ -1,0 +1,20 @@
+--2020-03-02 02:00:27--  http://www.constitutionalcommission.ky/upimages/publicationdoc/ResearchPaperPeopleInitiatedReferendum13.10.11_1488206875_1488206875.pdf
+Resolving www.constitutionalcommission.ky (www.constitutionalcommission.ky)... 167.71.254.80
+Connecting to www.constitutionalcommission.ky (www.constitutionalcommission.ky)|167.71.254.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 471066 (460K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 2.83M 1s
+    50K .......... .......... .......... .......... .......... 21% 5.75M 1s
+   100K .......... .......... .......... .......... .......... 32%  213M 0s
+   150K .......... .......... .......... .......... .......... 43%  113M 0s
+   200K .......... .......... .......... .......... .......... 54% 5.88M 0s
+   250K .......... .......... .......... .......... .......... 65% 73.2M 0s
+   300K .......... .......... .......... .......... .......... 76% 6.10M 0s
+   350K .......... .......... .......... .......... .......... 86%  187M 0s
+   400K .......... .......... .......... .......... .......... 97%  792M 0s
+   450K ..........                                            100%  989M=0.4s
+
+2020-03-02 02:00:28 (10.3 Mb/s) - ‘/dev/null’ saved [471066/471066]
+

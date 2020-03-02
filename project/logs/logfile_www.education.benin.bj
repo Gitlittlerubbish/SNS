@@ -1,0 +1,13 @@
+--2020-03-02 00:29:56--  http://www.education.benin.bj/documents/loi-administration-territoriale.pdf
+Resolving www.education.benin.bj (www.education.benin.bj)... 80.85.86.126
+Connecting to www.education.benin.bj (www.education.benin.bj)|80.85.86.126|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119479 (117K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 41.6M 0s
+    50K .......... .......... .......... .......... .......... 85% 89.1M 0s
+   100K .......... ......                                     100%  110M=0.02s
+
+2020-03-02 00:29:57 (61.0 Mb/s) - ‘/dev/null’ saved [119479/119479]
+

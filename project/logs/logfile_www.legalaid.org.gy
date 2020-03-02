@@ -1,0 +1,22 @@
+--2020-03-02 04:18:18--  http://www.legalaid.org.gy/files/gawl/058_lawandyou_law.pdf
+Resolving www.legalaid.org.gy (www.legalaid.org.gy)... 68.66.200.202
+Connecting to www.legalaid.org.gy (www.legalaid.org.gy)|68.66.200.202|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10563 (10K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K ..........                                            100%  173M=0s
+
+2020-03-02 04:18:18 (173 Mb/s) - ‘/dev/null’ saved [10563/10563]
+
+--2020-03-02 04:18:23--  http://www.legalaid.org.gy/files/gawl/058_lawandyou_law.pdf
+Resolving www.legalaid.org.gy (www.legalaid.org.gy)... 68.66.200.202
+Connecting to www.legalaid.org.gy (www.legalaid.org.gy)|68.66.200.202|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10563 (10K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K ..........                                            100%  105M=0.001s
+
+2020-03-02 04:18:23 (105 Mb/s) - ‘/dev/null’ saved [10563/10563]
+

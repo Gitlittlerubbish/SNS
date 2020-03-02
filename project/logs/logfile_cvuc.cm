@@ -1,0 +1,14 @@
+--2020-03-02 01:49:16--  http://cvuc.cm/national/images/ENG_Constitution_20131.pdf
+Resolving cvuc.cm (cvuc.cm)... 173.254.28.219
+Connecting to cvuc.cm (cvuc.cm)|173.254.28.219|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180509 (176K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 1.27M 1s
+    50K .......... .......... .......... .......... .......... 56% 2.52M 0s
+   100K .......... .......... .......... .......... .......... 85%  185M 0s
+   150K .......... .......... ......                          100%  260M=0.5s
+
+2020-03-02 01:49:18 (2.95 Mb/s) - ‘/dev/null’ saved [180509/180509]
+

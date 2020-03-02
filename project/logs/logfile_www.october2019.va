@@ -1,0 +1,14 @@
+--2020-03-02 04:23:26--  http://www.october2019.va/content/dam/october2019/apostles/Zovkic.pdf
+Resolving www.october2019.va (www.october2019.va)... 185.152.70.101
+Connecting to www.october2019.va (www.october2019.va)|185.152.70.101|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203044 (198K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 4.72M 0s
+    50K .......... .......... .......... .......... .......... 50% 6.97M 0s
+   100K .......... .......... .......... .......... .......... 75% 74.4M 0s
+   150K .......... .......... .......... .......... ........  100% 11.5M=0.2s
+
+2020-03-02 04:23:27 (8.75 Mb/s) - ‘/dev/null’ saved [203044/203044]
+

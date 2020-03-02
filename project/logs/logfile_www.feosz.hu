@@ -1,0 +1,14 @@
+--2020-03-02 04:37:41--  http://www.feosz.hu/upload/kergyak.pdf
+Resolving www.feosz.hu (www.feosz.hu)... 92.118.24.100
+Connecting to www.feosz.hu (www.feosz.hu)|92.118.24.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154399 (151K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 6.52M 0s
+    50K .......... .......... .......... .......... .......... 66% 13.4M 0s
+   100K .......... .......... .......... .......... .......... 99%  117M 0s
+   150K                                                       100%  128K=0.1s
+
+2020-03-02 04:37:41 (12.8 Mb/s) - ‘/dev/null’ saved [154399/154399]
+

@@ -1,0 +1,18 @@
+--2020-03-02 06:29:02--  http://www.lwk.lu/download/151/stoppelbearbeitung.pdf
+Resolving www.lwk.lu (www.lwk.lu)... 35.180.84.46, 15.188.134.90
+Connecting to www.lwk.lu (www.lwk.lu)|35.180.84.46|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lwk.lu/download/151/stoppelbearbeitung.pdf [following]
+--2020-03-02 06:29:02--  https://www.lwk.lu/download/151/stoppelbearbeitung.pdf
+Connecting to www.lwk.lu (www.lwk.lu)|35.180.84.46|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165865 (162K) [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 28.2M 0s
+    50K .......... .......... .......... .......... .......... 61% 39.6M 0s
+   100K .......... .......... .......... .......... .......... 92% 71.5M 0s
+   150K .......... .                                          100%  591M=0.03s
+
+2020-03-02 06:29:03 (43.1 Mb/s) - ‘/dev/null’ saved [165865/165865]
+

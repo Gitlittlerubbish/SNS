@@ -1,0 +1,15 @@
+--2020-03-01 23:37:43--  http://sport.unimelb.edu.au/pdfs/MU-Sport-Cricket-Scoresheet.pdf
+Resolving sport.unimelb.edu.au (sport.unimelb.edu.au)... 70.32.86.167
+Connecting to sport.unimelb.edu.au (sport.unimelb.edu.au)|70.32.86.167|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sport.unimelb.edu.au/pdfs/MU-Sport-Cricket-Scoresheet.pdf [following]
+--2020-03-01 23:37:44--  https://sport.unimelb.edu.au/pdfs/MU-Sport-Cricket-Scoresheet.pdf
+Connecting to sport.unimelb.edu.au (sport.unimelb.edu.au)|70.32.86.167|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27081 (26K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                          100% 2.55M=0.08s
+
+2020-03-01 23:37:45 (2.55 Mb/s) - ‘/dev/null’ saved [27081/27081]
+

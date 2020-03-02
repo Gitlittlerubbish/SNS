@@ -1,0 +1,17 @@
+--2020-03-02 05:12:23--  http://www.aflac.co.jp/info/senshiniryo.pdf
+Resolving www.aflac.co.jp (www.aflac.co.jp)... 23.36.208.174
+Connecting to www.aflac.co.jp (www.aflac.co.jp)|23.36.208.174|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aflac.co.jp/info/senshiniryo.pdf [following]
+--2020-03-02 05:12:23--  https://www.aflac.co.jp/info/senshiniryo.pdf
+Connecting to www.aflac.co.jp (www.aflac.co.jp)|23.36.208.174|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136685 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 65.9M 0s
+    50K .......... .......... .......... .......... .......... 74% 46.8M 0s
+   100K .......... .......... .......... ...                  100%  235M=0.02s
+
+2020-03-02 05:12:24 (67.8 Mb/s) - ‘/dev/null’ saved [136685/136685]
+

@@ -1,0 +1,31 @@
+--2020-03-02 06:58:19--  http://www.standardbank.co.mw/standimg/Malawi/fileDownloads/MW_PricingSchedule2017.pdf
+Resolving www.standardbank.co.mw (www.standardbank.co.mw)... 104.16.46.79, 104.16.155.56
+Connecting to www.standardbank.co.mw (www.standardbank.co.mw)|104.16.46.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.standardbank.co.mw/standimg/Malawi/fileDownloads/MW_PricingSchedule2017.pdf [following]
+--2020-03-02 06:58:19--  https://www.standardbank.co.mw/standimg/Malawi/fileDownloads/MW_PricingSchedule2017.pdf
+Connecting to www.standardbank.co.mw (www.standardbank.co.mw)|104.16.46.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  846K
+    50K .......... .......... .......... .......... .......... 2.50M
+   100K .......... .......... .......... .......... .......... 2.53M
+   150K .......... .......... .......... .......... .......... 51.2M
+   200K .......... .......... .......... .......... .......... 2.55M
+   250K .......... .......... .......... .......... .......... 58.8M
+   300K .......... .......... .......... .......... .......... 2.72M
+   350K .......... .......... .......... .......... .......... 57.8M
+   400K .......... .......... .......... .......... .......... 2.68M
+   450K .......... .......... .......... .......... .......... 31.3M
+   500K .......... .......... .......... .......... .......... 2.53M
+   550K .......... .......... .......... .......... .......... 2.59M
+   600K .......... .......... .......... .......... .......... 2.56M
+   650K .......... .......... .......... .......... .......... 2.58M
+   700K .......... .......... .......... .......... .......... 37.0M
+   750K .......... .......... .......... .......... .......... 1.27M
+   800K ..                                                      413K=2.3s
+
+2020-03-02 06:58:23 (2.88 Mb/s) - ‘/dev/null’ saved [821782]
+

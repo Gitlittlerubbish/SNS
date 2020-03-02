@@ -1,0 +1,40 @@
+--2020-03-02 06:27:20--  http://sistema.tamo.lt/Content/Naudotojo_vadovas_tevams_ir_mokiams.pdf
+Resolving sistema.tamo.lt (sistema.tamo.lt)... 185.38.164.101
+Connecting to sistema.tamo.lt (sistema.tamo.lt)|185.38.164.101|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://dienynas.tamo.lt/ [following]
+--2020-03-02 06:27:20--  https://dienynas.tamo.lt/
+Resolving dienynas.tamo.lt (dienynas.tamo.lt)... 104.27.145.209, 104.27.144.209
+Connecting to dienynas.tamo.lt (dienynas.tamo.lt)|104.27.145.209|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /Prisijungimas/Login [following]
+--2020-03-02 06:27:20--  https://dienynas.tamo.lt/Prisijungimas/Login
+Reusing existing connection to dienynas.tamo.lt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..........                                              117M=0.001s
+
+2020-03-02 06:27:20 (117 Mb/s) - ‘/dev/null’ saved [10942]
+
+--2020-03-02 06:27:41--  http://sistema.tamo.lt/Content/Naudotojo_vadovas_tevams_ir_mokiams.pdf
+Resolving sistema.tamo.lt (sistema.tamo.lt)... 185.38.164.101
+Connecting to sistema.tamo.lt (sistema.tamo.lt)|185.38.164.101|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://dienynas.tamo.lt/ [following]
+--2020-03-02 06:27:41--  https://dienynas.tamo.lt/
+Resolving dienynas.tamo.lt (dienynas.tamo.lt)... 104.27.145.209, 104.27.144.209
+Connecting to dienynas.tamo.lt (dienynas.tamo.lt)|104.27.145.209|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /Prisijungimas/Login [following]
+--2020-03-02 06:27:41--  https://dienynas.tamo.lt/Prisijungimas/Login
+Reusing existing connection to dienynas.tamo.lt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..........                                              169M=0.001s
+
+2020-03-02 06:27:41 (169 Mb/s) - ‘/dev/null’ saved [10942]
+

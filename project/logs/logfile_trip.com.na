@@ -1,0 +1,13 @@
+--2020-03-02 08:02:19--  http://trip.com.na/pdf/Terms_and_Conditions.pdf
+Resolving trip.com.na (trip.com.na)... 154.0.162.107
+Connecting to trip.com.na (trip.com.na)|154.0.162.107|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125570 (123K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40%  880K 1s
+    50K .......... .......... .......... .......... .......... 81% 1.20M 0s
+   100K .......... .......... ..                              100% 58.6M=0.8s
+
+2020-03-02 08:02:21 (1.24 Mb/s) - ‘/dev/null’ saved [125570/125570]
+

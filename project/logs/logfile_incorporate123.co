@@ -1,0 +1,18 @@
+--2020-03-02 02:29:07--  http://incorporate123.co/learning-center/f3520a
+Resolving incorporate123.co (incorporate123.co)... 35.208.208.38
+Connecting to incorporate123.co (incorporate123.co)|35.208.208.38|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://incorporate123.co/learning-center/f3520a [following]
+--2020-03-02 02:29:08--  https://incorporate123.co/learning-center/f3520a
+Connecting to incorporate123.co (incorporate123.co)|35.208.208.38|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184428 (180K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 1.93M 1s
+    50K .......... .......... .......... .......... .......... 55% 3.79M 0s
+   100K .......... .......... .......... .......... .......... 83%  177M 0s
+   150K .......... .......... ..........                      100%  546M=0.3s
+
+2020-03-02 02:29:08 (4.56 Mb/s) - ‘/dev/null’ saved [184428/184428]
+

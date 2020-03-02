@@ -1,0 +1,16 @@
+--2020-03-02 02:55:14--  http://www.mingo.hr/public/trgovina/DAE_CTDAE.pdf
+Resolving www.mingo.hr (www.mingo.hr)... 178.218.163.38
+Connecting to www.mingo.hr (www.mingo.hr)|178.218.163.38|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.mingo.hr/public/trgovina/DAE_CTDAE.pdf [following]
+--2020-03-02 02:55:14--  https://www.mingo.hr/public/trgovina/DAE_CTDAE.pdf
+Connecting to www.mingo.hr (www.mingo.hr)|178.218.163.38|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100370 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 5.44M 0s
+    50K .......... .......... .......... .......... ........  100% 10.7M=0.1s
+
+2020-03-02 02:55:14 (7.17 Mb/s) - ‘/dev/null’ saved [100370/100370]
+

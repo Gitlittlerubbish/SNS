@@ -1,0 +1,15 @@
+--2020-03-02 01:52:20--  http://www.registriesdirect.ca/pdf/VehicleInspection.pdf
+Resolving www.registriesdirect.ca (www.registriesdirect.ca)... 66.18.244.247
+Connecting to www.registriesdirect.ca (www.registriesdirect.ca)|66.18.244.247|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218955 (214K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 1.61M 1s
+    50K .......... .......... .......... .......... .......... 46% 2.17M 1s
+   100K .......... .......... .......... .......... .......... 70%  223M 0s
+   150K .......... .......... .......... .......... .......... 93%  113M 0s
+   200K .......... ...                                        100%  896K=0.6s
+
+2020-03-02 01:52:21 (3.04 Mb/s) - ‘/dev/null’ saved [218955/218955]
+

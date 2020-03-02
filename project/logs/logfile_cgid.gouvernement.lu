@@ -1,0 +1,15 @@
+--2020-03-02 06:28:55--  http://cgid.gouvernement.lu/dam-assets/formulaires/ordre-justification.pdf
+Resolving cgid.gouvernement.lu (cgid.gouvernement.lu)... 194.154.205.174
+Connecting to cgid.gouvernement.lu (cgid.gouvernement.lu)|194.154.205.174|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cgid.gouvernement.lu/dam-assets/formulaires/ordre-justification.pdf [following]
+--2020-03-02 06:28:55--  https://cgid.gouvernement.lu/dam-assets/formulaires/ordre-justification.pdf
+Connecting to cgid.gouvernement.lu (cgid.gouvernement.lu)|194.154.205.174|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44417 (43K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...       100% 13.2M=0.03s
+
+2020-03-02 06:28:55 (13.2 Mb/s) - ‘/dev/null’ saved [44417/44417]
+

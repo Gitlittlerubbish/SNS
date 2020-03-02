@@ -1,0 +1,14 @@
+--2020-03-02 00:03:55--  http://www.bip.org.bd/SharingFiles/201309081343231.pdf
+Resolving www.bip.org.bd (www.bip.org.bd)... 162.241.24.41
+Connecting to www.bip.org.bd (www.bip.org.bd)|162.241.24.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173056 (169K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 1.67M 1s
+    50K .......... .......... .......... .......... .......... 59% 3.36M 0s
+   100K .......... .......... .......... .......... .......... 88% 95.6M 0s
+   150K .......... .........                                  100%  437M=0.4s
+
+2020-03-02 00:03:56 (3.72 Mb/s) - ‘/dev/null’ saved [173056/173056]
+

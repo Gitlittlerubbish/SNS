@@ -1,0 +1,15 @@
+--2020-03-02 03:53:30--  http://www.reschape.ga/data/attachments/CoastalHiking_Guidebook_lv_163917.pdf
+Resolving www.reschape.ga (www.reschape.ga)... 104.27.130.239, 104.27.131.239
+Connecting to www.reschape.ga (www.reschape.ga)|104.27.130.239|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 9.55M
+    50K .......... .......... .......... .......... ..........  135M
+   100K .......... .......... .......... .......... .......... 66.2M
+   150K .......... .......... .......... .......... ..........  116M
+   200K ..........                                              391M=0.06s
+
+2020-03-02 03:53:30 (30.9 Mb/s) - ‘/dev/null’ saved [215615]
+

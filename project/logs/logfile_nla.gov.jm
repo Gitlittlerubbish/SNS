@@ -1,0 +1,16 @@
+--2020-03-02 05:11:34--  http://nla.gov.jm/sites/default/files/TRANSFER_website.pdf
+Resolving nla.gov.jm (nla.gov.jm)... 162.241.142.27
+Connecting to nla.gov.jm (nla.gov.jm)|162.241.142.27|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://nla.gov.jm/sites/default/files/TRANSFER_website.pdf [following]
+--2020-03-02 05:11:34--  https://nla.gov.jm/sites/default/files/TRANSFER_website.pdf
+Connecting to nla.gov.jm (nla.gov.jm)|162.241.142.27|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80559 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 1.66M 0s
+    50K .......... .......... ........                        100%  917M=0.2s
+
+2020-03-02 05:11:35 (2.61 Mb/s) - ‘/dev/null’ saved [80559/80559]
+

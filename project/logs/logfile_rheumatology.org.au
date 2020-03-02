@@ -1,0 +1,15 @@
+--2020-03-01 23:39:23--  http://rheumatology.org.au/patients/documents/Sulfasalazine_2016_002.pdf
+Resolving rheumatology.org.au (rheumatology.org.au)... 223.27.31.23
+Connecting to rheumatology.org.au (rheumatology.org.au)|223.27.31.23|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219776 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  665K 2s
+    50K .......... .......... .......... .......... .......... 46% 1.34M 1s
+   100K .......... .......... .......... .......... .......... 69%  264M 0s
+   150K .......... .......... .......... .......... .......... 93%  205M 0s
+   200K .......... ....                                       100%  395K=1.2s
+
+2020-03-01 23:39:26 (1.43 Mb/s) - ‘/dev/null’ saved [219776/219776]
+

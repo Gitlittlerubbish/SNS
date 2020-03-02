@@ -1,0 +1,17 @@
+--2020-03-02 05:15:07--  http://www.nichiiko.co.jp/medicine/files/14_079.pdf
+Resolving www.nichiiko.co.jp (www.nichiiko.co.jp)... 163.49.19.192
+Connecting to www.nichiiko.co.jp (www.nichiiko.co.jp)|163.49.19.192|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nichiiko.co.jp/medicine/files/14_079.pdf [following]
+--2020-03-02 05:15:08--  https://www.nichiiko.co.jp/medicine/files/14_079.pdf
+Connecting to www.nichiiko.co.jp (www.nichiiko.co.jp)|163.49.19.192|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134774 (132K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37%  563K 1s
+    50K .......... .......... .......... .......... .......... 75%  125M 0s
+   100K .......... .......... .......... .                    100% 1.20M=0.9s
+
+2020-03-02 05:15:10 (1.14 Mb/s) - ‘/dev/null’ saved [134774/134774]
+

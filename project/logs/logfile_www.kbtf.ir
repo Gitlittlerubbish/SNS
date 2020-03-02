@@ -1,0 +1,13 @@
+--2020-03-02 04:58:01--  http://www.kbtf.ir/upload/c9315682457d432881a728281c1bffd5.pdf
+Resolving www.kbtf.ir (www.kbtf.ir)... 158.58.185.209
+Connecting to www.kbtf.ir (www.kbtf.ir)|158.58.185.209|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 144052 (141K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 2.30M 0s
+    50K .......... .......... .......... .......... .......... 71% 2.31M 0s
+   100K .......... .......... .......... ..........           100% 3.75M=0.4s
+
+2020-03-02 04:58:02 (2.59 Mb/s) - ‘/dev/null’ saved [144052/144052]
+

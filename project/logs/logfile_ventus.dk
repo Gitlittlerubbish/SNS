@@ -1,0 +1,12 @@
+--2020-03-02 03:04:21--  http://ventus.dk/Download/1_8_ordstilling.pdf
+Resolving ventus.dk (ventus.dk)... 94.245.104.73
+Connecting to ventus.dk (ventus.dk)|94.245.104.73|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73472 (72K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 69% 15.4M 0s
+    50K .......... .......... .                               100% 95.0M=0.03s
+
+2020-03-02 03:04:21 (20.6 Mb/s) - ‘/dev/null’ saved [73472/73472]
+

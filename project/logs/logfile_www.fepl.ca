@@ -1,0 +1,15 @@
+--2020-03-02 01:51:14--  http://www.fepl.ca/pdf/9th_Grade_Spelling_Words.pdf
+Resolving www.fepl.ca (www.fepl.ca)... 66.33.208.165
+Connecting to www.fepl.ca (www.fepl.ca)|66.33.208.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.fepl.ca/pdf/9th_Grade_Spelling_Words.pdf [following]
+--2020-03-02 01:51:14--  https://www.fepl.ca/pdf/9th_Grade_Spelling_Words.pdf
+Connecting to www.fepl.ca (www.fepl.ca)|66.33.208.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37717 (37K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100% 3.83M=0.08s
+
+2020-03-02 01:51:15 (3.83 Mb/s) - ‘/dev/null’ saved [37717/37717]
+

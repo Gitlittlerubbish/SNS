@@ -1,0 +1,15 @@
+--2020-03-02 01:14:23--  http://www.pucsp.br/revistanures/revista9/nures9_goncalves.pdf
+Resolving www.pucsp.br (www.pucsp.br)... 200.144.145.195
+Connecting to www.pucsp.br (www.pucsp.br)|200.144.145.195|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pucsp.br/revistanures/revista9/nures9_goncalves.pdf [following]
+--2020-03-02 01:14:24--  https://www.pucsp.br/revistanures/revista9/nures9_goncalves.pdf
+Connecting to www.pucsp.br (www.pucsp.br)|200.144.145.195|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44775 (44K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...       100% 1.16M=0.3s
+
+2020-03-02 01:14:26 (1.16 Mb/s) - ‘/dev/null’ saved [44775/44775]
+

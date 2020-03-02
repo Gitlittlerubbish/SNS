@@ -1,0 +1,16 @@
+--2020-03-02 03:46:36--  http://www.metromobilite.fr/pdf/conseils_conso.pdf
+Resolving www.metromobilite.fr (www.metromobilite.fr)... 83.145.98.142
+Connecting to www.metromobilite.fr (www.metromobilite.fr)|83.145.98.142|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.metromobilite.fr/pdf/conseils_conso.pdf [following]
+--2020-03-02 03:46:36--  https://www.metromobilite.fr/pdf/conseils_conso.pdf
+Connecting to www.metromobilite.fr (www.metromobilite.fr)|83.145.98.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89049 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 6.82M 0s
+    50K .......... .......... .......... ......               100%  206M=0.06s
+
+2020-03-02 03:46:36 (11.6 Mb/s) - ‘/dev/null’ saved [89049/89049]
+

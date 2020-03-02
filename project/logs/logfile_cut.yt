@@ -1,0 +1,42 @@
+--2020-03-02 07:27:00--  http://cut.yt/dp2LC4
+Resolving cut.yt (cut.yt)... 185.25.151.163
+Connecting to cut.yt (cut.yt)|185.25.151.163|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://static.livehome.pl/ebadminton.com.pl/files/t12_players.pdf [following]
+--2020-03-02 07:27:01--  http://static.livehome.pl/ebadminton.com.pl/files/t12_players.pdf
+Resolving static.livehome.pl (static.livehome.pl)... 185.25.151.163
+Reusing existing connection to cut.yt:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://static.livehome.pl/ebadminton.com.pl/files/t12_players.pdf [following]
+--2020-03-02 07:27:01--  https://static.livehome.pl/ebadminton.com.pl/files/t12_players.pdf
+Connecting to static.livehome.pl (static.livehome.pl)|185.25.151.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 346436 (338K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 5.71M 0s
+    50K .......... .......... .......... .......... .......... 29% 11.2M 0s
+   100K .......... .......... .......... .......... .......... 44% 12.0M 0s
+   150K .......... .......... .......... .......... .......... 59% 12.6M 0s
+   200K .......... .......... .......... .......... .......... 73%  103M 0s
+   250K .......... .......... .......... .......... .......... 88%  104M 0s
+   300K .......... .......... .......... ........             100% 10.8M=0.2s
+
+2020-03-02 07:27:01 (13.1 Mb/s) - ‘/dev/null’ saved [346436/346436]
+
+--2020-03-02 07:27:01--  http://cut.yt/ZREHlu
+Resolving cut.yt (cut.yt)... 185.25.151.163
+Connecting to cut.yt (cut.yt)|185.25.151.163|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://static.livehome.pl/ebadminton.com.pl/files/t7_players.pdf [following]
+--2020-03-02 07:27:01--  https://static.livehome.pl/ebadminton.com.pl/files/t7_players.pdf
+Resolving static.livehome.pl (static.livehome.pl)... 185.25.151.163
+Connecting to static.livehome.pl (static.livehome.pl)|185.25.151.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42438 (41K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .         100% 4.87M=0.07s
+
+2020-03-02 07:27:01 (4.87 Mb/s) - ‘/dev/null’ saved [42438/42438]
+

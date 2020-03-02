@@ -1,0 +1,21 @@
+--2020-03-02 06:04:17--  http://www.axis.com.kw/files/datasheet/ds_license_plate_verifier_t10125059_it_1804.pdf
+Resolving www.axis.com.kw (www.axis.com.kw)... 195.60.68.98
+Connecting to www.axis.com.kw (www.axis.com.kw)|195.60.68.98|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.axis.com/ [following]
+--2020-03-02 06:04:18--  https://www.axis.com/
+Resolving www.axis.com (www.axis.com)... 199.232.57.117
+Connecting to www.axis.com (www.axis.com)|199.232.57.117|:443... connected.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: /en-gb [following]
+--2020-03-02 06:04:18--  https://www.axis.com/en-gb
+Reusing existing connection to www.axis.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 60820 (59K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 84% 43.0M 0s
+    50K .........                                             100%  219M=0.01s
+
+2020-03-02 06:04:18 (49.3 Mb/s) - ‘/dev/null’ saved [60820/60820]
+

@@ -1,0 +1,11 @@
+--2020-03-01 22:26:15--  http://www.douanemobile.dz/IMG/pdf/guideoperateur.pdf
+Resolving www.douanemobile.dz (www.douanemobile.dz)... 80.246.1.129
+Connecting to www.douanemobile.dz (www.douanemobile.dz)|80.246.1.129|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21874 (21K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                               100% 4.46M=0.04s
+
+2020-03-01 22:26:16 (4.46 Mb/s) - ‘/dev/null’ saved [21874/21874]
+

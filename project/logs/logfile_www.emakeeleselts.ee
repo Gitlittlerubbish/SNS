@@ -1,0 +1,11 @@
+--2020-03-02 03:31:10--  http://www.emakeeleselts.ee/otsused/eskt_otsus_2009_peale_parast.pdf
+Resolving www.emakeeleselts.ee (www.emakeeleselts.ee)... 193.40.113.42
+Connecting to www.emakeeleselts.ee (www.emakeeleselts.ee)|193.40.113.42|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43331 (42K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..        100% 5.44M=0.06s
+
+2020-03-02 03:31:10 (5.44 Mb/s) - ‘/dev/null’ saved [43331/43331]
+

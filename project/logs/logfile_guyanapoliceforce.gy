@@ -1,0 +1,17 @@
+--2020-03-02 04:18:21--  http://guyanapoliceforce.gy/assets/pdf/forms/firearm_app.pdf
+Resolving guyanapoliceforce.gy (guyanapoliceforce.gy)... 142.4.17.198
+Connecting to guyanapoliceforce.gy (guyanapoliceforce.gy)|142.4.17.198|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.guyanapoliceforce.gy/assets/pdf/forms/firearm_app.pdf [following]
+--2020-03-02 04:18:22--  https://www.guyanapoliceforce.gy/assets/pdf/forms/firearm_app.pdf
+Resolving www.guyanapoliceforce.gy (www.guyanapoliceforce.gy)... 142.4.17.198
+Connecting to www.guyanapoliceforce.gy (www.guyanapoliceforce.gy)|142.4.17.198|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83853 (82K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 61% 1.26M 0s
+    50K .......... .......... .......... .                    100% 1.65M=0.5s
+
+2020-03-02 04:18:23 (1.39 Mb/s) - ‘/dev/null’ saved [83853/83853]
+

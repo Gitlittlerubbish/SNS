@@ -1,0 +1,13 @@
+--2020-03-02 03:05:49--  http://www.lyceehodane.dj/uploads/resulats/1403608711.PDF
+Resolving www.lyceehodane.dj (www.lyceehodane.dj)... 41.189.224.134
+Connecting to www.lyceehodane.dj (www.lyceehodane.dj)|41.189.224.134|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122937 (120K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 2.39M 0s
+    50K .......... .......... .......... .......... .......... 83% 4.83M 0s
+   100K .......... ..........                                 100% 45.2M=0.3s
+
+2020-03-02 03:05:50 (3.79 Mb/s) - ‘/dev/null’ saved [122937/122937]
+

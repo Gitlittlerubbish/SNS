@@ -1,0 +1,25 @@
+--2020-03-02 06:21:29--  http://emansion.gov.lr/doc/EXPRESSION_8.pdf
+Resolving emansion.gov.lr (emansion.gov.lr)... 198.57.27.125
+Connecting to emansion.gov.lr (emansion.gov.lr)|198.57.27.125|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://emansion.gov.lr/doc/EXPRESSION_8.pdf [following]
+--2020-03-02 06:21:30--  https://emansion.gov.lr/doc/EXPRESSION_8.pdf
+Connecting to emansion.gov.lr (emansion.gov.lr)|198.57.27.125|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 534304 (522K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 2.07M 2s
+    50K .......... .......... .......... .......... .......... 19% 4.17M 1s
+   100K .......... .......... .......... .......... .......... 28%  111M 1s
+   150K .......... .......... .......... .......... .......... 38% 14.3M 1s
+   200K .......... .......... .......... .......... .......... 47% 5.78M 0s
+   250K .......... .......... .......... .......... .......... 57%  230M 0s
+   300K .......... .......... .......... .......... .......... 67% 4.34M 0s
+   350K .......... .......... .......... .......... .......... 76%  141M 0s
+   400K .......... .......... .......... .......... .......... 86%  274M 0s
+   450K .......... .......... .......... .......... .......... 95%  227M 0s
+   500K .......... .......... .                               100%  705M=0.5s
+
+2020-03-02 06:21:31 (8.51 Mb/s) - ‘/dev/null’ saved [534304/534304]
+

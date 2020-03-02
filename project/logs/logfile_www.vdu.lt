@@ -1,0 +1,48 @@
+--2020-03-02 06:26:04--  http://www.vdu.lt/reguliaminas
+Resolving www.vdu.lt (www.vdu.lt)... 158.129.51.79
+Connecting to www.vdu.lt (www.vdu.lt)|158.129.51.79|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.vdu.lt/reguliaminas [following]
+--2020-03-02 06:26:04--  https://www.vdu.lt/reguliaminas
+Connecting to www.vdu.lt (www.vdu.lt)|158.129.51.79|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.vdu.lt/wp-content/uploads/2019/12/Studiju-reguliaminas_po-Senato-2019.pdf [following]
+--2020-03-02 06:26:04--  https://www.vdu.lt/wp-content/uploads/2019/12/Studiju-reguliaminas_po-Senato-2019.pdf
+Reusing existing connection to www.vdu.lt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 406315 (397K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 4.92M 1s
+    50K .......... .......... .......... .......... .......... 25% 9.70M 0s
+   100K .......... .......... .......... .......... .......... 37% 74.7M 0s
+   150K .......... .......... .......... .......... .......... 50%  260M 0s
+   200K .......... .......... .......... .......... .......... 63% 10.2M 0s
+   250K .......... .......... .......... .......... .......... 75%  130M 0s
+   300K .......... .......... .......... .......... .......... 88% 13.3M 0s
+   350K .......... .......... .......... .......... ......    100%  242M=0.2s
+
+2020-03-02 06:26:04 (15.6 Mb/s) - ‘/dev/null’ saved [406315/406315]
+
+--2020-03-02 06:26:04--  http://www.vdu.lt/kalendorius
+Resolving www.vdu.lt (www.vdu.lt)... 158.129.51.79
+Connecting to www.vdu.lt (www.vdu.lt)|158.129.51.79|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.vdu.lt/kalendorius [following]
+--2020-03-02 06:26:04--  https://www.vdu.lt/kalendorius
+Connecting to www.vdu.lt (www.vdu.lt)|158.129.51.79|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.vdu.lt/wp-content/uploads/2020/02/2019-2020-met%C5%B3-akademinis-kalendorius-su-pakeitimu.pdf [following]
+--2020-03-02 06:26:05--  https://www.vdu.lt/wp-content/uploads/2020/02/2019-2020-met%C5%B3-akademinis-kalendorius-su-pakeitimu.pdf
+Reusing existing connection to www.vdu.lt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 197472 (193K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 4.99M 0s
+    50K .......... .......... .......... .......... .......... 51% 9.78M 0s
+   100K .......... .......... .......... .......... .......... 77%  183M 0s
+   150K .......... .......... .......... .......... ..        100%  570M=0.1s
+
+2020-03-02 06:26:05 (12.5 Mb/s) - ‘/dev/null’ saved [197472/197472]
+

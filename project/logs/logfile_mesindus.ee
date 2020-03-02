@@ -1,0 +1,16 @@
+--2020-03-02 03:31:00--  http://mesindus.ee/files/mesilaste_kaeitumine_ja_nouded_mesilastega_toeoetamisel.pdf
+Resolving mesindus.ee (mesindus.ee)... 217.146.69.16
+Connecting to mesindus.ee (mesindus.ee)|217.146.69.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mesindus.ee/files/mesilaste_kaeitumine_ja_nouded_mesilastega_toeoetamisel.pdf [following]
+--2020-03-02 03:31:00--  https://mesindus.ee/files/mesilaste_kaeitumine_ja_nouded_mesilastega_toeoetamisel.pdf
+Connecting to mesindus.ee (mesindus.ee)|217.146.69.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68563 (67K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 74% 5.62M 0s
+    50K .......... ......                                     100% 1.13G=0.07s
+
+2020-03-02 03:31:00 (7.51 Mb/s) - ‘/dev/null’ saved [68563/68563]
+

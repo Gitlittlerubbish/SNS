@@ -1,0 +1,22 @@
+--2020-03-02 00:33:50--  http://www.caliper.bm/hse/environment/Health070423.pdf
+Resolving www.caliper.bm (www.caliper.bm)... 173.254.28.76
+Connecting to www.caliper.bm (www.caliper.bm)|173.254.28.76|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12452 (12K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ..                                         100%  643M=0s
+
+2020-03-02 00:33:50 (643 Mb/s) - ‘/dev/null’ saved [12452/12452]
+
+--2020-03-02 00:34:14--  http://www.caliper.bm/hse/safety/safety-20070115.pdf
+Resolving www.caliper.bm (www.caliper.bm)... 173.254.28.76
+Connecting to www.caliper.bm (www.caliper.bm)|173.254.28.76|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27180 (27K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                          100% 1.31M=0.2s
+
+2020-03-02 00:34:15 (1.31 Mb/s) - ‘/dev/null’ saved [27180/27180]
+

@@ -1,0 +1,13 @@
+--2020-03-02 02:00:57--  http://tukiviittompia.cf/~guus/papers/Heijst97a.pdf
+Resolving tukiviittompia.cf (tukiviittompia.cf)... 104.27.136.211, 104.27.137.211
+Connecting to tukiviittompia.cf (tukiviittompia.cf)|104.27.136.211|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  104M
+    50K .......... .......... .......... .......... .......... 88.1M
+   100K .......... .......... .......... ........              66.6M=0.01s
+
+2020-03-02 02:00:58 (85.2 Mb/s) - ‘/dev/null’ saved [141738]
+

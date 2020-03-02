@@ -1,0 +1,16 @@
+--2020-03-02 05:09:43--  http://www.utechjamaica.edu.jm/enrolment/EnrolmentSteps.pdf
+Resolving www.utechjamaica.edu.jm (www.utechjamaica.edu.jm)... 200.9.115.9
+Connecting to www.utechjamaica.edu.jm (www.utechjamaica.edu.jm)|200.9.115.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287422 (281K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17%  702K 3s
+    50K .......... .......... .......... .......... .......... 35% 2.76M 1s
+   100K .......... .......... .......... .......... .......... 53%  111M 1s
+   150K .......... .......... .......... .......... .......... 71% 2.87M 0s
+   200K .......... .......... .......... .......... .......... 89%  100M 0s
+   250K .......... .......... ..........                      100%  181M=0.9s
+
+2020-03-02 05:09:45 (2.60 Mb/s) - ‘/dev/null’ saved [287422/287422]
+

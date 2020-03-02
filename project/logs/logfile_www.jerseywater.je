@@ -1,0 +1,45 @@
+--2020-03-02 05:22:18--  http://www.jerseywater.je/files/public-docs/jersey_water/factsheets/JW_Fact_Sheet_Water_Treatment_Works.pdf
+Resolving www.jerseywater.je (www.jerseywater.je)... 217.174.250.155
+Connecting to www.jerseywater.je (www.jerseywater.je)|217.174.250.155|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.jerseywater.je/files/public-docs/jersey_water/factsheets/JW_Fact_Sheet_Water_Treatment_Works.pdf [following]
+--2020-03-02 05:22:18--  https://www.jerseywater.je/files/public-docs/jersey_water/factsheets/JW_Fact_Sheet_Water_Treatment_Works.pdf
+Connecting to www.jerseywater.je (www.jerseywater.je)|217.174.250.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277546 (271K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 24.0M 0s
+    50K .......... .......... .......... .......... .......... 36% 45.4M 0s
+   100K .......... .......... .......... .......... .......... 55% 49.6M 0s
+   150K .......... .......... .......... .......... .......... 73% 59.5M 0s
+   200K .......... .......... .......... .......... .......... 92% 69.5M 0s
+   250K .......... .......... .                               100% 76.9M=0.05s
+
+2020-03-02 05:22:18 (45.0 Mb/s) - ‘/dev/null’ saved [277546/277546]
+
+--2020-03-02 05:22:18--  http://www.jerseywater.je/files/public-docs/jersey_water/your_account/New_Metered_Water_Supply_NMWS.pdf
+Resolving www.jerseywater.je (www.jerseywater.je)... 217.174.250.155
+Connecting to www.jerseywater.je (www.jerseywater.je)|217.174.250.155|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.jerseywater.je/files/public-docs/jersey_water/your_account/New_Metered_Water_Supply_NMWS.pdf [following]
+--2020-03-02 05:22:18--  https://www.jerseywater.je/files/public-docs/jersey_water/your_account/New_Metered_Water_Supply_NMWS.pdf
+Connecting to www.jerseywater.je (www.jerseywater.je)|217.174.250.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 521539 (509K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 20.8M 0s
+    50K .......... .......... .......... .......... .......... 19% 41.7M 0s
+   100K .......... .......... .......... .......... .......... 29% 38.1M 0s
+   150K .......... .......... .......... .......... .......... 39% 61.3M 0s
+   200K .......... .......... .......... .......... .......... 49% 90.2M 0s
+   250K .......... .......... .......... .......... .......... 58%  108M 0s
+   300K .......... .......... .......... .......... .......... 68% 79.3M 0s
+   350K .......... .......... .......... .......... .......... 78% 99.6M 0s
+   400K .......... .......... .......... .......... .......... 88% 65.6M 0s
+   450K .......... .......... .......... .......... .......... 98%  139M 0s
+   500K .........                                             100% 2.06G=0.07s
+
+2020-03-02 05:22:18 (56.6 Mb/s) - ‘/dev/null’ saved [521539/521539]
+

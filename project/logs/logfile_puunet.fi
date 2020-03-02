@@ -1,0 +1,13 @@
+--2020-03-02 03:45:48--  http://puunet.fi/files/359/traktori_peravaunu-kantola.pdf
+Resolving puunet.fi (puunet.fi)... 193.93.133.82
+Connecting to puunet.fi (puunet.fi)|193.93.133.82|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136179 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 10.0M 0s
+    50K .......... .......... .......... .......... .......... 75% 10.4M 0s
+   100K .......... .......... .......... ..                   100%  119M=0.08s
+
+2020-03-02 03:45:48 (13.2 Mb/s) - ‘/dev/null’ saved [136179/136179]
+

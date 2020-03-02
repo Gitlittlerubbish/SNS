@@ -1,0 +1,17 @@
+--2020-03-02 01:53:25--  http://keltymentalhealth.ca/r/valproic-aciddivalproex-depakenerepivalr
+Resolving keltymentalhealth.ca (keltymentalhealth.ca)... 138.197.160.150
+Connecting to keltymentalhealth.ca (keltymentalhealth.ca)|138.197.160.150|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://keltymentalhealth.ca/r/valproic-aciddivalproex-depakenerepivalr [following]
+--2020-03-02 01:53:25--  https://keltymentalhealth.ca/r/valproic-aciddivalproex-depakenerepivalr
+Connecting to keltymentalhealth.ca (keltymentalhealth.ca)|138.197.160.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.94M
+    50K .......... .......... .......... .......... .......... 4.92M
+   100K .......... .....                                        669M=0.2s
+
+2020-03-02 01:53:26 (5.69 Mb/s) - ‘/dev/null’ saved [118363]
+

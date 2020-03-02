@@ -1,0 +1,12 @@
+--2020-03-02 03:28:53--  http://www.orhideeac.gq/PDF/GDPR/Danske_Bank_privacy_notice.pdf
+Resolving www.orhideeac.gq (www.orhideeac.gq)... 104.18.52.42, 104.18.53.42
+Connecting to www.orhideeac.gq (www.orhideeac.gq)|104.18.52.42|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 71.8M
+    50K .......... .......... ......                            471M=0.006s
+
+2020-03-02 03:28:53 (101 Mb/s) - ‘/dev/null’ saved [77940]
+

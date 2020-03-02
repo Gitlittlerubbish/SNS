@@ -1,0 +1,28 @@
+--2020-03-01 23:19:12--  http://hub.am/1tMJ8c6
+Resolving hub.am (hub.am)... 67.199.248.13, 67.199.248.12
+Connecting to hub.am (hub.am)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://ccrc.tc.columbia.edu/media/k2/attachments/redesigning-student-intake-information-provision-processes.pdf?utm_content=5933777&utm_medium=social&utm_source=twitter [following]
+--2020-03-01 23:19:12--  http://ccrc.tc.columbia.edu/media/k2/attachments/redesigning-student-intake-information-provision-processes.pdf?utm_content=5933777&utm_medium=social&utm_source=twitter
+Resolving ccrc.tc.columbia.edu (ccrc.tc.columbia.edu)... 67.205.94.182
+Connecting to ccrc.tc.columbia.edu (ccrc.tc.columbia.edu)|67.205.94.182|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 651871 (637K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 2.17M 2s
+    50K .......... .......... .......... .......... .......... 15% 4.39M 2s
+   100K .......... .......... .......... .......... .......... 23% 4.26M 1s
+   150K .......... .......... .......... .......... .......... 31% 4.60M 1s
+   200K .......... .......... .......... .......... .......... 39% 58.4M 1s
+   250K .......... .......... .......... .......... .......... 47%  125M 1s
+   300K .......... .......... .......... .......... .......... 54% 4.62M 0s
+   350K .......... .......... .......... .......... .......... 62%  100M 0s
+   400K .......... .......... .......... .......... .......... 70% 4.84M 0s
+   450K .......... .......... .......... .......... .......... 78%  115M 0s
+   500K .......... .......... .......... .......... .......... 86%  106M 0s
+   550K .......... .......... .......... .......... .......... 94%  107M 0s
+   600K .......... .......... .......... ......               100%  152M=0.7s
+
+2020-03-01 23:19:13 (7.80 Mb/s) - ‘/dev/null’ saved [651871/651871]
+

@@ -1,0 +1,11 @@
+--2020-03-02 04:00:54--  http://www.guggeinferno.de/images/muttizettel.pdf
+Resolving www.guggeinferno.de (www.guggeinferno.de)... 5.175.14.69
+Connecting to www.guggeinferno.de (www.guggeinferno.de)|5.175.14.69|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23996 (23K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                             100% 9.99M=0.02s
+
+2020-03-02 04:00:54 (9.99 Mb/s) - ‘/dev/null’ saved [23996/23996]
+

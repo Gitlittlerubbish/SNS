@@ -1,0 +1,26 @@
+--2020-03-02 06:28:54--  http://www.euro-cordiale.lu/compro/files/FR/D/D2_14.pdf
+Resolving www.euro-cordiale.lu (www.euro-cordiale.lu)... 158.64.1.63
+Connecting to www.euro-cordiale.lu (www.euro-cordiale.lu)|158.64.1.63|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.euro-cordiale.lu/compro/files/FR/D/D2_14.pdf [following]
+--2020-03-02 06:28:54--  https://www.euro-cordiale.lu/compro/files/FR/D/D2_14.pdf
+Connecting to www.euro-cordiale.lu (www.euro-cordiale.lu)|158.64.1.63|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 566850 (554K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 31.1M 0s
+    50K .......... .......... .......... .......... .......... 18% 32.6M 0s
+   100K .......... .......... .......... .......... .......... 27%  104M 0s
+   150K .......... .......... .......... .......... .......... 36%  570M 0s
+   200K .......... .......... .......... .......... .......... 45% 34.6M 0s
+   250K .......... .......... .......... .......... .......... 54%  172M 0s
+   300K .......... .......... .......... .......... .......... 63% 53.4M 0s
+   350K .......... .......... .......... .......... .......... 72% 87.5M 0s
+   400K .......... .......... .......... .......... .......... 81%  165M 0s
+   450K .......... .......... .......... .......... .......... 90% 57.4M 0s
+   500K .......... .......... .......... .......... .......... 99%  129M 0s
+   550K ...                                                   100%  562M=0.07s
+
+2020-03-02 06:28:55 (65.0 Mb/s) - ‘/dev/null’ saved [566850/566850]
+

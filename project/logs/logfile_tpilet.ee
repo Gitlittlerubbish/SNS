@@ -1,0 +1,16 @@
+--2020-03-02 03:32:18--  http://tpilet.ee/docs/viisa.pdf
+Resolving tpilet.ee (tpilet.ee)... 85.222.233.164
+Connecting to tpilet.ee (tpilet.ee)|85.222.233.164|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.tpilet.ee [following]
+--2020-03-02 03:32:18--  https://www.tpilet.ee/
+Resolving www.tpilet.ee (www.tpilet.ee)... 85.222.233.164
+Connecting to www.tpilet.ee (www.tpilet.ee)|85.222.233.164|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5810 (5.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                 100% 4.65G=0s
+
+2020-03-02 03:32:19 (4.65 Gb/s) - ‘/dev/null’ saved [5810/5810]
+

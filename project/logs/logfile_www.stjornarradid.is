@@ -1,0 +1,36 @@
+--2020-03-02 04:39:45--  http://www.stjornarradid.is/media/velferdarraduneyti-media/media/greinasafn/larsen_2002.pdf
+Resolving www.stjornarradid.is (www.stjornarradid.is)... 104.20.183.25, 104.20.182.25
+Connecting to www.stjornarradid.is (www.stjornarradid.is)|104.20.183.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.stjornarradid.is/media/velferdarraduneyti-media/media/greinasafn/larsen_2002.pdf [following]
+--2020-03-02 04:39:45--  https://www.stjornarradid.is/media/velferdarraduneyti-media/media/greinasafn/larsen_2002.pdf
+Connecting to www.stjornarradid.is (www.stjornarradid.is)|104.20.183.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164827 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31%  173M 0s
+    50K .......... .......... .......... .......... .......... 62%  144M 0s
+   100K .......... .......... .......... .......... .......... 93% 8.85M 0s
+   150K ..........                                            100%  470M=0.05s
+
+2020-03-02 04:39:46 (25.5 Mb/s) - ‘/dev/null’ saved [164827/164827]
+
+--2020-03-02 04:39:50--  http://www.stjornarradid.is/media/velferdarraduneyti-media/media/greinasafn/larsen_2002.pdf
+Resolving www.stjornarradid.is (www.stjornarradid.is)... 104.20.183.25, 104.20.182.25
+Connecting to www.stjornarradid.is (www.stjornarradid.is)|104.20.183.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.stjornarradid.is/media/velferdarraduneyti-media/media/greinasafn/larsen_2002.pdf [following]
+--2020-03-02 04:39:50--  https://www.stjornarradid.is/media/velferdarraduneyti-media/media/greinasafn/larsen_2002.pdf
+Connecting to www.stjornarradid.is (www.stjornarradid.is)|104.20.183.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164827 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31%  207M 0s
+    50K .......... .......... .......... .......... .......... 62%  430M 0s
+   100K .......... .......... .......... .......... .......... 93% 10.4M 0s
+   150K ..........                                            100%  449M=0.04s
+
+2020-03-02 04:39:50 (31.1 Mb/s) - ‘/dev/null’ saved [164827/164827]
+

@@ -1,0 +1,15 @@
+--2020-03-02 02:22:00--  http://seireirouso.1ch.cx/seigansyo.pdf
+Resolving seireirouso.1ch.cx (seireirouso.1ch.cx)... 210.233.74.155
+Connecting to seireirouso.1ch.cx (seireirouso.1ch.cx)|210.233.74.155|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216679 (212K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  632K 2s
+    50K .......... .......... .......... .......... .......... 47% 1.49M 1s
+   100K .......... .......... .......... .......... .......... 70%  547M 0s
+   150K .......... .......... .......... .......... .......... 94% 1.34M 0s
+   200K .......... .                                          100% 63.9M=1.2s
+
+2020-03-02 02:22:02 (1.41 Mb/s) - ‘/dev/null’ saved [216679/216679]
+

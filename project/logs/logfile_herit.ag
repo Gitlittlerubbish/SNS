@@ -1,0 +1,26 @@
+--2020-03-01 23:00:19--  http://herit.ag/2POpsq2%3B
+Resolving herit.ag (herit.ag)... 67.199.248.12, 67.199.248.13
+Connecting to herit.ag (herit.ag)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.heritage.org/sites/default/files/2017-09/SR194.pdf [following]
+--2020-03-01 23:00:20--  https://www.heritage.org/sites/default/files/2017-09/SR194.pdf
+Resolving www.heritage.org (www.heritage.org)... 104.20.1.212, 104.20.2.212
+Connecting to www.heritage.org (www.heritage.org)|104.20.1.212|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 534416 (522K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9%  151M 0s
+    50K .......... .......... .......... .......... .......... 19%  340M 0s
+   100K .......... .......... .......... .......... .......... 28%  438M 0s
+   150K .......... .......... .......... .......... .......... 38% 54.2M 0s
+   200K .......... .......... .......... .......... .......... 47%  183M 0s
+   250K .......... .......... .......... .......... .......... 57%  939M 0s
+   300K .......... .......... .......... .......... .......... 67%  228M 0s
+   350K .......... .......... .......... .......... .......... 76%  161M 0s
+   400K .......... .......... .......... .......... .......... 86%  196M 0s
+   450K .......... .......... .......... .......... .......... 95%  120M 0s
+   500K .......... .......... .                               100%  258M=0.03s
+
+2020-03-01 23:00:20 (167 Mb/s) - ‘/dev/null’ saved [534416/534416]
+

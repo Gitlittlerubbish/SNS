@@ -1,0 +1,14 @@
+--2020-03-02 03:53:17--  http://www.hacknabled.ga/media/1232/staevne_og_turneringsmanual.pdf
+Resolving www.hacknabled.ga (www.hacknabled.ga)... 104.24.104.189, 104.24.105.189
+Connecting to www.hacknabled.ga (www.hacknabled.ga)|104.24.104.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 91.4M
+    50K .......... .......... .......... .......... ..........  152M
+   100K .......... .......... .......... .......... .......... 60.6M
+   150K .......... .......... .......... .......... ...        86.1M=0.02s
+
+2020-03-02 03:53:17 (87.7 Mb/s) - ‘/dev/null’ saved [197996]
+

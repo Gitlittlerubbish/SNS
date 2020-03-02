@@ -1,0 +1,22 @@
+--2020-03-01 23:41:07--  http://saegroup.com.au/wp-content/uploads/2019/09/Powerwall-2_Datasheet.pdf
+Resolving saegroup.com.au (saegroup.com.au)... 173.254.105.164
+Connecting to saegroup.com.au (saegroup.com.au)|173.254.105.164|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.saegroup.com.au/wp-content/uploads/2019/09/Powerwall-2_Datasheet.pdf [following]
+--2020-03-01 23:41:09--  https://www.saegroup.com.au/wp-content/uploads/2019/09/Powerwall-2_Datasheet.pdf
+Resolving www.saegroup.com.au (www.saegroup.com.au)... 173.254.105.164
+Connecting to www.saegroup.com.au (www.saegroup.com.au)|173.254.105.164|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 315220 (308K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16%  842K 3s
+    50K .......... .......... .......... .......... .......... 32%  837K 2s
+   100K .......... .......... .......... .......... .......... 48% 1.24M 1s
+   150K .......... .......... .......... .......... .......... 64%  841K 1s
+   200K .......... .......... .......... .......... .......... 81% 1.24M 0s
+   250K .......... .......... .......... .......... .......... 97% 1.26M 0s
+   300K .......                                               100%  400K=2.6s
+
+2020-03-01 23:41:13 (967 Kb/s) - ‘/dev/null’ saved [315220/315220]
+

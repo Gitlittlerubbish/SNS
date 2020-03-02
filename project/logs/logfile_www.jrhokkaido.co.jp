@@ -1,0 +1,16 @@
+--2020-03-02 05:16:22--  http://www.jrhokkaido.co.jp/network/guide/pdf/rule_12.pdf
+Resolving www.jrhokkaido.co.jp (www.jrhokkaido.co.jp)... 149.126.74.55
+Connecting to www.jrhokkaido.co.jp (www.jrhokkaido.co.jp)|149.126.74.55|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.jrhokkaido.co.jp/network/guide/pdf/rule_12.pdf [following]
+--2020-03-02 05:16:22--  https://www.jrhokkaido.co.jp/network/guide/pdf/rule_12.pdf
+Connecting to www.jrhokkaido.co.jp (www.jrhokkaido.co.jp)|149.126.74.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85490 (83K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 54.7M 0s
+    50K .......... .......... .......... ...                  100%  143M=0.009s
+
+2020-03-02 05:16:23 (72.6 Mb/s) - ‘/dev/null’ saved [85490/85490]
+

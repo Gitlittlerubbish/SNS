@@ -1,0 +1,11 @@
+--2020-03-02 01:42:46--  http://www.ndu.edu.kh/download%3Ffile%3D112
+Resolving www.ndu.edu.kh (www.ndu.edu.kh)... 104.27.177.49, 104.27.176.49
+Connecting to www.ndu.edu.kh (www.ndu.edu.kh)|104.27.177.49|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                        1.25M=0.09s
+
+2020-03-02 01:42:47 (1.25 Mb/s) - ‘/dev/null’ saved [14440]
+

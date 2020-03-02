@@ -1,0 +1,13 @@
+--2020-03-01 23:48:41--  http://acip.az/wp-content/uploads/2015/07/OSO_15-320.pdf
+Resolving acip.az (acip.az)... 94.20.21.50
+Connecting to acip.az (acip.az)|94.20.21.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105467 (103K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 2.56M 0s
+    50K .......... .......... .......... .......... .......... 97% 5.01M 0s
+   100K ..                                                    100%  491K=0.2s
+
+2020-03-01 23:48:43 (3.49 Mb/s) - ‘/dev/null’ saved [105467/105467]
+

@@ -1,0 +1,15 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:24:22--  https://www.mfa.am/filemanager/Statics/dip.pdf
+Resolving www.mfa.am (www.mfa.am)... 91.221.229.99
+Connecting to www.mfa.am (www.mfa.am)|91.221.229.99|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 174702 (171K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 2.12M 0s
+    50K .......... .......... .......... .......... .......... 58% 4.10M 0s
+   100K .......... .......... .......... .......... .......... 87% 4.18M 0s
+   150K .......... ..........                                 100%  466M=0.4s
+
+2020-03-01 23:24:23 (3.57 Mb/s) - ‘/dev/null’ saved [174702/174702]
+

@@ -1,0 +1,18 @@
+--2020-03-01 23:06:10--  http://www.partnerfonds.ag/files/Hauptversammlung/180710_Information_Beschlussfassung_HV_2018.pdf
+Resolving www.partnerfonds.ag (www.partnerfonds.ag)... 195.30.252.84
+Connecting to www.partnerfonds.ag (www.partnerfonds.ag)|195.30.252.84|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.partnerfonds.ag/files/Hauptversammlung/180710_Information_Beschlussfassung_HV_2018.pdf [following]
+--2020-03-01 23:06:10--  https://www.partnerfonds.ag/files/Hauptversammlung/180710_Information_Beschlussfassung_HV_2018.pdf
+Connecting to www.partnerfonds.ag (www.partnerfonds.ag)|195.30.252.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181353 (177K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 4.57M 0s
+    50K .......... .......... .......... .......... .......... 56%  102M 0s
+   100K .......... .......... .......... .......... .......... 84% 12.1M 0s
+   150K .......... .......... .......                         100% 53.0M=0.1s
+
+2020-03-01 23:06:10 (11.0 Mb/s) - ‘/dev/null’ saved [181353/181353]
+

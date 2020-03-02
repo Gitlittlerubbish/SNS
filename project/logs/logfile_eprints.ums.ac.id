@@ -1,0 +1,14 @@
+--2020-03-02 04:54:02--  http://eprints.ums.ac.id/18613/9/BAB_II.pdf
+Resolving eprints.ums.ac.id (eprints.ums.ac.id)... 103.226.174.231
+Connecting to eprints.ums.ac.id (eprints.ums.ac.id)|103.226.174.231|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172217 (168K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 1.12M 1s
+    50K .......... .......... .......... .......... .......... 59% 2.28M 0s
+   100K .......... .......... .......... .......... .......... 89% 66.1M 0s
+   150K .......... ........                                   100% 99.2M=0.6s
+
+2020-03-02 04:54:04 (2.49 Mb/s) - ‘/dev/null’ saved [172217/172217]
+

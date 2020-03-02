@@ -1,0 +1,12 @@
+--2020-03-02 05:08:19--  http://competenzedocenti.it/Documenti/le_competenze_degli_insegnanti_-_Rita_Ciambrone.pdf
+Resolving competenzedocenti.it (competenzedocenti.it)... 195.110.124.188
+Connecting to competenzedocenti.it (competenzedocenti.it)|195.110.124.188|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98248 (96K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 5.41M 0s
+    50K .......... .......... .......... .......... .....     100% 9.73M=0.1s
+
+2020-03-02 05:08:19 (6.87 Mb/s) - ‘/dev/null’ saved [98248/98248]
+

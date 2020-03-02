@@ -1,0 +1,42 @@
+--2020-03-02 05:03:21--  http://brazil.progress.im/sites/default/files/attachments/bula_lexapro.pdf
+Resolving brazil.progress.im (brazil.progress.im)... 35.158.231.75
+Connecting to brazil.progress.im (brazil.progress.im)|35.158.231.75|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://brazil.progress.im/sites/default/files/attachments/bula_lexapro.pdf [following]
+--2020-03-02 05:03:21--  https://brazil.progress.im/sites/default/files/attachments/bula_lexapro.pdf
+Connecting to brazil.progress.im (brazil.progress.im)|35.158.231.75|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263224 (257K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 20.5M 0s
+    50K .......... .......... .......... .......... .......... 38% 21.8M 0s
+   100K .......... .......... .......... .......... .......... 58%  177M 0s
+   150K .......... .......... .......... .......... .......... 77%  500M 0s
+   200K .......... .......... .......... .......... .......... 97% 20.0M 0s
+   250K .......                                               100% 2.41G=0.06s
+
+2020-03-02 05:03:21 (33.7 Mb/s) - ‘/dev/null’ saved [263224/263224]
+
+--2020-03-02 05:03:21--  http://brazil.progress.im/sites/default/files/attachments/bula_clopixol.pdf
+Resolving brazil.progress.im (brazil.progress.im)... 35.158.231.75
+Connecting to brazil.progress.im (brazil.progress.im)|35.158.231.75|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://brazil.progress.im/sites/default/files/attachments/bula_clopixol.pdf [following]
+--2020-03-02 05:03:21--  https://brazil.progress.im/sites/default/files/attachments/bula_clopixol.pdf
+Connecting to brazil.progress.im (brazil.progress.im)|35.158.231.75|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 409577 (400K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 21.5M 0s
+    50K .......... .......... .......... .......... .......... 25% 20.4M 0s
+   100K .......... .......... .......... .......... .......... 37%  408M 0s
+   150K .......... .......... .......... .......... .......... 50%  109M 0s
+   200K .......... .......... .......... .......... .......... 62% 25.0M 0s
+   250K .......... .......... .......... .......... .......... 75% 35.7M 0s
+   300K .......... .......... .......... .......... .......... 87% 49.7M 0s
+   350K .......... .......... .......... .......... ......... 100%  545M=0.08s
+
+2020-03-02 05:03:21 (40.6 Mb/s) - ‘/dev/null’ saved [409577/409577]
+

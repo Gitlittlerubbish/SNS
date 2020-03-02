@@ -1,0 +1,17 @@
+--2020-03-02 01:06:46--  http://www.wuc.bw/common_up/wuc-new/tender1572445751.pdf
+Resolving www.wuc.bw (www.wuc.bw)... 52.151.67.235
+Connecting to www.wuc.bw (www.wuc.bw)|52.151.67.235|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.wuc.bw/common_up/wuc-new/tender1572445751.pdf [following]
+--2020-03-02 01:06:46--  https://www.wuc.bw/common_up/wuc-new/tender1572445751.pdf
+Connecting to www.wuc.bw (www.wuc.bw)|52.151.67.235|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131562 (128K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 29.0M 0s
+    50K .......... .......... .......... .......... .......... 77% 65.1M 0s
+   100K .......... .......... ........                        100%  273M=0.02s
+
+2020-03-02 01:06:46 (49.5 Mb/s) - ‘/dev/null’ saved [131562/131562]
+

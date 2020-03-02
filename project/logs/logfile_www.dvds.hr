@@ -1,0 +1,13 @@
+--2020-03-02 02:54:48--  http://www.dvds.hr/pdf/djevojcicasasibicama.pdf
+Resolving www.dvds.hr (www.dvds.hr)... 66.206.25.26
+Connecting to www.dvds.hr (www.dvds.hr)|66.206.25.26|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106154 (104K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 10.9M 0s
+    50K .......... .......... .......... .......... .......... 96% 21.3M 0s
+   100K ...                                                   100% 28.4M=0.06s
+
+2020-03-02 02:54:48 (14.7 Mb/s) - ‘/dev/null’ saved [106154/106154]
+

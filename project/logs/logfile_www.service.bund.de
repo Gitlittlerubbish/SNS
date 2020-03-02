@@ -1,0 +1,11 @@
+--2020-03-02 04:00:59--  http://www.service.bund.de/SharedDocs/PDF/BehoerdenfinderPDF.pdf%3F__blob%3DpublicationFile
+Resolving www.service.bund.de (www.service.bund.de)... 77.87.229.48
+Connecting to www.service.bund.de (www.service.bund.de)|77.87.229.48|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42666 (42K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .         100%  115M=0.003s
+
+2020-03-02 04:01:00 (115 Mb/s) - ‘/dev/null’ saved [42666/42666]
+

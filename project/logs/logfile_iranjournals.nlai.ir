@@ -1,0 +1,18 @@
+--2020-03-02 04:55:38--  http://iranjournals.nlai.ir/article_77808_883c86702b032a7cd6e8f5f37b398e71.pdf
+Resolving iranjournals.nlai.ir (iranjournals.nlai.ir)... 80.191.10.10
+Connecting to iranjournals.nlai.ir (iranjournals.nlai.ir)|80.191.10.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://iranjournals.nlai.ir/article_77808_883c86702b032a7cd6e8f5f37b398e71.pdf [following]
+--2020-03-02 04:55:38--  https://iranjournals.nlai.ir/article_77808_883c86702b032a7cd6e8f5f37b398e71.pdf
+Connecting to iranjournals.nlai.ir (iranjournals.nlai.ir)|80.191.10.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185639 (181K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 2.22M 0s
+    50K .......... .......... .......... .......... .......... 55% 4.37M 0s
+   100K .......... .......... .......... .......... .......... 82% 2.27M 0s
+   150K .......... .......... .......... .                    100% 2.84M=0.5s
+
+2020-03-02 04:55:39 (2.71 Mb/s) - ‘/dev/null’ saved [185639/185639]
+

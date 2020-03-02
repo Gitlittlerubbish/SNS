@@ -1,0 +1,48 @@
+--2020-03-02 02:37:21--  http://www.mefdd.cg/no_cache/publications/%3Ftx_abdownloads_pi1%5Baction%5D%3Dgetviewclickeddownload%26tx_abdownloads_pi1%5Buid%5D%3D53
+Resolving www.mefdd.cg (www.mefdd.cg)... 51.255.80.200
+Connecting to www.mefdd.cg (www.mefdd.cg)|51.255.80.200|:80... connected.
+HTTP request sent, awaiting response... 301 TYPO3 RealURL redirect M961
+Location: http://www.mefdd.cg/no_cache/publications/%3Ftx_abdownloads_pi1%5Baction%5D%3Dgetviewclickeddownload%26tx_abdownloads_pi1%5Buid%5D%3D53/ [following]
+--2020-03-02 02:37:22--  http://www.mefdd.cg/no_cache/publications/%3Ftx_abdownloads_pi1%5Baction%5D%3Dgetviewclickeddownload%26tx_abdownloads_pi1%5Buid%5D%3D53/
+Reusing existing connection to www.mefdd.cg:80.
+HTTP request sent, awaiting response... 301 TYPO3 RealURL Redirect M1362
+Location: http://www.mefdd.cg/no_cache/publications [following]
+--2020-03-02 02:37:22--  http://www.mefdd.cg/no_cache/publications
+Reusing existing connection to www.mefdd.cg:80.
+HTTP request sent, awaiting response... 301 TYPO3 RealURL redirect M961
+Location: http://www.mefdd.cg/no_cache/publications/ [following]
+--2020-03-02 02:37:22--  http://www.mefdd.cg/no_cache/publications/
+Reusing existing connection to www.mefdd.cg:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 79157 (77K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 64% 32.2M 0s
+    50K .......... .......... .......                         100% 64.8M=0.02s
+
+2020-03-02 02:37:25 (39.1 Mb/s) - ‘/dev/null’ saved [79157/79157]
+
+--2020-03-02 02:37:25--  http://www.mefdd.cg/no_cache/publications/%3Ftx_abdownloads_pi1%5Baction%5D%3Dgetviewclickeddownload%26tx_abdownloads_pi1%5Buid%5D%3D37
+Resolving www.mefdd.cg (www.mefdd.cg)... 51.255.80.200
+Connecting to www.mefdd.cg (www.mefdd.cg)|51.255.80.200|:80... connected.
+HTTP request sent, awaiting response... 301 TYPO3 RealURL redirect M961
+Location: http://www.mefdd.cg/no_cache/publications/%3Ftx_abdownloads_pi1%5Baction%5D%3Dgetviewclickeddownload%26tx_abdownloads_pi1%5Buid%5D%3D37/ [following]
+--2020-03-02 02:37:25--  http://www.mefdd.cg/no_cache/publications/%3Ftx_abdownloads_pi1%5Baction%5D%3Dgetviewclickeddownload%26tx_abdownloads_pi1%5Buid%5D%3D37/
+Reusing existing connection to www.mefdd.cg:80.
+HTTP request sent, awaiting response... 301 TYPO3 RealURL Redirect M1362
+Location: http://www.mefdd.cg/no_cache/publications [following]
+--2020-03-02 02:37:25--  http://www.mefdd.cg/no_cache/publications
+Reusing existing connection to www.mefdd.cg:80.
+HTTP request sent, awaiting response... 301 TYPO3 RealURL redirect M961
+Location: http://www.mefdd.cg/no_cache/publications/ [following]
+--2020-03-02 02:37:25--  http://www.mefdd.cg/no_cache/publications/
+Reusing existing connection to www.mefdd.cg:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 79157 (77K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 64% 30.3M 0s
+    50K .......... .......... .......                         100%  103M=0.02s
+
+2020-03-02 02:37:28 (40.3 Mb/s) - ‘/dev/null’ saved [79157/79157]
+

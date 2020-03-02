@@ -1,0 +1,39 @@
+--2020-03-02 07:32:30--  http://aby.fm/ra17blitzerbrandenburg
+Resolving aby.fm (aby.fm)... 194.97.153.230
+Connecting to aby.fm (aby.fm)|194.97.153.230|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://polizei.brandenburg.de/fm/32/Kontrollorte%20im%20Land%20Brandenburg%20-%2024-Stunden-Blitz-Marathon%202017.pdf [following]
+--2020-03-02 07:32:30--  https://polizei.brandenburg.de/fm/32/Kontrollorte%20im%20Land%20Brandenburg%20-%2024-Stunden-Blitz-Marathon%202017.pdf
+Resolving polizei.brandenburg.de (polizei.brandenburg.de)... 194.76.232.243
+Connecting to polizei.brandenburg.de (polizei.brandenburg.de)|194.76.232.243|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165541 (162K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 6.97M 0s
+    50K .......... .......... .......... .......... .......... 61% 14.8M 0s
+   100K .......... .......... .......... .......... .......... 92%  110M 0s
+   150K .......... .                                          100%  279M=0.09s
+
+2020-03-02 07:32:31 (14.6 Mb/s) - ‘/dev/null’ saved [165541/165541]
+
+--2020-03-02 07:32:31--  http://aby.fm/rablitzmarathon19oberpfalz
+Resolving aby.fm (aby.fm)... 194.97.153.230
+Connecting to aby.fm (aby.fm)|194.97.153.230|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://cdn.antenne.de/rockantenne-de/uploads/files/pdfs/2019/190329_blitzmarathon_messstellen_oberpfalz.pdf [following]
+--2020-03-02 07:32:31--  http://cdn.antenne.de/rockantenne-de/uploads/files/pdfs/2019/190329_blitzmarathon_messstellen_oberpfalz.pdf
+Resolving cdn.antenne.de (cdn.antenne.de)... 194.97.153.230
+Connecting to cdn.antenne.de (cdn.antenne.de)|194.97.153.230|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219369 (214K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 6.89M 0s
+    50K .......... .......... .......... .......... .......... 46% 12.8M 0s
+   100K .......... .......... .......... .......... .......... 70% 7.05M 0s
+   150K .......... .......... .......... .......... .......... 93% 13.4M 0s
+   200K .......... ....                                       100%  322M=0.2s
+
+2020-03-02 07:32:31 (9.72 Mb/s) - ‘/dev/null’ saved [219369/219369]
+

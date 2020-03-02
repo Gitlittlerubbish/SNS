@@ -1,0 +1,21 @@
+--2020-03-02 08:27:29--  http://www.grantthornton.co.nz/link/3ae4b3daf1dc45abac0cf2d123a7108c.aspx
+Resolving www.grantthornton.co.nz (www.grantthornton.co.nz)... 104.18.8.58, 104.18.9.58
+Connecting to www.grantthornton.co.nz (www.grantthornton.co.nz)|104.18.8.58|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /globalassets/1.-member-firms/new-zealand/pdfs/ifrs-viewpoints/ifrs-viewpoint-issue-7.pdf [following]
+--2020-03-02 08:27:30--  http://www.grantthornton.co.nz/globalassets/1.-member-firms/new-zealand/pdfs/ifrs-viewpoints/ifrs-viewpoint-issue-7.pdf
+Reusing existing connection to www.grantthornton.co.nz:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.grantthornton.co.nz/globalassets/1.-member-firms/new-zealand/pdfs/ifrs-viewpoints/ifrs-viewpoint-issue-7.pdf [following]
+--2020-03-02 08:27:30--  https://www.grantthornton.co.nz/globalassets/1.-member-firms/new-zealand/pdfs/ifrs-viewpoints/ifrs-viewpoint-issue-7.pdf
+Connecting to www.grantthornton.co.nz (www.grantthornton.co.nz)|104.18.8.58|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121934 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41%  180M 0s
+    50K .......... .......... .......... .......... .......... 83%  297M 0s
+   100K .......... .........                                  100%  777M=0.004s
+
+2020-03-02 08:27:30 (253 Mb/s) - ‘/dev/null’ saved [121934/121934]
+

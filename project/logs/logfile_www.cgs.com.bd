@@ -1,0 +1,22 @@
+--2020-03-02 00:06:07--  http://www.cgs.com.bd/downloads/20180830-151548.pdf
+Resolving www.cgs.com.bd (www.cgs.com.bd)... 162.255.166.188
+Connecting to www.cgs.com.bd (www.cgs.com.bd)|162.255.166.188|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cgs.com.bd/downloads/20180830-151548.pdf [following]
+--2020-03-02 00:06:07--  https://www.cgs.com.bd/downloads/20180830-151548.pdf
+Connecting to www.cgs.com.bd (www.cgs.com.bd)|162.255.166.188|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 394342 (385K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 1.61M 2s
+    50K .......... .......... .......... .......... .......... 25% 3.74M 1s
+   100K .......... .......... .......... .......... .......... 38% 3.67M 1s
+   150K .......... .......... .......... .......... .......... 51% 3.57M 1s
+   200K .......... .......... .......... .......... .......... 64% 3.97M 0s
+   250K .......... .......... .......... .......... .......... 77% 3.52M 0s
+   300K .......... .......... .......... .......... .......... 90% 3.71M 0s
+   350K .......... .......... .......... .....                100% 2.63M=1.0s
+
+2020-03-02 00:06:09 (3.06 Mb/s) - ‘/dev/null’ saved [394342/394342]
+

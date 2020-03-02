@@ -1,0 +1,22 @@
+--2020-03-02 04:39:55--  http://www.my.is/attachments/is_lps-pdf.30933/
+Resolving www.my.is (www.my.is)... 104.18.0.162, 104.18.1.162
+Connecting to www.my.is (www.my.is)|104.18.0.162|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.my.is/attachments/is_lps-pdf.30933/ [following]
+--2020-03-02 04:39:55--  https://www.my.is/attachments/is_lps-pdf.30933/
+Connecting to www.my.is (www.my.is)|104.18.0.162|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.my.is attempted to set domain to my.is
+Length: 309082 (302K) [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16%  190M 0s
+    50K .......... .......... .......... .......... .......... 33% 10.8M 0s
+   100K .......... .......... .......... .......... .......... 49% 19.9M 0s
+   150K .......... .......... .......... .......... .......... 66% 28.3M 0s
+   200K .......... .......... .......... .......... .......... 82% 22.3M 0s
+   250K .......... .......... .......... .......... .......... 99% 20.7M 0s
+   300K .                                                     100%  301K=0.1s
+
+2020-03-02 04:39:56 (21.8 Mb/s) - ‘/dev/null’ saved [309082/309082]
+

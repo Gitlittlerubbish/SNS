@@ -1,0 +1,18 @@
+--2020-03-02 02:22:10--  http://www.dsbp.cx/dsbp-newsletter.pdf
+Resolving www.dsbp.cx (www.dsbp.cx)... 50.87.150.103
+Connecting to www.dsbp.cx (www.dsbp.cx)|50.87.150.103|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.dsbp.cx/dsbp-newsletter.pdf [following]
+--2020-03-02 02:22:10--  https://www.dsbp.cx/dsbp-newsletter.pdf
+Connecting to www.dsbp.cx (www.dsbp.cx)|50.87.150.103|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 178326 (174K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 1.24M 1s
+    50K .......... .......... .......... .......... .......... 57% 2.50M 0s
+   100K .......... .......... .......... .......... .......... 86% 78.3M 0s
+   150K .......... .......... ....                            100%  283M=0.5s
+
+2020-03-02 02:22:11 (2.84 Mb/s) - ‘/dev/null’ saved [178326/178326]
+

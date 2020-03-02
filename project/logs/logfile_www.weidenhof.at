@@ -1,0 +1,15 @@
+--2020-03-01 23:41:44--  http://www.weidenhof.at/PDFs/Speisekarte.pdf
+Resolving www.weidenhof.at (www.weidenhof.at)... 85.158.181.13
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.weidenhof.at/PDFs/Speisekarte.pdf [following]
+--2020-03-01 23:41:44--  https://www.weidenhof.at/PDFs/Speisekarte.pdf
+Connecting to www.weidenhof.at (www.weidenhof.at)|85.158.181.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48907 (48K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......   100% 5.94M=0.07s
+
+2020-03-01 23:41:45 (5.94 Mb/s) - ‘/dev/null’ saved [48907/48907]
+

@@ -1,0 +1,16 @@
+--2020-03-01 22:26:51--  http://www.bank-of-algeria.dz/pdf/lignesdirect_08022015.pdf
+Resolving www.bank-of-algeria.dz (www.bank-of-algeria.dz)... 196.41.226.7, 80.246.4.135, 193.194.93.7
+Connecting to www.bank-of-algeria.dz (www.bank-of-algeria.dz)|196.41.226.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bank-of-algeria.dz:443/pdf/lignesdirect_08022015.pdf [following]
+--2020-03-01 22:26:52--  https://www.bank-of-algeria.dz/pdf/lignesdirect_08022015.pdf
+Connecting to www.bank-of-algeria.dz (www.bank-of-algeria.dz)|196.41.226.7|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72088 (70K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 71% 2.93M 0s
+    50K .......... ..........                                 100% 5.42M=0.2s
+
+2020-03-01 22:26:52 (3.38 Mb/s) - ‘/dev/null’ saved [72088/72088]
+

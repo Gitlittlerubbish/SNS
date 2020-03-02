@@ -1,0 +1,12 @@
+--2020-03-02 01:09:45--  http://www.santabrancatransportes.com.br/horario.pdf
+Resolving www.santabrancatransportes.com.br (www.santabrancatransportes.com.br)... 186.202.150.235
+Connecting to www.santabrancatransportes.com.br (www.santabrancatransportes.com.br)|186.202.150.235|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52497 (51K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 97%  346K 0s
+    50K .                                                     100%  113M=1.2s
+
+2020-03-02 01:09:47 (355 Kb/s) - ‘/dev/null’ saved [52497/52497]
+

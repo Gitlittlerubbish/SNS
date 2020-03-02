@@ -1,0 +1,11 @@
+--2020-03-02 05:18:04--  http://www.okiyaku.or.jp/vsup/pdf/qco-q10.pdf
+Resolving www.okiyaku.or.jp (www.okiyaku.or.jp)... 161.34.15.7
+Connecting to www.okiyaku.or.jp (www.okiyaku.or.jp)|161.34.15.7|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30425 (30K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .........                       100% 1.10M=0.2s
+
+2020-03-02 05:18:05 (1.10 Mb/s) - ‘/dev/null’ saved [30425/30425]
+

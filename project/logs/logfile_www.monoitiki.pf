@@ -1,0 +1,14 @@
+--2020-03-02 03:50:37--  http://www.monoitiki.pf/images/Image/File/Fiche_monoi_Tiare.PDF
+Resolving www.monoitiki.pf (www.monoitiki.pf)... 213.186.33.16
+Connecting to www.monoitiki.pf (www.monoitiki.pf)|213.186.33.16|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197580 (193K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 31.7M 0s
+    50K .......... .......... .......... .......... .......... 51% 63.0M 0s
+   100K .......... .......... .......... .......... .......... 77% 84.9M 0s
+   150K .......... .......... .......... .......... ..        100%  386M=0.03s
+
+2020-03-02 03:50:38 (62.8 Mb/s) - ‘/dev/null’ saved [197580/197580]
+

@@ -1,0 +1,18 @@
+--2020-03-02 01:49:06--  http://ebulletin.minfi.cm/Informations2.pdf
+Resolving ebulletin.minfi.cm (ebulletin.minfi.cm)... 195.24.205.37
+Connecting to ebulletin.minfi.cm (ebulletin.minfi.cm)|195.24.205.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ebulletin.minfi.cm/Informations2.pdf [following]
+--2020-03-02 01:49:07--  https://ebulletin.minfi.cm/Informations2.pdf
+Connecting to ebulletin.minfi.cm (ebulletin.minfi.cm)|195.24.205.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163576 (160K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.10M 1s
+    50K .......... .......... .......... .......... .......... 62% 71.3M 0s
+   100K .......... .......... .......... .......... .......... 93% 2.22M 0s
+   150K .........                                             100%  858M=0.6s
+
+2020-03-02 01:49:08 (2.32 Mb/s) - ‘/dev/null’ saved [163576/163576]
+

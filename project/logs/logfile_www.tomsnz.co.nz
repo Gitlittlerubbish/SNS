@@ -1,0 +1,20 @@
+--2020-03-02 08:29:23--  http://www.tomsnz.co.nz/media/Printable_KidsSizeChart.pdf
+Resolving www.tomsnz.co.nz (www.tomsnz.co.nz)... 13.227.170.14, 13.227.170.6, 13.227.170.105, ...
+Connecting to www.tomsnz.co.nz (www.tomsnz.co.nz)|13.227.170.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.tomsnz.co.nz/media/Printable_KidsSizeChart.pdf [following]
+--2020-03-02 08:29:23--  https://www.tomsnz.co.nz/media/Printable_KidsSizeChart.pdf
+Connecting to www.tomsnz.co.nz (www.tomsnz.co.nz)|13.227.170.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 282149 (276K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18%  797K 2s
+    50K .......... .......... .......... .......... .......... 36% 1.34M 1s
+   100K .......... .......... .......... .......... .......... 54%  256M 1s
+   150K .......... .......... .......... .......... .......... 72% 1.99M 0s
+   200K .......... .......... .......... .......... .......... 90%  104M 0s
+   250K .......... .......... .....                           100%  968M=1.0s
+
+2020-03-02 08:29:25 (2.19 Mb/s) - ‘/dev/null’ saved [282149/282149]
+

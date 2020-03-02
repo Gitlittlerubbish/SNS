@@ -1,0 +1,12 @@
+--2020-03-02 05:33:12--  http://schuetzenverein-aldrup.de.ki/Bilder2019/2019.pdf
+Resolving schuetzenverein-aldrup.de.ki (schuetzenverein-aldrup.de.ki)... 148.251.52.135
+Connecting to schuetzenverein-aldrup.de.ki (schuetzenverein-aldrup.de.ki)|148.251.52.135|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84906 (83K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 60% 8.60M 0s
+    50K .......... .......... .......... ..                   100% 11.2M=0.07s
+
+2020-03-02 05:33:12 (9.48 Mb/s) - ‘/dev/null’ saved [84906/84906]
+

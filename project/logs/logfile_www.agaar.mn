@@ -1,0 +1,14 @@
+--2020-03-02 07:42:06--  http://www.agaar.mn/files/article/273/0216-2006.pdf
+Resolving www.agaar.mn (www.agaar.mn)... 103.48.116.247
+Connecting to www.agaar.mn (www.agaar.mn)|103.48.116.247|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189545 (185K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27%  662K 2s
+    50K .......... .......... .......... .......... .......... 54% 1.15M 1s
+   100K .......... .......... .......... .......... .......... 81%  214M 0s
+   150K .......... .......... .......... .....                100%  876K=1.3s
+
+2020-03-02 07:42:08 (1.16 Mb/s) - ‘/dev/null’ saved [189545/189545]
+

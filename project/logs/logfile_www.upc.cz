@@ -1,0 +1,24 @@
+--2020-03-02 03:03:16--  http://www.upc.cz/pdf/Cenik.pdf
+Resolving www.upc.cz (www.upc.cz)... 62.252.103.68, 62.252.103.66
+Connecting to www.upc.cz (www.upc.cz)|62.252.103.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.upc.cz/pdf/Cenik.pdf [following]
+--2020-03-02 03:03:16--  https://www.upc.cz/pdf/Cenik.pdf
+Connecting to www.upc.cz (www.upc.cz)|62.252.103.68|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.upc.cz attempted to set domain to upc.cz
+Length: 415007 (405K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 9.23M 0s
+    50K .......... .......... .......... .......... .......... 24% 58.5M 0s
+   100K .......... .......... .......... .......... .......... 37% 78.1M 0s
+   150K .......... .......... .......... .......... .......... 49%  110M 0s
+   200K .......... .......... .......... .......... .......... 61% 60.6M 0s
+   250K .......... .......... .......... .......... .......... 74%  136M 0s
+   300K .......... .......... .......... .......... .......... 86% 73.1M 0s
+   350K .......... .......... .......... .......... .......... 98%  113M 0s
+   400K .....                                                 100%  486M=0.08s
+
+2020-03-02 03:03:16 (41.8 Mb/s) - ‘/dev/null’ saved [415007/415007]
+

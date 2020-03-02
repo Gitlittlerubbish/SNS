@@ -1,0 +1,15 @@
+--2020-03-02 03:03:16--  http://www.zsvranany.cz/pdf/vsi.pdf
+Resolving www.zsvranany.cz (www.zsvranany.cz)... 46.28.106.50
+Connecting to www.zsvranany.cz (www.zsvranany.cz)|46.28.106.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241156 (236K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 5.53M 0s
+    50K .......... .......... .......... .......... .......... 42% 5.80M 0s
+   100K .......... .......... .......... .......... .......... 63% 12.1M 0s
+   150K .......... .......... .......... .......... .......... 84% 95.5M 0s
+   200K .......... .......... .......... .....                100% 8.82M=0.2s
+
+2020-03-02 03:03:17 (8.94 Mb/s) - ‘/dev/null’ saved [241156/241156]
+

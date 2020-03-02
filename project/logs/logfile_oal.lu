@@ -1,0 +1,54 @@
+--2020-03-02 06:28:13--  http://oal.lu/khsCk
+Resolving oal.lu (oal.lu)... 136.243.63.180
+Connecting to oal.lu (oal.lu)|136.243.63.180|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sites.ziftsolutions.com/cisco.ziftsolutions.com/8a123267527f16090152885cb5ce3e6e?cid=ff80818164ee42cb01650f57158d71c7&url=https%3A%2F%2Fwww.cisco.com%2Fc%2Fdam%2Fen%2Fus%2Fsolutions%2Fcollateral%2Finternet-of-things%2Fnb-09-intent-based-iot-wp-cte-en.pdf%3Fccid%3D000006%26oid%3Dwpren008441%26dtid%3Desosah000680 [following]
+--2020-03-02 06:28:13--  https://sites.ziftsolutions.com/cisco.ziftsolutions.com/8a123267527f16090152885cb5ce3e6e?cid=ff80818164ee42cb01650f57158d71c7&url=https%3A%2F%2Fwww.cisco.com%2Fc%2Fdam%2Fen%2Fus%2Fsolutions%2Fcollateral%2Finternet-of-things%2Fnb-09-intent-based-iot-wp-cte-en.pdf%3Fccid%3D000006%26oid%3Dwpren008441%26dtid%3Desosah000680
+Resolving sites.ziftsolutions.com (sites.ziftsolutions.com)... 143.204.192.101, 143.204.192.64, 143.204.192.86, ...
+Connecting to sites.ziftsolutions.com (sites.ziftsolutions.com)|143.204.192.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 542 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  434M=0s
+
+2020-03-02 06:28:14 (434 Mb/s) - ‘/dev/null’ saved [542/542]
+
+--2020-03-02 06:28:14--  http://oal.lu/ZOrj0
+Resolving oal.lu (oal.lu)... 136.243.63.180
+Connecting to oal.lu (oal.lu)|136.243.63.180|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cisco.com/c/dam/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-cat9000-wp-cte-en.pdf?DTID=esosah000746&REFERRING_SITE=None&CREATIVE=0+SAH&POSTID=058f1a5c-fa54-4e49-a7fe-c839112df45d [following]
+--2020-03-02 06:28:14--  https://www.cisco.com/c/dam/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-cat9000-wp-cte-en.pdf?DTID=esosah000746&REFERRING_SITE=None&CREATIVE=0+SAH&POSTID=058f1a5c-fa54-4e49-a7fe-c839112df45d
+Resolving www.cisco.com (www.cisco.com)... 23.43.72.134
+Connecting to www.cisco.com (www.cisco.com)|23.43.72.134|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /c/dam/en/us/products/collateral/switches/catalyst-9000/nb-06-cat9000-wp-cte-en.pdf [following]
+--2020-03-02 06:28:14--  https://www.cisco.com/c/dam/en/us/products/collateral/switches/catalyst-9000/nb-06-cat9000-wp-cte-en.pdf
+Reusing existing connection to www.cisco.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 936413 (914K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 69.1M 0s
+    50K .......... .......... .......... .......... .......... 10%  100M 0s
+   100K .......... .......... .......... .......... .......... 16% 52.4M 0s
+   150K .......... .......... .......... .......... .......... 21%  103M 0s
+   200K .......... .......... .......... .......... .......... 27%  659M 0s
+   250K .......... .......... .......... .......... .......... 32%  285M 0s
+   300K .......... .......... .......... .......... .......... 38% 72.0M 0s
+   350K .......... .......... .......... .......... .......... 43%  371M 0s
+   400K .......... .......... .......... .......... .......... 49%  354M 0s
+   450K .......... .......... .......... .......... .......... 54%  331M 0s
+   500K .......... .......... .......... .......... .......... 60%  150M 0s
+   550K .......... .......... .......... .......... .......... 65%  577M 0s
+   600K .......... .......... .......... .......... .......... 71%  132M 0s
+   650K .......... .......... .......... .......... .......... 76%  128M 0s
+   700K .......... .......... .......... .......... .......... 82%  461M 0s
+   750K .......... .......... .......... .......... .......... 87%  365M 0s
+   800K .......... .......... .......... .......... .......... 92%  260M 0s
+   850K .......... .......... .......... .......... .......... 98%  319M 0s
+   900K .......... ....                                       100% 1.43G=0.05s
+
+2020-03-02 06:28:15 (157 Mb/s) - ‘/dev/null’ saved [936413/936413]
+

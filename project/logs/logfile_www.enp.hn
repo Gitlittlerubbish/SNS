@@ -1,0 +1,12 @@
+--2020-03-02 04:24:56--  http://www.enp.hn/files/CodigoEticaENP.pdf
+Resolving www.enp.hn (www.enp.hn)... 181.210.131.103
+Connecting to www.enp.hn (www.enp.hn)|181.210.131.103|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80416 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 1.09M 0s
+    50K .......... .......... ........                        100% 75.3M=0.4s
+
+2020-03-02 04:24:57 (1.69 Mb/s) - ‘/dev/null’ saved [80416/80416]
+

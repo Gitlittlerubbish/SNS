@@ -1,0 +1,14 @@
+--2020-03-02 06:14:51--  http://investinlebanon.gov.lb/Content/uploads/BSU-CHOOSE_YOUR_PAYMENT_METHOD.pdf
+Resolving investinlebanon.gov.lb (investinlebanon.gov.lb)... 209.160.40.68
+Connecting to investinlebanon.gov.lb (investinlebanon.gov.lb)|209.160.40.68|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203690 (199K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  499K 2s
+    50K .......... .......... .......... .......... .......... 50% 2.00M 1s
+   100K .......... .......... .......... .......... .......... 75%  246M 0s
+   150K .......... .......... .......... .......... ........  100% 2.90M=1.2s
+
+2020-03-02 06:14:53 (1.40 Mb/s) - ‘/dev/null’ saved [203690/203690]
+

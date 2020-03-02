@@ -1,0 +1,16 @@
+--2020-03-02 05:01:39--  http://www.sustainable-design.ie/links/UNsres1441.pdf
+Resolving www.sustainable-design.ie (www.sustainable-design.ie)... 78.153.213.13
+Connecting to www.sustainable-design.ie (www.sustainable-design.ie)|78.153.213.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sustainable-design.ie/links/UNsres1441.pdf [following]
+--2020-03-02 05:01:39--  https://www.sustainable-design.ie/links/UNsres1441.pdf
+Connecting to www.sustainable-design.ie (www.sustainable-design.ie)|78.153.213.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59124 (58K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 86% 10.6M 0s
+    50K .......                                               100%  488M=0.04s
+
+2020-03-02 05:01:39 (12.2 Mb/s) - ‘/dev/null’ saved [59124/59124]
+

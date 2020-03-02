@@ -1,0 +1,21 @@
+--2020-03-02 05:01:25--  http://www.it-tallaght.ie/organisational-structure
+Resolving www.it-tallaght.ie (www.it-tallaght.ie)... 193.1.123.100
+Connecting to www.it-tallaght.ie (www.it-tallaght.ie)|193.1.123.100|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.it-tallaght.ie/organisational-structure [following]
+--2020-03-02 05:01:25--  https://www.it-tallaght.ie/organisational-structure
+Connecting to www.it-tallaght.ie (www.it-tallaght.ie)|193.1.123.100|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.it-tallaght.ie/contentfiles//Documents/FOI/TUD_Tallaght_Organisation_Chart_Jan2020.pdf [following]
+--2020-03-02 05:01:25--  https://www.it-tallaght.ie/contentfiles//Documents/FOI/TUD_Tallaght_Organisation_Chart_Jan2020.pdf
+Connecting to www.it-tallaght.ie (www.it-tallaght.ie)|193.1.123.100|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108405 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 18.1M 0s
+    50K .......... .......... .......... .......... .......... 94% 23.3M 0s
+   100K .....                                                 100%  942M=0.04s
+
+2020-03-02 05:01:25 (21.5 Mb/s) - ‘/dev/null’ saved [108405/108405]
+

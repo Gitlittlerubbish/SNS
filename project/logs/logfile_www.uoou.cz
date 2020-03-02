@@ -1,0 +1,15 @@
+--2020-03-02 03:03:30--  http://www.uoou.cz/files/Israel_Resolution_PbD.pdf
+Resolving www.uoou.cz (www.uoou.cz)... 80.95.253.230
+Connecting to www.uoou.cz (www.uoou.cz)|80.95.253.230|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uoou.cz/files/Israel_Resolution_PbD.pdf [following]
+--2020-03-02 03:03:30--  https://www.uoou.cz/files/Israel_Resolution_PbD.pdf
+Connecting to www.uoou.cz (www.uoou.cz)|80.95.253.230|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44457 (43K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...       100% 10.9M=0.03s
+
+2020-03-02 03:03:30 (10.9 Mb/s) - ‘/dev/null’ saved [44457/44457]
+

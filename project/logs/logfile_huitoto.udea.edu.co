@@ -1,0 +1,11 @@
+--2020-03-02 02:30:33--  http://huitoto.udea.edu.co/derecho/metodologiaI/derecho_colombiano.pdf
+Resolving huitoto.udea.edu.co (huitoto.udea.edu.co)... 200.24.17.15
+Connecting to huitoto.udea.edu.co (huitoto.udea.edu.co)|200.24.17.15|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43895 (43K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..        100%  470K=0.7s
+
+2020-03-02 02:30:34 (470 Kb/s) - ‘/dev/null’ saved [43895/43895]
+

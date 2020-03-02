@@ -1,0 +1,23 @@
+--2020-03-02 05:12:00--  http://jfll.gov.jm/home/images/Downloads/CAP_GENERAL_FACT_SHEET.pdf
+Resolving jfll.gov.jm (jfll.gov.jm)... 198.57.193.174
+Connecting to jfll.gov.jm (jfll.gov.jm)|198.57.193.174|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jfll.gov.jm/home/images/Downloads/CAP_GENERAL_FACT_SHEET.pdf [following]
+--2020-03-02 05:12:00--  https://jfll.gov.jm/home/images/Downloads/CAP_GENERAL_FACT_SHEET.pdf
+Connecting to jfll.gov.jm (jfll.gov.jm)|198.57.193.174|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 414700 (405K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 1.19M 2s
+    50K .......... .......... .......... .......... .......... 24% 2.40M 2s
+   100K .......... .......... .......... .......... .......... 37% 2.39M 1s
+   150K .......... .......... .......... .......... .......... 49% 1.30M 1s
+   200K .......... .......... .......... .......... .......... 61%  303M 1s
+   250K .......... .......... .......... .......... .......... 74% 2.34M 0s
+   300K .......... .......... .......... .......... .......... 86%  707M 0s
+   350K .......... .......... .......... .......... .......... 98% 2.41M 0s
+   400K ....                                                  100% 67.1M=1.3s
+
+2020-03-02 05:12:03 (2.46 Mb/s) - ‘/dev/null’ saved [414700/414700]
+

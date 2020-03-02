@@ -1,0 +1,18 @@
+--2020-03-02 01:30:57--  http://nacid.bg/bg/att_files/KAP_QUAL_VUZ/Prilozhenie_2_2017.pdf
+Resolving nacid.bg (nacid.bg)... 212.72.207.6
+Connecting to nacid.bg (nacid.bg)|212.72.207.6|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://nacid.bg/bg/att_files/KAP_QUAL_VUZ/Prilozhenie_2_2017.pdf [following]
+--2020-03-02 01:30:57--  https://nacid.bg/bg/att_files/KAP_QUAL_VUZ/Prilozhenie_2_2017.pdf
+Connecting to nacid.bg (nacid.bg)|212.72.207.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164677 (161K) [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 2.86M 0s
+    50K .......... .......... .......... .......... .......... 62% 93.3M 0s
+   100K .......... .......... .......... .......... .......... 93% 8.90M 0s
+   150K ..........                                            100%  579M=0.2s
+
+2020-03-02 01:30:57 (6.80 Mb/s) - ‘/dev/null’ saved [164677/164677]
+

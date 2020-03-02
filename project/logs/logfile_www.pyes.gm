@@ -1,0 +1,13 @@
+--2020-03-02 03:54:30--  http://www.pyes.gm/nanss/images/DRINKS_FOUNTAIN_BAR.pdf
+Resolving www.pyes.gm (www.pyes.gm)... 212.60.67.100
+Connecting to www.pyes.gm (www.pyes.gm)|212.60.67.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139779 (137K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 2.85M 0s
+    50K .......... .......... .......... .......... .......... 73% 5.70M 0s
+   100K .......... .......... .......... ......               100% 4.28M=0.3s
+
+2020-03-02 03:54:31 (3.92 Mb/s) - ‘/dev/null’ saved [139779/139779]
+

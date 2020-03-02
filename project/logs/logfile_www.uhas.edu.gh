@@ -1,0 +1,18 @@
+--2020-03-02 04:03:07--  http://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf
+Resolving www.uhas.edu.gh (www.uhas.edu.gh)... 192.185.99.222
+Connecting to www.uhas.edu.gh (www.uhas.edu.gh)|192.185.99.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf [following]
+--2020-03-02 04:03:07--  https://www.uhas.edu.gh/downloads/sahs/TIPS_FOR_INTERVIEW.pdf
+Connecting to www.uhas.edu.gh (www.uhas.edu.gh)|192.185.99.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190881 (186K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 1.66M 1s
+    50K .......... .......... .......... .......... .......... 53% 3.37M 0s
+   100K .......... .......... .......... .......... .......... 80%  124M 0s
+   150K .......... .......... .......... ......               100% 1.41G=0.4s
+
+2020-03-02 04:03:08 (4.12 Mb/s) - ‘/dev/null’ saved [190881/190881]
+

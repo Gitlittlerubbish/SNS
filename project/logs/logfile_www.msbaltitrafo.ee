@@ -1,0 +1,15 @@
+--2020-03-02 03:30:52--  http://www.msbaltitrafo.ee/21216ms_de_en_04.pdf
+Resolving www.msbaltitrafo.ee (www.msbaltitrafo.ee)... 194.126.114.228
+Connecting to www.msbaltitrafo.ee (www.msbaltitrafo.ee)|194.126.114.228|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 253887 (248K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 7.87M 0s
+    50K .......... .......... .......... .......... .......... 40% 8.19M 0s
+   100K .......... .......... .......... .......... .......... 60% 98.0M 0s
+   150K .......... .......... .......... .......... .......... 80% 8.14M 0s
+   200K .......... .......... .......... .......... .......   100% 7.67M=0.2s
+
+2020-03-02 03:30:52 (9.78 Mb/s) - ‘/dev/null’ saved [253887/253887]
+

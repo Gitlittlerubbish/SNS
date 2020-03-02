@@ -1,0 +1,11 @@
+--2020-03-02 05:09:03--  http://www.aslcagliari.it/documenti/8_26_20080909114532.pdf
+Resolving www.aslcagliari.it (www.aslcagliari.it)... 195.130.213.70
+Connecting to www.aslcagliari.it (www.aslcagliari.it)|195.130.213.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30230 (30K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .........                       100% 1.18M=0.2s
+
+2020-03-02 05:09:03 (1.18 Mb/s) - ‘/dev/null’ saved [30230/30230]
+

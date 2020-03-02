@@ -1,0 +1,41 @@
+--2020-03-02 03:46:52--  http://laviedesidees.fr/IMG/pdf/20200219_ascetes.pdf
+Resolving laviedesidees.fr (laviedesidees.fr)... 176.31.34.74
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://laviedesidees.fr/IMG/pdf/20200219_ascetes.pdf [following]
+--2020-03-02 03:46:52--  https://laviedesidees.fr/IMG/pdf/20200219_ascetes.pdf
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 178594 (174K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 17.3M 0s
+    50K .......... .......... .......... .......... .......... 57% 17.7M 0s
+   100K .......... .......... .......... .......... .......... 86%  139M 0s
+   150K .......... .......... ....                            100%  196M=0.05s
+
+2020-03-02 03:46:52 (28.1 Mb/s) - ‘/dev/null’ saved [178594/178594]
+
+--2020-03-02 03:46:52--  http://laviedesidees.fr/IMG/pdf/20200217_tenret.pdf
+Resolving laviedesidees.fr (laviedesidees.fr)... 176.31.34.74
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://laviedesidees.fr/IMG/pdf/20200217_tenret.pdf [following]
+--2020-03-02 03:46:53--  https://laviedesidees.fr/IMG/pdf/20200217_tenret.pdf
+Connecting to laviedesidees.fr (laviedesidees.fr)|176.31.34.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 419615 (410K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 16.8M 0s
+    50K .......... .......... .......... .......... .......... 24% 18.7M 0s
+   100K .......... .......... .......... .......... .......... 36%  139M 0s
+   150K .......... .......... .......... .......... .......... 48% 21.1M 0s
+   200K .......... .......... .......... .......... .......... 61%  113M 0s
+   250K .......... .......... .......... .......... .......... 73%  133M 0s
+   300K .......... .......... .......... .......... .......... 85% 24.4M 0s
+   350K .......... .......... .......... .......... .......... 97%  111M 0s
+   400K .........                                             100% 1.48G=0.1s
+
+2020-03-02 03:46:53 (35.0 Mb/s) - ‘/dev/null’ saved [419615/419615]
+

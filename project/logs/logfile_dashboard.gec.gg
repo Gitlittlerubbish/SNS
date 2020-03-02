@@ -1,0 +1,20 @@
+--2020-03-02 04:15:14--  http://dashboard.gec.gg/media/tournaments/d8978e2eb0ecf25e83b525a3f0109bad.pdf
+Resolving dashboard.gec.gg (dashboard.gec.gg)... 104.27.134.202, 104.27.135.202
+Connecting to dashboard.gec.gg (dashboard.gec.gg)|104.27.134.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://dashboard.gec.gg/media/tournaments/d8978e2eb0ecf25e83b525a3f0109bad.pdf [following]
+--2020-03-02 04:15:14--  https://dashboard.gec.gg/media/tournaments/d8978e2eb0ecf25e83b525a3f0109bad.pdf
+Connecting to dashboard.gec.gg (dashboard.gec.gg)|104.27.134.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from dashboard.gec.gg attempted to set domain to gec.gg
+Length: 249698 (244K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 93.4M 0s
+    50K .......... .......... .......... .......... .......... 41%  105M 0s
+   100K .......... .......... .......... .......... .......... 61%  199M 0s
+   150K .......... .......... .......... .......... .......... 82%  117M 0s
+   200K .......... .......... .......... .......... ...       100%  242M=0.02s
+
+2020-03-02 04:15:14 (130 Mb/s) - ‘/dev/null’ saved [249698/249698]
+

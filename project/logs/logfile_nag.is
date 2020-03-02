@@ -1,0 +1,24 @@
+--2020-03-02 04:38:50--  http://nag.is/4p
+Resolving nag.is (nag.is)... 50.116.21.73
+Connecting to nag.is (nag.is)|50.116.21.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://assets.nagios.com/downloads/nagiosxi/docs/Configuring-Email-And-Text-Notifications-in-Nagios-XI.pdf [following]
+--2020-03-02 04:38:50--  https://assets.nagios.com/downloads/nagiosxi/docs/Configuring-Email-And-Text-Notifications-in-Nagios-XI.pdf
+Resolving assets.nagios.com (assets.nagios.com)... 72.14.181.71
+Connecting to assets.nagios.com (assets.nagios.com)|72.14.181.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 438078 (428K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.74M 2s
+    50K .......... .......... .......... .......... .......... 23% 3.49M 1s
+   100K .......... .......... .......... .......... .......... 35% 75.6M 1s
+   150K .......... .......... .......... .......... .......... 46%  745M 0s
+   200K .......... .......... .......... .......... .......... 58% 3.53M 0s
+   250K .......... .......... .......... .......... .......... 70%  137M 0s
+   300K .......... .......... .......... .......... .......... 81% 3.74M 0s
+   350K .......... .......... .......... .......... .......... 93%  152M 0s
+   400K .......... .......... .......                         100%  309M=0.6s
+
+2020-03-02 04:38:51 (5.94 Mb/s) - ‘/dev/null’ saved [438078/438078]
+

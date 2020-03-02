@@ -1,0 +1,11 @@
+--2020-03-01 23:39:49--  http://www.abc.net.au/mediawatch/transcripts/0726_smh.pdf
+Resolving www.abc.net.au (www.abc.net.au)... 2.19.152.170
+Connecting to www.abc.net.au (www.abc.net.au)|2.19.152.170|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24700 (24K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ....                            100% 62.2M=0.003s
+
+2020-03-01 23:39:50 (62.2 Mb/s) - ‘/dev/null’ saved [24700/24700]
+

@@ -1,0 +1,15 @@
+--2020-03-02 04:59:15--  http://www.nazaha.iq/search_web/trboy/5.pdf
+Resolving www.nazaha.iq (www.nazaha.iq)... 66.111.53.230
+Connecting to www.nazaha.iq (www.nazaha.iq)|66.111.53.230|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219172 (214K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 1.09M 1s
+    50K .......... .......... .......... .......... .......... 46% 2.05M 1s
+   100K .......... .......... .......... .......... .......... 70%  135M 0s
+   150K .......... .......... .......... .......... .......... 93% 3.75M 0s
+   200K .......... ....                                       100% 1.39M=0.8s
+
+2020-03-02 04:59:17 (2.27 Mb/s) - ‘/dev/null’ saved [219172/219172]
+

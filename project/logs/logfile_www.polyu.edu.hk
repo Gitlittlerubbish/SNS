@@ -1,0 +1,22 @@
+--2020-03-02 04:34:50--  http://www.polyu.edu.hk/ar/students/AC.pdf
+Resolving www.polyu.edu.hk (www.polyu.edu.hk)... 158.132.48.76
+Connecting to www.polyu.edu.hk (www.polyu.edu.hk)|158.132.48.76|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.polyu.edu.hk/ar/students/AC.pdf [following]
+--2020-03-02 04:34:51--  https://www.polyu.edu.hk/ar/students/AC.pdf
+Connecting to www.polyu.edu.hk (www.polyu.edu.hk)|158.132.48.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 379168 (370K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13%  461K 6s
+    50K .......... .......... .......... .......... .......... 27%  216M 2s
+   100K .......... .......... .......... .......... .......... 40% 1.91M 2s
+   150K .......... .......... .......... .......... .......... 54% 1.45M 1s
+   200K .......... .......... .......... .......... .......... 67% 1.25M 1s
+   250K .......... .......... .......... .......... .......... 81% 1.87M 0s
+   300K .......... .......... .......... .......... .......... 94%  377M 0s
+   350K .......... ..........                                 100%  784K=2.1s
+
+2020-03-02 04:34:54 (1.41 Mb/s) - ‘/dev/null’ saved [379168/379168]
+

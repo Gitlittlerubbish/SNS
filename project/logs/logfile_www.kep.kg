@@ -1,0 +1,19 @@
+--2020-03-02 06:06:32--  http://www.kep.kg/files/%25D0%259B%25D0%25B8%25D1%2586%25D0%25B5%25D0%25BD%25D0%25B7%25D0%25B8%25D1%258F_%25D0%25B1%25D0%25B5%25D1%2581%25D1%2581%25D1%2580%25D0%25BE%25D1%2587%25D0%25BD%25D0%25B0%25D1%258F.pdf
+Resolving www.kep.kg (www.kep.kg)... 148.251.237.253
+Connecting to www.kep.kg (www.kep.kg)|148.251.237.253|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.kep.kg/files/%25D0%259B%25D0%25B8%25D1%2586%25D0%25B5%25D0%25BD%25D0%25B7%25D0%25B8%25D1%258F_%25D0%25B1%25D0%25B5%25D1%2581%25D1%2581%25D1%2580%25D0%25BE%25D1%2587%25D0%25BD%25D0%25B0%25D1%258F.pdf [following]
+--2020-03-02 06:06:32--  https://www.kep.kg/files/%25D0%259B%25D0%25B8%25D1%2586%25D0%25B5%25D0%25BD%25D0%25B7%25D0%25B8%25D1%258F_%25D0%25B1%25D0%25B5%25D1%2581%25D1%2581%25D1%2580%25D0%25BE%25D1%2587%25D0%25BD%25D0%25B0%25D1%258F.pdf
+Connecting to www.kep.kg (www.kep.kg)|148.251.237.253|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.kep.kg/ru/Users/Login [following]
+--2020-03-02 06:06:32--  https://www.kep.kg/ru/Users/Login
+Reusing existing connection to www.kep.kg:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .........                         212M=0.001s
+
+2020-03-02 06:06:32 (212 Mb/s) - ‘/dev/null’ saved [30129]
+

@@ -1,0 +1,21 @@
+--2020-03-02 01:41:00--  http://www.asemana.publ.cv/PDF/4271267146261.pdf
+Resolving www.asemana.publ.cv (www.asemana.publ.cv)... 185.2.4.87
+Connecting to www.asemana.publ.cv (www.asemana.publ.cv)|185.2.4.87|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.asemana.publ.cv/PDF/4271267146261.pdf [following]
+--2020-03-02 01:41:00--  https://www.asemana.publ.cv/PDF/4271267146261.pdf
+Connecting to www.asemana.publ.cv (www.asemana.publ.cv)|185.2.4.87|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 348791 (341K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 32.0M 0s
+    50K .......... .......... .......... .......... .......... 29% 54.2M 0s
+   100K .......... .......... .......... .......... .......... 44% 61.9M 0s
+   150K .......... .......... .......... .......... .......... 58%  124M 0s
+   200K .......... .......... .......... .......... .......... 73% 99.6M 0s
+   250K .......... .......... .......... .......... .......... 88%  125M 0s
+   300K .......... .......... .......... ..........           100%  142M=0.04s
+
+2020-03-02 01:41:00 (69.8 Mb/s) - ‘/dev/null’ saved [348791/348791]
+

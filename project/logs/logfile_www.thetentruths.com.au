@@ -1,0 +1,12 @@
+--2020-03-01 23:35:25--  http://www.thetentruths.com.au/Downloads/First_break_all_the_rules_exec_summary.pdf
+Resolving www.thetentruths.com.au (www.thetentruths.com.au)... 205.186.179.144
+Connecting to www.thetentruths.com.au (www.thetentruths.com.au)|205.186.179.144|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61079 (60K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 83% 1.47M 0s
+    50K .........                                             100% 40.8M=0.3s
+
+2020-03-01 23:35:26 (1.74 Mb/s) - ‘/dev/null’ saved [61079/61079]
+

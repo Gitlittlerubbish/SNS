@@ -1,0 +1,24 @@
+--2020-03-02 08:32:56--  http://www.aonhewitt.co.nz/getattachment/77046028-9992-4d77-868a-32fbf622fec6/file.aspx
+Resolving www.aonhewitt.co.nz (www.aonhewitt.co.nz)... 165.125.182.12
+Connecting to www.aonhewitt.co.nz (www.aonhewitt.co.nz)|165.125.182.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aonhewitt.co.nz/getattachment/77046028-9992-4d77-868a-32fbf622fec6/file.aspx [following]
+--2020-03-02 08:32:57--  https://www.aonhewitt.co.nz/getattachment/77046028-9992-4d77-868a-32fbf622fec6/file.aspx
+Connecting to www.aonhewitt.co.nz (www.aonhewitt.co.nz)|165.125.182.12|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 495799 (484K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10%  619K 6s
+    50K .......... .......... .......... .......... .......... 20% 86.6M 3s
+   100K .......... .......... .......... .......... .......... 30% 1.06M 2s
+   150K .......... .......... .......... .......... .......... 41%  280M 2s
+   200K .......... .......... .......... .......... .......... 51% 1000K 1s
+   250K .......... .......... .......... .......... .......... 61%  265M 1s
+   300K .......... .......... .......... .......... .......... 72%  503M 1s
+   350K .......... .......... .......... .......... .......... 82% 1.01M 0s
+   400K .......... .......... .......... .......... .......... 92%  123M 0s
+   450K .......... .......... .......... ....                 100%  821M=1.9s
+
+2020-03-02 08:33:00 (2.11 Mb/s) - ‘/dev/null’ saved [495799/495799]
+

@@ -1,0 +1,14 @@
+--2020-03-01 22:38:33--  http://www.nissan.co.ao/modelos/Almera/Almera.pdf
+Resolving www.nissan.co.ao (www.nissan.co.ao)... 109.71.40.99
+Connecting to www.nissan.co.ao (www.nissan.co.ao)|109.71.40.99|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161836 (158K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 4.76M 0s
+    50K .......... .......... .......... .......... .......... 63% 8.70M 0s
+   100K .......... .......... .......... .......... .......... 94% 9.94M 0s
+   150K ........                                              100%  540M=0.2s
+
+2020-03-01 22:38:33 (7.42 Mb/s) - ‘/dev/null’ saved [161836/161836]
+

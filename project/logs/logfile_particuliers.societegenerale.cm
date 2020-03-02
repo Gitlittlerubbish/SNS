@@ -1,0 +1,20 @@
+--2020-03-02 01:50:19--  http://particuliers.societegenerale.cm/uploads/tx_bisgnews/Partenariat_CWBLA_01.pdf
+Resolving particuliers.societegenerale.cm (particuliers.societegenerale.cm)... 194.177.39.82
+Connecting to particuliers.societegenerale.cm (particuliers.societegenerale.cm)|194.177.39.82|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://particuliers.societegenerale.cm/uploads/tx_bisgnews/Partenariat_CWBLA_01.pdf [following]
+--2020-03-02 01:50:19--  https://particuliers.societegenerale.cm/uploads/tx_bisgnews/Partenariat_CWBLA_01.pdf
+Connecting to particuliers.societegenerale.cm (particuliers.societegenerale.cm)|194.177.39.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260646 (255K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 17.4M 0s
+    50K .......... .......... .......... .......... .......... 39%  102M 0s
+   100K .......... .......... .......... .......... .......... 58% 43.8M 0s
+   150K .......... .......... .......... .......... .......... 78%  143M 0s
+   200K .......... .......... .......... .......... .......... 98% 54.1M 0s
+   250K ....                                                  100%  743K=0.05s
+
+2020-03-02 01:50:19 (44.0 Mb/s) - ‘/dev/null’ saved [260646/260646]
+

@@ -1,0 +1,16 @@
+--2020-03-02 05:21:39--  http://www.fnhc.org.je/media/42535/seriousuntowardincident.pdf
+Resolving www.fnhc.org.je (www.fnhc.org.je)... 54.72.118.82
+Connecting to www.fnhc.org.je (www.fnhc.org.je)|54.72.118.82|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.fnhc.org.je/media/42535/seriousuntowardincident.pdf [following]
+--2020-03-02 05:21:40--  https://www.fnhc.org.je/media/42535/seriousuntowardincident.pdf
+Connecting to www.fnhc.org.je (www.fnhc.org.je)|54.72.118.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101622 (99K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50% 14.4M 0s
+    50K .......... .......... .......... .......... ......... 100%  239M=0.03s
+
+2020-03-02 05:21:40 (26.9 Mb/s) - ‘/dev/null’ saved [101622/101622]
+

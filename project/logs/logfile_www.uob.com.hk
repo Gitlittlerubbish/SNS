@@ -1,0 +1,11 @@
+--2020-03-02 04:35:32--  http://www.uob.com.hk/assets/pdfs/one_card_full_tnc.pdf
+Resolving www.uob.com.hk (www.uob.com.hk)... 203.116.108.133, 42.61.47.40, 61.8.33.40, ...
+Connecting to www.uob.com.hk (www.uob.com.hk)|203.116.108.133|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 200 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  107M=0s
+
+2020-03-02 04:35:32 (107 Mb/s) - ‘/dev/null’ saved [200/200]
+

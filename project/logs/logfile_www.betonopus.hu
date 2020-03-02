@@ -1,0 +1,12 @@
+--2020-03-02 04:37:31--  http://www.betonopus.hu/notesz/kutyanyelv/anyagsuruseg.pdf
+Resolving www.betonopus.hu (www.betonopus.hu)... 89.46.67.93
+Connecting to www.betonopus.hu (www.betonopus.hu)|89.46.67.93|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64341 (63K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 79% 3.16M 0s
+    50K .......... ..                                         100% 55.3M=0.1s
+
+2020-03-02 04:37:31 (3.91 Mb/s) - ‘/dev/null’ saved [64341/64341]
+

@@ -1,0 +1,18 @@
+--2020-03-02 05:19:21--  http://www.mofa.go.jp/j_info/visit/visa/pdfs/application1.pdf
+Resolving www.mofa.go.jp (www.mofa.go.jp)... 23.36.212.189
+Connecting to www.mofa.go.jp (www.mofa.go.jp)|23.36.212.189|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mofa.go.jp/j_info/visit/visa/pdfs/application1.pdf [following]
+--2020-03-02 05:19:21--  https://www.mofa.go.jp/j_info/visit/visa/pdfs/application1.pdf
+Connecting to www.mofa.go.jp (www.mofa.go.jp)|23.36.212.189|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166546 (163K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 70.0M 0s
+    50K .......... .......... .......... .......... .......... 61% 59.3M 0s
+   100K .......... .......... .......... .......... .......... 92%  133M 0s
+   150K .......... ..                                         100%  140M=0.02s
+
+2020-03-02 05:19:22 (80.4 Mb/s) - ‘/dev/null’ saved [166546/166546]
+

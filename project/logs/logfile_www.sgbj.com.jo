@@ -1,0 +1,15 @@
+--2020-03-02 05:23:27--  http://www.sgbj.com.jo/contentfiles/1959file.pdf
+Resolving www.sgbj.com.jo (www.sgbj.com.jo)... 104.20.76.209, 104.20.75.209
+Connecting to www.sgbj.com.jo (www.sgbj.com.jo)|104.20.76.209|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205873 (201K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  718K 2s
+    50K .......... .......... .......... .......... .......... 49% 2.64M 1s
+   100K .......... .......... .......... .......... .......... 74% 67.9M 0s
+   150K .......... .......... .......... .......... .......... 99% 2.71M 0s
+   200K .                                                     100%  172K=0.9s
+
+2020-03-02 05:23:29 (1.87 Mb/s) - ‘/dev/null’ saved [205873/205873]
+

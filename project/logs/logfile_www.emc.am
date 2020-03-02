@@ -1,0 +1,30 @@
+--2020-03-01 23:27:10--  http://www.emc.am/collateral/TechnicalDocument/docu79471.pdf
+Resolving www.emc.am (www.emc.am)... 77.244.143.83, 77.244.143.73
+Connecting to www.emc.am (www.emc.am)|77.244.143.83|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/products/storage-5/docu79471.pdf [following]
+--2020-03-01 23:27:11--  http://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/products/storage-5/docu79471.pdf
+Resolving www.dellemc.com (www.dellemc.com)... 184.87.187.31
+Connecting to www.dellemc.com (www.dellemc.com)|184.87.187.31|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/products/storage-5/docu79471.pdf [following]
+--2020-03-01 23:27:11--  https://www.dellemc.com/en-us/collaterals/unauth/technical-guides-support-information/products/storage-5/docu79471.pdf
+Connecting to www.dellemc.com (www.dellemc.com)|184.87.187.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 523501 (511K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 85.1M 0s
+    50K .......... .......... .......... .......... .......... 19% 81.4M 0s
+   100K .......... .......... .......... .......... .......... 29% 36.6M 0s
+   150K .......... .......... .......... .......... .......... 39%  109M 0s
+   200K .......... .......... .......... .......... .......... 48%  473M 0s
+   250K .......... .......... .......... .......... .......... 58% 98.8M 0s
+   300K .......... .......... .......... .......... .......... 68% 33.7M 0s
+   350K .......... .......... .......... .......... .......... 78%  235M 0s
+   400K .......... .......... .......... .......... .......... 88%  192M 0s
+   450K .......... .......... .......... .......... .......... 97%  367M 0s
+   500K .......... .                                          100% 1.33G=0.05s
+
+2020-03-01 23:27:11 (89.1 Mb/s) - ‘/dev/null’ saved [523501/523501]
+

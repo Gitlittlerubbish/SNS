@@ -1,0 +1,14 @@
+--2020-03-01 23:13:36--  http://www.pablomartincueto.com.ar/etica/Que_es_RSE.pdf
+Resolving www.pablomartincueto.com.ar (www.pablomartincueto.com.ar)... 167.114.10.23
+Connecting to www.pablomartincueto.com.ar (www.pablomartincueto.com.ar)|167.114.10.23|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163490 (160K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 2.57M 0s
+    50K .......... .......... .......... .......... .......... 62% 4.98M 0s
+   100K .......... .......... .......... .......... .......... 93% 4.95M 0s
+   150K .........                                             100%  524M=0.3s
+
+2020-03-01 23:13:36 (4.03 Mb/s) - ‘/dev/null’ saved [163490/163490]
+

@@ -1,0 +1,12 @@
+--2020-03-02 02:35:39--  http://www.leganet.cd/Legislation/Conventions.int/Convention.Torture.protocole.pdf
+Resolving www.leganet.cd (www.leganet.cd)... 67.20.76.229
+Connecting to www.leganet.cd (www.leganet.cd)|67.20.76.229|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81068 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 1.20M 0s
+    50K .......... .......... .........                       100%  201M=0.3s
+
+2020-03-02 02:35:41 (1.90 Mb/s) - ‘/dev/null’ saved [81068/81068]
+

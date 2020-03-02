@@ -1,0 +1,11 @@
+--2020-03-02 03:50:59--  http://www.urbanisme.gov.pf/IMG/dl/uoc/03.pdf
+Resolving www.urbanisme.gov.pf (www.urbanisme.gov.pf)... 103.46.218.18
+Connecting to www.urbanisme.gov.pf (www.urbanisme.gov.pf)|103.46.218.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27502 (27K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                          100%  726K=0.3s
+
+2020-03-02 03:51:01 (726 Kb/s) - ‘/dev/null’ saved [27502/27502]
+

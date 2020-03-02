@@ -1,0 +1,31 @@
+--2020-03-02 04:40:01--  http://www.asi.is/media/312703/teleworking_agreement_en.pdf
+Resolving www.asi.is (www.asi.is)... 217.171.214.14
+Connecting to www.asi.is (www.asi.is)|217.171.214.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.asi.is/media/312703/teleworking_agreement_en.pdf [following]
+--2020-03-02 04:40:02--  https://www.asi.is/media/312703/teleworking_agreement_en.pdf
+Connecting to www.asi.is (www.asi.is)|217.171.214.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112351 (110K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 4.18M 0s
+    50K .......... .......... .......... .......... .......... 91%  233M 0s
+   100K .........                                             100% 1.28G=0.1s
+
+2020-03-02 04:40:03 (9.00 Mb/s) - ‘/dev/null’ saved [112351/112351]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 04:40:09--  https://www.asi.is/media/312703/teleworking_agreement_en.pdf
+Resolving www.asi.is (www.asi.is)... 217.171.214.14
+Connecting to www.asi.is (www.asi.is)|217.171.214.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112351 (110K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 4.20M 0s
+    50K .......... .......... .......... .......... .......... 91%  136M 0s
+   100K .........                                             100% 1.73G=0.1s
+
+2020-03-02 04:40:09 (8.94 Mb/s) - ‘/dev/null’ saved [112351/112351]
+

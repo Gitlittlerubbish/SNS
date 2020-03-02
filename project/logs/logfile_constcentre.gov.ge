@@ -1,0 +1,26 @@
+--2020-03-02 03:59:35--  http://constcentre.gov.ge/failebi/1921_clis_konstitucia_33442.pdf
+Resolving constcentre.gov.ge (constcentre.gov.ge)... 194.60.250.151
+Connecting to constcentre.gov.ge (constcentre.gov.ge)|194.60.250.151|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148208 (145K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 2.98M 0s
+    50K .......... .......... .......... .......... .......... 69% 3.14M 0s
+   100K .......... .......... .......... .......... ....      100%  184M=0.3s
+
+2020-03-02 03:59:36 (4.39 Mb/s) - ‘/dev/null’ saved [148208/148208]
+
+--2020-03-02 03:59:37--  http://constcentre.gov.ge/failebi/1921_clis_konstitucia_33442.pdf
+Resolving constcentre.gov.ge (constcentre.gov.ge)... 194.60.250.151
+Connecting to constcentre.gov.ge (constcentre.gov.ge)|194.60.250.151|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148208 (145K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 3.02M 0s
+    50K .......... .......... .......... .......... .......... 69% 3.11M 0s
+   100K .......... .......... .......... .......... ....      100%  112M=0.3s
+
+2020-03-02 03:59:37 (4.38 Mb/s) - ‘/dev/null’ saved [148208/148208]
+

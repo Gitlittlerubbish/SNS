@@ -1,0 +1,15 @@
+--2020-03-02 03:56:58--  http://sangu.ge/images/Linguistics_56.pdf
+Resolving sangu.ge (sangu.ge)... 104.31.88.109, 104.31.89.109
+Connecting to sangu.ge (sangu.ge)|104.31.88.109|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.78M
+    50K .......... .......... .......... .......... .......... 5.77M
+   100K .......... .......... .......... .......... .......... 88.1M
+   150K .......... .......... .......... .......... .......... 51.8M
+   200K .......... .....                                       46.4M=0.2s
+
+2020-03-02 03:56:59 (7.56 Mb/s) - ‘/dev/null’ saved [220866]
+

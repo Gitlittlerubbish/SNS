@@ -1,0 +1,20 @@
+--2020-03-02 04:38:19--  http://www.morident.hu/pdf/ProlacSan_cikk.pdf
+Resolving www.morident.hu (www.morident.hu)... 78.24.184.230
+Connecting to www.morident.hu (www.morident.hu)|78.24.184.230|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.morident.hu/pdf/ProlacSan_cikk.pdf [following]
+--2020-03-02 04:38:19--  https://www.morident.hu/pdf/ProlacSan_cikk.pdf
+Connecting to www.morident.hu (www.morident.hu)|78.24.184.230|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256955 (251K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 5.05M 0s
+    50K .......... .......... .......... .......... .......... 39% 10.8M 0s
+   100K .......... .......... .......... .......... .......... 59%  160M 0s
+   150K .......... .......... .......... .......... .......... 79%  196M 0s
+   200K .......... .......... .......... .......... .......... 99% 10.3M 0s
+   250K                                                       100%  153K=0.2s
+
+2020-03-02 04:38:20 (12.6 Mb/s) - ‘/dev/null’ saved [256955/256955]
+

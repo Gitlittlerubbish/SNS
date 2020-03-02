@@ -1,0 +1,17 @@
+--2020-03-02 03:28:56--  http://kcaufgesuche.gq/uploads/analysis/520119ff7177b.pdf
+Resolving kcaufgesuche.gq (kcaufgesuche.gq)... 104.31.64.47, 104.31.65.47
+Connecting to kcaufgesuche.gq (kcaufgesuche.gq)|104.31.64.47|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 9.96M
+    50K .......... .......... .......... .......... ..........  137M
+   100K .......... .......... .......... .......... .......... 21.1M
+   150K .......... .......... .......... .......... .......... 19.6M
+   200K .......... .......... .......... .......... ..........  165M
+   250K .......... .......... .......... .......... ..........  336M
+   300K                                                        98.9K=0.09s
+
+2020-03-02 03:28:56 (28.0 Mb/s) - ‘/dev/null’ saved [307818]
+

@@ -1,0 +1,14 @@
+--2020-03-02 04:15:30--  http://www.pprc.gg/wp-content/uploads/2014/07/lifesatisfaction.pdf
+Resolving www.pprc.gg (www.pprc.gg)... 185.151.30.160
+Connecting to www.pprc.gg (www.pprc.gg)|185.151.30.160|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198602 (194K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 55.6M 0s
+    50K .......... .......... .......... .......... .......... 51% 71.6M 0s
+   100K .......... .......... .......... .......... .......... 77% 61.9M 0s
+   150K .......... .......... .......... .......... ...       100% 85.6M=0.02s
+
+2020-03-02 04:15:30 (66.5 Mb/s) - ‘/dev/null’ saved [198602/198602]
+

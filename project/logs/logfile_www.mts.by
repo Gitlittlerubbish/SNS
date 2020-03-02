@@ -1,0 +1,13 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 00:17:18--  https://www.mts.by/mobile/social_media/rules.pdf
+Resolving www.mts.by (www.mts.by)... 217.21.61.177
+Connecting to www.mts.by (www.mts.by)|217.21.61.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77339 (76K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 1.97M 0s
+    50K .......... .......... .....                           100%  106M=0.2s
+
+2020-03-02 00:17:19 (2.94 Mb/s) - ‘/dev/null’ saved [77339/77339]
+

@@ -1,0 +1,11 @@
+--2020-03-02 05:09:12--  http://www.bbfarma.it/pdf/stampati/037954082.pdf
+Resolving www.bbfarma.it (www.bbfarma.it)... 77.93.252.251
+Connecting to www.bbfarma.it (www.bbfarma.it)|77.93.252.251|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48215 (47K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......   100% 2.61M=0.1s
+
+2020-03-02 05:09:13 (2.61 Mb/s) - ‘/dev/null’ saved [48215/48215]
+

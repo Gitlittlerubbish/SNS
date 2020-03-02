@@ -1,0 +1,12 @@
+--2020-03-02 04:43:41--  http://mcnahan.in/pdf/RTI.pdf
+Resolving mcnahan.in (mcnahan.in)... 108.170.60.107
+Connecting to mcnahan.in (mcnahan.in)|108.170.60.107|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60317 (59K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 84% 1.43M 0s
+    50K ........                                              100% 70.8M=0.3s
+
+2020-03-02 04:43:42 (1.67 Mb/s) - ‘/dev/null’ saved [60317/60317]
+

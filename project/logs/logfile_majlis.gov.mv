@@ -1,0 +1,20 @@
+--2020-03-02 07:09:46--  http://majlis.gov.mv/ipu.pdf
+Resolving majlis.gov.mv (majlis.gov.mv)... 104.28.16.73, 104.28.17.73
+Connecting to majlis.gov.mv (majlis.gov.mv)|104.28.16.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://majlis.gov.mv/ipu.pdf [following]
+--2020-03-02 07:09:46--  https://majlis.gov.mv/ipu.pdf
+Connecting to majlis.gov.mv (majlis.gov.mv)|104.28.16.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 275001 (269K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 69.3M 0s
+    50K .......... .......... .......... .......... .......... 37%  139M 0s
+   100K .......... .......... .......... .......... .......... 55%  157M 0s
+   150K .......... .......... .......... .......... .......... 74% 89.6M 0s
+   200K .......... .......... .......... .......... .......... 93%  160M 0s
+   250K .......... ........                                   100% 1.13G=0.02s
+
+2020-03-02 07:09:46 (118 Mb/s) - ‘/dev/null’ saved [275001/275001]
+

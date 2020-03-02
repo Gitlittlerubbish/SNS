@@ -1,0 +1,11 @@
+--2020-03-02 04:40:41--  http://www.vigfusina.is/themu/astridlindgren/songvar.pdf
+Resolving www.vigfusina.is (www.vigfusina.is)... 82.221.80.123
+Connecting to www.vigfusina.is (www.vigfusina.is)|82.221.80.123|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38749 (38K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......              100% 3.11M=0.1s
+
+2020-03-02 04:40:41 (3.11 Mb/s) - ‘/dev/null’ saved [38749/38749]
+

@@ -1,0 +1,17 @@
+--2020-03-02 06:26:10--  http://www.lrs.lt/sip/getFile3%3Fp_fid%3D16794
+Resolving www.lrs.lt (www.lrs.lt)... 107.154.141.31
+Connecting to www.lrs.lt (www.lrs.lt)|107.154.141.31|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lrs.lt/sip/getFile3%3Fp_fid%3D16794 [following]
+--2020-03-02 06:26:10--  https://www.lrs.lt/sip/getFile3%3Fp_fid%3D16794
+Connecting to www.lrs.lt (www.lrs.lt)|107.154.141.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.lrs.lt attempted to set domain to lrs.lt
+Cookie coming from www.lrs.lt attempted to set domain to lrs.lt
+Length: 210 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  120M=0s
+
+2020-03-02 06:26:10 (120 Mb/s) - ‘/dev/null’ saved [210/210]
+

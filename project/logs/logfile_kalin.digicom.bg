@@ -1,0 +1,14 @@
+--2020-03-02 01:31:42--  http://kalin.digicom.bg/ESLPod/ESLPod_322_Guide.pdf
+Resolving kalin.digicom.bg (kalin.digicom.bg)... 185.18.56.7
+Connecting to kalin.digicom.bg (kalin.digicom.bg)|185.18.56.7|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159604 (156K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 2.06M 0s
+    50K .......... .......... .......... .......... .......... 64% 8.08M 0s
+   100K .......... .......... .......... .......... .......... 96% 7.71M 0s
+   150K .....                                                 100%  202K=0.5s
+
+2020-03-02 01:31:43 (2.36 Mb/s) - ‘/dev/null’ saved [159604/159604]
+

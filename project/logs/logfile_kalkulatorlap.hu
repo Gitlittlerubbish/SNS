@@ -1,0 +1,16 @@
+--2020-03-02 04:37:16--  http://kalkulatorlap.hu/docs/gepjarmu_adasveteli_szerzodes.pdf
+Resolving kalkulatorlap.hu (kalkulatorlap.hu)... 92.43.203.158
+Connecting to kalkulatorlap.hu (kalkulatorlap.hu)|92.43.203.158|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kalkulatorlap.hu/docs/gepjarmu_adasveteli_szerzodes.pdf [following]
+--2020-03-02 04:37:17--  https://kalkulatorlap.hu/docs/gepjarmu_adasveteli_szerzodes.pdf
+Connecting to kalkulatorlap.hu (kalkulatorlap.hu)|92.43.203.158|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78118 (76K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65% 3.34M 0s
+    50K .......... .......... ......                          100% 98.5M=0.1s
+
+2020-03-02 04:37:17 (5.00 Mb/s) - ‘/dev/null’ saved [78118/78118]
+

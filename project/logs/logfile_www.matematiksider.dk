@@ -1,0 +1,16 @@
+--2020-03-02 03:04:21--  http://www.matematiksider.dk/pythago/pyth.pdf
+Resolving www.matematiksider.dk (www.matematiksider.dk)... 46.30.215.65
+Connecting to www.matematiksider.dk (www.matematiksider.dk)|46.30.215.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.matematiksider.dk/pythago/pyth.pdf [following]
+--2020-03-02 03:04:21--  https://www.matematiksider.dk/pythago/pyth.pdf
+Connecting to www.matematiksider.dk (www.matematiksider.dk)|46.30.215.65|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71003 (69K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 72% 15.6M 0s
+    50K .......... .........                                  100% 76.2M=0.03s
+
+2020-03-02 03:04:21 (20.1 Mb/s) - ‘/dev/null’ saved [71003/71003]
+

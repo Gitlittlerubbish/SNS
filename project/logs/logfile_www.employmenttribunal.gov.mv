@@ -1,0 +1,23 @@
+--2020-03-02 07:09:14--  http://www.employmenttribunal.gov.mv/reports/19VTR2012.pdf
+Resolving www.employmenttribunal.gov.mv (www.employmenttribunal.gov.mv)... 27.114.150.55
+Connecting to www.employmenttribunal.gov.mv (www.employmenttribunal.gov.mv)|27.114.150.55|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97224 (95K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 1.02M 0s
+    50K .......... .......... .......... .......... ....      100% 1.89M=0.6s
+
+2020-03-02 07:09:16 (1.30 Mb/s) - ‘/dev/null’ saved [97224/97224]
+
+--2020-03-02 07:09:16--  http://www.employmenttribunal.gov.mv/reports/109VTR2009.pdf
+Resolving www.employmenttribunal.gov.mv (www.employmenttribunal.gov.mv)... 27.114.150.55
+Connecting to www.employmenttribunal.gov.mv (www.employmenttribunal.gov.mv)|27.114.150.55|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18571 (18K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ........                                   100%  716K=0.2s
+
+2020-03-02 07:09:16 (716 Kb/s) - ‘/dev/null’ saved [18571/18571]
+

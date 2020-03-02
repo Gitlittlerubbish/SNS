@@ -1,0 +1,13 @@
+--2020-03-02 05:01:22--  http://www.travelhealth.ie/docs/YellowFeverPDF11thJuly2016.pdf
+Resolving www.travelhealth.ie (www.travelhealth.ie)... 81.17.248.107
+Connecting to www.travelhealth.ie (www.travelhealth.ie)|81.17.248.107|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147277 (144K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 6.03M 0s
+    50K .......... .......... .......... .......... .......... 69% 23.4M 0s
+   100K .......... .......... .......... .......... ...       100% 19.9M=0.1s
+
+2020-03-02 05:01:22 (11.4 Mb/s) - ‘/dev/null’ saved [147277/147277]
+

@@ -1,0 +1,11 @@
+--2020-03-02 02:37:03--  http://www.pssn.cg/images/Bulletins/VIRUS-INFORMATIQUE.pdf
+Resolving www.pssn.cg (www.pssn.cg)... 91.234.195.182
+Connecting to www.pssn.cg (www.pssn.cg)|91.234.195.182|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                       390M=0s
+
+2020-03-02 02:37:03 (390 Mb/s) - ‘/dev/null’ saved [1658]
+

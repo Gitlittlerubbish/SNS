@@ -1,0 +1,16 @@
+--2020-03-01 23:05:45--  http://analytics.ag/Blog/content/KoPRF.pdf
+Resolving analytics.ag (analytics.ag)... 40.84.55.24
+Connecting to analytics.ag (analytics.ag)|40.84.55.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://analytics.ag//Blog/content/KoPRF.pdf [following]
+--2020-03-01 23:05:45--  https://analytics.ag//Blog/content/KoPRF.pdf
+Connecting to analytics.ag (analytics.ag)|40.84.55.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76474 (75K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 4.91M 0s
+    50K .......... .......... ....                            100% 2.44M=0.2s
+
+2020-03-01 23:05:46 (3.68 Mb/s) - ‘/dev/null’ saved [76474/76474]
+

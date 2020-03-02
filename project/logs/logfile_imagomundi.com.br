@@ -1,0 +1,14 @@
+--2020-03-02 01:10:46--  http://imagomundi.com.br/cultura/sociedade_espetaculo.pdf
+Resolving imagomundi.com.br (imagomundi.com.br)... 208.113.217.227
+Connecting to imagomundi.com.br (imagomundi.com.br)|208.113.217.227|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197533 (193K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 2.68M 0s
+    50K .......... .......... .......... .......... .......... 51% 5.29M 0s
+   100K .......... .......... .......... .......... .......... 77% 88.2M 0s
+   150K .......... .......... .......... .......... ..        100%  170M=0.2s
+
+2020-03-02 01:10:46 (6.66 Mb/s) - ‘/dev/null’ saved [197533/197533]
+

@@ -1,0 +1,12 @@
+--2020-03-02 02:01:53--  http://myscoutiqng.cf/files/voorbereiding/V_DU_Woordenlijsten.pdf
+Resolving myscoutiqng.cf (myscoutiqng.cf)... 104.27.159.146, 104.27.158.146
+Connecting to myscoutiqng.cf (myscoutiqng.cf)|104.27.159.146|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 84.1M
+    50K .......... .......... .......... .......... ..          162M=0.007s
+
+2020-03-02 02:01:54 (108 Mb/s) - ‘/dev/null’ saved [95086]
+

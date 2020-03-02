@@ -1,0 +1,15 @@
+--2020-03-02 04:38:00--  http://www.szertelenkek.hu/anyagok/logisztori_gyujtemeny.pdf
+Resolving www.szertelenkek.hu (www.szertelenkek.hu)... 81.2.198.163
+Connecting to www.szertelenkek.hu (www.szertelenkek.hu)|81.2.198.163|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241882 (236K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 5.74M 0s
+    50K .......... .......... .......... .......... .......... 42% 11.2M 0s
+   100K .......... .......... .......... .......... .......... 63%  115M 0s
+   150K .......... .......... .......... .......... .......... 84% 12.4M 0s
+   200K .......... .......... .......... ......               100%  205M=0.1s
+
+2020-03-02 04:38:00 (13.3 Mb/s) - ‘/dev/null’ saved [241882/241882]
+

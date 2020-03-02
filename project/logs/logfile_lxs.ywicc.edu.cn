@@ -1,0 +1,20 @@
+--2020-03-02 02:16:01--  http://lxs.ywicc.edu.cn/vocabulary_hsk1.pdf
+Resolving lxs.ywicc.edu.cn (lxs.ywicc.edu.cn)... 60.191.227.151
+Connecting to lxs.ywicc.edu.cn (lxs.ywicc.edu.cn)|60.191.227.151|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://lxs.ywicc.edu.cn/vocabulary_hsk1.pdf [following]
+--2020-03-02 02:16:02--  https://lxs.ywicc.edu.cn/vocabulary_hsk1.pdf
+Connecting to lxs.ywicc.edu.cn (lxs.ywicc.edu.cn)|60.191.227.151|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 268109 (262K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19%  664K 3s
+    50K .......... .......... .......... .......... .......... 38% 1.34M 1s
+   100K .......... .......... .......... .......... .......... 57% 1.64M 1s
+   150K .......... .......... .......... .......... .......... 76% 90.1M 0s
+   200K .......... .......... .......... .......... .......... 95% 1.59M 0s
+   250K .......... .                                          100% 1.03G=1.4s
+
+2020-03-02 02:16:06 (1.49 Mb/s) - ‘/dev/null’ saved [268109/268109]
+

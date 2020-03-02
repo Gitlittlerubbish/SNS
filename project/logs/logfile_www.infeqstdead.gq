@@ -1,0 +1,16 @@
+--2020-03-02 03:29:31--  http://www.infeqstdead.gq/Content/20734479/27_Tonnage_measurement_of_ships.pdf
+Resolving www.infeqstdead.gq (www.infeqstdead.gq)... 104.27.147.139, 104.27.146.139
+Connecting to www.infeqstdead.gq (www.infeqstdead.gq)|104.27.147.139|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.1M
+    50K .......... .......... .......... .......... ..........  138M
+   100K .......... .......... .......... .......... .......... 95.9M
+   150K .......... .......... .......... .......... .......... 9.93M
+   200K .......... .......... .......... .......... ..........  216M
+   250K .......... .......... .......... .......... .           243M=0.09s
+
+2020-03-02 03:29:31 (25.8 Mb/s) - ‘/dev/null’ saved [298544]
+

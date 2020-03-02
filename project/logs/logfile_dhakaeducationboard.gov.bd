@@ -1,0 +1,15 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 00:02:50--  https://dhakaeducationboard.gov.bd/data/20190816113251546715.pdf
+Resolving dhakaeducationboard.gov.bd (dhakaeducationboard.gov.bd)... 46.105.104.51, 193.70.79.13
+Connecting to dhakaeducationboard.gov.bd (dhakaeducationboard.gov.bd)|46.105.104.51|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165067 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 14.4M 0s
+    50K .......... .......... .......... .......... .......... 62% 26.3M 0s
+   100K .......... .......... .......... .......... .......... 93%  112M 0s
+   150K .......... .                                          100%  470M=0.05s
+
+2020-03-02 00:02:50 (27.6 Mb/s) - ‘/dev/null’ saved [165067/165067]
+

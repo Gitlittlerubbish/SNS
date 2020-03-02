@@ -1,0 +1,13 @@
+--2020-03-02 02:01:43--  http://cocrdiallyd.cf/fileadmin/user_upload/Baumrecht_5_2017.pdf
+Resolving cocrdiallyd.cf (cocrdiallyd.cf)... 104.28.24.80, 104.28.25.80
+Connecting to cocrdiallyd.cf (cocrdiallyd.cf)|104.28.24.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15.8M
+    50K .......... .......... .......... .......... ..........  129M
+   100K ....                                                    703M=0.03s
+
+2020-03-02 02:01:43 (29.4 Mb/s) - ‘/dev/null’ saved [106794]
+

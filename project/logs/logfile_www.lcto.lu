@@ -1,0 +1,23 @@
+--2020-03-02 06:28:43--  http://www.lcto.lu/media/52b7fb406bea0_casemates_es.pdf
+Resolving www.lcto.lu (www.lcto.lu)... 52.28.27.130
+Connecting to www.lcto.lu (www.lcto.lu)|52.28.27.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.luxembourg-city.com [following]
+--2020-03-02 06:28:43--  https://www.luxembourg-city.com/
+Resolving www.luxembourg-city.com (www.luxembourg-city.com)... 104.26.10.171, 104.26.11.171
+Connecting to www.luxembourg-city.com (www.luxembourg-city.com)|104.26.10.171|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /fr [following]
+--2020-03-02 06:28:43--  https://www.luxembourg-city.com/fr
+Reusing existing connection to www.luxembourg-city.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29.1M
+    50K .......... .......... .......... .......... ..........  165M
+   100K .......... .......... .......... .......... ..........  288M
+   150K .......... .......... .......... .......... ..          220M=0.02s
+
+2020-03-02 06:28:43 (80.6 Mb/s) - ‘/dev/null’ saved [196914]
+

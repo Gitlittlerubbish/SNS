@@ -1,0 +1,24 @@
+--2020-03-02 04:58:13--  http://www.mathfile.ir/post/download%3Fcode%3D4MqA4eAmKq
+Resolving www.mathfile.ir (www.mathfile.ir)... 185.159.153.141
+Connecting to www.mathfile.ir (www.mathfile.ir)|185.159.153.141|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mathfile.ir/index.php/post/download?code=4MqA4eAmKq [following]
+--2020-03-02 04:58:14--  https://www.mathfile.ir/index.php/post/download?code=4MqA4eAmKq
+Connecting to www.mathfile.ir (www.mathfile.ir)|185.159.153.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 508267 (496K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.53M 2s
+    50K .......... .......... .......... .......... .......... 20% 3.07M 2s
+   100K .......... .......... .......... .......... .......... 30%  202M 1s
+   150K .......... .......... .......... .......... .......... 40% 3.22M 1s
+   200K .......... .......... .......... .......... .......... 50% 71.2M 1s
+   250K .......... .......... .......... .......... .......... 60% 52.1M 0s
+   300K .......... .......... .......... .......... .......... 70% 3.40M 0s
+   350K .......... .......... .......... .......... .......... 80%  109M 0s
+   400K .......... .......... .......... .......... .......... 90%  132M 0s
+   450K .......... .......... .......... .......... ......    100%  315M=0.7s
+
+2020-03-02 04:58:15 (6.04 Mb/s) - ‘/dev/null’ saved [508267/508267]
+

@@ -1,0 +1,12 @@
+--2020-03-02 03:45:11--  http://www.ttl.fi/ova/naoh.pdf
+Resolving www.ttl.fi (www.ttl.fi)... 192.58.74.22
+Connecting to www.ttl.fi (www.ttl.fi)|192.58.74.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53193 (52K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 96% 4.16M 0s
+    50K .                                                     100%  142M=0.1s
+
+2020-03-02 03:45:11 (4.32 Mb/s) - ‘/dev/null’ saved [53193/53193]
+

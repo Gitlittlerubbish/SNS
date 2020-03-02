@@ -1,0 +1,13 @@
+--2020-03-02 02:34:57--  http://www.procreditbank.cd/downloads/Recruitement_Test1_SAMPLE.pdf
+Resolving www.procreditbank.cd (www.procreditbank.cd)... 88.198.176.147
+Connecting to www.procreditbank.cd (www.procreditbank.cd)|88.198.176.147|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128081 (125K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 9.30M 0s
+    50K .......... .......... .......... .......... .......... 79% 18.8M 0s
+   100K .......... .......... .....                           100%  415M=0.07s
+
+2020-03-02 02:34:58 (15.5 Mb/s) - ‘/dev/null’ saved [128081/128081]
+

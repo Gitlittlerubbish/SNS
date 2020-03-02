@@ -1,0 +1,33 @@
+--2020-03-02 05:01:08--  http://www.fsai.ie/publications_high_pressure_processing/
+Resolving www.fsai.ie (www.fsai.ie)... 82.195.136.234
+Connecting to www.fsai.ie (www.fsai.ie)|82.195.136.234|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.fsai.ie/publications_high_pressure_processing/ [following]
+--2020-03-02 05:01:08--  https://www.fsai.ie/publications_high_pressure_processing/
+Connecting to www.fsai.ie (www.fsai.ie)|82.195.136.234|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86812 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58% 25.3M 0s
+    50K .......... .......... .......... ....                 100% 22.7M=0.03s
+
+2020-03-02 05:01:08 (24.2 Mb/s) - ‘/dev/null’ saved [86812/86812]
+
+--2020-03-02 05:01:08--  http://www.fsai.ie/salmonellaspecies.html
+Resolving www.fsai.ie (www.fsai.ie)... 82.195.136.234
+Connecting to www.fsai.ie (www.fsai.ie)|82.195.136.234|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.fsai.ie/salmonellaspecies.html [following]
+--2020-03-02 05:01:08--  https://www.fsai.ie/salmonellaspecies.html
+Connecting to www.fsai.ie (www.fsai.ie)|82.195.136.234|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130101 (127K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 24.8M 0s
+    50K .......... .......... .......... .......... .......... 78% 28.3M 0s
+   100K .......... .......... .......                         100%  139M=0.03s
+
+2020-03-02 05:01:09 (31.9 Mb/s) - ‘/dev/null’ saved [130101/130101]
+

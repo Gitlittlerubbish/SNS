@@ -1,0 +1,16 @@
+--2020-03-02 07:27:59--  http://www.edutics.com.mx/wUs
+Resolving www.edutics.com.mx (www.edutics.com.mx)... 104.28.29.30, 104.28.28.30
+Connecting to www.edutics.com.mx (www.edutics.com.mx)|104.28.29.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uma.es/publicadores/biblioteca/wwwuma/ElaborarResumenes.pdf [following]
+--2020-03-02 07:27:59--  https://www.uma.es/publicadores/biblioteca/wwwuma/ElaborarResumenes.pdf
+Resolving www.uma.es (www.uma.es)... 150.214.40.97
+Connecting to www.uma.es (www.uma.es)|150.214.40.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22006 (21K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                               100% 2.85M=0.06s
+
+2020-03-02 07:28:00 (2.85 Mb/s) - ‘/dev/null’ saved [22006/22006]
+

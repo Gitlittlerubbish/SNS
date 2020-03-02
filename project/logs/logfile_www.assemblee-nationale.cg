@@ -1,0 +1,15 @@
+--2020-03-02 02:37:13--  http://www.assemblee-nationale.cg/wp-content/uploads/2019/06/Mot_du_PAN_session_cloture_troisieme_session_ordinaire_du_02_juin_au_13_aout_2018.pdf
+Resolving www.assemblee-nationale.cg (www.assemblee-nationale.cg)... 196.40.100.202
+Connecting to www.assemblee-nationale.cg (www.assemblee-nationale.cg)|196.40.100.202|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220085 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 1.38M 1s
+    50K .......... .......... .......... .......... .......... 46% 2.86M 1s
+   100K .......... .......... .......... .......... .......... 69% 63.0M 0s
+   150K .......... .......... .......... .......... .......... 93% 83.6M 0s
+   200K .......... ....                                       100%  899K=0.6s
+
+2020-03-02 02:37:14 (3.00 Mb/s) - ‘/dev/null’ saved [220085/220085]
+

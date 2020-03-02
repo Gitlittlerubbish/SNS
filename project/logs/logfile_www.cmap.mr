@@ -1,0 +1,28 @@
+--2020-03-02 07:21:22--  http://www.cmap.mr/formation/ModelisationMacro/Jour3/auta.pdf
+Resolving www.cmap.mr (www.cmap.mr)... 82.151.74.162
+Connecting to www.cmap.mr (www.cmap.mr)|82.151.74.162|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197383 (193K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  492K 2s
+    50K .......... .......... .......... .......... .......... 51%  764K 1s
+   100K .......... .......... .......... .......... .......... 77%  748K 1s
+   150K .......... .......... .......... .......... ..        100%  747K=2.4s
+
+2020-03-02 07:21:25 (662 Kb/s) - ‘/dev/null’ saved [197383/197383]
+
+--2020-03-02 07:21:25--  http://www.cmap.mr/formation/ModelisationMacro/Jour8/marchWork.pdf
+Resolving www.cmap.mr (www.cmap.mr)... 82.151.74.162
+Connecting to www.cmap.mr (www.cmap.mr)|82.151.74.162|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176028 (172K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29%  472K 2s
+    50K .......... .......... .......... .......... .......... 58%  767K 1s
+   100K .......... .......... .......... .......... .......... 87%  755K 0s
+   150K .......... .......... .                               100%  776K=2.2s
+
+2020-03-02 07:21:28 (647 Kb/s) - ‘/dev/null’ saved [176028/176028]
+

@@ -1,0 +1,15 @@
+--2020-03-02 07:07:10--  http://www.belco.com.my/specs/EXOS.pdf
+Resolving www.belco.com.my (www.belco.com.my)... 103.6.196.121
+Connecting to www.belco.com.my (www.belco.com.my)|103.6.196.121|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 237141 (232K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.17M 1s
+    50K .......... .......... .......... .......... .......... 43% 2.33M 1s
+   100K .......... .......... .......... .......... .......... 64% 2.31M 0s
+   150K .......... .......... .......... .......... .......... 86% 2.33M 0s
+   200K .......... .......... .......... .                    100%  114M=0.9s
+
+2020-03-02 07:07:12 (2.15 Mb/s) - ‘/dev/null’ saved [237141/237141]
+

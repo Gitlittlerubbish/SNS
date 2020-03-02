@@ -1,0 +1,12 @@
+--2020-03-02 04:39:13--  http://www.matis.is/media/utgafa/Naering_snakk.pdf
+Resolving www.matis.is (www.matis.is)... 80.248.22.12
+Connecting to www.matis.is (www.matis.is)|80.248.22.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60306 (59K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 84% 4.49M 0s
+    50K ........                                              100%  578M=0.09s
+
+2020-03-02 04:39:13 (5.28 Mb/s) - ‘/dev/null’ saved [60306/60306]
+

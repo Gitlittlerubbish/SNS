@@ -1,0 +1,13 @@
+--2020-03-02 03:45:11--  http://laakeohje.fi/files/1434092596116_fisv.pdf
+Resolving laakeohje.fi (laakeohje.fi)... 54.228.253.204
+Connecting to laakeohje.fi (laakeohje.fi)|54.228.253.204|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136327 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 15.2M 0s
+    50K .......... .......... .......... .......... .......... 75% 27.9M 0s
+   100K .......... .......... .......... ...                  100%  241M=0.04s
+
+2020-03-02 03:45:11 (25.5 Mb/s) - ‘/dev/null’ saved [136327/136327]
+

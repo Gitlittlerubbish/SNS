@@ -1,0 +1,14 @@
+--2020-03-02 05:27:36--  http://egida.kz/index.php%3Fcontroller%3Dattachment%26id_attachment%3D413
+Resolving egida.kz (egida.kz)... 195.210.46.43
+Connecting to egida.kz (egida.kz)|195.210.46.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.28M
+    50K .......... .......... .......... .......... .......... 3.68M
+   100K .......... .......... .......... .......... .......... 84.4M
+   150K .......... .......... .......... ..                     166M=0.4s
+
+2020-03-02 05:27:38 (3.41 Mb/s) - ‘/dev/null’ saved [186968]
+

@@ -1,0 +1,22 @@
+--2020-03-01 22:35:31--  http://ispatlantida.co.ao/Pedagogia.pdf
+Resolving ispatlantida.co.ao (ispatlantida.co.ao)... 188.93.230.170
+Connecting to ispatlantida.co.ao (ispatlantida.co.ao)|188.93.230.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ispatlantida.co.ao/Pedagogia.pdf [following]
+--2020-03-01 22:35:31--  https://ispatlantida.co.ao/Pedagogia.pdf
+Connecting to ispatlantida.co.ao (ispatlantida.co.ao)|188.93.230.170|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 369824 (361K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 5.77M 0s
+    50K .......... .......... .......... .......... .......... 27% 55.3M 0s
+   100K .......... .......... .......... .......... .......... 41% 12.4M 0s
+   150K .......... .......... .......... .......... .......... 55% 81.0M 0s
+   200K .......... .......... .......... .......... .......... 69% 14.2M 0s
+   250K .......... .......... .......... .......... .......... 83% 96.1M 0s
+   300K .......... .......... .......... .......... .......... 96% 69.8M 0s
+   350K .......... .                                          100%  367M=0.2s
+
+2020-03-01 22:35:32 (19.0 Mb/s) - ‘/dev/null’ saved [369824/369824]
+

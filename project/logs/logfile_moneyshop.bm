@@ -1,0 +1,17 @@
+--2020-03-02 00:33:45--  http://moneyshop.bm/img/usavisas/USAVisaQuestionnaire.pdf
+Resolving moneyshop.bm (moneyshop.bm)... 167.99.239.124
+Connecting to moneyshop.bm (moneyshop.bm)|167.99.239.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://moneyshop.bm/img/usavisas/USAVisaQuestionnaire.pdf [following]
+--2020-03-02 00:33:46--  https://moneyshop.bm/img/usavisas/USAVisaQuestionnaire.pdf
+Connecting to moneyshop.bm (moneyshop.bm)|167.99.239.124|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108712 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 5.48M 0s
+    50K .......... .......... .......... .......... .......... 94% 5.63M 0s
+   100K ......                                                100%  459M=0.1s
+
+2020-03-02 00:33:46 (5.89 Mb/s) - ‘/dev/null’ saved [108712/108712]
+

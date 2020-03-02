@@ -1,0 +1,12 @@
+--2020-03-02 01:52:15--  http://www.deca.ca/documents/Dates.pdf
+Resolving www.deca.ca (www.deca.ca)... 67.227.214.24
+Connecting to www.deca.ca (www.deca.ca)|67.227.214.24|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82882 (81K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 61% 2.04M 0s
+    50K .......... .......... ..........                      100% 85.1M=0.2s
+
+2020-03-02 01:52:15 (3.25 Mb/s) - ‘/dev/null’ saved [82882/82882]
+

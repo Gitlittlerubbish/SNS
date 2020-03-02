@@ -1,0 +1,13 @@
+--2020-03-01 22:22:34--  http://www.drcalger.dz/files/A036.pdf
+Resolving www.drcalger.dz (www.drcalger.dz)... 41.111.156.85
+Connecting to www.drcalger.dz (www.drcalger.dz)|41.111.156.85|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133294 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 1.28M 1s
+    50K .......... .......... .......... .......... .......... 76% 5.93M 0s
+   100K .......... .......... ..........                      100% 4.09M=0.4s
+
+2020-03-01 22:22:36 (2.38 Mb/s) - ‘/dev/null’ saved [133294/133294]
+

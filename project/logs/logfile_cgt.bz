@@ -1,0 +1,12 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 00:20:40--  https://cgt.bz/238rt
+Resolving cgt.bz (cgt.bz)... 37.221.223.30
+Connecting to cgt.bz (cgt.bz)|37.221.223.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 791 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  452M=0s
+
+2020-03-02 00:20:40 (452 Mb/s) - ‘/dev/null’ saved [791/791]
+

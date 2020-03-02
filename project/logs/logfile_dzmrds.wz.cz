@@ -1,0 +1,15 @@
+--2020-03-02 03:02:40--  http://dzmrds.wz.cz/knihy/orwellanimalfarm.pdf
+Resolving dzmrds.wz.cz (dzmrds.wz.cz)... 185.64.219.6
+Connecting to dzmrds.wz.cz (dzmrds.wz.cz)|185.64.219.6|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230095 (225K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 5.33M 0s
+    50K .......... .......... .......... .......... .......... 44% 10.5M 0s
+   100K .......... .......... .......... .......... .......... 66%  110M 0s
+   150K .......... .......... .......... .......... .......... 89%  353M 0s
+   200K .......... .......... ....                            100% 5.71M=0.2s
+
+2020-03-02 03:02:40 (11.8 Mb/s) - ‘/dev/null’ saved [230095/230095]
+

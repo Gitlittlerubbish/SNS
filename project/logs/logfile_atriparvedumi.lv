@@ -1,0 +1,21 @@
+--2020-03-02 06:13:54--  http://atriparvedumi.lv/pdf/vienotais_cenradis.pdf
+Resolving atriparvedumi.lv (atriparvedumi.lv)... 89.111.34.232
+Connecting to atriparvedumi.lv (atriparvedumi.lv)|89.111.34.232|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://atriparvedumi.lv/pdf/vienotais_cenradis.pdf [following]
+--2020-03-02 06:13:54--  https://atriparvedumi.lv/pdf/vienotais_cenradis.pdf
+Connecting to atriparvedumi.lv (atriparvedumi.lv)|89.111.34.232|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.atriparvedumi.lv/pdf/vienotais_cenradis.pdf [following]
+--2020-03-02 06:13:54--  https://www.atriparvedumi.lv/pdf/vienotais_cenradis.pdf
+Resolving www.atriparvedumi.lv (www.atriparvedumi.lv)... 89.111.34.232
+Connecting to www.atriparvedumi.lv (www.atriparvedumi.lv)|89.111.34.232|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66972 (65K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 76% 4.26M 0s
+    50K .......... .....                                      100%  847M=0.1s
+
+2020-03-02 06:13:55 (5.56 Mb/s) - ‘/dev/null’ saved [66972/66972]
+

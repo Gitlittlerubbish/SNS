@@ -1,0 +1,11 @@
+--2020-03-02 05:08:36--  http://www.cinap.unict.it/legge170_10.pdf
+Resolving www.cinap.unict.it (www.cinap.unict.it)... 151.97.240.9
+Connecting to www.cinap.unict.it (www.cinap.unict.it)|151.97.240.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27503 (27K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                          100% 3.79M=0.06s
+
+2020-03-02 05:08:36 (3.79 Mb/s) - ‘/dev/null’ saved [27503/27503]
+

@@ -1,0 +1,11 @@
+--2020-03-02 03:35:50--  http://navit.fo/dokumentir/ISM_010710.pdf
+Resolving navit.fo (navit.fo)... 94.231.101.74
+Connecting to navit.fo (navit.fo)|94.231.101.74|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44578 (44K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...       100% 2.36M=0.2s
+
+2020-03-02 03:35:51 (2.36 Mb/s) - ‘/dev/null’ saved [44578/44578]
+

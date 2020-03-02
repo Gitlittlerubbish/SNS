@@ -1,0 +1,11 @@
+--2020-03-02 03:45:31--  http://www.ukpallas.fi/lampomuovaus.pdf
+Resolving www.ukpallas.fi (www.ukpallas.fi)... 31.217.196.210
+Connecting to www.ukpallas.fi (www.ukpallas.fi)|31.217.196.210|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22581 (22K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..                              100% 4.05M=0.04s
+
+2020-03-02 03:45:32 (4.05 Mb/s) - ‘/dev/null’ saved [22581/22581]
+

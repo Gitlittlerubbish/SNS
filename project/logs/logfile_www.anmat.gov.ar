@@ -1,0 +1,14 @@
+--2020-03-01 23:07:45--  http://www.anmat.gov.ar/boletin_anmat/Noviembre_2014/Dispo_7546-14.pdf
+Resolving www.anmat.gov.ar (www.anmat.gov.ar)... 200.68.81.34
+Connecting to www.anmat.gov.ar (www.anmat.gov.ar)|200.68.81.34|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176189 (172K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29%  405K 2s
+    50K .......... .......... .......... .......... .......... 58% 1.73M 1s
+   100K .......... .......... .......... .......... .......... 87% 90.6M 0s
+   150K .......... .......... ..                              100% 60.2M=1.3s
+
+2020-03-01 23:07:48 (1.12 Mb/s) - ‘/dev/null’ saved [176189/176189]
+

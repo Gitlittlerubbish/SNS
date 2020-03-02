@@ -1,0 +1,26 @@
+--2020-03-02 02:35:36--  http://flacademy.cd/docs/grade2.pdf
+Resolving flacademy.cd (flacademy.cd)... 154.72.53.85
+Connecting to flacademy.cd (flacademy.cd)|154.72.53.85|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119721 (117K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 4.43M 0s
+    50K .......... .......... .......... .......... .......... 85% 8.51M 0s
+   100K .......... ......                                     100% 85.6M=0.1s
+
+2020-03-02 02:35:37 (6.73 Mb/s) - ‘/dev/null’ saved [119721/119721]
+
+--2020-03-02 02:35:37--  http://flacademy.cd/docs/grade7.pdf
+Resolving flacademy.cd (flacademy.cd)... 154.72.53.85
+Connecting to flacademy.cd (flacademy.cd)|154.72.53.85|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120950 (118K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 4.20M 0s
+    50K .......... .......... .......... .......... .......... 84% 8.35M 0s
+   100K .......... ........                                   100% 3.24M=0.2s
+
+2020-03-02 02:35:37 (5.03 Mb/s) - ‘/dev/null’ saved [120950/120950]
+

@@ -1,0 +1,17 @@
+--2020-03-02 08:33:00--  http://www.millhousemedical.co.nz/files/docs/factsheet_8_salicylates_in_foods.pdf
+Resolving www.millhousemedical.co.nz (www.millhousemedical.co.nz)... 52.237.209.250
+Connecting to www.millhousemedical.co.nz (www.millhousemedical.co.nz)|52.237.209.250|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326452 (319K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  444K 5s
+    50K .......... .......... .......... .......... .......... 31% 1.33M 3s
+   100K .......... .......... .......... .......... .......... 47%  589M 1s
+   150K .......... .......... .......... .......... .......... 62% 1.64M 1s
+   200K .......... .......... .......... .......... .......... 78% 31.6M 0s
+   250K .......... .......... .......... .......... .......... 94% 13.3M 0s
+   300K .......... ........                                   100%  748K=1.7s
+
+2020-03-02 08:33:03 (1.51 Mb/s) - ‘/dev/null’ saved [326452/326452]
+

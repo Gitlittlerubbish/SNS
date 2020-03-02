@@ -1,0 +1,22 @@
+--2020-03-02 02:28:31--  http://rsrch.co/2bARoML
+Resolving rsrch.co (rsrch.co)... 67.199.248.12, 67.199.248.13
+Connecting to rsrch.co (rsrch.co)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://erc.europa.eu/sites/default/files/document/file/erc_2015_adg_panel_members.pdf [following]
+--2020-03-02 02:28:31--  https://erc.europa.eu/sites/default/files/document/file/erc_2015_adg_panel_members.pdf
+Resolving erc.europa.eu (erc.europa.eu)... 185.3.216.244
+Connecting to erc.europa.eu (erc.europa.eu)|185.3.216.244|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 332374 (325K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 18.1M 0s
+    50K .......... .......... .......... .......... .......... 30% 19.2M 0s
+   100K .......... .......... .......... .......... .......... 46%  140M 0s
+   150K .......... .......... .......... .......... .......... 61%  460M 0s
+   200K .......... .......... .......... .......... .......... 77% 18.7M 0s
+   250K .......... .......... .......... .......... .......... 92%  121M 0s
+   300K .......... .......... ....                            100% 1.09G=0.07s
+
+2020-03-02 02:28:31 (36.3 Mb/s) - ‘/dev/null’ saved [332374/332374]
+

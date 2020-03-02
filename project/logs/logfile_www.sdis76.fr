@@ -1,0 +1,16 @@
+--2020-03-02 03:46:57--  http://www.sdis76.fr/images/conseil_et_prevention/Guide_securite_incendie_ERP.pdf
+Resolving www.sdis76.fr (www.sdis76.fr)... 213.186.33.18
+Connecting to www.sdis76.fr (www.sdis76.fr)|213.186.33.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 270910 (265K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 28.4M 0s
+    50K .......... .......... .......... .......... .......... 37% 82.9M 0s
+   100K .......... .......... .......... .......... .......... 56% 72.4M 0s
+   150K .......... .......... .......... .......... .......... 75% 50.1M 0s
+   200K .......... .......... .......... .......... .......... 94%  181M 0s
+   250K .......... ....                                       100% 1.73G=0.04s
+
+2020-03-02 03:46:57 (61.0 Mb/s) - ‘/dev/null’ saved [270910/270910]
+

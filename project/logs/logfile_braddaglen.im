@@ -1,0 +1,29 @@
+--2020-03-02 05:05:12--  http://braddaglen.im/s/Wedding-brochure-2017compressed.pdf
+Resolving braddaglen.im (braddaglen.im)... 198.185.159.144, 198.185.159.145, 198.49.23.145, ...
+Connecting to braddaglen.im (braddaglen.im)|198.185.159.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://braddaglen.im/s/Wedding-brochure-2017compressed.pdf [following]
+--2020-03-02 05:05:13--  https://braddaglen.im/s/Wedding-brochure-2017compressed.pdf
+Connecting to braddaglen.im (braddaglen.im)|198.185.159.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/55dcb0dbe4b0f748d9f641f6/t/596dfb563a04110b1bb9284d/1500379992205/Wedding+brochure+2017.compressed.pdf [following]
+--2020-03-02 05:05:13--  https://static1.squarespace.com/static/55dcb0dbe4b0f748d9f641f6/t/596dfb563a04110b1bb9284d/1500379992205/Wedding+brochure+2017.compressed.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 464199 (453K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 34.6M 0s
+    50K .......... .......... .......... .......... .......... 22% 47.6M 0s
+   100K .......... .......... .......... .......... .......... 33% 64.1M 0s
+   150K .......... .......... .......... .......... .......... 44% 68.4M 0s
+   200K .......... .......... .......... .......... .......... 55% 97.0M 0s
+   250K .......... .......... .......... .......... .......... 66% 60.8M 0s
+   300K .......... .......... .......... .......... .......... 77% 67.5M 0s
+   350K .......... .......... .......... .......... .......... 88% 66.9M 0s
+   400K .......... .......... .......... .......... .......... 99%  104M 0s
+   450K ...                                                   100%  544K=0.06s
+
+2020-03-02 05:05:14 (62.0 Mb/s) - ‘/dev/null’ saved [464199/464199]
+

@@ -1,0 +1,15 @@
+--2020-03-02 01:14:30--  http://www.biofarm.com.br/Bulas/BIO020038.pdf
+Resolving www.biofarm.com.br (www.biofarm.com.br)... 108.179.252.32
+Connecting to www.biofarm.com.br (www.biofarm.com.br)|108.179.252.32|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247122 (241K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.67M 1s
+    50K .......... .......... .......... .......... .......... 41% 3.37M 1s
+   100K .......... .......... .......... .......... .......... 62%  121M 0s
+   150K .......... .......... .......... .......... .......... 82%  288M 0s
+   200K .......... .......... .......... .......... .         100% 2.80M=0.5s
+
+2020-03-02 01:14:32 (4.01 Mb/s) - ‘/dev/null’ saved [247122/247122]
+

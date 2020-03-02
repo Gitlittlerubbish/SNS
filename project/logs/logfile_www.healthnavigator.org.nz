@@ -1,0 +1,18 @@
+--2020-03-02 08:26:53--  http://www.healthnavigator.org.nz/media/1002/files-cholecystectomy.pdf
+Resolving www.healthnavigator.org.nz (www.healthnavigator.org.nz)... 52.237.208.151
+Connecting to www.healthnavigator.org.nz (www.healthnavigator.org.nz)|52.237.208.151|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.healthnavigator.org.nz/media/1002/files-cholecystectomy.pdf [following]
+--2020-03-02 08:26:54--  https://www.healthnavigator.org.nz/media/1002/files-cholecystectomy.pdf
+Connecting to www.healthnavigator.org.nz (www.healthnavigator.org.nz)|52.237.208.151|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165006 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31%  621K 1s
+    50K .......... .......... .......... .......... .......... 62%  304M 0s
+   100K .......... .......... .......... .......... .......... 93% 1.33M 0s
+   150K .......... .                                          100%  912M=1.0s
+
+2020-03-02 08:26:56 (1.36 Mb/s) - ‘/dev/null’ saved [165006/165006]
+

@@ -1,0 +1,11 @@
+--2020-03-02 01:07:11--  http://www.mmegi.bw/2019/september/01/phpPF6eWb.pdf
+Resolving www.mmegi.bw (www.mmegi.bw)... 208.109.54.108
+Connecting to www.mmegi.bw (www.mmegi.bw)|208.109.54.108|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48038 (47K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 1.35M=0.3s
+
+2020-03-02 01:07:12 (1.35 Mb/s) - ‘/dev/null’ saved [48038/48038]
+

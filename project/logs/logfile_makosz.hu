@@ -1,0 +1,15 @@
+--2020-03-02 04:37:29--  http://makosz.hu/hirek/biocid_termek_direktiva
+Resolving makosz.hu (makosz.hu)... 87.229.69.70
+Connecting to makosz.hu (makosz.hu)|87.229.69.70|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://makosz.hu/hirek/biocid_termek_direktiva [following]
+--2020-03-02 04:37:29--  https://makosz.hu/hirek/biocid_termek_direktiva
+Connecting to makosz.hu (makosz.hu)|87.229.69.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..........                                             2.21M=0.04s
+
+2020-03-02 04:37:30 (2.21 Mb/s) - ‘/dev/null’ saved [10648]
+

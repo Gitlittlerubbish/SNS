@@ -1,0 +1,26 @@
+--2020-03-02 01:31:14--  http://www.sofiyskavoda.bg/SVDocuments/Naredba4_2013.pdf
+Resolving www.sofiyskavoda.bg (www.sofiyskavoda.bg)... 213.16.42.100
+Connecting to www.sofiyskavoda.bg (www.sofiyskavoda.bg)|213.16.42.100|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.sofiyskavoda.bg/SVDocuments/Naredba4_2013.pdf [following]
+--2020-03-02 01:31:14--  https://www.sofiyskavoda.bg/SVDocuments/Naredba4_2013.pdf
+Connecting to www.sofiyskavoda.bg (www.sofiyskavoda.bg)|213.16.42.100|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 573474 (560K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 4.68M 1s
+    50K .......... .......... .......... .......... .......... 17% 8.99M 1s
+   100K .......... .......... .......... .......... .......... 26% 8.96M 0s
+   150K .......... .......... .......... .......... .......... 35%  149M 0s
+   200K .......... .......... .......... .......... .......... 44% 9.29M 0s
+   250K .......... .......... .......... .......... .......... 53%  119M 0s
+   300K .......... .......... .......... .......... .......... 62% 10.4M 0s
+   350K .......... .......... .......... .......... .......... 71%  120M 0s
+   400K .......... .......... .......... .......... .......... 80% 93.3M 0s
+   450K .......... .......... .......... .......... .......... 89% 10.8M 0s
+   500K .......... .......... .......... .......... .......... 98%  321M 0s
+   550K ..........                                            100%  530M=0.3s
+
+2020-03-02 01:31:15 (14.5 Mb/s) - ‘/dev/null’ saved [573474/573474]
+

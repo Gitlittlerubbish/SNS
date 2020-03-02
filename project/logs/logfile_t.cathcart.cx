@@ -1,0 +1,11 @@
+--2020-03-02 02:22:49--  http://t.cathcart.cx/wave-village2creek.pdf
+Resolving t.cathcart.cx (t.cathcart.cx)... 74.123.225.98
+Connecting to t.cathcart.cx (t.cathcart.cx)|74.123.225.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34218 (33K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                  100% 2.02M=0.1s
+
+2020-03-02 02:22:49 (2.02 Mb/s) - ‘/dev/null’ saved [34218/34218]
+

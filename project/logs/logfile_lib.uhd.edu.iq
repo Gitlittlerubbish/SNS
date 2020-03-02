@@ -1,0 +1,12 @@
+--2020-03-02 05:00:42--  http://lib.uhd.edu.iq/files/sample6/11500_6.pdf
+Resolving lib.uhd.edu.iq (lib.uhd.edu.iq)... 176.9.105.254
+Connecting to lib.uhd.edu.iq (lib.uhd.edu.iq)|176.9.105.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71247 (70K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 71% 8.13M 0s
+    50K .......... .........                                  100% 78.7M=0.05s
+
+2020-03-02 05:00:42 (10.9 Mb/s) - ‘/dev/null’ saved [71247/71247]
+

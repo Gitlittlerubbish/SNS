@@ -1,0 +1,13 @@
+--2020-03-02 04:13:30--  http://www.infom.gob.gt/archivos/normativos/leyconsejodesarrollo.pdf
+Resolving www.infom.gob.gt (www.infom.gob.gt)... 181.174.115.70
+Connecting to www.infom.gob.gt (www.infom.gob.gt)|181.174.115.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125952 (123K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 1.56M 0s
+    50K .......... .......... .......... .......... .......... 81% 3.12M 0s
+   100K .......... .......... ...                             100% 78.6M=0.4s
+
+2020-03-02 04:13:31 (2.54 Mb/s) - ‘/dev/null’ saved [125952/125952]
+

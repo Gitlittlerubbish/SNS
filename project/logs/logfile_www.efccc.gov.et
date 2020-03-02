@@ -1,0 +1,28 @@
+--2020-03-02 03:33:09--  http://www.efccc.gov.et/images/Proclamation/The_Forest_Development_Protection_and_Use_Proclamation.pdf
+Resolving www.efccc.gov.et (www.efccc.gov.et)... 213.55.96.154
+Connecting to www.efccc.gov.et (www.efccc.gov.et)|213.55.96.154|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.efccc.gov.et/images/Proclamation/The_Forest_Development_Protection_and_Use_Proclamation.pdf [following]
+--2020-03-02 03:33:09--  https://www.efccc.gov.et/images/Proclamation/The_Forest_Development_Protection_and_Use_Proclamation.pdf
+Connecting to www.efccc.gov.et (www.efccc.gov.et)|213.55.96.154|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 673589 (658K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 2.01M 2s
+    50K .......... .......... .......... .......... .......... 15% 73.3M 1s
+   100K .......... .......... .......... .......... .......... 22% 4.06M 1s
+   150K .......... .......... .......... .......... .......... 30% 24.4M 1s
+   200K .......... .......... .......... .......... .......... 38% 4.71M 1s
+   250K .......... .......... .......... .......... .......... 45% 21.1M 1s
+   300K .......... .......... .......... .......... .......... 53% 6.54M 0s
+   350K .......... .......... .......... .......... .......... 60% 10.9M 0s
+   400K .......... .......... .......... .......... .......... 68% 44.0M 0s
+   450K .......... .......... .......... .......... .......... 76% 4.60M 0s
+   500K .......... .......... .......... .......... .......... 83% 31.5M 0s
+   550K .......... .......... .......... .......... .......... 91% 6.73M 0s
+   600K .......... .......... .......... .......... .......... 98% 13.3M 0s
+   650K .......                                               100%  968M=0.7s
+
+2020-03-02 03:33:10 (7.31 Mb/s) - ‘/dev/null’ saved [673589/673589]
+

@@ -1,0 +1,18 @@
+--2020-03-02 06:28:33--  http://www.ketterthill.lu/_Resources/Persistent/fb2e25d4e1bd9b8655cec33161cfa5776daafe81/osteoporoselow.pdf
+Resolving www.ketterthill.lu (www.ketterthill.lu)... 194.154.208.89
+Connecting to www.ketterthill.lu (www.ketterthill.lu)|194.154.208.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ketterthill.lu:443/_Resources/Persistent/fb2e25d4e1bd9b8655cec33161cfa5776daafe81/osteoporoselow.pdf [following]
+--2020-03-02 06:28:33--  https://www.ketterthill.lu/_Resources/Persistent/fb2e25d4e1bd9b8655cec33161cfa5776daafe81/osteoporoselow.pdf
+Connecting to www.ketterthill.lu (www.ketterthill.lu)|194.154.208.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184326 (180K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 14.6M 0s
+    50K .......... .......... .......... .......... .......... 55% 26.3M 0s
+   100K .......... .......... .......... .......... .......... 83% 25.1M 0s
+   150K .......... .......... ..........                      100% 19.3M=0.07s
+
+2020-03-02 06:28:33 (20.3 Mb/s) - ‘/dev/null’ saved [184326/184326]
+

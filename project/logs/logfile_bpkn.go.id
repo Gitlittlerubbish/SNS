@@ -1,0 +1,16 @@
+--2020-03-02 04:53:09--  http://bpkn.go.id/uploads/document/99427398FAQs.pdf
+Resolving bpkn.go.id (bpkn.go.id)... 54.39.84.84
+Connecting to bpkn.go.id (bpkn.go.id)|54.39.84.84|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bpkn.go.id/uploads/document/99427398FAQs.pdf [following]
+--2020-03-02 04:53:13--  https://bpkn.go.id/uploads/document/99427398FAQs.pdf
+Connecting to bpkn.go.id (bpkn.go.id)|54.39.84.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81070 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 2.57M 0s
+    50K .......... .......... .........                       100%  323M=0.2s
+
+2020-03-02 04:53:13 (4.05 Mb/s) - ‘/dev/null’ saved [81070/81070]
+

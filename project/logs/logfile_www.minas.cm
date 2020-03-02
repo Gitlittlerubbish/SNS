@@ -1,0 +1,14 @@
+--2020-03-02 01:49:42--  http://www.minas.cm/conferences/2017/TDR_Conf_Annuelle_2017.pdf
+Resolving www.minas.cm (www.minas.cm)... 195.24.207.248
+Connecting to www.minas.cm (www.minas.cm)|195.24.207.248|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199756 (195K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  798K 1s
+    50K .......... .......... .......... .......... .......... 51% 1.05M 1s
+   100K .......... .......... .......... .......... .......... 76%  156M 0s
+   150K .......... .......... .......... .......... .....     100% 1.99M=1.1s
+
+2020-03-02 01:49:44 (1.46 Mb/s) - ‘/dev/null’ saved [199756/199756]
+

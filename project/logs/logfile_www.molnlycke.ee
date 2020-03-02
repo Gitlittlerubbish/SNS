@@ -1,0 +1,37 @@
+--2020-03-02 03:32:10--  http://www.molnlycke.ee/link/88ff187628434767bf6d954779a82222.aspx
+Resolving www.molnlycke.ee (www.molnlycke.ee)... 104.18.24.142, 104.18.25.142
+Connecting to www.molnlycke.ee (www.molnlycke.ee)|104.18.24.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /SysSiteAssets/corporate/documents/molnlyckesustainabilityreport2018 [following]
+--2020-03-02 03:32:11--  http://www.molnlycke.ee/SysSiteAssets/corporate/documents/molnlyckesustainabilityreport2018
+Reusing existing connection to www.molnlycke.ee:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.molnlycke.ee/SysSiteAssets/corporate/documents/molnlyckesustainabilityreport2018 [following]
+--2020-03-02 03:32:11--  https://www.molnlycke.ee/SysSiteAssets/corporate/documents/molnlyckesustainabilityreport2018
+Connecting to www.molnlycke.ee (www.molnlycke.ee)|104.18.24.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 969144 (946K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5%  112M 0s
+    50K .......... .......... .......... .......... .......... 10%  143M 0s
+   100K .......... .......... .......... .......... .......... 15%  103M 0s
+   150K .......... .......... .......... .......... .......... 21% 66.1M 0s
+   200K .......... .......... .......... .......... .......... 26%  173M 0s
+   250K .......... .......... .......... .......... .......... 31%  225M 0s
+   300K .......... .......... .......... .......... .......... 36%  302M 0s
+   350K .......... .......... .......... .......... .......... 42% 88.3M 0s
+   400K .......... .......... .......... .......... .......... 47%  422M 0s
+   450K .......... .......... .......... .......... .......... 52%  351M 0s
+   500K .......... .......... .......... .......... .......... 58%  155M 0s
+   550K .......... .......... .......... .......... .......... 63%  222M 0s
+   600K .......... .......... .......... .......... .......... 68%  120M 0s
+   650K .......... .......... .......... .......... .......... 73%  136M 0s
+   700K .......... .......... .......... .......... .......... 79%  557M 0s
+   750K .......... .......... .......... .......... .......... 84%  213M 0s
+   800K .......... .......... .......... .......... .......... 89%  204M 0s
+   850K .......... .......... .......... .......... .......... 95% 98.5M 0s
+   900K .......... .......... .......... .......... ......    100%  432M=0.05s
+
+2020-03-02 03:32:11 (156 Mb/s) - ‘/dev/null’ saved [969144/969144]
+

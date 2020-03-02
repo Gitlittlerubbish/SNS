@@ -1,0 +1,11 @@
+--2020-03-01 23:05:50--  http://cornerstone.ag/pdf/PDFPrayers/ADailyPrayerForFreedom.pdf
+Resolving cornerstone.ag (cornerstone.ag)... 72.29.67.154
+Connecting to cornerstone.ag (cornerstone.ag)|72.29.67.154|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38827 (38K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......              100% 1.57M=0.2s
+
+2020-03-01 23:05:51 (1.57 Mb/s) - ‘/dev/null’ saved [38827/38827]
+

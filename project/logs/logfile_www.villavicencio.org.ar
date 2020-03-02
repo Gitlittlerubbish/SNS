@@ -1,0 +1,11 @@
+--2020-03-01 23:13:50--  http://www.villavicencio.org.ar/pdf08/156.pdf
+Resolving www.villavicencio.org.ar (www.villavicencio.org.ar)... 162.255.160.224
+Connecting to www.villavicencio.org.ar (www.villavicencio.org.ar)|162.255.160.224|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43419 (42K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..        100% 1.68M=0.2s
+
+2020-03-01 23:13:51 (1.68 Mb/s) - ‘/dev/null’ saved [43419/43419]
+

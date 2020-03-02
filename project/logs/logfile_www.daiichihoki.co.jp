@@ -1,0 +1,19 @@
+--2020-03-02 05:17:57--  http://www.daiichihoki.co.jp/store/upload/pdf/024646_pub.pdf
+Resolving www.daiichihoki.co.jp (www.daiichihoki.co.jp)... 121.100.12.189
+Connecting to www.daiichihoki.co.jp (www.daiichihoki.co.jp)|121.100.12.189|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.daiichihoki.co.jp/store/upload/pdf/024646_pub.pdf [following]
+--2020-03-02 05:17:58--  https://www.daiichihoki.co.jp/store/upload/pdf/024646_pub.pdf
+Connecting to www.daiichihoki.co.jp (www.daiichihoki.co.jp)|121.100.12.189|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 242176 (236K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21%  453K 3s
+    50K .......... .......... .......... .......... .......... 42% 1.84M 2s
+   100K .......... .......... .......... .......... .......... 63% 91.1M 1s
+   150K .......... .......... .......... .......... .......... 84% 1.85M 0s
+   200K .......... .......... .......... ......               100% 1.37M=1.6s
+
+2020-03-02 05:18:01 (1.23 Mb/s) - ‘/dev/null’ saved [242176/242176]
+

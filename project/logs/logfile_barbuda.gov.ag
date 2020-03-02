@@ -1,0 +1,11 @@
+--2020-03-01 23:05:48--  http://barbuda.gov.ag/pdf/legal_profession_act_2008.pdf
+Resolving barbuda.gov.ag (barbuda.gov.ag)... 69.57.244.129
+Connecting to barbuda.gov.ag (barbuda.gov.ag)|69.57.244.129|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 25298 (25K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ....                            100% 1.24M=0.2s
+
+2020-03-01 23:05:49 (1.24 Mb/s) - ‘/dev/null’ saved [25298/25298]
+

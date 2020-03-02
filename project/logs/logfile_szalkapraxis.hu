@@ -1,0 +1,11 @@
+--2020-03-02 04:37:17--  http://szalkapraxis.hu/pdf/RR_naplo.pdf
+Resolving szalkapraxis.hu (szalkapraxis.hu)... 79.172.252.65
+Connecting to szalkapraxis.hu (szalkapraxis.hu)|79.172.252.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37344 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100% 3.97M=0.08s
+
+2020-03-02 04:37:18 (3.97 Mb/s) - ‘/dev/null’ saved [37344/37344]
+

@@ -1,0 +1,12 @@
+--2020-03-02 03:46:38--  http://www.edsb.fr/documents/lire_le_compteur.pdf
+Resolving www.edsb.fr (www.edsb.fr)... 213.186.33.24
+Connecting to www.edsb.fr (www.edsb.fr)|213.186.33.24|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59713 (58K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 85% 29.5M 0s
+    50K ........                                              100%  587M=0.01s
+
+2020-03-02 03:46:38 (34.1 Mb/s) - ‘/dev/null’ saved [59713/59713]
+

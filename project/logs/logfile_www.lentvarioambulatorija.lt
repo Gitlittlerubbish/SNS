@@ -1,0 +1,12 @@
+--2020-03-02 06:26:59--  http://www.lentvarioambulatorija.lt/2018/gdg.pdf
+Resolving www.lentvarioambulatorija.lt (www.lentvarioambulatorija.lt)... 31.193.197.15
+Connecting to www.lentvarioambulatorija.lt (www.lentvarioambulatorija.lt)|31.193.197.15|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57096 (56K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 89% 1.24M 0s
+    50K .....                                                 100%  943K=0.3s
+
+2020-03-02 06:27:00 (1.38 Mb/s) - ‘/dev/null’ saved [57096/57096]
+

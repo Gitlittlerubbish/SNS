@@ -1,0 +1,28 @@
+--2020-03-02 07:45:40--  http://chinggisjourney.mn/uploads/pictures/86fbcca0c27a621f3f7ab52b6165ddc6.pdf
+Resolving chinggisjourney.mn (chinggisjourney.mn)... 66.147.244.153
+Connecting to chinggisjourney.mn (chinggisjourney.mn)|66.147.244.153|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176223 (172K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 1.23M 1s
+    50K .......... .......... .......... .......... .......... 58% 2.46M 0s
+   100K .......... .......... .......... .......... .......... 87%  113M 0s
+   150K .......... .......... ..                              100%  989M=0.5s
+
+2020-03-02 07:45:41 (2.80 Mb/s) - ‘/dev/null’ saved [176223/176223]
+
+--2020-03-02 07:45:41--  http://chinggisjourney.mn/uploads/pictures/86fbcca0c27a621f3f7ab52b6165ddc6.pdf
+Resolving chinggisjourney.mn (chinggisjourney.mn)... 66.147.244.153
+Connecting to chinggisjourney.mn (chinggisjourney.mn)|66.147.244.153|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176223 (172K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 1.22M 1s
+    50K .......... .......... .......... .......... .......... 58% 2.40M 0s
+   100K .......... .......... .......... .......... .......... 87%  142M 0s
+   150K .......... .......... ..                              100% 2.13G=0.5s
+
+2020-03-02 07:45:41 (2.76 Mb/s) - ‘/dev/null’ saved [176223/176223]
+

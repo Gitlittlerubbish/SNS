@@ -1,0 +1,12 @@
+--2020-03-02 07:28:07--  http://www.brummer.com.mx/BoletinPDF/SIS.ENFRIAMIENTO.pdf
+Resolving www.brummer.com.mx (www.brummer.com.mx)... 173.0.129.54
+Connecting to www.brummer.com.mx (www.brummer.com.mx)|173.0.129.54|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98328 (96K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 1.76M 0s
+    50K .......... .......... .......... .......... ......    100% 3.24M=0.3s
+
+2020-03-02 07:28:08 (2.25 Mb/s) - ‘/dev/null’ saved [98328/98328]
+

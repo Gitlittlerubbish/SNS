@@ -1,0 +1,23 @@
+--2020-03-02 05:28:08--  http://www.unesco.kz/education/efa/dfa_rus.pdf
+Resolving www.unesco.kz (www.unesco.kz)... 212.116.234.214
+Connecting to www.unesco.kz (www.unesco.kz)|212.116.234.214|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://old.unesco.kz/education/efa/dfa_rus.pdf [following]
+--2020-03-02 05:28:11--  http://old.unesco.kz/education/efa/dfa_rus.pdf
+Resolving old.unesco.kz (old.unesco.kz)... 212.116.234.214
+Reusing existing connection to www.unesco.kz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 400598 (391K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 1.58M 2s
+    50K .......... .......... .......... .......... .......... 25% 3.19M 1s
+   100K .......... .......... .......... .......... .......... 38% 53.6M 1s
+   150K .......... .......... .......... .......... .......... 51% 60.0M 0s
+   200K .......... .......... .......... .......... .......... 63% 3.31M 0s
+   250K .......... .......... .......... .......... .......... 76% 61.2M 0s
+   300K .......... .......... .......... .......... .......... 89% 3.73M 0s
+   350K .......... .......... .......... .......... .         100% 61.3M=0.6s
+
+2020-03-02 05:28:12 (4.95 Mb/s) - ‘/dev/null’ saved [400598/400598]
+

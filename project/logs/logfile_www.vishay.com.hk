@@ -1,0 +1,18 @@
+--2020-03-02 04:36:28--  http://www.vishay.com.hk/docs/40018/m3900301.pdf
+Resolving www.vishay.com.hk (www.vishay.com.hk)... 198.24.10.102
+Connecting to www.vishay.com.hk (www.vishay.com.hk)|198.24.10.102|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.vishay.com/docs/40018/m3900301.pdf [following]
+--2020-03-02 04:36:30--  http://www.vishay.com/docs/40018/m3900301.pdf
+Resolving www.vishay.com (www.vishay.com)... 92.123.199.116
+Connecting to www.vishay.com (www.vishay.com)|92.123.199.116|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 117096 (114K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 43% 60.6M 0s
+    50K .......... .......... .......... .......... .......... 87% 5.42M 0s
+   100K .......... ....                                       100% 68.9M=0.08s
+
+2020-03-02 04:36:30 (11.1 Mb/s) - ‘/dev/null’ saved [117096/117096]
+

@@ -1,0 +1,13 @@
+--2020-03-02 04:33:11--  http://www.nwstbus.com.hk/fareConcession/22_c_pack_dtl_txt.pdf
+Resolving www.nwstbus.com.hk (www.nwstbus.com.hk)... 61.244.16.41
+Connecting to www.nwstbus.com.hk (www.nwstbus.com.hk)|61.244.16.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128674 (126K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39%  364K 2s
+    50K .......... .......... .......... .......... .......... 79% 1.33M 0s
+   100K .......... .......... .....                           100%  969M=1.4s
+
+2020-03-02 04:33:14 (718 Kb/s) - ‘/dev/null’ saved [128674/128674]
+

@@ -1,0 +1,16 @@
+--2020-03-02 01:14:21--  http://www.ceasagrandeabc.com.br/cotacao/pescados.pdf
+Resolving www.ceasagrandeabc.com.br (www.ceasagrandeabc.com.br)... 200.219.235.9
+Connecting to www.ceasagrandeabc.com.br (www.ceasagrandeabc.com.br)|200.219.235.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256444 (250K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.04M 2s
+    50K .......... .......... .......... .......... .......... 39% 2.09M 1s
+   100K .......... .......... .......... .......... .......... 59% 2.08M 1s
+   150K .......... .......... .......... .......... .......... 79% 2.06M 0s
+   200K .......... .......... .......... .......... .......... 99% 2.12M 0s
+   250K                                                       100% 71.0K=1.2s
+
+2020-03-02 01:14:23 (1.74 Mb/s) - ‘/dev/null’ saved [256444/256444]
+

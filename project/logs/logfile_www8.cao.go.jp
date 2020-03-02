@@ -1,0 +1,16 @@
+--2020-03-02 05:17:11--  http://www8.cao.go.jp/cstp/society5_0/society5_0.pdf
+Resolving www8.cao.go.jp (www8.cao.go.jp)... 210.149.141.33
+Connecting to www8.cao.go.jp (www8.cao.go.jp)|210.149.141.33|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://wwwa.cao.go.jp/notice/20191101notice.html [following]
+--2020-03-02 05:17:12--  http://wwwa.cao.go.jp/notice/20191101notice.html
+Resolving wwwa.cao.go.jp (wwwa.cao.go.jp)... 210.149.141.34
+Connecting to wwwa.cao.go.jp (wwwa.cao.go.jp)|210.149.141.34|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8969 (8.8K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                              100%  234K=0.3s
+
+2020-03-02 05:17:13 (234 Kb/s) - ‘/dev/null’ saved [8969/8969]
+

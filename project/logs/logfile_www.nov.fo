@@ -1,0 +1,11 @@
+--2020-03-02 03:37:29--  http://www.nov.fo/materiale/KnutIvarKarevold2015.pdf
+Resolving www.nov.fo (www.nov.fo)... 80.77.131.199
+Connecting to www.nov.fo (www.nov.fo)|80.77.131.199|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49546 (48K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........  100% 1.52M=0.3s
+
+2020-03-02 03:37:29 (1.52 Mb/s) - ‘/dev/null’ saved [49546/49546]
+

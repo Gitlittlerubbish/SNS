@@ -1,0 +1,18 @@
+--2020-03-02 02:00:40--  http://www.caymantravel.ky/upimages/Specials/Document/EasterPackagetoLa_1581447127.pdf
+Resolving www.caymantravel.ky (www.caymantravel.ky)... 167.71.254.80
+Connecting to www.caymantravel.ky (www.caymantravel.ky)|167.71.254.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.caymantravel.ky/upimages/Specials/Document/EasterPackagetoLa_1581447127.pdf [following]
+--2020-03-02 02:00:40--  https://www.caymantravel.ky/upimages/Specials/Document/EasterPackagetoLa_1581447127.pdf
+Connecting to www.caymantravel.ky (www.caymantravel.ky)|167.71.254.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181051 (177K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 5.51M 0s
+    50K .......... .......... .......... .......... .......... 56% 5.45M 0s
+   100K .......... .......... .......... .......... .......... 84%  132M 0s
+   150K .......... .......... ......                          100%  963M=0.2s
+
+2020-03-02 02:00:41 (9.48 Mb/s) - ‘/dev/null’ saved [181051/181051]
+

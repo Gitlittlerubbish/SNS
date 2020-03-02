@@ -1,0 +1,45 @@
+--2020-03-02 08:25:37--  http://www.healthpoint.co.nz/download,627212.do
+Resolving www.healthpoint.co.nz (www.healthpoint.co.nz)... 120.138.27.82
+Connecting to www.healthpoint.co.nz (www.healthpoint.co.nz)|120.138.27.82|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.healthpoint.co.nz/download,627212.do [following]
+--2020-03-02 08:25:38--  https://www.healthpoint.co.nz/download,627212.do
+Connecting to www.healthpoint.co.nz (www.healthpoint.co.nz)|120.138.27.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  666K
+    50K .......... .......... .......... .......... .......... 1.33M
+   100K .......... .......... .......... .......... ..........  362M
+   150K .......... .......... .......... .......... ..........  235M
+   200K .......... .......... .......... .......... .......... 1.34M
+   250K .......... .......... .......... .......... ..........  412M
+   300K .......... .......... .......... .......... .......... 1.34M
+   350K .......... .......... .......... .......... ..........  330M
+   400K .......... .......... .......... .......... ..........  453M
+   450K .......... .......... .......... .......... ..........  177M
+   500K .......... .......... .......... .......... ..........  554M
+   550K .......... .......... .......... .......... .......... 1.35M
+   600K .......... .......... .......... .......... ..........  102M
+   650K .......... .......... .......... ....                   834M=1.9s
+
+2020-03-02 08:25:41 (3.03 Mb/s) - ‘/dev/null’ saved [700940]
+
+--2020-03-02 08:25:41--  http://www.healthpoint.co.nz/download,526631.do
+Resolving www.healthpoint.co.nz (www.healthpoint.co.nz)... 120.138.27.82
+Connecting to www.healthpoint.co.nz (www.healthpoint.co.nz)|120.138.27.82|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.healthpoint.co.nz/download,526631.do [following]
+--2020-03-02 08:25:42--  https://www.healthpoint.co.nz/download,526631.do
+Connecting to www.healthpoint.co.nz (www.healthpoint.co.nz)|120.138.27.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  667K
+    50K .......... .......... .......... .......... .......... 1.32M
+   100K .......... .......... ........                          534M=0.9s
+
+2020-03-02 08:25:44 (1.14 Mb/s) - ‘/dev/null’ saved [131153]
+

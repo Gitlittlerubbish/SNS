@@ -1,0 +1,49 @@
+--2020-03-02 03:02:18--  http://1url.cz/q14d
+Resolving 1url.cz (1url.cz)... 31.31.74.35
+Connecting to 1url.cz (1url.cz)|31.31.74.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://1url.cz/q14d [following]
+--2020-03-02 03:02:18--  https://1url.cz/q14d
+Connecting to 1url.cz (1url.cz)|31.31.74.35|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.rect.muni.cz/summerschool/International_Security/Module%201/baldwin.pdf [following]
+--2020-03-02 03:02:18--  http://www.rect.muni.cz/summerschool/International_Security/Module%201/baldwin.pdf
+Resolving www.rect.muni.cz (www.rect.muni.cz)... 147.251.6.32
+Connecting to www.rect.muni.cz (www.rect.muni.cz)|147.251.6.32|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213933 (209K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 7.13M 0s
+    50K .......... .......... .......... .......... .......... 47% 14.0M 0s
+   100K .......... .......... .......... .......... .......... 71%  227M 0s
+   150K .......... .......... .......... .......... .......... 95%  101M 0s
+   200K ........                                              100% 36.3M=0.09s
+
+2020-03-02 03:02:18 (18.1 Mb/s) - ‘/dev/null’ saved [213933/213933]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 03:02:18--  https://1url.cz/ltzpQ
+Resolving 1url.cz (1url.cz)... 31.31.74.35
+Connecting to 1url.cz (1url.cz)|31.31.74.35|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.who.int/mental_health/management/depression/who_paper_depression_wfmh_2012.pdf [following]
+--2020-03-02 03:02:18--  http://www.who.int/mental_health/management/depression/who_paper_depression_wfmh_2012.pdf
+Resolving www.who.int (www.who.int)... 13.224.130.38, 13.224.130.42, 13.224.130.112, ...
+Connecting to www.who.int (www.who.int)|13.224.130.38|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.who.int/mental_health/management/depression/who_paper_depression_wfmh_2012.pdf [following]
+--2020-03-02 03:02:18--  https://www.who.int/mental_health/management/depression/who_paper_depression_wfmh_2012.pdf
+Connecting to www.who.int (www.who.int)|13.224.130.38|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 253244 (247K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 77.2M 0s
+    50K .......... .......... .......... .......... .......... 40%  106M 0s
+   100K .......... .......... .......... .......... .......... 60%  109M 0s
+   150K .......... .......... .......... .......... .......... 80%  190M 0s
+   200K .......... .......... .......... .......... .......   100%  188M=0.02s
+
+2020-03-02 03:02:19 (118 Mb/s) - ‘/dev/null’ saved [253244/253244]
+

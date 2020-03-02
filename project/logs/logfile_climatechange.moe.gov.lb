@@ -1,0 +1,15 @@
+--2020-03-02 06:14:56--  http://climatechange.moe.gov.lb/viewfile.aspx%3Fid%3D216
+Resolving climatechange.moe.gov.lb (climatechange.moe.gov.lb)... 93.185.92.42
+Connecting to climatechange.moe.gov.lb (climatechange.moe.gov.lb)|93.185.92.42|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /error.html?aspxerrorpath=/viewfile.aspx?id=216 [following]
+--2020-03-02 06:14:56--  http://climatechange.moe.gov.lb/error.html?aspxerrorpath=/viewfile.aspx?id=216
+Reusing existing connection to climatechange.moe.gov.lb:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2766 (2.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..                                                    100% 2.21G=0s
+
+2020-03-02 06:14:56 (2.21 Gb/s) - ‘/dev/null’ saved [2766/2766]
+

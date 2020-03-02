@@ -1,0 +1,15 @@
+--2020-03-02 06:07:02--  http://avtoprokat.kg/start/images/contract.pdf
+Resolving avtoprokat.kg (avtoprokat.kg)... 176.126.164.16
+Connecting to avtoprokat.kg (avtoprokat.kg)|176.126.164.16|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235187 (230K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.97M 1s
+    50K .......... .......... .......... .......... .......... 43% 3.90M 0s
+   100K .......... .......... .......... .......... .......... 65% 3.98M 0s
+   150K .......... .......... .......... .......... .......... 87% 3.90M 0s
+   200K .......... .......... .........                       100%  343M=0.5s
+
+2020-03-02 06:07:03 (3.61 Mb/s) - ‘/dev/null’ saved [235187/235187]
+

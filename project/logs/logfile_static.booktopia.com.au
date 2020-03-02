@@ -1,0 +1,13 @@
+--2020-03-01 23:34:18--  http://static.booktopia.com.au/pdf/9780521808842-1.pdf
+Resolving static.booktopia.com.au (static.booktopia.com.au)... 13.224.130.84, 13.224.130.53, 13.224.130.57, ...
+Connecting to static.booktopia.com.au (static.booktopia.com.au)|13.224.130.84|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130448 (127K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 70.8M 0s
+    50K .......... .......... .......... .......... .......... 78% 69.3M 0s
+   100K .......... .......... .......                         100% 1.45M=0.2s
+
+2020-03-01 23:34:19 (6.26 Mb/s) - ‘/dev/null’ saved [130448/130448]
+

@@ -1,0 +1,22 @@
+--2020-03-02 04:29:24--  http://www.octopus.com.hk/coi/tc
+Resolving www.octopus.com.hk (www.octopus.com.hk)... 23.36.210.214
+Connecting to www.octopus.com.hk (www.octopus.com.hk)|23.36.210.214|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.octopus.com.hk/tc/document/conditions_of_issue.pdf [following]
+--2020-03-02 04:29:25--  http://www.octopus.com.hk/tc/document/conditions_of_issue.pdf
+Reusing existing connection to www.octopus.com.hk:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 396433 (387K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 2.25M 1s
+    50K .......... .......... .......... .......... .......... 25% 1.87M 1s
+   100K .......... .......... .......... .......... .......... 38% 6.94M 1s
+   150K .......... .......... .......... .......... .......... 51% 2.97M 1s
+   200K .......... .......... .......... .......... .......... 64% 10.9M 0s
+   250K .......... .......... .......... .......... .......... 77% 13.5M 0s
+   300K .......... .......... .......... .......... .......... 90% 4.32M 0s
+   350K .......... .......... .......... .......              100% 15.9M=0.8s
+
+2020-03-02 04:29:26 (4.06 Mb/s) - ‘/dev/null’ saved [396433/396433]
+

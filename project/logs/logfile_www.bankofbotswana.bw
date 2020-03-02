@@ -1,0 +1,23 @@
+--2020-03-02 01:07:38--  http://www.bankofbotswana.bw/sites/default/files/publications/budget_speech_2014.pdf
+Resolving www.bankofbotswana.bw (www.bankofbotswana.bw)... 83.143.25.198
+Connecting to www.bankofbotswana.bw (www.bankofbotswana.bw)|83.143.25.198|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bankofbotswana.bw/sites/default/files/publications/budget_speech_2014.pdf [following]
+--2020-03-02 01:07:39--  https://www.bankofbotswana.bw/sites/default/files/publications/budget_speech_2014.pdf
+Connecting to www.bankofbotswana.bw (www.bankofbotswana.bw)|83.143.25.198|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 456761 (446K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.04M 3s
+    50K .......... .......... .......... .......... .......... 22% 2.08M 2s
+   100K .......... .......... .......... .......... .......... 33% 75.5M 1s
+   150K .......... .......... .......... .......... .......... 44% 2.11M 1s
+   200K .......... .......... .......... .......... .......... 56% 2.10M 1s
+   250K .......... .......... .......... .......... .......... 67% 2.13M 1s
+   300K .......... .......... .......... .......... .......... 78% 2.17M 0s
+   350K .......... .......... .......... .......... .......... 89% 34.8M 0s
+   400K .......... .......... .......... .......... ......    100% 1.90M=1.6s
+
+2020-03-02 01:07:41 (2.32 Mb/s) - ‘/dev/null’ saved [456761/456761]
+

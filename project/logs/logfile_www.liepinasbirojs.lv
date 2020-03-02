@@ -1,0 +1,22 @@
+--2020-03-02 06:13:02--  http://www.liepinasbirojs.lv/lv/download%3Fid%3D10
+Resolving www.liepinasbirojs.lv (www.liepinasbirojs.lv)... 46.101.153.28
+Connecting to www.liepinasbirojs.lv (www.liepinasbirojs.lv)|46.101.153.28|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                                361M=0s
+
+2020-03-02 06:13:02 (361 Mb/s) - ‘/dev/null’ saved [8390]
+
+--2020-03-02 06:13:07--  http://www.liepinasbirojs.lv/lv/download%3Fid%3D10
+Resolving www.liepinasbirojs.lv (www.liepinasbirojs.lv)... 46.101.153.28
+Connecting to www.liepinasbirojs.lv (www.liepinasbirojs.lv)|46.101.153.28|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                                259M=0s
+
+2020-03-02 06:13:07 (259 Mb/s) - ‘/dev/null’ saved [8390]
+

@@ -1,0 +1,11 @@
+--2020-03-02 07:14:00--  http://www.colorbank.mv/public/downloads/5010131523373.pdf
+Resolving www.colorbank.mv (www.colorbank.mv)... 72.47.228.177
+Connecting to www.colorbank.mv (www.colorbank.mv)|72.47.228.177|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36265 (35K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .....                100% 2.03M=0.1s
+
+2020-03-02 07:14:01 (2.03 Mb/s) - ‘/dev/null’ saved [36265/36265]
+

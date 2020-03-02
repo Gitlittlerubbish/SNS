@@ -1,0 +1,12 @@
+--2020-03-02 03:46:07--  http://www.nuorisotutkimusseura.fi/images/julkaisuja/raippa_ritva.pdf
+Resolving www.nuorisotutkimusseura.fi (www.nuorisotutkimusseura.fi)... 80.69.161.37
+Connecting to www.nuorisotutkimusseura.fi (www.nuorisotutkimusseura.fi)|80.69.161.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52865 (52K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 96% 4.56M 0s
+    50K .                                                     100% 65.0M=0.09s
+
+2020-03-02 03:46:08 (4.69 Mb/s) - ‘/dev/null’ saved [52865/52865]
+

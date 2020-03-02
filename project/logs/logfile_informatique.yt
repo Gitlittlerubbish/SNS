@@ -1,0 +1,16 @@
+--2020-03-02 07:27:41--  http://informatique.yt/ressources/charte-rgpd-sos-informatique.pdf
+Resolving informatique.yt (informatique.yt)... 62.210.16.62
+Connecting to informatique.yt (informatique.yt)|62.210.16.62|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 285511 (279K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 10.8M 0s
+    50K .......... .......... .......... .......... .......... 35% 21.4M 0s
+   100K .......... .......... .......... .......... .......... 53%  131M 0s
+   150K .......... .......... .......... .......... .......... 71%  136M 0s
+   200K .......... .......... .......... .......... .......... 89% 23.0M 0s
+   250K .......... .......... ........                        100%  120M=0.08s
+
+2020-03-02 07:27:41 (27.5 Mb/s) - ‘/dev/null’ saved [285511/285511]
+

@@ -1,0 +1,15 @@
+--2020-03-01 23:43:56--  http://www.vivid.at/uploads/Tabak/WHO_ENDS_2014_en.pdf
+Resolving www.vivid.at (www.vivid.at)... 84.116.32.65
+Connecting to www.vivid.at (www.vivid.at)|84.116.32.65|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232457 (227K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 5.19M 0s
+    50K .......... .......... .......... .......... .......... 44% 10.3M 0s
+   100K .......... .......... .......... .......... .......... 66% 10.3M 0s
+   150K .......... .......... .......... .......... .......... 88% 10.9M 0s
+   200K .......... .......... .......                         100% 77.1M=0.2s
+
+2020-03-01 23:43:57 (9.36 Mb/s) - ‘/dev/null’ saved [232457/232457]
+

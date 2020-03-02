@@ -1,0 +1,15 @@
+--2020-03-02 03:04:54--  http://www.christianbak.dk/assets/skylning.pdf
+Resolving www.christianbak.dk (www.christianbak.dk)... 185.21.40.246
+Connecting to www.christianbak.dk (www.christianbak.dk)|185.21.40.246|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224157 (219K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 5.30M 0s
+    50K .......... .......... .......... .......... .......... 45% 10.9M 0s
+   100K .......... .......... .......... .......... .......... 68%  102M 0s
+   150K .......... .......... .......... .......... .......... 91%  173M 0s
+   200K .......... ........                                   100% 4.83M=0.2s
+
+2020-03-02 03:04:54 (11.7 Mb/s) - ‘/dev/null’ saved [224157/224157]
+

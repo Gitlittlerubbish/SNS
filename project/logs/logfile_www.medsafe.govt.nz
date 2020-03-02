@@ -1,0 +1,33 @@
+--2020-03-02 08:26:56--  http://www.medsafe.govt.nz/Consumers/CMI/m/maxiclear.pdf
+Resolving www.medsafe.govt.nz (www.medsafe.govt.nz)... 103.23.212.84
+Connecting to www.medsafe.govt.nz (www.medsafe.govt.nz)|103.23.212.84|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.medsafe.govt.nz/Consumers/CMI/m/maxiclear.pdf [following]
+--2020-03-02 08:26:57--  https://www.medsafe.govt.nz/Consumers/CMI/m/maxiclear.pdf
+Connecting to www.medsafe.govt.nz (www.medsafe.govt.nz)|103.23.212.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30255 (30K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .........                       100%  914K=0.3s
+
+2020-03-02 08:26:59 (914 Kb/s) - ‘/dev/null’ saved [30255/30255]
+
+--2020-03-02 08:26:59--  http://www.medsafe.govt.nz/Profs/Datasheet/p/Polaraminetabreptabsyrup.pdf
+Resolving www.medsafe.govt.nz (www.medsafe.govt.nz)... 103.23.212.84
+Connecting to www.medsafe.govt.nz (www.medsafe.govt.nz)|103.23.212.84|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.medsafe.govt.nz/Profs/Datasheet/p/Polaraminetabreptabsyrup.pdf [following]
+--2020-03-02 08:26:59--  https://www.medsafe.govt.nz/Profs/Datasheet/p/Polaraminetabreptabsyrup.pdf
+Connecting to www.medsafe.govt.nz (www.medsafe.govt.nz)|103.23.212.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173523 (169K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29%  669K 1s
+    50K .......... .......... .......... .......... .......... 59%  181M 0s
+   100K .......... .......... .......... .......... .......... 88% 1.33M 0s
+   150K .......... .........                                  100%  512M=0.9s
+
+2020-03-02 08:27:02 (1.50 Mb/s) - ‘/dev/null’ saved [173523/173523]
+

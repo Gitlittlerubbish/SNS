@@ -1,0 +1,26 @@
+--2020-03-01 23:05:51--  http://idnt.ag/media/1320/mca2017agr_emea_eng_mar2017_cr_for_german_cloud.pdf
+Resolving idnt.ag (idnt.ag)... 195.127.237.242
+Connecting to idnt.ag (idnt.ag)|195.127.237.242|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.idnt.net/media/1320/mca2017agr_emea_eng_mar2017_cr_for_german_cloud.pdf [following]
+--2020-03-01 23:05:51--  https://www.idnt.net/media/1320/mca2017agr_emea_eng_mar2017_cr_for_german_cloud.pdf
+Resolving www.idnt.net (www.idnt.net)... 195.127.237.242
+Connecting to www.idnt.net (www.idnt.net)|195.127.237.242|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 537836 (525K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 10.6M 0s
+    50K .......... .......... .......... .......... .......... 19% 10.8M 0s
+   100K .......... .......... .......... .......... .......... 28%  511M 0s
+   150K .......... .......... .......... .......... .......... 38% 20.7M 0s
+   200K .......... .......... .......... .......... .......... 47%  142M 0s
+   250K .......... .......... .......... .......... .......... 57% 22.7M 0s
+   300K .......... .......... .......... .......... .......... 66% 26.2M 0s
+   350K .......... .......... .......... .......... .......... 76% 54.8M 0s
+   400K .......... .......... .......... .......... .......... 85% 26.0M 0s
+   450K .......... .......... .......... .......... .......... 95% 25.8M 0s
+   500K .......... .......... .....                           100% 69.2M=0.2s
+
+2020-03-01 23:05:51 (24.5 Mb/s) - ‘/dev/null’ saved [537836/537836]
+

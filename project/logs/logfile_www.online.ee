@@ -1,0 +1,18 @@
+--2020-03-02 03:30:41--  http://www.online.ee/terms.php
+Resolving www.online.ee (www.online.ee)... 194.126.106.155
+Connecting to www.online.ee (www.online.ee)|194.126.106.155|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.online.ee/terms.php [following]
+--2020-03-02 03:30:41--  https://www.online.ee/terms.php
+Connecting to www.online.ee (www.online.ee)|194.126.106.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191344 (187K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 4.01M 0s
+    50K .......... .......... .......... .......... .......... 53% 8.12M 0s
+   100K .......... .......... .......... .......... .......... 80% 8.17M 0s
+   150K .......... .......... .......... ......               100%  158M=0.2s
+
+2020-03-02 03:30:42 (7.48 Mb/s) - ‘/dev/null’ saved [191344/191344]
+

@@ -1,0 +1,18 @@
+--2020-03-02 03:33:02--  http://pmo.gov.et/media/documents/Homegrown_Economic_Reforms_Speech_.pdf
+Resolving pmo.gov.et (pmo.gov.et)... 197.156.84.145
+Connecting to pmo.gov.et (pmo.gov.et)|197.156.84.145|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://pmo.gov.et/media/documents/Homegrown_Economic_Reforms_Speech_.pdf [following]
+--2020-03-02 03:33:02--  https://pmo.gov.et/media/documents/Homegrown_Economic_Reforms_Speech_.pdf
+Connecting to pmo.gov.et (pmo.gov.et)|197.156.84.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187289 (183K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 1.90M 1s
+    50K .......... .......... .......... .......... .......... 54% 3.82M 0s
+   100K .......... .......... .......... .......... .......... 82% 92.9M 0s
+   150K .......... .......... .......... ..                   100% 79.5M=0.3s
+
+2020-03-02 03:33:03 (4.53 Mb/s) - ‘/dev/null’ saved [187289/187289]
+

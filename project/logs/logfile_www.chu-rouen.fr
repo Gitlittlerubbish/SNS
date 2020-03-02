@@ -1,0 +1,13 @@
+--2020-03-02 03:47:06--  http://www.chu-rouen.fr/crnmba/conseils_alimentation.pdf
+Resolving www.chu-rouen.fr (www.chu-rouen.fr)... 194.57.9.15
+Connecting to www.chu-rouen.fr (www.chu-rouen.fr)|194.57.9.15|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133756 (131K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 7.77M 0s
+    50K .......... .......... .......... .......... .......... 76% 16.0M 0s
+   100K .......... .......... ..........                      100% 75.4M=0.08s
+
+2020-03-02 03:47:06 (13.1 Mb/s) - ‘/dev/null’ saved [133756/133756]
+

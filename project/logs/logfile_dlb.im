@@ -1,0 +1,11 @@
+--2020-03-02 05:02:07--  http://dlb.im/
+Resolving dlb.im (dlb.im)... 199.180.255.253
+Connecting to dlb.im (dlb.im)|199.180.255.253|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38579 (38K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......              100% 1.05M=0.3s
+
+2020-03-02 05:02:07 (1.05 Mb/s) - ‘/dev/null’ saved [38579/38579]
+

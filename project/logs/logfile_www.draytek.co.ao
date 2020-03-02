@@ -1,0 +1,25 @@
+--2020-03-01 22:37:40--  http://www.draytek.co.ao/files/CERT_v2600plus.pdf
+Resolving www.draytek.co.ao (www.draytek.co.ao)... 195.22.3.18
+Connecting to www.draytek.co.ao (www.draytek.co.ao)|195.22.3.18|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.draytek.co.ao/files/CERT_v2600plus.pdf [following]
+--2020-03-01 22:37:40--  https://www.draytek.co.ao/files/CERT_v2600plus.pdf
+Connecting to www.draytek.co.ao (www.draytek.co.ao)|195.22.3.18|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 543376 (531K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 5.80M 1s
+    50K .......... .......... .......... .......... .......... 18% 12.7M 0s
+   100K .......... .......... .......... .......... .......... 28% 6.57M 0s
+   150K .......... .......... .......... .......... .......... 37% 2.40M 1s
+   200K .......... .......... .......... .......... .......... 47%  284M 0s
+   250K .......... .......... .......... .......... .......... 56%  657M 0s
+   300K .......... .......... .......... .......... .......... 65% 11.1M 0s
+   350K .......... .......... .......... .......... .......... 75% 12.4M 0s
+   400K .......... .......... .......... .......... .......... 84%  999K 0s
+   450K .......... .......... .......... .......... .......... 94%  861M 0s
+   500K .......... .......... ..........                      100% 6.44M=0.9s
+
+2020-03-01 22:37:42 (5.07 Mb/s) - ‘/dev/null’ saved [543376/543376]
+

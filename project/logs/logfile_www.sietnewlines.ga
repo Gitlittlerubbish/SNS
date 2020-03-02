@@ -1,0 +1,11 @@
+--2020-03-02 03:52:19--  http://www.sietnewlines.ga/documents/10192/3861304/KU123.pdf
+Resolving www.sietnewlines.ga (www.sietnewlines.ga)... 195.20.50.92
+Connecting to www.sietnewlines.ga (www.sietnewlines.ga)|195.20.50.92|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 651 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  237M=0s
+
+2020-03-02 03:52:20 (237 Mb/s) - ‘/dev/null’ saved [651/651]
+

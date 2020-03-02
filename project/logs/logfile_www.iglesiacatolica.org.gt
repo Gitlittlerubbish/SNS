@@ -1,0 +1,27 @@
+--2020-03-02 04:11:39--  http://www.iglesiacatolica.org.gt/bibliakiche/BKiche_LexicoEK.pdf
+Resolving www.iglesiacatolica.org.gt (www.iglesiacatolica.org.gt)... 186.151.197.179
+Connecting to www.iglesiacatolica.org.gt (www.iglesiacatolica.org.gt)|186.151.197.179|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160662 (157K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.02M 1s
+    50K .......... .......... .......... .......... .......... 63% 3.04M 0s
+   100K .......... .......... .......... .......... .......... 95%  235M 0s
+   150K ......                                                100% 46.1M=0.5s
+
+2020-03-02 04:11:41 (2.39 Mb/s) - ‘/dev/null’ saved [160662/160662]
+
+--2020-03-02 04:11:41--  http://www.iglesiacatolica.org.gt/bibliakiche/BKiche_Alfabeto.pdf
+Resolving www.iglesiacatolica.org.gt (www.iglesiacatolica.org.gt)... 186.151.197.179
+Connecting to www.iglesiacatolica.org.gt (www.iglesiacatolica.org.gt)|186.151.197.179|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140439 (137K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36%  972K 1s
+    50K .......... .......... .......... .......... .......... 72% 2.91M 0s
+   100K .......... .......... .......... .......              100%  270M=0.6s
+
+2020-03-02 04:11:42 (1.99 Mb/s) - ‘/dev/null’ saved [140439/140439]
+

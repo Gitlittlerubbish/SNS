@@ -1,0 +1,12 @@
+--2020-03-02 00:04:58--  http://www.ibb.org.bd/notice/89th_BDExam_Time_able.pdf
+Resolving www.ibb.org.bd (www.ibb.org.bd)... 68.65.122.216
+Connecting to www.ibb.org.bd (www.ibb.org.bd)|68.65.122.216|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98973 (97K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 1.28M 0s
+    50K .......... .......... .......... .......... ......    100%  340M=0.3s
+
+2020-03-02 00:04:59 (2.46 Mb/s) - ‘/dev/null’ saved [98973/98973]
+

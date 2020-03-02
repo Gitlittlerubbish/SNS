@@ -1,0 +1,25 @@
+--2020-03-02 03:03:36--  http://www.psykiatrienisyddanmark.dk/dwn682135
+Resolving www.psykiatrienisyddanmark.dk (www.psykiatrienisyddanmark.dk)... 193.163.231.65
+Connecting to www.psykiatrienisyddanmark.dk (www.psykiatrienisyddanmark.dk)|193.163.231.65|:80... connected.
+HTTP request sent, awaiting response... 302 Object moved
+Location: /dwn682135.pdf [following]
+--2020-03-02 03:03:36--  http://www.psykiatrienisyddanmark.dk/dwn682135.pdf
+Reusing existing connection to www.psykiatrienisyddanmark.dk:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 562618 (549K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9%  785M 0s
+    50K .......... .......... .......... .......... .......... 18% 10.0M 0s
+   100K .......... .......... .......... .......... .......... 27%  205M 0s
+   150K .......... .......... .......... .......... .......... 36%  624M 0s
+   200K .......... .......... .......... .......... .......... 45% 11.5M 0s
+   250K .......... .......... .......... .......... .......... 54%  154M 0s
+   300K .......... .......... .......... .......... .......... 63%  528K 0s
+   350K .......... .......... .......... .......... .......... 72% 2.99M 0s
+   400K .......... .......... .......... .......... .......... 81% 4.05M 0s
+   450K .......... .......... .......... .......... .......... 91% 5.95M 0s
+   500K .......... .......... .......... .......... ......... 100% 5.78M=1.2s
+
+2020-03-02 03:03:38 (3.64 Mb/s) - ‘/dev/null’ saved [562618/562618]
+

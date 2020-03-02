@@ -1,0 +1,31 @@
+--2020-03-01 23:00:42--  http://sh-m.ag/2Mjq0a9
+Resolving sh-m.ag (sh-m.ag)... 67.199.248.12, 67.199.248.13
+Connecting to sh-m.ag (sh-m.ag)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://cdph.ca.gov/Programs/CCDPHP/DEODC/OHB/OLPPP/CDPH Document Library/takehome.pdf [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:00:43--  https://cdph.ca.gov/Programs/CCDPHP/DEODC/OHB/OLPPP/CDPH%20Document%20Library/takehome.pdf
+Resolving cdph.ca.gov (cdph.ca.gov)... 158.96.73.213
+Connecting to cdph.ca.gov (cdph.ca.gov)|158.96.73.213|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/OHB/OLPPP/CDPH Document Library/takehome.pdf [following]
+--2020-03-01 23:00:44--  https://www.cdph.ca.gov/Programs/CCDPHP/DEODC/OHB/OLPPP/CDPH%20Document%20Library/takehome.pdf
+Resolving www.cdph.ca.gov (www.cdph.ca.gov)... 158.96.73.213
+Connecting to www.cdph.ca.gov (www.cdph.ca.gov)|158.96.73.213|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 491555 (480K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.26M 3s
+    50K .......... .......... .......... .......... .......... 20%  516K 4s
+   100K .......... .......... .......... .......... .......... 31%  863K 4s
+   150K .......... .......... .......... .......... .......... 41% 1.28M 3s
+   200K .......... .......... .......... .......... .......... 52% 1.30M 2s
+   250K .......... .......... .......... .......... .......... 62% 1.30M 2s
+   300K .......... .......... .......... .......... .......... 72% 2.55M 1s
+   350K .......... .......... .......... .......... .......... 83%  429K 1s
+   400K .......... .......... .......... .......... .......... 93%  370K 0s
+   450K .......... .......... ..........                      100%  781K=5.1s
+
+2020-03-01 23:00:50 (774 Kb/s) - ‘/dev/null’ saved [491555/491555]
+

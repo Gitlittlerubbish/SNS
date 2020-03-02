@@ -1,0 +1,11 @@
+--2020-03-02 05:08:40--  http://www.aiutoafrica.it/documenti/diritti_umani_ONU_it.pdf
+Resolving www.aiutoafrica.it (www.aiutoafrica.it)... 31.11.34.106
+Connecting to www.aiutoafrica.it (www.aiutoafrica.it)|31.11.34.106|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24262 (24K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                             100% 3.11M=0.06s
+
+2020-03-02 05:08:41 (3.11 Mb/s) - ‘/dev/null’ saved [24262/24262]
+

@@ -1,0 +1,13 @@
+--2020-03-02 03:39:35--  http://www.hfc.com.fj/pdf/FUNERALAPPLICATIONFORMS.pdf
+Resolving www.hfc.com.fj (www.hfc.com.fj)... 69.64.91.174
+Connecting to www.hfc.com.fj (www.hfc.com.fj)|69.64.91.174|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116175 (113K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44% 1.38M 0s
+    50K .......... .......... .......... .......... .......... 88% 2.74M 0s
+   100K .......... ...                                        100% 1.11M=0.5s
+
+2020-03-02 03:39:37 (1.70 Mb/s) - ‘/dev/null’ saved [116175/116175]
+

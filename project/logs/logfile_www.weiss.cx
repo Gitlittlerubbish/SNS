@@ -1,0 +1,14 @@
+--2020-03-02 02:22:21--  http://www.weiss.cx/uploads/soft/170829/1-1FR9100Q9.pdf
+Resolving www.weiss.cx (www.weiss.cx)... 120.77.241.240
+Connecting to www.weiss.cx (www.weiss.cx)|120.77.241.240|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180289 (176K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28%  670K 2s
+    50K .......... .......... .......... .......... .......... 56% 1.34M 1s
+   100K .......... .......... .......... .......... .......... 85%  214M 0s
+   150K .......... .......... ......                          100% 1.19G=0.9s
+
+2020-03-02 02:22:22 (1.57 Mb/s) - ‘/dev/null’ saved [180289/180289]
+

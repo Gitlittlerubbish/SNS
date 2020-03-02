@@ -1,0 +1,12 @@
+--2020-03-02 04:01:33--  http://www.cwsa.gov.gh/downloads/Act564.pdf
+Resolving www.cwsa.gov.gh (www.cwsa.gov.gh)... 66.201.99.23
+Connecting to www.cwsa.gov.gh (www.cwsa.gov.gh)|66.201.99.23|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89103 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 1.42M 0s
+    50K .......... .......... .......... .......              100% 3.19M=0.4s
+
+2020-03-02 04:01:34 (1.85 Mb/s) - ‘/dev/null’ saved [89103/89103]
+

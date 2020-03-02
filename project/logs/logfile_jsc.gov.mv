@@ -1,0 +1,11 @@
+--2020-03-02 07:14:32--  http://jsc.gov.mv/2019/06/3161
+Resolving jsc.gov.mv (jsc.gov.mv)... 202.1.207.53
+Connecting to jsc.gov.mv (jsc.gov.mv)|202.1.207.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...                                          371K=0.3s
+
+2020-03-02 07:14:33 (371 Kb/s) - ‘/dev/null’ saved [14063]
+

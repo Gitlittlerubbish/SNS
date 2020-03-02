@@ -1,0 +1,13 @@
+--2020-03-02 04:40:46--  http://heerauto.in/claimForms/HDFC_ERGO_Claim_Form.pdf
+Resolving heerauto.in (heerauto.in)... 139.59.36.255
+Connecting to heerauto.in (heerauto.in)|139.59.36.255|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143187 (140K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 1.31M 1s
+    50K .......... .......... .......... .......... .......... 71% 2.66M 0s
+   100K .......... .......... .......... .........            100%  174M=0.5s
+
+2020-03-02 04:40:47 (2.45 Mb/s) - ‘/dev/null’ saved [143187/143187]
+

@@ -1,0 +1,12 @@
+--2020-03-02 03:04:07--  http://www.dinh.dk/pdf/kinhhoabinh.pdf
+Resolving www.dinh.dk (www.dinh.dk)... 192.185.35.90
+Connecting to www.dinh.dk (www.dinh.dk)|192.185.35.90|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61507 (60K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 83% 1.69M 0s
+    50K ..........                                            100%  285M=0.2s
+
+2020-03-02 03:04:08 (2.03 Mb/s) - ‘/dev/null’ saved [61507/61507]
+

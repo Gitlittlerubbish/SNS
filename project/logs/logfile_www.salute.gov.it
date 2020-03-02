@@ -1,0 +1,11 @@
+--2020-03-02 05:09:14--  http://www.salute.gov.it/imgs/C_17_normativa_845_allegato.pdf
+Resolving www.salute.gov.it (www.salute.gov.it)... 77.244.143.88, 77.244.143.96
+Connecting to www.salute.gov.it (www.salute.gov.it)|77.244.143.88|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37108 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100%  255M=0.001s
+
+2020-03-02 05:09:15 (255 Mb/s) - ‘/dev/null’ saved [37108/37108]
+

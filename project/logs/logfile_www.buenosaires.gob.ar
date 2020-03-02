@@ -1,0 +1,16 @@
+--2020-03-01 23:07:59--  http://www.buenosaires.gob.ar/areas/educacion/cepa/manifiesto_antropofago.pdf
+Resolving www.buenosaires.gob.ar (www.buenosaires.gob.ar)... 200.16.89.104
+Connecting to www.buenosaires.gob.ar (www.buenosaires.gob.ar)|200.16.89.104|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.buenosaires.gob.ar/areas/educacion/cepa/manifiesto_antropofago.pdf [following]
+--2020-03-01 23:08:00--  https://www.buenosaires.gob.ar/areas/educacion/cepa/manifiesto_antropofago.pdf
+Connecting to www.buenosaires.gob.ar (www.buenosaires.gob.ar)|200.16.89.104|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60026 (59K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 85%  191K 0s
+    50K ........                                              100%  802M=2.1s
+
+2020-03-01 23:08:04 (224 Kb/s) - ‘/dev/null’ saved [60026/60026]
+

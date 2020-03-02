@@ -1,0 +1,39 @@
+--2020-03-01 22:19:05--  http://droit.mjustice.dz/loi_lutte_contrebande_ar.pdf
+Resolving droit.mjustice.dz (droit.mjustice.dz)... 197.112.0.210
+Connecting to droit.mjustice.dz (droit.mjustice.dz)|197.112.0.210|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://droit.mjustice.dz/loi_lutte_contrebande_ar.pdf [following]
+--2020-03-01 22:19:06--  https://droit.mjustice.dz/loi_lutte_contrebande_ar.pdf
+Connecting to droit.mjustice.dz (droit.mjustice.dz)|197.112.0.210|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184462 (180K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 1.70M 1s
+    50K .......... .......... .......... .......... .......... 55% 2.24M 0s
+   100K .......... .......... .......... .......... .......... 83% 2.24M 0s
+   150K .......... .......... ..........                      100% 3.69M=0.7s
+
+2020-03-01 22:19:07 (2.19 Mb/s) - ‘/dev/null’ saved [184462/184462]
+
+--2020-03-01 22:19:07--  http://droit.mjustice.dz/loi_prevention_repres_usage_trafic_illic_stupe_subst_psychotr.pdf
+Resolving droit.mjustice.dz (droit.mjustice.dz)... 197.112.0.210
+Connecting to droit.mjustice.dz (droit.mjustice.dz)|197.112.0.210|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://droit.mjustice.dz/loi_prevention_repres_usage_trafic_illic_stupe_subst_psychotr.pdf [following]
+--2020-03-01 22:19:07--  https://droit.mjustice.dz/loi_prevention_repres_usage_trafic_illic_stupe_subst_psychotr.pdf
+Connecting to droit.mjustice.dz (droit.mjustice.dz)|197.112.0.210|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 322834 (315K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 3.44M 1s
+    50K .......... .......... .......... .......... .......... 31% 6.49M 0s
+   100K .......... .......... .......... .......... .......... 47% 6.92M 0s
+   150K .......... .......... .......... .......... .......... 63% 7.43M 0s
+   200K .......... .......... .......... .......... .......... 79% 78.5M 0s
+   250K .......... .......... .......... .......... .......... 95% 7.36M 0s
+   300K .......... .....                                      100% 1.53G=0.4s
+
+2020-03-01 22:19:08 (7.23 Mb/s) - ‘/dev/null’ saved [322834/322834]
+

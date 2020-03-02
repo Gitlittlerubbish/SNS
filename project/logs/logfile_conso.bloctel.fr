@@ -1,0 +1,17 @@
+--2020-03-02 03:47:06--  http://conso.bloctel.fr/docs/Fiche_pratique_reclamations.pdf
+Resolving conso.bloctel.fr (conso.bloctel.fr)... 178.33.151.209
+Connecting to conso.bloctel.fr (conso.bloctel.fr)|178.33.151.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://conso.bloctel.fr/docs/Fiche_pratique_reclamations.pdf [following]
+--2020-03-02 03:47:06--  https://conso.bloctel.fr/docs/Fiche_pratique_reclamations.pdf
+Connecting to conso.bloctel.fr (conso.bloctel.fr)|178.33.151.209|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136881 (134K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 14.5M 0s
+    50K .......... .......... .......... .......... .......... 74% 25.2M 0s
+   100K .......... .......... .......... ...                  100%  752M=0.04s
+
+2020-03-02 03:47:06 (24.4 Mb/s) - ‘/dev/null’ saved [136881/136881]
+

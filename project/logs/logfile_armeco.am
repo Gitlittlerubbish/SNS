@@ -1,0 +1,14 @@
+--2020-03-01 23:26:42--  http://armeco.am/_ld/1/166_G2y.pdf
+Resolving armeco.am (armeco.am)... 193.109.246.48
+Connecting to armeco.am (armeco.am)|193.109.246.48|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185091 (181K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 2.11M 1s
+    50K .......... .......... .......... .......... .......... 55% 1.68M 0s
+   100K .......... .......... .......... .......... .......... 82% 1.70M 0s
+   150K .......... .......... ..........                      100% 2.07M=0.8s
+
+2020-03-01 23:26:43 (1.85 Mb/s) - ‘/dev/null’ saved [185091/185091]
+

@@ -1,0 +1,11 @@
+--2020-03-02 06:13:11--  http://www.pienslabs.lv/metodes_mikrobiol_04_04_2018.pdf
+Resolving www.pienslabs.lv (www.pienslabs.lv)... 176.58.101.81
+Connecting to www.pienslabs.lv (www.pienslabs.lv)|176.58.101.81|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45878 (45K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ....      100% 39.8M=0.009s
+
+2020-03-02 06:13:11 (39.8 Mb/s) - ‘/dev/null’ saved [45878/45878]
+

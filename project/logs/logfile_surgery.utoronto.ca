@@ -1,0 +1,17 @@
+--2020-03-02 01:52:10--  http://surgery.utoronto.ca/file/2103/download%3Ftoken%3DvdWFkQc7
+Resolving surgery.utoronto.ca (surgery.utoronto.ca)... 23.185.0.4
+Connecting to surgery.utoronto.ca (surgery.utoronto.ca)|23.185.0.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://surgery.utoronto.ca/file/2103/download%3Ftoken%3DvdWFkQc7 [following]
+--2020-03-02 01:52:10--  https://surgery.utoronto.ca/file/2103/download%3Ftoken%3DvdWFkQc7
+Connecting to surgery.utoronto.ca (surgery.utoronto.ca)|23.185.0.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105400 (103K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 26.6M 0s
+    50K .......... .......... .......... .......... .......... 97% 61.1M 0s
+   100K ..                                                    100%  480K=0.02s
+
+2020-03-02 01:52:11 (38.1 Mb/s) - ‘/dev/null’ saved [105400/105400]
+

@@ -1,0 +1,13 @@
+--2020-03-02 01:54:12--  http://www.subway.ky/docs/CateringTips.pdf
+Resolving www.subway.ky (www.subway.ky)... 162.241.226.151
+Connecting to www.subway.ky (www.subway.ky)|162.241.226.151|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108285 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 1.69M 0s
+    50K .......... .......... .......... .......... .......... 94% 3.40M 0s
+   100K .....                                                 100% 31.3M=0.4s
+
+2020-03-02 01:54:13 (2.38 Mb/s) - ‘/dev/null’ saved [108285/108285]
+

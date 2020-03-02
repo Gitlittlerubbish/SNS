@@ -1,0 +1,12 @@
+--2020-03-02 03:30:52--  http://www.sandalfon.ee/Lisa2.pdf
+Resolving www.sandalfon.ee (www.sandalfon.ee)... 194.204.54.100
+Connecting to www.sandalfon.ee (www.sandalfon.ee)|194.204.54.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100576 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50% 5.98M 0s
+    50K .......... .......... .......... .......... ........  100%  192M=0.07s
+
+2020-03-02 03:30:52 (11.4 Mb/s) - ‘/dev/null’ saved [100576/100576]
+

@@ -1,0 +1,16 @@
+--2020-03-02 00:14:12--  http://www.sb.by/upload/podpiska_2_2019.pdf
+Resolving www.sb.by (www.sb.by)... 93.85.84.210
+Connecting to www.sb.by (www.sb.by)|93.85.84.210|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sb.by/upload/podpiska_2_2019.pdf [following]
+--2020-03-02 00:14:12--  https://www.sb.by/upload/podpiska_2_2019.pdf
+Connecting to www.sb.by (www.sb.by)|93.85.84.210|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83096 (81K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 61% 6.30M 0s
+    50K .......... .......... .......... .                    100%  159M=0.07s
+
+2020-03-02 00:14:13 (9.97 Mb/s) - ‘/dev/null’ saved [83096/83096]
+

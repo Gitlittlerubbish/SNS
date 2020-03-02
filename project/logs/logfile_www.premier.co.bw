@@ -1,0 +1,19 @@
+--2020-03-02 01:08:26--  http://www.premier.co.bw/common_up/premier-sa/prod_doc_1559500589_408.pdf
+Resolving www.premier.co.bw (www.premier.co.bw)... 172.104.48.73
+Connecting to www.premier.co.bw (www.premier.co.bw)|172.104.48.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.premier.co.bw/common_up/premier-sa/prod_doc_1559500589_408.pdf [following]
+--2020-03-02 01:08:28--  https://www.premier.co.bw/common_up/premier-sa/prod_doc_1559500589_408.pdf
+Connecting to www.premier.co.bw (www.premier.co.bw)|172.104.48.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205740 (201K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 2.05M 1s
+    50K .......... .......... .......... .......... .......... 49% 2.10M 0s
+   100K .......... .......... .......... .......... .......... 74% 24.2M 0s
+   150K .......... .......... .......... .......... .......... 99% 29.5M 0s
+   200K                                                       100%  150K=0.4s
+
+2020-03-02 01:08:29 (3.86 Mb/s) - ‘/dev/null’ saved [205740/205740]
+

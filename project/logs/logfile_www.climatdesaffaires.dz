@@ -1,0 +1,11 @@
+--2020-03-01 22:26:46--  http://www.climatdesaffaires.dz/IMG/pdf/les_imprimes_fiscaux_telechargeables_on_line.pdf
+Resolving www.climatdesaffaires.dz (www.climatdesaffaires.dz)... 213.179.181.53
+Connecting to www.climatdesaffaires.dz (www.climatdesaffaires.dz)|213.179.181.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8101 (7.9K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......                                               100% 1.71G=0s
+
+2020-03-01 22:26:46 (1.71 Gb/s) - ‘/dev/null’ saved [8101/8101]
+

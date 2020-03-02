@@ -1,0 +1,20 @@
+--2020-03-02 03:46:27--  http://www.utt.fr/calendrier-universitaire
+Resolving www.utt.fr (www.utt.fr)... 193.50.230.232
+Connecting to www.utt.fr (www.utt.fr)|193.50.230.232|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.utt.fr/calendrier-universitaire [following]
+--2020-03-02 03:46:27--  https://www.utt.fr/calendrier-universitaire
+Connecting to www.utt.fr (www.utt.fr)|193.50.230.232|:443... connected.
+HTTP request sent, awaiting response... 307 307
+Location: https://www.utt.fr/medias/fichier/calendrier-universitaire-2019-2020_1561024435556-pdf?INLINE=FALSE [following]
+--2020-03-02 03:46:27--  https://www.utt.fr/medias/fichier/calendrier-universitaire-2019-2020_1561024435556-pdf?INLINE=FALSE
+Reusing existing connection to www.utt.fr:443.
+HTTP request sent, awaiting response... 200 200
+Length: 63778 (62K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 80% 3.90M 0s
+    50K .......... ..                                         100% 42.0M=0.1s
+
+2020-03-02 03:46:27 (4.75 Mb/s) - ‘/dev/null’ saved [63778/63778]
+

@@ -1,0 +1,23 @@
+--2020-03-01 23:30:33--  http://www.publish.csiro.au/ebook/chapter/SA0501083
+Resolving www.publish.csiro.au (www.publish.csiro.au)... 150.229.2.139
+Connecting to www.publish.csiro.au (www.publish.csiro.au)|150.229.2.139|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.publish.csiro.au/ebook/chapter/SA0501083 [following]
+--2020-03-01 23:30:37--  https://www.publish.csiro.au/ebook/chapter/SA0501083
+Connecting to www.publish.csiro.au (www.publish.csiro.au)|150.229.2.139|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 443032 (433K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11%  722K 4s
+    50K .......... .......... .......... .......... .......... 23%  853M 2s
+   100K .......... .......... .......... .......... .......... 34%  243K 4s
+   150K .......... .......... .......... .......... .......... 46%  444K 4s
+   200K .......... .......... .......... .......... .......... 57%  458K 3s
+   250K .......... .......... .......... .......... .......... 69%  444K 2s
+   300K .......... .......... .......... .......... .......... 80%  431K 1s
+   350K .......... .......... .......... .......... .......... 92%  334K 1s
+   400K .......... .......... .......... ..                   100%  873K=7.5s
+
+2020-03-01 23:30:46 (474 Kb/s) - ‘/dev/null’ saved [443032/443032]
+

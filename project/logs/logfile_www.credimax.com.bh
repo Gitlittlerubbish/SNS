@@ -1,0 +1,23 @@
+--2020-03-01 23:59:07--  http://www.credimax.com.bh/assets/fileManager/Danat_cardTC.PDF
+Resolving www.credimax.com.bh (www.credimax.com.bh)... 15.185.88.208
+Connecting to www.credimax.com.bh (www.credimax.com.bh)|15.185.88.208|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.credimax.com.bh/assets/fileManager/Danat_cardTC.PDF [following]
+--2020-03-01 23:59:07--  https://www.credimax.com.bh/assets/fileManager/Danat_cardTC.PDF
+Connecting to www.credimax.com.bh (www.credimax.com.bh)|15.185.88.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 427563 (418K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.61M 2s
+    50K .......... .......... .......... .......... .......... 23% 3.19M 1s
+   100K .......... .......... .......... .......... .......... 35% 1.02G 1s
+   150K .......... .......... .......... .......... .......... 47% 86.0M 0s
+   200K .......... .......... .......... .......... .......... 59% 3.28M 0s
+   250K .......... .......... .......... .......... .......... 71%  124M 0s
+   300K .......... .......... .......... .......... .......... 83% 3.35M 0s
+   350K .......... .......... .......... .......... .......... 95% 33.7M 0s
+   400K .......... .......                                    100%  876M=0.7s
+
+2020-03-01 23:59:08 (5.26 Mb/s) - ‘/dev/null’ saved [427563/427563]
+

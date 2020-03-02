@@ -1,0 +1,12 @@
+--2020-03-02 04:15:31--  http://guernseyathletics.org.gg/download/results/2020_results/NYDResults.pdf
+Resolving guernseyathletics.org.gg (guernseyathletics.org.gg)... 91.238.161.177
+Connecting to guernseyathletics.org.gg (guernseyathletics.org.gg)|91.238.161.177|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87104 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58% 9.27M 0s
+    50K .......... .......... .......... .....                100%  164M=0.05s
+
+2020-03-02 04:15:33 (15.2 Mb/s) - ‘/dev/null’ saved [87104/87104]
+

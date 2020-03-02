@@ -1,0 +1,11 @@
+--2020-03-02 00:28:24--  http://eberhardt.bz/GME_Wood_Land/wood_stuff_not_sorted/Finishes/SandingWax.pdf
+Resolving eberhardt.bz (eberhardt.bz)... 98.137.244.36
+Connecting to eberhardt.bz (eberhardt.bz)|98.137.244.36|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 25728 (25K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .....                           100% 1.45M=0.1s
+
+2020-03-02 00:28:24 (1.45 Mb/s) - ‘/dev/null’ saved [25728/25728]
+

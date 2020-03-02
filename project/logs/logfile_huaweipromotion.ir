@@ -1,0 +1,13 @@
+--2020-03-02 04:55:10--  http://huaweipromotion.ir/ShopList.pdf
+Resolving huaweipromotion.ir (huaweipromotion.ir)... 176.9.214.218
+Connecting to huaweipromotion.ir (huaweipromotion.ir)|176.9.214.218|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149352 (146K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 8.91M 0s
+    50K .......... .......... .......... .......... .......... 68% 17.5M 0s
+   100K .......... .......... .......... .......... .....     100% 99.7M=0.07s
+
+2020-03-02 04:55:10 (16.3 Mb/s) - ‘/dev/null’ saved [149352/149352]
+

@@ -1,0 +1,15 @@
+--2020-03-02 04:25:40--  http://www.bvs.hn/Honduras/pdf/Elhogaryelauladeldesnutridocronico.pdf
+Resolving www.bvs.hn (www.bvs.hn)... 65.182.2.244
+Connecting to www.bvs.hn (www.bvs.hn)|65.182.2.244|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236878 (231K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21%  605K 2s
+    50K .......... .......... .......... .......... .......... 43% 2.96M 1s
+   100K .......... .......... .......... .......... .......... 64% 1.52M 1s
+   150K .......... .......... .......... .......... .......... 86% 3.00M 0s
+   200K .......... .......... .......... .                    100% 1.87M=1.4s
+
+2020-03-02 04:25:42 (1.40 Mb/s) - ‘/dev/null’ saved [236878/236878]
+

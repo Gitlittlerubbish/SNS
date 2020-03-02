@@ -1,0 +1,17 @@
+--2020-03-02 04:50:16--  http://oseanografi.lipi.go.id/dokumen/oseana_xxx(3)21-26.pdf
+Resolving oseanografi.lipi.go.id (oseanografi.lipi.go.id)... 203.160.128.6
+Connecting to oseanografi.lipi.go.id (oseanografi.lipi.go.id)|203.160.128.6|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326868 (319K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  250K 9s
+    50K .......... .......... .......... .......... .......... 31%  405K 6s
+   100K .......... .......... .......... .......... .......... 46%  443K 4s
+   150K .......... .......... .......... .......... .......... 62%  214K 3s
+   200K .......... .......... .......... .......... .......... 78%  268K 2s
+   250K .......... .......... .......... .......... .......... 93%  372K 1s
+   300K .......... .........                                  100%  502K=8.4s
+
+2020-03-02 04:50:26 (310 Kb/s) - ‘/dev/null’ saved [326868/326868]
+

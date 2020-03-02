@@ -1,0 +1,30 @@
+--2020-03-02 06:04:03--  http://www.mew.gov.kw/media/s40jmhxk/18_2.pdf
+Resolving www.mew.gov.kw (www.mew.gov.kw)... 185.173.40.25
+Connecting to www.mew.gov.kw (www.mew.gov.kw)|185.173.40.25|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.mew.gov.kw/ [following]
+--2020-03-02 06:04:03--  https://www.mew.gov.kw/
+Connecting to www.mew.gov.kw (www.mew.gov.kw)|185.173.40.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48068 (47K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 3.27M=0.1s
+
+2020-03-02 06:04:04 (3.27 Mb/s) - ‘/dev/null’ saved [48068/48068]
+
+--2020-03-02 06:04:18--  http://www.mew.gov.kw/media/s40jmhxk/18_2.pdf
+Resolving www.mew.gov.kw (www.mew.gov.kw)... 185.173.40.25
+Connecting to www.mew.gov.kw (www.mew.gov.kw)|185.173.40.25|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.mew.gov.kw/ [following]
+--2020-03-02 06:04:19--  https://www.mew.gov.kw/
+Connecting to www.mew.gov.kw (www.mew.gov.kw)|185.173.40.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48068 (47K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 3.44M=0.1s
+
+2020-03-02 06:04:19 (3.44 Mb/s) - ‘/dev/null’ saved [48068/48068]
+

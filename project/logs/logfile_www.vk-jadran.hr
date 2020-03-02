@@ -1,0 +1,13 @@
+--2020-03-02 02:55:02--  http://www.vk-jadran.hr/kalendarhvs2013.pdf
+Resolving www.vk-jadran.hr (www.vk-jadran.hr)... 178.218.164.132
+Connecting to www.vk-jadran.hr (www.vk-jadran.hr)|178.218.164.132|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123872 (121K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 2.48M 0s
+    50K .......... .......... .......... .......... .......... 82% 7.40M 0s
+   100K .......... ..........                                 100% 57.2M=0.2s
+
+2020-03-02 02:55:03 (4.43 Mb/s) - ‘/dev/null’ saved [123872/123872]
+

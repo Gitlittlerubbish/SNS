@@ -1,0 +1,18 @@
+--2020-03-02 04:04:04--  http://www.uew.edu.gh/sites/default/files/downloads/uewact2004_0.pdf
+Resolving www.uew.edu.gh (www.uew.edu.gh)... 41.74.91.153
+Connecting to www.uew.edu.gh (www.uew.edu.gh)|41.74.91.153|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.uew.edu.gh/sites/default/files/downloads/uewact2004_0.pdf [following]
+--2020-03-02 04:04:04--  https://www.uew.edu.gh/sites/default/files/downloads/uewact2004_0.pdf
+Connecting to www.uew.edu.gh (www.uew.edu.gh)|41.74.91.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184927 (181K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 1.31M 1s
+    50K .......... .......... .......... .......... .......... 55% 3.92M 0s
+   100K .......... .......... .......... .......... .......... 83% 3.95M 0s
+   150K .......... .......... ..........                      100%  769M=0.5s
+
+2020-03-02 04:04:05 (2.84 Mb/s) - ‘/dev/null’ saved [184927/184927]
+

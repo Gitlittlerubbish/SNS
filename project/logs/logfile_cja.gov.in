@@ -1,0 +1,14 @@
+--2020-03-02 04:46:02--  http://cja.gov.in/data/Executions.pdf
+Resolving cja.gov.in (cja.gov.in)... 164.100.86.97
+Connecting to cja.gov.in (cja.gov.in)|164.100.86.97|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176918 (173K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28%  830K 1s
+    50K .......... .......... .......... .......... .......... 57% 2.50M 0s
+   100K .......... .......... .......... .......... .......... 86% 81.8M 0s
+   150K .......... .......... ..                              100% 1.77M=0.8s
+
+2020-03-02 04:46:03 (1.84 Mb/s) - ‘/dev/null’ saved [176918/176918]
+

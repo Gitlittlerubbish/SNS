@@ -1,0 +1,12 @@
+--2020-03-02 00:47:30--  http://virtual.usalesiana.edu.bo/web/practica/archiv/Derivadas_Form.pdf
+Resolving virtual.usalesiana.edu.bo (virtual.usalesiana.edu.bo)... 190.129.72.228
+Connecting to virtual.usalesiana.edu.bo (virtual.usalesiana.edu.bo)|190.129.72.228|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101970 (100K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50% 1.09M 0s
+    50K .......... .......... .......... .......... ......... 100% 2.16M=0.6s
+
+2020-03-02 00:47:32 (1.45 Mb/s) - ‘/dev/null’ saved [101970/101970]
+

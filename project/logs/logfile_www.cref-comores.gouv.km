@@ -1,0 +1,29 @@
+--2020-03-02 02:33:20--  http://www.cref-comores.gouv.km/v1/files/statistiques/tofe_2011.pdf
+Resolving www.cref-comores.gouv.km (www.cref-comores.gouv.km)... 64.90.41.206
+Connecting to www.cref-comores.gouv.km (www.cref-comores.gouv.km)|64.90.41.206|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97211 (95K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 1.53M 0s
+    50K .......... .......... .......... .......... ....      100%  215M=0.3s
+
+2020-03-02 02:33:21 (2.89 Mb/s) - ‘/dev/null’ saved [97211/97211]
+
+--2020-03-02 02:33:21--  http://www.cref-comores.gouv.km/v1/files/ami/marches_publics_passes.pdf
+Resolving www.cref-comores.gouv.km (www.cref-comores.gouv.km)... 64.90.41.206
+Connecting to www.cref-comores.gouv.km (www.cref-comores.gouv.km)|64.90.41.206|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319503 (312K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 1.54M 1s
+    50K .......... .......... .......... .......... .......... 32% 3.07M 1s
+   100K .......... .......... .......... .......... .......... 48% 87.8M 0s
+   150K .......... .......... .......... .......... .......... 64%  161M 0s
+   200K .......... .......... .......... .......... .......... 80% 3.12M 0s
+   250K .......... .......... .......... .......... .......... 96%  221M 0s
+   300K .......... ..                                         100%  920M=0.5s
+
+2020-03-02 02:33:22 (4.73 Mb/s) - ‘/dev/null’ saved [319503/319503]
+

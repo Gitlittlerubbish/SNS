@@ -1,0 +1,21 @@
+--2020-03-01 23:00:42--  http://2-g.ag/agb/
+Resolving 2-g.ag (2-g.ag)... 195.68.246.74
+Connecting to 2-g.ag (2-g.ag)|195.68.246.74|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.2-g.com/de/agb/ [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:00:42--  https://www.2-g.com/de/agb/
+Resolving www.2-g.com (www.2-g.com)... 195.68.246.74
+Connecting to www.2-g.com (www.2-g.com)|195.68.246.74|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.2-g.com/design2015/docs/AGB_Stand-2013-04-deutsch.pdf [following]
+--2020-03-01 23:00:42--  https://www.2-g.com/design2015/docs/AGB_Stand-2013-04-deutsch.pdf
+Reusing existing connection to www.2-g.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40513 (40K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .........            100% 13.5M=0.02s
+
+2020-03-01 23:00:42 (13.5 Mb/s) - ‘/dev/null’ saved [40513/40513]
+

@@ -1,0 +1,15 @@
+--2020-03-02 06:04:25--  http://www.customs.gov.kw/Content/Files/10.2.pdf
+Resolving www.customs.gov.kw (www.customs.gov.kw)... 176.110.119.37
+Connecting to www.customs.gov.kw (www.customs.gov.kw)|176.110.119.37|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.customs.gov.kw/Content/Files/10.2.pdf [following]
+--2020-03-02 06:04:26--  https://www.customs.gov.kw/Content/Files/10.2.pdf
+Connecting to www.customs.gov.kw (www.customs.gov.kw)|176.110.119.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 2.42M=0.001s
+
+2020-03-02 06:04:27 (2.42 Mb/s) - ‘/dev/null’ saved [247/247]
+

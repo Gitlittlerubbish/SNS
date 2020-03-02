@@ -1,0 +1,19 @@
+--2020-03-02 04:39:18--  http://www.hlaup.is/upload/files/ByrjendurB-SPS.pdf
+Resolving www.hlaup.is (www.hlaup.is)... 217.171.213.160
+Connecting to www.hlaup.is (www.hlaup.is)|217.171.213.160|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.hlaup.is/upload/files/ByrjendurB-SPS.pdf [following]
+--2020-03-02 04:39:18--  https://www.hlaup.is/upload/files/ByrjendurB-SPS.pdf
+Connecting to www.hlaup.is (www.hlaup.is)|217.171.213.160|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210434 (206K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 8.97M 0s
+    50K .......... .......... .......... .......... .......... 48% 9.21M 0s
+   100K .......... .......... .......... .......... .......... 72% 9.32M 0s
+   150K .......... .......... .......... .......... .......... 97%  203M 0s
+   200K .....                                                 100%  901K=0.1s
+
+2020-03-02 04:39:19 (12.4 Mb/s) - ‘/dev/null’ saved [210434/210434]
+

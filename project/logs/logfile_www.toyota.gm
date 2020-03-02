@@ -1,0 +1,50 @@
+--2020-03-02 03:55:10--  http://www.toyota.gm/media/gamme/modeles/files/FP_556_LC79_CFAO_en_BD-1.pdf
+Resolving www.toyota.gm (www.toyota.gm)... 51.91.15.62
+Connecting to www.toyota.gm (www.toyota.gm)|51.91.15.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.toyota.gm/media/gamme/modeles/files/FP_556_LC79_CFAO_en_BD-1.pdf [following]
+--2020-03-02 03:55:10--  https://www.toyota.gm/media/gamme/modeles/files/FP_556_LC79_CFAO_en_BD-1.pdf
+Connecting to www.toyota.gm (www.toyota.gm)|51.91.15.62|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 705182 (689K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 28.7M 0s
+    50K .......... .......... .......... .......... .......... 14% 28.4M 0s
+   100K .......... .......... .......... .......... .......... 21%  200M 0s
+   150K .......... .......... .......... .......... .......... 29%  139M 0s
+   200K .......... .......... .......... .......... .......... 36% 36.8M 0s
+   250K .......... .......... .......... .......... .......... 43%  154M 0s
+   300K .......... .......... .......... .......... .......... 50% 45.0M 0s
+   350K .......... .......... .......... .......... .......... 58%  153M 0s
+   400K .......... .......... .......... .......... .......... 65%  180M 0s
+   450K .......... .......... .......... .......... .......... 72%  135M 0s
+   500K .......... .......... .......... .......... .......... 79%  384M 0s
+   550K .......... .......... .......... .......... .......... 87% 57.5M 0s
+   600K .......... .......... .......... .......... .......... 94%  143M 0s
+   650K .......... .......... .......... ........             100%  158M=0.08s
+
+2020-03-02 03:55:10 (72.7 Mb/s) - ‘/dev/null’ saved [705182/705182]
+
+--2020-03-02 03:55:10--  http://www.toyota.gm/media/gamme/modeles/files/FP_439_Camrywebversion_CFAO_en_BD-1.pdf
+Resolving www.toyota.gm (www.toyota.gm)... 51.91.15.62
+Connecting to www.toyota.gm (www.toyota.gm)|51.91.15.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.toyota.gm/media/gamme/modeles/files/FP_439_Camrywebversion_CFAO_en_BD-1.pdf [following]
+--2020-03-02 03:55:11--  https://www.toyota.gm/media/gamme/modeles/files/FP_439_Camrywebversion_CFAO_en_BD-1.pdf
+Connecting to www.toyota.gm (www.toyota.gm)|51.91.15.62|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 384558 (376K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 29.0M 0s
+    50K .......... .......... .......... .......... .......... 26% 30.2M 0s
+   100K .......... .......... .......... .......... .......... 39%  108M 0s
+   150K .......... .......... .......... .......... .......... 53% 40.5M 0s
+   200K .......... .......... .......... .......... .......... 66%  117M 0s
+   250K .......... .......... .......... .......... .......... 79% 5.89M 0s
+   300K .......... .......... .......... .......... .......... 93%  890M 0s
+   350K .......... .......... .....                           100%  227M=0.1s
+
+2020-03-02 03:55:11 (26.5 Mb/s) - ‘/dev/null’ saved [384558/384558]
+

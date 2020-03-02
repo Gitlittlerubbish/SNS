@@ -1,0 +1,18 @@
+--2020-03-02 04:21:09--  http://www.douane.gouv.ht/AGD/sydonia.pdf
+Resolving www.douane.gouv.ht (www.douane.gouv.ht)... 162.210.99.100
+Connecting to www.douane.gouv.ht (www.douane.gouv.ht)|162.210.99.100|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://douane.gouv.ht/AGD/sydonia.pdf [following]
+--2020-03-02 04:21:09--  https://douane.gouv.ht/AGD/sydonia.pdf
+Resolving douane.gouv.ht (douane.gouv.ht)... 162.210.99.100
+Connecting to douane.gouv.ht (douane.gouv.ht)|162.210.99.100|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111332 (109K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 2.11M 0s
+    50K .......... .......... .......... .......... .......... 91% 4.25M 0s
+   100K ........                                              100%  616M=0.3s
+
+2020-03-02 04:21:10 (3.06 Mb/s) - ‘/dev/null’ saved [111332/111332]
+

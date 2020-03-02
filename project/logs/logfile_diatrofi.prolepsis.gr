@@ -1,0 +1,12 @@
+--2020-03-02 04:06:27--  http://diatrofi.prolepsis.gr/images/news/Monographs_QA_Vol114.PDF
+Resolving diatrofi.prolepsis.gr (diatrofi.prolepsis.gr)... 148.251.84.149
+Connecting to diatrofi.prolepsis.gr (diatrofi.prolepsis.gr)|148.251.84.149|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52060 (51K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 98% 8.40M 0s
+    50K                                                       100%  138K=0.05s
+
+2020-03-02 04:06:27 (8.54 Mb/s) - ‘/dev/null’ saved [52060/52060]
+

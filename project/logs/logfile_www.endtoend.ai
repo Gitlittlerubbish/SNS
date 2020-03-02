@@ -1,0 +1,22 @@
+--2020-03-01 22:41:41--  http://www.endtoend.ai/papers/nfq.pdf
+Resolving www.endtoend.ai (www.endtoend.ai)... 104.18.38.228, 104.18.39.228
+Connecting to www.endtoend.ai (www.endtoend.ai)|104.18.38.228|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.endtoend.ai/papers/nfq.pdf [following]
+--2020-03-01 22:41:41--  https://www.endtoend.ai/papers/nfq.pdf
+Connecting to www.endtoend.ai (www.endtoend.ai)|104.18.38.228|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 379504 (371K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 88.5M 0s
+    50K .......... .......... .......... .......... .......... 26%  123M 0s
+   100K .......... .......... .......... .......... .......... 40% 59.9M 0s
+   150K .......... .......... .......... .......... .......... 53% 82.5M 0s
+   200K .......... .......... .......... .......... .......... 67%  141M 0s
+   250K .......... .......... .......... .......... .......... 80%  140M 0s
+   300K .......... .......... .......... .......... .......... 94%  348M 0s
+   350K .......... ..........                                 100%  251M=0.03s
+
+2020-03-01 22:41:42 (111 Mb/s) - ‘/dev/null’ saved [379504/379504]
+

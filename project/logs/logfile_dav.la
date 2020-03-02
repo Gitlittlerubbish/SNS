@@ -1,0 +1,16 @@
+--2020-03-02 06:08:40--  http://dav.la/32
+Resolving dav.la (dav.la)... 159.203.77.193
+Connecting to dav.la (dav.la)|159.203.77.193|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.dav.org/wp-content/uploads/MSOCalendar.pdf [following]
+--2020-03-02 06:08:40--  https://www.dav.org/wp-content/uploads/MSOCalendar.pdf
+Resolving www.dav.org (www.dav.org)... 207.250.134.14
+Connecting to www.dav.org (www.dav.org)|207.250.134.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45760 (45K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ....      100% 1.74M=0.2s
+
+2020-03-02 06:08:41 (1.74 Mb/s) - ‘/dev/null’ saved [45760/45760]
+

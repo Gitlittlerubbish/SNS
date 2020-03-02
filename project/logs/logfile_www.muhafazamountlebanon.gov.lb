@@ -1,0 +1,14 @@
+--2020-03-02 06:16:29--  http://www.muhafazamountlebanon.gov.lb/uploads/2238_7689_2822.pdf
+Resolving www.muhafazamountlebanon.gov.lb (www.muhafazamountlebanon.gov.lb)... 70.39.234.253
+Connecting to www.muhafazamountlebanon.gov.lb (www.muhafazamountlebanon.gov.lb)|70.39.234.253|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 192494 (188K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 2.26M 1s
+    50K .......... .......... .......... .......... .......... 53% 4.46M 0s
+   100K .......... .......... .......... .......... .......... 79%  149M 0s
+   150K .......... .......... .......... .......              100%  254M=0.3s
+
+2020-03-02 06:16:32 (5.55 Mb/s) - ‘/dev/null’ saved [192494/192494]
+

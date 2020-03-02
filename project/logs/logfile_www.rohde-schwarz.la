@@ -1,0 +1,71 @@
+--2020-03-02 06:10:50--  http://www.rohde-schwarz.la/file/1MA71_2e_amplifier_nonlin_meas.pdf
+Resolving www.rohde-schwarz.la (www.rohde-schwarz.la)... 80.246.41.102
+Connecting to www.rohde-schwarz.la (www.rohde-schwarz.la)|80.246.41.102|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rohde-schwarz.com/lat/file/1MA71_2e_amplifier_nonlin_meas.pdf [following]
+--2020-03-02 06:10:53--  https://www.rohde-schwarz.com/lat/file/1MA71_2e_amplifier_nonlin_meas.pdf
+Resolving www.rohde-schwarz.com (www.rohde-schwarz.com)... 80.246.41.102
+Connecting to www.rohde-schwarz.com (www.rohde-schwarz.com)|80.246.41.102|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cdn.rohde-schwarz.com/pws/dl_downloads/dl_application/application_notes/1ma71/1MA71_2e_amplifier_nonlin_meas.pdf [following]
+--2020-03-02 06:10:53--  https://cdn.rohde-schwarz.com/pws/dl_downloads/dl_application/application_notes/1ma71/1MA71_2e_amplifier_nonlin_meas.pdf
+Resolving cdn.rohde-schwarz.com (cdn.rohde-schwarz.com)... 13.227.170.27, 13.227.170.86, 13.227.170.124, ...
+Connecting to cdn.rohde-schwarz.com (cdn.rohde-schwarz.com)|13.227.170.27|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1434442 (1.4M) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  3% 10.8M 1s
+    50K .......... .......... .......... .......... ..........  7% 21.9M 1s
+   100K .......... .......... .......... .......... .......... 10% 95.9M 1s
+   150K .......... .......... .......... .......... .......... 14% 22.8M 0s
+   200K .......... .......... .......... .......... .......... 17% 72.5M 0s
+   250K .......... .......... .......... .......... .......... 21%  140M 0s
+   300K .......... .......... .......... .......... .......... 24% 33.6M 0s
+   350K .......... .......... .......... .......... .......... 28% 59.7M 0s
+   400K .......... .......... .......... .......... .......... 32% 37.6M 0s
+   450K .......... .......... .......... .......... .......... 35% 66.0M 0s
+   500K .......... .......... .......... .......... .......... 39%  135M 0s
+   550K .......... .......... .......... .......... .......... 42% 13.7M 0s
+   600K .......... .......... .......... .......... .......... 46%  104M 0s
+   650K .......... .......... .......... .......... .......... 49% 78.3M 0s
+   700K .......... .......... .......... .......... .......... 53% 32.2M 0s
+   750K .......... .......... .......... .......... .......... 57%  318M 0s
+   800K .......... .......... .......... .......... .......... 60% 20.2M 0s
+   850K .......... .......... .......... .......... .......... 64% 89.4M 0s
+   900K .......... .......... .......... .......... .......... 67%  221M 0s
+   950K .......... .......... .......... .......... .......... 71% 13.6M 0s
+  1000K .......... .......... .......... .......... .......... 74%  182M 0s
+  1050K .......... .......... .......... .......... .......... 78% 31.7M 0s
+  1100K .......... .......... .......... .......... .......... 82%  112M 0s
+  1150K .......... .......... .......... .......... .......... 85%  102M 0s
+  1200K .......... .......... .......... .......... .......... 89% 31.1M 0s
+  1250K .......... .......... .......... .......... .......... 92% 57.1M 0s
+  1300K .......... .......... .......... .......... .......... 96% 17.2M 0s
+  1350K .......... .......... .......... .......... .......... 99%  133M 0s
+  1400K                                                       100%  135K=0.3s
+
+2020-03-02 06:10:53 (37.4 Mb/s) - ‘/dev/null’ saved [1434442/1434442]
+
+--2020-03-02 06:10:53--  http://www.rohde-schwarz.la/file/HZ115_MAN_FR.pdf
+Resolving www.rohde-schwarz.la (www.rohde-schwarz.la)... 80.246.41.102
+Connecting to www.rohde-schwarz.la (www.rohde-schwarz.la)|80.246.41.102|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rohde-schwarz.com/lat/file/HZ115_MAN_FR.pdf [following]
+--2020-03-02 06:10:53--  https://www.rohde-schwarz.com/lat/file/HZ115_MAN_FR.pdf
+Resolving www.rohde-schwarz.com (www.rohde-schwarz.com)... 80.246.41.102
+Connecting to www.rohde-schwarz.com (www.rohde-schwarz.com)|80.246.41.102|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cdn.rohde-schwarz.com/pws/dl_downloads/dl_common_library/dl_manuals/gb_1/h/hz1xx/HZ115_MAN_FR.pdf [following]
+--2020-03-02 06:10:54--  https://cdn.rohde-schwarz.com/pws/dl_downloads/dl_common_library/dl_manuals/gb_1/h/hz1xx/HZ115_MAN_FR.pdf
+Resolving cdn.rohde-schwarz.com (cdn.rohde-schwarz.com)... 13.227.170.27, 13.227.170.86, 13.227.170.124, ...
+Connecting to cdn.rohde-schwarz.com (cdn.rohde-schwarz.com)|13.227.170.27|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84281 (82K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 60% 10.4M 0s
+    50K .......... .......... .......... ..                   100% 14.2M=0.06s
+
+2020-03-02 06:10:54 (11.6 Mb/s) - ‘/dev/null’ saved [84281/84281]
+

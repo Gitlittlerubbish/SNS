@@ -1,0 +1,20 @@
+--2020-03-02 04:00:12--  http://www.salching.de/benutzungssatzung
+Resolving www.salching.de (www.salching.de)... 5.35.225.83
+Connecting to www.salching.de (www.salching.de)|5.35.225.83|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.salching.de/benutzungssatzung [following]
+--2020-03-02 04:00:13--  https://www.salching.de/benutzungssatzung
+Connecting to www.salching.de (www.salching.de)|5.35.225.83|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 264218 (258K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 22.3M 0s
+    50K .......... .......... .......... .......... .......... 38% 24.7M 0s
+   100K .......... .......... .......... .......... .......... 58%  117M 0s
+   150K .......... .......... .......... .......... .......... 77%  139M 0s
+   200K .......... .......... .......... .......... .......... 96% 30.5M 0s
+   250K ........                                              100% 4.04M=0.07s
+
+2020-03-02 04:00:13 (29.7 Mb/s) - ‘/dev/null’ saved [264218/264218]
+

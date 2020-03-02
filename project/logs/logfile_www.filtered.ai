@@ -1,0 +1,15 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 22:42:13--  https://www.filtered.ai/assets/evidence_for_the_support_of_a_content_valid_assessment_of_coding.pdf
+Resolving www.filtered.ai (www.filtered.ai)... 104.20.85.4, 104.20.84.4
+Connecting to www.filtered.ai (www.filtered.ai)|104.20.85.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184078 (180K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27%  178M 0s
+    50K .......... .......... .......... .......... .......... 55%  337M 0s
+   100K .......... .......... .......... .......... .......... 83%  433M 0s
+   150K .......... .......... .........                       100%  325M=0.005s
+
+2020-03-01 22:42:14 (282 Mb/s) - ‘/dev/null’ saved [184078/184078]
+

@@ -1,0 +1,36 @@
+--2020-03-02 04:37:42--  http://veszpreminfo.hu/resources/downloadfile/852808
+Resolving veszpreminfo.hu (veszpreminfo.hu)... 213.136.73.45
+Connecting to veszpreminfo.hu (veszpreminfo.hu)|213.136.73.45|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://veszpreminfo.hu/resources/downloadfile/852808 [following]
+--2020-03-02 04:37:42--  https://veszpreminfo.hu/resources/downloadfile/852808
+Connecting to veszpreminfo.hu (veszpreminfo.hu)|213.136.73.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.7M
+    50K .......... .......... .......... .......... .......... 24.0M
+   100K .......... .......... .......... .......... ..........  149M
+   150K .......... .......... .......... .......... .          81.6M=0.06s
+
+2020-03-02 04:37:42 (25.2 Mb/s) - ‘/dev/null’ saved [195850]
+
+--2020-03-02 04:37:48--  http://veszpreminfo.hu/resources/downloadfile/852808
+Resolving veszpreminfo.hu (veszpreminfo.hu)... 213.136.73.45
+Connecting to veszpreminfo.hu (veszpreminfo.hu)|213.136.73.45|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://veszpreminfo.hu/resources/downloadfile/852808 [following]
+--2020-03-02 04:37:48--  https://veszpreminfo.hu/resources/downloadfile/852808
+Connecting to veszpreminfo.hu (veszpreminfo.hu)|213.136.73.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11.1M
+    50K .......... .......... .......... .......... .......... 20.6M
+   100K .......... .......... .......... .......... ..........  122M
+   150K .......... .......... .......... .......... .           190M=0.06s
+
+2020-03-02 04:37:48 (25.3 Mb/s) - ‘/dev/null’ saved [195850]
+

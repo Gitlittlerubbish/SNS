@@ -1,0 +1,12 @@
+--2020-03-02 07:35:19--  http://radio7.fm/files/Regulamin_wiadomosci_SMS.pdf
+Resolving radio7.fm (radio7.fm)... 88.198.236.224
+Connecting to radio7.fm (radio7.fm)|88.198.236.224|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57193 (56K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 89% 9.51M 0s
+    50K .....                                                 100%  959K=0.04s
+
+2020-03-02 07:35:19 (10.6 Mb/s) - ‘/dev/null’ saved [57193/57193]
+

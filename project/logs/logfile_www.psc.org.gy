@@ -1,0 +1,14 @@
+--2020-03-02 04:17:51--  http://www.psc.org.gy/press/BrochurePSC.pdf
+Resolving www.psc.org.gy (www.psc.org.gy)... 184.154.22.45
+Connecting to www.psc.org.gy (www.psc.org.gy)|184.154.22.45|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159827 (156K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 1.99M 0s
+    50K .......... .......... .......... .......... .......... 64% 3.95M 0s
+   100K .......... .......... .......... .......... .......... 96% 4.01M 0s
+   150K ......                                                100%  541M=0.4s
+
+2020-03-02 04:17:52 (3.10 Mb/s) - ‘/dev/null’ saved [159827/159827]
+

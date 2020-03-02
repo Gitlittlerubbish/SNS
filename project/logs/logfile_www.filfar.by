@@ -1,0 +1,14 @@
+--2020-03-02 00:13:46--  http://www.filfar.by/PDF/leuze/426527.pdf
+Resolving www.filfar.by (www.filfar.by)... 178.172.136.58
+Connecting to www.filfar.by (www.filfar.by)|178.172.136.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196165 (192K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 5.31M 0s
+    50K .......... .......... .......... .......... .......... 52% 10.8M 0s
+   100K .......... .......... .......... .......... .......... 78%  103M 0s
+   150K .......... .......... .......... .......... .         100%  193M=0.1s
+
+2020-03-02 00:13:46 (13.0 Mb/s) - ‘/dev/null’ saved [196165/196165]
+

@@ -1,0 +1,16 @@
+--2020-03-02 08:13:28--  http://www.mcit.gov.np/upload/documents/Brunei_statement_final_1438151873.pdf
+Resolving www.mcit.gov.np (www.mcit.gov.np)... 202.45.147.163
+Connecting to www.mcit.gov.np (www.mcit.gov.np)|202.45.147.163|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://mocit.gov.np/upload/documents/Brunei_statement_final_1438151873.pdf [following]
+--2020-03-02 08:13:29--  https://mocit.gov.np/upload/documents/Brunei_statement_final_1438151873.pdf
+Resolving mocit.gov.np (mocit.gov.np)... 202.45.147.163
+Connecting to mocit.gov.np (mocit.gov.np)|202.45.147.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                   86.7M=0.003s
+
+2020-03-02 08:13:31 (86.7 Mb/s) - ‘/dev/null’ saved [34112]
+

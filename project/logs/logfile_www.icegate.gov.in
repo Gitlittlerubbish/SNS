@@ -1,0 +1,24 @@
+--2020-03-02 04:45:40--  http://www.icegate.gov.in/Download/Message_Implementation_Guide_V1_TradeVersion.pdf
+Resolving www.icegate.gov.in (www.icegate.gov.in)... 203.200.100.35
+Connecting to www.icegate.gov.in (www.icegate.gov.in)|203.200.100.35|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.icegate.gov.in/Download/Message_Implementation_Guide_V1_TradeVersion.pdf [following]
+--2020-03-02 04:45:41--  https://www.icegate.gov.in/Download/Message_Implementation_Guide_V1_TradeVersion.pdf
+Connecting to www.icegate.gov.in (www.icegate.gov.in)|203.200.100.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 503514 (492K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 2.83M 1s
+    50K .......... .......... .......... .......... .......... 20% 2.83M 1s
+   100K .......... .......... .......... .......... .......... 30% 2.90M 1s
+   150K .......... .......... .......... .......... .......... 40% 2.83M 1s
+   200K .......... .......... .......... .......... .......... 50%  179M 1s
+   250K .......... .......... .......... .......... .......... 61% 2.85M 0s
+   300K .......... .......... .......... .......... .......... 71% 2.82M 0s
+   350K .......... .......... .......... .......... .......... 81% 2.83M 0s
+   400K .......... .......... .......... .......... .......... 91% 3.03M 0s
+   450K .......... .......... .......... .......... .         100% 31.0M=1.2s
+
+2020-03-02 04:45:43 (3.48 Mb/s) - ‘/dev/null’ saved [503514/503514]
+

@@ -1,0 +1,17 @@
+--2020-03-02 02:55:59--  http://www.pharmatheka-consult.hr/razno/RED_VOZNJE_linija_176_03_09_2012.pdf
+Resolving www.pharmatheka-consult.hr (www.pharmatheka-consult.hr)... 195.78.33.85
+Connecting to www.pharmatheka-consult.hr (www.pharmatheka-consult.hr)|195.78.33.85|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pharmatheka-consult.hr/razno/RED_VOZNJE_linija_176_03_09_2012.pdf [following]
+--2020-03-02 02:55:59--  https://www.pharmatheka-consult.hr/razno/RED_VOZNJE_linija_176_03_09_2012.pdf
+Connecting to www.pharmatheka-consult.hr (www.pharmatheka-consult.hr)|195.78.33.85|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121679 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 4.96M 0s
+    50K .......... .......... .......... .......... .......... 84% 10.5M 0s
+   100K .......... ........                                   100%  771M=0.1s
+
+2020-03-02 02:55:59 (7.98 Mb/s) - ‘/dev/null’ saved [121679/121679]
+

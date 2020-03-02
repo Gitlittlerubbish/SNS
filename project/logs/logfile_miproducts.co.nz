@@ -1,0 +1,43 @@
+--2020-03-02 08:28:53--  http://miproducts.co.nz/link-8557.htm
+Resolving miproducts.co.nz (miproducts.co.nz)... 202.89.35.82
+Connecting to miproducts.co.nz (miproducts.co.nz)|202.89.35.82|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://miproducts.co.nz/link-8557.htm [following]
+--2020-03-02 08:28:53--  https://miproducts.co.nz/link-8557.htm
+Connecting to miproducts.co.nz (miproducts.co.nz)|202.89.35.82|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Syntax error in Set-Cookie: miproducts - comprehensive online database of New Zealand building products=86b4dada-1ac8-46e4-bcec-08e71e9ad3d3; path=/ at position 0.
+Location: http://www.mapei.com/public/COM/products/2801_ultracolorplus_gb.pdf [following]
+--2020-03-02 08:28:55--  http://www.mapei.com/public/COM/products/2801_ultracolorplus_gb.pdf
+Resolving www.mapei.com (www.mapei.com)... 8.238.6.124, 8.250.37.252, 8.247.207.252
+Connecting to www.mapei.com (www.mapei.com)|8.238.6.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.mapei.com/public/COM/products/2801-ultracolorplus-gb.pdf [following]
+--2020-03-02 08:28:55--  http://www.mapei.com/public/COM/products/2801-ultracolorplus-gb.pdf
+Reusing existing connection to www.mapei.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 944807 (923K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 10.1M 1s
+    50K .......... .......... .......... .......... .......... 10% 27.7M 0s
+   100K .......... .......... .......... .......... .......... 16% 75.7M 0s
+   150K .......... .......... .......... .......... .......... 21% 14.7M 0s
+   200K .......... .......... .......... .......... .......... 27% 21.1M 0s
+   250K .......... .......... .......... .......... .......... 32% 54.4M 0s
+   300K .......... .......... .......... .......... .......... 37%  176M 0s
+   350K .......... .......... .......... .......... .......... 43%  148M 0s
+   400K .......... .......... .......... .......... .......... 48% 36.7M 0s
+   450K .......... .......... .......... .......... .......... 54% 57.2M 0s
+   500K .......... .......... .......... .......... .......... 59% 65.6M 0s
+   550K .......... .......... .......... .......... .......... 65%  183M 0s
+   600K .......... .......... .......... .......... .......... 70% 23.5M 0s
+   650K .......... .......... .......... .......... .......... 75%  520M 0s
+   700K .......... .......... .......... .......... .......... 81%  227M 0s
+   750K .......... .......... .......... .......... .......... 86%  101M 0s
+   800K .......... .......... .......... .......... .......... 92%  198M 0s
+   850K .......... .......... .......... .......... .......... 97% 21.0M 0s
+   900K .......... .......... ..                              100%  127M=0.2s
+
+2020-03-02 08:28:55 (38.8 Mb/s) - ‘/dev/null’ saved [944807/944807]
+

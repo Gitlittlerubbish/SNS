@@ -1,0 +1,11 @@
+--2020-03-02 01:29:57--  http://www.pmo.gov.bn/Circulars%2520PDF%2520Library/jpmsk04_2017.pdf
+Resolving www.pmo.gov.bn (www.pmo.gov.bn)... 103.4.188.86
+Connecting to www.pmo.gov.bn (www.pmo.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                  139K=0.4s
+
+2020-03-02 01:29:59 (139 Kb/s) - ‘/dev/null’ saved [7092]
+

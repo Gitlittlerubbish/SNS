@@ -1,0 +1,19 @@
+--2020-03-02 03:04:51--  http://dengroennekaravane.dk/dokumenter/fuglekasse_konstruktionsskitser.pdf
+Resolving dengroennekaravane.dk (dengroennekaravane.dk)... 138.197.181.55
+Connecting to dengroennekaravane.dk (dengroennekaravane.dk)|138.197.181.55|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://dengroennekaravane.dk/dokumenter/fuglekasse_konstruktionsskitser.pdf [following]
+--2020-03-02 03:04:51--  https://dengroennekaravane.dk/dokumenter/fuglekasse_konstruktionsskitser.pdf
+Connecting to dengroennekaravane.dk (dengroennekaravane.dk)|138.197.181.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226756 (221K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 24.1M 0s
+    50K .......... .......... .......... .......... .......... 45% 31.9M 0s
+   100K .......... .......... .......... .......... .......... 67%  134M 0s
+   150K .......... .......... .......... .......... .......... 90%  199M 0s
+   200K .......... .......... .                               100% 14.0M=0.05s
+
+2020-03-02 03:04:51 (38.2 Mb/s) - ‘/dev/null’ saved [226756/226756]
+

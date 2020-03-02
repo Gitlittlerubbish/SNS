@@ -1,0 +1,12 @@
+--2020-03-02 02:21:43--  http://wargame.dyns.cx/docs/copyright.pdf
+Resolving wargame.dyns.cx (wargame.dyns.cx)... 218.161.2.158
+Connecting to wargame.dyns.cx (wargame.dyns.cx)|218.161.2.158|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78230 (76K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65%  315K 1s
+    50K .......... .......... ......                          100% 1.04M=1.5s
+
+2020-03-02 02:21:48 (415 Kb/s) - ‘/dev/null’ saved [78230/78230]
+

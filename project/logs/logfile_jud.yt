@@ -1,0 +1,13 @@
+--2020-03-02 07:27:17--  http://jud.yt/resume.pdf
+Resolving jud.yt (jud.yt)... 192.30.252.154
+Connecting to jud.yt (jud.yt)|192.30.252.154|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149449 (146K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 2.66M 0s
+    50K .......... .......... .......... .......... .......... 68% 5.22M 0s
+   100K .......... .......... .......... .......... .....     100%  160M=0.2s
+
+2020-03-02 07:27:18 (5.10 Mb/s) - ‘/dev/null’ saved [149449/149449]
+

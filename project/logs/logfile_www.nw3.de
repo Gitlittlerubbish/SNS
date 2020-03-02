@@ -1,0 +1,13 @@
+--2020-03-02 04:00:35--  http://www.nw3.de/dokum/luftverkehr.pdf
+Resolving www.nw3.de (www.nw3.de)... 217.160.0.248
+Connecting to www.nw3.de (www.nw3.de)|217.160.0.248|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110185 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 11.0M 0s
+    50K .......... .......... .......... .......... .......... 92% 23.4M 0s
+   100K .......                                               100% 59.6M=0.06s
+
+2020-03-02 04:00:35 (15.8 Mb/s) - ‘/dev/null’ saved [110185/110185]
+

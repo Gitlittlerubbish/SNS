@@ -1,0 +1,17 @@
+--2020-03-02 05:08:34--  http://piemontevda.lnd.it/cu_30_novara_20_02_2020/30no_gare_del_29_febbraio_1_marzo_2020/
+Resolving piemontevda.lnd.it (piemontevda.lnd.it)... 193.70.104.208
+Connecting to piemontevda.lnd.it (piemontevda.lnd.it)|193.70.104.208|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://piemontevda.lnd.it/wp-content/uploads/2020/02/30NO_GARE_DEL_29_FEBBRAIO_1_MARZO_2020.pdf [following]
+--2020-03-02 05:08:35--  https://piemontevda.lnd.it/wp-content/uploads/2020/02/30NO_GARE_DEL_29_FEBBRAIO_1_MARZO_2020.pdf
+Connecting to piemontevda.lnd.it (piemontevda.lnd.it)|193.70.104.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141603 (138K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 28.6M 0s
+    50K .......... .......... .......... .......... .......... 72% 67.8M 0s
+   100K .......... .......... .......... ........             100%  118M=0.02s
+
+2020-03-02 05:08:36 (49.2 Mb/s) - ‘/dev/null’ saved [141603/141603]
+

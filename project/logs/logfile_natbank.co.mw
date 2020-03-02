@@ -1,0 +1,12 @@
+--2020-03-02 06:58:58--  http://natbank.co.mw/ftped_documents/ratestodayJanuary1720200751.pdf
+Resolving natbank.co.mw (natbank.co.mw)... 207.45.178.29
+Connecting to natbank.co.mw (natbank.co.mw)|207.45.178.29|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93470 (91K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54% 2.25M 0s
+    50K .......... .......... .......... .......... .         100% 3.73M=0.3s
+
+2020-03-02 06:58:59 (2.74 Mb/s) - ‘/dev/null’ saved [93470/93470]
+

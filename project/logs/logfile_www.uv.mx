@@ -1,0 +1,17 @@
+--2020-03-02 07:28:58--  http://www.uv.mx/personal/lbotello/files/2019/08/pm132d.pdf
+Resolving www.uv.mx (www.uv.mx)... 40.124.12.194
+Connecting to www.uv.mx (www.uv.mx)|40.124.12.194|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uv.mx/personal/lbotello/files/2019/08/pm132d.pdf [following]
+--2020-03-02 07:28:58--  https://www.uv.mx/personal/lbotello/files/2019/08/pm132d.pdf
+Connecting to www.uv.mx (www.uv.mx)|40.124.12.194|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127818 (125K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 1.89M 0s
+    50K .......... .......... .......... .......... .......... 80%  120M 0s
+   100K .......... .......... ....                            100% 1.95M=0.3s
+
+2020-03-02 07:28:59 (3.16 Mb/s) - ‘/dev/null’ saved [127818/127818]
+

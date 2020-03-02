@@ -1,0 +1,13 @@
+--2020-03-02 04:07:40--  http://www.filosofia.gr/vivlia/Wittgenstein-Tractatus.pdf
+Resolving www.filosofia.gr (www.filosofia.gr)... 82.145.47.118
+Connecting to www.filosofia.gr (www.filosofia.gr)|82.145.47.118|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112343 (110K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 36.1M 0s
+    50K .......... .......... .......... .......... .......... 91% 50.0M 0s
+   100K .........                                             100% 36.1M=0.02s
+
+2020-03-02 04:07:40 (41.3 Mb/s) - ‘/dev/null’ saved [112343/112343]
+

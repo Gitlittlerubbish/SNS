@@ -1,0 +1,14 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:37:36--  https://www.rch.org.au/uploadedFiles/Main/Content/kidsinfo/english-worms.pdf
+Resolving www.rch.org.au (www.rch.org.au)... 203.16.41.149
+Connecting to www.rch.org.au (www.rch.org.au)|203.16.41.149|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112951 (110K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  266K 2s
+    50K .......... .......... .......... .......... .......... 90%  446K 0s
+   100K ..........                                            100%  728M=2.5s
+
+2020-03-01 23:37:42 (368 Kb/s) - ‘/dev/null’ saved [112951/112951]
+

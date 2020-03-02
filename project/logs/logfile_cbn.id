@@ -1,0 +1,21 @@
+--2020-03-02 04:46:19--  http://cbn.id/files/panduan-email-cbn_xiaomi.pdf
+Resolving cbn.id (cbn.id)... 103.253.68.37, 202.158.92.206, 103.253.68.114
+Connecting to cbn.id (cbn.id)|103.253.68.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://cbn.id/files/panduan-email-cbn_xiaomi.pdf [following]
+--2020-03-02 04:46:20--  https://cbn.id/files/panduan-email-cbn_xiaomi.pdf
+Connecting to cbn.id (cbn.id)|103.253.68.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 340303 (332K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 1.07M 2s
+    50K .......... .......... .......... .......... .......... 30% 2.15M 1s
+   100K .......... .......... .......... .......... .......... 45% 91.1M 1s
+   150K .......... .......... .......... .......... .......... 60%  185M 0s
+   200K .......... .......... .......... .......... .......... 75% 2.20M 0s
+   250K .......... .......... .......... .......... .......... 90% 88.3M 0s
+   300K .......... .......... .......... ..                   100%  504M=0.8s
+
+2020-03-02 04:46:21 (3.53 Mb/s) - ‘/dev/null’ saved [340303/340303]
+

@@ -1,0 +1,15 @@
+--2020-03-02 03:32:21--  http://www.swedbank.ee/rahaasjadkorda/pere_eelarve_A4.pdf
+Resolving www.swedbank.ee (www.swedbank.ee)... 193.203.196.77
+Connecting to www.swedbank.ee (www.swedbank.ee)|193.203.196.77|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.swedbank.ee/rahaasjadkorda/pere_eelarve_A4.pdf [following]
+--2020-03-02 03:32:21--  https://www.swedbank.ee/rahaasjadkorda/pere_eelarve_A4.pdf
+Connecting to www.swedbank.ee (www.swedbank.ee)|193.203.196.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36208 (35K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .....                100% 74.3M=0.004s
+
+2020-03-02 03:32:22 (74.3 Mb/s) - ‘/dev/null’ saved [36208/36208]
+

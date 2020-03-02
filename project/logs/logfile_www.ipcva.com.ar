@@ -1,0 +1,14 @@
+--2020-03-01 23:13:36--  http://www.ipcva.com.ar/files/cortes.pdf
+Resolving www.ipcva.com.ar (www.ipcva.com.ar)... 167.99.3.198
+Connecting to www.ipcva.com.ar (www.ipcva.com.ar)|167.99.3.198|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 168851 (165K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 2.75M 0s
+    50K .......... .......... .......... .......... .......... 60% 5.62M 0s
+   100K .......... .......... .......... .......... .......... 90% 73.7M 0s
+   150K .......... ....                                       100% 1.17G=0.2s
+
+2020-03-01 23:13:37 (5.94 Mb/s) - ‘/dev/null’ saved [168851/168851]
+

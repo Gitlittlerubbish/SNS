@@ -1,0 +1,50 @@
+--2020-03-01 23:34:19--  http://immi.homeaffairs.gov.au/form-listing/forms/80.pdf
+Resolving immi.homeaffairs.gov.au (immi.homeaffairs.gov.au)... 164.97.249.143
+Connecting to immi.homeaffairs.gov.au (immi.homeaffairs.gov.au)|164.97.249.143|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://immi.homeaffairs.gov.au/form-listing/forms/80.pdf [following]
+--2020-03-01 23:34:20--  https://immi.homeaffairs.gov.au/form-listing/forms/80.pdf
+Connecting to immi.homeaffairs.gov.au (immi.homeaffairs.gov.au)|164.97.249.143|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 567201 (554K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9%  632K 7s
+    50K .......... .......... .......... .......... .......... 18%  501K 7s
+   100K .......... .......... .......... .......... .......... 27%  254M 4s
+   150K .......... .......... .......... .......... .......... 36% 1.28M 3s
+   200K .......... .......... .......... .......... .......... 45%  817K 3s
+   250K .......... .......... .......... .......... .......... 54%  998K 2s
+   300K .......... .......... .......... .......... .......... 63%  601M 2s
+   350K .......... .......... .......... .......... .......... 72% 1.29M 1s
+   400K .......... .......... .......... .......... .......... 81% 1.04M 1s
+   450K .......... .......... .......... .......... .......... 90% 1.00M 0s
+   500K .......... .......... .......... .......... .......... 99%  152M 0s
+   550K ...                                                   100%  711M=3.8s
+
+2020-03-01 23:34:25 (1.19 Mb/s) - ‘/dev/null’ saved [567201/567201]
+
+--2020-03-01 23:34:25--  http://immi.homeaffairs.gov.au/form-listing/forms/1419.pdf
+Resolving immi.homeaffairs.gov.au (immi.homeaffairs.gov.au)... 164.97.249.143
+Connecting to immi.homeaffairs.gov.au (immi.homeaffairs.gov.au)|164.97.249.143|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://immi.homeaffairs.gov.au/form-listing/forms/1419.pdf [following]
+--2020-03-01 23:34:26--  https://immi.homeaffairs.gov.au/form-listing/forms/1419.pdf
+Connecting to immi.homeaffairs.gov.au (immi.homeaffairs.gov.au)|164.97.249.143|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 469691 (459K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.30M 3s
+    50K .......... .......... .......... .......... .......... 21% 1.02M 3s
+   100K .......... .......... .......... .......... .......... 32% 1.29M 2s
+   150K .......... .......... .......... .......... .......... 43%  160M 1s
+   200K .......... .......... .......... .......... .......... 54% 1.19M 1s
+   250K .......... .......... .......... .......... .......... 65% 1.14M 1s
+   300K .......... .......... .......... .......... .......... 76%  499K 1s
+   350K .......... .......... .......... .......... .......... 87% 1.01M 0s
+   400K .......... .......... .......... .......... .......... 98%  572K 0s
+   450K ........                                              100%  818M=3.7s
+
+2020-03-01 23:34:31 (1.02 Mb/s) - ‘/dev/null’ saved [469691/469691]
+

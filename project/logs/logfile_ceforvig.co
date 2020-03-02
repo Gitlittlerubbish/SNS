@@ -1,0 +1,21 @@
+--2020-03-02 02:31:01--  http://ceforvig.co/wp-content/uploads/2019/10/GESTION_PROCESOS.pdf
+Resolving ceforvig.co (ceforvig.co)... 51.79.120.24
+Connecting to ceforvig.co (ceforvig.co)|51.79.120.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ceforvig.co/wp-content/uploads/2019/10/GESTION_PROCESOS.pdf [following]
+--2020-03-02 02:31:01--  https://ceforvig.co/wp-content/uploads/2019/10/GESTION_PROCESOS.pdf
+Connecting to ceforvig.co (ceforvig.co)|51.79.120.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 312177 (305K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 5.06M 0s
+    50K .......... .......... .......... .......... .......... 32% 5.07M 0s
+   100K .......... .......... .......... .......... .......... 49%  136M 0s
+   150K .......... .......... .......... .......... .......... 65% 5.37M 0s
+   200K .......... .......... .......... .......... .......... 82%  109M 0s
+   250K .......... .......... .......... .......... .......... 98%  154M 0s
+   300K ....                                                  100%  603M=0.2s
+
+2020-03-02 02:31:02 (10.1 Mb/s) - ‘/dev/null’ saved [312177/312177]
+

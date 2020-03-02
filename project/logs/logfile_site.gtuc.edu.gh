@@ -1,0 +1,20 @@
+--2020-03-02 04:04:48--  http://site.gtuc.edu.gh/academic-calender-for-2019-2020/
+Resolving site.gtuc.edu.gh (site.gtuc.edu.gh)... 162.144.122.27
+Connecting to site.gtuc.edu.gh (site.gtuc.edu.gh)|162.144.122.27|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://site.gtuc.edu.gh/academic-calender-for-2019-2020/ [following]
+--2020-03-02 04:04:49--  https://site.gtuc.edu.gh/academic-calender-for-2019-2020/
+Connecting to site.gtuc.edu.gh (site.gtuc.edu.gh)|162.144.122.27|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://site.gtuc.edu.gh/wp-content/uploads/gtuc/external/ACADEMIC-CALENDER-FOR-2019-2020.pdf [following]
+--2020-03-02 04:04:50--  https://site.gtuc.edu.gh/wp-content/uploads/gtuc/external/ACADEMIC-CALENDER-FOR-2019-2020.pdf
+Reusing existing connection to site.gtuc.edu.gh:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 98997 (97K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 1.24M 0s
+    50K .......... .......... .......... .......... ......    100% 2.37M=0.5s
+
+2020-03-02 04:04:51 (1.61 Mb/s) - ‘/dev/null’ saved [98997/98997]
+

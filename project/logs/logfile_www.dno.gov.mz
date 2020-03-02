@@ -1,0 +1,12 @@
+--2020-03-02 07:58:02--  http://www.dno.gov.mz/docs/legislacao_interna/orgaos_locais/Lei_OrgaosLocaisEstado.pdf
+Resolving www.dno.gov.mz (www.dno.gov.mz)... 197.249.4.247
+Connecting to www.dno.gov.mz (www.dno.gov.mz)|197.249.4.247|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60531 (59K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 84%  180K 0s
+    50K .........                                             100%  426K=2.5s
+
+2020-03-02 07:58:06 (197 Kb/s) - ‘/dev/null’ saved [60531/60531]
+

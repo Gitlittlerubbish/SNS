@@ -1,0 +1,16 @@
+--2020-03-02 06:29:24--  http://www.farmaline.lu/notices/notice_relaxine-30-comprimes.pdf
+Resolving www.farmaline.lu (www.farmaline.lu)... 104.28.15.139, 104.28.14.139
+Connecting to www.farmaline.lu (www.farmaline.lu)|104.28.15.139|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.farmaline.lu/notices/notice_relaxine-30-comprimes.pdf [following]
+--2020-03-02 06:29:24--  https://www.farmaline.lu/notices/notice_relaxine-30-comprimes.pdf
+Connecting to www.farmaline.lu (www.farmaline.lu)|104.28.15.139|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75168 (73K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68% 26.8M 0s
+    50K .......... .......... ...                             100%  308M=0.02s
+
+2020-03-02 06:29:24 (37.7 Mb/s) - ‘/dev/null’ saved [75168/75168]
+

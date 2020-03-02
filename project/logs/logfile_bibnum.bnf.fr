@@ -1,0 +1,13 @@
+--2020-03-02 03:47:04--  http://bibnum.bnf.fr/WARC/WARC_ISO_28500_version1_latestdraft.pdf
+Resolving bibnum.bnf.fr (bibnum.bnf.fr)... 194.199.8.24
+Connecting to bibnum.bnf.fr (bibnum.bnf.fr)|194.199.8.24|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152229 (149K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 4.65M 0s
+    50K .......... .......... .......... .......... .......... 67% 13.9M 0s
+   100K .......... .......... .......... .......... ........  100% 14.0M=0.1s
+
+2020-03-02 03:47:05 (8.34 Mb/s) - ‘/dev/null’ saved [152229/152229]
+

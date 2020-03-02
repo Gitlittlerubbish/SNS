@@ -1,0 +1,14 @@
+--2020-03-02 07:34:53--  http://electron.fm/docs/oferta.pdf
+Resolving electron.fm (electron.fm)... 109.235.186.251
+Connecting to electron.fm (electron.fm)|109.235.186.251|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179989 (176K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 2.74M 0s
+    50K .......... .......... .......... .......... .......... 56% 5.60M 0s
+   100K .......... .......... .......... .......... .......... 85% 66.3M 0s
+   150K .......... .......... .....                           100%  230M=0.2s
+
+2020-03-02 07:34:53 (6.27 Mb/s) - ‘/dev/null’ saved [179989/179989]
+

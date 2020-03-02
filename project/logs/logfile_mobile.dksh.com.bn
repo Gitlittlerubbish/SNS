@@ -1,0 +1,18 @@
+--2020-03-02 01:29:42--  http://mobile.dksh.com.bn/cs/dksh_gb/downloads/1412909556788/dksh_uk_tax_strategy_21march2018_final_6.pdf
+Resolving mobile.dksh.com.bn (mobile.dksh.com.bn)... 132.145.234.191
+Connecting to mobile.dksh.com.bn (mobile.dksh.com.bn)|132.145.234.191|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.dksh.com/global-en/home [following]
+--2020-03-02 01:29:43--  https://www.dksh.com/global-en/home
+Resolving www.dksh.com (www.dksh.com)... 13.224.130.45, 13.224.130.73, 13.224.130.107, ...
+Connecting to www.dksh.com (www.dksh.com)|13.224.130.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62.0M
+    50K .......... .......... .......... .......... .......... 81.2M
+   100K ....                                                    337M=0.01s
+
+2020-03-02 01:29:43 (73.0 Mb/s) - ‘/dev/null’ saved [107406]
+

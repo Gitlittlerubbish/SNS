@@ -1,0 +1,28 @@
+--2020-03-01 22:39:51--  http://waa.ai/vc8u
+Resolving waa.ai (waa.ai)... 104.24.112.128, 104.24.113.128
+Connecting to waa.ai (waa.ai)|104.24.112.128|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://waa.ai/vc8u [following]
+--2020-03-01 22:39:51--  https://waa.ai/vc8u
+Connecting to waa.ai (waa.ai)|104.24.112.128|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.mhlw.go.jp/file/06-Seisakujouhou-12400000-Hokenkyoku/nenrei_h22.pdf [following]
+--2020-03-01 22:39:51--  http://www.mhlw.go.jp/file/06-Seisakujouhou-12400000-Hokenkyoku/nenrei_h22.pdf
+Resolving www.mhlw.go.jp (www.mhlw.go.jp)... 23.36.211.40
+Connecting to www.mhlw.go.jp (www.mhlw.go.jp)|23.36.211.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mhlw.go.jp/file/06-Seisakujouhou-12400000-Hokenkyoku/nenrei_h22.pdf [following]
+--2020-03-01 22:39:51--  https://www.mhlw.go.jp/file/06-Seisakujouhou-12400000-Hokenkyoku/nenrei_h22.pdf
+Connecting to www.mhlw.go.jp (www.mhlw.go.jp)|23.36.211.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 233604 (228K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 44.9M 0s
+    50K .......... .......... .......... .......... .......... 43% 44.6M 0s
+   100K .......... .......... .......... .......... .......... 65%  133M 0s
+   150K .......... .......... .......... .......... .......... 87%  207M 0s
+   200K .......... .......... ........                        100%  113M=0.03s
+
+2020-03-01 22:39:52 (73.5 Mb/s) - ‘/dev/null’ saved [233604/233604]
+

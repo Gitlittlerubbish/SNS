@@ -1,0 +1,13 @@
+--2020-03-02 06:17:55--  http://www.cc.gov.lb/sites/default/files/constitution_ar.pdf
+Resolving www.cc.gov.lb (www.cc.gov.lb)... 88.202.181.98
+Connecting to www.cc.gov.lb (www.cc.gov.lb)|88.202.181.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107122 (105K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 56.4M 0s
+    50K .......... .......... .......... .......... .......... 95% 74.8M 0s
+   100K ....                                                  100% 50.3M=0.01s
+
+2020-03-02 06:17:55 (63.5 Mb/s) - ‘/dev/null’ saved [107122/107122]
+

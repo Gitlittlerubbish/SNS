@@ -1,0 +1,13 @@
+--2020-03-02 01:48:49--  http://armp.cm/DocumentsReglementations/ARRETE_016_PM_01_02_16.pdf
+Resolving armp.cm (armp.cm)... 142.4.205.94
+Connecting to armp.cm (armp.cm)|142.4.205.94|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109200 (107K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 2.56M 0s
+    50K .......... .......... .......... .......... .......... 93% 4.92M 0s
+   100K ......                                                100%  346M=0.2s
+
+2020-03-02 01:48:50 (3.59 Mb/s) - ‘/dev/null’ saved [109200/109200]
+

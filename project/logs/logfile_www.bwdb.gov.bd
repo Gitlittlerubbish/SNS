@@ -1,0 +1,17 @@
+--2020-03-02 00:06:18--  http://www.bwdb.gov.bd/archive/pdf/198.pdf
+Resolving www.bwdb.gov.bd (www.bwdb.gov.bd)... 202.79.16.200
+Connecting to www.bwdb.gov.bd (www.bwdb.gov.bd)|202.79.16.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bwdb.gov.bd/archive/pdf/198.pdf [following]
+--2020-03-02 00:06:19--  https://www.bwdb.gov.bd/archive/pdf/198.pdf
+Connecting to www.bwdb.gov.bd (www.bwdb.gov.bd)|202.79.16.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 126364 (123K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40%  256K 2s
+    50K .......... .......... .......... .......... .......... 81%  427K 1s
+   100K .......... .......... ...                             100% 1.71M=2.7s
+
+2020-03-02 00:06:24 (378 Kb/s) - ‘/dev/null’ saved [126364/126364]
+

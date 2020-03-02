@@ -1,0 +1,13 @@
+--2020-03-02 01:02:30--  http://www.djeca.rs.ba/uploaded/2011_PRAVILNIK_IZVAN_RS.pdf
+Resolving www.djeca.rs.ba (www.djeca.rs.ba)... 217.23.192.171
+Connecting to www.djeca.rs.ba (www.djeca.rs.ba)|217.23.192.171|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145521 (142K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 5.22M 0s
+    50K .......... .......... .......... .......... .......... 70% 11.0M 0s
+   100K .......... .......... .......... .......... ..        100%  198M=0.1s
+
+2020-03-02 01:02:31 (9.92 Mb/s) - ‘/dev/null’ saved [145521/145521]
+

@@ -1,0 +1,15 @@
+--2020-03-02 04:34:37--  http://www.td.gov.hk/tc/traffic_notices/index_id_57692.html
+Resolving www.td.gov.hk (www.td.gov.hk)... 104.16.58.26, 104.16.59.26
+Connecting to www.td.gov.hk (www.td.gov.hk)|104.16.58.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.td.gov.hk/tc/traffic_notices/index_id_57692.html [following]
+--2020-03-02 04:34:37--  https://www.td.gov.hk/tc/traffic_notices/index_id_57692.html
+Connecting to www.td.gov.hk (www.td.gov.hk)|104.16.58.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                   135M=0s
+
+2020-03-02 04:34:38 (135 Mb/s) - ‘/dev/null’ saved [5248]
+

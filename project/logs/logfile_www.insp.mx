@@ -1,0 +1,30 @@
+--2020-03-02 07:28:51--  http://www.insp.mx/transparencia/XIV/leyes_federales/refcns/pdfsrcs/37.pdf
+Resolving www.insp.mx (www.insp.mx)... 201.131.58.18
+Connecting to www.insp.mx (www.insp.mx)|201.131.58.18|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.insp.mx/transparencia/XIV/leyes_federales/refcns/pdfsrcs/37.pdf [following]
+--2020-03-02 07:28:52--  https://www.insp.mx/transparencia/XIV/leyes_federales/refcns/pdfsrcs/37.pdf
+Connecting to www.insp.mx (www.insp.mx)|201.131.58.18|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 31484 (31K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..........                      100% 1.49M=0.2s
+
+2020-03-02 07:28:53 (1.49 Mb/s) - ‘/dev/null’ saved [31484/31484]
+
+--2020-03-02 07:28:53--  http://www.insp.mx/transparencia/XIV/leyes_federales/refcns/pdfsrcs/127.pdf
+Resolving www.insp.mx (www.insp.mx)... 201.131.58.18
+Connecting to www.insp.mx (www.insp.mx)|201.131.58.18|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.insp.mx/transparencia/XIV/leyes_federales/refcns/pdfsrcs/127.pdf [following]
+--2020-03-02 07:28:54--  https://www.insp.mx/transparencia/XIV/leyes_federales/refcns/pdfsrcs/127.pdf
+Connecting to www.insp.mx (www.insp.mx)|201.131.58.18|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28452 (28K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......                         100% 1.36M=0.2s
+
+2020-03-02 07:28:55 (1.36 Mb/s) - ‘/dev/null’ saved [28452/28452]
+

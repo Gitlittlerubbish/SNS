@@ -1,0 +1,13 @@
+--2020-03-02 04:13:25--  http://www.bvnsa.com.gt/wpaginas/noticias/Amara0209.pdf
+Resolving www.bvnsa.com.gt (www.bvnsa.com.gt)... 200.119.133.147, 200.6.237.162
+Connecting to www.bvnsa.com.gt (www.bvnsa.com.gt)|200.119.133.147|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 142321 (139K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 1.44M 1s
+    50K .......... .......... .......... .......... .......... 71%  729K 0s
+   100K .......... .......... .......... ........             100%  759K=1.3s
+
+2020-03-02 04:13:27 (899 Kb/s) - ‘/dev/null’ saved [142321/142321]
+

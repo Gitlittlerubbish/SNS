@@ -1,0 +1,12 @@
+--2020-03-02 02:02:02--  http://cranksgivingj.cf/content/pdf/classification_nl.pdf
+Resolving cranksgivingj.cf (cranksgivingj.cf)... 104.27.148.173, 104.27.149.173
+Connecting to cranksgivingj.cf (cranksgivingj.cf)|104.27.148.173|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 88.9M
+    50K .......... .....                                        654M=0.005s
+
+2020-03-02 02:02:02 (112 Mb/s) - ‘/dev/null’ saved [67049]
+

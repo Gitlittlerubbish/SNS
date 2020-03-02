@@ -1,0 +1,12 @@
+--2020-03-02 05:01:10--  http://www.wtc.ie/images/pdf/Classroom_Management/cm21.pdf
+Resolving www.wtc.ie (www.wtc.ie)... 109.73.160.162
+Connecting to www.wtc.ie (www.wtc.ie)|109.73.160.162|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77719 (76K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65% 38.4M 0s
+    50K .......... .......... .....                           100% 91.0M=0.01s
+
+2020-03-02 05:01:10 (47.8 Mb/s) - ‘/dev/null’ saved [77719/77719]
+

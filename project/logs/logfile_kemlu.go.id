@@ -1,0 +1,54 @@
+--2020-03-02 04:46:22--  http://kemlu.go.id/download/L3NpdGVzL3B1c2F0L0RvY3VtZW50cy9LZWFuZ2dvdGFhbl9JbmRvbmVzaWFfcGFkYV9PSS5wZGY%3D
+Resolving kemlu.go.id (kemlu.go.id)... 203.217.188.25
+Connecting to kemlu.go.id (kemlu.go.id)|203.217.188.25|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://kemlu.go.id/download/L3NpdGVzL3B1c2F0L0RvY3VtZW50cy9LZWFuZ2dvdGFhbl9JbmRvbmVzaWFfcGFkYV9PSS5wZGY%3D [following]
+--2020-03-02 04:46:23--  https://kemlu.go.id/download/L3NpdGVzL3B1c2F0L0RvY3VtZW50cy9LZWFuZ2dvdGFhbl9JbmRvbmVzaWFfcGFkYV9PSS5wZGY%3D
+Connecting to kemlu.go.id (kemlu.go.id)|203.217.188.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  679K
+    50K .......... .......... .......... .......... .......... 1.02M
+   100K .......... .......... .......... .......... ..........  104M
+   150K .......... .......... .......... .......... .......... 2.04M
+   200K .......... .......... .......... .......... .......... 2.01M
+   250K .......... .......... .......... .......... .......... 2.06M
+   300K .......... .......... .......... .......... .......... 75.5M
+   350K .......... .......... .......... .......... .......... 2.02M
+   400K .......... .......... .......... .......... .......... 2.04M
+   450K .......... .......... .......... .......... .......... 2.06M
+   500K .......... .......... .......... .......... .......... 2.06M
+   550K .......... .......... .......... .......... .......... 64.4M
+   600K .......... .......... .......... .......... .......... 2.06M
+   650K .......... ..                                          80.7M=2.6s
+
+2020-03-02 04:46:27 (2.07 Mb/s) - ‘/dev/null’ saved [678846]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 04:46:27--  https://kemlu.go.id/download/L1B1Ymxpc2hpbmdJbWFnZXMvTGlzdHMvRXRjJTIwTWVudS9BbGxJdGVtcy9BU0VBTiUyMFBPTElUSUNBTCUyMFNFQ1VSSVRZJTIwQ09NTVVOSVRZJTIwQkxVRVBSSU5UJTIwMjAyNS5wZGY%3D
+Resolving kemlu.go.id (kemlu.go.id)... 203.217.188.25
+Connecting to kemlu.go.id (kemlu.go.id)|203.217.188.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  515K
+    50K .......... .......... .......... .......... .......... 2.05M
+   100K .......... .......... .......... .......... ..........  109M
+   150K .......... .......... .......... .......... .......... 2.05M
+   200K .......... .......... .......... .......... .......... 2.08M
+   250K .......... .......... .......... .......... .......... 2.02M
+   300K .......... .......... .......... .......... .......... 49.0M
+   350K .......... .......... .......... .......... .......... 2.05M
+   400K .......... .......... .......... .......... .......... 2.09M
+   450K .......... .......... .......... .......... .......... 2.03M
+   500K .......... .......... .......... .......... .......... 2.11M
+   550K .......... .......... .......... .......... .......... 50.3M
+   600K .......... .......... .......... .......... .......... 2.05M
+   650K .......... .......... .......... .......... .......... 2.10M
+   700K .......... .......... .......... .                     47.6M=2.8s
+
+2020-03-02 04:46:30 (2.13 Mb/s) - ‘/dev/null’ saved [748764]
+

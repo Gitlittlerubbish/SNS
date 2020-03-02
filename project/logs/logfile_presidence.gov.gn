@@ -1,0 +1,17 @@
+--2020-03-02 04:15:54--  http://presidence.gov.gn/images/projetdenouvelleconstitution/NouvelleConstitution.pdf
+Resolving presidence.gov.gn (presidence.gov.gn)... 66.70.216.80
+Connecting to presidence.gov.gn (presidence.gov.gn)|66.70.216.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 337363 (329K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 2.49M 1s
+    50K .......... .......... .......... .......... .......... 30% 4.97M 1s
+   100K .......... .......... .......... .......... .......... 45% 89.1M 0s
+   150K .......... .......... .......... .......... .......... 60%  255M 0s
+   200K .......... .......... .......... .......... .......... 75% 5.16M 0s
+   250K .......... .......... .......... .......... .......... 91%  128M 0s
+   300K .......... .......... .........                       100% 82.9M=0.3s
+
+2020-03-02 04:15:55 (7.98 Mb/s) - ‘/dev/null’ saved [337363/337363]
+

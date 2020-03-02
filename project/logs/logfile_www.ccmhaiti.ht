@@ -1,0 +1,12 @@
+--2020-03-02 04:21:16--  http://www.ccmhaiti.ht/telechargement/ccmht/FormDeclarationdesConflitsdInterets.pdf
+Resolving www.ccmhaiti.ht (www.ccmhaiti.ht)... 37.60.254.128
+Connecting to www.ccmhaiti.ht (www.ccmhaiti.ht)|37.60.254.128|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76243 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 67% 1.12M 0s
+    50K .......... .......... ....                            100% 91.8M=0.4s
+
+2020-03-02 04:21:17 (1.66 Mb/s) - ‘/dev/null’ saved [76243/76243]
+

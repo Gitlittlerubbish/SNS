@@ -1,0 +1,13 @@
+--2020-03-02 07:33:04--  http://www.mmc.fm/Datenschutz.pdf
+Resolving www.mmc.fm (www.mmc.fm)... 89.31.143.100
+Connecting to www.mmc.fm (www.mmc.fm)|89.31.143.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109141 (107K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 11.0M 0s
+    50K .......... .......... .......... .......... .......... 93% 20.5M 0s
+   100K ......                                                100%  473M=0.06s
+
+2020-03-02 07:33:04 (15.2 Mb/s) - ‘/dev/null’ saved [109141/109141]
+

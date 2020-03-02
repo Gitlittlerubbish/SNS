@@ -1,0 +1,29 @@
+--2020-03-02 01:51:29--  http://www.downes.ca/post/65426/rd
+Resolving www.downes.ca (www.downes.ca)... 167.99.39.236
+Connecting to www.downes.ca (www.downes.ca)|167.99.39.236|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.downes.ca/post/65426/rd [following]
+--2020-03-02 01:51:29--  https://www.downes.ca/post/65426/rd
+Connecting to www.downes.ca (www.downes.ca)|167.99.39.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.downes.ca/cgi-bin/page.cgi?post=65426&action=rd [following]
+--2020-03-02 01:51:29--  https://www.downes.ca/cgi-bin/page.cgi?post=65426&action=rd
+Reusing existing connection to www.downes.ca:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://sph.uth.edu/content/uploads/2012/01/Competencies-and-Learning-Objectives.pdf [following]
+--2020-03-02 01:51:30--  https://sph.uth.edu/content/uploads/2012/01/Competencies-and-Learning-Objectives.pdf
+Resolving sph.uth.edu (sph.uth.edu)... 129.106.32.235
+Connecting to sph.uth.edu (sph.uth.edu)|129.106.32.235|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 262023 (256K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.17M 1s
+    50K .......... .......... .......... .......... .......... 39% 3.50M 1s
+   100K .......... .......... .......... .......... .......... 58% 3.60M 0s
+   150K .......... .......... .......... .......... .......... 78% 3.53M 0s
+   200K .......... .......... .......... .......... .......... 97%  124M 0s
+   250K .....                                                 100%  964K=0.7s
+
+2020-03-02 01:51:32 (3.00 Mb/s) - ‘/dev/null’ saved [262023/262023]
+

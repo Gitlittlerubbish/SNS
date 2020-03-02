@@ -1,0 +1,17 @@
+--2020-03-02 06:29:31--  http://www.lunchtime.lu/glitter/pdf/events/7_nl.pdf
+Resolving www.lunchtime.lu (www.lunchtime.lu)... 52.18.241.245, 54.154.147.149
+Connecting to www.lunchtime.lu (www.lunchtime.lu)|52.18.241.245|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lunchtime.lu:443/glitter/pdf/events/7_nl.pdf [following]
+--2020-03-02 06:29:31--  https://www.lunchtime.lu/glitter/pdf/events/7_nl.pdf
+Connecting to www.lunchtime.lu (www.lunchtime.lu)|52.18.241.245|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139043 (136K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 26.8M 0s
+    50K .......... .......... .......... .......... .......... 73% 30.2M 0s
+   100K .......... .......... .......... .....                100%  109M=0.03s
+
+2020-03-02 06:29:32 (35.3 Mb/s) - ‘/dev/null’ saved [139043/139043]
+

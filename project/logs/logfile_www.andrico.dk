@@ -1,0 +1,20 @@
+--2020-03-02 03:04:02--  http://www.andrico.dk/grammatik.pdf
+Resolving www.andrico.dk (www.andrico.dk)... 46.36.210.13
+Connecting to www.andrico.dk (www.andrico.dk)|46.36.210.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.andrico.dk/grammatik.pdf [following]
+--2020-03-02 03:04:02--  https://www.andrico.dk/grammatik.pdf
+Connecting to www.andrico.dk (www.andrico.dk)|46.36.210.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 258875 (253K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 4.91M 0s
+    50K .......... .......... .......... .......... .......... 39% 9.87M 0s
+   100K .......... .......... .......... .......... .......... 59%  116M 0s
+   150K .......... .......... .......... .......... .......... 79% 10.4M 0s
+   200K .......... .......... .......... .......... .......... 98% 37.9M 0s
+   250K ..                                                    100%  460K=0.2s
+
+2020-03-02 03:04:03 (11.6 Mb/s) - ‘/dev/null’ saved [258875/258875]
+

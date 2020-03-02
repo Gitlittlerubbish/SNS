@@ -1,0 +1,15 @@
+--2020-03-02 07:07:39--  http://www.icym.edu.my/v13/PTPTN.pdf
+Resolving www.icym.edu.my (www.icym.edu.my)... 43.252.215.46
+Connecting to www.icym.edu.my (www.icym.edu.my)|43.252.215.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218501 (213K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 1.19M 1s
+    50K .......... .......... .......... .......... .......... 46% 2.39M 1s
+   100K .......... .......... .......... .......... .......... 70% 2.37M 0s
+   150K .......... .......... .......... .......... .......... 93% 2.33M 0s
+   200K .......... ...                                        100%  818M=0.9s
+
+2020-03-02 07:07:41 (2.02 Mb/s) - ‘/dev/null’ saved [218501/218501]
+

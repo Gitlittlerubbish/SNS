@@ -1,0 +1,14 @@
+--2020-03-02 00:34:45--  http://bermudahospitals.bm/wp-content/uploads/2016/10/52_File_5.pdf
+Resolving bermudahospitals.bm (bermudahospitals.bm)... 104.196.255.44
+Connecting to bermudahospitals.bm (bermudahospitals.bm)|104.196.255.44|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170454 (166K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 1.40M 1s
+    50K .......... .......... .......... .......... .......... 60% 3.32M 0s
+   100K .......... .......... .......... .......... .......... 90% 5.23M 0s
+   150K .......... ......                                     100% 5.03M=0.5s
+
+2020-03-02 00:34:46 (2.62 Mb/s) - ‘/dev/null’ saved [170454/170454]
+

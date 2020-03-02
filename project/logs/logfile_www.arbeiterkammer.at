@@ -1,0 +1,17 @@
+--2020-03-01 23:43:30--  http://www.arbeiterkammer.at/infopool/wien/Verkehr_und_Infrastruktur_40.pdf
+Resolving www.arbeiterkammer.at (www.arbeiterkammer.at)... 188.172.246.5
+Connecting to www.arbeiterkammer.at (www.arbeiterkammer.at)|188.172.246.5|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.arbeiterkammer.at:443/infopool/wien/Verkehr_und_Infrastruktur_40.pdf [following]
+--2020-03-01 23:43:31--  https://www.arbeiterkammer.at/infopool/wien/Verkehr_und_Infrastruktur_40.pdf
+Connecting to www.arbeiterkammer.at (www.arbeiterkammer.at)|188.172.246.5|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 117555 (115K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 43% 6.74M 0s
+    50K .......... .......... .......... .......... .......... 87% 13.3M 0s
+   100K .......... ....                                       100%  758M=0.09s
+
+2020-03-01 23:43:31 (10.3 Mb/s) - ‘/dev/null’ saved [117555/117555]
+

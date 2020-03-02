@@ -1,0 +1,19 @@
+--2020-03-02 06:24:28--  http://hdz.li/110Wc1A
+Resolving hdz.li (hdz.li)... 67.199.248.12, 67.199.248.13
+Connecting to hdz.li (hdz.li)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://melody.syr.edu/pzhang/publications/ECRA_13_Zhou_etal_Social_Commerce.pdf [following]
+--2020-03-02 06:24:28--  http://melody.syr.edu/pzhang/publications/ECRA_13_Zhou_etal_Social_Commerce.pdf
+Resolving melody.syr.edu (melody.syr.edu)... 128.230.248.177
+Connecting to melody.syr.edu (melody.syr.edu)|128.230.248.177|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 192963 (188K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 2.40M 0s
+    50K .......... .......... .......... .......... .......... 53% 4.87M 0s
+   100K .......... .......... .......... .......... .......... 79% 84.7M 0s
+   150K .......... .......... .......... ........             100%  235M=0.3s
+
+2020-03-02 06:24:29 (5.91 Mb/s) - ‘/dev/null’ saved [192963/192963]
+

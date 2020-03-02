@@ -1,0 +1,13 @@
+--2020-03-02 08:30:33--  http://www.cafe.pipi.co.nz/menu.pdf
+Resolving www.cafe.pipi.co.nz (www.cafe.pipi.co.nz)... 202.191.33.100
+Connecting to www.cafe.pipi.co.nz (www.cafe.pipi.co.nz)|202.191.33.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119635 (117K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42%  664K 1s
+    50K .......... .......... .......... .......... .......... 85% 1.34M 0s
+   100K .......... ......                                     100% 1.20G=0.9s
+
+2020-03-02 08:30:36 (1.04 Mb/s) - ‘/dev/null’ saved [119635/119635]
+

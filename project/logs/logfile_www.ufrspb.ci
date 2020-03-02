@@ -1,0 +1,20 @@
+--2020-03-02 02:52:31--  http://www.ufrspb.ci/files/tdr_quarantenaire_ufrspb_190418_bis.pdf
+Resolving www.ufrspb.ci (www.ufrspb.ci)... 148.163.121.3
+Connecting to www.ufrspb.ci (www.ufrspb.ci)|148.163.121.3|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ufrspb.ci/files/tdr_quarantenaire_ufrspb_190418_bis.pdf [following]
+--2020-03-02 02:52:32--  https://www.ufrspb.ci/files/tdr_quarantenaire_ufrspb_190418_bis.pdf
+Connecting to www.ufrspb.ci (www.ufrspb.ci)|148.163.121.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 259771 (254K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.58M 1s
+    50K .......... .......... .......... .......... .......... 39% 3.14M 1s
+   100K .......... .......... .......... .......... .......... 59%  151M 0s
+   150K .......... .......... .......... .......... .......... 78% 3.24M 0s
+   200K .......... .......... .......... .......... .......... 98%  135M 0s
+   250K ...                                                   100%  603K=0.5s
+
+2020-03-02 02:52:33 (3.98 Mb/s) - ‘/dev/null’ saved [259771/259771]
+

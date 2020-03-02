@@ -1,0 +1,17 @@
+--2020-03-02 02:31:30--  http://seguridad.unicauca.edu.co/Systematic_Mapping_Studies_in_Software_Engineering.pdf
+Resolving seguridad.unicauca.edu.co (seguridad.unicauca.edu.co)... 45.231.185.114
+Connecting to seguridad.unicauca.edu.co (seguridad.unicauca.edu.co)|45.231.185.114|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 325977 (318K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 1.27M 2s
+    50K .......... .......... .......... .......... .......... 31% 2.54M 1s
+   100K .......... .......... .......... .......... .......... 47% 97.8M 1s
+   150K .......... .......... .......... .......... .......... 62% 2.62M 0s
+   200K .......... .......... .......... .......... .......... 78% 93.2M 0s
+   250K .......... .......... .......... .......... .......... 94% 2.69M 0s
+   300K .......... ........                                   100% 89.5M=0.8s
+
+2020-03-02 02:31:31 (3.25 Mb/s) - ‘/dev/null’ saved [325977/325977]
+

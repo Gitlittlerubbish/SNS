@@ -1,0 +1,16 @@
+--2020-03-02 00:02:48--  http://www.asiaticsociety.org.bd/journal/S_D14.pdf
+Resolving www.asiaticsociety.org.bd (www.asiaticsociety.org.bd)... 114.31.0.72
+Connecting to www.asiaticsociety.org.bd (www.asiaticsociety.org.bd)|114.31.0.72|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 303222 (296K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 1.08M 2s
+    50K .......... .......... .......... .......... .......... 33% 2.17M 1s
+   100K .......... .......... .......... .......... .......... 50% 95.5M 1s
+   150K .......... .......... .......... .......... .......... 67%  105M 0s
+   200K .......... .......... .......... .......... .......... 84% 2.24M 0s
+   250K .......... .......... .......... .......... ......    100%  102M=0.8s
+
+2020-03-02 00:02:50 (3.17 Mb/s) - ‘/dev/null’ saved [303222/303222]
+

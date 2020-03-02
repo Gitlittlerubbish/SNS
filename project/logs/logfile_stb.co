@@ -1,0 +1,22 @@
+--2020-03-02 02:31:42--  http://stb.co/content/Publications/pub1439.pdf
+Resolving stb.co (stb.co)... 146.20.181.176
+Connecting to stb.co (stb.co)|146.20.181.176|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.stblaw.com/content/Publications/pub1439.pdf [following]
+--2020-03-02 02:31:42--  http://www.stblaw.com/content/Publications/pub1439.pdf
+Resolving www.stblaw.com (www.stblaw.com)... 146.20.181.176
+Reusing existing connection to stb.co:80.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.stblaw.com/docs/default-source/cold-fusion-existing-content/publications/pub1439.pdf?sfvrsn=2 [following]
+--2020-03-02 02:31:42--  http://www.stblaw.com/docs/default-source/cold-fusion-existing-content/publications/pub1439.pdf?sfvrsn=2
+Reusing existing connection to stb.co:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 145763 (142K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 1.35M 1s
+    50K .......... .......... .......... .......... .......... 70% 5.38M 0s
+   100K .......... .......... .......... .......... ..        100% 84.4M=0.4s
+
+2020-03-02 02:31:43 (3.03 Mb/s) - ‘/dev/null’ saved [145763/145763]
+

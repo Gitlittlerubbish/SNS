@@ -1,0 +1,11 @@
+--2020-03-02 08:08:35--  http://nabarajgiri.com.np/mba/NILE_UoN_2.pdf
+Resolving nabarajgiri.com.np (nabarajgiri.com.np)... 72.29.65.177
+Connecting to nabarajgiri.com.np (nabarajgiri.com.np)|72.29.65.177|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41493 (41K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..........           100% 3.13M=0.1s
+
+2020-03-02 08:08:37 (3.13 Mb/s) - ‘/dev/null’ saved [41493/41493]
+

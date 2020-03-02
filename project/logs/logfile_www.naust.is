@@ -1,0 +1,21 @@
+--2020-03-02 04:39:57--  http://www.naust.is/asset/7220/fluke_62v.pdf
+Resolving www.naust.is (www.naust.is)... 104.45.95.61
+Connecting to www.naust.is (www.naust.is)|104.45.95.61|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.naust.is/asset/7220/fluke_62v.pdf [following]
+--2020-03-02 04:39:57--  https://www.naust.is/asset/7220/fluke_62v.pdf
+Connecting to www.naust.is (www.naust.is)|104.45.95.61|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 336483 (329K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 25.0M 0s
+    50K .......... .......... .......... .......... .......... 30% 25.7M 0s
+   100K .......... .......... .......... .......... .......... 45% 34.0M 0s
+   150K .......... .......... .......... .......... .......... 60% 95.9M 0s
+   200K .......... .......... .......... .......... .......... 76% 43.4M 0s
+   250K .......... .......... .......... .......... .......... 91%  142M 0s
+   300K .......... .......... ........                        100%  109M=0.06s
+
+2020-03-02 04:39:57 (42.6 Mb/s) - ‘/dev/null’ saved [336483/336483]
+

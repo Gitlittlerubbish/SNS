@@ -1,0 +1,14 @@
+--2020-03-02 07:08:50--  http://www.micpa.com.my/micpamember/cpa_review/02.pdf
+Resolving www.micpa.com.my (www.micpa.com.my)... 210.48.155.83
+Connecting to www.micpa.com.my (www.micpa.com.my)|210.48.155.83|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186097 (182K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27%  586K 2s
+    50K .......... .......... .......... .......... .......... 55% 2.32M 1s
+   100K .......... .......... .......... .......... .......... 82% 27.1M 0s
+   150K .......... .......... .......... .                    100% 1.59M=1.1s
+
+2020-03-02 07:08:53 (1.41 Mb/s) - ‘/dev/null’ saved [186097/186097]
+

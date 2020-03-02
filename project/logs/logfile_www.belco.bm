@@ -1,0 +1,16 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 00:32:33--  https://www.belco.bm/img/Belco_ServiceRulesDoc_p2.pdf
+Resolving www.belco.bm (www.belco.bm)... 199.172.247.50, 69.17.215.50
+Connecting to www.belco.bm (www.belco.bm)|199.172.247.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220031 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.16M 1s
+    50K .......... .......... .......... .......... .......... 46% 4.23M 0s
+   100K .......... .......... .......... .......... .......... 69% 4.54M 0s
+   150K .......... .......... .......... .......... .......... 93% 68.0M 0s
+   200K .......... ....                                       100%  208M=0.4s
+
+2020-03-02 00:32:34 (4.59 Mb/s) - ‘/dev/null’ saved [220031/220031]
+

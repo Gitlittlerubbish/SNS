@@ -1,0 +1,11 @@
+--2020-03-01 22:33:18--  http://www.estadistica.ad/serveiestudis/noticies/noticia4156cat.pdf
+Resolving www.estadistica.ad (www.estadistica.ad)... 194.158.95.179
+Connecting to www.estadistica.ad (www.estadistica.ad)|194.158.95.179|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 994 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  530M=0s
+
+2020-03-01 22:33:18 (530 Mb/s) - ‘/dev/null’ saved [994/994]
+

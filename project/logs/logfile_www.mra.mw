@@ -1,0 +1,25 @@
+--2020-03-02 06:57:53--  http://www.mra.mw/assets/upload/downloads/Customs_VAT_and_Taxation_Amendments_2017.pdf
+Resolving www.mra.mw (www.mra.mw)... 41.75.113.129
+Connecting to www.mra.mw (www.mra.mw)|41.75.113.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mra.mw/assets/upload/downloads/Customs_VAT_and_Taxation_Amendments_2017.pdf [following]
+--2020-03-02 06:57:53--  https://www.mra.mw/assets/upload/downloads/Customs_VAT_and_Taxation_Amendments_2017.pdf
+Connecting to www.mra.mw (www.mra.mw)|41.75.113.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 539212 (527K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 1.09M 4s
+    50K .......... .......... .......... .......... .......... 18% 3.96M 2s
+   100K .......... .......... .......... .......... .......... 28% 4.77M 1s
+   150K .......... .......... .......... .......... .......... 37% 60.4M 1s
+   200K .......... .......... .......... .......... .......... 47% 2.31M 1s
+   250K .......... .......... .......... .......... .......... 56% 50.8M 1s
+   300K .......... .......... .......... .......... .......... 66% 12.0M 0s
+   350K .......... .......... .......... .......... .......... 75% 2.57M 0s
+   400K .......... .......... .......... .......... .......... 85% 69.2M 0s
+   450K .......... .......... .......... .......... .......... 94%  233K 0s
+   500K .......... .......... ......                          100% 1.16M=2.9s
+
+2020-03-02 06:57:57 (1.48 Mb/s) - ‘/dev/null’ saved [539212/539212]
+

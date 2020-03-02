@@ -1,0 +1,13 @@
+--2020-03-02 03:32:35--  http://tervis.tostamaa.ee/ul/KLIINILISE_VERE_KONSPEKT.PDF
+Resolving tervis.tostamaa.ee (tervis.tostamaa.ee)... 80.79.118.76
+Connecting to tervis.tostamaa.ee (tervis.tostamaa.ee)|80.79.118.76|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132962 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 2.22M 0s
+    50K .......... .......... .......... .......... .......... 77% 10.8M 0s
+   100K .......... .......... .........                       100% 6.47M=0.3s
+
+2020-03-02 03:32:35 (4.08 Mb/s) - ‘/dev/null’ saved [132962/132962]
+

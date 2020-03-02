@@ -1,0 +1,15 @@
+--2020-03-02 04:45:53--  http://www.unionbankonline.co.in/Disclaimer/FAQ.pdf
+Resolving www.unionbankonline.co.in (www.unionbankonline.co.in)... 59.160.35.102
+Connecting to www.unionbankonline.co.in (www.unionbankonline.co.in)|59.160.35.102|:80... connected.
+HTTP request sent, awaiting response... 307 Moved Temporarily
+Location: https://www.unionbankonline.co.in [following]
+--2020-03-02 04:45:54--  https://www.unionbankonline.co.in/
+Connecting to www.unionbankonline.co.in (www.unionbankonline.co.in)|59.160.35.102|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28801 (28K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ........                        100% 1.81G=0s
+
+2020-03-02 04:45:55 (1.81 Gb/s) - ‘/dev/null’ saved [28801/28801]
+

@@ -1,0 +1,21 @@
+--2020-03-02 08:26:09--  http://www.saferx.co.nz/RAC_crushing_intro.pdf
+Resolving www.saferx.co.nz (www.saferx.co.nz)... 149.126.74.202
+Connecting to www.saferx.co.nz (www.saferx.co.nz)|149.126.74.202|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.saferx.co.nz/assets/Documents/9a2c1237a5/RAC_crushing_intro.pdf [following]
+--2020-03-02 08:26:10--  http://www.saferx.co.nz/assets/Documents/9a2c1237a5/RAC_crushing_intro.pdf
+Reusing existing connection to www.saferx.co.nz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 308706 (301K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 49.0M 0s
+    50K .......... .......... .......... .......... .......... 33%  206M 0s
+   100K .......... .......... .......... .......... .......... 49% 18.2M 0s
+   150K .......... .......... .......... .......... .......... 66%  201M 0s
+   200K .......... .......... .......... .......... .......... 82%  101M 0s
+   250K .......... .......... .......... .......... .......... 99% 91.3M 0s
+   300K .                                                     100%  241K=0.04s
+
+2020-03-02 08:26:11 (56.8 Mb/s) - ‘/dev/null’ saved [308706/308706]
+

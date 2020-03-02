@@ -1,0 +1,12 @@
+--2020-03-02 01:01:55--  http://sbb.ba/pdf/djugum_mirsad.pdf
+Resolving sbb.ba (sbb.ba)... 104.24.127.93, 104.24.126.93
+Connecting to sbb.ba (sbb.ba)|104.24.127.93|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98857 (97K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 60.0M 0s
+    50K .......... .......... .......... .......... ......    100%  150M=0.009s
+
+2020-03-02 01:01:55 (84.3 Mb/s) - ‘/dev/null’ saved [98857/98857]
+

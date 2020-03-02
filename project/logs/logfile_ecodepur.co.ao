@@ -1,0 +1,18 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 22:39:24--  https://ecodepur.co.ao/media/site_docs/3573950951_FT_GORTECH_NS4_rev1.pdf
+Resolving ecodepur.co.ao (ecodepur.co.ao)... 89.26.248.119
+Connecting to ecodepur.co.ao (ecodepur.co.ao)|89.26.248.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 345363 (337K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 5.52M 0s
+    50K .......... .......... .......... .......... .......... 29% 11.9M 0s
+   100K .......... .......... .......... .......... .......... 44%  133M 0s
+   150K .......... .......... .......... .......... .......... 59%  173M 0s
+   200K .......... .......... .......... .......... .......... 74% 12.0M 0s
+   250K .......... .......... .......... .......... .......... 88%  147M 0s
+   300K .......... .......... .......... .......              100% 10.4M=0.2s
+
+2020-03-01 22:39:24 (15.3 Mb/s) - ‘/dev/null’ saved [345363/345363]
+

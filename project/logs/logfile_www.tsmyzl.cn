@@ -1,0 +1,15 @@
+--2020-03-02 02:13:29--  http://www.tsmyzl.cn/licensing/114.pdf
+Resolving www.tsmyzl.cn (www.tsmyzl.cn)... 154.84.116.171
+Connecting to www.tsmyzl.cn (www.tsmyzl.cn)|154.84.116.171|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213858 (209K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  664K 2s
+    50K .......... .......... .......... .......... .......... 47% 1.35M 1s
+   100K .......... .......... .......... .......... .......... 71% 1.33M 0s
+   150K .......... .......... .......... .......... .......... 95%  182M 0s
+   200K ........                                              100%  236K=1.5s
+
+2020-03-02 02:13:34 (1.11 Mb/s) - ‘/dev/null’ saved [213858/213858]
+

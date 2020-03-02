@@ -1,0 +1,41 @@
+--2020-03-02 04:22:00--  http://zoospas.hm/animals/cats/pdf/
+Resolving zoospas.hm (zoospas.hm)... 139.162.166.65
+Connecting to zoospas.hm (zoospas.hm)|139.162.166.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://zoospas.hm/animals/cats/pdf/ [following]
+--2020-03-02 04:22:00--  https://zoospas.hm/animals/cats/pdf/
+Connecting to zoospas.hm (zoospas.hm)|139.162.166.65|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15.2M
+    50K .......... .......... .......... .......... .......... 17.9M
+   100K .......... .......... .......... .......... ..........  192M
+   150K .......... .......... .......... .......... ..........  126M
+   200K .......... .......... .......... .......... .......... 19.0M
+   250K ....                                                    713K=0.08s
+
+2020-03-02 04:22:01 (27.2 Mb/s) - ‘/dev/null’ saved [260456]
+
+--2020-03-02 04:22:01--  http://zoospas.hm/animals/122/pdf
+Resolving zoospas.hm (zoospas.hm)... 139.162.166.65
+Connecting to zoospas.hm (zoospas.hm)|139.162.166.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://zoospas.hm/animals/122/pdf [following]
+--2020-03-02 04:22:01--  https://zoospas.hm/animals/122/pdf
+Connecting to zoospas.hm (zoospas.hm)|139.162.166.65|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /animals/122/pdf/ [following]
+--2020-03-02 04:22:01--  https://zoospas.hm/animals/122/pdf/
+Reusing existing connection to zoospas.hm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18.1M
+    50K .......... .......... .......... .......... .......... 19.0M
+   100K .......                                                 514M=0.04s
+
+2020-03-02 04:22:01 (19.8 Mb/s) - ‘/dev/null’ saved [109665]
+

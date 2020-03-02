@@ -7,6 +7,7 @@ import os, fnmatch, csv
 # process a single logfile, e.g. www.apple.com
 def process_single_logfile(filename):
     
+    print(f"Processing {filename}.")
     # get the domain name of the current logfile
     rt_dict = dict(domain=filename[15:], ip="", ip_bin="", throughput=0.0, unit="")
 
@@ -18,24 +19,30 @@ def process_single_logfile(filename):
 
             # get the ip address of the current domain
             if line[:10] == "Connecting":
-                ip = line.split("|")[1].split("|")[0].strip()
-                rt_dict["ip"] = ip
+                try:
+                    ip = line.split("|")[1].split("|")[0].strip()
+                    rt_dict["ip"] = ip
 
-                # get the binary version of the current ip
-                ip_bin = ""
-                for x in ip.split('.'):
-                    ip_bin += format(int(x), "08b")
-                rt_dict["ip_bin"] = ip_bin
+                    # get the binary version of the current ip
+                    ip_bin = ""
+                    for x in ip.split('.'):
+                        ip_bin += format(int(x), "08b")
+                    rt_dict["ip_bin"] = ip_bin
+                except IndexError as e:
+                    print(f"{e}!!! Dropping {filename}.")
 
 
             # get speed of each wget and then calculate the throughput of this ip address
             if "- ‘/dev/null’ saved" in line:
-                wget_times = wget_times + 1
-                # speed format: xxx xb/s
-                speed = line.split("(")[1].split(")")[0]
-                sum = sum + float(speed.split(" ")[0])
+                try:
+                    wget_times = wget_times + 1
+                    # speed format: xxx xb/s
+                    speed = line.split("(")[1].split(")")[0]
+                    sum = sum + float(speed.split(" ")[0])
 
-                unit = speed.split(" ")[1]
+                    unit = speed.split(" ")[1]
+                except IndexError as e:
+                    print(f"{e}!!! Dropping {filename}.")
 
         if wget_times != 0:
             # convert all the speed to Kb/s
@@ -59,7 +66,7 @@ def main():
 
     # get all the logfile* in the logs directory
     log_list = fnmatch.filter(os.listdir('./logs'), 'logfile*')
-    print(log_list)
+    # print(log_list)
 
     # traverse the log_list and process the logfile
     with open('data.csv', mode='w') as csv_file:

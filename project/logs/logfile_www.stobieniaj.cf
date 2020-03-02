@@ -1,0 +1,12 @@
+--2020-03-02 02:02:19--  http://www.stobieniaj.cf/media/sizeguide/Web_Size_Guide_Marmar_Dansk.pdf
+Resolving www.stobieniaj.cf (www.stobieniaj.cf)... 104.27.161.91, 104.27.160.91
+Connecting to www.stobieniaj.cf (www.stobieniaj.cf)|104.27.161.91|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 84.2M
+    50K .......... .......... .......... .........              350M=0.006s
+
+2020-03-02 02:02:20 (126 Mb/s) - ‘/dev/null’ saved [91389]
+

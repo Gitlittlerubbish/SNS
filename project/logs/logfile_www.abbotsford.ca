@@ -1,0 +1,15 @@
+--2020-03-02 01:53:27--  http://www.abbotsford.ca/AssetFactory.aspx%3Fdid%3D19164
+Resolving www.abbotsford.ca (www.abbotsford.ca)... 207.102.134.76
+Connecting to www.abbotsford.ca (www.abbotsford.ca)|207.102.134.76|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.abbotsford.ca/AssetFactory.aspx%3Fdid%3D19164 [following]
+--2020-03-02 01:53:27--  https://www.abbotsford.ca/AssetFactory.aspx%3Fdid%3D19164
+Connecting to www.abbotsford.ca (www.abbotsford.ca)|207.102.134.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1047 (1.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  239M=0s
+
+2020-03-02 01:53:28 (239 Mb/s) - ‘/dev/null’ saved [1047/1047]
+

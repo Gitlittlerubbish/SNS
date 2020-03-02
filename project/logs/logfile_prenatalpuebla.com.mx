@@ -1,0 +1,15 @@
+--2020-03-02 07:28:59--  http://prenatalpuebla.com.mx/wp-content/uploads/download_pdf/Colposcopia.PDF
+Resolving prenatalpuebla.com.mx (prenatalpuebla.com.mx)... 107.180.40.138
+Connecting to prenatalpuebla.com.mx (prenatalpuebla.com.mx)|107.180.40.138|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 252562 (247K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 2.38M 1s
+    50K .......... .......... .......... .......... .......... 40% 4.79M 0s
+   100K .......... .......... .......... .......... .......... 60% 4.81M 0s
+   150K .......... .......... .......... .......... .......... 81% 4.77M 0s
+   200K .......... .......... .......... .......... ......    100%  122M=0.4s
+
+2020-03-02 07:29:00 (4.68 Mb/s) - ‘/dev/null’ saved [252562/252562]
+

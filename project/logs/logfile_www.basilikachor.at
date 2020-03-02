@@ -1,0 +1,13 @@
+--2020-03-01 23:42:35--  http://www.basilikachor.at/Elemente/Messtext.pdf
+Resolving www.basilikachor.at (www.basilikachor.at)... 77.244.243.43
+Connecting to www.basilikachor.at (www.basilikachor.at)|77.244.243.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102502 (100K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 6.46M 0s
+    50K .......... .......... .......... .......... .......... 99% 13.5M 0s
+   100K                                                       100% 16.3K=0.09s
+
+2020-03-01 23:42:36 (8.74 Mb/s) - ‘/dev/null’ saved [102502/102502]
+

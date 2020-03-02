@@ -1,0 +1,13 @@
+--2020-03-02 03:47:03--  http://www.evous.fr/IMG/pdf/nie_modelo_790_012.pdf
+Resolving www.evous.fr (www.evous.fr)... 51.254.198.25
+Connecting to www.evous.fr (www.evous.fr)|51.254.198.25|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 115622 (113K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44% 13.6M 0s
+    50K .......... .......... .......... .......... .......... 88% 35.4M 0s
+   100K .......... ..                                         100% 45.0M=0.04s
+
+2020-03-02 03:47:03 (21.0 Mb/s) - ‘/dev/null’ saved [115622/115622]
+

@@ -1,0 +1,16 @@
+--2020-03-02 01:29:40--  http://www.csps.org.bn/wp-content/uploads/2017/11/Volume1_Abstract.pdf
+Resolving www.csps.org.bn (www.csps.org.bn)... 148.66.136.51
+Connecting to www.csps.org.bn (www.csps.org.bn)|148.66.136.51|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263705 (258K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.15M 1s
+    50K .......... .......... .......... .......... .......... 38% 2.24M 1s
+   100K .......... .......... .......... .......... .......... 58% 2.31M 1s
+   150K .......... .......... .......... .......... .......... 77% 2.31M 0s
+   200K .......... .......... .......... .......... .......... 97%  104M 0s
+   250K .......                                               100%  663M=0.9s
+
+2020-03-02 01:29:42 (2.35 Mb/s) - ‘/dev/null’ saved [263705/263705]
+

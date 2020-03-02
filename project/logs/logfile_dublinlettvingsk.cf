@@ -1,0 +1,18 @@
+--2020-03-02 02:00:47--  http://dublinlettvingsk.cf/abonnementsvoorwaarden
+Resolving dublinlettvingsk.cf (dublinlettvingsk.cf)... 104.28.26.221, 104.28.27.221
+Connecting to dublinlettvingsk.cf (dublinlettvingsk.cf)|104.28.26.221|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 6.50M
+    50K .......... .......... .......... .......... .......... 14.5M
+   100K .......... .......... .......... .......... ..........  167M
+   150K .......... .......... .......... .......... ..........  178M
+   200K .......... .......... .......... .......... .......... 12.3M
+   250K .......... .......... .......... .......... ..........  146M
+   300K .......... .......... .......... .......... ..........  227M
+   350K .....                                                   820K=0.1s
+
+2020-03-02 02:00:47 (21.7 Mb/s) - ‘/dev/null’ saved [363523]
+

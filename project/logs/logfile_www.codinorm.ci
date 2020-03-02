@@ -1,0 +1,19 @@
+--2020-03-02 02:51:11--  http://www.codinorm.ci/doc/2014_460.pdf
+Resolving www.codinorm.ci (www.codinorm.ci)... 207.174.215.215
+Connecting to www.codinorm.ci (www.codinorm.ci)|207.174.215.215|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.codinorm.ci/doc/2014_460.pdf [following]
+--2020-03-02 02:51:11--  https://www.codinorm.ci/doc/2014_460.pdf
+Connecting to www.codinorm.ci (www.codinorm.ci)|207.174.215.215|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210565 (206K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 1.68M 1s
+    50K .......... .......... .......... .......... .......... 48% 3.38M 0s
+   100K .......... .......... .......... .......... .......... 72%  149M 0s
+   150K .......... .......... .......... .......... .......... 97%  257M 0s
+   200K .....                                                 100% 1.21G=0.4s
+
+2020-03-02 02:51:12 (4.56 Mb/s) - ‘/dev/null’ saved [210565/210565]
+

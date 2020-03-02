@@ -1,0 +1,11 @@
+--2020-03-02 03:43:27--  http://test.judiciary.gov.fj/judiciaryfiji/wp-content/uploads/2012/12/IS-1-Important-Information.pdf
+Resolving test.judiciary.gov.fj (test.judiciary.gov.fj)... 66.96.147.117
+Connecting to test.judiciary.gov.fj (test.judiciary.gov.fj)|66.96.147.117|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42656 (42K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .         100% 1.45M=0.2s
+
+2020-03-02 03:43:29 (1.45 Mb/s) - ‘/dev/null’ saved [42656/42656]
+

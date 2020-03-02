@@ -1,0 +1,13 @@
+--2020-03-02 08:12:52--  http://annapurnacooperative.com.np/document/sampatti-suddhikaran.pdf
+Resolving annapurnacooperative.com.np (annapurnacooperative.com.np)... 104.218.54.134
+Connecting to annapurnacooperative.com.np (annapurnacooperative.com.np)|104.218.54.134|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104220 (102K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 2.88M 0s
+    50K .......... .......... .......... .......... .......... 98% 5.58M 0s
+   100K .                                                     100%  291K=0.2s
+
+2020-03-02 08:12:53 (3.86 Mb/s) - ‘/dev/null’ saved [104220/104220]
+

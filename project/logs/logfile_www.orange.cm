@@ -1,0 +1,47 @@
+--2020-03-02 01:50:16--  http://www.orange.cm/particuliers/1/84487/conditions_animation_orange_money_.pdf
+Resolving www.orange.cm (www.orange.cm)... 41.202.220.183
+Connecting to www.orange.cm (www.orange.cm)|41.202.220.183|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.orange.cm/particuliers/1/84487/conditions_animation_orange_money_.pdf [following]
+--2020-03-02 01:50:16--  https://www.orange.cm/particuliers/1/84487/conditions_animation_orange_money_.pdf
+Connecting to www.orange.cm (www.orange.cm)|41.202.220.183|:443... connected.
+HTTP request sent, awaiting response... 200 
+Length: 63198 (62K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 81% 1.68M 0s
+    50K .......... .                                          100%  427M=0.2s
+
+2020-03-02 01:50:17 (2.07 Mb/s) - ‘/dev/null’ saved [63198/63198]
+
+--2020-03-02 01:50:17--  http://www.orange.cm/particuliers/1/84405/code_e.pdf
+Resolving www.orange.cm (www.orange.cm)... 41.202.220.183
+Connecting to www.orange.cm (www.orange.cm)|41.202.220.183|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.orange.cm/particuliers/1/84405/code_e.pdf [following]
+--2020-03-02 01:50:17--  https://www.orange.cm/particuliers/1/84405/code_e.pdf
+Connecting to www.orange.cm (www.orange.cm)|41.202.220.183|:443... connected.
+HTTP request sent, awaiting response... 200 
+Length: 851223 (831K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 1.13M 6s
+    50K .......... .......... .......... .......... .......... 12% 3.38M 4s
+   100K .......... .......... .......... .......... .......... 18% 3.43M 3s
+   150K .......... .......... .......... .......... .......... 24% 81.9M 2s
+   200K .......... .......... .......... .......... .......... 30% 3.54M 2s
+   250K .......... .......... .......... .......... .......... 36%  154M 1s
+   300K .......... .......... .......... .......... .......... 42%  129M 1s
+   350K .......... .......... .......... .......... .......... 48% 3.55M 1s
+   400K .......... .......... .......... .......... .......... 54%  123M 1s
+   450K .......... .......... .......... .......... .......... 60%  201M 1s
+   500K .......... .......... .......... .......... .......... 66% 3.58M 0s
+   550K .......... .......... .......... .......... .......... 72%  111M 0s
+   600K .......... .......... .......... .......... .......... 78%  172M 0s
+   650K .......... .......... .......... .......... .......... 84%  686M 0s
+   700K .......... .......... .......... .......... .......... 90%  208M 0s
+   750K .......... .......... .......... .......... .......... 96% 3.61M 0s
+   800K .......... .......... .......... .                    100%  593M=1.1s
+
+2020-03-02 01:50:19 (6.25 Mb/s) - ‘/dev/null’ saved [851223/851223]
+

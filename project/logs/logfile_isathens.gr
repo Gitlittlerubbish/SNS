@@ -1,0 +1,18 @@
+--2020-03-02 04:07:53--  http://isathens.gr/images/PDFs/vaccinestudies.pdf
+Resolving isathens.gr (isathens.gr)... 185.78.221.199
+Connecting to isathens.gr (isathens.gr)|185.78.221.199|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.isathens.gr/images/PDFs/vaccinestudies.pdf [following]
+--2020-03-02 04:07:53--  https://www.isathens.gr/images/PDFs/vaccinestudies.pdf
+Resolving www.isathens.gr (www.isathens.gr)... 185.78.221.199
+Connecting to www.isathens.gr (www.isathens.gr)|185.78.221.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121661 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 3.22M 0s
+    50K .......... .......... .......... .......... .......... 84% 6.41M 0s
+   100K .......... ........                                   100%  969M=0.2s
+
+2020-03-02 04:07:54 (5.09 Mb/s) - ‘/dev/null’ saved [121661/121661]
+

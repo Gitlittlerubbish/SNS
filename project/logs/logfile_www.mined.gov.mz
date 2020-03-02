@@ -1,0 +1,14 @@
+--2020-03-02 07:58:44--  http://www.mined.gov.mz/POEMA/Biblioteca/RH-S2-Decreto_5-2006.pdf
+Resolving www.mined.gov.mz (www.mined.gov.mz)... 169.255.134.148
+Connecting to www.mined.gov.mz (www.mined.gov.mz)|169.255.134.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199977 (195K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  380K 3s
+    50K .......... .......... .......... .......... .......... 51% 2.03M 1s
+   100K .......... .......... .......... .......... .......... 76% 2.54M 0s
+   150K .......... .......... .......... .......... .....     100% 4.14M=1.5s
+
+2020-03-02 07:58:47 (1.05 Mb/s) - ‘/dev/null’ saved [199977/199977]
+

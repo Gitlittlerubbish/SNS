@@ -1,0 +1,25 @@
+--2020-03-02 02:55:41--  http://www.gong.hr/media/uploads/vodic_za_prebivaliste.pdf
+Resolving www.gong.hr (www.gong.hr)... 148.251.92.122
+Connecting to www.gong.hr (www.gong.hr)|148.251.92.122|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gong.hr/media/uploads/vodic_za_prebivaliste.pdf [following]
+--2020-03-02 02:55:42--  https://www.gong.hr/media/uploads/vodic_za_prebivaliste.pdf
+Connecting to www.gong.hr (www.gong.hr)|148.251.92.122|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 528638 (516K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 5.78M 1s
+    50K .......... .......... .......... .......... .......... 19% 15.1M 0s
+   100K .......... .......... .......... .......... .......... 29%  477M 0s
+   150K .......... .......... .......... .......... .......... 38% 14.0M 0s
+   200K .......... .......... .......... .......... .......... 48%  493M 0s
+   250K .......... .......... .......... .......... .......... 58% 16.4M 0s
+   300K .......... .......... .......... .......... .......... 67%  136M 0s
+   350K .......... .......... .......... .......... .......... 77% 18.6M 0s
+   400K .......... .......... .......... .......... .......... 87%  115M 0s
+   450K .......... .......... .......... .......... .......... 96% 18.5M 0s
+   500K .......... ......                                     100%  807M=0.2s
+
+2020-03-02 02:55:42 (20.7 Mb/s) - ‘/dev/null’ saved [528638/528638]
+

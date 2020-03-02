@@ -1,0 +1,16 @@
+--2020-03-02 00:50:44--  http://www.ebc.gob.bo/documentacion/convocatorias/AUXILIARDELABORATORIO.pdf
+Resolving www.ebc.gob.bo (www.ebc.gob.bo)... 181.115.182.243
+Connecting to www.ebc.gob.bo (www.ebc.gob.bo)|181.115.182.243|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276860 (270K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 1.00M 2s
+    50K .......... .......... .......... .......... .......... 36% 1.87M 1s
+   100K .......... .......... .......... .......... .......... 55% 2.36M 1s
+   150K .......... .......... .......... .......... .......... 73% 9.65M 0s
+   200K .......... .......... .......... .......... .......... 92% 2.56M 0s
+   250K .......... ..........                                 100% 17.6M=1.0s
+
+2020-03-02 00:50:46 (2.19 Mb/s) - ‘/dev/null’ saved [276860/276860]
+

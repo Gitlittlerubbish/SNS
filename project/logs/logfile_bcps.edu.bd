@@ -1,0 +1,12 @@
+--2020-03-02 00:05:10--  http://bcps.edu.bd/Form/progress_report.pdf
+Resolving bcps.edu.bd (bcps.edu.bd)... 192.3.2.170
+Connecting to bcps.edu.bd (bcps.edu.bd)|192.3.2.170|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63103 (62K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 81% 2.37M 0s
+    50K .......... .                                          100%  233M=0.2s
+
+2020-03-02 00:05:14 (2.91 Mb/s) - ‘/dev/null’ saved [63103/63103]
+

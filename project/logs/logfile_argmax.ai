@@ -1,0 +1,23 @@
+--2020-03-01 22:50:37--  http://argmax.ai/pdfs/brml/GusStiVisJorSma2012_01.pdf
+Resolving argmax.ai (argmax.ai)... 91.216.248.24, 91.216.248.10, 91.216.248.31, ...
+Connecting to argmax.ai (argmax.ai)|91.216.248.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://argmax.ai/pdfs/brml/GusStiVisJorSma2012_01.pdf [following]
+--2020-03-01 22:50:38--  https://argmax.ai/pdfs/brml/GusStiVisJorSma2012_01.pdf
+Connecting to argmax.ai (argmax.ai)|91.216.248.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 435395 (425K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 10.8M 0s
+    50K .......... .......... .......... .......... .......... 23% 21.9M 0s
+   100K .......... .......... .......... .......... .......... 35%  101M 0s
+   150K .......... .......... .......... .......... .......... 47% 27.8M 0s
+   200K .......... .......... .......... .......... .......... 58%  220M 0s
+   250K .......... .......... .......... .......... .......... 70%  102M 0s
+   300K .......... .......... .......... .......... .......... 82% 29.1M 0s
+   350K .......... .......... .......... .......... .......... 94%  120M 0s
+   400K .......... .......... .....                           100%  128M=0.1s
+
+2020-03-01 22:50:38 (34.7 Mb/s) - ‘/dev/null’ saved [435395/435395]
+

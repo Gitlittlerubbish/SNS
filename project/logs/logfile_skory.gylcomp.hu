@@ -1,0 +1,11 @@
+--2020-03-02 04:37:27--  http://skory.gylcomp.hu/alkatresz/BT137_SERIES.pdf
+Resolving skory.gylcomp.hu (skory.gylcomp.hu)... 185.106.113.62
+Connecting to skory.gylcomp.hu (skory.gylcomp.hu)|185.106.113.62|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40659 (40K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .........            100% 4.42M=0.07s
+
+2020-03-02 04:37:27 (4.42 Mb/s) - ‘/dev/null’ saved [40659/40659]
+

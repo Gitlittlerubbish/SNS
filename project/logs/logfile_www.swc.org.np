@@ -1,0 +1,12 @@
+--2020-03-02 08:08:39--  http://www.swc.org.np/swcsector/Handicapped_and_Disabled.pdf
+Resolving www.swc.org.np (www.swc.org.np)... 111.221.46.66
+Connecting to www.swc.org.np (www.swc.org.np)|111.221.46.66|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95611 (93K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 53% 1.25M 0s
+    50K .......... .......... .......... .......... ...       100%  101M=0.3s
+
+2020-03-02 08:08:40 (2.31 Mb/s) - ‘/dev/null’ saved [95611/95611]
+

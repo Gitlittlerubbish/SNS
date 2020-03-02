@@ -1,0 +1,26 @@
+--2020-03-01 22:41:57--  http://www.deepstack.ai/s/DeepStack.pdf
+Resolving www.deepstack.ai (www.deepstack.ai)... 198.185.159.145, 198.49.23.144, 198.185.159.144, ...
+Connecting to www.deepstack.ai (www.deepstack.ai)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.deepstack.ai/s/DeepStack.pdf [following]
+--2020-03-01 22:41:58--  https://www.deepstack.ai/s/DeepStack.pdf
+Connecting to www.deepstack.ai (www.deepstack.ai)|198.185.159.145|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/58a75073e6f2e1c1d5b36630/t/58b7a3dce3df28761dd25e54/1488430045412/DeepStack.pdf [following]
+--2020-03-01 22:41:58--  https://static1.squarespace.com/static/58a75073e6f2e1c1d5b36630/t/58b7a3dce3df28761dd25e54/1488430045412/DeepStack.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 327235 (320K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 49.2M 0s
+    50K .......... .......... .......... .......... .......... 31% 75.5M 0s
+   100K .......... .......... .......... .......... .......... 46% 60.9M 0s
+   150K .......... .......... .......... .......... .......... 62% 46.3M 0s
+   200K .......... .......... .......... .......... .......... 78% 44.7M 0s
+   250K .......... .......... .......... .......... .......... 93% 30.1M 0s
+   300K .......... .........                                  100%  259M=0.05s
+
+2020-03-01 22:41:58 (49.6 Mb/s) - ‘/dev/null’ saved [327235/327235]
+

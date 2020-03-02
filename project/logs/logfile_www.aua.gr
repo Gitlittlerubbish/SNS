@@ -1,0 +1,24 @@
+--2020-03-02 04:09:14--  http://www.aua.gr/gpapadopoulos/files/distributions.pdf
+Resolving www.aua.gr (www.aua.gr)... 143.233.204.237
+Connecting to www.aua.gr (www.aua.gr)|143.233.204.237|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.aua.gr/gpapadopoulos/files/distributions.pdf [following]
+--2020-03-02 04:09:14--  https://www.aua.gr/gpapadopoulos/files/distributions.pdf
+Connecting to www.aua.gr (www.aua.gr)|143.233.204.237|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 474816 (464K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 3.05M 1s
+    50K .......... .......... .......... .......... .......... 21% 6.39M 1s
+   100K .......... .......... .......... .......... .......... 32% 75.1M 0s
+   150K .......... .......... .......... .......... .......... 43%  166M 0s
+   200K .......... .......... .......... .......... .......... 53% 6.68M 0s
+   250K .......... .......... .......... .......... .......... 64%  132M 0s
+   300K .......... .......... .......... .......... .......... 75% 6.98M 0s
+   350K .......... .......... .......... .......... .......... 86%  104M 0s
+   400K .......... .......... .......... .......... .......... 97%  212M 0s
+   450K .......... ...                                        100% 3.87G=0.3s
+
+2020-03-02 04:09:15 (11.3 Mb/s) - ‘/dev/null’ saved [474816/474816]
+

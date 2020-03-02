@@ -1,0 +1,17 @@
+--2020-03-02 04:00:54--  http://www.bzaek.de/fileadmin/PDFs/pati/bzaekdgzmk/7_01_wsr.pdf
+Resolving www.bzaek.de (www.bzaek.de)... 77.91.234.3
+Connecting to www.bzaek.de (www.bzaek.de)|77.91.234.3|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bzaek.de/fileadmin/PDFs/pati/bzaekdgzmk/7_01_wsr.pdf [following]
+--2020-03-02 04:00:54--  https://www.bzaek.de/fileadmin/PDFs/pati/bzaekdgzmk/7_01_wsr.pdf
+Connecting to www.bzaek.de (www.bzaek.de)|77.91.234.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107150 (105K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 11.4M 0s
+    50K .......... .......... .......... .......... .......... 95% 23.9M 0s
+   100K ....                                                  100%  336M=0.05s
+
+2020-03-02 04:00:54 (16.1 Mb/s) - ‘/dev/null’ saved [107150/107150]
+

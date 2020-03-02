@@ -1,0 +1,26 @@
+--2020-03-02 04:38:54--  http://vxrail.is/stretchedclusterplanning
+Resolving vxrail.is (vxrail.is)... 67.199.248.13, 67.199.248.12
+Connecting to vxrail.is (vxrail.is)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.emc.com/collateral/white-papers/h15275-vxrail-planning-guide-virtual-san-stretched-cluster.pdf [following]
+--2020-03-02 04:38:55--  https://www.emc.com/collateral/white-papers/h15275-vxrail-planning-guide-virtual-san-stretched-cluster.pdf
+Resolving www.emc.com (www.emc.com)... 184.87.181.104
+Connecting to www.emc.com (www.emc.com)|184.87.181.104|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.dellemc.com/resources/en-us/asset/white-papers/products/converged-infrastructure/h15275-vxrail-planning-guide-virtual-san-stretched-cluster.pdf [following]
+--2020-03-02 04:38:55--  https://www.dellemc.com/resources/en-us/asset/white-papers/products/converged-infrastructure/h15275-vxrail-planning-guide-virtual-san-stretched-cluster.pdf
+Resolving www.dellemc.com (www.dellemc.com)... 184.87.187.31
+Connecting to www.dellemc.com (www.dellemc.com)|184.87.187.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281647 (275K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 80.1M 0s
+    50K .......... .......... .......... .......... .......... 36% 65.4M 0s
+   100K .......... .......... .......... .......... .......... 54%  106M 0s
+   150K .......... .......... .......... .......... .......... 72%  147M 0s
+   200K .......... .......... .......... .......... .......... 90%  132M 0s
+   250K .......... .......... .....                           100%  272M=0.02s
+
+2020-03-02 04:38:56 (103 Mb/s) - ‘/dev/null’ saved [281647/281647]
+

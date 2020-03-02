@@ -1,0 +1,24 @@
+--2020-03-02 05:12:57--  http://www.kcv.jp/assets/pdf/manual/outlook_8_10.pdf
+Resolving www.kcv.jp (www.kcv.jp)... 202.254.236.90
+Connecting to www.kcv.jp (www.kcv.jp)|202.254.236.90|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.kcv.jp/assets/pdf/manual/outlook_8_10.pdf [following]
+--2020-03-02 05:12:58--  https://www.kcv.jp/assets/pdf/manual/outlook_8_10.pdf
+Connecting to www.kcv.jp (www.kcv.jp)|202.254.236.90|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 497589 (486K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.37M 3s
+    50K .......... .......... .......... .......... .......... 20% 1.79M 2s
+   100K .......... .......... .......... .......... .......... 30% 1.81M 2s
+   150K .......... .......... .......... .......... .......... 41%  100M 1s
+   200K .......... .......... .......... .......... .......... 51% 1.80M 1s
+   250K .......... .......... .......... .......... .......... 61% 1.80M 1s
+   300K .......... .......... .......... .......... .......... 72% 1.26M 1s
+   350K .......... .......... .......... .......... .......... 82% 1.33M 0s
+   400K .......... .......... .......... .......... .......... 92%  468M 0s
+   450K .......... .......... .......... .....                100%  169K=3.6s
+
+2020-03-02 05:13:03 (1.11 Mb/s) - ‘/dev/null’ saved [497589/497589]
+

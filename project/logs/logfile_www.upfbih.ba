@@ -1,0 +1,14 @@
+--2020-03-02 01:02:12--  http://www.upfbih.ba/uimages/dokumenti/Kolektivni20ugovor20za20sluC5BEbenike20organa20uprave20i20sudske20vlasti20u20FBiH.pdf
+Resolving www.upfbih.ba (www.upfbih.ba)... 217.160.15.205
+Connecting to www.upfbih.ba (www.upfbih.ba)|217.160.15.205|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182975 (179K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 6.94M 0s
+    50K .......... .......... .......... .......... .......... 55% 21.4M 0s
+   100K .......... .......... .......... .......... .......... 83%  140M 0s
+   150K .......... .......... ........                        100% 15.8M=0.1s
+
+2020-03-02 01:02:13 (15.2 Mb/s) - ‘/dev/null’ saved [182975/182975]
+

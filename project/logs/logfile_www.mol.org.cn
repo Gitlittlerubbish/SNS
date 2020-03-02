@@ -1,0 +1,12 @@
+--2020-03-02 02:15:54--  http://www.mol.org.cn/article/bjxb/bjxb2005/0504pdf/050442.pdf
+Resolving www.mol.org.cn (www.mol.org.cn)... 124.205.33.102
+Connecting to www.mol.org.cn (www.mol.org.cn)|124.205.33.102|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88790 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57%  205K 1s
+    50K .......... .......... .......... ......               100%  736K=2.4s
+
+2020-03-02 02:15:58 (295 Kb/s) - ‘/dev/null’ saved [88790/88790]
+

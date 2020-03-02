@@ -1,0 +1,14 @@
+--2020-03-02 00:49:49--  http://www.amdeco.org.bo/archivos/resumencartasorganicas.pdf
+Resolving www.amdeco.org.bo (www.amdeco.org.bo)... 107.155.82.34
+Connecting to www.amdeco.org.bo (www.amdeco.org.bo)|107.155.82.34|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 169666 (166K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 1.67M 1s
+    50K .......... .......... .......... .......... .......... 60% 3.31M 0s
+   100K .......... .......... .......... .......... .......... 90% 91.6M 0s
+   150K .......... .....                                      100%  461M=0.4s
+
+2020-03-02 00:49:50 (3.63 Mb/s) - ‘/dev/null’ saved [169666/169666]
+

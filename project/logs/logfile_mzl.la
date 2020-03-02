@@ -1,0 +1,22 @@
+--2020-03-02 06:08:50--  http://mzl.la/1GqzenW
+Resolving mzl.la (mzl.la)... 67.199.248.13, 67.199.248.12
+Connecting to mzl.la (mzl.la)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://mzl.la/1GqzenW [following]
+--2020-03-02 06:08:50--  https://mzl.la/1GqzenW
+Connecting to mzl.la (mzl.la)|67.199.248.13|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://wiki.mozilla.org/images/5/59/OpenBadges-Working-Paper_012312.pdf [following]
+--2020-03-02 06:08:50--  https://wiki.mozilla.org/images/5/59/OpenBadges-Working-Paper_012312.pdf
+Resolving wiki.mozilla.org (wiki.mozilla.org)... 35.164.211.143, 34.217.164.92, 52.88.156.223
+Connecting to wiki.mozilla.org (wiki.mozilla.org)|35.164.211.143|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138169 (135K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 2.98M 0s
+    50K .......... .......... .......... .......... .......... 74% 3.01M 0s
+   100K .......... .......... .......... ....                 100%  240M=0.3s
+
+2020-03-02 06:08:51 (4.03 Mb/s) - ‘/dev/null’ saved [138169/138169]
+

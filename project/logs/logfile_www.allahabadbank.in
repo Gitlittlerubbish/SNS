@@ -1,0 +1,17 @@
+--2020-03-02 04:43:48--  http://www.allahabadbank.in/pdf/Funds_transfer_limit_IB.pdf
+Resolving www.allahabadbank.in (www.allahabadbank.in)... 180.179.125.152
+Connecting to www.allahabadbank.in (www.allahabadbank.in)|180.179.125.152|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.allahabadbank.in [following]
+--2020-03-02 04:43:48--  https://www.allahabadbank.in/
+Connecting to www.allahabadbank.in (www.allahabadbank.in)|180.179.125.152|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152895 (149K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 3.07M 0s
+    50K .......... .......... .......... .......... .......... 66% 3.13M 0s
+   100K .......... .......... .......... .......... ......... 100% 3.17M=0.4s
+
+2020-03-02 04:43:50 (3.13 Mb/s) - ‘/dev/null’ saved [152895/152895]
+

@@ -1,0 +1,12 @@
+--2020-03-02 01:32:52--  http://www.diners.bg/uploads/Documents/DECLARATION_RELATEDNESS_individuals.pdf
+Resolving www.diners.bg (www.diners.bg)... 193.178.166.34
+Connecting to www.diners.bg (www.diners.bg)|193.178.166.34|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56211 (55K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 91% 4.32M 0s
+    50K ....                                                  100%  691M=0.09s
+
+2020-03-02 01:32:52 (4.74 Mb/s) - ‘/dev/null’ saved [56211/56211]
+

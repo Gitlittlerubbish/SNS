@@ -1,0 +1,22 @@
+--2020-03-01 23:19:15--  http://www.armenic.am/files_pdf/17
+Resolving www.armenic.am (www.armenic.am)... 213.136.90.110
+Connecting to www.armenic.am (www.armenic.am)|213.136.90.110|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22640 (22K)
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..                              100% 8.70M=0.02s
+
+2020-03-01 23:19:15 (8.70 Mb/s) - ‘/dev/null’ saved [22640/22640]
+
+--2020-03-01 23:19:15--  http://www.armenic.am/files_pdf/12
+Resolving www.armenic.am (www.armenic.am)... 213.136.90.110
+Connecting to www.armenic.am (www.armenic.am)|213.136.90.110|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 26669 (26K)
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                          100% 10.2M=0.02s
+
+2020-03-01 23:19:15 (10.2 Mb/s) - ‘/dev/null’ saved [26669/26669]
+

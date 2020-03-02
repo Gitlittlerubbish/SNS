@@ -1,0 +1,15 @@
+--2020-03-01 23:08:36--  http://www.usal.edu.ar/archivos/academiadecapitales/otros/adarragara.pdf
+Resolving www.usal.edu.ar (www.usal.edu.ar)... 200.41.127.28
+Connecting to www.usal.edu.ar (www.usal.edu.ar)|200.41.127.28|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 212291 (207K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  666K 2s
+    50K .......... .......... .......... .......... .......... 48% 1.33M 1s
+   100K .......... .......... .......... .......... .......... 72% 1.34M 0s
+   150K .......... .......... .......... .......... .......... 96%  233M 0s
+   200K .......                                               100% 2.61G=1.2s
+
+2020-03-01 23:08:38 (1.38 Mb/s) - ‘/dev/null’ saved [212291/212291]
+

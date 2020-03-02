@@ -1,0 +1,15 @@
+--2020-03-02 00:40:21--  http://www.bhutanairlines.bt/assets/bhutan-airlines-images/pdf/flightschedule.pdf
+Resolving www.bhutanairlines.bt (www.bhutanairlines.bt)... 198.199.111.87
+Connecting to www.bhutanairlines.bt (www.bhutanairlines.bt)|198.199.111.87|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 228922 (224K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.33M 1s
+    50K .......... .......... .......... .......... .......... 44% 2.72M 1s
+   100K .......... .......... .......... .......... .......... 67% 98.0M 0s
+   150K .......... .......... .......... .......... .......... 89% 2.68M 0s
+   200K .......... .......... ...                             100% 1.30M=0.8s
+
+2020-03-02 00:40:22 (2.40 Mb/s) - ‘/dev/null’ saved [228922/228922]
+

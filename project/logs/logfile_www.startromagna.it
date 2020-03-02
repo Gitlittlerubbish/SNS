@@ -1,0 +1,17 @@
+--2020-03-02 05:09:11--  http://www.startromagna.it/downloads/orari/Ravenna_Linea_80.pdf
+Resolving www.startromagna.it (www.startromagna.it)... 77.89.20.40
+Connecting to www.startromagna.it (www.startromagna.it)|77.89.20.40|:80... connected.
+HTTP request sent, awaiting response... 302 Found : Moved Temporarily
+Location: https://www.startromagna.it/downloads/orari/Ravenna_Linea_80.pdf [following]
+--2020-03-02 05:09:11--  https://www.startromagna.it/downloads/orari/Ravenna_Linea_80.pdf
+Connecting to www.startromagna.it (www.startromagna.it)|77.89.20.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102538 (100K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 5.79M 0s
+    50K .......... .......... .......... .......... .......... 99% 11.5M 0s
+   100K                                                       100% 22.1K=0.1s
+
+2020-03-02 05:09:12 (7.71 Mb/s) - ‘/dev/null’ saved [102538/102538]
+

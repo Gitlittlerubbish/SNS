@@ -1,0 +1,12 @@
+--2020-03-02 01:26:01--  http://www.mfa.gov.bn/PublishingImages/scholarshipfaq/ScholarshipFAQs.pdf
+Resolving www.mfa.gov.bn (www.mfa.gov.bn)... 103.4.188.86
+Connecting to www.mfa.gov.bn (www.mfa.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68156 (67K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 75%  381K 0s
+    50K .......... ......                                     100% 1.14G=1.1s
+
+2020-03-02 01:26:03 (507 Kb/s) - ‘/dev/null’ saved [68156/68156]
+

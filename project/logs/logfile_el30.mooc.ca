@@ -1,0 +1,26 @@
+--2020-03-02 01:52:35--  http://el30.mooc.ca/post/68500/rd
+Resolving el30.mooc.ca (el30.mooc.ca)... 167.99.39.236
+Connecting to el30.mooc.ca (el30.mooc.ca)|167.99.39.236|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://el30.mooc.ca/post/68500/rd [following]
+--2020-03-02 01:52:36--  https://el30.mooc.ca/post/68500/rd
+Connecting to el30.mooc.ca (el30.mooc.ca)|167.99.39.236|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://el30.mooc.ca/cgi-bin/page.cgi?post=68500&action=rd [following]
+--2020-03-02 01:52:36--  https://el30.mooc.ca/cgi-bin/page.cgi?post=68500&action=rd
+Reusing existing connection to el30.mooc.ca:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://core.ac.uk/download/pdf/81145809.pdf [following]
+--2020-03-02 01:52:37--  https://core.ac.uk/download/pdf/81145809.pdf
+Resolving core.ac.uk (core.ac.uk)... 99.81.65.242, 99.81.75.219
+Connecting to core.ac.uk (core.ac.uk)|99.81.65.242|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120071 (117K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 31.0M 0s
+    50K .......... .......... .......... .......... .......... 85% 29.1M 0s
+   100K .......... .......                                    100%  132M=0.03s
+
+2020-03-02 01:52:38 (33.9 Mb/s) - ‘/dev/null’ saved [120071/120071]
+

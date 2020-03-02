@@ -1,0 +1,21 @@
+--2020-03-02 05:23:59--  http://student.aabu.edu.jo/syllabus_pdf/syllabus9011322001.pdf
+Resolving student.aabu.edu.jo (student.aabu.edu.jo)... 87.236.233.44
+Connecting to student.aabu.edu.jo (student.aabu.edu.jo)|87.236.233.44|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://student.aabu.edu.jo/syllabus_pdf/syllabus9011322001.pdf [following]
+--2020-03-02 05:24:00--  https://student.aabu.edu.jo/syllabus_pdf/syllabus9011322001.pdf
+Connecting to student.aabu.edu.jo (student.aabu.edu.jo)|87.236.233.44|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 333625 (326K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 2.52M 1s
+    50K .......... .......... .......... .......... .......... 30% 2.50M 1s
+   100K .......... .......... .......... .......... .......... 46% 4.98M 0s
+   150K .......... .......... .......... .......... .......... 61% 5.19M 0s
+   200K .......... .......... .......... .......... .......... 76%  119M 0s
+   250K .......... .......... .......... .......... .......... 92% 5.16M 0s
+   300K .......... .......... .....                           100%  182M=0.6s
+
+2020-03-02 05:24:01 (4.67 Mb/s) - ‘/dev/null’ saved [333625/333625]
+

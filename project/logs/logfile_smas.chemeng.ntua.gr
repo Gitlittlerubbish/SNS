@@ -1,0 +1,13 @@
+--2020-03-02 04:07:19--  http://smas.chemeng.ntua.gr/miram/files/publ_359_5_10_2005.pdf
+Resolving smas.chemeng.ntua.gr (smas.chemeng.ntua.gr)... 147.102.83.184
+Connecting to smas.chemeng.ntua.gr (smas.chemeng.ntua.gr)|147.102.83.184|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106075 (104K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 1.07M 0s
+    50K .......... .......... .......... .......... .......... 96% 7.10M 0s
+   100K ...                                                   100%  548K=0.5s
+
+2020-03-02 04:07:20 (1.72 Mb/s) - ‘/dev/null’ saved [106075/106075]
+

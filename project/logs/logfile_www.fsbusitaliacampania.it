@@ -1,0 +1,12 @@
+--2020-03-02 05:08:41--  http://www.fsbusitaliacampania.it/linee/18fe.pdf
+Resolving www.fsbusitaliacampania.it (www.fsbusitaliacampania.it)... 217.148.123.79
+Connecting to www.fsbusitaliacampania.it (www.fsbusitaliacampania.it)|217.148.123.79|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55111 (54K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 92% 5.60M 0s
+    50K ...                                                   100%  626K=0.07s
+
+2020-03-02 05:08:41 (6.03 Mb/s) - ‘/dev/null’ saved [55111/55111]
+

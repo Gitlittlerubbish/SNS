@@ -1,0 +1,16 @@
+--2020-03-02 06:58:00--  http://www.luanar.ac.mw/library/Archive/New_books_2016_1.pdf
+Resolving www.luanar.ac.mw (www.luanar.ac.mw)... 35.223.234.243
+Connecting to www.luanar.ac.mw (www.luanar.ac.mw)|35.223.234.243|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266935 (261K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 2.08M 1s
+    50K .......... .......... .......... .......... .......... 38% 4.18M 0s
+   100K .......... .......... .......... .......... .......... 57% 96.6M 0s
+   150K .......... .......... .......... .......... .......... 76%  147M 0s
+   200K .......... .......... .......... .......... .......... 95% 4.35M 0s
+   250K ..........                                            100%  554M=0.4s
+
+2020-03-02 06:58:02 (5.39 Mb/s) - ‘/dev/null’ saved [266935/266935]
+

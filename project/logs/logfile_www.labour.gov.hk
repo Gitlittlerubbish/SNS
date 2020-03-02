@@ -1,0 +1,19 @@
+--2020-03-02 04:30:01--  http://www.labour.gov.hk/text_alternative/pdf/tc/06.pdf
+Resolving www.labour.gov.hk (www.labour.gov.hk)... 104.17.216.191, 104.17.215.191
+Connecting to www.labour.gov.hk (www.labour.gov.hk)|104.17.216.191|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.labour.gov.hk/text_alternative/pdf/tc/06.pdf [following]
+--2020-03-02 04:30:01--  https://www.labour.gov.hk/text_alternative/pdf/tc/06.pdf
+Connecting to www.labour.gov.hk (www.labour.gov.hk)|104.17.216.191|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218370 (213K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  116M 0s
+    50K .......... .......... .......... .......... .......... 46%  169M 0s
+   100K .......... .......... .......... .......... .......... 70% 87.5M 0s
+   150K .......... .......... .......... .......... .......... 93%  322M 0s
+   200K .......... ...                                        100%  714M=0.01s
+
+2020-03-02 04:30:02 (145 Mb/s) - ‘/dev/null’ saved [218370/218370]
+

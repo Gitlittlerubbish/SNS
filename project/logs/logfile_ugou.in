@@ -1,0 +1,15 @@
+--2020-03-02 04:40:41--  http://ugou.in/9yMg9
+Resolving ugou.in (ugou.in)... 194.59.164.74
+Connecting to ugou.in (ugou.in)|194.59.164.74|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ugou.in/9yMg9 [following]
+--2020-03-02 04:40:41--  https://ugou.in/9yMg9
+Connecting to ugou.in (ugou.in)|194.59.164.74|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 272 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  145M=0s
+
+2020-03-02 04:40:42 (145 Mb/s) - ‘/dev/null’ saved [272/272]
+

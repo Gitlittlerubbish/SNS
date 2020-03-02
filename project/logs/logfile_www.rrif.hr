@@ -1,0 +1,19 @@
+--2020-03-02 02:54:59--  http://www.rrif.hr/X_RACUNOVODSTVENE_INFORMACIJE_-19172C.pdf
+Resolving www.rrif.hr (www.rrif.hr)... 185.58.73.152
+Connecting to www.rrif.hr (www.rrif.hr)|185.58.73.152|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rrif.hr/X_RACUNOVODSTVENE_INFORMACIJE_-19172C.pdf [following]
+--2020-03-02 02:54:59--  https://www.rrif.hr/X_RACUNOVODSTVENE_INFORMACIJE_-19172C.pdf
+Connecting to www.rrif.hr (www.rrif.hr)|185.58.73.152|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.13M
+    50K .......... .......... .......... .......... .......... 8.65M
+   100K .......... .......... .......... .......... ..........  125M
+   150K .......... .......... .......... .......... .......... 8.86M
+   200K .......... .......                                      130M=0.2s
+
+2020-03-02 02:55:00 (9.05 Mb/s) - ‘/dev/null’ saved [223022]
+

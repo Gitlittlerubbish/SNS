@@ -1,0 +1,22 @@
+--2020-03-02 01:52:43--  http://www.ramtruck.ca/en_dir/pdf/RAMFact_2_EN.pdf
+Resolving www.ramtruck.ca (www.ramtruck.ca)... 143.204.192.99, 143.204.192.47, 143.204.192.122, ...
+Connecting to www.ramtruck.ca (www.ramtruck.ca)|143.204.192.99|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ramtruck.ca/en_dir/pdf/RAMFact_2_EN.pdf [following]
+--2020-03-02 01:52:44--  https://www.ramtruck.ca/en_dir/pdf/RAMFact_2_EN.pdf
+Connecting to www.ramtruck.ca (www.ramtruck.ca)|143.204.192.99|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 377978 (369K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 64.3M 0s
+    50K .......... .......... .......... .......... .......... 27%  103M 0s
+   100K .......... .......... .......... .......... .......... 40%  189M 0s
+   150K .......... .......... .......... .......... .......... 54%  190M 0s
+   200K .......... .......... .......... .......... .......... 67%  108M 0s
+   250K .......... .......... .......... .......... .......... 81% 51.6M 0s
+   300K .......... .......... .......... .......... .......... 94%  197M 0s
+   350K .......... .........                                  100%  757M=0.03s
+
+2020-03-02 01:52:44 (105 Mb/s) - ‘/dev/null’ saved [377978/377978]
+

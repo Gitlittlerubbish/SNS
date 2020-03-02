@@ -1,0 +1,17 @@
+--2020-03-02 05:03:11--  http://www.foxberry.im/governance/conflict_of_interest_policy.pdf
+Resolving www.foxberry.im (www.foxberry.im)... 212.71.234.25
+Connecting to www.foxberry.im (www.foxberry.im)|212.71.234.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.foxberry.com/governance/conflict_of_interest_policy.pdf [following]
+--2020-03-02 05:03:11--  https://www.foxberry.com/governance/conflict_of_interest_policy.pdf
+Resolving www.foxberry.com (www.foxberry.com)... 212.71.234.25
+Connecting to www.foxberry.com (www.foxberry.com)|212.71.234.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102283 (100K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50% 64.8M 0s
+    50K .......... .......... .......... .......... ......... 100%  154M=0.009s
+
+2020-03-02 05:03:11 (91.2 Mb/s) - ‘/dev/null’ saved [102283/102283]
+

@@ -1,0 +1,16 @@
+--2020-03-02 04:58:49--  http://en.irct.ir/trial/18539/pdf
+Resolving en.irct.ir (en.irct.ir)... 46.4.195.88
+Connecting to en.irct.ir (en.irct.ir)|46.4.195.88|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://en.irct.ir/trial/18539/pdf [following]
+--2020-03-02 04:58:49--  https://en.irct.ir/trial/18539/pdf
+Connecting to en.irct.ir (en.irct.ir)|46.4.195.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.71M
+    50K .......... .......... ..                               8.89M=0.07s
+
+2020-03-02 04:58:50 (8.04 Mb/s) - ‘/dev/null’ saved [74452]
+

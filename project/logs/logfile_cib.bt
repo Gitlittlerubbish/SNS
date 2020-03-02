@@ -1,0 +1,19 @@
+--2020-03-02 00:36:33--  http://cib.bt/ProductAndServices/EMPLOYMENT_FORM.pdf
+Resolving cib.bt (cib.bt)... 202.144.151.34
+Connecting to cib.bt (cib.bt)|202.144.151.34|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cib.bt/ProductAndServices/EMPLOYMENT_FORM.pdf [following]
+--2020-03-02 00:36:35--  https://cib.bt/ProductAndServices/EMPLOYMENT_FORM.pdf
+Connecting to cib.bt (cib.bt)|202.144.151.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 214037 (209K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  593K 2s
+    50K .......... .......... .......... .......... .......... 47% 1.18M 1s
+   100K .......... .......... .......... .......... .......... 71%  793K 1s
+   150K .......... .......... .......... .......... .......... 95% 1.19M 0s
+   200K .........                                             100%  547M=1.9s
+
+2020-03-02 00:36:38 (901 Kb/s) - ‘/dev/null’ saved [214037/214037]
+

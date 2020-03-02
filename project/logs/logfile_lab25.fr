@@ -1,0 +1,22 @@
+--2020-03-02 03:46:22--  http://lab25.fr/FT/biomnis/atpo.pdf
+Resolving lab25.fr (lab25.fr)... 194.206.126.204
+Connecting to lab25.fr (lab25.fr)|194.206.126.204|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://lab25.pagesperso-orange.fr/FT/biomnis/atpo.pdf [following]
+--2020-03-02 03:46:22--  http://lab25.pagesperso-orange.fr/FT/biomnis/atpo.pdf
+Resolving lab25.pagesperso-orange.fr (lab25.pagesperso-orange.fr)... 193.252.121.242
+Connecting to lab25.pagesperso-orange.fr (lab25.pagesperso-orange.fr)|193.252.121.242|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lab25.pagesperso-orange.fr/FT/biomnis/atpo.pdf [following]
+--2020-03-02 03:46:23--  https://lab25.pagesperso-orange.fr/FT/biomnis/atpo.pdf
+Connecting to lab25.pagesperso-orange.fr (lab25.pagesperso-orange.fr)|193.252.121.242|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121524 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 15.2M 0s
+    50K .......... .......... .......... .......... .......... 84% 28.7M 0s
+   100K .......... ........                                   100%  141M=0.04s
+
+2020-03-02 03:46:23 (23.0 Mb/s) - ‘/dev/null’ saved [121524/121524]
+

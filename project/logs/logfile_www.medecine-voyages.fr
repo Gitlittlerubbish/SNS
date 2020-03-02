@@ -1,0 +1,17 @@
+--2020-03-02 03:46:22--  http://www.medecine-voyages.fr/publications/ficheinfovaccinStamaril.pdf
+Resolving www.medecine-voyages.fr (www.medecine-voyages.fr)... 195.64.164.104
+Connecting to www.medecine-voyages.fr (www.medecine-voyages.fr)|195.64.164.104|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.medecine-voyages.fr/publications/ficheinfovaccinStamaril.pdf [following]
+--2020-03-02 03:46:22--  https://www.medecine-voyages.fr/publications/ficheinfovaccinStamaril.pdf
+Connecting to www.medecine-voyages.fr (www.medecine-voyages.fr)|195.64.164.104|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 118328 (116K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 43% 8.69M 0s
+    50K .......... .......... .......... .......... .......... 86% 18.2M 0s
+   100K .......... .....                                      100%  787M=0.07s
+
+2020-03-02 03:46:22 (13.6 Mb/s) - ‘/dev/null’ saved [118328/118328]
+

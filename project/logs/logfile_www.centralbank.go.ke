@@ -1,0 +1,16 @@
+--2020-03-02 05:33:01--  http://www.centralbank.go.ke/images/docs/media/Public_Notice_on_virtual_currencies_such_as_Bitcoin.pdf
+Resolving www.centralbank.go.ke (www.centralbank.go.ke)... 192.124.249.9
+Connecting to www.centralbank.go.ke (www.centralbank.go.ke)|192.124.249.9|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.centralbank.go.ke/images/docs/media/Public_Notice_on_virtual_currencies_such_as_Bitcoin.pdf [following]
+--2020-03-02 05:33:01--  https://www.centralbank.go.ke/images/docs/media/Public_Notice_on_virtual_currencies_such_as_Bitcoin.pdf
+Connecting to www.centralbank.go.ke (www.centralbank.go.ke)|192.124.249.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65780 (64K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 77% 18.3M 0s
+    50K .......... ....                                       100%  113M=0.02s
+
+2020-03-02 05:33:01 (22.5 Mb/s) - ‘/dev/null’ saved [65780/65780]
+

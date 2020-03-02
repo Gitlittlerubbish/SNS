@@ -1,0 +1,21 @@
+--2020-03-02 06:13:39--  http://athletics.lv/file/download/51919
+Resolving athletics.lv (athletics.lv)... 108.61.211.95
+Connecting to athletics.lv (athletics.lv)|108.61.211.95|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://athletics.lv/file/download/51919 [following]
+--2020-03-02 06:13:39--  https://athletics.lv/file/download/51919
+Connecting to athletics.lv (athletics.lv)|108.61.211.95|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://athletics.lv/lv/file/download/51919 [following]
+--2020-03-02 06:13:39--  https://athletics.lv/lv/file/download/51919
+Reusing existing connection to athletics.lv:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17.9M
+    50K .......... .......... .......... .......... .......... 30.3M
+   100K .......... .......... .....                            94.5M=0.04s
+
+2020-03-02 06:13:39 (26.6 Mb/s) - ‘/dev/null’ saved [128766]
+

@@ -1,0 +1,32 @@
+--2020-03-02 04:15:19--  http://blog.encrypted.gg/attachment/cfile7.uf%40993171395B4483F83110D5.pdf
+Resolving blog.encrypted.gg (blog.encrypted.gg)... 27.0.236.139
+Connecting to blog.encrypted.gg (blog.encrypted.gg)|27.0.236.139|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://blog.encrypted.gg/attachment/cfile7.uf%40993171395B4483F83110D5.pdf [following]
+--2020-03-02 04:15:20--  https://blog.encrypted.gg/attachment/cfile7.uf%40993171395B4483F83110D5.pdf
+Connecting to blog.encrypted.gg (blog.encrypted.gg)|27.0.236.139|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://t1.daumcdn.net/cfile/tistory/993171395B4483F831?download [following]
+--2020-03-02 04:15:21--  https://t1.daumcdn.net/cfile/tistory/993171395B4483F831?download
+Resolving t1.daumcdn.net (t1.daumcdn.net)... 163.171.130.131
+Connecting to t1.daumcdn.net (t1.daumcdn.net)|163.171.130.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 638154 (623K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8%  276M 0s
+    50K .......... .......... .......... .......... .......... 16% 29.0M 0s
+   100K .......... .......... .......... .......... .......... 24% 43.3M 0s
+   150K .......... .......... .......... .......... .......... 32% 40.0M 0s
+   200K .......... .......... .......... .......... .......... 40%  136M 0s
+   250K .......... .......... .......... .......... .......... 48%  103M 0s
+   300K .......... .......... .......... .......... .......... 56%  133M 0s
+   350K .......... .......... .......... .......... .......... 64%  110M 0s
+   400K .......... .......... .......... .......... .......... 72%  336M 0s
+   450K .......... .......... .......... .......... .......... 80% 98.9M 0s
+   500K .......... .......... .......... .......... .......... 88%  148M 0s
+   550K .......... .......... .......... .......... .......... 96%  318M 0s
+   600K .......... .......... ...                             100% 1.12G=0.06s
+
+2020-03-02 04:15:21 (87.0 Mb/s) - ‘/dev/null’ saved [638154/638154]
+

@@ -1,0 +1,39 @@
+--2020-03-02 03:38:37--  http://www.labour.gov.fj/laws/HASAWA_Train_1997.pdf
+Resolving www.labour.gov.fj (www.labour.gov.fj)... 124.108.31.205
+Connecting to www.labour.gov.fj (www.labour.gov.fj)|124.108.31.205|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.employment.gov.fj/laws/HASAWA_Train_1997.pdf [following]
+--2020-03-02 03:38:41--  http://www.employment.gov.fj/laws/HASAWA_Train_1997.pdf
+Resolving www.employment.gov.fj (www.employment.gov.fj)... 124.108.31.205
+Connecting to www.employment.gov.fj (www.employment.gov.fj)|124.108.31.205|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92662 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55%  541K 1s
+    50K .......... .......... .......... ..........           100%  897K=1.1s
+
+2020-03-02 03:38:44 (658 Kb/s) - ‘/dev/null’ saved [92662/92662]
+
+--2020-03-02 03:38:44--  http://www.labour.gov.fj/laws/TUA_Cap96.pdf
+Resolving www.labour.gov.fj (www.labour.gov.fj)... 124.108.31.205
+Connecting to www.labour.gov.fj (www.labour.gov.fj)|124.108.31.205|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.employment.gov.fj/laws/TUA_Cap96.pdf [following]
+--2020-03-02 03:38:45--  http://www.employment.gov.fj/laws/TUA_Cap96.pdf
+Resolving www.employment.gov.fj (www.employment.gov.fj)... 124.108.31.205
+Connecting to www.employment.gov.fj (www.employment.gov.fj)|124.108.31.205|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 342522 (334K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14%  539K 4s
+    50K .......... .......... .......... .......... .......... 29% 1.11M 3s
+   100K .......... .......... .......... .......... .......... 44% 1000K 2s
+   150K .......... .......... .......... .......... .......... 59% 1.01M 1s
+   200K .......... .......... .......... .......... .......... 74%  994K 1s
+   250K .......... .......... .......... .......... .......... 89% 1.00M 0s
+   300K .......... .......... .......... ....                 100%  128M=2.8s
+
+2020-03-02 03:38:48 (990 Kb/s) - ‘/dev/null’ saved [342522/342522]
+

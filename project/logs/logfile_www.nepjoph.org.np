@@ -1,0 +1,39 @@
+--2020-03-02 08:07:45--  http://www.nepjoph.org.np/pdf/hr_201307246.pdf
+Resolving www.nepjoph.org.np (www.nepjoph.org.np)... 104.28.18.219, 104.28.19.219
+Connecting to www.nepjoph.org.np (www.nepjoph.org.np)|104.28.18.219|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nepjoph.org.np/pdf/hr_201307246.pdf [following]
+--2020-03-02 08:07:46--  https://www.nepjoph.org.np/pdf/hr_201307246.pdf
+Connecting to www.nepjoph.org.np (www.nepjoph.org.np)|104.28.18.219|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 376550 (368K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 4.59M 1s
+    50K .......... .......... .......... .......... .......... 27%  204M 0s
+   100K .......... .......... .......... .......... .......... 40% 4.66M 0s
+   150K .......... .......... .......... .......... .......... 54%  187M 0s
+   200K .......... .......... .......... .......... .......... 67% 4.81M 0s
+   250K .......... .......... .......... .......... .......... 81% 99.3M 0s
+   300K .......... .......... .......... .......... .......... 95%  191M 0s
+   350K .......... .......                                    100%  802M=0.3s
+
+2020-03-02 08:07:47 (11.0 Mb/s) - ‘/dev/null’ saved [376550/376550]
+
+--2020-03-02 08:07:47--  http://www.nepjoph.org.np/pdf/NEPjOPH_20110177.pdf
+Resolving www.nepjoph.org.np (www.nepjoph.org.np)... 104.28.18.219, 104.28.19.219
+Connecting to www.nepjoph.org.np (www.nepjoph.org.np)|104.28.18.219|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nepjoph.org.np/pdf/NEPjOPH_20110177.pdf [following]
+--2020-03-02 08:07:47--  https://www.nepjoph.org.np/pdf/NEPjOPH_20110177.pdf
+Connecting to www.nepjoph.org.np (www.nepjoph.org.np)|104.28.18.219|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139030 (136K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 44.8M 0s
+    50K .......... .......... .......... .......... .......... 73%  103M 0s
+   100K .......... .......... .......... .....                100%  167M=0.01s
+
+2020-03-02 08:07:48 (74.7 Mb/s) - ‘/dev/null’ saved [139030/139030]
+

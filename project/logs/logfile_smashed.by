@@ -1,0 +1,27 @@
+--2020-03-02 00:13:21--  http://smashed.by/bullgraph
+Resolving smashed.by (smashed.by)... 46.4.119.119
+Connecting to smashed.by (smashed.by)|46.4.119.119|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://smashed.by/bullgraph [following]
+--2020-03-02 00:13:21--  https://smashed.by/bullgraph
+Connecting to smashed.by (smashed.by)|46.4.119.119|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.perceptualedge.com/articles/misc/Bullet_Graph_Design_Spec.pdf [following]
+--2020-03-02 00:13:22--  http://www.perceptualedge.com/articles/misc/Bullet_Graph_Design_Spec.pdf
+Resolving www.perceptualedge.com (www.perceptualedge.com)... 184.154.46.243
+Connecting to www.perceptualedge.com (www.perceptualedge.com)|184.154.46.243|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 374717 (366K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 1.48M 2s
+    50K .......... .......... .......... .......... .......... 27% 2.96M 1s
+   100K .......... .......... .......... .......... .......... 40% 2.94M 1s
+   150K .......... .......... .......... .......... .......... 54% 3.01M 1s
+   200K .......... .......... .......... .......... .......... 68%  168M 0s
+   250K .......... .......... .......... .......... .......... 81% 3.01M 0s
+   300K .......... .......... .......... .......... .......... 95%  122M 0s
+   350K .......... .....                                      100%  953M=0.8s
+
+2020-03-02 00:13:23 (3.61 Mb/s) - ‘/dev/null’ saved [374717/374717]
+

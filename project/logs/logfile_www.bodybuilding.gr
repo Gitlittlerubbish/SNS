@@ -1,0 +1,21 @@
+--2020-03-02 04:07:28--  http://www.bodybuilding.gr/forum/attachment.php%3Fattachmentid%3D85726%26d%3D1405154054
+Resolving www.bodybuilding.gr (www.bodybuilding.gr)... 54.37.165.159
+Connecting to www.bodybuilding.gr (www.bodybuilding.gr)|54.37.165.159|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bodybuilding.gr/forum/attachment.php?attachmentid=85726&d=1405154054 [following]
+--2020-03-02 04:07:28--  https://bodybuilding.gr/forum/attachment.php?attachmentid=85726&d=1405154054
+Resolving bodybuilding.gr (bodybuilding.gr)... 54.37.165.159
+Connecting to bodybuilding.gr (bodybuilding.gr)|54.37.165.159|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 280717 (274K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 26.0M 0s
+    50K .......... .......... .......... .......... .......... 36% 46.1M 0s
+   100K .......... .......... .......... .......... .......... 54% 42.3M 0s
+   150K .......... .......... .......... .......... .......... 72% 40.1M 0s
+   200K .......... .......... .......... .......... .......... 91% 59.1M 0s
+   250K .......... .......... ....                            100% 88.6M=0.05s
+
+2020-03-02 04:07:28 (41.8 Mb/s) - ‘/dev/null’ saved [280717/280717]
+

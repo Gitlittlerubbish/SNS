@@ -1,0 +1,16 @@
+--2020-03-02 03:31:00--  http://karellkiirabi.ee/Ravimid/Nurofen.pdf
+Resolving karellkiirabi.ee (karellkiirabi.ee)... 185.31.240.26
+Connecting to karellkiirabi.ee (karellkiirabi.ee)|185.31.240.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://karellkiirabi.ee/Ravimid/Nurofen.pdf [following]
+--2020-03-02 03:31:00--  https://karellkiirabi.ee/Ravimid/Nurofen.pdf
+Connecting to karellkiirabi.ee (karellkiirabi.ee)|185.31.240.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100665 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50% 5.47M 0s
+    50K .......... .......... .......... .......... ........  100%  352M=0.08s
+
+2020-03-02 03:31:00 (10.6 Mb/s) - ‘/dev/null’ saved [100665/100665]
+

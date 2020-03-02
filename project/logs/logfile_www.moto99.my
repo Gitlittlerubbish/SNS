@@ -1,0 +1,13 @@
+--2020-03-02 07:03:47--  http://www.moto99.my/download/International-Rates.pdf
+Resolving www.moto99.my (www.moto99.my)... 104.28.10.98, 104.28.11.98
+Connecting to www.moto99.my (www.moto99.my)|104.28.10.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131871 (129K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 4.14M 0s
+    50K .......... .......... .......... .......... .......... 77%  105M 0s
+   100K .......... .......... ........                        100%  116M=0.1s
+
+2020-03-02 07:03:48 (10.1 Mb/s) - ‘/dev/null’ saved [131871/131871]
+

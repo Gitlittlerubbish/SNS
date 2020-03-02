@@ -1,0 +1,36 @@
+--2020-03-01 23:43:30--  http://www.24hpflege.at/upload/e402-sk.pdf
+Resolving www.24hpflege.at (www.24hpflege.at)... 46.229.232.192
+Connecting to www.24hpflege.at (www.24hpflege.at)|46.229.232.192|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.24hpflege.at/upload/e402-sk.pdf [following]
+--2020-03-01 23:43:30--  https://www.24hpflege.at/upload/e402-sk.pdf
+Connecting to www.24hpflege.at (www.24hpflege.at)|46.229.232.192|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154318 (151K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 3.68M 0s
+    50K .......... .......... .......... .......... .......... 66% 10.6M 0s
+   100K .......... .......... .......... .......... .......... 99% 11.0M 0s
+   150K                                                       100%  115K=0.2s
+
+2020-03-01 23:43:30 (6.59 Mb/s) - ‘/dev/null’ saved [154318/154318]
+
+--2020-03-01 23:43:32--  http://www.24hpflege.at/upload/e402-sk.pdf
+Resolving www.24hpflege.at (www.24hpflege.at)... 46.229.232.192
+Connecting to www.24hpflege.at (www.24hpflege.at)|46.229.232.192|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.24hpflege.at/upload/e402-sk.pdf [following]
+--2020-03-01 23:43:33--  https://www.24hpflege.at/upload/e402-sk.pdf
+Connecting to www.24hpflege.at (www.24hpflege.at)|46.229.232.192|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154318 (151K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 5.40M 0s
+    50K .......... .......... .......... .......... .......... 66% 10.6M 0s
+   100K .......... .......... .......... .......... .......... 99% 10.9M 0s
+   150K                                                       100%  115K=0.2s
+
+2020-03-01 23:43:33 (8.13 Mb/s) - ‘/dev/null’ saved [154318/154318]
+

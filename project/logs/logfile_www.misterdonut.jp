@@ -1,0 +1,16 @@
+--2020-03-02 05:21:01--  http://www.misterdonut.jp/m_menu/eiyou/eiyou.pdf
+Resolving www.misterdonut.jp (www.misterdonut.jp)... 169.56.50.102, 128.168.77.243
+Connecting to www.misterdonut.jp (www.misterdonut.jp)|169.56.50.102|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.misterdonut.jp/m_menu/eiyou/eiyou.pdf [following]
+--2020-03-02 05:21:02--  https://www.misterdonut.jp/m_menu/eiyou/eiyou.pdf
+Connecting to www.misterdonut.jp (www.misterdonut.jp)|169.56.50.102|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69877 (68K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73%  443K 0s
+    50K .......... ........                                   100% 1.64G=0.9s
+
+2020-03-02 05:21:04 (605 Kb/s) - ‘/dev/null’ saved [69877/69877]
+

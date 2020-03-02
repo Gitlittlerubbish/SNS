@@ -1,0 +1,13 @@
+--2020-03-02 03:04:11--  http://www.cafephenix.dk/pdf/phenix_menu.pdf
+Resolving www.cafephenix.dk (www.cafephenix.dk)... 87.116.7.48
+Connecting to www.cafephenix.dk (www.cafephenix.dk)|87.116.7.48|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109429 (107K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 5.56M 0s
+    50K .......... .......... .......... .......... .......... 93% 11.5M 0s
+   100K ......                                                100%  246M=0.1s
+
+2020-03-02 03:04:12 (7.99 Mb/s) - ‘/dev/null’ saved [109429/109429]
+

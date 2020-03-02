@@ -1,0 +1,12 @@
+--2020-03-02 01:09:41--  http://www.waltenomartins.com.br/hcs_livro_cap_2.pdf
+Resolving www.waltenomartins.com.br (www.waltenomartins.com.br)... 143.137.191.41
+Connecting to www.waltenomartins.com.br (www.waltenomartins.com.br)|143.137.191.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97120 (95K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52%  333K 1s
+    50K .......... .......... .......... .......... ....      100%  597K=1.8s
+
+2020-03-02 01:09:44 (422 Kb/s) - ‘/dev/null’ saved [97120/97120]
+

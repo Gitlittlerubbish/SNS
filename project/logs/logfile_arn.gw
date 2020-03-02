@@ -1,0 +1,30 @@
+--2020-03-02 04:16:41--  http://arn.gw/activeapp/wp-content/uploads/2015/03/directive_04_2006_CM_UEMOA.pdf
+Resolving arn.gw (arn.gw)... 94.46.22.71
+Connecting to arn.gw (arn.gw)|94.46.22.71|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://arn.gw/activeapp/wp-content/uploads/2015/03/directive_04_2006_CM_UEMOA.pdf [following]
+--2020-03-02 04:16:41--  https://arn.gw/activeapp/wp-content/uploads/2015/03/directive_04_2006_CM_UEMOA.pdf
+Connecting to arn.gw (arn.gw)|94.46.22.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29501 (29K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ........                        100%  194M=0.001s
+
+2020-03-02 04:16:42 (194 Mb/s) - ‘/dev/null’ saved [29501/29501]
+
+--2020-03-02 04:16:42--  http://arn.gw/activeapp/wp-content/uploads/2015/03/directive_03_2006_CM_UEMOA.pdf
+Resolving arn.gw (arn.gw)... 94.46.22.71
+Connecting to arn.gw (arn.gw)|94.46.22.71|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://arn.gw/activeapp/wp-content/uploads/2015/03/directive_03_2006_CM_UEMOA.pdf [following]
+--2020-03-02 04:16:42--  https://arn.gw/activeapp/wp-content/uploads/2015/03/directive_03_2006_CM_UEMOA.pdf
+Connecting to arn.gw (arn.gw)|94.46.22.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36968 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100% 83.7M=0.004s
+
+2020-03-02 04:16:42 (83.7 Mb/s) - ‘/dev/null’ saved [36968/36968]
+

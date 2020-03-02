@@ -1,0 +1,30 @@
+--2020-03-02 05:24:35--  http://www.plusivo.jo/index.php%3Fcontroller%3Dattachment%26id_attachment%3D1428
+Resolving www.plusivo.jo (www.plusivo.jo)... 195.201.70.219
+Connecting to www.plusivo.jo (www.plusivo.jo)|195.201.70.219|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.plusivo.jo/index.php%3Fcontroller%3Dattachment%26id_attachment%3D1428 [following]
+--2020-03-02 05:24:35--  https://www.plusivo.jo/index.php%3Fcontroller%3Dattachment%26id_attachment%3D1428
+Connecting to www.plusivo.jo (www.plusivo.jo)|195.201.70.219|:443... connected.
+HTTP request sent, awaiting response... 302 Moved
+Location: https://www.plusivo.jo/ [following]
+--2020-03-02 05:24:35--  https://www.plusivo.jo/
+Reusing existing connection to www.plusivo.jo:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.24M
+    50K .......... .......... .......... .......... .......... 13.7M
+   100K .......... .......... .......... .......... ..........  498M
+   150K .......... .......... .......... .......... .......... 14.5M
+   200K .......... .......... .......... .......... .......... 88.0M
+   250K .......... .......... .......... .......... ..........  280M
+   300K .......... .......... .......... .......... .......... 17.2M
+   350K .......... .......... .......... .......... ..........  132M
+   400K .......... .......... .......... .......... ..........  286M
+   450K .......... .......... .......... .......... ..........  237M
+   500K .......... .......... .......... .......... ..........  248M
+   550K .......... .......... .........                        10.9M=0.2s
+
+2020-03-02 05:24:35 (27.1 Mb/s) - ‘/dev/null’ saved [593015]
+

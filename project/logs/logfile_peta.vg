@@ -1,0 +1,32 @@
+--2020-03-02 01:21:16--  http://peta.vg/1k8h
+Resolving peta.vg (peta.vg)... 104.17.200.54, 104.17.201.54
+Connecting to peta.vg (peta.vg)|104.17.200.54|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.mediapeta.com/peta/PDF/horse-drawn-carriage-accidents.pdf?utm_campaign=0215%20Incidents%20Involving%20HorseDrawn%20Carriages%20Tweet&utm_source=PETA%20Twitter&utm_medium=Promo [following]
+--2020-03-02 01:21:16--  http://www.mediapeta.com/peta/PDF/horse-drawn-carriage-accidents.pdf?utm_campaign=0215%20Incidents%20Involving%20HorseDrawn%20Carriages%20Tweet&utm_source=PETA%20Twitter&utm_medium=Promo
+Resolving www.mediapeta.com (www.mediapeta.com)... 104.17.164.90, 104.17.163.90
+Connecting to www.mediapeta.com (www.mediapeta.com)|104.17.164.90|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mediapeta.com/peta/PDF/horse-drawn-carriage-accidents.pdf?utm_campaign=0215%20Incidents%20Involving%20HorseDrawn%20Carriages%20Tweet&utm_source=PETA%20Twitter&utm_medium=Promo [following]
+--2020-03-02 01:21:16--  https://www.mediapeta.com/peta/PDF/horse-drawn-carriage-accidents.pdf?utm_campaign=0215%20Incidents%20Involving%20HorseDrawn%20Carriages%20Tweet&utm_source=PETA%20Twitter&utm_medium=Promo
+Connecting to www.mediapeta.com (www.mediapeta.com)|104.17.164.90|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 615497 (601K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 83.2M 0s
+    50K .......... .......... .......... .......... .......... 16% 63.0M 0s
+   100K .......... .......... .......... .......... .......... 24%  153M 0s
+   150K .......... .......... .......... .......... .......... 33%  199M 0s
+   200K .......... .......... .......... .......... .......... 41%  208M 0s
+   250K .......... .......... .......... .......... .......... 49%  111M 0s
+   300K .......... .......... .......... .......... .......... 58%  362M 0s
+   350K .......... .......... .......... .......... .......... 66%  134M 0s
+   400K .......... .......... .......... .......... .......... 74%  437M 0s
+   450K .......... .......... .......... .......... .......... 83%  399M 0s
+   500K .......... .......... .......... .......... .......... 91%  143M 0s
+   550K .......... .......... .......... .......... .......... 99%  180M 0s
+   600K .                                                     100%  176K=0.03s
+
+2020-03-02 01:21:16 (149 Mb/s) - ‘/dev/null’ saved [615497/615497]
+

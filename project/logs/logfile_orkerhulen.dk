@@ -1,0 +1,19 @@
+--2020-03-02 03:04:10--  http://orkerhulen.dk/onewebmedia/UA_Downtime.pdf
+Resolving orkerhulen.dk (orkerhulen.dk)... 46.30.215.237
+Connecting to orkerhulen.dk (orkerhulen.dk)|46.30.215.237|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://orkerhulen.dk/onewebmedia/UA_Downtime.pdf [following]
+--2020-03-02 03:04:11--  https://orkerhulen.dk/onewebmedia/UA_Downtime.pdf
+Connecting to orkerhulen.dk (orkerhulen.dk)|46.30.215.237|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205053 (200K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 15.3M 0s
+    50K .......... .......... .......... .......... .......... 49% 15.2M 0s
+   100K .......... .......... .......... .......... .......... 74%  105M 0s
+   150K .......... .......... .......... .......... .......... 99%  415M 0s
+   200K                                                       100% 40.5K=0.06s
+
+2020-03-02 03:04:11 (28.0 Mb/s) - ‘/dev/null’ saved [205053/205053]
+

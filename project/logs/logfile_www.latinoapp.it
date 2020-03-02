@@ -1,0 +1,16 @@
+--2020-03-02 05:08:57--  http://www.latinoapp.it/coniugazione-sum.pdf
+Resolving www.latinoapp.it (www.latinoapp.it)... 104.18.63.202, 104.18.62.202
+Connecting to www.latinoapp.it (www.latinoapp.it)|104.18.63.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.latinoapp.it/coniugazione-sum.pdf [following]
+--2020-03-02 05:08:58--  https://www.latinoapp.it/coniugazione-sum.pdf
+Connecting to www.latinoapp.it (www.latinoapp.it)|104.18.63.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92634 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 62.7M 0s
+    50K .......... .......... .......... ..........           100%  289M=0.008s
+
+2020-03-02 05:08:58 (96.5 Mb/s) - ‘/dev/null’ saved [92634/92634]
+

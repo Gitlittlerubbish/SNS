@@ -1,0 +1,25 @@
+--2020-03-02 06:13:44--  http://rtp.lv/pdf/5435.pdf
+Resolving rtp.lv (rtp.lv)... 91.206.132.162
+Connecting to rtp.lv (rtp.lv)|91.206.132.162|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105340 (103K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 3.23M 0s
+    50K .......... .......... .......... .......... .......... 97% 6.74M 0s
+   100K ..                                                    100% 35.3M=0.2s
+
+2020-03-02 06:13:45 (4.47 Mb/s) - ‘/dev/null’ saved [105340/105340]
+
+--2020-03-02 06:13:45--  http://rtp.lv/pdf/5.pdf
+Resolving rtp.lv (rtp.lv)... 91.206.132.162
+Connecting to rtp.lv (rtp.lv)|91.206.132.162|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87404 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58% 3.08M 0s
+    50K .......... .......... .......... .....                100%  172M=0.1s
+
+2020-03-02 06:13:45 (5.19 Mb/s) - ‘/dev/null’ saved [87404/87404]
+

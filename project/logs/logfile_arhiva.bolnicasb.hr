@@ -1,0 +1,12 @@
+--2020-03-02 02:55:00--  http://arhiva.bolnicasb.hr/Giht.pdf
+Resolving arhiva.bolnicasb.hr (arhiva.bolnicasb.hr)... 139.162.191.157
+Connecting to arhiva.bolnicasb.hr (arhiva.bolnicasb.hr)|139.162.191.157|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63610 (62K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 80% 9.02M 0s
+    50K .......... ..                                         100% 81.2M=0.05s
+
+2020-03-02 02:55:00 (10.9 Mb/s) - ‘/dev/null’ saved [63610/63610]
+

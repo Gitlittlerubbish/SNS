@@ -1,0 +1,14 @@
+--2020-03-02 02:52:34--  http://www.centif.ci/documents/decret_2006.pdf
+Resolving www.centif.ci (www.centif.ci)... 167.114.83.243
+Connecting to www.centif.ci (www.centif.ci)|167.114.83.243|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196106 (192K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 2.55M 0s
+    50K .......... .......... .......... .......... .......... 52% 5.23M 0s
+   100K .......... .......... .......... .......... .......... 78%  140M 0s
+   150K .......... .......... .......... .......... .         100%  127M=0.2s
+
+2020-03-02 02:52:35 (6.42 Mb/s) - ‘/dev/null’ saved [196106/196106]
+

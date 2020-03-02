@@ -1,0 +1,23 @@
+--2020-03-02 04:34:18--  http://echoice.consumer.org.hk/f/article/373/319_p16-19.pdf
+Resolving echoice.consumer.org.hk (echoice.consumer.org.hk)... 52.220.20.168, 18.138.106.183
+Connecting to echoice.consumer.org.hk (echoice.consumer.org.hk)|52.220.20.168|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://echoice.consumer.org.hk:443/f/article/373/319_p16-19.pdf [following]
+--2020-03-02 04:34:18--  https://echoice.consumer.org.hk/f/article/373/319_p16-19.pdf
+Connecting to echoice.consumer.org.hk (echoice.consumer.org.hk)|52.220.20.168|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.15M
+    50K .......... .......... .......... .......... .......... 2.34M
+   100K .......... .......... .......... .......... .......... 80.4M
+   150K .......... .......... .......... .......... ..........  169M
+   200K .......... .......... .......... .......... .......... 2.31M
+   250K .......... .......... .......... .......... ..........  183M
+   300K .......... .......... .......... .......... .......... 2.43M
+   350K .......... .......... .......... .......... .......... 87.9M
+   400K .......... .......... .......... .......... ....        803M=0.9s
+
+2020-03-02 04:34:20 (4.09 Mb/s) - ‘/dev/null’ saved [455663]
+

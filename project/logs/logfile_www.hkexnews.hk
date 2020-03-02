@@ -1,0 +1,26 @@
+--2020-03-02 04:37:03--  http://www.hkexnews.hk/listedco/listconews/sehk/2019/1203/2019120301458_c.pdf
+Resolving www.hkexnews.hk (www.hkexnews.hk)... 2.18.66.50, 2.18.66.41
+Connecting to www.hkexnews.hk (www.hkexnews.hk)|2.18.66.50|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hkexnews.hk/listedco/listconews/sehk/2019/1203/2019120301458_c.pdf [following]
+--2020-03-02 04:37:03--  https://www.hkexnews.hk/listedco/listconews/sehk/2019/1203/2019120301458_c.pdf
+Connecting to www.hkexnews.hk (www.hkexnews.hk)|2.18.66.50|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www1.hkexnews.hk/listedco/listconews/sehk/2019/1203/2019120301458_c.pdf [following]
+--2020-03-02 04:37:03--  https://www1.hkexnews.hk/listedco/listconews/sehk/2019/1203/2019120301458_c.pdf
+Resolving www1.hkexnews.hk (www1.hkexnews.hk)... 2.18.66.50, 2.18.66.41
+Connecting to www1.hkexnews.hk (www1.hkexnews.hk)|2.18.66.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323081 (316K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 11.6M 0s
+    50K .......... .......... .......... .......... .......... 31% 23.0M 0s
+   100K .......... .......... .......... .......... .......... 47% 28.5M 0s
+   150K .......... .......... .......... .......... .......... 63% 29.0M 0s
+   200K .......... .......... .......... .......... .......... 79% 10.8M 0s
+   250K .......... .......... .......... .......... .......... 95% 24.2M 0s
+   300K .......... .....                                      100% 2.74M=0.2s
+
+2020-03-02 04:37:04 (14.1 Mb/s) - ‘/dev/null’ saved [323081/323081]
+

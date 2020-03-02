@@ -1,0 +1,11 @@
+--2020-03-02 02:21:40--  http://www.binz.cx/cv_MarcoBinz.pdf
+Resolving www.binz.cx (www.binz.cx)... 212.101.13.253, 212.101.13.248
+Connecting to www.binz.cx (www.binz.cx)|212.101.13.253|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10145 (9.9K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .........                                             100% 3.71M=0.02s
+
+2020-03-02 02:21:41 (3.71 Mb/s) - ‘/dev/null’ saved [10145/10145]
+

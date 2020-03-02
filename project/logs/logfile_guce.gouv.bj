@@ -1,0 +1,20 @@
+--2020-03-02 00:30:24--  http://guce.gouv.bj/assets/downloads//Procedure_de_verification.pdf
+Resolving guce.gouv.bj (guce.gouv.bj)... 41.222.192.117
+Connecting to guce.gouv.bj (guce.gouv.bj)|41.222.192.117|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://guce.gouv.bj/assets/downloads/Procedure_de_verification.pdf [following]
+--2020-03-02 00:30:24--  https://guce.gouv.bj/assets/downloads/Procedure_de_verification.pdf
+Connecting to guce.gouv.bj (guce.gouv.bj)|41.222.192.117|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 299149 (292K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.60M 1s
+    50K .......... .......... .......... .......... .......... 34% 2.77M 1s
+   100K .......... .......... .......... .......... .......... 51% 3.30M 1s
+   150K .......... .......... .......... .......... .......... 68% 3.69M 0s
+   200K .......... .......... .......... .......... .......... 85% 3.75M 0s
+   250K .......... .......... .......... .......... ..        100% 9.57M=0.8s
+
+2020-03-02 00:30:25 (3.05 Mb/s) - ‘/dev/null’ saved [299149/299149]
+

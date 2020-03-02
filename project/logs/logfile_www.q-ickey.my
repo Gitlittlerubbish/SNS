@@ -1,0 +1,15 @@
+--2020-03-02 07:02:09--  http://www.q-ickey.my/datasheets/9a/HWS600-24-ME.pdf
+Resolving www.q-ickey.my (www.q-ickey.my)... 172.82.176.142
+Connecting to www.q-ickey.my (www.q-ickey.my)|172.82.176.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.q-ickey.my/datasheets/9a/HWS600-24-ME.pdf [following]
+--2020-03-02 07:02:10--  https://www.q-ickey.my/datasheets/9a/HWS600-24-ME.pdf
+Connecting to www.q-ickey.my (www.q-ickey.my)|172.82.176.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17914 (17K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                    100%  991K=0.1s
+
+2020-03-02 07:02:10 (991 Kb/s) - ‘/dev/null’ saved [17914/17914]
+

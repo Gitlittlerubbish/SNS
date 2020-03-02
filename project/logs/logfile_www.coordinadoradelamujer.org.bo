@@ -1,0 +1,13 @@
+--2020-03-02 00:46:38--  http://www.coordinadoradelamujer.org.bo/observatorio/archivos/marco/blv_res16_548.pdf
+Resolving www.coordinadoradelamujer.org.bo (www.coordinadoradelamujer.org.bo)... 64.34.173.243
+Connecting to www.coordinadoradelamujer.org.bo (www.coordinadoradelamujer.org.bo)|64.34.173.243|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113829 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44% 1.81M 0s
+    50K .......... .......... .......... .......... .......... 89% 4.50M 0s
+   100K .......... .                                          100% 1.09M=0.4s
+
+2020-03-02 00:46:38 (2.27 Mb/s) - ‘/dev/null’ saved [113829/113829]
+

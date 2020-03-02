@@ -1,0 +1,23 @@
+--2020-03-02 04:11:48--  http://asisehace.gt/media/contrato_de_trabajo.pdf
+Resolving asisehace.gt (asisehace.gt)... 144.76.184.122
+Connecting to asisehace.gt (asisehace.gt)|144.76.184.122|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://asisehace.gt/media/contrato_de_trabajo.pdf [following]
+--2020-03-02 04:11:48--  https://asisehace.gt/media/contrato_de_trabajo.pdf
+Connecting to asisehace.gt (asisehace.gt)|144.76.184.122|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 425020 (415K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 3.85M 1s
+    50K .......... .......... .......... .......... .......... 24%  140M 0s
+   100K .......... .......... .......... .......... .......... 36% 2.66M 0s
+   150K .......... .......... .......... .......... .......... 48% 70.2M 0s
+   200K .......... .......... .......... .......... .......... 60% 2.80M 0s
+   250K .......... .......... .......... .......... .......... 72%  319M 0s
+   300K .......... .......... .......... .......... .......... 84%  246M 0s
+   350K .......... .......... .......... .......... .......... 96% 16.6M 0s
+   400K .......... .....                                      100% 1.02G=0.4s
+
+2020-03-02 04:11:49 (7.67 Mb/s) - ‘/dev/null’ saved [425020/425020]
+

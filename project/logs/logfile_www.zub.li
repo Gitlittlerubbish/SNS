@@ -1,0 +1,42 @@
+--2020-03-02 06:25:49--  http://www.zub.li/pdf/10_TechnicalReference.pdf
+Resolving www.zub.li (www.zub.li)... 78.46.81.37
+Connecting to www.zub.li (www.zub.li)|78.46.81.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /zub/pdf/10_TechnicalReference.pdf [following]
+--2020-03-02 06:25:50--  http://www.zub.li/zub/pdf/10_TechnicalReference.pdf
+Connecting to www.zub.li (www.zub.li)|78.46.81.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 350920 (343K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 8.79M 0s
+    50K .......... .......... .......... .......... .......... 29% 16.8M 0s
+   100K .......... .......... .......... .......... .......... 43%  146M 0s
+   150K .......... .......... .......... .......... .......... 58%  201M 0s
+   200K .......... .......... .......... .......... .......... 72% 19.2M 0s
+   250K .......... .......... .......... .......... .......... 87%  143M 0s
+   300K .......... .......... .......... .......... ..        100% 21.4M=0.1s
+
+2020-03-02 06:25:50 (24.1 Mb/s) - ‘/dev/null’ saved [350920/350920]
+
+--2020-03-02 06:25:50--  http://www.zub.li/pdf/10_TechnicalReference.pdf
+Resolving www.zub.li (www.zub.li)... 78.46.81.37
+Connecting to www.zub.li (www.zub.li)|78.46.81.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /zub/pdf/10_TechnicalReference.pdf [following]
+--2020-03-02 06:25:50--  http://www.zub.li/zub/pdf/10_TechnicalReference.pdf
+Connecting to www.zub.li (www.zub.li)|78.46.81.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 350920 (343K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 8.75M 0s
+    50K .......... .......... .......... .......... .......... 29% 19.2M 0s
+   100K .......... .......... .......... .......... .......... 43% 82.0M 0s
+   150K .......... .......... .......... .......... .......... 58%  229M 0s
+   200K .......... .......... .......... .......... .......... 72% 20.3M 0s
+   250K .......... .......... .......... .......... .......... 87% 79.9M 0s
+   300K .......... .......... .......... .......... ..        100% 24.5M=0.1s
+
+2020-03-02 06:25:50 (24.5 Mb/s) - ‘/dev/null’ saved [350920/350920]
+

@@ -1,0 +1,12 @@
+--2020-03-02 04:30:10--  http://www.npl.edu.hk/en/activity/20090218/script.pdf
+Resolving www.npl.edu.hk (www.npl.edu.hk)... 221.126.230.197
+Connecting to www.npl.edu.hk (www.npl.edu.hk)|221.126.230.197|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76033 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 67%  401K 0s
+    50K .......... .......... ....                            100%  651K=1.3s
+
+2020-03-02 04:30:12 (458 Kb/s) - ‘/dev/null’ saved [76033/76033]
+

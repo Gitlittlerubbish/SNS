@@ -1,0 +1,16 @@
+--2020-03-02 04:24:57--  http://proceso.hn/documentos/doc_extradicion_lobo.pdf
+Resolving proceso.hn (proceso.hn)... 107.190.135.26
+Connecting to proceso.hn (proceso.hn)|107.190.135.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://proceso.hn/documentos/doc_extradicion_lobo.pdf [following]
+--2020-03-02 04:24:57--  https://proceso.hn/documentos/doc_extradicion_lobo.pdf
+Connecting to proceso.hn (proceso.hn)|107.190.135.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91962 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 1.32M 0s
+    50K .......... .......... .......... .........            100%  210M=0.3s
+
+2020-03-02 04:24:58 (2.36 Mb/s) - ‘/dev/null’ saved [91962/91962]
+

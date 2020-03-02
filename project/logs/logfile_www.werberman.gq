@@ -1,0 +1,12 @@
+--2020-03-02 03:28:52--  http://www.werberman.gq/download/Leitfaden_polygoCard_DB-Automat.pdf
+Resolving www.werberman.gq (www.werberman.gq)... 104.27.162.12, 104.27.163.12
+Connecting to www.werberman.gq (www.werberman.gq)|104.27.162.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  130M
+    50K .                                                       215K=0.003s
+
+2020-03-02 03:28:53 (133 Mb/s) - ‘/dev/null’ saved [52544]
+

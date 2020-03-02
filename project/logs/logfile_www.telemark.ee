@@ -1,0 +1,13 @@
+--2020-03-02 03:31:05--  http://www.telemark.ee/kasutusjuhendid/2045.pdf
+Resolving www.telemark.ee (www.telemark.ee)... 217.146.78.5
+Connecting to www.telemark.ee (www.telemark.ee)|217.146.78.5|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131615 (129K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 5.56M 0s
+    50K .......... .......... .......... .......... .......... 77% 11.1M 0s
+   100K .......... .......... ........                        100%  191M=0.1s
+
+2020-03-02 03:31:05 (9.44 Mb/s) - ‘/dev/null’ saved [131615/131615]
+

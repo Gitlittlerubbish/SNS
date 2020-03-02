@@ -1,0 +1,11 @@
+--2020-03-02 01:30:02--  http://www.mtic.gov.bn/dca/AIP/ENR%25203.4.pdf
+Resolving www.mtic.gov.bn (www.mtic.gov.bn)... 103.4.188.86
+Connecting to www.mtic.gov.bn (www.mtic.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                  181K=0.3s
+
+2020-03-02 01:30:04 (181 Kb/s) - ‘/dev/null’ saved [7095]
+

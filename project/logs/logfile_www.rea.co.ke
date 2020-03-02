@@ -1,0 +1,15 @@
+--2020-03-02 05:32:53--  http://www.rea.co.ke/images/Tender_Notice/April_2019/Job_Advert.pdf
+Resolving www.rea.co.ke (www.rea.co.ke)... 194.201.253.2
+Connecting to www.rea.co.ke (www.rea.co.ke)|194.201.253.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 223937 (219K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.21M 1s
+    50K .......... .......... .......... .......... .......... 45% 2.41M 1s
+   100K .......... .......... .......... .......... .......... 68%  116M 0s
+   150K .......... .......... .......... .......... .......... 91%  173M 0s
+   200K .......... ........                                   100%  940K=0.7s
+
+2020-03-02 05:32:54 (2.64 Mb/s) - ‘/dev/null’ saved [223937/223937]
+

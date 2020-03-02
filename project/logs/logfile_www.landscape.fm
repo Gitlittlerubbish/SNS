@@ -1,0 +1,21 @@
+--2020-03-02 07:35:17--  http://www.landscape.fm/s/SF_Instruct.pdf
+Resolving www.landscape.fm (www.landscape.fm)... 198.185.159.144, 198.185.159.145, 198.49.23.145, ...
+Connecting to www.landscape.fm (www.landscape.fm)|198.185.159.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.landscape.fm/s/SF_Instruct.pdf [following]
+--2020-03-02 07:35:17--  https://www.landscape.fm/s/SF_Instruct.pdf
+Connecting to www.landscape.fm (www.landscape.fm)|198.185.159.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/5616dafce4b0d3605b622fb7/t/590699668419c22f9bf405ad/1493604710985/SF_Instruct.pdf [following]
+--2020-03-02 07:35:18--  https://static1.squarespace.com/static/5616dafce4b0d3605b622fb7/t/590699668419c22f9bf405ad/1493604710985/SF_Instruct.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77079 (75K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 40.4M 0s
+    50K .......... .......... .....                           100%  699M=0.01s
+
+2020-03-02 07:35:19 (59.0 Mb/s) - ‘/dev/null’ saved [77079/77079]
+

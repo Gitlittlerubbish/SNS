@@ -1,0 +1,14 @@
+--2020-03-02 01:03:23--  http://www.gov.bw/globalassets/portal-team/botswanaexcellencestrategynovembero8.pdf
+Resolving www.gov.bw (www.gov.bw)... 196.216.163.23
+Connecting to www.gov.bw (www.gov.bw)|196.216.163.23|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187112 (183K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27%  730K 1s
+    50K .......... .......... .......... .......... .......... 54% 2.20M 1s
+   100K .......... .......... .......... .......... .......... 82%  112M 0s
+   150K .......... .......... .......... ..                   100% 1.48M=0.9s
+
+2020-03-02 01:03:26 (1.61 Mb/s) - ‘/dev/null’ saved [187112/187112]
+

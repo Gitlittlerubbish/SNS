@@ -1,0 +1,26 @@
+--2020-03-02 03:46:22--  http://lbrry.fr/embed/15916
+Resolving lbrry.fr (lbrry.fr)... 104.24.126.170, 104.24.127.170
+Connecting to lbrry.fr (lbrry.fr)|104.24.126.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lbrry.fr/embed/15916 [following]
+--2020-03-02 03:46:22--  https://lbrry.fr/embed/15916
+Connecting to lbrry.fr (lbrry.fr)|104.24.126.170|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://storage.lbrry.com/book/5d6a37a51aa23_1567242149.pdf [following]
+--2020-03-02 03:46:22--  https://storage.lbrry.com/book/5d6a37a51aa23_1567242149.pdf
+Resolving storage.lbrry.com (storage.lbrry.com)... 104.27.174.163, 104.27.175.163
+Connecting to storage.lbrry.com (storage.lbrry.com)|104.27.174.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 330647 (323K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 71.6M 0s
+    50K .......... .......... .......... .......... .......... 30%  109M 0s
+   100K .......... .......... .......... .......... .......... 46%  177M 0s
+   150K .......... .......... .......... .......... .......... 61%  203M 0s
+   200K .......... .......... .......... .......... .......... 77%  133M 0s
+   250K .......... .......... .......... .......... .......... 92%  182M 0s
+   300K .......... .......... ..                              100% 1.66G=0.02s
+
+2020-03-02 03:46:22 (138 Mb/s) - ‘/dev/null’ saved [330647/330647]
+

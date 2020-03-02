@@ -1,0 +1,12 @@
+--2020-03-02 05:09:00--  http://www.sardegnaagricoltura.it/documenti/14_43_20090430091202.pdf
+Resolving www.sardegnaagricoltura.it (www.sardegnaagricoltura.it)... 195.130.213.70
+Connecting to www.sardegnaagricoltura.it (www.sardegnaagricoltura.it)|195.130.213.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96754 (94K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 1.38M 0s
+    50K .......... .......... .......... .......... ....      100% 7.08M=0.3s
+
+2020-03-02 05:09:00 (2.22 Mb/s) - ‘/dev/null’ saved [96754/96754]
+

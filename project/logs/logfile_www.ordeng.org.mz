@@ -1,0 +1,23 @@
+--2020-03-02 07:59:45--  http://www.ordeng.org.mz/pdf/Membro-Efectivo.pdf
+Resolving www.ordeng.org.mz (www.ordeng.org.mz)... 192.185.27.25
+Connecting to www.ordeng.org.mz (www.ordeng.org.mz)|192.185.27.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ordeng.org.mz/pdf/Membro-Efectivo.pdf [following]
+--2020-03-02 07:59:46--  https://www.ordeng.org.mz/pdf/Membro-Efectivo.pdf
+Connecting to www.ordeng.org.mz (www.ordeng.org.mz)|192.185.27.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 428700 (419K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.71M 2s
+    50K .......... .......... .......... .......... .......... 23% 3.45M 1s
+   100K .......... .......... .......... .......... .......... 35%  185M 1s
+   150K .......... .......... .......... .......... .......... 47%  132M 0s
+   200K .......... .......... .......... .......... .......... 59% 3.48M 0s
+   250K .......... .......... .......... .......... .......... 71%  102M 0s
+   300K .......... .......... .......... .......... .......... 83% 3.59M 0s
+   350K .......... .......... .......... .......... .......... 95%  136M 0s
+   400K .......... ........                                   100%  508M=0.6s
+
+2020-03-02 07:59:47 (5.69 Mb/s) - ‘/dev/null’ saved [428700/428700]
+

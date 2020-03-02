@@ -1,0 +1,26 @@
+--2020-03-02 04:54:35--  http://www.prorecognition.ir/Positivliste2019.pdf
+Resolving www.prorecognition.ir (www.prorecognition.ir)... 89.32.250.164
+Connecting to www.prorecognition.ir (www.prorecognition.ir)|89.32.250.164|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133485 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 2.25M 0s
+    50K .......... .......... .......... .......... .......... 76% 2.34M 0s
+   100K .......... .......... ..........                      100% 64.7M=0.4s
+
+2020-03-02 04:54:36 (2.96 Mb/s) - ‘/dev/null’ saved [133485/133485]
+
+--2020-03-02 04:54:38--  http://www.prorecognition.ir/Positivliste2019.pdf
+Resolving www.prorecognition.ir (www.prorecognition.ir)... 89.32.250.164
+Connecting to www.prorecognition.ir (www.prorecognition.ir)|89.32.250.164|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133485 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 2.22M 0s
+    50K .......... .......... .......... .......... .......... 76% 2.26M 0s
+   100K .......... .......... ..........                      100% 2.80M=0.5s
+
+2020-03-02 04:54:38 (2.35 Mb/s) - ‘/dev/null’ saved [133485/133485]
+

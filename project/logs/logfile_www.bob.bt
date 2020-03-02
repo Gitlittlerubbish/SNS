@@ -1,0 +1,19 @@
+--2020-03-02 00:38:31--  http://www.bob.bt/wp-content/themes/bob/assets/images/forms/BOBSMS_guideline.pdf
+Resolving www.bob.bt (www.bob.bt)... 104.28.15.46, 104.28.14.46
+Connecting to www.bob.bt (www.bob.bt)|104.28.15.46|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bob.bt/wp-content/themes/bob/assets/images/forms/BOBSMS_guideline.pdf [following]
+--2020-03-02 00:38:31--  https://www.bob.bt/wp-content/themes/bob/assets/images/forms/BOBSMS_guideline.pdf
+Connecting to www.bob.bt (www.bob.bt)|104.28.15.46|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.bob.bt attempted to set domain to bob.bt
+Length: 183873 (180K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 61.1M 0s
+    50K .......... .......... .......... .......... .......... 55%  216M 0s
+   100K .......... .......... .......... .......... .......... 83%  108M 0s
+   150K .......... .......... .........                       100%  121M=0.01s
+
+2020-03-02 00:38:32 (102 Mb/s) - ‘/dev/null’ saved [183873/183873]
+

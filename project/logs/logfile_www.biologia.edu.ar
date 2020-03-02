@@ -1,0 +1,13 @@
+--2020-03-01 23:13:41--  http://www.biologia.edu.ar/microgeneral/tp4.pdf
+Resolving www.biologia.edu.ar (www.biologia.edu.ar)... 200.45.54.140
+Connecting to www.biologia.edu.ar (www.biologia.edu.ar)|200.45.54.140|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145381 (142K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35%  745K 1s
+    50K .......... .......... .......... .......... .......... 70% 1.53M 0s
+   100K .......... .......... .......... .......... .         100%  195M=0.8s
+
+2020-03-01 23:13:44 (1.42 Mb/s) - ‘/dev/null’ saved [145381/145381]
+

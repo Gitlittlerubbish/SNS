@@ -1,0 +1,18 @@
+--2020-03-02 00:49:07--  http://eltorno.gob.bo/multimedia/document/eyJpdiI6IldMRmZQWTdydEhWZk5jc2pLNldyT1E9PSIsInZhbHVlIjoiR3BtQTA2d2NRQ01TVHBramZjSllvdz09IiwibWFjIjoiM2UzZDJlMWY4MTIyZjk0YTYwYTIyYTUwMDA0M2U5ZDkxNGQ1MDFjODNjZGVjODlmYjBjNGZhOWVhN2Q3OWExMyJ9
+Resolving eltorno.gob.bo (eltorno.gob.bo)... 162.144.26.105
+Connecting to eltorno.gob.bo (eltorno.gob.bo)|162.144.26.105|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.00M
+    50K .......... .......... .......... .......... .......... 1.94M
+   100K .......... .......... .......... .......... ..........  160M
+   150K .......... .......... .......... .......... ..........  290M
+   200K .......... .......... .......... .......... .......... 2.35M
+   250K .......... .......... .......... .......... ..........  119M
+   300K .......... .......... .......... .......... .......... 2.32M
+   350K .......... .......... .......... .........              113M=1.0s
+
+2020-03-02 00:49:09 (3.25 Mb/s) - ‘/dev/null’ saved [398587]
+

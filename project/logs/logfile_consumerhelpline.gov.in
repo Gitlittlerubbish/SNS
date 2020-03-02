@@ -1,0 +1,16 @@
+--2020-03-02 04:43:30--  http://consumerhelpline.gov.in/ConsumerCourt.pdf
+Resolving consumerhelpline.gov.in (consumerhelpline.gov.in)... 164.100.58.179
+Connecting to consumerhelpline.gov.in (consumerhelpline.gov.in)|164.100.58.179|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://consumerhelpline.gov.in/ConsumerCourt.pdf [following]
+--2020-03-02 04:43:31--  https://consumerhelpline.gov.in/ConsumerCourt.pdf
+Connecting to consumerhelpline.gov.in (consumerhelpline.gov.in)|164.100.58.179|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91485 (89K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 1.26M 0s
+    50K .......... .......... .......... .........            100%  808M=0.3s
+
+2020-03-02 04:43:32 (2.24 Mb/s) - ‘/dev/null’ saved [91485/91485]
+

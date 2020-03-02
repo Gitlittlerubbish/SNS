@@ -1,0 +1,25 @@
+--2020-03-02 06:29:09--  http://www.vandivinit.lu/download/1011/301.pdf
+Resolving www.vandivinit.lu (www.vandivinit.lu)... 35.180.84.46, 15.188.134.90
+Connecting to www.vandivinit.lu (www.vandivinit.lu)|35.180.84.46|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.vandivinit.lu/download/1011/301.pdf [following]
+--2020-03-02 06:29:09--  https://www.vandivinit.lu/download/1011/301.pdf
+Connecting to www.vandivinit.lu (www.vandivinit.lu)|35.180.84.46|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 554247 (541K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 29.5M 0s
+    50K .......... .......... .......... .......... .......... 18% 38.0M 0s
+   100K .......... .......... .......... .......... .......... 27%  119M 0s
+   150K .......... .......... .......... .......... .......... 36%  157M 0s
+   200K .......... .......... .......... .......... .......... 46% 41.7M 0s
+   250K .......... .......... .......... .......... .......... 55%  124M 0s
+   300K .......... .......... .......... .......... .......... 64%  102M 0s
+   350K .......... .......... .......... .......... .......... 73% 72.6M 0s
+   400K .......... .......... .......... .......... .......... 83% 84.5M 0s
+   450K .......... .......... .......... .......... .......... 92% 91.0M 0s
+   500K .......... .......... .......... .......... .         100%  218M=0.06s
+
+2020-03-02 06:29:10 (68.9 Mb/s) - ‘/dev/null’ saved [554247/554247]
+

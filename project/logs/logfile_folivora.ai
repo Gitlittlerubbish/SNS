@@ -1,0 +1,13 @@
+--2020-03-01 22:42:29--  http://folivora.ai/folivora/old_license_terms.pdf
+Resolving folivora.ai (folivora.ai)... 78.46.5.187
+Connecting to folivora.ai (folivora.ai)|78.46.5.187|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 141286 (138K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 9.41M 0s
+    50K .......... .......... .......... .......... .......... 72% 17.7M 0s
+   100K .......... .......... .......... .......              100% 66.0M=0.07s
+
+2020-03-01 22:42:29 (15.8 Mb/s) - ‘/dev/null’ saved [141286/141286]
+

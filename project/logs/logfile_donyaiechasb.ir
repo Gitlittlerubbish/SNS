@@ -1,0 +1,12 @@
+--2020-03-02 04:57:39--  http://donyaiechasb.ir/DataSheets/HylomarBlueDonyaieChasb.pdf
+Resolving donyaiechasb.ir (donyaiechasb.ir)... 171.22.26.30
+Connecting to donyaiechasb.ir (donyaiechasb.ir)|171.22.26.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72723 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 1.53M 0s
+    50K .......... .......... .                               100% 1.32M=0.4s
+
+2020-03-02 04:57:40 (1.46 Mb/s) - ‘/dev/null’ saved [72723/72723]
+

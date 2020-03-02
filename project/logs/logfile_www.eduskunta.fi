@@ -1,0 +1,26 @@
+--2020-03-02 03:45:57--  http://www.eduskunta.fi/valtiopaivaasiakirjat/PeVL%2B43/1998
+Resolving www.eduskunta.fi (www.eduskunta.fi)... 217.71.145.71
+Connecting to www.eduskunta.fi (www.eduskunta.fi)|217.71.145.71|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.eduskunta.fi/valtiopaivaasiakirjat/PeVL%2B43/1998 [following]
+--2020-03-02 03:45:57--  https://www.eduskunta.fi/valtiopaivaasiakirjat/PeVL%2B43/1998
+Connecting to www.eduskunta.fi (www.eduskunta.fi)|217.71.145.71|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.eduskunta.fi/FI/vaski/Lausunto/Documents/pevl_43+1998.pdf [following]
+--2020-03-02 03:45:57--  https://www.eduskunta.fi/FI/vaski/Lausunto/Documents/pevl_43+1998.pdf
+Reusing existing connection to www.eduskunta.fi:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 407807 (398K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 3.81M 1s
+    50K .......... .......... .......... .......... .......... 25% 11.0M 0s
+   100K .......... .......... .......... .......... .......... 37% 11.2M 0s
+   150K .......... .......... .......... .......... .......... 50% 10.9M 0s
+   200K .......... .......... .......... .......... .......... 62% 11.4M 0s
+   250K .......... .......... .......... .......... .......... 75% 10.8M 0s
+   300K .......... .......... .......... .......... .......... 87% 12.0M 0s
+   350K .......... .......... .......... .......... ........  100% 77.7M=0.3s
+
+2020-03-02 03:45:57 (9.83 Mb/s) - ‘/dev/null’ saved [407807/407807]
+

@@ -1,0 +1,12 @@
+--2020-03-02 04:28:58--  http://www.ip.gob.hn/sites/default/files/doc_pdf/PRESENTACION-DE-PUBLICACIONES-DE-MARCA.pdf
+Resolving www.ip.gob.hn (www.ip.gob.hn)... 190.6.201.68
+Connecting to www.ip.gob.hn (www.ip.gob.hn)|190.6.201.68|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77916 (76K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65% 1.40M 0s
+    50K .......... .......... ......                          100% 23.8M=0.3s
+
+2020-03-02 04:28:59 (2.07 Mb/s) - ‘/dev/null’ saved [77916/77916]
+

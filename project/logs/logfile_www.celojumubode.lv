@@ -1,0 +1,28 @@
+--2020-03-02 06:14:44--  http://www.celojumubode.lv/uploads/faili/VIZU_ANKETA_BALTKRIEVIJA.pdf
+Resolving www.celojumubode.lv (www.celojumubode.lv)... 95.216.246.190
+Connecting to www.celojumubode.lv (www.celojumubode.lv)|95.216.246.190|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.celojumubode.lv/uploads/faili/VIZU_ANKETA_BALTKRIEVIJA.pdf [following]
+--2020-03-02 06:14:44--  https://www.celojumubode.lv/uploads/faili/VIZU_ANKETA_BALTKRIEVIJA.pdf
+Connecting to www.celojumubode.lv (www.celojumubode.lv)|95.216.246.190|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 711917 (695K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 10.8M 0s
+    50K .......... .......... .......... .......... .......... 14% 11.3M 0s
+   100K .......... .......... .......... .......... .......... 21%  107M 0s
+   150K .......... .......... .......... .......... .......... 28% 12.9M 0s
+   200K .......... .......... .......... .......... .......... 35%  114M 0s
+   250K .......... .......... .......... .......... .......... 43%  113M 0s
+   300K .......... .......... .......... .......... .......... 50% 12.4M 0s
+   350K .......... .......... .......... .......... .......... 57%  422M 0s
+   400K .......... .......... .......... .......... .......... 64%  201M 0s
+   450K .......... .......... .......... .......... .......... 71%  189M 0s
+   500K .......... .......... .......... .......... .......... 79% 12.6M 0s
+   550K .......... .......... .......... .......... .......... 86%  168M 0s
+   600K .......... .......... .......... .......... .......... 93%  302M 0s
+   650K .......... .......... .......... .......... .....     100%  239M=0.2s
+
+2020-03-02 06:14:44 (29.5 Mb/s) - ‘/dev/null’ saved [711917/711917]
+

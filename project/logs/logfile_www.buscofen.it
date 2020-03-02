@@ -1,0 +1,16 @@
+--2020-03-02 05:08:46--  http://www.buscofen.it/pdf/Buscofen_200_mg_12_cps_molli.pdf
+Resolving www.buscofen.it (www.buscofen.it)... 64.106.233.130
+Connecting to www.buscofen.it (www.buscofen.it)|64.106.233.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.buscofen.it/pdf/Buscofen_200_mg_12_cps_molli.pdf [following]
+--2020-03-02 05:08:46--  https://www.buscofen.it/pdf/Buscofen_200_mg_12_cps_molli.pdf
+Connecting to www.buscofen.it (www.buscofen.it)|64.106.233.130|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56044 (55K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 91% 2.75M 0s
+    50K ....                                                  100%  775K=0.1s
+
+2020-03-02 05:08:46 (3.01 Mb/s) - ‘/dev/null’ saved [56044/56044]
+

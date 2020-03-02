@@ -1,0 +1,13 @@
+--2020-03-02 04:45:24--  http://rdatchennai.gov.in/atsact-1961.pdf
+Resolving rdatchennai.gov.in (rdatchennai.gov.in)... 164.100.232.55
+Connecting to rdatchennai.gov.in (rdatchennai.gov.in)|164.100.232.55|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123483 (121K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41%  838K 1s
+    50K .......... .......... .......... .......... .......... 82% 2.51M 0s
+   100K .......... ..........                                 100% 47.7M=0.7s
+
+2020-03-02 04:45:26 (1.51 Mb/s) - ‘/dev/null’ saved [123483/123483]
+

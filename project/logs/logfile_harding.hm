@@ -1,0 +1,11 @@
+--2020-03-02 04:22:02--  http://harding.hm/steve/doings/msicc01/cricket_memorabilia.pdf
+Resolving harding.hm (harding.hm)... 203.20.16.101
+Connecting to harding.hm (harding.hm)|203.20.16.101|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36936 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100%  240K=1.2s
+
+2020-03-02 04:22:05 (240 Kb/s) - ‘/dev/null’ saved [36936/36936]
+

@@ -1,0 +1,14 @@
+--2020-03-02 04:37:30--  http://www.epalya.hu/media/mappa/kozterulet_felugyelo.pdf
+Resolving www.epalya.hu (www.epalya.hu)... 84.206.41.99
+Connecting to www.epalya.hu (www.epalya.hu)|84.206.41.99|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170862 (167K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 4.87M 0s
+    50K .......... .......... .......... .......... .......... 59% 9.68M 0s
+   100K .......... .......... .......... .......... .......... 89% 10.1M 0s
+   150K .......... ......                                     100% 44.3M=0.2s
+
+2020-03-02 04:37:30 (8.04 Mb/s) - ‘/dev/null’ saved [170862/170862]
+

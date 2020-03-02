@@ -1,0 +1,63 @@
+--2020-03-01 22:34:09--  http://www.supremotribunalmilitar.ao/SISTEMAPENITENCIARIOANGOLANO.pdf
+Resolving www.supremotribunalmilitar.ao (www.supremotribunalmilitar.ao)... 209.59.134.58
+Connecting to www.supremotribunalmilitar.ao (www.supremotribunalmilitar.ao)|209.59.134.58|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.supremotribunalmilitar.ao/SISTEMAPENITENCIARIOANGOLANO.pdf [following]
+--2020-03-01 22:34:10--  https://www.supremotribunalmilitar.ao/SISTEMAPENITENCIARIOANGOLANO.pdf
+Connecting to www.supremotribunalmilitar.ao (www.supremotribunalmilitar.ao)|209.59.134.58|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 879879 (859K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 1.33M 5s
+    50K .......... .......... .......... .......... .......... 11% 3.97M 3s
+   100K .......... .......... .......... .......... .......... 17% 4.15M 2s
+   150K .......... .......... .......... .......... .......... 23% 91.9M 2s
+   200K .......... .......... .......... .......... .......... 29% 4.21M 1s
+   250K .......... .......... .......... .......... .......... 34% 54.4M 1s
+   300K .......... .......... .......... .......... .......... 40%  170M 1s
+   350K .......... .......... .......... .......... .......... 46% 4.11M 1s
+   400K .......... .......... .......... .......... .......... 52%  183M 1s
+   450K .......... .......... .......... .......... .......... 58%  920M 1s
+   500K .......... .......... .......... .......... .......... 64%  261M 0s
+   550K .......... .......... .......... .......... .......... 69% 4.25M 0s
+   600K .......... .......... .......... .......... .......... 75% 83.8M 0s
+   650K .......... .......... .......... .......... .......... 81%  127M 0s
+   700K .......... .......... .......... .......... .......... 87%  269M 0s
+   750K .......... .......... .......... .......... .......... 93% 4.54M 0s
+   800K .......... .......... .......... .......... .......... 98%  196M 0s
+   850K .........                                             100% 1.40G=0.9s
+
+2020-03-01 22:34:11 (7.63 Mb/s) - ‘/dev/null’ saved [879879/879879]
+
+--2020-03-01 22:34:11--  http://www.supremotribunalmilitar.ao/CALCULODAPENAJUIZCELESTINO2.pdf
+Resolving www.supremotribunalmilitar.ao (www.supremotribunalmilitar.ao)... 209.59.134.58
+Connecting to www.supremotribunalmilitar.ao (www.supremotribunalmilitar.ao)|209.59.134.58|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.supremotribunalmilitar.ao/CALCULODAPENAJUIZCELESTINO2.pdf [following]
+--2020-03-01 22:34:11--  https://www.supremotribunalmilitar.ao/CALCULODAPENAJUIZCELESTINO2.pdf
+Connecting to www.supremotribunalmilitar.ao (www.supremotribunalmilitar.ao)|209.59.134.58|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 823926 (805K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 1.89M 3s
+    50K .......... .......... .......... .......... .......... 12% 4.06M 2s
+   100K .......... .......... .......... .......... .......... 18% 4.12M 2s
+   150K .......... .......... .......... .......... .......... 24% 4.67M 2s
+   200K .......... .......... .......... .......... .......... 31% 28.2M 1s
+   250K .......... .......... .......... .......... .......... 37%  192M 1s
+   300K .......... .......... .......... .......... .......... 43% 4.29M 1s
+   350K .......... .......... .......... .......... .......... 49% 52.4M 1s
+   400K .......... .......... .......... .......... .......... 55% 5.00M 1s
+   450K .......... .......... .......... .......... .......... 62%  155M 0s
+   500K .......... .......... .......... .......... .......... 68% 35.3M 0s
+   550K .......... .......... .......... .......... .......... 74%  159M 0s
+   600K .......... .......... .......... .......... .......... 80%  106M 0s
+   650K .......... .......... .......... .......... .......... 86% 5.02M 0s
+   700K .......... .......... .......... .......... .......... 93%  125M 0s
+   750K .......... .......... .......... .......... .......... 99%  325M 0s
+   800K ....                                                  100%  756K=0.8s
+
+2020-03-01 22:34:12 (8.10 Mb/s) - ‘/dev/null’ saved [823926/823926]
+

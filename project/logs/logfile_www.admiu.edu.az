@@ -1,0 +1,13 @@
+--2020-03-01 23:46:49--  http://www.admiu.edu.az/intrel/Turkish.pdf
+Resolving www.admiu.edu.az (www.admiu.edu.az)... 98.159.40.82
+Connecting to www.admiu.edu.az (www.admiu.edu.az)|98.159.40.82|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151868 (148K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 2.75M 0s
+    50K .......... .......... .......... .......... .......... 67% 5.63M 0s
+   100K .......... .......... .......... .......... ........  100% 85.8M=0.2s
+
+2020-03-01 23:46:49 (5.37 Mb/s) - ‘/dev/null’ saved [151868/151868]
+

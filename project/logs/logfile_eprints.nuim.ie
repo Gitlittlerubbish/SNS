@@ -1,0 +1,21 @@
+--2020-03-02 05:02:01--  http://eprints.nuim.ie/3911/1/RK_Researched_Opinions.pdf
+Resolving eprints.nuim.ie (eprints.nuim.ie)... 13.69.156.231
+Connecting to eprints.nuim.ie (eprints.nuim.ie)|13.69.156.231|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://mural.maynoothuniversity.ie/3911/1/RK_Researched_Opinions.pdf [following]
+--2020-03-02 05:02:01--  http://mural.maynoothuniversity.ie/3911/1/RK_Researched_Opinions.pdf
+Resolving mural.maynoothuniversity.ie (mural.maynoothuniversity.ie)... 13.69.156.231
+Reusing existing connection to eprints.nuim.ie:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 280693 (274K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 15.6M 0s
+    50K .......... .......... .......... .......... .......... 36% 31.9M 0s
+   100K .......... .......... .......... .......... .......... 54%  127M 0s
+   150K .......... .......... .......... .......... .......... 72% 41.4M 0s
+   200K .......... .......... .......... .......... .......... 91% 72.2M 0s
+   250K .......... .......... ....                            100%  205M=0.06s
+
+2020-03-02 05:02:02 (38.2 Mb/s) - ‘/dev/null’ saved [280693/280693]
+

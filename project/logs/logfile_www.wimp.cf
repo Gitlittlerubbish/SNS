@@ -1,0 +1,15 @@
+--2020-03-02 02:01:41--  http://www.wimp.cf/free-ebooks/utopia.pdf
+Resolving www.wimp.cf (www.wimp.cf)... 158.101.2.77
+Connecting to www.wimp.cf (www.wimp.cf)|158.101.2.77|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.wimp.cf:443 [following]
+--2020-03-02 02:01:42--  https://www.wimp.cf/
+Connecting to www.wimp.cf (www.wimp.cf)|158.101.2.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47581 (46K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 2.53M=0.2s
+
+2020-03-02 02:01:43 (2.53 Mb/s) - ‘/dev/null’ saved [47581/47581]
+

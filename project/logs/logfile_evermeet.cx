@@ -1,0 +1,23 @@
+--2020-03-02 02:22:35--  http://evermeet.cx/pub/presentations/SAP_DB2_Storage_Layout.pdf
+Resolving evermeet.cx (evermeet.cx)... 77.244.245.66
+Connecting to evermeet.cx (evermeet.cx)|77.244.245.66|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://evermeet.cx/pub/presentations/SAP_DB2_Storage_Layout.pdf [following]
+--2020-03-02 02:22:35--  https://evermeet.cx/pub/presentations/SAP_DB2_Storage_Layout.pdf
+Connecting to evermeet.cx (evermeet.cx)|77.244.245.66|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 418626 (409K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 6.36M 0s
+    50K .......... .......... .......... .......... .......... 24% 13.6M 0s
+   100K .......... .......... .......... .......... .......... 36% 96.6M 0s
+   150K .......... .......... .......... .......... .......... 48%  129M 0s
+   200K .......... .......... .......... .......... .......... 61% 15.6M 0s
+   250K .......... .......... .......... .......... .......... 73%  110M 0s
+   300K .......... .......... .......... .......... .......... 85% 17.9M 0s
+   350K .......... .......... .......... .......... .......... 97% 80.0M 0s
+   400K ........                                              100%  454M=0.2s
+
+2020-03-02 02:22:35 (20.9 Mb/s) - ‘/dev/null’ saved [418626/418626]
+

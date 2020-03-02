@@ -1,0 +1,26 @@
+--2020-03-02 05:21:04--  http://theenergycentre.je/
+Resolving theenergycentre.je (theenergycentre.je)... 104.18.46.234, 104.18.47.234
+Connecting to theenergycentre.je (theenergycentre.je)|104.18.46.234|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.jsygas.com/the-energy-centre/ [following]
+--2020-03-02 05:21:04--  http://www.jsygas.com/the-energy-centre/
+Resolving www.jsygas.com (www.jsygas.com)... 104.24.102.102, 104.24.103.102
+Connecting to www.jsygas.com (www.jsygas.com)|104.24.102.102|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.jsygas.com/PDFs/jersey-gas-moved-2017.pdf [following]
+--2020-03-02 05:21:04--  http://www.jsygas.com/PDFs/jersey-gas-moved-2017.pdf
+Reusing existing connection to www.jsygas.com:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 321037 (314K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 82.1M 0s
+    50K .......... .......... .......... .......... .......... 31%  114M 0s
+   100K .......... .......... .......... .......... .......... 47%  144M 0s
+   150K .......... .......... .......... .......... .......... 63%  106M 0s
+   200K .......... .......... .......... .......... .......... 79%  327M 0s
+   250K .......... .......... .......... .......... .......... 95%  371M 0s
+   300K .......... ...                                        100% 1.20G=0.02s
+
+2020-03-02 05:21:04 (145 Mb/s) - ‘/dev/null’ saved [321037/321037]
+

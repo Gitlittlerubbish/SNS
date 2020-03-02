@@ -1,0 +1,21 @@
+--2020-03-01 23:41:29--  http://shorturl.at/qt128
+Resolving shorturl.at (shorturl.at)... 104.28.13.84, 104.28.12.84
+Connecting to shorturl.at (shorturl.at)|104.28.13.84|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.shorturl.at/qt128 [following]
+--2020-03-01 23:41:29--  https://www.shorturl.at/qt128
+Resolving www.shorturl.at (www.shorturl.at)... 104.28.13.84, 104.28.12.84
+Connecting to www.shorturl.at (www.shorturl.at)|104.28.13.84|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.google.com/url?sa=t&source=web&rct=j&url=http://www.aast.org/Assets/5e4309dd-c952-4a56-b2c9-7060670a7573/635376719195570000/non-invasive-positive-pressure-ventilation-guideline-3-26-14-june-2014-pdf&ved=2ahUKEwiXifLwxOflAhVbyYsBHX7WAcwQFjAAegQIAhAB&usg=AOvVaw3zlB18YFZM65KAPSiG0T1T [following]
+--2020-03-01 23:41:30--  https://www.google.com/url?sa=t&source=web&rct=j&url=http://www.aast.org/Assets/5e4309dd-c952-4a56-b2c9-7060670a7573/635376719195570000/non-invasive-positive-pressure-ventilation-guideline-3-26-14-june-2014-pdf&ved=2ahUKEwiXifLwxOflAhVbyYsBHX7WAcwQFjAAegQIAhAB&usg=AOvVaw3zlB18YFZM65KAPSiG0T1T
+Resolving www.google.com (www.google.com)... 172.217.169.4
+Connecting to www.google.com (www.google.com)|172.217.169.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                       103M=0s
+
+2020-03-01 23:41:30 (103 Mb/s) - ‘/dev/null’ saved [1142]
+

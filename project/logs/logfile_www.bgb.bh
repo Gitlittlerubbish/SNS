@@ -1,0 +1,24 @@
+--2020-03-01 23:59:56--  http://www.bgb.bh/BGBpress_release-english.pdf
+Resolving www.bgb.bh (www.bgb.bh)... 178.79.163.49
+Connecting to www.bgb.bh (www.bgb.bh)|178.79.163.49|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bgb.bh/BGBpress_release-english.pdf [following]
+--2020-03-01 23:59:56--  https://www.bgb.bh/BGBpress_release-english.pdf
+Connecting to www.bgb.bh (www.bgb.bh)|178.79.163.49|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 474196 (463K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 32.0M 0s
+    50K .......... .......... .......... .......... .......... 21% 74.0M 0s
+   100K .......... .......... .......... .......... .......... 32%  121M 0s
+   150K .......... .......... .......... .......... .......... 43% 46.9M 0s
+   200K .......... .......... .......... .......... .......... 53%  189M 0s
+   250K .......... .......... .......... .......... .......... 64% 55.8M 0s
+   300K .......... .......... .......... .......... .......... 75%  246M 0s
+   350K .......... .......... .......... .......... .......... 86% 52.4M 0s
+   400K .......... .......... .......... .......... .......... 97% 59.9M 0s
+   450K .......... ...                                        100% 2.55G=0.06s
+
+2020-03-01 23:59:56 (67.4 Mb/s) - ‘/dev/null’ saved [474196/474196]
+

@@ -1,0 +1,13 @@
+--2020-03-02 04:01:07--  http://www.hibifo.de/resources/APA7reference-guide.pdf
+Resolving www.hibifo.de (www.hibifo.de)... 217.160.0.135
+Connecting to www.hibifo.de (www.hibifo.de)|217.160.0.135|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132991 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 10.8M 0s
+    50K .......... .......... .......... .......... .......... 76% 26.0M 0s
+   100K .......... .......... .........                       100% 31.3M=0.06s
+
+2020-03-02 04:01:07 (17.3 Mb/s) - ‘/dev/null’ saved [132991/132991]
+

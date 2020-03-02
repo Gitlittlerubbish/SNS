@@ -1,0 +1,19 @@
+--2020-03-02 00:23:07--  http://www.simplegreen.bz/downloads/SDS_EN_SimpleGreenLimeScaleRemover.pdf
+Resolving www.simplegreen.bz (www.simplegreen.bz)... 162.241.156.19
+Connecting to www.simplegreen.bz (www.simplegreen.bz)|162.241.156.19|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://simplegreen.com/downloads/SDS_EN_SimpleGreenLimeScaleRemover.pdf [following]
+--2020-03-02 00:23:08--  https://simplegreen.com/downloads/SDS_EN_SimpleGreenLimeScaleRemover.pdf
+Resolving simplegreen.com (simplegreen.com)... 162.241.156.19
+Connecting to simplegreen.com (simplegreen.com)|162.241.156.19|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 178187 (174K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 1.65M 1s
+    50K .......... .......... .......... .......... .......... 57% 1.66M 0s
+   100K .......... .......... .......... .......... .......... 86% 3.35M 0s
+   150K .......... .......... ....                            100%  132M=0.6s
+
+2020-03-02 00:23:10 (2.30 Mb/s) - ‘/dev/null’ saved [178187/178187]
+

@@ -1,0 +1,13 @@
+--2020-03-02 02:32:53--  http://beglobal.com.co/visas/REQUISITOS_VISA_TURISMO_CANADA.pdf
+Resolving beglobal.com.co (beglobal.com.co)... 108.163.210.34
+Connecting to beglobal.com.co (beglobal.com.co)|108.163.210.34|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153475 (150K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 1.99M 0s
+    50K .......... .......... .......... .......... .......... 66% 3.96M 0s
+   100K .......... .......... .......... .......... ......... 100%  232M=0.3s
+
+2020-03-02 02:32:54 (3.95 Mb/s) - ‘/dev/null’ saved [153475/153475]
+

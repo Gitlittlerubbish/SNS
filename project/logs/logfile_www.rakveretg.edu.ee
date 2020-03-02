@@ -1,0 +1,18 @@
+--2020-03-02 03:32:20--  http://www.rakveretg.edu.ee/est/g58s121
+Resolving www.rakveretg.edu.ee (www.rakveretg.edu.ee)... 194.106.111.136
+Connecting to www.rakveretg.edu.ee (www.rakveretg.edu.ee)|194.106.111.136|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.rakveretg.edu.ee/Konsultatsioonid-ja-jarelvastamised-II-poolaasta-2020 [following]
+--2020-03-02 03:32:20--  http://www.rakveretg.edu.ee/Konsultatsioonid-ja-jarelvastamised-II-poolaasta-2020
+Reusing existing connection to www.rakveretg.edu.ee:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 183613 (179K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 4.14M 0s
+    50K .......... .......... .......... .......... .......... 55% 8.12M 0s
+   100K .......... .......... .......... .......... .......... 83% 84.1M 0s
+   150K .......... .......... .........                       100%  108M=0.2s
+
+2020-03-02 03:32:20 (9.38 Mb/s) - ‘/dev/null’ saved [183613/183613]
+

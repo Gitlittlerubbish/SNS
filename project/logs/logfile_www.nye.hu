@@ -1,0 +1,14 @@
+--2020-03-02 04:37:14--  http://www.nye.hu/telefonkonyv/telefonkonyv.pdf
+Resolving www.nye.hu (www.nye.hu)... 193.224.106.238
+Connecting to www.nye.hu (www.nye.hu)|193.224.106.238|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181107 (177K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 4.49M 0s
+    50K .......... .......... .......... .......... .......... 56% 9.12M 0s
+   100K .......... .......... .......... .......... .......... 84% 37.6M 0s
+   150K .......... .......... ......                          100%  175M=0.1s
+
+2020-03-02 04:37:15 (9.77 Mb/s) - ‘/dev/null’ saved [181107/181107]
+

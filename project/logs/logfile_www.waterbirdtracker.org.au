@@ -1,0 +1,21 @@
+--2020-03-01 23:37:23--  http://www.waterbirdtracker.org.au/docs/BeaksAndFeet.pdf
+Resolving www.waterbirdtracker.org.au (www.waterbirdtracker.org.au)... 13.73.203.169
+Connecting to www.waterbirdtracker.org.au (www.waterbirdtracker.org.au)|13.73.203.169|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.waterbirdtracker.org.au/docs/BeaksAndFeet.pdf [following]
+--2020-03-01 23:37:24--  https://www.waterbirdtracker.org.au/docs/BeaksAndFeet.pdf
+Connecting to www.waterbirdtracker.org.au (www.waterbirdtracker.org.au)|13.73.203.169|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338262 (330K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  668K 3s
+    50K .......... .......... .......... .......... .......... 30%  201M 1s
+   100K .......... .......... .......... .......... .......... 45% 1.33M 1s
+   150K .......... .......... .......... .......... .......... 60% 1.33M 1s
+   200K .......... .......... .......... .......... .......... 75%  455M 0s
+   250K .......... .......... .......... .......... .......... 90%  547M 0s
+   300K .......... .......... ..........                      100%  816K=1.5s
+
+2020-03-01 23:37:27 (1.76 Mb/s) - ‘/dev/null’ saved [338262/338262]
+

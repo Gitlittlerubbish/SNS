@@ -1,0 +1,21 @@
+--2020-03-02 00:30:20--  http://apdp.bj/wp-content/uploads/2018/10/Directive_cybercriminalite_CEDEAO.pdf
+Resolving apdp.bj (apdp.bj)... 185.224.138.111
+Connecting to apdp.bj (apdp.bj)|185.224.138.111|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://apdp.bj/wp-content/uploads/2018/10/Directive_cybercriminalite_CEDEAO.pdf [following]
+--2020-03-02 00:30:20--  https://apdp.bj/wp-content/uploads/2018/10/Directive_cybercriminalite_CEDEAO.pdf
+Connecting to apdp.bj (apdp.bj)|185.224.138.111|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323479 (316K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 16.4M 0s
+    50K .......... .......... .......... .......... .......... 31% 32.0M 0s
+   100K .......... .......... .......... .......... .......... 47% 37.1M 0s
+   150K .......... .......... .......... .......... .......... 63%  217M 0s
+   200K .......... .......... .......... .......... .......... 79% 42.1M 0s
+   250K .......... .......... .......... .......... .......... 94%  126M 0s
+   300K .......... .....                                      100%  880M=0.06s
+
+2020-03-02 00:30:20 (40.5 Mb/s) - ‘/dev/null’ saved [323479/323479]
+

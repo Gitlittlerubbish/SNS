@@ -1,0 +1,11 @@
+--2020-03-02 03:52:05--  http://www.koshio.ga/publications/p4/p42075.pdf
+Resolving www.koshio.ga (www.koshio.ga)... 195.20.54.95
+Connecting to www.koshio.ga (www.koshio.ga)|195.20.54.95|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 633 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  338M=0s
+
+2020-03-02 03:52:06 (338 Mb/s) - ‘/dev/null’ saved [633/633]
+

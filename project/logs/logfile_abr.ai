@@ -1,0 +1,27 @@
+--2020-03-01 22:39:52--  http://abr.ai/educacaonutricional
+Resolving abr.ai (abr.ai)... 67.199.248.12, 67.199.248.13
+Connecting to abr.ai (abr.ai)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://bvsms.saude.gov.br/bvs/publicacoes/planos_aula.pdf [following]
+--2020-03-01 22:39:53--  http://bvsms.saude.gov.br/bvs/publicacoes/planos_aula.pdf
+Resolving bvsms.saude.gov.br (bvsms.saude.gov.br)... 189.28.130.9
+Connecting to bvsms.saude.gov.br (bvsms.saude.gov.br)|189.28.130.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 572300 (559K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8%  782K 5s
+    50K .......... .......... .......... .......... .......... 17%  777K 5s
+   100K .......... .......... .......... .......... .......... 26% 1.39M 4s
+   150K .......... .......... .......... .......... .......... 35%  935M 2s
+   200K .......... .......... .......... .......... .......... 44% 1.80M 2s
+   250K .......... .......... .......... .......... .......... 53%  185M 1s
+   300K .......... .......... .......... .......... .......... 62% 1.39M 1s
+   350K .......... .......... .......... .......... .......... 71% 1.18G 1s
+   400K .......... .......... .......... .......... .......... 80% 1.81M 1s
+   450K .......... .......... .......... .......... .......... 89%  137M 0s
+   500K .......... .......... .......... .......... .......... 98% 1.40M 0s
+   550K ........                                              100% 1.21G=2.4s
+
+2020-03-01 22:39:57 (1.91 Mb/s) - ‘/dev/null’ saved [572300/572300]
+

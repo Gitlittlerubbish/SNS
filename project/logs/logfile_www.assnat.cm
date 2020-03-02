@@ -1,0 +1,26 @@
+--2020-03-02 01:48:31--  http://www.assnat.cm/images/discours_de_clotureNOV2019.pdf
+Resolving www.assnat.cm (www.assnat.cm)... 155.133.138.9
+Connecting to www.assnat.cm (www.assnat.cm)|155.133.138.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147849 (144K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 11.2M 0s
+    50K .......... .......... .......... .......... .......... 69% 23.2M 0s
+   100K .......... .......... .......... .......... ....      100%  107M=0.06s
+
+2020-03-02 01:48:31 (20.6 Mb/s) - ‘/dev/null’ saved [147849/147849]
+
+--2020-03-02 01:48:31--  http://www.assnat.cm/images/The_constitution.pdf
+Resolving www.assnat.cm (www.assnat.cm)... 155.133.138.9
+Connecting to www.assnat.cm (www.assnat.cm)|155.133.138.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152888 (149K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 10.7M 0s
+    50K .......... .......... .......... .......... .......... 66% 28.1M 0s
+   100K .......... .......... .......... .......... ......... 100% 69.0M=0.06s
+
+2020-03-02 01:48:31 (20.8 Mb/s) - ‘/dev/null’ saved [152888/152888]
+

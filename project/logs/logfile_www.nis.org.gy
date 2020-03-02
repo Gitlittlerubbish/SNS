@@ -1,0 +1,15 @@
+--2020-03-02 04:17:49--  http://www.nis.org.gy/pdf/FORM_MB1_Maternity_Benefit_Statement_of_Earnings.pdf
+Resolving www.nis.org.gy (www.nis.org.gy)... 74.220.219.60
+Connecting to www.nis.org.gy (www.nis.org.gy)|74.220.219.60|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nis.org.gy/ [following]
+--2020-03-02 04:17:50--  https://www.nis.org.gy/
+Connecting to www.nis.org.gy (www.nis.org.gy)|74.220.219.60|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                            689M=0s
+
+2020-03-02 04:17:51 (689 Mb/s) - ‘/dev/null’ saved [11275]
+

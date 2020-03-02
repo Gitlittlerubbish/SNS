@@ -1,0 +1,32 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:35:26--  https://www.foodauthority.nsw.gov.au/media/1606
+Resolving www.foodauthority.nsw.gov.au (www.foodauthority.nsw.gov.au)... 92.122.54.110, 95.101.143.90
+Connecting to www.foodauthority.nsw.gov.au (www.foodauthority.nsw.gov.au)|92.122.54.110|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.foodauthority.nsw.gov.au/sites/default/files/_Documents/retail/raw_egg_guidelines.pdf [following]
+--2020-03-01 23:35:29--  https://www.foodauthority.nsw.gov.au/sites/default/files/_Documents/retail/raw_egg_guidelines.pdf
+Reusing existing connection to www.foodauthority.nsw.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 825396 (806K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 73.6M 0s
+    50K .......... .......... .......... .......... .......... 12% 90.6M 0s
+   100K .......... .......... .......... .......... .......... 18%  120M 0s
+   150K .......... .......... .......... .......... .......... 24%  159M 0s
+   200K .......... .......... .......... .......... .......... 31%  173M 0s
+   250K .......... .......... .......... .......... .......... 37% 68.8M 0s
+   300K .......... .......... .......... .......... .......... 43%  191M 0s
+   350K .......... .......... .......... .......... .......... 49%  224M 0s
+   400K .......... .......... .......... .......... .......... 55%  442M 0s
+   450K .......... .......... .......... .......... .......... 62%  150M 0s
+   500K .......... .......... .......... .......... .......... 68% 91.2M 0s
+   550K .......... .......... .......... .......... .......... 74%  206M 0s
+   600K .......... .......... .......... .......... .......... 80%  472M 0s
+   650K .......... .......... .......... .......... .......... 86%  277M 0s
+   700K .......... .......... .......... .......... .......... 93%  237M 0s
+   750K .......... .......... .......... .......... .......... 99%  339M 0s
+   800K ......                                                100%  953M=0.04s
+
+2020-03-01 23:35:30 (151 Mb/s) - ‘/dev/null’ saved [825396/825396]
+

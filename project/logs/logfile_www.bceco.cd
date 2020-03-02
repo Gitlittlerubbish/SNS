@@ -1,0 +1,25 @@
+--2020-03-02 02:34:54--  http://www.bceco.cd/telechargement/REPARTITION_DES_CANDIDATS_PAR_GROUPE_INFO_FIN.pdf
+Resolving www.bceco.cd (www.bceco.cd)... 185.28.23.1
+Connecting to www.bceco.cd (www.bceco.cd)|185.28.23.1|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bceco.cd/telechargement/REPARTITION_DES_CANDIDATS_PAR_GROUPE_INFO_FIN.pdf [following]
+--2020-03-02 02:34:54--  https://www.bceco.cd/telechargement/REPARTITION_DES_CANDIDATS_PAR_GROUPE_INFO_FIN.pdf
+Connecting to www.bceco.cd (www.bceco.cd)|185.28.23.1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 512790 (501K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 2.04M 2s
+    50K .......... .......... .......... .......... .......... 19% 4.28M 1s
+   100K .......... .......... .......... .......... .......... 29% 4.30M 1s
+   150K .......... .......... .......... .......... .......... 39% 4.40M 1s
+   200K .......... .......... .......... .......... .......... 49%  108M 0s
+   250K .......... .......... .......... .......... .......... 59%  260M 0s
+   300K .......... .......... .......... .......... .......... 69% 4.51M 0s
+   350K .......... .......... .......... .......... .......... 79%  162M 0s
+   400K .......... .......... .......... .......... .......... 89%  151M 0s
+   450K .......... .......... .......... .......... .......... 99% 4.73M 0s
+   500K                                                       100%  126K=0.7s
+
+2020-03-02 02:34:57 (6.09 Mb/s) - ‘/dev/null’ saved [512790/512790]
+

@@ -1,0 +1,12 @@
+--2020-03-02 00:26:39--  http://www.jagd.bz/gesetze/Wildbrethygiene-Regelung.pdf
+Resolving www.jagd.bz (www.jagd.bz)... 185.161.192.31
+Connecting to www.jagd.bz (www.jagd.bz)|185.161.192.31|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61587 (60K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 83% 6.34M 0s
+    50K ..........                                            100% 51.5M=0.07s
+
+2020-03-02 00:26:39 (7.44 Mb/s) - ‘/dev/null’ saved [61587/61587]
+

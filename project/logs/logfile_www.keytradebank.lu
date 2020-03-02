@@ -1,0 +1,16 @@
+--2020-03-02 06:29:18--  http://www.keytradebank.lu/files/documentcenter/KeyplanClosure_fr.pdf
+Resolving www.keytradebank.lu (www.keytradebank.lu)... 93.191.218.15
+Connecting to www.keytradebank.lu (www.keytradebank.lu)|93.191.218.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.keytradebank.lu/files/documentcenter/KeyplanClosure_fr.pdf [following]
+--2020-03-02 06:29:18--  https://www.keytradebank.lu/files/documentcenter/KeyplanClosure_fr.pdf
+Connecting to www.keytradebank.lu (www.keytradebank.lu)|93.191.218.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68635 (67K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 74% 7.55M 0s
+    50K .......... .......                                    100% 5.89M=0.08s
+
+2020-03-02 06:29:19 (7.04 Mb/s) - ‘/dev/null’ saved [68635/68635]
+

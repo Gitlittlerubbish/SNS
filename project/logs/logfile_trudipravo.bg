@@ -1,0 +1,15 @@
+--2020-03-02 01:30:50--  http://trudipravo.bg/pdf/proc/19_proc.pdf
+Resolving trudipravo.bg (trudipravo.bg)... 79.124.64.161
+Connecting to trudipravo.bg (trudipravo.bg)|79.124.64.161|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 206064 (201K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 4.94M 0s
+    50K .......... .......... .......... .......... .......... 49% 8.79M 0s
+   100K .......... .......... .......... .......... .......... 74% 9.25M 0s
+   150K .......... .......... .......... .......... .......... 99% 9.63M 0s
+   200K .                                                     100%  191M=0.2s
+
+2020-03-02 01:30:51 (7.62 Mb/s) - ‘/dev/null’ saved [206064/206064]
+

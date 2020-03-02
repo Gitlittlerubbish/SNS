@@ -1,0 +1,30 @@
+--2020-03-02 00:34:08--  http://www.bermudapolice.bm/sites/default/files/Personal_Information.pdf
+Resolving www.bermudapolice.bm (www.bermudapolice.bm)... 104.238.111.218
+Connecting to www.bermudapolice.bm (www.bermudapolice.bm)|104.238.111.218|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 229295 (224K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  590K 2s
+    50K .......... .......... .......... .......... .......... 44%  974K 1s
+   100K .......... .......... .......... .......... .......... 66%  735K 1s
+   150K .......... .......... .......... .......... .......... 89%  781K 0s
+   200K .......... .......... ...                             100% 1.12M=2.4s
+
+2020-03-02 00:34:12 (774 Kb/s) - ‘/dev/null’ saved [229295/229295]
+
+--2020-03-02 00:34:16--  http://www.bermudapolice.bm/sites/default/files/Personal_Information.pdf
+Resolving www.bermudapolice.bm (www.bermudapolice.bm)... 104.238.111.218
+Connecting to www.bermudapolice.bm (www.bermudapolice.bm)|104.238.111.218|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 229295 (224K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  976K 1s
+    50K .......... .......... .......... .......... .......... 44%  975K 1s
+   100K .......... .......... .......... .......... .......... 66%  977K 1s
+   150K .......... .......... .......... .......... .......... 89% 1.07M 0s
+   200K .......... .......... ...                             100% 1.40M=1.8s
+
+2020-03-02 00:34:18 (1.03 Mb/s) - ‘/dev/null’ saved [229295/229295]
+

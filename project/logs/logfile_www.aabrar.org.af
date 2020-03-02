@@ -1,0 +1,15 @@
+--2020-03-01 22:14:12--  http://www.aabrar.org.af/administration/uploads/books/Trees.pdf
+Resolving www.aabrar.org.af (www.aabrar.org.af)... 207.180.252.169
+Connecting to www.aabrar.org.af (www.aabrar.org.af)|207.180.252.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235486 (230K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 10.1M 0s
+    50K .......... .......... .......... .......... .......... 43% 18.2M 0s
+   100K .......... .......... .......... .......... .......... 65%  134M 0s
+   150K .......... .......... .......... .......... .......... 86% 8.57M 0s
+   200K .......... .......... .........                       100% 1.55G=0.1s
+
+2020-03-01 22:14:12 (16.5 Mb/s) - ‘/dev/null’ saved [235486/235486]
+

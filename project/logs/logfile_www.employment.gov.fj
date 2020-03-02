@@ -1,0 +1,16 @@
+--2020-03-02 03:40:43--  http://www.employment.gov.fj/laws/EA_Cap92.pdf
+Resolving www.employment.gov.fj (www.employment.gov.fj)... 124.108.31.205
+Connecting to www.employment.gov.fj (www.employment.gov.fj)|124.108.31.205|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279341 (273K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18%  557K 3s
+    50K .......... .......... .......... .......... .......... 36% 1.18M 2s
+   100K .......... .......... .......... .......... .......... 54% 1.17M 1s
+   150K .......... .......... .......... .......... .......... 73% 1.18M 1s
+   200K .......... .......... .......... .......... .......... 91% 1.20M 0s
+   250K .......... .......... ..                              100% 35.0M=2.1s
+
+2020-03-02 03:40:45 (1.05 Mb/s) - ‘/dev/null’ saved [279341/279341]
+

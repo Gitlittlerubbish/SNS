@@ -1,0 +1,21 @@
+--2020-03-02 08:32:41--  http://www.healthychristchurch.org.nz/media/62726/winterwarmthsheet_nepali.pdf
+Resolving www.healthychristchurch.org.nz (www.healthychristchurch.org.nz)... 111.65.228.92
+Connecting to www.healthychristchurch.org.nz (www.healthychristchurch.org.nz)|111.65.228.92|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.healthychristchurch.org.nz/media/62726/winterwarmthsheet_nepali.pdf [following]
+--2020-03-02 08:32:42--  https://www.healthychristchurch.org.nz/media/62726/winterwarmthsheet_nepali.pdf
+Connecting to www.healthychristchurch.org.nz (www.healthychristchurch.org.nz)|111.65.228.92|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 332828 (325K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  629K 4s
+    50K .......... .......... .......... .......... .......... 30% 1.48M 2s
+   100K .......... .......... .......... .......... .......... 46% 1.52M 1s
+   150K .......... .......... .......... .......... .......... 61% 44.6M 1s
+   200K .......... .......... .......... .......... .......... 76% 1.50M 0s
+   250K .......... .......... .......... .......... .......... 92% 1.52M 0s
+   300K .......... .......... .....                           100% 54.5M=1.8s
+
+2020-03-02 08:32:46 (1.52 Mb/s) - ‘/dev/null’ saved [332828/332828]
+

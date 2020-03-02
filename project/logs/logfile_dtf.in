@@ -1,0 +1,15 @@
+--2020-03-02 04:40:55--  http://dtf.in/download/3585/
+Resolving dtf.in (dtf.in)... 162.252.83.203
+Connecting to dtf.in (dtf.in)|162.252.83.203|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dtf.in/wp-content/files/Allahabad.pdf [following]
+--2020-03-02 04:40:56--  https://dtf.in/wp-content/files/Allahabad.pdf
+Connecting to dtf.in (dtf.in)|162.252.83.203|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39228 (38K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ........             100% 3.14M=0.1s
+
+2020-03-02 04:40:57 (3.14 Mb/s) - ‘/dev/null’ saved [39228/39228]
+

@@ -1,0 +1,16 @@
+--2020-03-02 02:21:41--  http://www.samuel.cx/samuel_cx.pdf
+Resolving www.samuel.cx (www.samuel.cx)... 198.54.116.241
+Connecting to www.samuel.cx (www.samuel.cx)|198.54.116.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.samuel.cx/samuel_cx.pdf [following]
+--2020-03-02 02:21:41--  https://www.samuel.cx/samuel_cx.pdf
+Connecting to www.samuel.cx (www.samuel.cx)|198.54.116.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88850 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 2.64M 0s
+    50K .......... .......... .......... ......               100% 1.93M=0.3s
+
+2020-03-02 02:21:43 (2.28 Mb/s) - ‘/dev/null’ saved [88850/88850]
+

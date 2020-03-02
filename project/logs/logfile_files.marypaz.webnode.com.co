@@ -1,0 +1,11 @@
+--2020-03-02 02:30:39--  http://files.marypaz.webnode.com.co/200000026-192711a248/Acido_clorhidrico.pdf
+Resolving files.marypaz.webnode.com.co (files.marypaz.webnode.com.co)... 82.208.18.140
+Connecting to files.marypaz.webnode.com.co (files.marypaz.webnode.com.co)|82.208.18.140|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36790 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .....                100% 12.5M=0.02s
+
+2020-03-02 02:30:39 (12.5 Mb/s) - ‘/dev/null’ saved [36790/36790]
+

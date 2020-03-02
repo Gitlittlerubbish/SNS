@@ -1,0 +1,25 @@
+--2020-03-02 03:37:26--  http://www.alvalon.fo/files/alvalon_sp.pdf
+Resolving www.alvalon.fo (www.alvalon.fo)... 104.27.146.31, 104.27.147.31
+Connecting to www.alvalon.fo (www.alvalon.fo)|104.27.146.31|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.alvalon.fo/files/alvalon_sp.pdf [following]
+--2020-03-02 03:37:27--  https://www.alvalon.fo/files/alvalon_sp.pdf
+Connecting to www.alvalon.fo (www.alvalon.fo)|104.27.146.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 514575 (503K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 21.9M 0s
+    50K .......... .......... .......... .......... .......... 19%  148M 0s
+   100K .......... .......... .......... .......... .......... 29%  126M 0s
+   150K .......... .......... .......... .......... .......... 39% 29.2M 0s
+   200K .......... .......... .......... .......... .......... 49%  197M 0s
+   250K .......... .......... .......... .......... .......... 59%  211M 0s
+   300K .......... .......... .......... .......... .......... 69% 40.1M 0s
+   350K .......... .......... .......... .......... .......... 79% 78.0M 0s
+   400K .......... .......... .......... .......... .......... 89%  226M 0s
+   450K .......... .......... .......... .......... .......... 99%  265M 0s
+   500K ..                                                    100%  332M=0.06s
+
+2020-03-02 03:37:27 (66.7 Mb/s) - ‘/dev/null’ saved [514575/514575]
+

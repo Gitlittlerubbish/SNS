@@ -1,0 +1,19 @@
+--2020-03-02 05:01:33--  http://epos.djei.ie/EPOSOnlinePortal/UserGuide.pdf
+Resolving epos.djei.ie (epos.djei.ie)... 137.191.249.146
+Connecting to epos.djei.ie (epos.djei.ie)|137.191.249.146|:80... connected.
+HTTP request sent, awaiting response... 302 Found : Moved Temporarily
+Location: https://epos.djei.ie [following]
+--2020-03-02 05:01:33--  https://epos.djei.ie/
+Connecting to epos.djei.ie (epos.djei.ie)|137.191.249.146|:443... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://epos.djei.ie/EPOSOnlineportal [following]
+--2020-03-02 05:01:33--  https://epos.djei.ie/EPOSOnlineportal
+Reusing existing connection to epos.djei.ie:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3504 (3.4K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 1.33G=0s
+
+2020-03-02 05:01:33 (1.33 Gb/s) - ‘/dev/null’ saved [3504/3504]
+

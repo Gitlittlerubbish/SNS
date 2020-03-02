@@ -1,0 +1,30 @@
+--2020-03-02 06:26:03--  http://sco.lt/8IQpdI
+Resolving sco.lt (sco.lt)... 185.94.140.20
+Connecting to sco.lt (sco.lt)|185.94.140.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.fundacionmapfre.org/fundacion/es_es/images/desafio-tecnologias-educacion-libro-profesor_tcm1069-421445.pdf?utm_medium=social&utm_source=twitter [following]
+--2020-03-02 06:26:03--  https://www.fundacionmapfre.org/fundacion/es_es/images/desafio-tecnologias-educacion-libro-profesor_tcm1069-421445.pdf?utm_medium=social&utm_source=twitter
+Resolving www.fundacionmapfre.org (www.fundacionmapfre.org)... 195.53.217.78
+Connecting to www.fundacionmapfre.org (www.fundacionmapfre.org)|195.53.217.78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 743803 (726K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 4.93M 1s
+    50K .......... .......... .......... .......... .......... 13% 9.78M 1s
+   100K .......... .......... .......... .......... .......... 20% 10.2M 1s
+   150K .......... .......... .......... .......... .......... 27% 10.0M 1s
+   200K .......... .......... .......... .......... .......... 34% 10.8M 0s
+   250K .......... .......... .......... .......... .......... 41% 55.5M 0s
+   300K .......... .......... .......... .......... .......... 48% 9.98M 0s
+   350K .......... .......... .......... .......... .......... 55% 11.4M 0s
+   400K .......... .......... .......... .......... .......... 61% 10.1M 0s
+   450K .......... .......... .......... .......... .......... 68% 10.4M 0s
+   500K .......... .......... .......... .......... .......... 75% 50.4M 0s
+   550K .......... .......... .......... .......... .......... 82% 10.7M 0s
+   600K .......... .......... .......... .......... .......... 89% 10.8M 0s
+   650K .......... .......... .......... .......... .......... 96% 10.5M 0s
+   700K .......... .......... ......                          100% 49.7M=0.5s
+
+2020-03-02 06:26:04 (11.1 Mb/s) - ‘/dev/null’ saved [743803/743803]
+

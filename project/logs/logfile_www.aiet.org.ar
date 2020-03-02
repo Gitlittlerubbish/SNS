@@ -1,0 +1,12 @@
+--2020-03-01 23:13:05--  http://www.aiet.org.ar/desc/tablacostos.pdf
+Resolving www.aiet.org.ar (www.aiet.org.ar)... 200.58.120.105
+Connecting to www.aiet.org.ar (www.aiet.org.ar)|200.58.120.105|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80727 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63%  400K 1s
+    50K .......... .......... ........                        100%  952M=1.0s
+
+2020-03-01 23:13:07 (630 Kb/s) - ‘/dev/null’ saved [80727/80727]
+

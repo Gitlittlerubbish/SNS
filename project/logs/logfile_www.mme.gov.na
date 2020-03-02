@@ -1,0 +1,13 @@
+--2020-03-02 08:02:21--  http://www.mme.gov.na/pdf/diamond_act_of_1999.pdf
+Resolving www.mme.gov.na (www.mme.gov.na)... 209.88.21.84
+Connecting to www.mme.gov.na (www.mme.gov.na)|209.88.21.84|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138762 (136K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 1.32M 1s
+    50K .......... .......... .......... .......... .......... 73% 2.68M 0s
+   100K .......... .......... .......... .....                100% 83.3M=0.5s
+
+2020-03-02 08:02:22 (2.38 Mb/s) - ‘/dev/null’ saved [138762/138762]
+

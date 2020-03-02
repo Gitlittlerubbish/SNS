@@ -1,0 +1,17 @@
+--2020-03-02 04:11:42--  http://cunori.edu.gt/download/Normativo_de_trabajo_de_graduacin_de_Auditora.pdf
+Resolving cunori.edu.gt (cunori.edu.gt)... 5.189.175.164
+Connecting to cunori.edu.gt (cunori.edu.gt)|5.189.175.164|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://cunori.edu.gt/descargas/Normativo_de_trabajo_de_graduacin_de_Auditora.pdf [following]
+--2020-03-02 04:11:42--  http://cunori.edu.gt/descargas/Normativo_de_trabajo_de_graduacin_de_Auditora.pdf
+Reusing existing connection to cunori.edu.gt:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 138509 (135K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 7.18M 0s
+    50K .......... .......... .......... .......... .......... 73% 14.6M 0s
+   100K .......... .......... .......... .....                100% 76.9M=0.09s
+
+2020-03-02 04:11:43 (12.5 Mb/s) - ‘/dev/null’ saved [138509/138509]
+

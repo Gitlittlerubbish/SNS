@@ -1,0 +1,15 @@
+--2020-03-02 06:26:58--  http://www.azienda.lt/userfiles/files/Laidai-kabeliai-parinkimas.pdf
+Resolving www.azienda.lt (www.azienda.lt)... 194.135.87.81
+Connecting to www.azienda.lt (www.azienda.lt)|194.135.87.81|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250031 (244K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 5.10M 0s
+    50K .......... .......... .......... .......... .......... 40% 10.3M 0s
+   100K .......... .......... .......... .......... .......... 61% 9.97M 0s
+   150K .......... .......... .......... .......... .......... 81% 1.83M 0s
+   200K .......... .......... .......... .......... ....      100% 9.02M=0.4s
+
+2020-03-02 06:26:59 (4.71 Mb/s) - ‘/dev/null’ saved [250031/250031]
+

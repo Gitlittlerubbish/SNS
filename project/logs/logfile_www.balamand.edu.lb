@@ -1,0 +1,15 @@
+--2020-03-02 06:16:47--  http://www.balamand.edu.lb/ProspectiveStudents/Documents/AppMed.pdf
+Resolving www.balamand.edu.lb (www.balamand.edu.lb)... 193.227.187.51
+Connecting to www.balamand.edu.lb (www.balamand.edu.lb)|193.227.187.51|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227670 (222K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 3.17M 0s
+    50K .......... .......... .......... .......... .......... 44% 6.36M 0s
+   100K .......... .......... .......... .......... .......... 67% 29.6M 0s
+   150K .......... .......... .......... .......... .......... 89% 7.14M 0s
+   200K .......... .......... ..                              100% 20.1M=0.3s
+
+2020-03-02 06:16:48 (6.65 Mb/s) - ‘/dev/null’ saved [227670/227670]
+

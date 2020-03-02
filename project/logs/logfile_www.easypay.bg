@@ -1,0 +1,15 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:31:36--  https://www.easypay.bg/site/files/trms_ld.pdf
+Resolving www.easypay.bg (www.easypay.bg)... 82.103.104.165
+Connecting to www.easypay.bg (www.easypay.bg)|82.103.104.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155050 (151K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 4.60M 0s
+    50K .......... .......... .......... .......... .......... 66% 8.96M 0s
+   100K .......... .......... .......... .......... .......... 99% 17.6M 0s
+   150K .                                                     100%  232K=0.2s
+
+2020-03-02 01:31:37 (7.85 Mb/s) - ‘/dev/null’ saved [155050/155050]
+

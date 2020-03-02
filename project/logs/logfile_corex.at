@@ -1,0 +1,15 @@
+--2020-03-01 23:41:45--  http://corex.at/Produktinfos/Fortinet_Product_Matrix_20191121.pdf
+Resolving corex.at (corex.at)... 77.244.244.60
+Connecting to corex.at (corex.at)|77.244.244.60|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219350 (214K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 3.35M 0s
+    50K .......... .......... .......... .......... .......... 46% 6.64M 0s
+   100K .......... .......... .......... .......... .......... 70% 13.2M 0s
+   150K .......... .......... .......... .......... .......... 93% 6.75M 0s
+   200K .......... ....                                       100% 46.4M=0.3s
+
+2020-03-01 23:41:45 (6.31 Mb/s) - ‘/dev/null’ saved [219350/219350]
+

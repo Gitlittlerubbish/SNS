@@ -1,0 +1,28 @@
+--2020-03-02 01:53:41--  http://www.jacayman.ky/s/7q0zbx6yo317pq248s3rwtvvozv44b
+Resolving www.jacayman.ky (www.jacayman.ky)... 198.49.23.144, 198.185.159.144, 198.49.23.145, ...
+Connecting to www.jacayman.ky (www.jacayman.ky)|198.49.23.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.jacayman.ky/s/7q0zbx6yo317pq248s3rwtvvozv44b [following]
+--2020-03-02 01:53:42--  https://www.jacayman.ky/s/7q0zbx6yo317pq248s3rwtvvozv44b
+Connecting to www.jacayman.ky (www.jacayman.ky)|198.49.23.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/5b687c3ab40b9da80063d81e/t/5b9a8e28032be40c8f544a90/1536855594678/JA+Worldwide+Fact+Sheet+2017.pdf [following]
+--2020-03-02 01:53:42--  https://static1.squarespace.com/static/5b687c3ab40b9da80063d81e/t/5b9a8e28032be40c8f544a90/1536855594678/JA+Worldwide+Fact+Sheet+2017.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 423462 (414K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 39.9M 0s
+    50K .......... .......... .......... .......... .......... 24% 71.5M 0s
+   100K .......... .......... .......... .......... .......... 36% 69.1M 0s
+   150K .......... .......... .......... .......... .......... 48% 57.2M 0s
+   200K .......... .......... .......... .......... .......... 60% 89.5M 0s
+   250K .......... .......... .......... .......... .......... 72% 67.1M 0s
+   300K .......... .......... .......... .......... .......... 84% 83.3M 0s
+   350K .......... .......... .......... .......... .......... 96% 67.5M 0s
+   400K .......... ...                                        100% 2.70G=0.05s
+
+2020-03-02 01:53:42 (66.7 Mb/s) - ‘/dev/null’ saved [423462/423462]
+

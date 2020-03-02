@@ -1,0 +1,21 @@
+--2020-03-02 04:53:44--  http://eprints.umk.ac.id/76/9/KARTU_MATERI.pdf
+Resolving eprints.umk.ac.id (eprints.umk.ac.id)... 124.158.182.200
+Connecting to eprints.umk.ac.id (eprints.umk.ac.id)|124.158.182.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://eprints.umk.ac.id:443/76/9/KARTU_MATERI.pdf [following]
+--2020-03-02 04:53:45--  https://eprints.umk.ac.id/76/9/KARTU_MATERI.pdf
+Connecting to eprints.umk.ac.id (eprints.umk.ac.id)|124.158.182.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 335086 (327K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  914K 2s
+    50K .......... .......... .......... .......... .......... 30% 2.04M 1s
+   100K .......... .......... .......... .......... .......... 45% 2.06M 1s
+   150K .......... .......... .......... .......... .......... 61% 83.5M 1s
+   200K .......... .......... .......... .......... .......... 76% 2.04M 0s
+   250K .......... .......... .......... .......... .......... 91% 2.06M 0s
+   300K .......... .......... .......                         100%  482M=1.3s
+
+2020-03-02 04:53:47 (2.14 Mb/s) - ‘/dev/null’ saved [335086/335086]
+

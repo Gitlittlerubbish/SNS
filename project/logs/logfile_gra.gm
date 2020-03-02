@@ -1,0 +1,14 @@
+--2020-03-02 03:54:55--  http://gra.gm/assets/forms/returns/CGT-RETURN.pdf
+Resolving gra.gm (gra.gm)... 66.96.144.190
+Connecting to gra.gm (gra.gm)|66.96.144.190|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166671 (163K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 5.26M 0s
+    50K .......... .......... .......... .......... .......... 61% 5.26M 0s
+   100K .......... .......... .......... .......... .......... 92%  219M 0s
+   150K .......... ..                                         100% 1.41M=0.2s
+
+2020-03-02 03:54:55 (5.76 Mb/s) - ‘/dev/null’ saved [166671/166671]
+

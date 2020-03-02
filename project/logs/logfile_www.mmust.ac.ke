@@ -1,0 +1,13 @@
+--2020-03-02 05:32:06--  http://www.mmust.ac.ke/images/Programmes/MMUST_TVET_DIPLOMA_AND_CERTIFICATES.pdf
+Resolving www.mmust.ac.ke (www.mmust.ac.ke)... 41.204.161.132
+Connecting to www.mmust.ac.ke (www.mmust.ac.ke)|41.204.161.132|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116107 (113K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44% 1.37M 0s
+    50K .......... .......... .......... .......... .......... 88% 2.77M 0s
+   100K .......... ...                                        100% 51.8M=0.4s
+
+2020-03-02 05:32:08 (2.07 Mb/s) - ‘/dev/null’ saved [116107/116107]
+

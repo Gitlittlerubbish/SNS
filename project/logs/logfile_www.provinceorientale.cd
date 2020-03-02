@@ -1,0 +1,15 @@
+--2020-03-02 02:35:12--  http://www.provinceorientale.cd/docs/resultats_provinciaux.pdf
+Resolving www.provinceorientale.cd (www.provinceorientale.cd)... 67.222.111.194
+Connecting to www.provinceorientale.cd (www.provinceorientale.cd)|67.222.111.194|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.provinceorientale.cd/cgi-sys/suspendedpage.cgi [following]
+--2020-03-02 02:35:13--  http://www.provinceorientale.cd/cgi-sys/suspendedpage.cgi
+Reusing existing connection to www.provinceorientale.cd:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                                1.06G=0s
+
+2020-03-02 02:35:14 (1.06 Gb/s) - ‘/dev/null’ saved [7547]
+

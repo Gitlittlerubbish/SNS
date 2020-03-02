@@ -1,0 +1,13 @@
+--2020-03-02 01:01:18--  http://centarnirsa.ba/dokumenti/CERIF.pdf
+Resolving centarnirsa.ba (centarnirsa.ba)... 159.69.137.146
+Connecting to centarnirsa.ba (centarnirsa.ba)|159.69.137.146|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136460 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 7.25M 0s
+    50K .......... .......... .......... .......... .......... 75% 14.0M 0s
+   100K .......... .......... .......... ...                  100% 97.9M=0.09s
+
+2020-03-02 01:01:19 (12.3 Mb/s) - ‘/dev/null’ saved [136460/136460]
+

@@ -1,0 +1,12 @@
+--2020-03-02 07:08:10--  http://www.sppim.gov.my/pdf/panduan/panduan_NCR_LuarNegara.pdf
+Resolving www.sppim.gov.my (www.sppim.gov.my)... 103.8.161.218
+Connecting to www.sppim.gov.my (www.sppim.gov.my)|103.8.161.218|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82120 (80K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62%  507K 0s
+    50K .......... .......... ..........                      100%  950K=1.1s
+
+2020-03-02 07:08:12 (615 Kb/s) - ‘/dev/null’ saved [82120/82120]
+

@@ -1,0 +1,12 @@
+--2020-03-02 04:00:37--  http://kopiloth.de/sdthb..pdf
+Resolving kopiloth.de (kopiloth.de)... 80.150.6.143
+Connecting to kopiloth.de (kopiloth.de)|80.150.6.143|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54012 (53K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 94% 6.58M 0s
+    50K ..                                                    100%  205M=0.06s
+
+2020-03-02 04:00:37 (6.93 Mb/s) - ‘/dev/null’ saved [54012/54012]
+

@@ -1,0 +1,14 @@
+--2020-03-02 03:35:45--  http://www.glarmeistarin.fo/databladoptimirrordk.pdf
+Resolving www.glarmeistarin.fo (www.glarmeistarin.fo)... 46.227.118.147
+Connecting to www.glarmeistarin.fo (www.glarmeistarin.fo)|46.227.118.147|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157783 (154K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 1.24M 1s
+    50K .......... .......... .......... .......... .......... 64% 3.10M 0s
+   100K .......... .......... .......... .......... .......... 97% 57.2M 0s
+   150K ....                                                  100%  510K=0.5s
+
+2020-03-02 03:35:46 (2.36 Mb/s) - ‘/dev/null’ saved [157783/157783]
+

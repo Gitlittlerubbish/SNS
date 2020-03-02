@@ -1,0 +1,15 @@
+--2020-03-02 03:03:24--  http://www.jidelna-karlovina.cz/TYDENNI.PDF
+Resolving www.jidelna-karlovina.cz (www.jidelna-karlovina.cz)... 213.226.192.25
+Connecting to www.jidelna-karlovina.cz (www.jidelna-karlovina.cz)|213.226.192.25|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208233 (203K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 1.76M 1s
+    50K .......... .......... .......... .......... .......... 49% 5.25M 0s
+   100K .......... .......... .......... .......... .......... 73% 6.43M 0s
+   150K .......... .......... .......... .......... .......... 98% 5.30M 0s
+   200K ...                                                   100% 25.9M=0.5s
+
+2020-03-02 03:03:25 (3.68 Mb/s) - ‘/dev/null’ saved [208233/208233]
+

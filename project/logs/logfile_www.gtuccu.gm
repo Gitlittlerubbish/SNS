@@ -1,0 +1,12 @@
+--2020-03-02 03:54:05--  http://www.gtuccu.gm/pdf/KENYA.pdf
+Resolving www.gtuccu.gm (www.gtuccu.gm)... 173.254.28.89
+Connecting to www.gtuccu.gm (www.gtuccu.gm)|173.254.28.89|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85283 (83K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 60% 1.24M 0s
+    50K .......... .......... .......... ...                  100%  164M=0.3s
+
+2020-03-02 03:54:06 (2.06 Mb/s) - ‘/dev/null’ saved [85283/85283]
+

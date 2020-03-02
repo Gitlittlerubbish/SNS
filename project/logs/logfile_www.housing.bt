@@ -1,0 +1,26 @@
+--2020-03-02 00:35:01--  http://www.housing.bt/yangphel_pdf.pdf
+Resolving www.housing.bt (www.housing.bt)... 68.183.246.86
+Connecting to www.housing.bt (www.housing.bt)|68.183.246.86|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.housing.bt/yangphel_pdf.pdf [following]
+--2020-03-02 00:35:02--  https://www.housing.bt/yangphel_pdf.pdf
+Connecting to www.housing.bt (www.housing.bt)|68.183.246.86|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.67M
+    50K .......... .......... .......... .......... .......... 2.65M
+   100K .......... .......... .......... .......... ..........  168M
+   150K .......... .......... .......... .......... ..........  543M
+   200K .......... .......... .......... .......... .......... 2.71M
+   250K .......... .......... .......... .......... ..........  142M
+   300K .......... .......... .......... .......... .......... 2.79M
+   350K .......... .......... .......... .......... ..........  280M
+   400K .......... .......... .......... .......... ..........  549M
+   450K .......... .......... .......... .......... ..........  104M
+   500K .......... .......... .......... .......... .......... 89.2M
+   550K .......... .......... .......... .......... ..         2.42M=0.8s
+
+2020-03-02 00:35:03 (6.33 Mb/s) - ‘/dev/null’ saved [606463]
+

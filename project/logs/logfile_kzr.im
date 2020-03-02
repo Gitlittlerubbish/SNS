@@ -1,0 +1,19 @@
+--2020-03-02 05:02:32--  http://kzr.im/IssKX
+Resolving kzr.im (kzr.im)... 195.154.40.252
+Connecting to kzr.im (kzr.im)|195.154.40.252|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.justice.gov.il/Units/HokrimPratim/LawInfo/Chakika/hokhokrim.pdf [following]
+--2020-03-02 05:02:32--  https://www.justice.gov.il/Units/HokrimPratim/LawInfo/Chakika/hokhokrim.pdf
+Resolving www.justice.gov.il (www.justice.gov.il)... 147.237.76.26
+Connecting to www.justice.gov.il (www.justice.gov.il)|147.237.76.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158930 (155K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 2.92M 0s
+    50K .......... .......... .......... .......... .......... 64% 5.96M 0s
+   100K .......... .......... .......... .......... .......... 96%  110M 0s
+   150K .....                                                 100%  364M=0.2s
+
+2020-03-02 05:02:33 (5.98 Mb/s) - ‘/dev/null’ saved [158930/158930]
+

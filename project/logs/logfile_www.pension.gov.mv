@@ -1,0 +1,18 @@
+--2020-03-02 07:09:27--  http://www.pension.gov.mv/downloads/3566
+Resolving www.pension.gov.mv (www.pension.gov.mv)... 104.26.0.118, 104.26.1.118
+Connecting to www.pension.gov.mv (www.pension.gov.mv)|104.26.0.118|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.pension.gov.mv/downloads/3566 [following]
+--2020-03-02 07:09:27--  https://www.pension.gov.mv/downloads/3566
+Connecting to www.pension.gov.mv (www.pension.gov.mv)|104.26.0.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  671K
+    50K .......... .......... .......... .......... .......... 2.81M
+   100K .......... .......... .......... .......... ..........  184M
+   150K .......... .........                                    467M=0.8s
+
+2020-03-02 07:09:29 (1.83 Mb/s) - ‘/dev/null’ saved [173499]
+

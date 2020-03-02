@@ -1,0 +1,14 @@
+--2020-03-02 03:03:02--  http://www.uek.cz/download/zmena.pdf
+Resolving www.uek.cz (www.uek.cz)... 81.92.148.121
+Connecting to www.uek.cz (www.uek.cz)|81.92.148.121|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 162903 (159K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 6.66M 0s
+    50K .......... .......... .......... .......... .......... 62% 13.5M 0s
+   100K .......... .......... .......... .......... .......... 94% 80.9M 0s
+   150K .........                                             100% 2.07G=0.1s
+
+2020-03-02 03:03:02 (13.4 Mb/s) - ‘/dev/null’ saved [162903/162903]
+

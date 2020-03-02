@@ -1,0 +1,11 @@
+--2020-03-02 05:09:31--  http://www.cupide.org.jm/lifesciences/DLSTimetableAccSched.pdf
+Resolving www.cupide.org.jm (www.cupide.org.jm)... 196.3.0.4
+Connecting to www.cupide.org.jm (www.cupide.org.jm)|196.3.0.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27280 (27K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                          100%  384K=0.6s
+
+2020-03-02 05:09:32 (384 Kb/s) - ‘/dev/null’ saved [27280/27280]
+

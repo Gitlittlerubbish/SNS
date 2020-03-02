@@ -1,0 +1,14 @@
+--2020-03-02 03:05:24--  http://www.lyceedebalbala.dj/uploads/AJOURNE_S.PDF
+Resolving www.lyceedebalbala.dj (www.lyceedebalbala.dj)... 41.189.224.134
+Connecting to www.lyceedebalbala.dj (www.lyceedebalbala.dj)|41.189.224.134|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 162902 (159K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 2.36M 0s
+    50K .......... .......... .......... .......... .......... 62% 4.84M 0s
+   100K .......... .......... .......... .......... .......... 94% 42.8M 0s
+   150K .........                                             100%  382M=0.3s
+
+2020-03-02 03:05:25 (4.86 Mb/s) - ‘/dev/null’ saved [162902/162902]
+

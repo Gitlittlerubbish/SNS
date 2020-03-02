@@ -1,0 +1,11 @@
+--2020-03-02 03:04:09--  http://www.panforte.dk/Dokumenter/ondskab2.pdf
+Resolving www.panforte.dk (www.panforte.dk)... 46.30.215.149
+Connecting to www.panforte.dk (www.panforte.dk)|46.30.215.149|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18628 (18K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ........                                   100% 5.45M=0.03s
+
+2020-03-02 03:04:09 (5.45 Mb/s) - ‘/dev/null’ saved [18628/18628]
+

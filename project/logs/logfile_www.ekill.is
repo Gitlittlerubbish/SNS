@@ -1,0 +1,16 @@
+--2020-03-02 04:39:18--  http://www.ekill.is/static/files/merkin/vidvorunarmerki.pdf
+Resolving www.ekill.is (www.ekill.is)... 54.76.32.59
+Connecting to www.ekill.is (www.ekill.is)|54.76.32.59|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ekill.is/static/files/merkin/vidvorunarmerki.pdf [following]
+--2020-03-02 04:39:18--  https://www.ekill.is/static/files/merkin/vidvorunarmerki.pdf
+Connecting to www.ekill.is (www.ekill.is)|54.76.32.59|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98270 (96K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 14.2M 0s
+    50K .......... .......... .......... .......... .....     100%  131M=0.03s
+
+2020-03-02 04:39:18 (24.8 Mb/s) - ‘/dev/null’ saved [98270/98270]
+

@@ -1,0 +1,11 @@
+--2020-03-02 05:01:18--  http://www.tradelink.ie/filelib/1bf05d2e25fad64436dcb8c9fb9f667f.pdf
+Resolving www.tradelink.ie (www.tradelink.ie)... 109.200.19.216
+Connecting to www.tradelink.ie (www.tradelink.ie)|109.200.19.216|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...        21.0M=0.02s
+
+2020-03-02 05:01:18 (21.0 Mb/s) - ‘/dev/null’ saved [44581]
+

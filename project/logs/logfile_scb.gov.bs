@@ -1,0 +1,14 @@
+--2020-03-01 23:56:29--  http://scb.gov.bs/documents/ACT-InvestmentFundsAct2003.pdf
+Resolving scb.gov.bs (scb.gov.bs)... 66.96.146.52
+Connecting to scb.gov.bs (scb.gov.bs)|66.96.146.52|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199455 (195K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 2.65M 0s
+    50K .......... .......... .......... .......... .......... 51% 3.45M 0s
+   100K .......... .......... .......... .......... .......... 77%  644M 0s
+   150K .......... .......... .......... .......... ....      100% 1.68G=0.3s
+
+2020-03-01 23:56:29 (5.83 Mb/s) - ‘/dev/null’ saved [199455/199455]
+

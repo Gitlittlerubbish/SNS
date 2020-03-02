@@ -1,0 +1,14 @@
+--2020-03-02 01:02:00--  http://zada.ba/wp-content/uploads/2019/10/LOPRESS_SmPC.pdf
+Resolving zada.ba (zada.ba)... 213.133.104.38
+Connecting to zada.ba (zada.ba)|213.133.104.38|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 156026 (152K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 9.02M 0s
+    50K .......... .......... .......... .......... .......... 65% 17.8M 0s
+   100K .......... .......... .......... .......... .......... 98%  115M 0s
+   150K ..                                                    100%  388K=0.07s
+
+2020-03-02 01:02:00 (17.3 Mb/s) - ‘/dev/null’ saved [156026/156026]
+

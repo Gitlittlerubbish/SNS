@@ -1,0 +1,25 @@
+--2020-03-02 05:32:14--  http://www.jkuat.ac.ke/campuses/kigali/wp-content/uploads/2014/12/BCOM.pdf
+Resolving www.jkuat.ac.ke (www.jkuat.ac.ke)... 198.1.75.23
+Connecting to www.jkuat.ac.ke (www.jkuat.ac.ke)|198.1.75.23|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36906 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100% 1.55M=0.2s
+
+2020-03-02 05:32:15 (1.55 Mb/s) - ‘/dev/null’ saved [36906/36906]
+
+--2020-03-02 05:32:36--  http://www.jkuat.ac.ke/wp-content/uploads/2015/10/Jkuat-Ewaste-Policy-Final.pdf
+Resolving www.jkuat.ac.ke (www.jkuat.ac.ke)... 198.1.75.23
+Connecting to www.jkuat.ac.ke (www.jkuat.ac.ke)|198.1.75.23|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170024 (166K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 1.20M 1s
+    50K .......... .......... .......... .......... .......... 60% 2.40M 0s
+   100K .......... .......... .......... .......... .......... 90% 2.32M 0s
+   150K .......... ......                                     100% 1.44G=0.7s
+
+2020-03-02 05:32:37 (1.98 Mb/s) - ‘/dev/null’ saved [170024/170024]
+

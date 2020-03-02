@@ -1,0 +1,12 @@
+--2020-03-02 06:21:39--  http://lipa.gov.lr/pg_img/ajax.pdf
+Resolving lipa.gov.lr (lipa.gov.lr)... 198.57.27.125
+Connecting to lipa.gov.lr (lipa.gov.lr)|198.57.27.125|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60439 (59K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 84% 2.06M 0s
+    50K .........                                             100% 1.32G=0.2s
+
+2020-03-02 06:21:39 (2.43 Mb/s) - ‘/dev/null’ saved [60439/60439]
+

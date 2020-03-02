@@ -1,0 +1,17 @@
+--2020-03-02 07:27:47--  http://ito.mx/LPNk
+Resolving ito.mx (ito.mx)... 104.236.131.142
+Connecting to ito.mx (ito.mx)|104.236.131.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.upo.es/depa/webdex/quimfis/docencia/biotec_FQbiomol/Practica3FQB.pdf [following]
+--2020-03-02 07:27:48--  https://www.upo.es/depa/webdex/quimfis/docencia/biotec_FQbiomol/Practica3FQB.pdf
+Resolving www.upo.es (www.upo.es)... 193.147.188.22
+Connecting to www.upo.es (www.upo.es)|193.147.188.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93612 (91K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54% 3.14M 0s
+    50K .......... .......... .......... .......... .         100%  210M=0.1s
+
+2020-03-02 07:27:48 (5.68 Mb/s) - ‘/dev/null’ saved [93612/93612]
+

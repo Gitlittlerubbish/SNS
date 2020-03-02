@@ -1,0 +1,11 @@
+--2020-03-02 07:27:07--  http://1b.yt/e2KVr
+Resolving 1b.yt (1b.yt)... 199.59.242.153
+Connecting to 1b.yt (1b.yt)|199.59.242.153|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                     213M=0s
+
+2020-03-02 07:27:08 (213 Mb/s) - ‘/dev/null’ saved [4028]
+

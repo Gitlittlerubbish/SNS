@@ -1,0 +1,21 @@
+--2020-03-01 23:40:00--  http://www.thesleepstore.com.au/images/upload/gro_clock_manual_2011.pdf
+Resolving www.thesleepstore.com.au (www.thesleepstore.com.au)... 13.224.130.116, 13.224.130.97, 13.224.130.45, ...
+Connecting to www.thesleepstore.com.au (www.thesleepstore.com.au)|13.224.130.116|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.thesleepstore.com.au/images/upload/gro_clock_manual_2011.pdf [following]
+--2020-03-01 23:40:01--  https://www.thesleepstore.com.au/images/upload/gro_clock_manual_2011.pdf
+Connecting to www.thesleepstore.com.au (www.thesleepstore.com.au)|13.224.130.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 357751 (349K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 1.51M 2s
+    50K .......... .......... .......... .......... .......... 28% 1.44M 1s
+   100K .......... .......... .......... .......... .......... 42%  474M 1s
+   150K .......... .......... .......... .......... .......... 57% 55.2M 0s
+   200K .......... .......... .......... .......... .......... 71% 1.36M 0s
+   250K .......... .......... .......... .......... .......... 85%  848M 0s
+   300K .......... .......... .......... .......... ......... 100% 52.1M=0.9s
+
+2020-03-01 23:40:03 (3.28 Mb/s) - ‘/dev/null’ saved [357751/357751]
+

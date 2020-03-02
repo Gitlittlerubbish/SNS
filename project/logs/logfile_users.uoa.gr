@@ -1,0 +1,15 @@
+--2020-03-02 04:06:25--  http://users.uoa.gr/~atsaoussi/Nalebuff.pdf
+Resolving users.uoa.gr (users.uoa.gr)... 195.134.100.68
+Connecting to users.uoa.gr (users.uoa.gr)|195.134.100.68|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230490 (225K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.77M 1s
+    50K .......... .......... .......... .......... .......... 44% 6.92M 0s
+   100K .......... .......... .......... .......... .......... 66% 7.13M 0s
+   150K .......... .......... .......... .......... .......... 88%  128M 0s
+   200K .......... .......... .....                           100% 3.71M=0.4s
+
+2020-03-02 04:06:25 (4.54 Mb/s) - ‘/dev/null’ saved [230490/230490]
+

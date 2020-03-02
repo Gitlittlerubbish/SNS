@@ -1,0 +1,15 @@
+--2020-03-02 06:25:58--  http://www.economics.li/downloads/questiad.pdf
+Resolving www.economics.li (www.economics.li)... 92.43.216.109
+Connecting to www.economics.li (www.economics.li)|92.43.216.109|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.economics.li/downloads/questiad.pdf [following]
+--2020-03-02 06:25:58--  https://www.economics.li/downloads/questiad.pdf
+Connecting to www.economics.li (www.economics.li)|92.43.216.109|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39924 (39K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ........             100% 12.9M=0.02s
+
+2020-03-02 06:25:58 (12.9 Mb/s) - ‘/dev/null’ saved [39924/39924]
+

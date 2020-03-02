@@ -1,0 +1,12 @@
+--2020-03-02 04:04:02--  http://admissions.umat.edu.gh/addapps/postgrad/downloads/PostgraduateBrochure.pdf
+Resolving admissions.umat.edu.gh (admissions.umat.edu.gh)... 192.3.201.35
+Connecting to admissions.umat.edu.gh (admissions.umat.edu.gh)|192.3.201.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86679 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 1.60M 0s
+    50K .......... .......... .......... ....                 100% 1.67M=0.4s
+
+2020-03-02 04:04:03 (1.63 Mb/s) - ‘/dev/null’ saved [86679/86679]
+

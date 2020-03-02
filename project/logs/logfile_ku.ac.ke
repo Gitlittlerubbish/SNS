@@ -1,0 +1,24 @@
+--2020-03-02 05:31:09--  http://ku.ac.ke/accommodation/images/stories/docs/2016/ParklandsDec2016Upload.pdf
+Resolving ku.ac.ke (ku.ac.ke)... 41.89.10.16
+Connecting to ku.ac.ke (ku.ac.ke)|41.89.10.16|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72989 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 1.09M 0s
+    50K .......... .......... .                               100% 91.2M=0.4s
+
+2020-03-02 05:31:10 (1.54 Mb/s) - ‘/dev/null’ saved [72989/72989]
+
+--2020-03-02 05:31:15--  http://ku.ac.ke/accommodation/images/stories/docs/2016/ParklandsDec2016Upload.pdf
+Resolving ku.ac.ke (ku.ac.ke)... 41.89.10.16
+Connecting to ku.ac.ke (ku.ac.ke)|41.89.10.16|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72989 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 1.10M 0s
+    50K .......... .......... .                               100% 52.2M=0.4s
+
+2020-03-02 05:31:16 (1.55 Mb/s) - ‘/dev/null’ saved [72989/72989]
+

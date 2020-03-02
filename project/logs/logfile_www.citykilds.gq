@@ -1,0 +1,13 @@
+--2020-03-02 03:29:09--  http://www.citykilds.gq/jdownloads/Systembeschreibungen/Capteur_de_couleurs_capteurs_de_contrastes_capteurs_de_luminescence_description_du_systeme.pdf
+Resolving www.citykilds.gq (www.citykilds.gq)... 104.28.30.206, 104.28.31.206
+Connecting to www.citykilds.gq (www.citykilds.gq)|104.28.30.206|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.1M
+    50K .......... .......... .......... .......... ..........  121M
+   100K .......... .......... .                                 386M=0.04s
+
+2020-03-02 03:29:09 (22.4 Mb/s) - ‘/dev/null’ saved [124332]
+

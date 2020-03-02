@@ -1,0 +1,11 @@
+--2020-03-02 02:00:25--  http://bias.ky/images/documents/mpscontract-investment-ky.pdf
+Resolving bias.ky (bias.ky)... 96.30.36.172
+Connecting to bias.ky (bias.ky)|96.30.36.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47012 (46K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....     100% 1.83M=0.2s
+
+2020-03-02 02:00:26 (1.83 Mb/s) - ‘/dev/null’ saved [47012/47012]
+

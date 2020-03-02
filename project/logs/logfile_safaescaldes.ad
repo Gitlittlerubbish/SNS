@@ -1,0 +1,12 @@
+--2020-03-01 22:33:25--  http://safaescaldes.ad/images/TINTERESSA/POLITICA_QUALITAT.pdf
+Resolving safaescaldes.ad (safaescaldes.ad)... 176.28.103.205
+Connecting to safaescaldes.ad (safaescaldes.ad)|176.28.103.205|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81662 (80K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62% 3.42M 0s
+    50K .......... .......... .........                       100% 5.71M=0.2s
+
+2020-03-01 22:33:25 (4.02 Mb/s) - ‘/dev/null’ saved [81662/81662]
+

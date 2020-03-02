@@ -1,0 +1,13 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:09:06--  https://www.sbp.com.br/fileadmin/user_upload/RESUMO_DAS_HABILIDADES_DO_BLS_2018.pdf
+Resolving www.sbp.com.br (www.sbp.com.br)... 191.252.125.88, 191.252.125.25
+Connecting to www.sbp.com.br (www.sbp.com.br)|191.252.125.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79507 (78K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 64%  784K 0s
+    50K .......... .......... .......                         100%  304M=0.5s
+
+2020-03-02 01:09:07 (1.22 Mb/s) - ‘/dev/null’ saved [79507/79507]
+

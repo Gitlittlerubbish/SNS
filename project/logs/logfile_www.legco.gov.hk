@@ -1,0 +1,18 @@
+--2020-03-02 04:30:23--  http://www.legco.gov.hk/yr19-20/english/bills/b202001311.pdf
+Resolving www.legco.gov.hk (www.legco.gov.hk)... 113.28.88.71
+Connecting to www.legco.gov.hk (www.legco.gov.hk)|113.28.88.71|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.legco.gov.hk/yr19-20/english/bills/b202001311.pdf [following]
+--2020-03-02 04:30:23--  https://www.legco.gov.hk/yr19-20/english/bills/b202001311.pdf
+Connecting to www.legco.gov.hk (www.legco.gov.hk)|113.28.88.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155079 (151K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33%  671K 1s
+    50K .......... .......... .......... .......... .......... 66% 1.09M 1s
+   100K .......... .......... .......... .......... .......... 99% 2.14M 0s
+   150K .                                                     100%  237K=1.2s
+
+2020-03-02 04:30:25 (1.05 Mb/s) - ‘/dev/null’ saved [155079/155079]
+

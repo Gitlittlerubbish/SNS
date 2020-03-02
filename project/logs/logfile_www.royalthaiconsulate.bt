@@ -1,0 +1,11 @@
+--2020-03-02 00:36:39--  http://www.royalthaiconsulate.bt/document/Visaapplicationform.pdf
+Resolving www.royalthaiconsulate.bt (www.royalthaiconsulate.bt)... 111.118.215.210
+Connecting to www.royalthaiconsulate.bt (www.royalthaiconsulate.bt)|111.118.215.210|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44368 (43K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...       100% 1.41M=0.3s
+
+2020-03-02 00:36:40 (1.41 Mb/s) - ‘/dev/null’ saved [44368/44368]
+

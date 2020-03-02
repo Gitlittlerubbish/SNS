@@ -1,0 +1,13 @@
+--2020-03-02 07:28:18--  http://enciclovida.mx/especies/7007091.pdf
+Resolving enciclovida.mx (enciclovida.mx)... 200.12.166.190
+Connecting to enciclovida.mx (enciclovida.mx)|200.12.166.190|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.33M
+    50K .......... .......... .......... .......... .......... 2.82M
+   100K .......                                                 401M=0.5s
+
+2020-03-02 07:28:21 (1.94 Mb/s) - ‘/dev/null’ saved [110010]
+

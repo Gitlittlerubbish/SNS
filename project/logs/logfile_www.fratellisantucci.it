@@ -1,0 +1,12 @@
+--2020-03-02 05:08:48--  http://www.fratellisantucci.it/file/veicoli_non_soggetti_alla_legge_298_1974.pdf
+Resolving www.fratellisantucci.it (www.fratellisantucci.it)... 81.4.103.99
+Connecting to www.fratellisantucci.it (www.fratellisantucci.it)|81.4.103.99|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92413 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 15.8M 0s
+    50K .......... .......... .......... ..........           100%  283M=0.03s
+
+2020-03-02 05:08:48 (27.3 Mb/s) - ‘/dev/null’ saved [92413/92413]
+

@@ -1,0 +1,11 @@
+--2020-03-02 03:52:26--  http://www.afrimkaansu.ga/_data/8901091_Inhaltsverzeichnis_DE.pdf
+Resolving www.afrimkaansu.ga (www.afrimkaansu.ga)... 104.28.2.172, 104.28.3.172
+Connecting to www.afrimkaansu.ga (www.afrimkaansu.ga)|104.28.2.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....       103M=0.004s
+
+2020-03-02 03:52:26 (103 Mb/s) - ‘/dev/null’ saved [46431]
+

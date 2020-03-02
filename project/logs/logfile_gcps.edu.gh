@@ -1,0 +1,15 @@
+--2020-03-02 04:04:08--  http://gcps.edu.gh/jaymens_up/2019/02/Advert-2019.pdf
+Resolving gcps.edu.gh (gcps.edu.gh)... 204.11.58.37
+Connecting to gcps.edu.gh (gcps.edu.gh)|204.11.58.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208507 (204K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 1.70M 1s
+    50K .......... .......... .......... .......... .......... 49% 2.22M 0s
+   100K .......... .......... .......... .......... .......... 73%  189M 0s
+   150K .......... .......... .......... .......... .......... 98%  301M 0s
+   200K ...                                                   100%  503M=0.4s
+
+2020-03-02 04:04:08 (3.89 Mb/s) - ‘/dev/null’ saved [208507/208507]
+

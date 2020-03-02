@@ -1,0 +1,11 @@
+--2020-03-02 01:21:16--  http://tfl.vg/c4rw
+Resolving tfl.vg (tfl.vg)... 23.23.245.186
+Connecting to tfl.vg (tfl.vg)|23.23.245.186|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1762 (1.7K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  829M=0s
+
+2020-03-02 01:21:17 (829 Mb/s) - ‘/dev/null’ saved [1762/1762]
+

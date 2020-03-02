@@ -1,0 +1,12 @@
+--2020-03-02 02:51:32--  http://www.petroci.ci/fichier-joint/1
+Resolving www.petroci.ci (www.petroci.ci)... 216.170.124.201, 216.138.234.150
+Connecting to www.petroci.ci (www.petroci.ci)|216.170.124.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100816 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50% 2.10M 0s
+    50K .......... .......... .......... .......... ........  100%  122M=0.2s
+
+2020-03-02 02:51:32 (4.06 Mb/s) - ‘/dev/null’ saved [100816/100816]
+

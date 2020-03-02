@@ -1,0 +1,15 @@
+--2020-03-01 23:04:22--  http://www.fsrc.gov.ag/images/pdf/adf010_253340f2383d461b9fd78f4698ff8a11.pdf
+Resolving www.fsrc.gov.ag (www.fsrc.gov.ag)... 206.214.22.69
+Connecting to www.fsrc.gov.ag (www.fsrc.gov.ag)|206.214.22.69|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.fsrc.gov.ag [following]
+--2020-03-01 23:04:22--  https://www.fsrc.gov.ag/
+Connecting to www.fsrc.gov.ag (www.fsrc.gov.ag)|206.214.22.69|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11230 (11K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ..........                                            100%  725M=0s
+
+2020-03-01 23:04:24 (725 Mb/s) - ‘/dev/null’ saved [11230/11230]
+

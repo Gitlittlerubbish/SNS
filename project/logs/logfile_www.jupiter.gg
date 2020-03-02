@@ -1,0 +1,12 @@
+--2020-03-02 04:15:30--  http://www.jupiter.gg/wp-content/uploads/2011/05/Jupiter-Guide-Guernsey-Trust-May-2011.pdf
+Resolving www.jupiter.gg (www.jupiter.gg)... 93.113.111.110
+Connecting to www.jupiter.gg (www.jupiter.gg)|93.113.111.110|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84571 (83K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 60% 47.0M 0s
+    50K .......... .......... .......... ..                   100% 74.8M=0.01s
+
+2020-03-02 04:15:30 (55.1 Mb/s) - ‘/dev/null’ saved [84571/84571]
+

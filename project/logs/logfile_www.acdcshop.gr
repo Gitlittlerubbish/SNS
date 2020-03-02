@@ -1,0 +1,12 @@
+--2020-03-02 04:06:24--  http://www.acdcshop.gr/content/INSTR-SIL-ZESTAW_en.pdf
+Resolving www.acdcshop.gr (www.acdcshop.gr)... 85.25.100.116
+Connecting to www.acdcshop.gr (www.acdcshop.gr)|85.25.100.116|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100311 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 8.17M 0s
+    50K .......... .......... .......... .......... .......   100% 4.75M=0.1s
+
+2020-03-02 04:06:25 (6.04 Mb/s) - ‘/dev/null’ saved [100311/100311]
+

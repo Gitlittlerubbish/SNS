@@ -1,0 +1,19 @@
+--2020-03-02 05:04:49--  http://www.kwc.im/uploads/behaviour-management-policy.pdf
+Resolving www.kwc.im (www.kwc.im)... 52.210.1.42
+Connecting to www.kwc.im (www.kwc.im)|52.210.1.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.kwc.im/uploads/behaviour-management-policy.pdf [following]
+--2020-03-02 05:04:49--  https://www.kwc.im/uploads/behaviour-management-policy.pdf
+Connecting to www.kwc.im (www.kwc.im)|52.210.1.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216097 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 14.5M 0s
+    50K .......... .......... .......... .......... .......... 47% 36.0M 0s
+   100K .......... .......... .......... .......... .......... 71%  110M 0s
+   150K .......... .......... .......... .......... .......... 94% 89.3M 0s
+   200K .......... .                                          100% 21.6M=0.05s
+
+2020-03-02 05:04:49 (33.2 Mb/s) - ‘/dev/null’ saved [216097/216097]
+

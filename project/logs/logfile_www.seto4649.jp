@@ -1,0 +1,13 @@
+--2020-03-02 05:15:25--  http://www.seto4649.jp/word/seireki12.pdf
+Resolving www.seto4649.jp (www.seto4649.jp)... 59.106.61.120
+Connecting to www.seto4649.jp (www.seto4649.jp)|59.106.61.120|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140750 (137K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36%  666K 1s
+    50K .......... .......... .......... .......... .......... 72% 1.33M 0s
+   100K .......... .......... .......... .......              100%  996K=1.2s
+
+2020-03-02 05:15:28 (914 Kb/s) - ‘/dev/null’ saved [140750/140750]
+

@@ -1,0 +1,12 @@
+--2020-03-02 03:49:04--  http://www.hygiene-publique.gov.pf/IMG/pdf/Arrete_No1119_CM_du_09_OCT._2006.pdf
+Resolving www.hygiene-publique.gov.pf (www.hygiene-publique.gov.pf)... 103.46.218.18
+Connecting to www.hygiene-publique.gov.pf (www.hygiene-publique.gov.pf)|103.46.218.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71791 (70K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 71%  805K 0s
+    50K .......... ..........                                 100%  168M=0.5s
+
+2020-03-02 03:49:06 (1.13 Mb/s) - ‘/dev/null’ saved [71791/71791]
+

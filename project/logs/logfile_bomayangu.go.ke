@@ -1,0 +1,12 @@
+--2020-03-02 05:31:07--  http://bomayangu.go.ke/downloads/Call_For_Strategic_Partners.pdf
+Resolving bomayangu.go.ke (bomayangu.go.ke)... 196.202.201.11
+Connecting to bomayangu.go.ke (bomayangu.go.ke)|196.202.201.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95512 (93K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 53% 1.18M 0s
+    50K .......... .......... .......... .......... ...       100% 2.05M=0.5s
+
+2020-03-02 05:31:09 (1.47 Mb/s) - ‘/dev/null’ saved [95512/95512]
+

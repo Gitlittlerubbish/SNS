@@ -1,0 +1,16 @@
+--2020-03-02 01:55:23--  http://www.saxonmg.ky/upimages/pressrelease/file/CongratulateStudentInvestors_1445631419.pdf
+Resolving www.saxonmg.ky (www.saxonmg.ky)... 167.71.85.247
+Connecting to www.saxonmg.ky (www.saxonmg.ky)|167.71.85.247|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.saxonmg.ky/upimages/pressrelease/file/CongratulateStudentInvestors_1445631419.pdf [following]
+--2020-03-02 01:55:23--  https://www.saxonmg.ky/upimages/pressrelease/file/CongratulateStudentInvestors_1445631419.pdf
+Connecting to www.saxonmg.ky (www.saxonmg.ky)|167.71.85.247|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96779 (95K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 5.42M 0s
+    50K .......... .......... .......... .......... ....      100%  251M=0.08s
+
+2020-03-02 01:55:24 (10.1 Mb/s) - ‘/dev/null’ saved [96779/96779]
+

@@ -1,0 +1,21 @@
+--2020-03-02 05:03:07--  http://cwtch.im/cwtch.pdf
+Resolving cwtch.im (cwtch.im)... 159.203.3.225
+Connecting to cwtch.im (cwtch.im)|159.203.3.225|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://cwtch.im/cwtch.pdf [following]
+--2020-03-02 05:03:07--  https://cwtch.im/cwtch.pdf
+Connecting to cwtch.im (cwtch.im)|159.203.3.225|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 340980 (333K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 2.50M 1s
+    50K .......... .......... .......... .......... .......... 30% 5.03M 1s
+   100K .......... .......... .......... .......... .......... 45% 90.5M 0s
+   150K .......... .......... .......... .......... .......... 60% 5.36M 0s
+   200K .......... .......... .......... .......... .......... 75%  111M 0s
+   250K .......... .......... .......... .......... .......... 90%  208M 0s
+   300K .......... .......... .......... ..                   100%  232M=0.3s
+
+2020-03-02 05:03:07 (8.19 Mb/s) - ‘/dev/null’ saved [340980/340980]
+

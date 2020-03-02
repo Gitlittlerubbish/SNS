@@ -1,0 +1,24 @@
+--2020-03-02 08:32:29--  http://www.researchassociation.org.nz/resources/Documents/ICCESOMAR_Code_English_2016.pdf
+Resolving www.researchassociation.org.nz (www.researchassociation.org.nz)... 34.226.77.200
+Connecting to www.researchassociation.org.nz (www.researchassociation.org.nz)|34.226.77.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.researchassociation.org.nz/resources/Documents/ICCESOMAR_Code_English_2016.pdf [following]
+--2020-03-02 08:32:30--  https://www.researchassociation.org.nz/resources/Documents/ICCESOMAR_Code_English_2016.pdf
+Connecting to www.researchassociation.org.nz (www.researchassociation.org.nz)|34.226.77.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 454863 (444K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 2.41M 1s
+    50K .......... .......... .......... .......... .......... 22% 4.80M 1s
+   100K .......... .......... .......... .......... .......... 33%  121M 1s
+   150K .......... .......... .......... .......... .......... 45%  170M 0s
+   200K .......... .......... .......... .......... .......... 56% 4.97M 0s
+   250K .......... .......... .......... .......... .......... 67%  305M 0s
+   300K .......... .......... .......... .......... .......... 78% 5.21M 0s
+   350K .......... .......... .......... .......... .......... 90%  113M 0s
+   400K .......... .......... .......... .......... ....      100%  101M=0.4s
+
+Last-modified header invalid -- time-stamp ignored.
+2020-03-02 08:32:31 (8.45 Mb/s) - ‘/dev/null’ saved [454863/454863]
+

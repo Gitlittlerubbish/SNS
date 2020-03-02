@@ -1,0 +1,26 @@
+--2020-03-01 23:44:22--  http://www.president.az/files/future_ru.pdf
+Resolving www.president.az (www.president.az)... 31.170.237.115
+Connecting to www.president.az (www.president.az)|31.170.237.115|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://president.az/files/future_ru.pdf [following]
+--2020-03-01 23:44:23--  https://president.az/files/future_ru.pdf
+Resolving president.az (president.az)... 31.170.237.115
+Connecting to president.az (president.az)|31.170.237.115|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 555582 (543K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 2.55M 2s
+    50K .......... .......... .......... .......... .......... 18% 98.7M 1s
+   100K .......... .......... .......... .......... .......... 27% 5.25M 1s
+   150K .......... .......... .......... .......... .......... 36%  104M 0s
+   200K .......... .......... .......... .......... .......... 46%  261M 0s
+   250K .......... .......... .......... .......... .......... 55% 5.45M 0s
+   300K .......... .......... .......... .......... .......... 64%  193M 0s
+   350K .......... .......... .......... .......... .......... 73%  207M 0s
+   400K .......... .......... .......... .......... .......... 82%  217M 0s
+   450K .......... .......... .......... .......... .......... 92% 5.99M 0s
+   500K .......... .......... .......... .......... ..        100%  104M=0.4s
+
+2020-03-01 23:44:23 (11.1 Mb/s) - ‘/dev/null’ saved [555582/555582]
+

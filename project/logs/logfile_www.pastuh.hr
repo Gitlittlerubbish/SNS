@@ -1,0 +1,14 @@
+--2020-03-02 02:54:58--  http://www.pastuh.hr/pdf/pastuh_cjenik_2017_4.pdf
+Resolving www.pastuh.hr (www.pastuh.hr)... 178.218.172.36
+Connecting to www.pastuh.hr (www.pastuh.hr)|178.218.172.36|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161838 (158K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.88M 0s
+    50K .......... .......... .......... .......... .......... 63% 7.40M 0s
+   100K .......... .......... .......... .......... .......... 94% 89.6M 0s
+   150K ........                                              100%  749M=0.3s
+
+2020-03-02 02:54:58 (4.66 Mb/s) - ‘/dev/null’ saved [161838/161838]
+

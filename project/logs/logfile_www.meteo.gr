@@ -1,0 +1,21 @@
+--2020-03-02 04:07:11--  http://www.meteo.gr/pdf/intro_solar_system.pdf
+Resolving www.meteo.gr (www.meteo.gr)... 185.70.76.135
+Connecting to www.meteo.gr (www.meteo.gr)|185.70.76.135|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.meteo.gr/pdf/intro_solar_system.pdf [following]
+--2020-03-02 04:07:11--  https://www.meteo.gr/pdf/intro_solar_system.pdf
+Connecting to www.meteo.gr (www.meteo.gr)|185.70.76.135|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323016 (315K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 3.22M 1s
+    50K .......... .......... .......... .......... .......... 31% 97.3M 0s
+   100K .......... .......... .......... .......... .......... 47% 6.65M 0s
+   150K .......... .......... .......... .......... .......... 63%  177M 0s
+   200K .......... .......... .......... .......... .......... 79% 6.62M 0s
+   250K .......... .......... .......... .......... .......... 95% 96.2M 0s
+   300K .......... .....                                      100%  174M=0.3s
+
+2020-03-02 04:07:12 (9.86 Mb/s) - ‘/dev/null’ saved [323016/323016]
+

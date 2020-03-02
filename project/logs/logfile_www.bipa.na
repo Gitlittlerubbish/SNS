@@ -1,0 +1,11 @@
+--2020-03-02 08:02:59--  http://www.bipa.na/%3Fwpdmact%3Dprocess%26did%3DMjcwLmhvdGxpbms%3D
+Resolving www.bipa.na (www.bipa.na)... 196.216.38.202
+Connecting to www.bipa.na (www.bipa.na)|196.216.38.202|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                   99.7K=1.6s
+
+2020-03-02 08:03:01 (99.7 Kb/s) - ‘/dev/null’ saved [19952]
+

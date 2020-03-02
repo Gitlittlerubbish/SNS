@@ -1,0 +1,20 @@
+--2020-03-01 23:24:25--  http://armstat.am/file/Map/MARZ_07.pdf
+Resolving armstat.am (armstat.am)... 91.221.228.42
+Connecting to armstat.am (armstat.am)|91.221.228.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.armstat.am/file/Map/MARZ_07.pdf [following]
+--2020-03-01 23:24:25--  https://www.armstat.am/file/Map/MARZ_07.pdf
+Resolving www.armstat.am (www.armstat.am)... 91.221.228.42
+Connecting to www.armstat.am (www.armstat.am)|91.221.228.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241553 (236K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 2.18M 1s
+    50K .......... .......... .......... .......... .......... 42% 4.44M 0s
+   100K .......... .......... .......... .......... .......... 63% 4.21M 0s
+   150K .......... .......... .......... .......... .......... 84% 4.38M 0s
+   200K .......... .......... .......... .....                100%  157M=0.5s
+
+2020-03-01 23:24:26 (4.08 Mb/s) - ‘/dev/null’ saved [241553/241553]
+

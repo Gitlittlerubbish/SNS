@@ -1,0 +1,25 @@
+--2020-03-02 05:19:04--  http://www.smbcnikko.co.jp/news/release/2020/pdf/200220_01.pdf
+Resolving www.smbcnikko.co.jp (www.smbcnikko.co.jp)... 88.221.172.181
+Connecting to www.smbcnikko.co.jp (www.smbcnikko.co.jp)|88.221.172.181|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.smbcnikko.co.jp/news/release/2020/pdf/200220_01.pdf [following]
+--2020-03-02 05:19:05--  https://www.smbcnikko.co.jp/news/release/2020/pdf/200220_01.pdf
+Connecting to www.smbcnikko.co.jp (www.smbcnikko.co.jp)|88.221.172.181|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 529882 (517K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 61.8M 0s
+    50K .......... .......... .......... .......... .......... 19% 41.4M 0s
+   100K .......... .......... .......... .......... .......... 28%  117M 0s
+   150K .......... .......... .......... .......... .......... 38%  151M 0s
+   200K .......... .......... .......... .......... .......... 48%  194M 0s
+   250K .......... .......... .......... .......... .......... 57%  132M 0s
+   300K .......... .......... .......... .......... .......... 67%  214M 0s
+   350K .......... .......... .......... .......... .......... 77%  103M 0s
+   400K .......... .......... .......... .......... .......... 86%  220M 0s
+   450K .......... .......... .......... .......... .......... 96%  104M 0s
+   500K .......... .......                                    100% 1.55G=0.04s
+
+2020-03-02 05:19:06 (107 Mb/s) - ‘/dev/null’ saved [529882/529882]
+

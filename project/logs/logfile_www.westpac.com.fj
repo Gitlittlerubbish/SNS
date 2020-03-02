@@ -1,0 +1,25 @@
+--2020-03-02 03:43:44--  http://www.westpac.com.fj/content/dam/public/fiji/documents/Visa_Conditions_of_Use.pdf
+Resolving www.westpac.com.fj (www.westpac.com.fj)... 13.224.130.85, 13.224.130.57, 13.224.130.110, ...
+Connecting to www.westpac.com.fj (www.westpac.com.fj)|13.224.130.85|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.westpac.com.fj/content/dam/public/fiji/documents/Visa_Conditions_of_Use.pdf [following]
+--2020-03-02 03:43:45--  https://www.westpac.com.fj/content/dam/public/fiji/documents/Visa_Conditions_of_Use.pdf
+Connecting to www.westpac.com.fj (www.westpac.com.fj)|13.224.130.85|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 556165 (543K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9%  800K 5s
+    50K .......... .......... .......... .......... .......... 18%  753K 5s
+   100K .......... .......... .......... .......... .......... 27%  522K 5s
+   150K .......... .......... .......... .......... .......... 36%  775K 4s
+   200K .......... .......... .......... .......... .......... 46% 1.51M 3s
+   250K .......... .......... .......... .......... .......... 55%  647K 3s
+   300K .......... .......... .......... .......... .......... 64% 2.00M 2s
+   350K .......... .......... .......... .......... .......... 73% 1.32M 1s
+   400K .......... .......... .......... .......... .......... 82% 1.98M 1s
+   450K .......... .......... .......... .......... .......... 92% 1.52M 0s
+   500K .......... .......... .......... .......... ...       100%  264M=4.3s
+
+2020-03-02 03:43:51 (1.04 Mb/s) - ‘/dev/null’ saved [556165/556165]
+

@@ -1,0 +1,18 @@
+--2020-03-02 04:53:48--  http://bpjs-kesehatan.go.id/bpjs/dmdocuments/eac4e7a830f58b4ade926754f74b6caf.pdf
+Resolving bpjs-kesehatan.go.id (bpjs-kesehatan.go.id)... 13.67.56.225
+Connecting to bpjs-kesehatan.go.id (bpjs-kesehatan.go.id)|13.67.56.225|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bpjs-kesehatan.go.id/bpjs/dmdocuments/eac4e7a830f58b4ade926754f74b6caf.pdf [following]
+--2020-03-02 04:53:49--  https://bpjs-kesehatan.go.id/bpjs/dmdocuments/eac4e7a830f58b4ade926754f74b6caf.pdf
+Connecting to bpjs-kesehatan.go.id (bpjs-kesehatan.go.id)|13.67.56.225|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163840 (160K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.26M 1s
+    50K .......... .......... .......... .......... .......... 62% 81.9M 0s
+   100K .......... .......... .......... .......... .......... 93% 2.53M 0s
+   150K ..........                                            100%  500M=0.5s
+
+2020-03-02 04:53:50 (2.67 Mb/s) - ‘/dev/null’ saved [163840/163840]
+

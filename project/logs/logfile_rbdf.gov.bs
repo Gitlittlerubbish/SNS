@@ -1,0 +1,14 @@
+--2020-03-01 23:55:54--  http://rbdf.gov.bs/apply.pdf
+Resolving rbdf.gov.bs (rbdf.gov.bs)... 162.210.96.115
+Connecting to rbdf.gov.bs (rbdf.gov.bs)|162.210.96.115|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198080 (193K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 2.08M 1s
+    50K .......... .......... .......... .......... .......... 51% 4.23M 0s
+   100K .......... .......... .......... .......... .......... 77% 96.4M 0s
+   150K .......... .......... .......... .......... ...       100%  417M=0.3s
+
+2020-03-01 23:55:56 (5.31 Mb/s) - ‘/dev/null’ saved [198080/198080]
+

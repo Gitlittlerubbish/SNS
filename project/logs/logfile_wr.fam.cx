@@ -1,0 +1,12 @@
+--2020-03-02 02:22:17--  http://wr.fam.cx/59_1.pdf
+Resolving wr.fam.cx (wr.fam.cx)... 121.101.76.178
+Connecting to wr.fam.cx (wr.fam.cx)|121.101.76.178|:80... connected.
+HTTP request sent, awaiting response... 200 Document follows
+Length: 88871 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57%  266K 1s
+    50K .......... .......... .......... ......               100%  988K=1.8s
+
+2020-03-02 02:22:20 (386 Kb/s) - ‘/dev/null’ saved [88871/88871]
+

@@ -1,0 +1,11 @@
+--2020-03-02 01:01:02--  http://www.domzdravljadoboj.ba/tekst/lista_ind.pdf
+Resolving www.domzdravljadoboj.ba (www.domzdravljadoboj.ba)... 93.188.2.51
+Connecting to www.domzdravljadoboj.ba (www.domzdravljadoboj.ba)|93.188.2.51|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28233 (28K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......                         100% 4.63M=0.05s
+
+2020-03-02 01:01:02 (4.63 Mb/s) - ‘/dev/null’ saved [28233/28233]
+

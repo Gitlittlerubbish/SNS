@@ -1,0 +1,21 @@
+--2020-03-02 03:49:00--  http://hyperbrico.pf/index.php%3Fcontroller%3Dattachment%26id_attachment%3D206
+Resolving hyperbrico.pf (hyperbrico.pf)... 158.69.203.49
+Connecting to hyperbrico.pf (hyperbrico.pf)|158.69.203.49|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://hyperbrico.pf/index.php?controller=attachment&id_attachment=206 [following]
+--2020-03-02 03:49:01--  https://hyperbrico.pf/index.php?controller=attachment&id_attachment=206
+Connecting to hyperbrico.pf (hyperbrico.pf)|158.69.203.49|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 333249 (325K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 2.48M 1s
+    50K .......... .......... .......... .......... .......... 30% 5.10M 1s
+   100K .......... .......... .......... .......... .......... 46% 76.9M 0s
+   150K .......... .......... .......... .......... .......... 61%  307M 0s
+   200K .......... .......... .......... .......... .......... 76% 5.14M 0s
+   250K .......... .......... .......... .......... .......... 92%  142M 0s
+   300K .......... .......... .....                           100% 1.09G=0.3s
+
+2020-03-02 03:49:01 (7.97 Mb/s) - ‘/dev/null’ saved [333249/333249]
+

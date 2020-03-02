@@ -1,0 +1,12 @@
+--2020-03-02 04:09:11--  http://www.013.gr/gr/text/ritsos.pdf
+Resolving www.013.gr (www.013.gr)... 31.177.63.132
+Connecting to www.013.gr (www.013.gr)|31.177.63.132|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97617 (95K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 3.18M 0s
+    50K .......... .......... .......... .......... .....     100% 5.78M=0.2s
+
+2020-03-02 04:09:12 (4.04 Mb/s) - ‘/dev/null’ saved [97617/97617]
+

@@ -1,0 +1,14 @@
+--2020-03-02 04:58:47--  http://jlta.iauctb.ac.ir/article_530221_9fd2d17d3a16fbabe8642315db047b3a.pdf
+Resolving jlta.iauctb.ac.ir (jlta.iauctb.ac.ir)... 78.38.220.161
+Connecting to jlta.iauctb.ac.ir (jlta.iauctb.ac.ir)|78.38.220.161|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164963 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 2.15M 0s
+    50K .......... .......... .......... .......... .......... 62% 4.36M 0s
+   100K .......... .......... .......... .......... .......... 93% 49.6M 0s
+   150K .......... .                                          100%  947M=0.3s
+
+2020-03-02 04:58:48 (4.51 Mb/s) - ‘/dev/null’ saved [164963/164963]
+

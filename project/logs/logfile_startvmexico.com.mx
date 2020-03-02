@@ -1,0 +1,16 @@
+--2020-03-02 07:32:14--  http://startvmexico.com.mx/docs/Procedimiento.pdf
+Resolving startvmexico.com.mx (startvmexico.com.mx)... 23.229.190.98
+Connecting to startvmexico.com.mx (startvmexico.com.mx)|23.229.190.98|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 301159 (294K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.36M 1s
+    50K .......... .......... .......... .......... .......... 34% 2.78M 1s
+   100K .......... .......... .......... .......... .......... 51% 2.83M 1s
+   150K .......... .......... .......... .......... .......... 68% 2.90M 0s
+   200K .......... .......... .......... .......... .......... 85% 62.5M 0s
+   250K .......... .......... .......... .......... ....      100% 2.57M=0.9s
+
+2020-03-02 07:32:15 (2.73 Mb/s) - ‘/dev/null’ saved [301159/301159]
+

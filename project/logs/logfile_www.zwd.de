@@ -1,0 +1,19 @@
+--2020-03-02 04:00:35--  http://www.zwd.de/media/a8krank.pdf
+Resolving www.zwd.de (www.zwd.de)... 194.6.226.251
+Connecting to www.zwd.de (www.zwd.de)|194.6.226.251|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.zwd.de/media/a8krank.pdf [following]
+--2020-03-02 04:00:35--  https://www.zwd.de/media/a8krank.pdf
+Connecting to www.zwd.de (www.zwd.de)|194.6.226.251|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220261 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 13.3M 0s
+    50K .......... .......... .......... .......... .......... 46% 27.1M 0s
+   100K .......... .......... .......... .......... .......... 69%  145M 0s
+   150K .......... .......... .......... .......... .......... 92%  227M 0s
+   200K .......... .....                                      100% 12.8M=0.06s
+
+2020-03-02 04:00:35 (29.2 Mb/s) - ‘/dev/null’ saved [220261/220261]
+

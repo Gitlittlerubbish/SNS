@@ -1,0 +1,12 @@
+--2020-03-02 01:42:10--  http://www.rfs.cv/images/pdf/microscopio.pdf
+Resolving www.rfs.cv (www.rfs.cv)... 80.172.234.34
+Connecting to www.rfs.cv (www.rfs.cv)|80.172.234.34|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68333 (67K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 74% 5.30M 0s
+    50K .......... ......                                     100% 42.3M=0.08s
+
+2020-03-02 01:42:10 (6.79 Mb/s) - ‘/dev/null’ saved [68333/68333]
+

@@ -1,0 +1,28 @@
+--2020-03-02 07:27:48--  http://edutics.mx/3SU
+Resolving edutics.mx (edutics.mx)... 104.28.7.4, 104.28.6.4
+Connecting to edutics.mx (edutics.mx)|104.28.7.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.ine.es/explica/docs/pasos_tipos_graficos.pdf [following]
+--2020-03-02 07:27:49--  http://www.ine.es/explica/docs/pasos_tipos_graficos.pdf
+Resolving www.ine.es (www.ine.es)... 195.254.149.129, 195.254.149.130
+Connecting to www.ine.es (www.ine.es)|195.254.149.129|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ine.es/explica/docs/pasos_tipos_graficos.pdf [following]
+--2020-03-02 07:27:49--  https://www.ine.es/explica/docs/pasos_tipos_graficos.pdf
+Connecting to www.ine.es (www.ine.es)|195.254.149.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.53M
+    50K .......... .......... .......... .......... .......... 9.01M
+   100K .......... .......... .......... .......... .......... 9.29M
+   150K .......... .......... .......... .......... .......... 9.04M
+   200K .......... .......... .......... .......... .......... 79.6M
+   250K .......... .......... .......... .......... .......... 9.11M
+   300K .......... .......... .......... .......... .......... 9.60M
+   350K .......... .......... .......... .......... .......... 10.9M
+   400K .......... .......... .......... .......... ..         37.2M=0.4s
+
+2020-03-02 07:27:49 (9.94 Mb/s) - ‘/dev/null’ saved [453192]
+

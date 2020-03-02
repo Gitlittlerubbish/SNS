@@ -1,0 +1,18 @@
+--2020-03-02 02:37:00--  http://www.stanbicbank.cg/standimg/NigeriaGroup/fileDownloads/Stanbic_IBTC_Personal_Account_Trading_Policy_Dec_2018.pdf
+Resolving www.stanbicbank.cg (www.stanbicbank.cg)... 196.8.136.20
+Connecting to www.stanbicbank.cg (www.stanbicbank.cg)|196.8.136.20|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 384367 (375K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13%  603K 4s
+    50K .......... .......... .......... .......... .......... 26% 2.36M 2s
+   100K .......... .......... .......... .......... .......... 39% 2.37M 2s
+   150K .......... .......... .......... .......... .......... 53% 2.45M 1s
+   200K .......... .......... .......... .......... .......... 66% 2.45M 1s
+   250K .......... .......... .......... .......... .......... 79% 2.44M 0s
+   300K .......... .......... .......... .......... .......... 93% 53.1M 0s
+   350K .......... .......... .....                           100% 1.26M=1.7s
+
+2020-03-02 02:37:02 (1.81 Mb/s) - ‘/dev/null’ saved [384367/384367]
+

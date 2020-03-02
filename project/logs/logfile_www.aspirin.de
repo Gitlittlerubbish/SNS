@@ -1,0 +1,18 @@
+--2020-03-02 04:00:52--  http://www.aspirin.de/static/documents/aspirin-complex-beipackzettel.pdf
+Resolving www.aspirin.de (www.aspirin.de)... 104.84.251.160
+Connecting to www.aspirin.de (www.aspirin.de)|104.84.251.160|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aspirin.de/static/documents/aspirin-complex-beipackzettel.pdf [following]
+--2020-03-02 04:00:52--  https://www.aspirin.de/static/documents/aspirin-complex-beipackzettel.pdf
+Connecting to www.aspirin.de (www.aspirin.de)|104.84.251.160|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193733 (189K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 96.9M 0s
+    50K .......... .......... .......... .......... .......... 52% 95.2M 0s
+   100K .......... .......... .......... .......... .......... 79% 13.9M 0s
+   150K .......... .......... .......... .........            100%  349M=0.04s
+
+2020-03-02 04:00:53 (39.8 Mb/s) - ‘/dev/null’ saved [193733/193733]
+

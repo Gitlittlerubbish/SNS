@@ -1,0 +1,19 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 02:00:19--  https://appliancedoctors.ky/wp-content/uploads/2017/07/Energy-Guide-48.pdf
+Resolving appliancedoctors.ky (appliancedoctors.ky)... 35.193.197.64
+Connecting to appliancedoctors.ky (appliancedoctors.ky)|35.193.197.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 383157 (374K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 4.12M 1s
+    50K .......... .......... .......... .......... .......... 26% 4.19M 1s
+   100K .......... .......... .......... .......... .......... 40%  119M 0s
+   150K .......... .......... .......... .......... .......... 53% 4.34M 0s
+   200K .......... .......... .......... .......... .......... 66% 96.4M 0s
+   250K .......... .......... .......... .......... .......... 80%  190M 0s
+   300K .......... .......... .......... .......... .......... 93% 4.38M 0s
+   350K .......... .......... ....                            100%  188M=0.4s
+
+2020-03-02 02:00:20 (7.75 Mb/s) - ‘/dev/null’ saved [383157/383157]
+

@@ -1,0 +1,12 @@
+--2020-03-02 08:01:03--  http://www.aism.co.mz/uploaded/Community_Site/Calendar/school_calendar_2019_2020.pdf
+Resolving www.aism.co.mz (www.aism.co.mz)... 104.17.67.73, 104.17.70.73, 104.17.68.73, ...
+Connecting to www.aism.co.mz (www.aism.co.mz)|104.17.67.73|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69167 (68K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 74% 91.7M 0s
+    50K .......... .......                                    100%  157M=0.005s
+
+2020-03-02 08:01:03 (103 Mb/s) - ‘/dev/null’ saved [69167/69167]
+

@@ -1,0 +1,16 @@
+--2020-03-01 22:39:21--  http://bancoeconomico.ao/media/1770/checklist_abertura-conta.pdf
+Resolving bancoeconomico.ao (bancoeconomico.ao)... 51.144.43.172
+Connecting to bancoeconomico.ao (bancoeconomico.ao)|51.144.43.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292186 (285K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 9.65M 0s
+    50K .......... .......... .......... .......... .......... 35% 28.2M 0s
+   100K .......... .......... .......... .......... .......... 52% 98.9M 0s
+   150K .......... .......... .......... .......... .......... 70% 22.9M 0s
+   200K .......... .......... .......... .......... .......... 87%  142M 0s
+   250K .......... .......... .......... .....                100% 1.22G=0.08s
+
+2020-03-01 22:39:21 (28.5 Mb/s) - ‘/dev/null’ saved [292186/292186]
+

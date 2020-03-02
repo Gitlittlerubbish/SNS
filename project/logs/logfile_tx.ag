@@ -1,0 +1,71 @@
+--2020-03-01 23:00:06--  http://tx.ag/CTETAMUIDP
+Resolving tx.ag (tx.ag)... 128.194.206.33
+Connecting to tx.ag (tx.ag)|128.194.206.33|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://cte.tamu.edu/getattachment/Graduate-Student-Support/Transformative-Doctoral-Education-Model/Fillable-Forms-IDP-for-TAMU_v6.pdf.aspx?lang=en-US [following]
+--2020-03-01 23:00:06--  http://cte.tamu.edu/getattachment/Graduate-Student-Support/Transformative-Doctoral-Education-Model/Fillable-Forms-IDP-for-TAMU_v6.pdf.aspx?lang=en-US
+Resolving cte.tamu.edu (cte.tamu.edu)... 128.194.14.43
+Connecting to cte.tamu.edu (cte.tamu.edu)|128.194.14.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1137547 (1.1M) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  4%  290M 0s
+    50K .......... .......... .......... .......... ..........  9% 2.83M 1s
+   100K .......... .......... .......... .......... .......... 13% 3.47M 2s
+   150K .......... .......... .......... .......... .......... 18% 2.66M 2s
+   200K .......... .......... .......... .......... .......... 22% 1.74M 2s
+   250K .......... .......... .......... .......... .......... 27% 1.06M 3s
+   300K .......... .......... .......... .......... .......... 31% 1.31M 3s
+   350K .......... .......... .......... .......... .......... 36% 1.56M 3s
+   400K .......... .......... .......... .......... .......... 40% 1.67M 3s
+   450K .......... .......... .......... .......... .......... 45%  969K 3s
+   500K .......... .......... .......... .......... .......... 49% 1.20M 3s
+   550K .......... .......... .......... .......... .......... 54% 1.52M 2s
+   600K .......... .......... .......... .......... .......... 58% 1.79M 2s
+   650K .......... .......... .......... .......... .......... 63% 1.79M 2s
+   700K .......... .......... .......... .......... .......... 67% 1.78M 2s
+   750K .......... .......... .......... .......... .......... 72% 1.24M 2s
+   800K .......... .......... .......... .......... .......... 76%  599K 1s
+   850K .......... .......... .......... .......... .......... 81% 1.10M 1s
+   900K .......... .......... .......... .......... .......... 85%  948K 1s
+   950K .......... .......... .......... .......... .......... 90% 1.66M 1s
+  1000K .......... .......... .......... .......... .......... 94% 1.75M 0s
+  1050K .......... .......... .......... .......... .......... 99% 1.80M 0s
+  1100K ..........                                            100% 8.03M=6.1s
+
+2020-03-01 23:00:13 (1.49 Mb/s) - ‘/dev/null’ saved [1137547/1137547]
+
+--2020-03-01 23:00:13--  http://tx.ag/t4umiu
+Resolving tx.ag (tx.ag)... 128.194.206.33
+Connecting to tx.ag (tx.ag)|128.194.206.33|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.aggienetwork.com/media/guides/Texas%20Aggie/2011/0211-Greeks.pdf [following]
+--2020-03-01 23:00:14--  http://www.aggienetwork.com/media/guides/Texas%20Aggie/2011/0211-Greeks.pdf
+Resolving www.aggienetwork.com (www.aggienetwork.com)... 128.194.206.31
+Connecting to www.aggienetwork.com (www.aggienetwork.com)|128.194.206.31|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aggienetwork.com/media/guides/Texas Aggie/2011/0211-Greeks.pdf [following]
+--2020-03-01 23:00:14--  https://www.aggienetwork.com/media/guides/Texas%20Aggie/2011/0211-Greeks.pdf
+Connecting to www.aggienetwork.com (www.aggienetwork.com)|128.194.206.31|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aggienetwork.com/media/guides/texas aggie/2011/0211-greeks.pdf [following]
+--2020-03-01 23:00:15--  https://www.aggienetwork.com/media/guides/texas%20aggie/2011/0211-greeks.pdf
+Reusing existing connection to www.aggienetwork.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 493692 (482K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.80M 2s
+    50K .......... .......... .......... .......... .......... 20% 3.62M 1s
+   100K .......... .......... .......... .......... .......... 31%  103M 1s
+   150K .......... .......... .......... .......... .......... 41%  116M 0s
+   200K .......... .......... .......... .......... .......... 51% 3.77M 0s
+   250K .......... .......... .......... .......... .......... 62%  126M 0s
+   300K .......... .......... .......... .......... .......... 72%  113M 0s
+   350K .......... .......... .......... .......... .......... 82%  187M 0s
+   400K .......... .......... .......... .......... .......... 93% 3.98M 0s
+   450K .......... .......... .......... ..                   100% 83.3M=0.6s
+
+2020-03-01 23:00:15 (6.91 Mb/s) - ‘/dev/null’ saved [493692/493692]
+

@@ -1,0 +1,32 @@
+--2020-03-02 05:42:28--  http://www.kiri.or.kr/report/downloadFile.do%3FdocId%3D1052
+Resolving www.kiri.or.kr (www.kiri.or.kr)... 221.139.0.55
+Connecting to www.kiri.or.kr (www.kiri.or.kr)|221.139.0.55|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: http://www.kiri.or.kr/index.do [following]
+--2020-03-02 05:42:30--  http://www.kiri.or.kr/index.do
+Reusing existing connection to www.kiri.or.kr:80.
+HTTP request sent, awaiting response... 200 200
+Length: 61761 (60K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 82%  337K 0s
+    50K ..........                                            100% 1.22G=1.2s
+
+2020-03-02 05:42:32 (406 Kb/s) - ‘/dev/null’ saved [61761/61761]
+
+--2020-03-02 05:42:54--  http://www.kiri.or.kr/report/downloadFile.do%3FdocId%3D1052
+Resolving www.kiri.or.kr (www.kiri.or.kr)... 221.139.0.55
+Connecting to www.kiri.or.kr (www.kiri.or.kr)|221.139.0.55|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: http://www.kiri.or.kr/index.do [following]
+--2020-03-02 05:42:55--  http://www.kiri.or.kr/index.do
+Reusing existing connection to www.kiri.or.kr:80.
+HTTP request sent, awaiting response... 200 200
+Length: 61761 (60K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 82%  308K 0s
+    50K ..........                                            100%  525M=1.3s
+
+2020-03-02 05:42:57 (371 Kb/s) - ‘/dev/null’ saved [61761/61761]
+

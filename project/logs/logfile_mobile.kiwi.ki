@@ -1,0 +1,16 @@
+--2020-03-02 05:33:04--  http://mobile.kiwi.ki/tc-en.pdf
+Resolving mobile.kiwi.ki (mobile.kiwi.ki)... 18.197.83.203, 3.120.64.37, 52.28.124.116
+Connecting to mobile.kiwi.ki (mobile.kiwi.ki)|18.197.83.203|:80... connected.
+HTTP request sent, awaiting response... 308 Permanent Redirect
+Location: https://mobile.kiwi.ki/tc-en.pdf [following]
+--2020-03-02 05:33:04--  https://mobile.kiwi.ki/tc-en.pdf
+Connecting to mobile.kiwi.ki (mobile.kiwi.ki)|18.197.83.203|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68123 (67K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 75% 18.0M 0s
+    50K .......... ......                                     100%  705M=0.02s
+
+2020-03-02 05:33:04 (23.7 Mb/s) - ‘/dev/null’ saved [68123/68123]
+

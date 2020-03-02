@@ -1,0 +1,25 @@
+--2020-03-02 04:38:53--  http://cmap.is/2tSgHVH
+Resolving cmap.is (cmap.is)... 67.199.248.12, 67.199.248.13
+Connecting to cmap.is (cmap.is)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.equality-of-opportunity.org/assets/documents/Geography Executive Summary and Memo January 2014.pdf [following]
+--2020-03-02 04:38:53--  http://www.equality-of-opportunity.org/assets/documents/Geography%20Executive%20Summary%20and%20Memo%20January%202014.pdf
+Resolving www.equality-of-opportunity.org (www.equality-of-opportunity.org)... 52.219.120.35
+Connecting to www.equality-of-opportunity.org (www.equality-of-opportunity.org)|52.219.120.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 510693 (499K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.36M 3s
+    50K .......... .......... .......... .......... .......... 20% 2.93M 2s
+   100K .......... .......... .......... .......... .......... 30% 33.1M 1s
+   150K .......... .......... .......... .......... .......... 40%  149M 1s
+   200K .......... .......... .......... .......... .......... 50% 2.79M 1s
+   250K .......... .......... .......... .......... .......... 60%  104M 0s
+   300K .......... .......... .......... .......... .......... 70%  306M 0s
+   350K .......... .......... .......... .......... .......... 80%  206M 0s
+   400K .......... .......... .......... .......... .......... 90% 3.06M 0s
+   450K .......... .......... .......... .......... ........  100% 35.3M=0.8s
+
+2020-03-02 04:38:54 (5.41 Mb/s) - ‘/dev/null’ saved [510693/510693]
+

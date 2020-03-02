@@ -1,0 +1,16 @@
+--2020-03-02 08:33:23--  http://www.redcross.org.nz/documents/42/Code_of_Conduct_for_Members_and_Volunteers_Nov_12.pdf
+Resolving www.redcross.org.nz (www.redcross.org.nz)... 13.224.130.50, 13.224.130.60, 13.224.130.79, ...
+Connecting to www.redcross.org.nz (www.redcross.org.nz)|13.224.130.50|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.redcross.org.nz/documents/42/Code_of_Conduct_for_Members_and_Volunteers_Nov_12.pdf [following]
+--2020-03-02 08:33:23--  https://www.redcross.org.nz/documents/42/Code_of_Conduct_for_Members_and_Volunteers_Nov_12.pdf
+Connecting to www.redcross.org.nz (www.redcross.org.nz)|13.224.130.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61176 (60K) [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 83%  799K 0s
+    50K .........                                             100%  897M=0.5s
+
+2020-03-02 08:33:25 (955 Kb/s) - ‘/dev/null’ saved [61176/61176]
+

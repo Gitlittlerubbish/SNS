@@ -1,0 +1,20 @@
+--2020-03-02 06:13:52--  http://www.ibiza.lv/upload_files/tabula.pdf
+Resolving www.ibiza.lv (www.ibiza.lv)... 37.139.27.43
+Connecting to www.ibiza.lv (www.ibiza.lv)|37.139.27.43|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ibiza.lv/upload_files/tabula.pdf [following]
+--2020-03-02 06:13:52--  https://www.ibiza.lv/upload_files/tabula.pdf
+Connecting to www.ibiza.lv (www.ibiza.lv)|37.139.27.43|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ibiza.lv/upload_files/tabula.pdf [following]
+--2020-03-02 06:13:53--  https://ibiza.lv/upload_files/tabula.pdf
+Resolving ibiza.lv (ibiza.lv)... 37.139.27.43
+Connecting to ibiza.lv (ibiza.lv)|37.139.27.43|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47794 (47K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 12.2M=0.03s
+
+2020-03-02 06:13:53 (12.2 Mb/s) - ‘/dev/null’ saved [47794/47794]
+

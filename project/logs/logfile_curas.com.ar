@@ -1,0 +1,13 @@
+--2020-03-01 23:18:35--  http://curas.com.ar/Documentos/echarter_spanish.pdf
+Resolving curas.com.ar (curas.com.ar)... 200.58.113.67
+Connecting to curas.com.ar (curas.com.ar)|200.58.113.67|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121458 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42%  667K 1s
+    50K .......... .......... .......... .......... .......... 84% 1.33M 0s
+   100K .......... ........                                   100%  833M=0.9s
+
+2020-03-01 23:18:37 (1.05 Mb/s) - ‘/dev/null’ saved [121458/121458]
+

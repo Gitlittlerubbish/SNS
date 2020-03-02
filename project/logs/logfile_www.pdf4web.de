@@ -1,0 +1,13 @@
+--2020-03-02 04:00:54--  http://www.pdf4web.de/LinkedDocuments/kaufvertragprivat.pdf
+Resolving www.pdf4web.de (www.pdf4web.de)... 217.160.231.109
+Connecting to www.pdf4web.de (www.pdf4web.de)|217.160.231.109|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120623 (118K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 10.4M 0s
+    50K .......... .......... .......... .......... .......... 84% 26.5M 0s
+   100K .......... .......                                    100% 33.7M=0.06s
+
+2020-03-02 04:00:54 (16.4 Mb/s) - ‘/dev/null’ saved [120623/120623]
+

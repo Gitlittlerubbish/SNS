@@ -1,0 +1,18 @@
+--2020-03-02 03:02:44--  http://www.euronics.cz/download/1278042
+Resolving www.euronics.cz (www.euronics.cz)... 217.16.181.110
+Connecting to www.euronics.cz (www.euronics.cz)|217.16.181.110|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.euronics.cz/download/1278042 [following]
+--2020-03-02 03:02:44--  https://www.euronics.cz/download/1278042
+Connecting to www.euronics.cz (www.euronics.cz)|217.16.181.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190712 (186K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 5.33M 0s
+    50K .......... .......... .......... .......... .......... 53% 9.65M 0s
+   100K .......... .......... .......... .......... .......... 80%  126M 0s
+   150K .......... .......... .......... ......               100% 8.33M=0.2s
+
+2020-03-02 03:02:45 (9.64 Mb/s) - ‘/dev/null’ saved [190712/190712]
+

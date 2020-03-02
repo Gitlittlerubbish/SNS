@@ -1,0 +1,13 @@
+--2020-03-02 05:01:47--  http://www2.cao.ie/otherinfo/CAOconstitution.pdf
+Resolving www2.cao.ie (www2.cao.ie)... 193.1.33.45
+Connecting to www2.cao.ie (www2.cao.ie)|193.1.33.45|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 117019 (114K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 43% 7.50M 0s
+    50K .......... .......... .......... .......... .......... 87% 21.5M 0s
+   100K .......... ....                                       100% 93.7M=0.07s
+
+2020-03-02 05:01:47 (12.5 Mb/s) - ‘/dev/null’ saved [117019/117019]
+

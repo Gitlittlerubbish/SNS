@@ -1,0 +1,11 @@
+--2020-03-02 02:19:09--  http://qykmf.cn/campusmap/printable/campusmap.pdf
+Resolving qykmf.cn (qykmf.cn)... 156.244.31.228
+Connecting to qykmf.cn (qykmf.cn)|156.244.31.228|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 824 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  194M=0s
+
+2020-03-02 02:19:10 (194 Mb/s) - ‘/dev/null’ saved [824/824]
+

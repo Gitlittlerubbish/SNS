@@ -1,0 +1,21 @@
+--2020-03-02 05:09:51--  http://www.ncu.edu.jm/static/Application_form_Undergrad.pdf
+Resolving www.ncu.edu.jm (www.ncu.edu.jm)... 216.10.221.134, 66.54.114.183
+Connecting to www.ncu.edu.jm (www.ncu.edu.jm)|216.10.221.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ncu.edu.jm/static/Application_form_Undergrad.pdf [following]
+--2020-03-02 05:09:52--  https://www.ncu.edu.jm/static/Application_form_Undergrad.pdf
+Connecting to www.ncu.edu.jm (www.ncu.edu.jm)|216.10.221.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 357263 (349K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 1.64M 1s
+    50K .......... .......... .......... .......... .......... 28% 90.3M 1s
+   100K .......... .......... .......... .......... .......... 42% 3.29M 1s
+   150K .......... .......... .......... .......... .......... 57% 73.9M 0s
+   200K .......... .......... .......... .......... .......... 71% 3.48M 0s
+   250K .......... .......... .......... .......... .......... 85% 72.9M 0s
+   300K .......... .......... .......... .......... ........  100%  135M=0.5s
+
+2020-03-02 05:09:53 (5.60 Mb/s) - ‘/dev/null’ saved [357263/357263]
+

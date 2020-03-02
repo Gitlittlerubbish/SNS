@@ -1,0 +1,20 @@
+--2020-03-02 01:52:21--  http://www.gov.yk.ca/forms/forms/4500/yg4903_e.pdf
+Resolving www.gov.yk.ca (www.gov.yk.ca)... 199.247.132.142
+Connecting to www.gov.yk.ca (www.gov.yk.ca)|199.247.132.142|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://yukon.ca/en/transcript-or-student-records-request [following]
+--2020-03-02 01:52:22--  https://yukon.ca/en/transcript-or-student-records-request
+Resolving yukon.ca (yukon.ca)... 199.247.132.142
+Connecting to yukon.ca (yukon.ca)|199.247.132.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.91M
+    50K .......... .......... .......... .......... .......... 2.49M
+   100K .......... .......... .......... .......... .......... 2.49M
+   150K .......... .......... .......... .......... ..........  161M
+   200K .......... .......... ...                              1.21M=0.7s
+
+2020-03-02 01:52:24 (2.59 Mb/s) - ‘/dev/null’ saved [229208]
+

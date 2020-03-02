@@ -1,0 +1,14 @@
+--2020-03-02 07:27:33--  http://www.md.23g.yt/filelib/file/Kleurenkaart.pdf
+Resolving www.md.23g.yt (www.md.23g.yt)... 87.250.142.51
+Connecting to www.md.23g.yt (www.md.23g.yt)|87.250.142.51|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165967 (162K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 6.07M 0s
+    50K .......... .......... .......... .......... .......... 61% 8.41M 0s
+   100K .......... .......... .......... .......... .......... 92% 8.26M 0s
+   150K .......... ..                                         100%  110M=0.2s
+
+2020-03-02 07:27:33 (7.97 Mb/s) - ‘/dev/null’ saved [165967/165967]
+

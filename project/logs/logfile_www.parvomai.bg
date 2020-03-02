@@ -1,0 +1,16 @@
+--2020-03-02 01:31:17--  http://www.parvomai.bg/web/razpisanie_prevozi17.pdf
+Resolving www.parvomai.bg (www.parvomai.bg)... 195.24.89.6
+Connecting to www.parvomai.bg (www.parvomai.bg)|195.24.89.6|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.parvomai.bg/web/razpisanie_prevozi17.pdf [following]
+--2020-03-02 01:31:18--  https://www.parvomai.bg/web/razpisanie_prevozi17.pdf
+Connecting to www.parvomai.bg (www.parvomai.bg)|195.24.89.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89082 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 4.58M 0s
+    50K .......... .......... .......... ......               100%  211M=0.09s
+
+2020-03-02 01:31:19 (7.84 Mb/s) - ‘/dev/null’ saved [89082/89082]
+

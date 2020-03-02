@@ -1,0 +1,18 @@
+--2020-03-02 05:01:33--  http://www.peig.ie/images/Taighde/ECRML_Bearla.pdf
+Resolving www.peig.ie (www.peig.ie)... 192.124.249.160
+Connecting to www.peig.ie (www.peig.ie)|192.124.249.160|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.peig.ie/images/Taighde/ECRML_Bearla.pdf [following]
+--2020-03-02 05:01:33--  https://www.peig.ie/images/Taighde/ECRML_Bearla.pdf
+Connecting to www.peig.ie (www.peig.ie)|192.124.249.160|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161975 (158K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 19.4M 0s
+    50K .......... .......... .......... .......... .......... 63% 33.9M 0s
+   100K .......... .......... .......... .......... .......... 94%  118M 0s
+   150K ........                                              100%  540M=0.04s
+
+2020-03-02 05:01:34 (35.2 Mb/s) - ‘/dev/null’ saved [161975/161975]
+

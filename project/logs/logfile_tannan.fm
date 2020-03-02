@@ -1,0 +1,12 @@
+--2020-03-02 07:35:20--  http://tannan.fm/images/kouen2016.pdf
+Resolving tannan.fm (tannan.fm)... 202.181.99.93
+Connecting to tannan.fm (tannan.fm)|202.181.99.93|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94659 (92K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54%  786K 0s
+    50K .......... .......... .......... .......... ..        100% 1.17M=0.8s
+
+2020-03-02 07:35:21 (925 Kb/s) - ‘/dev/null’ saved [94659/94659]
+

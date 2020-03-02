@@ -1,0 +1,17 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 22:40:37--  https://www.agnostic.ai/intro/history/White2000.pdf
+Resolving www.agnostic.ai (www.agnostic.ai)... 54.149.202.134
+Connecting to www.agnostic.ai (www.agnostic.ai)|54.149.202.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 259584 (254K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 2.95M 1s
+    50K .......... .......... .......... .......... .......... 39% 2.92M 0s
+   100K .......... .......... .......... .......... .......... 59%  680M 0s
+   150K .......... .......... .......... .......... .......... 78%  348M 0s
+   200K .......... .......... .......... .......... .......... 98% 1.21M 0s
+   250K ...                                                   100%  573K=0.6s
+
+2020-03-01 22:40:39 (3.35 Mb/s) - ‘/dev/null’ saved [259584/259584]
+

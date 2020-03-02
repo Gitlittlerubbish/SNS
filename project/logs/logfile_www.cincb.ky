@@ -1,0 +1,15 @@
+--2020-03-02 01:55:22--  http://www.cincb.ky/helpcenter/cincb-credit_policy_handbook-executive_summary_v3.pdf
+Resolving www.cincb.ky (www.cincb.ky)... 151.101.130.159
+Connecting to www.cincb.ky (www.cincb.ky)|151.101.130.159|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cincb.ky/helpcenter/cincb-credit_policy_handbook-executive_summary_v3.pdf [following]
+--2020-03-02 01:55:22--  https://www.cincb.ky/helpcenter/cincb-credit_policy_handbook-executive_summary_v3.pdf
+Connecting to www.cincb.ky (www.cincb.ky)|151.101.130.159|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12601 (12K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ..                                         100%  100M=0.001s
+
+2020-03-02 01:55:23 (100 Mb/s) - ‘/dev/null’ saved [12601/12601]
+

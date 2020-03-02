@@ -1,0 +1,13 @@
+--2020-03-02 04:36:07--  http://kch.ha.org.hk/form/Autism_Thai.pdf
+Resolving kch.ha.org.hk (kch.ha.org.hk)... 210.0.229.162
+Connecting to kch.ha.org.hk (kch.ha.org.hk)|210.0.229.162|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102986 (101K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49%  464K 1s
+    50K .......... .......... .......... .......... .......... 99% 1.76M 0s
+   100K                                                       100% 93.8K=1.1s
+
+2020-03-02 04:36:10 (738 Kb/s) - ‘/dev/null’ saved [102986/102986]
+

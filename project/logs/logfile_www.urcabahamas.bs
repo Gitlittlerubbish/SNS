@@ -1,0 +1,27 @@
+--2020-03-01 23:56:38--  http://www.urcabahamas.bs/urca-draft-annual-plan-and-budget-2020/
+Resolving www.urcabahamas.bs (www.urcabahamas.bs)... 146.148.78.69
+Connecting to www.urcabahamas.bs (www.urcabahamas.bs)|146.148.78.69|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.urcabahamas.bs/urca-draft-annual-plan-and-budget-2020/ [following]
+--2020-03-01 23:56:38--  https://www.urcabahamas.bs/urca-draft-annual-plan-and-budget-2020/
+Connecting to www.urcabahamas.bs (www.urcabahamas.bs)|146.148.78.69|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.urcabahamas.bs/wp-content/uploads/2019/12/URCA-Draft-Annual-Plan-and-Budget-2020.pdf [following]
+--2020-03-01 23:56:40--  https://www.urcabahamas.bs/wp-content/uploads/2019/12/URCA-Draft-Annual-Plan-and-Budget-2020.pdf
+Reusing existing connection to www.urcabahamas.bs:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 438481 (428K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 3.83M 1s
+    50K .......... .......... .......... .......... .......... 23% 3.88M 1s
+   100K .......... .......... .......... .......... .......... 35% 3.85M 1s
+   150K .......... .......... .......... .......... .......... 46% 4.12M 0s
+   200K .......... .......... .......... .......... .......... 58% 77.4M 0s
+   250K .......... .......... .......... .......... .......... 70% 1.78M 0s
+   300K .......... .......... .......... .......... .......... 81% 3.81M 0s
+   350K .......... .......... .......... .......... .......... 93% 3.85M 0s
+   400K .......... .......... ........                        100%  536M=0.9s
+
+2020-03-01 23:56:41 (4.04 Mb/s) - ‘/dev/null’ saved [438481/438481]
+

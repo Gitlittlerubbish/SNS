@@ -1,0 +1,16 @@
+--2020-03-02 04:33:29--  http://www.cad.gov.hk/Arrangement/hkcad_faa.pdf
+Resolving www.cad.gov.hk (www.cad.gov.hk)... 99.86.3.55, 99.86.3.112, 99.86.3.31, ...
+Connecting to www.cad.gov.hk (www.cad.gov.hk)|99.86.3.55|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cad.gov.hk/Arrangement/hkcad_faa.pdf [following]
+--2020-03-02 04:33:29--  https://www.cad.gov.hk/Arrangement/hkcad_faa.pdf
+Connecting to www.cad.gov.hk (www.cad.gov.hk)|99.86.3.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88156 (86K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58% 1.32M 0s
+    50K .......... .......... .......... ......               100%  396M=0.3s
+
+2020-03-02 04:33:30 (2.27 Mb/s) - ‘/dev/null’ saved [88156/88156]
+

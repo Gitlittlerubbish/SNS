@@ -1,0 +1,17 @@
+--2020-03-01 23:15:13--  http://www.elseminario.com.ar/Biblioteca/Sartre_Ser_Nada.pdf
+Resolving www.elseminario.com.ar (www.elseminario.com.ar)... 200.58.110.57
+Connecting to www.elseminario.com.ar (www.elseminario.com.ar)|200.58.110.57|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326610 (319K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  778K 3s
+    50K .......... .......... .......... .......... .......... 31% 1.85M 2s
+   100K .......... .......... .......... .......... .......... 47% 1.85M 1s
+   150K .......... .......... .......... .......... .......... 62%  157M 1s
+   200K .......... .......... .......... .......... .......... 78% 79.1M 0s
+   250K .......... .......... .......... .......... .......... 94% 1.90M 0s
+   300K .......... ........                                   100%  145M=1.2s
+
+2020-03-01 23:15:15 (2.19 Mb/s) - ‘/dev/null’ saved [326610/326610]
+

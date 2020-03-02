@@ -1,0 +1,13 @@
+--2020-03-02 02:54:28--  http://www.idb.hr/diabetologia/04no4-1.pdf
+Resolving www.idb.hr (www.idb.hr)... 161.53.56.3
+Connecting to www.idb.hr (www.idb.hr)|161.53.56.3|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 126003 (123K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 5.63M 0s
+    50K .......... .......... .......... .......... .......... 81% 11.4M 0s
+   100K .......... .......... ...                             100%  138M=0.1s
+
+2020-03-02 02:54:28 (9.16 Mb/s) - ‘/dev/null’ saved [126003/126003]
+

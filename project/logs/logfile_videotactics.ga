@@ -1,0 +1,11 @@
+--2020-03-02 03:53:01--  http://videotactics.ga/staffgymkhana/staffgymkhana.pdf
+Resolving videotactics.ga (videotactics.ga)... 195.20.49.213
+Connecting to videotactics.ga (videotactics.ga)|195.20.49.213|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 651 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  401M=0s
+
+2020-03-02 03:53:02 (401 Mb/s) - ‘/dev/null’ saved [651/651]
+

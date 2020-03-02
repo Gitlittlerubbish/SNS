@@ -1,0 +1,20 @@
+--2020-03-02 07:07:34--  http://www.sc.com.my/about/organisation-structure
+Resolving www.sc.com.my (www.sc.com.my)... 104.20.108.63, 104.20.109.63
+Connecting to www.sc.com.my (www.sc.com.my)|104.20.108.63|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sc.com.my/about/organisation-structure [following]
+--2020-03-02 07:07:34--  https://www.sc.com.my/about/organisation-structure
+Connecting to www.sc.com.my (www.sc.com.my)|104.20.108.63|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.sc.com.my/api/documentms/download.ashx?id=4731ea3e-5caf-42cc-a08f-049dad5d9f8a [following]
+--2020-03-02 07:07:35--  https://www.sc.com.my/api/documentms/download.ashx?id=4731ea3e-5caf-42cc-a08f-049dad5d9f8a
+Reusing existing connection to www.sc.com.my:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 57253 (56K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 89% 1.47M 0s
+    50K .....                                                 100%  436M=0.3s
+
+2020-03-02 07:07:36 (1.64 Mb/s) - ‘/dev/null’ saved [57253/57253]
+

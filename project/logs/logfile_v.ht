@@ -1,0 +1,15 @@
+--2020-03-02 04:19:05--  http://v.ht/vcows
+Resolving v.ht (v.ht)... 192.111.136.123
+Connecting to v.ht (v.ht)|192.111.136.123|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://v.ht/vcows [following]
+--2020-03-02 04:19:05--  https://v.ht/vcows
+Connecting to v.ht (v.ht)|192.111.136.123|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3315 (3.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100% 1.56G=0s
+
+2020-03-02 04:19:08 (1.56 Gb/s) - ‘/dev/null’ saved [3315/3315]
+

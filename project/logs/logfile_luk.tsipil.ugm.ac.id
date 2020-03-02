@@ -1,0 +1,11 @@
+--2020-03-02 04:47:25--  http://luk.tsipil.ugm.ac.id/atur/blu/PNBPPerti.pdf
+Resolving luk.tsipil.ugm.ac.id (luk.tsipil.ugm.ac.id)... 175.111.88.22
+Connecting to luk.tsipil.ugm.ac.id (luk.tsipil.ugm.ac.id)|175.111.88.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29139 (28K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ........                        100%  755K=0.3s
+
+2020-03-02 04:47:26 (755 Kb/s) - ‘/dev/null’ saved [29139/29139]
+

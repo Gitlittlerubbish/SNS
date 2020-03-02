@@ -1,0 +1,21 @@
+--2020-03-02 00:28:22--  http://www.ww2.bz/Books/Boek-1/RS/Noten/SCMI/SCMI-Jaarverslag-2006.pdf
+Resolving www.ww2.bz (www.ww2.bz)... 206.72.194.138
+Connecting to www.ww2.bz (www.ww2.bz)|206.72.194.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ww2.bz/Books/Boek-1/RS/Noten/SCMI/SCMI-Jaarverslag-2006.pdf [following]
+--2020-03-02 00:28:23--  https://www.ww2.bz/Books/Boek-1/RS/Noten/SCMI/SCMI-Jaarverslag-2006.pdf
+Connecting to www.ww2.bz (www.ww2.bz)|206.72.194.138|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 322992 (315K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 2.81M 1s
+    50K .......... .......... .......... .......... .......... 31%  153M 0s
+   100K .......... .......... .......... .......... .......... 47% 5.71M 0s
+   150K .......... .......... .......... .......... .......... 63%  146M 0s
+   200K .......... .......... .......... .......... .......... 79% 5.81M 0s
+   250K .......... .......... .......... .......... .......... 95%  433M 0s
+   300K .......... .....                                      100% 90.2M=0.3s
+
+2020-03-02 00:28:23 (8.74 Mb/s) - ‘/dev/null’ saved [322992/322992]
+

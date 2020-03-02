@@ -1,0 +1,23 @@
+--2020-03-02 07:32:29--  http://ibn.fm/JnCjS
+Resolving ibn.fm (ibn.fm)... 72.47.244.99
+Connecting to ibn.fm (ibn.fm)|72.47.244.99|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://s23.q4cdn.com/868593346/files/doc_financials/quarterly_reports/2019/Q1-2019.pdf [following]
+--2020-03-02 07:32:29--  https://s23.q4cdn.com/868593346/files/doc_financials/quarterly_reports/2019/Q1-2019.pdf
+Resolving s23.q4cdn.com (s23.q4cdn.com)... 68.70.192.128
+Connecting to s23.q4cdn.com (s23.q4cdn.com)|68.70.192.128|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 360473 (352K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 11.0M 0s
+    50K .......... .......... .......... .......... .......... 28% 5.34M 0s
+   100K .......... .......... .......... .......... .......... 42% 82.2M 0s
+   150K .......... .......... .......... .......... .......... 56% 5.65M 0s
+   200K .......... .......... .......... .......... .......... 71% 65.6M 0s
+   250K .......... .......... .......... .......... .......... 85% 15.8M 0s
+   300K .......... .......... .......... .......... .......... 99% 77.8M 0s
+   350K ..                                                    100%  171M=0.2s
+
+2020-03-02 07:32:30 (12.6 Mb/s) - ‘/dev/null’ saved [360473/360473]
+

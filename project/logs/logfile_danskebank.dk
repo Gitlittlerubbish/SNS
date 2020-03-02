@@ -1,0 +1,17 @@
+--2020-03-02 03:05:06--  http://danskebank.dk/PDF/GDPR/Danske_Bank_privacy_notice.pdf
+Resolving danskebank.dk (danskebank.dk)... 212.93.59.104, 212.93.61.104
+Connecting to danskebank.dk (danskebank.dk)|212.93.59.104|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://danskebank.dk/PDF/GDPR/Danske_Bank_privacy_notice.pdf [following]
+--2020-03-02 03:05:06--  https://danskebank.dk/PDF/GDPR/Danske_Bank_privacy_notice.pdf
+Connecting to danskebank.dk (danskebank.dk)|212.93.59.104|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140146 (137K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 6.09M 0s
+    50K .......... .......... .......... .......... .......... 73% 82.8M 0s
+   100K .......... .......... .......... ......               100% 9.31M=0.1s
+
+2020-03-02 03:05:06 (10.7 Mb/s) - ‘/dev/null’ saved [140146/140146]
+

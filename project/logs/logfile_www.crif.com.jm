@@ -1,0 +1,17 @@
+--2020-03-02 05:11:27--  http://www.crif.com.jm/media/405706/consumer_disputeresolutionrequest_form.pdf
+Resolving www.crif.com.jm (www.crif.com.jm)... 212.7.67.30
+Connecting to www.crif.com.jm (www.crif.com.jm)|212.7.67.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.crif.com.jm/media/405706/consumer_disputeresolutionrequest_form.pdf [following]
+--2020-03-02 05:11:27--  https://www.crif.com.jm/media/405706/consumer_disputeresolutionrequest_form.pdf
+Connecting to www.crif.com.jm (www.crif.com.jm)|212.7.67.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124345 (121K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 5.59M 0s
+    50K .......... .......... .......... .......... .......... 82% 11.4M 0s
+   100K .......... .......... .                               100%  998M=0.1s
+
+2020-03-02 05:11:28 (9.08 Mb/s) - ‘/dev/null’ saved [124345/124345]
+

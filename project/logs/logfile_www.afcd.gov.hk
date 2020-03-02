@@ -1,0 +1,17 @@
+--2020-03-02 04:30:21--  http://www.afcd.gov.hk/english/aboutus/abt_adv/files/Code_of_Practice_Care_and_Use_of_Animals_for_Experimental_Purposes_English.pdf
+Resolving www.afcd.gov.hk (www.afcd.gov.hk)... 13.224.130.57, 13.224.130.110, 13.224.130.90, ...
+Connecting to www.afcd.gov.hk (www.afcd.gov.hk)|13.224.130.57|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.afcd.gov.hk/english/aboutus/abt_adv/files/Code_of_Practice_Care_and_Use_of_Animals_for_Experimental_Purposes_English.pdf [following]
+--2020-03-02 04:30:21--  https://www.afcd.gov.hk/english/aboutus/abt_adv/files/Code_of_Practice_Care_and_Use_of_Animals_for_Experimental_Purposes_English.pdf
+Connecting to www.afcd.gov.hk (www.afcd.gov.hk)|13.224.130.57|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109561 (107K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 1.93M 0s
+    50K .......... .......... .......... .......... .......... 93% 2.54M 0s
+   100K ......                                                100%  644M=0.4s
+
+2020-03-02 04:30:23 (2.35 Mb/s) - ‘/dev/null’ saved [109561/109561]
+

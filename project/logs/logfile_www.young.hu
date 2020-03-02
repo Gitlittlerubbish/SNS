@@ -1,0 +1,44 @@
+--2020-03-02 04:37:43--  http://www.young.hu/docs/2016KDOK000092001.PDF
+Resolving www.young.hu (www.young.hu)... 195.228.75.242
+Connecting to www.young.hu (www.young.hu)|195.228.75.242|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.young.hu/docs/2016KDOK000092001.PDF [following]
+--2020-03-02 04:37:43--  https://www.young.hu/docs/2016KDOK000092001.PDF
+Connecting to www.young.hu (www.young.hu)|195.228.75.242|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 385745 (377K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 5.94M 0s
+    50K .......... .......... .......... .......... .......... 26% 12.6M 0s
+   100K .......... .......... .......... .......... .......... 39%  125M 0s
+   150K .......... .......... .......... .......... .......... 53%  122M 0s
+   200K .......... .......... .......... .......... .......... 66% 13.9M 0s
+   250K .......... .......... .......... .......... .......... 79% 99.8M 0s
+   300K .......... .......... .......... .......... .......... 92% 15.2M 0s
+   350K .......... .......... ......                          100%  141M=0.2s
+
+2020-03-02 04:37:43 (18.1 Mb/s) - ‘/dev/null’ saved [385745/385745]
+
+--2020-03-02 04:37:50--  http://www.young.hu/docs/2016KDOK000092001.PDF
+Resolving www.young.hu (www.young.hu)... 195.228.75.242
+Connecting to www.young.hu (www.young.hu)|195.228.75.242|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.young.hu/docs/2016KDOK000092001.PDF [following]
+--2020-03-02 04:37:50--  https://www.young.hu/docs/2016KDOK000092001.PDF
+Connecting to www.young.hu (www.young.hu)|195.228.75.242|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 385745 (377K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 5.57M 0s
+    50K .......... .......... .......... .......... .......... 26% 11.2M 0s
+   100K .......... .......... .......... .......... .......... 39%  122M 0s
+   150K .......... .......... .......... .......... .......... 53%  286M 0s
+   200K .......... .......... .......... .......... .......... 66% 11.4M 0s
+   250K .......... .......... .......... .......... .......... 79%  229M 0s
+   300K .......... .......... .......... .......... .......... 92% 13.7M 0s
+   350K .......... .......... ......                          100%  532M=0.2s
+
+2020-03-02 04:37:50 (16.9 Mb/s) - ‘/dev/null’ saved [385745/385745]
+

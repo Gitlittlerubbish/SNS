@@ -1,0 +1,17 @@
+--2020-03-02 03:46:34--  http://www.scriptol.fr/ajax/ajax_adaptive_path.pdf
+Resolving www.scriptol.fr (www.scriptol.fr)... 213.186.33.19
+Connecting to www.scriptol.fr (www.scriptol.fr)|213.186.33.19|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.scriptol.fr/ajax/ajax_adaptive_path.pdf [following]
+--2020-03-02 03:46:34--  https://www.scriptol.fr/ajax/ajax_adaptive_path.pdf
+Connecting to www.scriptol.fr (www.scriptol.fr)|213.186.33.19|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105336 (103K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 28.5M 0s
+    50K .......... .......... .......... .......... .......... 97% 71.4M 0s
+   100K ..                                                    100%  206M=0.02s
+
+2020-03-02 03:46:34 (41.7 Mb/s) - ‘/dev/null’ saved [105336/105336]
+

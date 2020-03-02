@@ -1,0 +1,12 @@
+--2020-03-02 03:53:58--  http://www.herrankukkalro.ga/contentassets/4cfe1e2a42864d8b8a6edeb1b231fb34/kravskjemajordskifteretten_bokmal.pdf
+Resolving www.herrankukkalro.ga (www.herrankukkalro.ga)... 104.18.34.158, 104.18.35.158
+Connecting to www.herrankukkalro.ga (www.herrankukkalro.ga)|104.18.34.158|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  106M
+    50K .......... .......... .......... .......... ..          108M=0.007s
+
+2020-03-02 03:53:58 (107 Mb/s) - ‘/dev/null’ saved [94804]
+

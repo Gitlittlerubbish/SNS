@@ -1,0 +1,45 @@
+--2020-03-02 04:29:12--  http://www.ird.gov.hk/eng/pdf/pam40e.pdf
+Resolving www.ird.gov.hk (www.ird.gov.hk)... 104.16.144.248, 104.16.145.248
+Connecting to www.ird.gov.hk (www.ird.gov.hk)|104.16.144.248|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ird.gov.hk/eng/pdf/pam40e.pdf [following]
+--2020-03-02 04:29:12--  https://www.ird.gov.hk/eng/pdf/pam40e.pdf
+Connecting to www.ird.gov.hk (www.ird.gov.hk)|104.16.144.248|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197645 (193K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  251M 0s
+    50K .......... .......... .......... .......... .......... 51% 2.87M 0s
+   100K .......... .......... .......... .......... .......... 77%  236M 0s
+   150K .......... .......... .......... .......... ...       100%  580M=0.1s
+
+2020-03-02 04:29:14 (10.8 Mb/s) - ‘/dev/null’ saved [197645/197645]
+
+--2020-03-02 04:29:14--  http://www.ird.gov.hk/eng/pdf/ir957e.pdf
+Resolving www.ird.gov.hk (www.ird.gov.hk)... 104.16.144.248, 104.16.145.248
+Connecting to www.ird.gov.hk (www.ird.gov.hk)|104.16.144.248|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ird.gov.hk/eng/pdf/ir957e.pdf [following]
+--2020-03-02 04:29:14--  https://www.ird.gov.hk/eng/pdf/ir957e.pdf
+Connecting to www.ird.gov.hk (www.ird.gov.hk)|104.16.144.248|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 663168 (648K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7%  158M 0s
+    50K .......... .......... .......... .......... .......... 15%  804K 3s
+   100K .......... .......... .......... .......... .......... 23%  662K 4s
+   150K .......... .......... .......... .......... .......... 30% 4.17M 3s
+   200K .......... .......... .......... .......... .......... 38% 1.10M 3s
+   250K .......... .......... .......... .......... .......... 46% 2.15M 2s
+   300K .......... .......... .......... .......... .......... 54% 2.19M 2s
+   350K .......... .......... .......... .......... .......... 61% 1.09M 1s
+   400K .......... .......... .......... .......... .......... 69% 2.20M 1s
+   450K .......... .......... .......... .......... .......... 77% 2.18M 1s
+   500K .......... .......... .......... .......... .......... 84% 1.10M 1s
+   550K .......... .......... .......... .......... .......... 92%  171M 0s
+   600K .......... .......... .......... .......... .......   100%  386M=3.1s
+
+2020-03-02 04:29:19 (1.71 Mb/s) - ‘/dev/null’ saved [663168/663168]
+

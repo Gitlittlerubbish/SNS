@@ -1,0 +1,19 @@
+--2020-03-02 03:56:55--  http://oran.ge/2Dn2vUY
+Resolving oran.ge (oran.ge)... 67.199.248.13, 67.199.248.12
+Connecting to oran.ge (oran.ge)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.orange.com/fr/content/download/46247/1359224/version/3/file/CP_Orange_Comex_FR_050318.pdf [following]
+--2020-03-02 03:56:56--  https://www.orange.com/fr/content/download/46247/1359224/version/3/file/CP_Orange_Comex_FR_050318.pdf
+Resolving www.orange.com (www.orange.com)... 193.33.36.131
+Connecting to www.orange.com (www.orange.com)|193.33.36.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127267 (124K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 22.6M 0s
+    50K .......... .......... .......... .......... .......... 80% 33.2M 0s
+   100K .......... .......... ....                            100%  163M=0.03s
+
+Last-modified header invalid -- time-stamp ignored.
+2020-03-02 03:56:56 (32.1 Mb/s) - ‘/dev/null’ saved [127267/127267]
+

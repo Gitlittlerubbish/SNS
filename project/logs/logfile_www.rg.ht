@@ -1,0 +1,19 @@
+--2020-03-02 04:20:48--  http://www.rg.ht/Kak_otkryt_schyot_v_Finame_i_podklyuchit_ego_k_Right.pdf
+Resolving www.rg.ht (www.rg.ht)... 84.201.166.170
+Connecting to www.rg.ht (www.rg.ht)|84.201.166.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://rg.ht/Kak_otkryt_schyot_v_Finame_i_podklyuchit_ego_k_Right.pdf [following]
+--2020-03-02 04:20:48--  https://rg.ht/Kak_otkryt_schyot_v_Finame_i_podklyuchit_ego_k_Right.pdf
+Resolving rg.ht (rg.ht)... 84.201.166.170
+Connecting to rg.ht (rg.ht)|84.201.166.170|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189979 (186K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 7.20M 0s
+    50K .......... .......... .......... .......... .......... 53% 7.43M 0s
+   100K .......... .......... .......... .......... .......... 80%  206M 0s
+   150K .......... .......... .......... .....                100% 1.31G=0.1s
+
+2020-03-02 04:20:49 (13.3 Mb/s) - ‘/dev/null’ saved [189979/189979]
+

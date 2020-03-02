@@ -1,0 +1,14 @@
+--2020-03-02 04:50:31--  http://anandahussein.lecture.ub.ac.id/files/2015/09/article-4.pdf
+Resolving anandahussein.lecture.ub.ac.id (anandahussein.lecture.ub.ac.id)... 175.45.184.6
+Connecting to anandahussein.lecture.ub.ac.id (anandahussein.lecture.ub.ac.id)|175.45.184.6|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164986 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.11M 1s
+    50K .......... .......... .......... .......... .......... 62% 2.21M 0s
+   100K .......... .......... .......... .......... .......... 93% 2.23M 0s
+   150K .......... .                                          100% 31.0M=0.7s
+
+2020-03-02 04:50:34 (1.78 Mb/s) - ‘/dev/null’ saved [164986/164986]
+

@@ -1,0 +1,23 @@
+--2020-03-01 22:14:08--  http://kardan.edu.af/data/public/files/nasirulhaqwani.pdf
+Resolving kardan.edu.af (kardan.edu.af)... 184.154.121.27
+Connecting to kardan.edu.af (kardan.edu.af)|184.154.121.27|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kardan.edu.af/data/public/files/nasirulhaqwani.pdf [following]
+--2020-03-01 22:14:09--  https://kardan.edu.af/data/public/files/nasirulhaqwani.pdf
+Connecting to kardan.edu.af (kardan.edu.af)|184.154.121.27|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 429992 (420K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.92M 2s
+    50K .......... .......... .......... .......... .......... 23% 85.6M 1s
+   100K .......... .......... .......... .......... .......... 35% 3.83M 1s
+   150K .......... .......... .......... .......... .......... 47% 10.5M 0s
+   200K .......... .......... .......... .......... .......... 59% 6.64M 0s
+   250K .......... .......... .......... .......... .......... 71% 51.1M 0s
+   300K .......... .......... .......... .......... .......... 83% 10.7M 0s
+   350K .......... .......... .......... .......... .......... 95% 6.16M 0s
+   400K .......... .........                                  100% 1.51G=0.5s
+
+2020-03-01 22:14:10 (6.38 Mb/s) - ‘/dev/null’ saved [429992/429992]
+

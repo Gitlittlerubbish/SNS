@@ -1,0 +1,28 @@
+--2020-03-02 03:35:38--  http://www.rigsombudsmanden.fo/multimedia/Fakta_aftalesystem.pdf
+Resolving www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)... 104.20.11.195, 104.20.12.195
+Connecting to www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)|104.20.11.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121940 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41%  692M 0s
+    50K .......... .......... .......... .......... .......... 83% 10.4M 0s
+   100K .......... .........                                  100%  137M=0.04s
+
+2020-03-02 03:35:38 (23.7 Mb/s) - ‘/dev/null’ saved [121940/121940]
+
+--2020-03-02 03:35:38--  http://www.rigsombudsmanden.fo/multimedia/Fakta_om_motivation.pdf
+Resolving www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)... 104.20.11.195, 104.20.12.195
+Connecting to www.rigsombudsmanden.fo (www.rigsombudsmanden.fo)|104.20.11.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 249579 (244K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20%  171M 0s
+    50K .......... .......... .......... .......... .......... 41%  362M 0s
+   100K .......... .......... .......... .......... .......... 61%  276M 0s
+   150K .......... .......... .......... .......... .......... 82%  129M 0s
+   200K .......... .......... .......... .......... ...       100%  203M=0.01s
+
+2020-03-02 03:35:39 (201 Mb/s) - ‘/dev/null’ saved [249579/249579]
+

@@ -1,0 +1,12 @@
+--2020-03-01 23:05:51--  http://www.apua.ag/forms/Water-application.pdf
+Resolving www.apua.ag (www.apua.ag)... 209.59.96.18
+Connecting to www.apua.ag (www.apua.ag)|209.59.96.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100781 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50%  730K 1s
+    50K .......... .......... .......... .......... ........  100%  110M=0.6s
+
+2020-03-01 23:05:52 (1.43 Mb/s) - ‘/dev/null’ saved [100781/100781]
+

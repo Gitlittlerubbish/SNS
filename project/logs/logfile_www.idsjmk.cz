@@ -1,0 +1,19 @@
+--2020-03-02 03:02:51--  http://www.idsjmk.cz/cenik/Cenik.pdf
+Resolving www.idsjmk.cz (www.idsjmk.cz)... 82.100.39.67
+Connecting to www.idsjmk.cz (www.idsjmk.cz)|82.100.39.67|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.idsjmk.cz/cenik/Cenik.pdf [following]
+--2020-03-02 03:02:51--  https://www.idsjmk.cz/cenik/Cenik.pdf
+Connecting to www.idsjmk.cz (www.idsjmk.cz)|82.100.39.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222945 (218K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 6.68M 0s
+    50K .......... .......... .......... .......... .......... 45%  115M 0s
+   100K .......... .......... .......... .......... .......... 68% 13.5M 0s
+   150K .......... .......... .......... .......... .......... 91%  224M 0s
+   200K .......... .......                                    100%  605M=0.1s
+
+2020-03-02 03:02:51 (18.4 Mb/s) - ‘/dev/null’ saved [222945/222945]
+

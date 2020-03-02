@@ -1,0 +1,17 @@
+--2020-03-02 03:03:45--  http://www.sygehussonderjylland.dk/dwn203562
+Resolving www.sygehussonderjylland.dk (www.sygehussonderjylland.dk)... 193.163.231.65
+Connecting to www.sygehussonderjylland.dk (www.sygehussonderjylland.dk)|193.163.231.65|:80... connected.
+HTTP request sent, awaiting response... 302 Object moved
+Location: /dwn203562.pdf [following]
+--2020-03-02 03:03:45--  http://www.sygehussonderjylland.dk/dwn203562.pdf
+Reusing existing connection to www.sygehussonderjylland.dk:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 144381 (141K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 4.91M 0s
+    50K .......... .......... .......... .......... .......... 70% 7.23M 0s
+   100K .......... .......... .......... ..........           100%  137M=0.1s
+
+2020-03-02 03:03:46 (8.11 Mb/s) - ‘/dev/null’ saved [144381/144381]
+

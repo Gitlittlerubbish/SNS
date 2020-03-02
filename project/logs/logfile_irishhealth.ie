@@ -1,0 +1,17 @@
+--2020-03-02 05:01:51--  http://irishhealth.ie/clin/documents/diet.pdf
+Resolving irishhealth.ie (irishhealth.ie)... 188.165.0.117
+Connecting to irishhealth.ie (irishhealth.ie)|188.165.0.117|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.irishhealth.com/clin/documents/diet.pdf [following]
+--2020-03-02 05:01:51--  http://www.irishhealth.com/clin/documents/diet.pdf
+Resolving www.irishhealth.com (www.irishhealth.com)... 188.165.0.117
+Reusing existing connection to irishhealth.ie:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 71546 (70K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 71% 12.1M 0s
+    50K .......... .........                                  100% 1.40M=0.2s
+
+2020-03-02 05:01:51 (3.82 Mb/s) - ‘/dev/null’ saved [71546/71546]
+

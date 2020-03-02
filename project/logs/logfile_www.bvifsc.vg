@@ -1,0 +1,16 @@
+--2020-03-02 01:21:27--  http://www.bvifsc.vg/sites/default/files/uksi_20013366_en.pdf
+Resolving www.bvifsc.vg (www.bvifsc.vg)... 208.88.73.29
+Connecting to www.bvifsc.vg (www.bvifsc.vg)|208.88.73.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bvifsc.vg/sites/default/files/uksi_20013366_en.pdf [following]
+--2020-03-02 01:21:28--  https://www.bvifsc.vg/sites/default/files/uksi_20013366_en.pdf
+Connecting to www.bvifsc.vg (www.bvifsc.vg)|208.88.73.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66983 (65K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 76% 4.72M 0s
+    50K .......... .....                                      100% 28.3M=0.09s
+
+2020-03-02 01:21:28 (5.88 Mb/s) - ‘/dev/null’ saved [66983/66983]
+

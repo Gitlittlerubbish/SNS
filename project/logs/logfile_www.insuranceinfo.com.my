@@ -1,0 +1,16 @@
+--2020-03-02 07:02:51--  http://www.insuranceinfo.com.my/landing_pages/FinancialAdviserBooklet.pdf
+Resolving www.insuranceinfo.com.my (www.insuranceinfo.com.my)... 103.6.238.138
+Connecting to www.insuranceinfo.com.my (www.insuranceinfo.com.my)|103.6.238.138|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 306293 (299K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16%  327K 6s
+    50K .......... .......... .......... .......... .......... 33% 1.64M 3s
+   100K .......... .......... .......... .......... .......... 50% 1.65M 2s
+   150K .......... .......... .......... .......... .......... 66% 1.66M 1s
+   200K .......... .......... .......... .......... .......... 83% 4.26M 0s
+   250K .......... .......... .......... .......... ......... 100% 2.67M=2.2s
+
+2020-03-02 07:02:54 (1.09 Mb/s) - ‘/dev/null’ saved [306293/306293]
+

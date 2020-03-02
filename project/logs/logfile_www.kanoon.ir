@@ -1,0 +1,17 @@
+--2020-03-02 04:58:29--  http://www.kanoon.ir/FileRepository/PdfLessonPlan/13920920P9261i2889.pdf
+Resolving www.kanoon.ir (www.kanoon.ir)... 185.143.234.5, 185.143.233.5
+Connecting to www.kanoon.ir (www.kanoon.ir)|185.143.234.5|:80... connected.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: /FileRepository/PdfLessonPlan/13920920P9261i2889.pdf [following]
+--2020-03-02 04:58:29--  http://www.kanoon.ir/FileRepository/PdfLessonPlan/13920920P9261i2889.pdf
+Reusing existing connection to www.kanoon.ir:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 150630 (147K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 11.6M 0s
+    50K .......... .......... .......... .......... .......... 67% 27.2M 0s
+   100K .......... .......... .......... .......... .......   100% 44.2M=0.06s
+
+2020-03-02 04:58:29 (20.4 Mb/s) - ‘/dev/null’ saved [150630/150630]
+

@@ -1,0 +1,11 @@
+--2020-03-01 23:42:35--  http://www.traumhausplanung.at/fachartikel/traumhausplanung_Bauserie_Teil_3.pdf
+Resolving www.traumhausplanung.at (www.traumhausplanung.at)... 85.158.181.43
+Connecting to www.traumhausplanung.at (www.traumhausplanung.at)|85.158.181.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18005 (18K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                    100% 4.47M=0.03s
+
+2020-03-01 23:42:35 (4.47 Mb/s) - ‘/dev/null’ saved [18005/18005]
+

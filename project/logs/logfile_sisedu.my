@@ -1,0 +1,15 @@
+--2020-03-02 07:07:17--  http://sisedu.my/sjkckb/pdf/peraturan_bilik_darjah.pdf
+Resolving sisedu.my (sisedu.my)... 103.6.199.25
+Connecting to sisedu.my (sisedu.my)|103.6.199.25|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215777 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  666K 2s
+    50K .......... .......... .......... .......... .......... 47% 1.99M 1s
+   100K .......... .......... .......... .......... .......... 71% 1.03G 0s
+   150K .......... .......... .......... .......... .......... 94% 2.31M 0s
+   200K ..........                                            100%  102M=1.0s
+
+2020-03-02 07:07:19 (1.73 Mb/s) - ‘/dev/null’ saved [215777/215777]
+

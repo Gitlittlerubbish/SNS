@@ -1,0 +1,19 @@
+--2020-03-02 03:04:59--  http://www.su.dk/media/1454/opl_udl_statsb_su_i_udlandet.pdf
+Resolving www.su.dk (www.su.dk)... 52.169.79.210
+Connecting to www.su.dk (www.su.dk)|52.169.79.210|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.su.dk/media/1454/opl_udl_statsb_su_i_udlandet.pdf [following]
+--2020-03-02 03:04:59--  https://www.su.dk/media/1454/opl_udl_statsb_su_i_udlandet.pdf
+Connecting to www.su.dk (www.su.dk)|52.169.79.210|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218916 (214K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 29.3M 0s
+    50K .......... .......... .......... .......... .......... 46% 28.7M 0s
+   100K .......... .......... .......... .......... .......... 70% 29.1M 0s
+   150K .......... .......... .......... .......... .......... 93% 83.9M 0s
+   200K .......... ...                                        100%  974M=0.05s
+
+2020-03-02 03:05:00 (37.0 Mb/s) - ‘/dev/null’ saved [218916/218916]
+

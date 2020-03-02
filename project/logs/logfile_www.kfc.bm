@@ -1,0 +1,12 @@
+--2020-03-02 00:32:50--  http://www.kfc.bm/images/Mngt_Trainee.pdf
+Resolving www.kfc.bm (www.kfc.bm)... 184.168.174.1
+Connecting to www.kfc.bm (www.kfc.bm)|184.168.174.1|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88814 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 2.91M 0s
+    50K .......... .......... .......... ......               100%  152M=0.1s
+
+2020-03-02 00:32:50 (4.98 Mb/s) - ‘/dev/null’ saved [88814/88814]
+

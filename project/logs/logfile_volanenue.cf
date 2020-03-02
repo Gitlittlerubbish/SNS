@@ -1,0 +1,15 @@
+--2020-03-02 02:02:14--  http://volanenue.cf/Lists/Publications/BSEP155.pdf
+Resolving volanenue.cf (volanenue.cf)... 104.27.176.218, 104.27.177.218
+Connecting to volanenue.cf (volanenue.cf)|104.27.176.218|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.0M
+    50K .......... .......... .......... .......... .......... 11.2M
+   100K .......... .......... .......... .......... .......... 10.8M
+   150K .......... .......... .......... .......... ..........  142M
+   200K ..........                                             3.20G=0.1s
+
+2020-03-02 02:02:14 (14.6 Mb/s) - ‘/dev/null’ saved [215615]
+

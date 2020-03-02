@@ -1,0 +1,14 @@
+--2020-03-01 23:36:04--  http://www.physiotherapyclinic.com.au/attachments/spinal_anatomy.pdf
+Resolving www.physiotherapyclinic.com.au (www.physiotherapyclinic.com.au)... 13.211.182.76
+Connecting to www.physiotherapyclinic.com.au (www.physiotherapyclinic.com.au)|13.211.182.76|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155808 (152K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32%  481K 2s
+    50K .......... .......... .......... .......... .......... 65% 1.14M 1s
+   100K .......... .......... .......... .......... .......... 98%  196M 0s
+   150K ..                                                    100%  210M=1.2s
+
+2020-03-01 23:36:06 (1.03 Mb/s) - ‘/dev/null’ saved [155808/155808]
+

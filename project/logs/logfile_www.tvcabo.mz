@@ -1,0 +1,54 @@
+--2020-03-02 07:57:20--  http://www.tvcabo.mz/GRELHACANAIS/GRELHACANAIS_DSTV_GRANDE___MAPUTO.pdf
+Resolving www.tvcabo.mz (www.tvcabo.mz)... 196.46.0.163
+Connecting to www.tvcabo.mz (www.tvcabo.mz)|196.46.0.163|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.tvcabo.mz/GRELHACANAIS/GRELHACANAIS_DSTV_GRANDE___MAPUTO.pdf [following]
+--2020-03-02 07:57:21--  https://www.tvcabo.mz/GRELHACANAIS/GRELHACANAIS_DSTV_GRANDE___MAPUTO.pdf
+Connecting to www.tvcabo.mz (www.tvcabo.mz)|196.46.0.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 432371 (422K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.21M 3s
+    50K .......... .......... .......... .......... .......... 23% 2.43M 2s
+   100K .......... .......... .......... .......... .......... 35% 95.0M 1s
+   150K .......... .......... .......... .......... .......... 47%  646M 1s
+   200K .......... .......... .......... .......... .......... 59% 2.42M 0s
+   250K .......... .......... .......... .......... .......... 71%  243M 0s
+   300K .......... .......... .......... .......... .......... 82% 2.51M 0s
+   350K .......... .......... .......... .......... .......... 94%  125M 0s
+   400K .......... .......... ..                              100%  954M=0.8s
+
+2020-03-02 07:57:22 (4.07 Mb/s) - ‘/dev/null’ saved [432371/432371]
+
+--2020-03-02 07:59:04--  http://www.tvcabo.mz/UPLOADS/GLOBAL/SUPORTE/Manual_BoasVindas_MZ.pdf
+Resolving www.tvcabo.mz (www.tvcabo.mz)... 196.46.0.163
+Connecting to www.tvcabo.mz (www.tvcabo.mz)|196.46.0.163|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.tvcabo.mz/UPLOADS/GLOBAL/SUPORTE/Manual_BoasVindas_MZ.pdf [following]
+--2020-03-02 07:59:04--  https://www.tvcabo.mz/UPLOADS/GLOBAL/SUPORTE/Manual_BoasVindas_MZ.pdf
+Connecting to www.tvcabo.mz (www.tvcabo.mz)|196.46.0.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 868344 (848K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 1.23M 5s
+    50K .......... .......... .......... .......... .......... 11% 2.43M 4s
+   100K .......... .......... .......... .......... .......... 17%  477M 2s
+   150K .......... .......... .......... .......... .......... 23% 2.53M 2s
+   200K .......... .......... .......... .......... .......... 29% 58.0M 2s
+   250K .......... .......... .......... .......... .......... 35%  106M 1s
+   300K .......... .......... .......... .......... .......... 41% 2.61M 1s
+   350K .......... .......... .......... .......... .......... 47%  135M 1s
+   400K .......... .......... .......... .......... .......... 53%  339M 1s
+   450K .......... .......... .......... .......... .......... 58%  109M 1s
+   500K .......... .......... .......... .......... .......... 64% 2.60M 1s
+   550K .......... .......... .......... .......... .......... 70%  105M 0s
+   600K .......... .......... .......... .......... .......... 76%  203M 0s
+   650K .......... .......... .......... .......... .......... 82%  230M 0s
+   700K .......... .......... .......... .......... .......... 88%  136M 0s
+   750K .......... .......... .......... .......... .......... 94% 2.65M 0s
+   800K .......... .......... .......... .......... .......   100%  160M=1.2s
+
+2020-03-02 07:59:06 (5.96 Mb/s) - ‘/dev/null’ saved [868344/868344]
+

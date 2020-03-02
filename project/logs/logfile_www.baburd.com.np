@@ -1,0 +1,12 @@
+--2020-03-02 08:12:53--  http://www.baburd.com.np/material/DM/Episode_Mining.PDF
+Resolving www.baburd.com.np (www.baburd.com.np)... 103.5.150.16
+Connecting to www.baburd.com.np (www.baburd.com.np)|103.5.150.16|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75544 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 67% 1.07M 0s
+    50K .......... .......... ...                             100% 63.2M=0.4s
+
+2020-03-02 08:12:56 (1.57 Mb/s) - ‘/dev/null’ saved [75544/75544]
+

@@ -1,0 +1,15 @@
+--2020-03-02 05:11:23--  http://www.jpccu.com.jm/documents/Motor_Vehicles_for_sale.pdf
+Resolving www.jpccu.com.jm (www.jpccu.com.jm)... 72.252.250.123
+Connecting to www.jpccu.com.jm (www.jpccu.com.jm)|72.252.250.123|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 255179 (249K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20%  690K 2s
+    50K .......... .......... .......... .......... .......... 40% 1.41M 1s
+   100K .......... .......... .......... .......... .......... 60%  456K 1s
+   150K .......... .......... .......... .......... .......... 80%  622K 1s
+   200K .......... .......... .......... .......... ......... 100%  764K=3.0s
+
+2020-03-02 05:11:27 (687 Kb/s) - ‘/dev/null’ saved [255179/255179]
+

@@ -1,0 +1,24 @@
+--2020-03-02 05:08:42--  http://www.amedeolucente.it/public/lezione5.pdf
+Resolving www.amedeolucente.it (www.amedeolucente.it)... 31.11.34.71
+Connecting to www.amedeolucente.it (www.amedeolucente.it)|31.11.34.71|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.amedeolucente.it/public/lezione5.pdf [following]
+--2020-03-02 05:08:42--  https://www.amedeolucente.it/public/lezione5.pdf
+Connecting to www.amedeolucente.it (www.amedeolucente.it)|31.11.34.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 486921 (476K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 6.63M 1s
+    50K .......... .......... .......... .......... .......... 21% 85.5M 0s
+   100K .......... .......... .......... .......... .......... 31% 14.7M 0s
+   150K .......... .......... .......... .......... .......... 42% 33.9M 0s
+   200K .......... .......... .......... .......... .......... 52% 23.5M 0s
+   250K .......... .......... .......... .......... .......... 63% 91.1M 0s
+   300K .......... .......... .......... .......... .......... 73% 36.2M 0s
+   350K .......... .......... .......... .......... .......... 84% 22.5M 0s
+   400K .......... .......... .......... .......... .......... 94%  131M 0s
+   450K .......... .......... .....                           100%  878M=0.2s
+
+2020-03-02 05:08:43 (24.2 Mb/s) - ‘/dev/null’ saved [486921/486921]
+

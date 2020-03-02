@@ -1,0 +1,19 @@
+--2020-03-01 22:39:26--  http://www.nexans.co.ao/Morocco/2009/clipper.pdf
+Resolving www.nexans.co.ao (www.nexans.co.ao)... 185.67.149.26
+Connecting to www.nexans.co.ao (www.nexans.co.ao)|185.67.149.26|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nexans.co.za/Morocco/2009/clipper.pdf [following]
+--2020-03-01 22:39:26--  https://www.nexans.co.za/Morocco/2009/clipper.pdf
+Resolving www.nexans.co.za (www.nexans.co.za)... 185.67.149.26
+Connecting to www.nexans.co.za (www.nexans.co.za)|185.67.149.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180530 (176K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 2.42M 0s
+    50K .......... .......... .......... .......... .......... 56% 3.83M 0s
+   100K .......... .......... .......... .......... .......... 85% 3.71M 0s
+   150K .......... .......... ......                          100% 9.47M=0.4s
+
+2020-03-01 22:39:27 (3.53 Mb/s) - ‘/dev/null’ saved [180530/180530]
+

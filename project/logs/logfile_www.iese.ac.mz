@@ -1,0 +1,16 @@
+--2020-03-02 07:57:53--  http://www.iese.ac.mz/lib/publication/Pimenta,Carlos_Globalizacao.pdf
+Resolving www.iese.ac.mz (www.iese.ac.mz)... 74.220.207.187
+Connecting to www.iese.ac.mz (www.iese.ac.mz)|74.220.207.187|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263242 (257K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.23M 1s
+    50K .......... .......... .......... .......... .......... 38% 2.47M 1s
+   100K .......... .......... .......... .......... .......... 58%  212M 0s
+   150K .......... .......... .......... .......... .......... 77% 98.2M 0s
+   200K .......... .......... .......... .......... .......... 97% 2.52M 0s
+   250K .......                                               100%  865M=0.7s
+
+2020-03-02 07:57:54 (3.15 Mb/s) - ‘/dev/null’ saved [263242/263242]
+

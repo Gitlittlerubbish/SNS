@@ -1,0 +1,18 @@
+--2020-03-02 01:46:32--  http://www.acledabank.com.kh/kh/assets/pdf_zip/Form_50_169_CSA.pdf
+Resolving www.acledabank.com.kh (www.acledabank.com.kh)... 110.74.218.164
+Connecting to www.acledabank.com.kh (www.acledabank.com.kh)|110.74.218.164|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.acledabank.com.kh/kh/assets/pdf_zip/Form_50_169_CSA.pdf [following]
+--2020-03-02 01:46:32--  https://www.acledabank.com.kh/kh/assets/pdf_zip/Form_50_169_CSA.pdf
+Connecting to www.acledabank.com.kh (www.acledabank.com.kh)|110.74.218.164|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179060 (175K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28%  153K 7s
+    50K .......... .......... .......... .......... .......... 57%  529K 3s
+   100K .......... .......... .......... .......... .......... 85%  795K 1s
+   150K .......... .......... ....                            100%  709K=4.3s
+
+2020-03-02 01:46:38 (337 Kb/s) - ‘/dev/null’ saved [179060/179060]
+

@@ -1,0 +1,14 @@
+--2020-03-02 01:55:21--  http://www.anticorruptioncommission.ky/upimages/publicationdoc/Anti-CorruptionLaw2014Revision_1477339605_1477339605.pdf
+Resolving www.anticorruptioncommission.ky (www.anticorruptioncommission.ky)... 192.241.134.228
+Connecting to www.anticorruptioncommission.ky (www.anticorruptioncommission.ky)|192.241.134.228|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166349 (162K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 2.79M 0s
+    50K .......... .......... .......... .......... .......... 61% 5.71M 0s
+   100K .......... .......... .......... .......... .......... 92% 66.0M 0s
+   150K .......... ..                                         100%  718M=0.2s
+
+2020-03-02 01:55:22 (5.92 Mb/s) - ‘/dev/null’ saved [166349/166349]
+

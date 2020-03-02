@@ -1,0 +1,16 @@
+--2020-03-02 00:46:38--  http://thomassa.bo/Size-Guide
+Resolving thomassa.bo (thomassa.bo)... 67.199.248.12
+Connecting to thomassa.bo (thomassa.bo)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.thomassabo.com/on/demandware.static/-/Library-Sites-global/default/dwfd97093b/products/info pics/Armband_Sizing_Guide_Ringgroesse_EN.pdf [following]
+--2020-03-02 00:46:39--  https://www.thomassabo.com/on/demandware.static/-/Library-Sites-global/default/dwfd97093b/products/info%20pics/Armband_Sizing_Guide_Ringgroesse_EN.pdf
+Resolving www.thomassabo.com (www.thomassabo.com)... 104.16.148.136, 104.16.149.136
+Connecting to www.thomassabo.com (www.thomassabo.com)|104.16.148.136|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38208 (37K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......              100%  138M=0.002s
+
+2020-03-02 00:46:39 (138 Mb/s) - ‘/dev/null’ saved [38208/38208]
+

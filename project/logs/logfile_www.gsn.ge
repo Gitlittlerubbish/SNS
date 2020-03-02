@@ -1,0 +1,40 @@
+--2020-03-02 03:58:10--  http://www.gsn.ge/pictures/Compact_S_Instructions_GEO3.pdf
+Resolving www.gsn.ge (www.gsn.ge)... 91.239.206.41
+Connecting to www.gsn.ge (www.gsn.ge)|91.239.206.41|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gsn.ge/pictures/Compact_S_Instructions_GEO3.pdf [following]
+--2020-03-02 03:58:11--  https://www.gsn.ge/pictures/Compact_S_Instructions_GEO3.pdf
+Connecting to www.gsn.ge (www.gsn.ge)|91.239.206.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278748 (272K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 1.55M 1s
+    50K .......... .......... .......... .......... .......... 36% 4.65M 1s
+   100K .......... .......... .......... .......... .......... 55% 94.3M 0s
+   150K .......... .......... .......... .......... .......... 73% 4.71M 0s
+   200K .......... .......... .......... .......... .......... 91%  125M 0s
+   250K .......... .......... ..                              100% 2.22M=0.5s
+
+2020-03-02 03:58:11 (4.22 Mb/s) - ‘/dev/null’ saved [278748/278748]
+
+--2020-03-02 03:58:13--  http://www.gsn.ge/pictures/Compact_S_Instructions_GEO3.pdf
+Resolving www.gsn.ge (www.gsn.ge)... 91.239.206.41
+Connecting to www.gsn.ge (www.gsn.ge)|91.239.206.41|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gsn.ge/pictures/Compact_S_Instructions_GEO3.pdf [following]
+--2020-03-02 03:58:13--  https://www.gsn.ge/pictures/Compact_S_Instructions_GEO3.pdf
+Connecting to www.gsn.ge (www.gsn.ge)|91.239.206.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 278748 (272K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 1.42M 1s
+    50K .......... .......... .......... .......... .......... 36% 4.21M 1s
+   100K .......... .......... .......... .......... .......... 55%  138M 0s
+   150K .......... .......... .......... .......... .......... 73% 4.28M 0s
+   200K .......... .......... .......... .......... .......... 91%  127M 0s
+   250K .......... .......... ..                              100%  310M=0.5s
+
+2020-03-02 03:58:14 (4.57 Mb/s) - ‘/dev/null’ saved [278748/278748]
+

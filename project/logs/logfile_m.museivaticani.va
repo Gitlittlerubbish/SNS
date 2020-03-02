@@ -1,0 +1,12 @@
+--2020-03-02 04:22:50--  http://m.museivaticani.va/content/dam/museivaticani/pdf/utilities/calendario_musei.pdf
+Resolving m.museivaticani.va (m.museivaticani.va)... 185.152.70.31
+Connecting to m.museivaticani.va (m.museivaticani.va)|185.152.70.31|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99851 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 2.65M 0s
+    50K .......... .......... .......... .......... .......   100% 1.92M=0.4s
+
+2020-03-02 04:22:50 (2.24 Mb/s) - ‘/dev/null’ saved [99851/99851]
+

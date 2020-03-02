@@ -1,0 +1,22 @@
+--2020-03-02 08:33:07--  http://www.smokefreenurses.org.nz/site/nursesaotearoa/FCTC_COP_7_11_EN.pdf
+Resolving www.smokefreenurses.org.nz (www.smokefreenurses.org.nz)... 112.109.68.168
+Connecting to www.smokefreenurses.org.nz (www.smokefreenurses.org.nz)|112.109.68.168|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.smokefreenurses.org.nz/site/nursesaotearoa/FCTC_COP_7_11_EN.pdf [following]
+--2020-03-02 08:33:09--  https://www.smokefreenurses.org.nz/site/nursesaotearoa/FCTC_COP_7_11_EN.pdf
+Connecting to www.smokefreenurses.org.nz (www.smokefreenurses.org.nz)|112.109.68.168|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 405453 (396K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12%  723K 4s
+    50K .......... .......... .......... .......... .......... 25%  732K 3s
+   100K .......... .......... .......... .......... .......... 37%  177M 2s
+   150K .......... .......... .......... .......... .......... 50% 1.60M 1s
+   200K .......... .......... .......... .......... .......... 63% 1.14M 1s
+   250K .......... .......... .......... .......... .......... 75% 1.33M 1s
+   300K .......... .......... .......... .......... .......... 88% 1.33M 0s
+   350K .......... .......... .......... .......... .....     100%  185M=2.4s
+
+2020-03-02 08:33:12 (1.37 Mb/s) - ‘/dev/null’ saved [405453/405453]
+

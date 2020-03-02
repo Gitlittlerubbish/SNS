@@ -1,0 +1,16 @@
+--2020-03-02 05:01:15--  http://www.mhcirl.ie/File/Leaflet_MR200110.pdf
+Resolving www.mhcirl.ie (www.mhcirl.ie)... 34.249.86.25
+Connecting to www.mhcirl.ie (www.mhcirl.ie)|34.249.86.25|:80... connected.
+HTTP request sent, awaiting response... 307 Moved Temporarily
+Location: https://www.mhcirl.ie/File/Leaflet_MR200110.pdf [following]
+--2020-03-02 05:01:15--  https://www.mhcirl.ie/File/Leaflet_MR200110.pdf
+Connecting to www.mhcirl.ie (www.mhcirl.ie)|34.249.86.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101036 (99K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50% 15.3M 0s
+    50K .......... .......... .......... .......... ........  100%  134M=0.03s
+
+2020-03-02 05:01:15 (27.2 Mb/s) - ‘/dev/null’ saved [101036/101036]
+

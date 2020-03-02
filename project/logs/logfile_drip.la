@@ -1,0 +1,26 @@
+--2020-03-02 06:09:45--  http://drip.la/c/eyJhY2NvdW50X2lkIjoiOTQ5MjQ0OSIsInRyaWdnZXJfaWQiOiI5MDE5Njk5ODYiLCJkeW5hbWljX3VybCI6bnVsbCwidXJsIjoiaHR0cHM6Ly93d3cucmFkYWN1dGxlcnkuY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE5LzAzL1JhZGEtQ3V0bGVyeS1GdW5kcmFpc2luZy1PcmRlci1UYWtlci0xOS5wZGYifQ
+Resolving drip.la (drip.la)... 54.86.96.182, 54.162.54.201, 54.175.54.218, ...
+Connecting to drip.la (drip.la)|54.86.96.182|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.radacutlery.com/wp-content/uploads/2019/03/Rada-Cutlery-Fundraising-Order-Taker-19.pdf [following]
+--2020-03-02 06:09:45--  https://www.radacutlery.com/wp-content/uploads/2019/03/Rada-Cutlery-Fundraising-Order-Taker-19.pdf
+Resolving www.radacutlery.com (www.radacutlery.com)... 199.233.255.71
+Connecting to www.radacutlery.com (www.radacutlery.com)|199.233.255.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 550470 (538K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9%  310K 13s
+    50K .......... .......... .......... .......... .......... 18%  733K 8s
+   100K .......... .......... .......... .......... .......... 27% 1.35M 6s
+   150K .......... .......... .......... .......... .......... 37% 1.02M 4s
+   200K .......... .......... .......... .......... .......... 46% 1.41M 3s
+   250K .......... .......... .......... .......... .......... 55%  485K 3s
+   300K .......... .......... .......... .......... .......... 65% 1.44M 2s
+   350K .......... .......... .......... .......... .......... 74%  963K 2s
+   400K .......... .......... .......... .......... .......... 83%  481K 1s
+   450K .......... .......... .......... .......... .......... 93%  968K 0s
+   500K .......... .......... .......... .......              100% 1.10M=6.0s
+
+2020-03-02 06:09:52 (736 Kb/s) - ‘/dev/null’ saved [550470/550470]
+

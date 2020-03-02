@@ -1,0 +1,12 @@
+--2020-03-02 06:21:54--  http://www.mofa.gov.lr/public2/doc/FSI_Announcement.pdf
+Resolving www.mofa.gov.lr (www.mofa.gov.lr)... 198.57.27.125
+Connecting to www.mofa.gov.lr (www.mofa.gov.lr)|198.57.27.125|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99715 (97K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 1.68M 0s
+    50K .......... .......... .......... .......... .......   100%  260M=0.2s
+
+2020-03-02 06:21:54 (3.24 Mb/s) - ‘/dev/null’ saved [99715/99715]
+

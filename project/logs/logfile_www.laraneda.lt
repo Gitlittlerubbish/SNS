@@ -1,0 +1,14 @@
+--2020-03-02 06:26:30--  http://www.laraneda.lt/failai/translation_checklist_en.pdf
+Resolving www.laraneda.lt (www.laraneda.lt)... 79.98.28.18
+Connecting to www.laraneda.lt (www.laraneda.lt)|79.98.28.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198712 (194K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 5.25M 0s
+    50K .......... .......... .......... .......... .......... 51% 10.1M 0s
+   100K .......... .......... .......... .......... .......... 77% 9.65M 0s
+   150K .......... .......... .......... .......... ....      100% 9.26M=0.2s
+
+2020-03-02 06:26:30 (7.94 Mb/s) - ‘/dev/null’ saved [198712/198712]
+

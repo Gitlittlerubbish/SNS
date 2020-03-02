@@ -1,0 +1,11 @@
+--2020-03-01 22:35:31--  http://www.fduan.ao/pdfs/regulamentodosmestrados.pdf
+Resolving www.fduan.ao (www.fduan.ao)... 185.32.188.206
+Connecting to www.fduan.ao (www.fduan.ao)|185.32.188.206|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21682 (21K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                               100% 5.22M=0.03s
+
+2020-03-01 22:35:31 (5.22 Mb/s) - ‘/dev/null’ saved [21682/21682]
+

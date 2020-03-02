@@ -1,0 +1,12 @@
+--2020-03-02 05:08:38--  http://www.cstp.it/linee/8fs.pdf
+Resolving www.cstp.it (www.cstp.it)... 81.88.48.113
+Connecting to www.cstp.it (www.cstp.it)|81.88.48.113|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57378 (56K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 89% 3.94M 0s
+    50K ......                                                100%  358M=0.1s
+
+2020-03-02 05:08:39 (4.41 Mb/s) - ‘/dev/null’ saved [57378/57378]
+

@@ -1,0 +1,17 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 00:29:10--  https://www.lecoursier.bj/pdf/Recrutement_Coursier_Temps_partiel.pdf
+Resolving www.lecoursier.bj (www.lecoursier.bj)... 173.249.43.148
+Connecting to www.lecoursier.bj (www.lecoursier.bj)|173.249.43.148|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 294690 (288K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 7.67M 0s
+    50K .......... .......... .......... .......... .......... 34% 16.6M 0s
+   100K .......... .......... .......... .......... .......... 52%  232M 0s
+   150K .......... .......... .......... .......... .......... 69% 17.2M 0s
+   200K .......... .......... .......... .......... .......... 86%  130M 0s
+   250K .......... .......... .......... .......              100%  146M=0.1s
+
+2020-03-02 00:29:11 (21.6 Mb/s) - ‘/dev/null’ saved [294690/294690]
+

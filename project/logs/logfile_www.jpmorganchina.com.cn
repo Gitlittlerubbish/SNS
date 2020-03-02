@@ -1,0 +1,15 @@
+--2020-03-02 02:17:44--  http://www.jpmorganchina.com.cn/directdoc/china_cn_protecting_assets.pdf
+Resolving www.jpmorganchina.com.cn (www.jpmorganchina.com.cn)... 159.53.44.40
+Connecting to www.jpmorganchina.com.cn (www.jpmorganchina.com.cn)|159.53.44.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.jpmorganchina.com.cn/directdoc/china_cn_protecting_assets.pdf [following]
+--2020-03-02 02:17:45--  https://www.jpmorganchina.com.cn/directdoc/china_cn_protecting_assets.pdf
+Connecting to www.jpmorganchina.com.cn (www.jpmorganchina.com.cn)|159.53.44.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         279M=0s
+
+2020-03-02 02:17:45 (279 Mb/s) - ‘/dev/null’ saved [872]
+

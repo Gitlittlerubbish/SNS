@@ -1,0 +1,13 @@
+--2020-03-02 06:18:04--  http://www.bccl.gov.lb/pdf_files/international_standards_pdf_files/internal_audit/bdl_basic_cir_no_77.pdf
+Resolving www.bccl.gov.lb (www.bccl.gov.lb)... 3.226.163.22
+Connecting to www.bccl.gov.lb (www.bccl.gov.lb)|3.226.163.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102686 (100K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 2.44M 0s
+    50K .......... .......... .......... .......... .......... 99% 4.83M 0s
+   100K                                                       100% 45.8K=0.3s
+
+2020-03-02 06:18:05 (3.25 Mb/s) - ‘/dev/null’ saved [102686/102686]
+

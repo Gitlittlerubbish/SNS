@@ -1,0 +1,14 @@
+--2020-03-02 03:53:51--  http://www.norskyov.ga/ludism_download.php%3Fid%3D13605
+Resolving www.norskyov.ga (www.norskyov.ga)... 104.28.6.201, 104.28.7.201
+Connecting to www.norskyov.ga (www.norskyov.ga)|104.28.6.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.85M
+    50K .......... .......... .......... .......... .......... 9.68M
+   100K .......... .......... .......... .......... ..........  109M
+   150K .......... .......... .......... ....                   876M=0.1s
+
+2020-03-02 03:53:51 (11.5 Mb/s) - ‘/dev/null’ saved [188438]
+

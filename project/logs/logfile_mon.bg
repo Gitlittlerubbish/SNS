@@ -1,0 +1,20 @@
+--2020-03-02 01:31:49--  http://mon.bg/upload/15370/dziBEL_210518.pdf
+Resolving mon.bg (mon.bg)... 104.20.118.17, 104.20.119.17
+Connecting to mon.bg (mon.bg)|104.20.118.17|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mon.bg/upload/15370/dziBEL_210518.pdf [following]
+--2020-03-02 01:31:51--  https://mon.bg/upload/15370/dziBEL_210518.pdf
+Connecting to mon.bg (mon.bg)|104.20.118.17|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24.6M
+    50K .......... .......... .......... .......... .......... 5.01M
+   100K .......... .......... .......... .......... .......... 95.2M
+   150K .......... .......... .......... .......... .......... 10.1M
+   200K .......... .......... .......... .......... ..........  230M
+   250K .......... .......... .........                         516M=0.1s
+
+2020-03-02 01:31:52 (15.7 Mb/s) - ‘/dev/null’ saved [285697]
+

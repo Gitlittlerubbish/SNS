@@ -1,0 +1,13 @@
+--2020-03-02 03:02:43--  http://autoelektrika.trinec.cz/docs/seznam_moznych_nasta.pdf
+Resolving autoelektrika.trinec.cz (autoelektrika.trinec.cz)... 77.78.95.26
+Connecting to autoelektrika.trinec.cz (autoelektrika.trinec.cz)|77.78.95.26|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103271 (101K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 3.26M 0s
+    50K .......... .......... .......... .......... .......... 99% 5.48M 0s
+   100K                                                       100%  139K=0.2s
+
+2020-03-02 03:02:43 (4.12 Mb/s) - ‘/dev/null’ saved [103271/103271]
+

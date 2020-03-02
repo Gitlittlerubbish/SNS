@@ -1,0 +1,20 @@
+--2020-03-02 08:27:19--  http://bpac.org.nz/BT/2012/docs/best_tests_dec2012_metalHips_pages_10-17.pdf
+Resolving bpac.org.nz (bpac.org.nz)... 103.85.155.48
+Connecting to bpac.org.nz (bpac.org.nz)|103.85.155.48|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://bpac.org.nz/BT/2012/docs/best_tests_dec2012_metalHips_pages_10-17.pdf [following]
+--2020-03-02 08:27:20--  https://bpac.org.nz/BT/2012/docs/best_tests_dec2012_metalHips_pages_10-17.pdf
+Connecting to bpac.org.nz (bpac.org.nz)|103.85.155.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 262263 (256K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.25M 1s
+    50K .......... .......... .......... .......... .......... 39% 1.42M 1s
+   100K .......... .......... .......... .......... .......... 58%  162M 0s
+   150K .......... .......... .......... .......... .......... 78% 1.42M 0s
+   200K .......... .......... .......... .......... .......... 97%  113M 0s
+   250K ......                                                100%  748M=0.9s
+
+2020-03-02 08:27:22 (2.31 Mb/s) - ‘/dev/null’ saved [262263/262263]
+

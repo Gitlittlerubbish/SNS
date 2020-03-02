@@ -1,0 +1,12 @@
+--2020-03-02 03:03:06--  http://www.malloc.cz/chemie/prvni.pdf
+Resolving www.malloc.cz (www.malloc.cz)... 93.185.104.28
+Connecting to www.malloc.cz (www.malloc.cz)|93.185.104.28|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54498 (53K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 93% 5.86M 0s
+    50K ...                                                   100% 26.6M=0.07s
+
+2020-03-02 03:03:06 (6.15 Mb/s) - ‘/dev/null’ saved [54498/54498]
+

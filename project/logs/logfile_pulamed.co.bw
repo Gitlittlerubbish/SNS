@@ -1,0 +1,21 @@
+--2020-03-02 01:07:17--  http://pulamed.co.bw/sites/default/files/pula_application_form.pdf
+Resolving pulamed.co.bw (pulamed.co.bw)... 83.143.25.220
+Connecting to pulamed.co.bw (pulamed.co.bw)|83.143.25.220|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pulamed.co.bw/sites/default/files/pula_application_form.pdf [following]
+--2020-03-02 01:07:18--  https://pulamed.co.bw/sites/default/files/pula_application_form.pdf
+Connecting to pulamed.co.bw (pulamed.co.bw)|83.143.25.220|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 318109 (311K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16%  951K 2s
+    50K .......... .......... .......... .......... .......... 32% 1.02M 2s
+   100K .......... .......... .......... .......... .......... 48% 2.09M 1s
+   150K .......... .......... .......... .......... .......... 64% 1.99M 1s
+   200K .......... .......... .......... .......... .......... 80% 2.09M 0s
+   250K .......... .......... .......... .......... .......... 96% 2.05M 0s
+   300K ..........                                            100%  491K=1.8s
+
+2020-03-02 01:07:20 (1.41 Mb/s) - ‘/dev/null’ saved [318109/318109]
+

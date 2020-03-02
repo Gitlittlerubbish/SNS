@@ -1,0 +1,12 @@
+--2020-03-02 01:09:02--  http://www.iapo.org.br/manuals/06-5.pdf
+Resolving www.iapo.org.br (www.iapo.org.br)... 191.252.24.214
+Connecting to www.iapo.org.br (www.iapo.org.br)|191.252.24.214|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65091 (64K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 78%  267K 0s
+    50K .......... ...                                        100% 81.5M=1.5s
+
+2020-03-02 01:09:05 (339 Kb/s) - ‘/dev/null’ saved [65091/65091]
+

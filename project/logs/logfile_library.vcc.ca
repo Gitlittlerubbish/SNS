@@ -1,0 +1,33 @@
+--2020-03-02 01:52:28--  http://library.vcc.ca/learningcentre/pdf/vcclc/Chem0983-HesssLawOfHeatSummation.pdf
+Resolving library.vcc.ca (library.vcc.ca)... 209.87.63.155
+Connecting to library.vcc.ca (library.vcc.ca)|209.87.63.155|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://library.vcc.ca/learningcentre/pdf/vcclc/Chem0983-HesssLawOfHeatSummation.pdf [following]
+--2020-03-02 01:52:28--  https://library.vcc.ca/learningcentre/pdf/vcclc/Chem0983-HesssLawOfHeatSummation.pdf
+Connecting to library.vcc.ca (library.vcc.ca)|209.87.63.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103110 (101K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 1.05M 0s
+    50K .......... .......... .......... .......... .......... 99%  112M 0s
+   100K                                                       100%  114K=0.4s
+
+2020-03-02 01:52:29 (2.09 Mb/s) - ‘/dev/null’ saved [103110/103110]
+
+--2020-03-02 01:52:29--  http://library.vcc.ca/learningcentre/pdf/vcclc/Chem0861-HowToUseTheSolubilityTable.pdf
+Resolving library.vcc.ca (library.vcc.ca)... 209.87.63.155
+Connecting to library.vcc.ca (library.vcc.ca)|209.87.63.155|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://library.vcc.ca/learningcentre/pdf/vcclc/Chem0861-HowToUseTheSolubilityTable.pdf [following]
+--2020-03-02 01:52:29--  https://library.vcc.ca/learningcentre/pdf/vcclc/Chem0861-HowToUseTheSolubilityTable.pdf
+Connecting to library.vcc.ca (library.vcc.ca)|209.87.63.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96946 (95K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 3.13M 0s
+    50K .......... .......... .......... .......... ....      100%  418M=0.1s
+
+2020-03-02 01:52:30 (5.89 Mb/s) - ‘/dev/null’ saved [96946/96946]
+

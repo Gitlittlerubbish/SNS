@@ -1,0 +1,14 @@
+--2020-03-02 06:07:23--  http://www.deltatech.kg/downloads/DS-A81016S_20130826.pdf
+Resolving www.deltatech.kg (www.deltatech.kg)... 77.235.19.122
+Connecting to www.deltatech.kg (www.deltatech.kg)|77.235.19.122|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155838 (152K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 2.01M 0s
+    50K .......... .......... .......... .......... .......... 65% 4.12M 0s
+   100K .......... .......... .......... .......... .......... 98% 67.7M 0s
+   150K ..                                                    100%  275M=0.3s
+
+2020-03-02 06:07:23 (4.04 Mb/s) - ‘/dev/null’ saved [155838/155838]
+

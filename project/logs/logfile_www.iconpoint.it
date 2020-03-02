@@ -1,0 +1,12 @@
+--2020-03-02 05:09:00--  http://www.iconpoint.it/schedatecnica/MEKT020.pdf
+Resolving www.iconpoint.it (www.iconpoint.it)... 31.11.32.160
+Connecting to www.iconpoint.it (www.iconpoint.it)|31.11.32.160|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80758 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 4.26M 0s
+    50K .......... .......... ........                        100%  209M=0.1s
+
+2020-03-02 05:09:01 (6.64 Mb/s) - ‘/dev/null’ saved [80758/80758]
+

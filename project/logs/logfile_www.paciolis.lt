@@ -1,0 +1,19 @@
+--2020-03-02 06:26:19--  http://www.paciolis.lt/files/Journals/9018
+Resolving www.paciolis.lt (www.paciolis.lt)... 92.61.37.124
+Connecting to www.paciolis.lt (www.paciolis.lt)|92.61.37.124|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.paciolis.lt/files/Journals/9018 [following]
+--2020-03-02 06:26:19--  https://www.paciolis.lt/files/Journals/9018
+Connecting to www.paciolis.lt (www.paciolis.lt)|92.61.37.124|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 234238 (229K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 3.78M 0s
+    50K .......... .......... .......... .......... .......... 43% 7.25M 0s
+   100K .......... .......... .......... .......... .......... 65% 7.76M 0s
+   150K .......... .......... .......... .......... .......... 87% 8.34M 0s
+   200K .......... .......... ........                        100% 40.5M=0.3s
+
+2020-03-02 06:26:20 (6.88 Mb/s) - ‘/dev/null’ saved [234238/234238]
+

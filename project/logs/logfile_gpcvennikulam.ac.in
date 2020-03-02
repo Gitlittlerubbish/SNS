@@ -1,0 +1,12 @@
+--2020-03-02 04:45:58--  http://gpcvennikulam.ac.in/assets/tressurychellan.pdf
+Resolving gpcvennikulam.ac.in (gpcvennikulam.ac.in)... 157.119.25.25
+Connecting to gpcvennikulam.ac.in (gpcvennikulam.ac.in)|157.119.25.25|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85962 (84K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 2.78M 0s
+    50K .......... .......... .......... ...                  100% 3.80M=0.2s
+
+2020-03-02 04:45:59 (3.12 Mb/s) - ‘/dev/null’ saved [85962/85962]
+

@@ -1,0 +1,27 @@
+--2020-03-02 05:05:37--  http://gurl.im/6c092DN
+Resolving gurl.im (gurl.im)... 204.44.61.234
+Connecting to gurl.im (gurl.im)|204.44.61.234|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://lrkt.co/6c092DN [following]
+--2020-03-02 05:05:38--  http://lrkt.co/6c092DN
+Resolving lrkt.co (lrkt.co)... 204.44.61.234
+Reusing existing connection to gurl.im:80.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.futek.com/files/pdf/Product%20Drawings/trs600.pdf [following]
+--2020-03-02 05:05:38--  http://www.futek.com/files/pdf/Product%20Drawings/trs600.pdf
+Resolving www.futek.com (www.futek.com)... 40.71.21.68
+Connecting to www.futek.com (www.futek.com)|40.71.21.68|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.futek.com [following]
+--2020-03-02 05:05:38--  https://www.futek.com/
+Connecting to www.futek.com (www.futek.com)|40.71.21.68|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116157 (113K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44% 2.64M 0s
+    50K .......... .......... .......... .......... .......... 88%  100M 0s
+   100K .......... ...                                        100% 1.41G=0.2s
+
+2020-03-02 05:05:39 (5.84 Mb/s) - ‘/dev/null’ saved [116157/116157]
+

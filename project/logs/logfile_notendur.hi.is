@@ -1,0 +1,16 @@
+--2020-03-02 04:39:16--  http://notendur.hi.is/ajonsson/kennsla2017/The_simple_economics_of_sudden_stops.pdf
+Resolving notendur.hi.is (notendur.hi.is)... 130.208.165.22
+Connecting to notendur.hi.is (notendur.hi.is)|130.208.165.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://notendur.hi.is/ajonsson/kennsla2017/The_simple_economics_of_sudden_stops.pdf [following]
+--2020-03-02 04:39:17--  https://notendur.hi.is/ajonsson/kennsla2017/The_simple_economics_of_sudden_stops.pdf
+Connecting to notendur.hi.is (notendur.hi.is)|130.208.165.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66409 (65K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 77% 1.94M 0s
+    50K .......... ....                                       100%  676M=0.2s
+
+2020-03-02 04:39:18 (2.52 Mb/s) - ‘/dev/null’ saved [66409/66409]
+

@@ -1,0 +1,17 @@
+--2020-03-02 04:39:39--  http://www.bifrost.is/Files/Skra_0060598.pdf
+Resolving www.bifrost.is (www.bifrost.is)... 185.118.33.147
+Connecting to www.bifrost.is (www.bifrost.is)|185.118.33.147|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bifrost.is/Files/Skra_0060598.pdf [following]
+--2020-03-02 04:39:39--  https://www.bifrost.is/Files/Skra_0060598.pdf
+Connecting to www.bifrost.is (www.bifrost.is)|185.118.33.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146497 (143K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 4.86M 0s
+    50K .......... .......... .......... .......... .......... 69%  167M 0s
+   100K .......... .......... .......... .......... ...       100% 8.61M=0.1s
+
+2020-03-02 04:39:39 (9.18 Mb/s) - ‘/dev/null’ saved [146497/146497]
+

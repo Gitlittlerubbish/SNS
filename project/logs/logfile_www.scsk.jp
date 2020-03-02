@@ -1,0 +1,19 @@
+--2020-03-02 05:14:59--  http://www.scsk.jp/news/2019/pdf/20190926.pdf
+Resolving www.scsk.jp (www.scsk.jp)... 203.216.212.189
+Connecting to www.scsk.jp (www.scsk.jp)|203.216.212.189|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.scsk.jp/news/2019/pdf/20190926.pdf [following]
+--2020-03-02 05:14:59--  https://www.scsk.jp/news/2019/pdf/20190926.pdf
+Connecting to www.scsk.jp (www.scsk.jp)|203.216.212.189|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 234247 (229K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21%  668K 2s
+    50K .......... .......... .......... .......... .......... 43%  670K 2s
+   100K .......... .......... .......... .......... .......... 65% 1.33M 1s
+   150K .......... .......... .......... .......... .......... 87%  705M 0s
+   200K .......... .......... ........                        100% 1.06G=1.5s
+
+2020-03-02 05:15:02 (1.22 Mb/s) - ‘/dev/null’ saved [234247/234247]
+

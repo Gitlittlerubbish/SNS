@@ -1,0 +1,43 @@
+--2020-03-02 05:32:22--  http://www.embuni.ac.ke/images/Docs/UESA/UESACONSTITUTION2017.pdf
+Resolving www.embuni.ac.ke (www.embuni.ac.ke)... 41.204.161.151
+Connecting to www.embuni.ac.ke (www.embuni.ac.ke)|41.204.161.151|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.embuni.ac.ke/images/Docs/UESA/UESACONSTITUTION2017.pdf [following]
+--2020-03-02 05:32:23--  https://www.embuni.ac.ke/images/Docs/UESA/UESACONSTITUTION2017.pdf
+Connecting to www.embuni.ac.ke (www.embuni.ac.ke)|41.204.161.151|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 533890 (521K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 1.25M 3s
+    50K .......... .......... .......... .......... .......... 19% 2.51M 2s
+   100K .......... .......... .......... .......... .......... 28%  184M 1s
+   150K .......... .......... .......... .......... .......... 38% 2.56M 1s
+   200K .......... .......... .......... .......... .......... 47%  122M 1s
+   250K .......... .......... .......... .......... .......... 57% 72.9M 0s
+   300K .......... .......... .......... .......... .......... 67% 2.62M 0s
+   350K .......... .......... .......... .......... .......... 76%  279M 0s
+   400K .......... .......... .......... .......... .......... 86%  118M 0s
+   450K .......... .......... .......... .......... .......... 95%  109M 0s
+   500K .......... .......... .                               100% 67.3M=0.8s
+
+2020-03-02 05:32:25 (5.15 Mb/s) - ‘/dev/null’ saved [533890/533890]
+
+--2020-03-02 05:32:37--  http://www.embuni.ac.ke/images/Docs/Kasneb/kasnebexamrenewalform.pdf
+Resolving www.embuni.ac.ke (www.embuni.ac.ke)... 41.204.161.151
+Connecting to www.embuni.ac.ke (www.embuni.ac.ke)|41.204.161.151|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.embuni.ac.ke/images/Docs/Kasneb/kasnebexamrenewalform.pdf [following]
+--2020-03-02 05:32:37--  https://www.embuni.ac.ke/images/Docs/Kasneb/kasnebexamrenewalform.pdf
+Connecting to www.embuni.ac.ke (www.embuni.ac.ke)|41.204.161.151|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190241 (186K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 1.24M 1s
+    50K .......... .......... .......... .......... .......... 53% 2.54M 0s
+   100K .......... .......... .......... .......... .......... 80%  184M 0s
+   150K .......... .......... .......... .....                100%  275M=0.5s
+
+2020-03-02 05:32:39 (3.08 Mb/s) - ‘/dev/null’ saved [190241/190241]
+

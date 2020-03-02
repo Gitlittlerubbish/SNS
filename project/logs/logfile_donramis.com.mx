@@ -1,0 +1,21 @@
+--2020-03-02 07:32:19--  http://donramis.com.mx/productos/3435E.pdf
+Resolving donramis.com.mx (donramis.com.mx)... 192.185.16.188
+Connecting to donramis.com.mx (donramis.com.mx)|192.185.16.188|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.donramis.com.mx/productos/3435E.pdf [following]
+--2020-03-02 07:32:20--  https://www.donramis.com.mx/productos/3435E.pdf
+Resolving www.donramis.com.mx (www.donramis.com.mx)... 192.185.16.188
+Connecting to www.donramis.com.mx (www.donramis.com.mx)|192.185.16.188|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279247 (273K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 1.71M 1s
+    50K .......... .......... .......... .......... .......... 36% 3.39M 1s
+   100K .......... .......... .......... .......... .......... 55% 99.7M 0s
+   150K .......... .......... .......... .......... .......... 73% 3.56M 0s
+   200K .......... .......... .......... .......... .......... 91%  170M 0s
+   250K .......... .......... ..                              100% 77.2M=0.5s
+
+2020-03-02 07:32:21 (4.61 Mb/s) - ‘/dev/null’ saved [279247/279247]
+

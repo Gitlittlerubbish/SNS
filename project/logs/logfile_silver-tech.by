@@ -1,0 +1,15 @@
+--2020-03-02 00:16:32--  http://silver-tech.by/uploads/catalog/files/d800.pdf
+Resolving silver-tech.by (silver-tech.by)... 93.125.99.41
+Connecting to silver-tech.by (silver-tech.by)|93.125.99.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216078 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 3.01M 0s
+    50K .......... .......... .......... .......... .......... 47% 6.48M 0s
+   100K .......... .......... .......... .......... .......... 71%  148M 0s
+   150K .......... .......... .......... .......... .......... 94% 6.72M 0s
+   200K .......... .                                          100% 85.6M=0.3s
+
+2020-03-02 00:16:33 (6.54 Mb/s) - ‘/dev/null’ saved [216078/216078]
+

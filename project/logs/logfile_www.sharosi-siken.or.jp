@@ -1,0 +1,15 @@
+--2020-03-02 05:16:44--  http://www.sharosi-siken.or.jp/pdf/03/03_03_kokkasiken.pdf
+Resolving www.sharosi-siken.or.jp (www.sharosi-siken.or.jp)... 183.181.99.3
+Connecting to www.sharosi-siken.or.jp (www.sharosi-siken.or.jp)|183.181.99.3|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205558 (201K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  666K 2s
+    50K .......... .......... .......... .......... .......... 49% 1.33M 1s
+   100K .......... .......... .......... .......... .......... 74%  176M 0s
+   150K .......... .......... .......... .......... .......... 99%  348M 0s
+   200K                                                       100%  121K=0.9s
+
+2020-03-02 05:16:47 (1.78 Mb/s) - ‘/dev/null’ saved [205558/205558]
+

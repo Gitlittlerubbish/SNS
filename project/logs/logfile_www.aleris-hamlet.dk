@@ -1,0 +1,34 @@
+--2020-03-02 03:04:56--  http://www.aleris-hamlet.dk/link/ed7d934bd38640f393761c6847e80461.aspx
+Resolving www.aleris-hamlet.dk (www.aleris-hamlet.dk)... 104.19.170.76, 104.19.169.76
+Connecting to www.aleris-hamlet.dk (www.aleris-hamlet.dk)|104.19.170.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /4a8b73/siteassets/aleris.dk/pi/medic/for_lavt_stofskifte.pdf [following]
+--2020-03-02 03:04:56--  http://www.aleris-hamlet.dk/4a8b73/siteassets/aleris.dk/pi/medic/for_lavt_stofskifte.pdf
+Reusing existing connection to www.aleris-hamlet.dk:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aleris-hamlet.dk/4a8b73/siteassets/aleris.dk/pi/medic/for_lavt_stofskifte.pdf [following]
+--2020-03-02 03:04:56--  https://www.aleris-hamlet.dk/4a8b73/siteassets/aleris.dk/pi/medic/for_lavt_stofskifte.pdf
+Connecting to www.aleris-hamlet.dk (www.aleris-hamlet.dk)|104.19.170.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 798810 (780K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6%  184M 0s
+    50K .......... .......... .......... .......... .......... 12%  533M 0s
+   100K .......... .......... .......... .......... .......... 19%  630M 0s
+   150K .......... .......... .......... .......... .......... 25% 78.5M 0s
+   200K .......... .......... .......... .......... .......... 32%  168M 0s
+   250K .......... .......... .......... .......... .......... 38%  500M 0s
+   300K .......... .......... .......... .......... .......... 44%  308M 0s
+   350K .......... .......... .......... .......... .......... 51%  209M 0s
+   400K .......... .......... .......... .......... .......... 57%  111M 0s
+   450K .......... .......... .......... .......... .......... 64%  255M 0s
+   500K .......... .......... .......... .......... .......... 70%  200M 0s
+   550K .......... .......... .......... .......... .......... 76%  343M 0s
+   600K .......... .......... .......... .......... .......... 83%  228M 0s
+   650K .......... .......... .......... .......... .......... 89%  188M 0s
+   700K .......... .......... .......... .......... .......... 96%  179M 0s
+   750K .......... .......... ..........                      100% 1.25G=0.03s
+
+2020-03-02 03:04:57 (210 Mb/s) - ‘/dev/null’ saved [798810/798810]
+

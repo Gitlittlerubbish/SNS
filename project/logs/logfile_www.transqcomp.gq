@@ -1,0 +1,15 @@
+--2020-03-02 03:28:53--  http://www.transqcomp.gq/IMG/pdf/Essentiel_Assurance_vie.pdf
+Resolving www.transqcomp.gq (www.transqcomp.gq)... 104.31.88.244, 104.31.89.244
+Connecting to www.transqcomp.gq (www.transqcomp.gq)|104.31.88.244|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 9.91M
+    50K .......... .......... .......... .......... ..........  177M
+   100K .......... .......... .......... .......... .......... 70.0M
+   150K .......... .......... .......... .......... .......... 11.8M
+   200K .......... ..........                                   954M=0.08s
+
+2020-03-02 03:28:54 (21.4 Mb/s) - ‘/dev/null’ saved [225795]
+

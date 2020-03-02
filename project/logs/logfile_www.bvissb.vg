@@ -1,0 +1,22 @@
+--2020-03-02 01:21:48--  http://www.bvissb.vg/PDF_files/self_employed.pdf
+Resolving www.bvissb.vg (www.bvissb.vg)... 69.195.88.79
+Connecting to www.bvissb.vg (www.bvissb.vg)|69.195.88.79|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22426 (22K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                               100% 1.09M=0.2s
+
+2020-03-02 01:21:49 (1.09 Mb/s) - ‘/dev/null’ saved [22426/22426]
+
+--2020-03-02 01:21:49--  http://www.bvissb.vg/PDF_files/Application_for_Certificate_of_Voluntary_Insurance.pdf
+Resolving www.bvissb.vg (www.bvissb.vg)... 69.195.88.79
+Connecting to www.bvissb.vg (www.bvissb.vg)|69.195.88.79|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21146 (21K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ..........                                 100% 1.04M=0.2s
+
+2020-03-02 01:21:49 (1.04 Mb/s) - ‘/dev/null’ saved [21146/21146]
+

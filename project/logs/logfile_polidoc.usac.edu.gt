@@ -1,0 +1,14 @@
+--2020-03-02 04:11:45--  http://polidoc.usac.edu.gt/digital/e30.pdf
+Resolving polidoc.usac.edu.gt (polidoc.usac.edu.gt)... 168.234.75.245
+Connecting to polidoc.usac.edu.gt (polidoc.usac.edu.gt)|168.234.75.245|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 174548 (170K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 1.10M 1s
+    50K .......... .......... .......... .......... .......... 58% 3.31M 0s
+   100K .......... .......... .......... .......... .......... 87%  158M 0s
+   150K .......... ..........                                 100%  802M=0.5s
+
+2020-03-02 04:11:46 (2.79 Mb/s) - ‘/dev/null’ saved [174548/174548]
+

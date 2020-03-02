@@ -1,0 +1,13 @@
+--2020-03-02 04:51:41--  http://directory.umm.ac.id/articles/social_cognitive_theory.pdf
+Resolving directory.umm.ac.id (directory.umm.ac.id)... 202.52.52.17
+Connecting to directory.umm.ac.id (directory.umm.ac.id)|202.52.52.17|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148710 (145K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 1.00M 1s
+    50K .......... .......... .......... .......... .......... 68% 2.20M 0s
+   100K .......... .......... .......... .......... .....     100%  118M=0.6s
+
+2020-03-02 04:51:45 (1.99 Mb/s) - ‘/dev/null’ saved [148710/148710]
+

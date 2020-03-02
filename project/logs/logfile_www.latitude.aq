@@ -1,0 +1,35 @@
+--2020-03-01 22:53:05--  http://www.latitude.aq/publications/pdf/solar1995ag.pdf
+Resolving www.latitude.aq (www.latitude.aq)... 51.15.176.113
+Connecting to www.latitude.aq (www.latitude.aq)|51.15.176.113|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.latitude.aq/publications/pdf/solar1995ag.pdf [following]
+--2020-03-01 22:53:06--  https://www.latitude.aq/publications/pdf/solar1995ag.pdf
+Connecting to www.latitude.aq (www.latitude.aq)|51.15.176.113|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166081 (162K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 11.7M 0s
+    50K .......... .......... .......... .......... .......... 61% 23.6M 0s
+   100K .......... .......... .......... .......... .......... 92%  166M 0s
+   150K .......... ..                                         100%  762M=0.06s
+
+2020-03-01 22:53:06 (24.2 Mb/s) - ‘/dev/null’ saved [166081/166081]
+
+--2020-03-01 22:53:06--  http://www.latitude.aq/publications/pdf/anare1995ag.pdf
+Resolving www.latitude.aq (www.latitude.aq)... 51.15.176.113
+Connecting to www.latitude.aq (www.latitude.aq)|51.15.176.113|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.latitude.aq/publications/pdf/anare1995ag.pdf [following]
+--2020-03-01 22:53:06--  https://www.latitude.aq/publications/pdf/anare1995ag.pdf
+Connecting to www.latitude.aq (www.latitude.aq)|51.15.176.113|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110598 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 7.17M 0s
+    50K .......... .......... .......... .......... .......... 92% 18.0M 0s
+   100K ........                                              100%  512M=0.08s
+
+2020-03-01 22:53:06 (11.1 Mb/s) - ‘/dev/null’ saved [110598/110598]
+

@@ -1,0 +1,14 @@
+--2020-03-02 03:53:58--  http://mabietta.ga/media/custom_files/baguier_mauboussin_1.pdf
+Resolving mabietta.ga (mabietta.ga)... 104.24.115.41, 104.24.114.41
+Connecting to mabietta.ga (mabietta.ga)|104.24.115.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 9.90M
+    50K .......... .......... .......... .......... ..........  212M
+   100K .......... .......... .......... .......... ..........  108M
+   150K .......... .......... .......... .......... ...         156M=0.05s
+
+2020-03-02 03:53:59 (32.1 Mb/s) - ‘/dev/null’ saved [197996]
+

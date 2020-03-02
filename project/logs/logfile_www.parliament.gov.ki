@@ -1,0 +1,26 @@
+--2020-03-02 05:33:14--  http://www.parliament.gov.ki/docs/acts/2003/ExtraditionAct.pdf
+Resolving www.parliament.gov.ki (www.parliament.gov.ki)... 66.198.240.48
+Connecting to www.parliament.gov.ki (www.parliament.gov.ki)|66.198.240.48|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220108 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.16M 1s
+    50K .......... .......... .......... .......... .......... 46% 4.36M 0s
+   100K .......... .......... .......... .......... .......... 69% 4.23M 0s
+   150K .......... .......... .......... .......... .......... 93% 4.47M 0s
+   200K .......... ....                                       100% 1.04G=0.5s
+
+2020-03-02 05:33:14 (3.73 Mb/s) - ‘/dev/null’ saved [220108/220108]
+
+--2020-03-02 05:33:15--  http://www.parliament.gov.ki/docs/acts/2004/CivilAviationindex.pdf
+Resolving www.parliament.gov.ki (www.parliament.gov.ki)... 66.198.240.48
+Connecting to www.parliament.gov.ki (www.parliament.gov.ki)|66.198.240.48|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40261 (39K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .........            100% 1.73M=0.2s
+
+2020-03-02 05:33:15 (1.73 Mb/s) - ‘/dev/null’ saved [40261/40261]
+

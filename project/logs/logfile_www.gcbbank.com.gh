@@ -1,0 +1,15 @@
+--2020-03-02 04:03:36--  http://www.gcbbank.com.gh/images/docs/info/gcb_2014_tarrif_guide.pdf
+Resolving www.gcbbank.com.gh (www.gcbbank.com.gh)... 149.126.74.176
+Connecting to www.gcbbank.com.gh (www.gcbbank.com.gh)|149.126.74.176|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gcbbank.com.gh/images/docs/info/gcb_2014_tarrif_guide.pdf [following]
+--2020-03-02 04:03:36--  https://www.gcbbank.com.gh/images/docs/info/gcb_2014_tarrif_guide.pdf
+Connecting to www.gcbbank.com.gh (www.gcbbank.com.gh)|149.126.74.176|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  120M=0s
+
+2020-03-02 04:03:36 (120 Mb/s) - ‘/dev/null’ saved [210/210]
+

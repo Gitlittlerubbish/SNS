@@ -1,0 +1,19 @@
+--2020-03-02 06:25:04--  http://m-s.li/D4911
+Resolving m-s.li (m-s.li)... 157.230.101.12
+Connecting to m-s.li (m-s.li)|157.230.101.12|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://s21.q4cdn.com/399680738/files/doc_financials/2019/Q2/Q2-2019-Earnings-Presentation-07.24.2019.pdf [following]
+--2020-03-02 06:25:04--  https://s21.q4cdn.com/399680738/files/doc_financials/2019/Q2/Q2-2019-Earnings-Presentation-07.24.2019.pdf
+Resolving s21.q4cdn.com (s21.q4cdn.com)... 68.70.192.128
+Connecting to s21.q4cdn.com (s21.q4cdn.com)|68.70.192.128|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188123 (184K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 55.0M 0s
+    50K .......... .......... .......... .......... .......... 54% 7.57M 0s
+   100K .......... .......... .......... .......... .......... 81% 44.2M 0s
+   150K .......... .......... .......... ...                  100% 59.9M=0.08s
+
+2020-03-02 06:25:05 (19.9 Mb/s) - ‘/dev/null’ saved [188123/188123]
+

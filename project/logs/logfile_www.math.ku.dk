@@ -1,0 +1,23 @@
+--2020-03-02 03:04:55--  http://www.math.ku.dk/~rolf/teaching/ctff03/RomTou.pdf
+Resolving www.math.ku.dk (www.math.ku.dk)... 130.226.237.173
+Connecting to www.math.ku.dk (www.math.ku.dk)|130.226.237.173|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.math.ku.dk/~rolf/teaching/ctff03/RomTou.pdf [following]
+--2020-03-02 03:04:56--  https://www.math.ku.dk/~rolf/teaching/ctff03/RomTou.pdf
+Connecting to www.math.ku.dk (www.math.ku.dk)|130.226.237.173|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://web.math.ku.dk/~rolf/teaching/ctff03/RomTou.pdf [following]
+--2020-03-02 03:04:56--  http://web.math.ku.dk/~rolf/teaching/ctff03/RomTou.pdf
+Resolving web.math.ku.dk (web.math.ku.dk)... 130.226.12.60
+Connecting to web.math.ku.dk (web.math.ku.dk)|130.226.12.60|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 156828 (153K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 8.11M 0s
+    50K .......... .......... .......... .......... .......... 65% 16.2M 0s
+   100K .......... .......... .......... .......... .......... 97%  124M 0s
+   150K ...                                                   100%  516K=0.08s
+
+2020-03-02 03:04:56 (15.9 Mb/s) - ‘/dev/null’ saved [156828/156828]
+

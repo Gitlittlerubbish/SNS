@@ -1,0 +1,13 @@
+--2020-03-02 04:06:29--  http://www.tele.gr/PDF3/minitel_1_fin_gr.pdf
+Resolving www.tele.gr (www.tele.gr)... 138.201.205.105
+Connecting to www.tele.gr (www.tele.gr)|138.201.205.105|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132060 (129K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 8.53M 0s
+    50K .......... .......... .......... .......... .......... 77% 20.2M 0s
+   100K .......... .......... ........                        100% 70.2M=0.07s
+
+2020-03-02 04:06:29 (14.7 Mb/s) - ‘/dev/null’ saved [132060/132060]
+

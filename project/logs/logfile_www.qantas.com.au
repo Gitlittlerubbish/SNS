@@ -1,0 +1,11 @@
+--2020-03-01 23:30:46--  http://www.qantas.com.au/flightinfo/qf_pdfTimetable_QantasLink.pdf
+Resolving www.qantas.com.au (www.qantas.com.au)... 104.123.91.80
+Connecting to www.qantas.com.au (www.qantas.com.au)|104.123.91.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46822 (46K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....     100% 70.8M=0.005s
+
+2020-03-01 23:30:46 (70.8 Mb/s) - ‘/dev/null’ saved [46822/46822]
+

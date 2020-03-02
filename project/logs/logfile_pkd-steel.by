@@ -1,0 +1,14 @@
+--2020-03-02 00:13:57--  http://pkd-steel.by/images/gost_8509-93.pdf
+Resolving pkd-steel.by (pkd-steel.by)... 93.125.99.41
+Connecting to pkd-steel.by (pkd-steel.by)|93.125.99.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194792 (190K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 3.15M 0s
+    50K .......... .......... .......... .......... .......... 52% 6.50M 0s
+   100K .......... .......... .......... .......... .......... 78% 95.9M 0s
+   150K .......... .......... .......... ..........           100% 5.52M=0.3s
+
+2020-03-02 00:13:57 (6.06 Mb/s) - ‘/dev/null’ saved [194792/194792]
+

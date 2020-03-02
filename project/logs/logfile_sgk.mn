@@ -1,0 +1,39 @@
+--2020-03-02 07:39:29--  http://sgk.mn/2WUlMe1
+Resolving sgk.mn (sgk.mn)... 67.199.248.13, 67.199.248.12
+Connecting to sgk.mn (sgk.mn)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastReconstruction.pdf [following]
+--2020-03-02 07:39:29--  https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastReconstruction.pdf
+Resolving ww5.komen.org (ww5.komen.org)... 40.74.234.191
+Connecting to ww5.komen.org (ww5.komen.org)|40.74.234.191|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134484 (131K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 1.90M 0s
+    50K .......... .......... .......... .......... .......... 76%  194M 0s
+   100K .......... .......... .......... .                    100% 2.40M=0.3s
+
+2020-03-02 07:39:30 (3.31 Mb/s) - ‘/dev/null’ saved [134484/134484]
+
+--2020-03-02 07:39:30--  http://sgk.mn/2K45wkO
+Resolving sgk.mn (sgk.mn)... 67.199.248.13, 67.199.248.12
+Connecting to sgk.mn (sgk.mn)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastCancerPrognosis.pdf [following]
+--2020-03-02 07:39:30--  https://ww5.komen.org/uploadedFiles/_Komen/Content/About_Breast_Cancer/Tools_and_Resources/Fact_Sheets_and_Breast_Self_Awareness_Cards/BreastCancerPrognosis.pdf
+Resolving ww5.komen.org (ww5.komen.org)... 40.74.234.191
+Connecting to ww5.komen.org (ww5.komen.org)|40.74.234.191|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 287472 (281K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.89M 1s
+    50K .......... .......... .......... .......... .......... 35% 96.5M 0s
+   100K .......... .......... .......... .......... .......... 53% 3.92M 0s
+   150K .......... .......... .......... .......... .......... 71% 71.8M 0s
+   200K .......... .......... .......... .......... .......... 89% 4.06M 0s
+   250K .......... .......... ..........                      100%  105M=0.4s
+
+2020-03-02 07:39:31 (5.29 Mb/s) - ‘/dev/null’ saved [287472/287472]
+

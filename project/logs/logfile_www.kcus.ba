@@ -1,0 +1,13 @@
+--2020-03-02 01:01:11--  http://www.kcus.ba/uimages/Vodiczapacijente.pdf
+Resolving www.kcus.ba (www.kcus.ba)... 108.179.200.145
+Connecting to www.kcus.ba (www.kcus.ba)|108.179.200.145|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146429 (143K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 1.69M 0s
+    50K .......... .......... .......... .......... .......... 69% 3.38M 0s
+   100K .......... .......... .......... .......... ..        100%  130M=0.4s
+
+2020-03-02 01:01:12 (3.20 Mb/s) - ‘/dev/null’ saved [146429/146429]
+

@@ -1,0 +1,13 @@
+--2020-03-02 06:21:21--  http://nha.gov.lr/pages/pdf/ACQUISITION.pdf
+Resolving nha.gov.lr (nha.gov.lr)... 78.47.6.1
+Connecting to nha.gov.lr (nha.gov.lr)|78.47.6.1|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 117127 (114K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 43% 9.03M 0s
+    50K .......... .......... .......... .......... .......... 87% 15.3M 0s
+   100K .......... ....                                       100% 5.42M=0.09s
+
+2020-03-02 06:21:22 (9.99 Mb/s) - ‘/dev/null’ saved [117127/117127]
+

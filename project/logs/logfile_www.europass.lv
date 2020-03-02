@@ -1,0 +1,12 @@
+--2020-03-02 06:13:39--  http://www.europass.lv/files/CVpiemers_ar_skaidrojumu.pdf
+Resolving www.europass.lv (www.europass.lv)... 81.198.117.123
+Connecting to www.europass.lv (www.europass.lv)|81.198.117.123|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67913 (66K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 75% 3.61M 0s
+    50K .......... ......                                     100% 15.9M=0.1s
+
+2020-03-02 06:13:39 (4.46 Mb/s) - ‘/dev/null’ saved [67913/67913]
+

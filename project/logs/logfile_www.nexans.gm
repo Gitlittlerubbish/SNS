@@ -1,0 +1,22 @@
+--2020-03-02 03:54:02--  http://www.nexans.gm/eservice/Morocco-en/documentDownload_5169/JTR_three_core_mixed_wrapping_injected_joint_pdf_
+Resolving www.nexans.gm (www.nexans.gm)... 185.67.149.26
+Connecting to www.nexans.gm (www.nexans.gm)|185.67.149.26|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nexans.gm/eservice/Morocco-en/documentDownload_5169/JTR_three_core_mixed_wrapping_injected_joint_pdf_ [following]
+--2020-03-02 03:54:02--  https://www.nexans.gm/eservice/Morocco-en/documentDownload_5169/JTR_three_core_mixed_wrapping_injected_joint_pdf_
+Connecting to www.nexans.gm (www.nexans.gm)|185.67.149.26|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nexans.gm/France/product/doc/en/5323jtr.pdf [following]
+--2020-03-02 03:54:02--  https://www.nexans.gm/France/product/doc/en/5323jtr.pdf
+Reusing existing connection to www.nexans.gm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 166574 (163K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 9.26M 0s
+    50K .......... .......... .......... .......... .......... 61% 17.4M 0s
+   100K .......... .......... .......... .......... .......... 92% 17.4M 0s
+   150K .......... ..                                         100%  586M=0.09s
+
+2020-03-02 03:54:02 (14.6 Mb/s) - ‘/dev/null’ saved [166574/166574]
+

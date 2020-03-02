@@ -1,0 +1,12 @@
+--2020-03-02 00:04:08--  http://eacei.gov.bd/forms/form3.pdf
+Resolving eacei.gov.bd (eacei.gov.bd)... 192.185.195.240
+Connecting to eacei.gov.bd (eacei.gov.bd)|192.185.195.240|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73295 (72K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 69% 1.65M 0s
+    50K .......... .......... .                               100%  749M=0.2s
+
+2020-03-02 00:04:08 (2.36 Mb/s) - ‘/dev/null’ saved [73295/73295]
+

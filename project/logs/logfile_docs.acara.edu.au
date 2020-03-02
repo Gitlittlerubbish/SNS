@@ -1,0 +1,20 @@
+--2020-03-01 23:41:06--  http://docs.acara.edu.au/resources/About_icsea_2014.pdf
+Resolving docs.acara.edu.au (docs.acara.edu.au)... 104.20.236.24, 104.20.237.24
+Connecting to docs.acara.edu.au (docs.acara.edu.au)|104.20.236.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://docs.acara.edu.au/resources/About_icsea_2014.pdf [following]
+--2020-03-01 23:41:06--  https://docs.acara.edu.au/resources/About_icsea_2014.pdf
+Connecting to docs.acara.edu.au (docs.acara.edu.au)|104.20.236.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293031 (286K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17%  201M 0s
+    50K .......... .......... .......... .......... .......... 34%  596M 0s
+   100K .......... .......... .......... .......... .......... 52%  707M 0s
+   150K .......... .......... .......... .......... .......... 69%  581M 0s
+   200K .......... .......... .......... .......... .......... 87% 81.8M 0s
+   250K .......... .......... .......... ......               100%  145M=0.01s
+
+2020-03-01 23:41:07 (212 Mb/s) - ‘/dev/null’ saved [293031/293031]
+

@@ -1,0 +1,20 @@
+--2020-03-02 00:33:15--  http://ageconcern.bm/images/uploads/Bermuda_Senior_Transportation_FINAL.pdf
+Resolving ageconcern.bm (ageconcern.bm)... 70.32.96.44
+Connecting to ageconcern.bm (ageconcern.bm)|70.32.96.44|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ageconcern.bm/images/uploads/Bermuda_Senior_Transportation_FINAL.pdf [following]
+--2020-03-02 00:33:16--  https://ageconcern.bm/images/uploads/Bermuda_Senior_Transportation_FINAL.pdf
+Connecting to ageconcern.bm (ageconcern.bm)|70.32.96.44|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 270202 (264K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 4.69M 0s
+    50K .......... .......... .......... .......... .......... 37% 4.83M 0s
+   100K .......... .......... .......... .......... .......... 56% 4.91M 0s
+   150K .......... .......... .......... .......... .......... 75% 4.80M 0s
+   200K .......... .......... .......... .......... .......... 94%  522M 0s
+   250K .......... ...                                        100% 96.6M=0.3s
+
+2020-03-02 00:33:16 (6.31 Mb/s) - ‘/dev/null’ saved [270202/270202]
+

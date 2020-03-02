@@ -1,0 +1,15 @@
+--2020-03-01 23:41:03--  http://www.hug.org.au/docs/maps/ugandamap.pdf
+Resolving www.hug.org.au (www.hug.org.au)... 54.252.148.191
+Connecting to www.hug.org.au (www.hug.org.au)|54.252.148.191|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204925 (200K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  705K 2s
+    50K .......... .......... .......... .......... .......... 49% 1.08M 1s
+   100K .......... .......... .......... .......... .......... 74%  484M 0s
+   150K .......... .......... .......... .......... .......... 99% 1.26M 0s
+   200K                                                       100% 20.0K=1.3s
+
+2020-03-01 23:41:06 (1.27 Mb/s) - ‘/dev/null’ saved [204925/204925]
+

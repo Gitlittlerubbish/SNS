@@ -1,0 +1,15 @@
+--2020-03-02 05:32:52--  http://www.tum.ac.ke/oldsite/assets/downloads/application_form.pdf
+Resolving www.tum.ac.ke (www.tum.ac.ke)... 41.204.161.215
+Connecting to www.tum.ac.ke (www.tum.ac.ke)|41.204.161.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235639 (230K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.39M 1s
+    50K .......... .......... .......... .......... .......... 43% 2.80M 1s
+   100K .......... .......... .......... .......... .......... 65%  131M 0s
+   150K .......... .......... .......... .......... .......... 86%  150M 0s
+   200K .......... .......... ..........                      100% 1.72M=0.6s
+
+2020-03-02 05:32:53 (3.20 Mb/s) - ‘/dev/null’ saved [235639/235639]
+

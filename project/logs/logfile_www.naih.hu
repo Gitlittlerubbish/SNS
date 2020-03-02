@@ -1,0 +1,17 @@
+--2020-03-02 04:37:37--  http://www.naih.hu/files/573_16_2013_H__hatarozat_anonim.pdf
+Resolving www.naih.hu (www.naih.hu)... 185.33.53.40
+Connecting to www.naih.hu (www.naih.hu)|185.33.53.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.naih.hu/files/573_16_2013_H__hatarozat_anonim.pdf [following]
+--2020-03-02 04:37:37--  https://www.naih.hu/files/573_16_2013_H__hatarozat_anonim.pdf
+Connecting to www.naih.hu (www.naih.hu)|185.33.53.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112604 (110K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 4.83M 0s
+    50K .......... .......... .......... .......... .......... 90% 9.73M 0s
+   100K .........                                             100%  704M=0.1s
+
+2020-03-02 04:37:38 (7.09 Mb/s) - ‘/dev/null’ saved [112604/112604]
+

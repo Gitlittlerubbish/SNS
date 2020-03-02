@@ -1,0 +1,23 @@
+--2020-03-02 00:17:20--  http://beldumka.belta.by/isfiles/000167_308612.pdf
+Resolving beldumka.belta.by (beldumka.belta.by)... 93.84.114.35
+Connecting to beldumka.belta.by (beldumka.belta.by)|93.84.114.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://beldumka.belta.by/isfiles/000167_308612.pdf [following]
+--2020-03-02 00:17:20--  https://beldumka.belta.by/isfiles/000167_308612.pdf
+Connecting to beldumka.belta.by (beldumka.belta.by)|93.84.114.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 423033 (413K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 6.35M 0s
+    50K .......... .......... .......... .......... .......... 24% 6.52M 0s
+   100K .......... .......... .......... .......... .......... 36% 6.13M 0s
+   150K .......... .......... .......... .......... .......... 48% 6.55M 0s
+   200K .......... .......... .......... .......... .......... 60% 6.63M 0s
+   250K .......... .......... .......... .......... .......... 72% 84.9M 0s
+   300K .......... .......... .......... .......... .......... 84% 6.51M 0s
+   350K .......... .......... .......... .......... .......... 96% 6.41M 0s
+   400K .......... ...                                        100% 1.17G=0.5s
+
+2020-03-02 00:17:21 (7.52 Mb/s) - ‘/dev/null’ saved [423033/423033]
+

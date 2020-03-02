@@ -1,0 +1,13 @@
+--2020-03-02 05:01:33--  http://www.stjames.ie/Patients/Infectionpreventioncontrol/VRE.pdf
+Resolving www.stjames.ie (www.stjames.ie)... 54.76.52.232, 52.48.229.235
+Connecting to www.stjames.ie (www.stjames.ie)|54.76.52.232|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105893 (103K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 14.7M 0s
+    50K .......... .......... .......... .......... .......... 96% 30.5M 0s
+   100K ...                                                   100%  231M=0.04s
+
+2020-03-02 05:01:33 (20.4 Mb/s) - ‘/dev/null’ saved [105893/105893]
+

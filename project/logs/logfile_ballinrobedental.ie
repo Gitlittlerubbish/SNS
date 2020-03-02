@@ -1,0 +1,11 @@
+--2020-03-02 05:01:25--  http://ballinrobedental.ie/sleep_medicine_leaflets/Epworth_Sleep.pdf
+Resolving ballinrobedental.ie (ballinrobedental.ie)... 80.93.29.10
+Connecting to ballinrobedental.ie (ballinrobedental.ie)|80.93.29.10|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 29222 (29K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ........                        100% 14.6M=0.02s
+
+2020-03-02 05:01:25 (14.6 Mb/s) - ‘/dev/null’ saved [29222/29222]
+

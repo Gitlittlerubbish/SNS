@@ -1,0 +1,16 @@
+--2020-03-02 05:09:56--  http://www.tradeboard.gov.jm/Forms/C87.pdf
+Resolving www.tradeboard.gov.jm (www.tradeboard.gov.jm)... 196.3.191.131
+Connecting to www.tradeboard.gov.jm (www.tradeboard.gov.jm)|196.3.191.131|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300848 (294K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.25M 2s
+    50K .......... .......... .......... .......... .......... 34% 2.50M 1s
+   100K .......... .......... .......... .......... .......... 51% 2.49M 1s
+   150K .......... .......... .......... .......... .......... 68% 2.39M 0s
+   200K .......... .......... .......... .......... .......... 85%  170M 0s
+   250K .......... .......... .......... .......... ...       100%  518K=1.5s
+
+2020-03-02 05:09:58 (1.58 Mb/s) - ‘/dev/null’ saved [300848/300848]
+

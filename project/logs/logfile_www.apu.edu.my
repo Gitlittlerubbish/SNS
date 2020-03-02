@@ -1,0 +1,13 @@
+--2020-03-02 07:02:12--  http://www.apu.edu.my/email_files/APU_FEE2013_Int_Degree.pdf
+Resolving www.apu.edu.my (www.apu.edu.my)... 13.228.43.83, 52.220.115.0, 52.74.227.22
+Connecting to www.apu.edu.my (www.apu.edu.my)|13.228.43.83|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113027 (110K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 1.04M 0s
+    50K .......... .......... .......... .......... .......... 90% 2.10M 0s
+   100K ..........                                            100% 69.0M=0.6s
+
+2020-03-02 07:02:13 (1.53 Mb/s) - ‘/dev/null’ saved [113027/113027]
+

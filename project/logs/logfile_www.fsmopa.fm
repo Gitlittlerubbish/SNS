@@ -1,0 +1,14 @@
+--2020-03-02 07:34:46--  http://www.fsmopa.fm/new/application.pdf
+Resolving www.fsmopa.fm (www.fsmopa.fm)... 50.63.211.1
+Connecting to www.fsmopa.fm (www.fsmopa.fm)|50.63.211.1|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166594 (163K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 2.96M 0s
+    50K .......... .......... .......... .......... .......... 61%  166M 0s
+   100K .......... .......... .......... .......... .......... 92% 2.94M 0s
+   150K .......... ..                                         100% 91.6M=0.3s
+
+2020-03-02 07:34:47 (4.74 Mb/s) - ‘/dev/null’ saved [166594/166594]
+

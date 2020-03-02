@@ -1,0 +1,13 @@
+--2020-03-02 04:29:27--  http://www.bangladeshconsulate.hk/docs/MRV_FORM.pdf
+Resolving www.bangladeshconsulate.hk (www.bangladeshconsulate.hk)... 210.87.250.180
+Connecting to www.bangladeshconsulate.hk (www.bangladeshconsulate.hk)|210.87.250.180|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124451 (122K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41%  438K 1s
+    50K .......... .......... .......... .......... .......... 82%  131M 0s
+   100K .......... .......... .                               100%  933M=0.9s
+
+2020-03-02 04:29:29 (1.06 Mb/s) - ‘/dev/null’ saved [124451/124451]
+

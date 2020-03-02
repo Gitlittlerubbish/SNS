@@ -1,0 +1,16 @@
+--2020-03-02 01:46:03--  http://www.fia.gov.kh/khmer/kh_doc/Publications/cf_conservation_area_establishing_khmer_version.pdf
+Resolving www.fia.gov.kh (www.fia.gov.kh)... 103.16.62.46
+Connecting to www.fia.gov.kh (www.fia.gov.kh)|103.16.62.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284310 (278K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 1.10M 2s
+    50K .......... .......... .......... .......... .......... 36% 2.21M 1s
+   100K .......... .......... .......... .......... .......... 54% 79.2M 0s
+   150K .......... .......... .......... .......... .......... 72%  224M 0s
+   200K .......... .......... .......... .......... .......... 90% 2.26M 0s
+   250K .......... .......... .......                         100% 46.5M=0.8s
+
+2020-03-02 01:46:04 (3.03 Mb/s) - ‘/dev/null’ saved [284310/284310]
+

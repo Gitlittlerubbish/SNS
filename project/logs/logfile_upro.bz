@@ -1,0 +1,13 @@
+--2020-03-02 00:23:14--  http://upro.bz/offices/2923.pdf
+Resolving upro.bz (upro.bz)... 176.112.200.254
+Connecting to upro.bz (upro.bz)|176.112.200.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.15M
+    50K .......... .......... .......... .......... .......... 8.19M
+   100K ..                                                      355K=0.1s
+
+2020-03-02 00:23:17 (5.63 Mb/s) - ‘/dev/null’ saved [104619]
+

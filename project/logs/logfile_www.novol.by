@@ -1,0 +1,12 @@
+--2020-03-02 00:14:10--  http://www.novol.by/upload/iblock/018/0187516b5fc5b88bcc8470210eca63c6.pdf
+Resolving www.novol.by (www.novol.by)... 93.125.99.126
+Connecting to www.novol.by (www.novol.by)|93.125.99.126|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97378 (95K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 3.22M 0s
+    50K .......... .......... .......... .......... .....     100%  477M=0.1s
+
+2020-03-02 00:14:10 (6.09 Mb/s) - ‘/dev/null’ saved [97378/97378]
+

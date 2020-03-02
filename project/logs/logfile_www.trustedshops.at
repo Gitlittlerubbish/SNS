@@ -1,0 +1,40 @@
+--2020-03-01 23:43:01--  http://www.trustedshops.at/tsdocument/CONSUMER_MEMBERSHIP_TERMS_de.pdf
+Resolving www.trustedshops.at (www.trustedshops.at)... 213.227.161.25
+Connecting to www.trustedshops.at (www.trustedshops.at)|213.227.161.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.trustedshops.com/tsdocument/CONSUMER_MEMBERSHIP_TERMS_de.pdf [following]
+--2020-03-01 23:43:01--  https://www.trustedshops.com/tsdocument/CONSUMER_MEMBERSHIP_TERMS_de.pdf
+Resolving www.trustedshops.com (www.trustedshops.com)... 213.227.161.34
+Connecting to www.trustedshops.com (www.trustedshops.com)|213.227.161.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.28M
+    50K .......... .......... .......... .......... .......... 18.4M
+   100K .......... .......... .......... .......... .......... 2.04M
+   150K .......... .......... .......... .......... .......... 5.59M
+   200K ........                                               35.2M=0.4s
+
+2020-03-01 23:43:02 (4.55 Mb/s) - ‘/dev/null’ saved [213697]
+
+--2020-03-01 23:43:04--  http://www.trustedshops.at/tsdocument/CONSUMER_MEMBERSHIP_TERMS_de.pdf
+Resolving www.trustedshops.at (www.trustedshops.at)... 213.227.161.25
+Connecting to www.trustedshops.at (www.trustedshops.at)|213.227.161.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.trustedshops.com/tsdocument/CONSUMER_MEMBERSHIP_TERMS_de.pdf [following]
+--2020-03-01 23:43:04--  https://www.trustedshops.com/tsdocument/CONSUMER_MEMBERSHIP_TERMS_de.pdf
+Resolving www.trustedshops.com (www.trustedshops.com)... 213.227.161.34
+Connecting to www.trustedshops.com (www.trustedshops.com)|213.227.161.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 3.12M
+    50K .......... .......... .......... .......... .......... 4.73M
+   100K .......... .......... .......... .......... .......... 5.21M
+   150K .......... .......... .......... .......... .......... 9.85M
+   200K ........                                               7.10M=0.3s
+
+2020-03-01 23:43:05 (4.91 Mb/s) - ‘/dev/null’ saved [213697]
+

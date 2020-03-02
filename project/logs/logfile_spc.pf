@@ -1,0 +1,16 @@
+--2020-03-02 03:50:36--  http://spc.pf/sites/default/files/biographie_cyril_tetuanui.pdf
+Resolving spc.pf (spc.pf)... 51.75.22.199
+Connecting to spc.pf (spc.pf)|51.75.22.199|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://spc.pf/sites/default/files/biographie_cyril_tetuanui.pdf [following]
+--2020-03-02 03:50:36--  https://spc.pf/sites/default/files/biographie_cyril_tetuanui.pdf
+Connecting to spc.pf (spc.pf)|51.75.22.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73054 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 52.1M 0s
+    50K .......... .......... .                               100%  861M=0.008s
+
+2020-03-02 03:50:36 (72.5 Mb/s) - ‘/dev/null’ saved [73054/73054]
+

@@ -1,0 +1,16 @@
+--2020-03-02 05:01:12--  http://www.colaisteris.ie/files/ucastermsexplained.pdf
+Resolving www.colaisteris.ie (www.colaisteris.ie)... 207.55.255.20
+Connecting to www.colaisteris.ie (www.colaisteris.ie)|207.55.255.20|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 260716 (255K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 14.8M 0s
+    50K .......... .......... .......... .......... .......... 39% 29.7M 0s
+   100K .......... .......... .......... .......... .......... 58%  106M 0s
+   150K .......... .......... .......... .......... .......... 78%  121M 0s
+   200K .......... .......... .......... .......... .......... 98% 29.9M 0s
+   250K ....                                                  100%  755K=0.06s
+
+2020-03-02 05:01:12 (33.4 Mb/s) - ‘/dev/null’ saved [260716/260716]
+

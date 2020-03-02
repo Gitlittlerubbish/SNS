@@ -1,0 +1,11 @@
+--2020-03-01 22:26:52--  http://www.anem.dz/ressources/files/recherche_active/FRAE%2520CTA%2520Fr.pdf
+Resolving www.anem.dz (www.anem.dz)... 197.112.0.111
+Connecting to www.anem.dz (www.anem.dz)|197.112.0.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  132M=0s
+
+2020-03-01 22:26:52 (132 Mb/s) - ‘/dev/null’ saved [247/247]
+

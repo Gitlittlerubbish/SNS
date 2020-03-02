@@ -1,0 +1,18 @@
+--2020-03-02 05:29:37--  http://profiles.uonbi.ac.ke/npatel/files/chapter_3_physiology_of_pain_.pdf
+Resolving profiles.uonbi.ac.ke (profiles.uonbi.ac.ke)... 41.204.161.213
+Connecting to profiles.uonbi.ac.ke (profiles.uonbi.ac.ke)|41.204.161.213|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://profiles.uonbi.ac.ke/npatel/files/chapter_3_physiology_of_pain_.pdf [following]
+--2020-03-02 05:29:38--  https://profiles.uonbi.ac.ke/npatel/files/chapter_3_physiology_of_pain_.pdf
+Connecting to profiles.uonbi.ac.ke (profiles.uonbi.ac.ke)|41.204.161.213|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.39M
+    50K .......... .......... .......... .......... .......... 2.79M
+   100K .......... .......... .......... .......... ..........  139M
+   150K .......... ........                                     703M=0.4s
+
+2020-03-02 05:29:39 (3.10 Mb/s) - ‘/dev/null’ saved [172228]
+

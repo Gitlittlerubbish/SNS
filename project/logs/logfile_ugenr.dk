@@ -1,0 +1,19 @@
+--2020-03-02 03:04:08--  http://ugenr.dk/kalender/2019.pdf
+Resolving ugenr.dk (ugenr.dk)... 5.35.245.157
+Connecting to ugenr.dk (ugenr.dk)|5.35.245.157|:80... connected.
+HTTP request sent, awaiting response... 301 Moved permanently to HTTPS
+Location: https://ugenr.dk/kalender/2019.pdf [following]
+--2020-03-02 03:04:08--  https://ugenr.dk/kalender/2019.pdf
+Connecting to ugenr.dk (ugenr.dk)|5.35.245.157|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210050 (205K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 11.6M 0s
+    50K .......... .......... .......... .......... .......... 48% 14.0M 0s
+   100K .......... .......... .......... .......... .......... 73% 91.6M 0s
+   150K .......... .......... .......... .......... .......... 97% 28.8M 0s
+   200K .....                                                 100%  500M=0.08s
+
+2020-03-02 03:04:08 (20.2 Mb/s) - ‘/dev/null’ saved [210050/210050]
+

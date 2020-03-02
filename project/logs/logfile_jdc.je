@@ -1,0 +1,16 @@
+--2020-03-02 05:22:24--  http://jdc.je/wp-content/uploads/2016/09/Natasha_I_Smith.pdf
+Resolving jdc.je (jdc.je)... 51.254.112.36
+Connecting to jdc.je (jdc.je)|51.254.112.36|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://jdc.je/wp-content/uploads/2016/09/Natasha_I_Smith.pdf [following]
+--2020-03-02 05:22:24--  https://jdc.je/wp-content/uploads/2016/09/Natasha_I_Smith.pdf
+Connecting to jdc.je (jdc.je)|51.254.112.36|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75622 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 67% 8.70M 0s
+    50K .......... .......... ...                             100% 1.24G=0.05s
+
+2020-03-02 05:22:25 (12.8 Mb/s) - ‘/dev/null’ saved [75622/75622]
+

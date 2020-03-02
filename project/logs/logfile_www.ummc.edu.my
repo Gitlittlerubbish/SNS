@@ -1,0 +1,14 @@
+--2020-03-02 07:08:03--  http://www.ummc.edu.my/files/pdpa/PRIVACYNOTICE.pdf
+Resolving www.ummc.edu.my (www.ummc.edu.my)... 103.18.0.204, 175.143.6.155
+Connecting to www.ummc.edu.my (www.ummc.edu.my)|103.18.0.204|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 162906 (159K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31%  380K 2s
+    50K .......... .......... .......... .......... .......... 62% 1.04M 1s
+   100K .......... .......... .......... .......... .......... 94%  627M 0s
+   150K .........                                             100%  801M=1.5s
+
+2020-03-02 07:08:05 (884 Kb/s) - ‘/dev/null’ saved [162906/162906]
+

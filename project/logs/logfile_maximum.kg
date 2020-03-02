@@ -1,0 +1,14 @@
+--2020-03-02 06:06:28--  http://maximum.kg/files/snformsti150.pdf
+Resolving maximum.kg (maximum.kg)... 136.243.143.126
+Connecting to maximum.kg (maximum.kg)|136.243.143.126|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 185476 (181K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 8.75M 0s
+    50K .......... .......... .......... .......... .......... 55% 18.7M 0s
+   100K .......... .......... .......... .......... .......... 82% 87.9M 0s
+   150K .......... .......... .......... .                    100%  470M=0.07s
+
+2020-03-02 06:06:28 (20.1 Mb/s) - ‘/dev/null’ saved [185476/185476]
+

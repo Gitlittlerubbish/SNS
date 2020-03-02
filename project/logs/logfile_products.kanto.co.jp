@@ -1,0 +1,15 @@
+--2020-03-02 05:19:19--  http://products.kanto.co.jp/products/denshi/pdf/denshi_sdsjmethanol01.pdf
+Resolving products.kanto.co.jp (products.kanto.co.jp)... 52.197.134.249
+Connecting to products.kanto.co.jp (products.kanto.co.jp)|52.197.134.249|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 206095 (201K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  666K 2s
+    50K .......... .......... .......... .......... .......... 49% 1.33M 1s
+   100K .......... .......... .......... .......... .......... 74% 1.35M 0s
+   150K .......... .......... .......... .......... .......... 99% 1.32M 0s
+   200K .                                                     100%  207K=1.5s
+
+2020-03-02 05:19:21 (1.07 Mb/s) - ‘/dev/null’ saved [206095/206095]
+

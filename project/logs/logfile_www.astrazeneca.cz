@@ -1,0 +1,16 @@
+--2020-03-02 03:03:18--  http://www.astrazeneca.cz/betaloc/Betaloc_ZOK_SPC.pdf
+Resolving www.astrazeneca.cz (www.astrazeneca.cz)... 185.8.165.67
+Connecting to www.astrazeneca.cz (www.astrazeneca.cz)|185.8.165.67|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284533 (278K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 8.03M 0s
+    50K .......... .......... .......... .......... .......... 35% 14.4M 0s
+   100K .......... .......... .......... .......... .......... 53% 15.0M 0s
+   150K .......... .......... .......... .......... .......... 71% 15.9M 0s
+   200K .......... .......... .......... .......... .......... 89% 32.7M 0s
+   250K .......... .......... .......                         100% 18.1M=0.2s
+
+2020-03-02 03:03:18 (14.4 Mb/s) - ‘/dev/null’ saved [284533/284533]
+

@@ -1,0 +1,15 @@
+--2020-03-02 07:27:51--  http://www.anestesia.com.mx/edema.pdf
+Resolving www.anestesia.com.mx (www.anestesia.com.mx)... 148.72.3.159
+Connecting to www.anestesia.com.mx (www.anestesia.com.mx)|148.72.3.159|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.anestesia.com.mx/cgi-sys/suspendedpage.cgi [following]
+--2020-03-02 07:27:52--  http://www.anestesia.com.mx/cgi-sys/suspendedpage.cgi
+Reusing existing connection to www.anestesia.com.mx:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                                9.78M=0.006s
+
+2020-03-02 07:27:52 (9.78 Mb/s) - ‘/dev/null’ saved [7590]
+

@@ -1,0 +1,13 @@
+--2020-03-02 04:02:34--  http://www.gcaa.com.gh/web/wp-content/uploads/2018/Act_678.pdf
+Resolving www.gcaa.com.gh (www.gcaa.com.gh)... 80.87.68.212
+Connecting to www.gcaa.com.gh (www.gcaa.com.gh)|80.87.68.212|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124345 (121K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41%  796K 1s
+    50K .......... .......... .......... .......... .......... 82% 1.97M 0s
+   100K .......... .......... .                               100% 1.78M=0.8s
+
+2020-03-02 04:02:35 (1.21 Mb/s) - ‘/dev/null’ saved [124345/124345]
+

@@ -1,0 +1,13 @@
+--2020-03-02 04:13:03--  http://www.munisanlucas.gob.gt/Leyes/04LeydeServicioCivil.pdf
+Resolving www.munisanlucas.gob.gt (www.munisanlucas.gob.gt)... 23.229.190.37
+Connecting to www.munisanlucas.gob.gt (www.munisanlucas.gob.gt)|23.229.190.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124749 (122K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 1.47M 0s
+    50K .......... .......... .......... .......... .......... 82% 2.89M 0s
+   100K .......... .......... .                               100% 1.31M=0.6s
+
+2020-03-02 04:13:03 (1.79 Mb/s) - ‘/dev/null’ saved [124749/124749]
+

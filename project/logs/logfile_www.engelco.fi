@@ -1,0 +1,12 @@
+--2020-03-02 03:44:47--  http://www.engelco.fi/docs/Kytk_ST5122.pdf
+Resolving www.engelco.fi (www.engelco.fi)... 195.197.95.171
+Connecting to www.engelco.fi (www.engelco.fi)|195.197.95.171|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66332 (65K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 77% 4.58M 0s
+    50K .......... ....                                       100%  119M=0.09s
+
+2020-03-02 03:44:48 (5.87 Mb/s) - ‘/dev/null’ saved [66332/66332]
+

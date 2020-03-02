@@ -1,0 +1,16 @@
+--2020-03-01 23:04:45--  http://synaxon.ag/2017/HV_Einladung_Synaxon_AG_2017.pdf
+Resolving synaxon.ag (synaxon.ag)... 62.113.231.195
+Connecting to synaxon.ag (synaxon.ag)|62.113.231.195|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://synaxon.ag/2017/HV_Einladung_Synaxon_AG_2017.pdf [following]
+--2020-03-01 23:04:45--  https://synaxon.ag/2017/HV_Einladung_Synaxon_AG_2017.pdf
+Connecting to synaxon.ag (synaxon.ag)|62.113.231.195|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97250 (95K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 19.7M 0s
+    50K .......... .......... .......... .......... ....      100%  666M=0.02s
+
+2020-03-01 23:04:45 (36.4 Mb/s) - ‘/dev/null’ saved [97250/97250]
+

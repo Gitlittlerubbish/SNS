@@ -1,0 +1,15 @@
+--2020-03-02 03:04:53--  http://www.basisbank.dk/docs/Tryghedsforsikring.pdf
+Resolving www.basisbank.dk (www.basisbank.dk)... 62.243.7.8
+Connecting to www.basisbank.dk (www.basisbank.dk)|62.243.7.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.basisbank.dk/docs/Tryghedsforsikring.pdf [following]
+--2020-03-02 03:04:53--  https://www.basisbank.dk/docs/Tryghedsforsikring.pdf
+Connecting to www.basisbank.dk (www.basisbank.dk)|62.243.7.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51053 (50K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......... 100% 10.0M=0.04s
+
+2020-03-02 03:04:53 (10.0 Mb/s) - ‘/dev/null’ saved [51053/51053]
+

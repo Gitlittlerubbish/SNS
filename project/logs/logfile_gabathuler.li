@@ -1,0 +1,11 @@
+--2020-03-02 06:25:52--  http://gabathuler.li/history/2005IndividualResults.pdf
+Resolving gabathuler.li (gabathuler.li)... 80.74.142.120
+Connecting to gabathuler.li (gabathuler.li)|80.74.142.120|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18387 (18K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                    100% 4.42M=0.03s
+
+2020-03-02 06:25:52 (4.42 Mb/s) - ‘/dev/null’ saved [18387/18387]
+

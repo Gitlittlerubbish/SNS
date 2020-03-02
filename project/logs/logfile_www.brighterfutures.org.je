@@ -1,0 +1,19 @@
+--2020-03-02 05:22:23--  http://www.brighterfutures.org.je/media/1115/administrator-job-description.pdf
+Resolving www.brighterfutures.org.je (www.brighterfutures.org.je)... 54.246.135.146
+Connecting to www.brighterfutures.org.je (www.brighterfutures.org.je)|54.246.135.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.brighterfutures.org.je/media/1115/administrator-job-description.pdf [following]
+--2020-03-02 05:22:23--  https://www.brighterfutures.org.je/media/1115/administrator-job-description.pdf
+Connecting to www.brighterfutures.org.je (www.brighterfutures.org.je)|54.246.135.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 209337 (204K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 15.3M 0s
+    50K .......... .......... .......... .......... .......... 48%  157M 0s
+   100K .......... .......... .......... .......... .......... 73% 32.3M 0s
+   150K .......... .......... .......... .......... .......... 97%  157M 0s
+   200K ....                                                  100%  726K=0.04s
+
+2020-03-02 05:22:24 (37.5 Mb/s) - ‘/dev/null’ saved [209337/209337]
+

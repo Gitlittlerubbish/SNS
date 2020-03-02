@@ -1,0 +1,13 @@
+--2020-03-02 08:02:45--  http://www.ncaa.com.na/Notam/Notam-Bulletin.pdf
+Resolving www.ncaa.com.na (www.ncaa.com.na)... 197.188.244.78
+Connecting to www.ncaa.com.na (www.ncaa.com.na)|197.188.244.78|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 119239 (116K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 1.32M 0s
+    50K .......... .......... .......... .......... .......... 85% 2.61M 0s
+   100K .......... ......                                     100%  783M=0.5s
+
+2020-03-02 08:02:46 (2.04 Mb/s) - ‘/dev/null’ saved [119239/119239]
+

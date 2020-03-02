@@ -1,0 +1,13 @@
+--2020-03-02 03:58:22--  http://kpc.ge/pdf/farmacia.pdf
+Resolving kpc.ge (kpc.ge)... 213.157.205.208
+Connecting to kpc.ge (kpc.ge)|213.157.205.208|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149054 (146K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 2.93M 0s
+    50K .......... .......... .......... .......... .......... 68% 2.98M 0s
+   100K .......... .......... .......... .......... .....     100% 5.58M=0.3s
+
+2020-03-02 03:58:24 (3.46 Mb/s) - ‘/dev/null’ saved [149054/149054]
+

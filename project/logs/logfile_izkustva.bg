@@ -1,0 +1,19 @@
+--2020-03-02 01:31:06--  http://izkustva.bg/pdf/Distribution_Music3.pdf
+Resolving izkustva.bg (izkustva.bg)... 164.138.218.177
+Connecting to izkustva.bg (izkustva.bg)|164.138.218.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://izkustva.bg/pdf/Distribution_Music3.pdf [following]
+--2020-03-02 01:31:06--  https://izkustva.bg/pdf/Distribution_Music3.pdf
+Connecting to izkustva.bg (izkustva.bg)|164.138.218.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225847 (221K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 4.82M 0s
+    50K .......... .......... .......... .......... .......... 45% 9.32M 0s
+   100K .......... .......... .......... .......... .......... 68%  133M 0s
+   150K .......... .......... .......... .......... .......... 90%  302M 0s
+   200K .......... ..........                                 100% 4.44M=0.2s
+
+2020-03-02 01:31:06 (10.5 Mb/s) - ‘/dev/null’ saved [225847/225847]
+

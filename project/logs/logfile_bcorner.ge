@@ -1,0 +1,13 @@
+--2020-03-02 03:57:55--  http://bcorner.ge/Upload/S9100_IB_UK_T22_0004877_4727f3e7.pdf
+Resolving bcorner.ge (bcorner.ge)... 51.91.127.193
+Connecting to bcorner.ge (bcorner.ge)|51.91.127.193|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130440 (127K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 8.47M 0s
+    50K .......... .......... .......... .......... .......... 78% 18.2M 0s
+   100K .......... .......... .......                         100%  102M=0.07s
+
+2020-03-02 03:57:55 (14.3 Mb/s) - ‘/dev/null’ saved [130440/130440]
+

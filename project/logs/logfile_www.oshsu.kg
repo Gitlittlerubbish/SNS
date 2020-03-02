@@ -1,0 +1,11 @@
+--2020-03-02 06:07:07--  http://www.oshsu.kg/kadr_test_q/pdf/27.pdf
+Resolving www.oshsu.kg (www.oshsu.kg)... 212.42.122.69
+Connecting to www.oshsu.kg (www.oshsu.kg)|212.42.122.69|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 45.2M=0s
+
+2020-03-02 06:07:07 (45.2 Mb/s) - ‘/dev/null’ saved [113/113]
+

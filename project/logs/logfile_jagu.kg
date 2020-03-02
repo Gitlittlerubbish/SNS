@@ -1,0 +1,13 @@
+--2020-03-02 06:08:07--  http://jagu.kg/user_files/gazeta/files/173.pdf
+Resolving jagu.kg (jagu.kg)... 195.38.168.122
+Connecting to jagu.kg (jagu.kg)|195.38.168.122|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136733 (134K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.71M 0s
+    50K .......... .......... .......... .......... .......... 74% 3.99M 0s
+   100K .......... .......... .......... ...                  100% 5.81M=0.4s
+
+2020-03-02 06:08:07 (2.81 Mb/s) - ‘/dev/null’ saved [136733/136733]
+

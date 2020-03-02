@@ -1,0 +1,22 @@
+--2020-03-01 23:43:09--  http://www.bruckmur.at/pdf/Info_Service2017_07.pdf
+Resolving www.bruckmur.at (www.bruckmur.at)... 81.19.159.58
+Connecting to www.bruckmur.at (www.bruckmur.at)|81.19.159.58|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bruckmur.at/pdf/Info_Service2017_07.pdf [following]
+--2020-03-01 23:43:09--  https://www.bruckmur.at/pdf/Info_Service2017_07.pdf
+Connecting to www.bruckmur.at (www.bruckmur.at)|81.19.159.58|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 383466 (374K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 5.46M 0s
+    50K .......... .......... .......... .......... .......... 26% 10.7M 0s
+   100K .......... .......... .......... .......... .......... 40%  337M 0s
+   150K .......... .......... .......... .......... .......... 53%  216M 0s
+   200K .......... .......... .......... .......... .......... 66% 11.0M 0s
+   250K .......... .......... .......... .......... .......... 80%  136M 0s
+   300K .......... .......... .......... .......... .......... 93% 14.1M 0s
+   350K .......... .......... ....                            100% 47.2M=0.2s
+
+2020-03-01 23:43:10 (16.1 Mb/s) - ‘/dev/null’ saved [383466/383466]
+

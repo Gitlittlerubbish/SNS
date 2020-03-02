@@ -1,0 +1,15 @@
+--2020-03-02 03:45:44--  http://lohja.emmi.fi/l/6mMdMnPmpCR8
+Resolving lohja.emmi.fi (lohja.emmi.fi)... 213.255.182.79
+Connecting to lohja.emmi.fi (lohja.emmi.fi)|213.255.182.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lohja.emmi.fi/l/6mMdMnPmpCR8 [following]
+--2020-03-02 03:45:44--  https://lohja.emmi.fi/l/6mMdMnPmpCR8
+Connecting to lohja.emmi.fi (lohja.emmi.fi)|213.255.182.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19878 (19K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                  100%  616M=0s
+
+2020-03-02 03:45:44 (616 Mb/s) - ‘/dev/null’ saved [19878/19878]
+

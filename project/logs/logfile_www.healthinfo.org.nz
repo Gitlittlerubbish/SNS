@@ -1,0 +1,18 @@
+--2020-03-02 08:27:57--  http://www.healthinfo.org.nz/patientinfo/110997.pdf
+Resolving www.healthinfo.org.nz (www.healthinfo.org.nz)... 202.124.113.88
+Connecting to www.healthinfo.org.nz (www.healthinfo.org.nz)|202.124.113.88|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://www.healthinfo.org.nz/patientinfo/110997.pdf [following]
+--2020-03-02 08:27:59--  https://www.healthinfo.org.nz/patientinfo/110997.pdf
+Connecting to www.healthinfo.org.nz (www.healthinfo.org.nz)|202.124.113.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204548 (200K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 1.31M 1s
+    50K .......... .......... .......... .......... .......... 50% 1.34M 1s
+   100K .......... .......... .......... .......... .......... 75% 1.44M 0s
+   150K .......... .......... .......... .......... ......... 100%  474M=0.9s
+
+2020-03-02 08:28:01 (1.82 Mb/s) - ‘/dev/null’ saved [204548/204548]
+

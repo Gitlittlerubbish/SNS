@@ -1,0 +1,24 @@
+--2020-03-02 04:00:35--  http://mailservice.wiwo.de/i/M5kCgHFz3FagKY567I6l77THHzKWdehc
+Resolving mailservice.wiwo.de (mailservice.wiwo.de)... 212.6.132.213
+Connecting to mailservice.wiwo.de (mailservice.wiwo.de)|212.6.132.213|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www-management.wharton.upenn.edu/pennings/documents/Hensderson_and_Clark_ASQ_1990.pdf [following]
+--2020-03-02 04:00:35--  http://www-management.wharton.upenn.edu/pennings/documents/Hensderson_and_Clark_ASQ_1990.pdf
+Resolving www-management.wharton.upenn.edu (www-management.wharton.upenn.edu)... 128.91.119.37
+Connecting to www-management.wharton.upenn.edu (www-management.wharton.upenn.edu)|128.91.119.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 417129 (407K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 1.11M 3s
+    50K .......... .......... .......... .......... .......... 24% 3.46M 1s
+   100K .......... .......... .......... .......... .......... 36%  103M 1s
+   150K .......... .......... .......... .......... .......... 49% 6.64M 1s
+   200K .......... .......... .......... .......... .......... 61% 6.86M 0s
+   250K .......... .......... .......... .......... .......... 73%  128M 0s
+   300K .......... .......... .......... .......... .......... 85% 11.5M 0s
+   350K .......... .......... .......... .......... .......... 98% 6.80M 0s
+   400K .......                                               100%  474M=0.7s
+
+2020-03-02 04:00:37 (4.69 Mb/s) - ‘/dev/null’ saved [417129/417129]
+

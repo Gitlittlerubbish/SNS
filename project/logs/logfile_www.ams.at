@@ -1,0 +1,20 @@
+--2020-03-01 23:42:31--  http://www.ams.at/_eservice_docs/FAQ_SfU.pdf
+Resolving www.ams.at (www.ams.at)... 194.37.230.4
+Connecting to www.ams.at (www.ams.at)|194.37.230.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ams.at/_eservice_docs/FAQ_SfU.pdf [following]
+--2020-03-01 23:42:31--  https://www.ams.at/_eservice_docs/FAQ_SfU.pdf
+Connecting to www.ams.at (www.ams.at)|194.37.230.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283754 (277K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 6.95M 0s
+    50K .......... .......... .......... .......... .......... 36% 13.6M 0s
+   100K .......... .......... .......... .......... .......... 54%  101M 0s
+   150K .......... .......... .......... .......... .......... 72% 16.2M 0s
+   200K .......... .......... .......... .......... .......... 90%  108M 0s
+   250K .......... .......... .......                         100%  424M=0.1s
+
+2020-03-01 23:42:31 (18.5 Mb/s) - ‘/dev/null’ saved [283754/283754]
+

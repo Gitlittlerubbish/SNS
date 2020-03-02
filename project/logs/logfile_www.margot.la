@@ -1,0 +1,22 @@
+--2020-03-02 06:11:14--  http://www.margot.la/s/Dinner-61419.pdf
+Resolving www.margot.la (www.margot.la)... 198.185.159.144, 198.185.159.145, 198.49.23.144, ...
+Connecting to www.margot.la (www.margot.la)|198.185.159.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.margot.la/s/Dinner-61419.pdf [following]
+--2020-03-02 06:11:14--  https://www.margot.la/s/Dinner-61419.pdf
+Connecting to www.margot.la (www.margot.la)|198.185.159.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/5b4945f696d45566c16e50b0/t/5d152548406533000198e083/1561666888383/Dinner+6.14.19.pdf [following]
+--2020-03-02 06:11:15--  https://static1.squarespace.com/static/5b4945f696d45566c16e50b0/t/5d152548406533000198e083/1561666888383/Dinner+6.14.19.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112191 (110K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 42.4M 0s
+    50K .......... .......... .......... .......... .......... 91% 72.3M 0s
+   100K .........                                             100% 1.06G=0.02s
+
+2020-03-02 06:11:15 (58.3 Mb/s) - ‘/dev/null’ saved [112191/112191]
+

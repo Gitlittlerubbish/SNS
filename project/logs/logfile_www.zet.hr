@@ -1,0 +1,32 @@
+--2020-03-02 02:55:12--  http://www.zet.hr/UserDocsImages/voznired/14.pdf
+Resolving www.zet.hr (www.zet.hr)... 91.235.170.172
+Connecting to www.zet.hr (www.zet.hr)|91.235.170.172|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.zet.hr/UserDocsImages/voznired/14.pdf [following]
+--2020-03-02 02:55:12--  https://www.zet.hr/UserDocsImages/voznired/14.pdf
+Connecting to www.zet.hr (www.zet.hr)|91.235.170.172|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113256 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 4.39M 0s
+    50K .......... .......... .......... .......... .......... 90%  163M 0s
+   100K ..........                                            100% 1.55G=0.1s
+
+2020-03-02 02:55:12 (9.44 Mb/s) - ‘/dev/null’ saved [113256/113256]
+
+--2020-03-02 02:55:12--  http://www.zet.hr/UserDocsImages/voznired/279.pdf
+Resolving www.zet.hr (www.zet.hr)... 91.235.170.172
+Connecting to www.zet.hr (www.zet.hr)|91.235.170.172|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.zet.hr/UserDocsImages/voznired/279.pdf [following]
+--2020-03-02 02:55:12--  https://www.zet.hr/UserDocsImages/voznired/279.pdf
+Connecting to www.zet.hr (www.zet.hr)|91.235.170.172|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49557 (48K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........  100% 8.33M=0.05s
+
+2020-03-02 02:55:13 (8.33 Mb/s) - ‘/dev/null’ saved [49557/49557]
+

@@ -1,0 +1,22 @@
+--2020-03-02 04:19:01--  http://medicalcouncil.org.gy/doctors/Continuing_Medical_Education_Guidelines.pdf
+Resolving medicalcouncil.org.gy (medicalcouncil.org.gy)... 35.208.201.212
+Connecting to medicalcouncil.org.gy (medicalcouncil.org.gy)|35.208.201.212|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21619 (21K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                               100% 1.74M=0.1s
+
+2020-03-02 04:19:02 (1.74 Mb/s) - ‘/dev/null’ saved [21619/21619]
+
+--2020-03-02 04:19:02--  http://medicalcouncil.org.gy/doctors/Request_for_Good_Standing_Certificate.pdf
+Resolving medicalcouncil.org.gy (medicalcouncil.org.gy)... 35.208.201.212
+Connecting to medicalcouncil.org.gy (medicalcouncil.org.gy)|35.208.201.212|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32391 (32K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .                    100% 2.64M=0.1s
+
+2020-03-02 04:19:02 (2.64 Mb/s) - ‘/dev/null’ saved [32391/32391]
+

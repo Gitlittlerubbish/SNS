@@ -1,0 +1,20 @@
+--2020-03-01 23:48:04--  http://azertag.az/files/sumqait-book.pdf
+Resolving azertag.az (azertag.az)... 104.26.0.198, 104.26.1.198
+Connecting to azertag.az (azertag.az)|104.26.0.198|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://azertag.az/files/sumqait-book.pdf [following]
+--2020-03-01 23:48:04--  https://azertag.az/files/sumqait-book.pdf
+Connecting to azertag.az (azertag.az)|104.26.0.198|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 288633 (282K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 73.2M 0s
+    50K .......... .......... .......... .......... .......... 35%  397M 0s
+   100K .......... .......... .......... .......... .......... 53%  419M 0s
+   150K .......... .......... .......... .......... .......... 70%  134M 0s
+   200K .......... .......... .......... .......... .......... 88%  350M 0s
+   250K .......... .......... .......... .                    100%  132M=0.01s
+
+2020-03-01 23:48:04 (167 Mb/s) - ‘/dev/null’ saved [288633/288633]
+

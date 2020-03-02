@@ -1,0 +1,19 @@
+--2020-03-02 05:01:22--  http://www.qqi.ie/Downloads/principlesandoperguidelinesgreen.pdf
+Resolving www.qqi.ie (www.qqi.ie)... 40.69.42.14
+Connecting to www.qqi.ie (www.qqi.ie)|40.69.42.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.qqi.ie/Downloads/principlesandoperguidelinesgreen.pdf [following]
+--2020-03-02 05:01:22--  https://www.qqi.ie/Downloads/principlesandoperguidelinesgreen.pdf
+Connecting to www.qqi.ie (www.qqi.ie)|40.69.42.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218237 (213K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 14.3M 0s
+    50K .......... .......... .......... .......... .......... 46% 30.7M 0s
+   100K .......... .......... .......... .......... .......... 70%  165M 0s
+   150K .......... .......... .......... .......... .......... 93%  129M 0s
+   200K .......... ...                                        100% 15.2M=0.05s
+
+2020-03-02 05:01:22 (31.9 Mb/s) - ‘/dev/null’ saved [218237/218237]
+

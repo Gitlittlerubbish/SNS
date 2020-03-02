@@ -1,0 +1,12 @@
+--2020-03-02 04:22:07--  http://sccup.idv.hm/SCCup/doc/2015-16_schedule_update.pdf
+Resolving sccup.idv.hm (sccup.idv.hm)... 162.217.144.39
+Connecting to sccup.idv.hm (sccup.idv.hm)|162.217.144.39|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87007 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58% 1.72M 0s
+    50K .......... .......... .......... ....                 100% 3.58M=0.3s
+
+2020-03-02 04:22:08 (2.18 Mb/s) - ‘/dev/null’ saved [87007/87007]
+

@@ -1,0 +1,39 @@
+--2020-03-02 03:58:21--  http://www.companyinfo.ge/uploads/docs/36344/363449-B11042002.pdf
+Resolving www.companyinfo.ge (www.companyinfo.ge)... 217.147.239.8
+Connecting to www.companyinfo.ge (www.companyinfo.ge)|217.147.239.8|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.companyinfo.ge/uploads/docs/36344/363449-B11042002.pdf [following]
+--2020-03-02 03:58:21--  https://www.companyinfo.ge/uploads/docs/36344/363449-B11042002.pdf
+Connecting to www.companyinfo.ge (www.companyinfo.ge)|217.147.239.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 26371 (26K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .....                           100% 2.89M=0.07s
+
+2020-03-02 03:58:22 (2.89 Mb/s) - ‘/dev/null’ saved [26371/26371]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 03:58:24--  https://www.companyinfo.ge/uploads/docs/10238/10238658-B14084580.pdf
+Resolving www.companyinfo.ge (www.companyinfo.ge)... 217.147.239.8
+Connecting to www.companyinfo.ge (www.companyinfo.ge)|217.147.239.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40302 (39K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .........            100% 4.40M=0.07s
+
+2020-03-02 03:58:25 (4.40 Mb/s) - ‘/dev/null’ saved [40302/40302]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 03:58:25--  https://www.companyinfo.ge/uploads/docs/10313/10313043-B15229756.pdf
+Resolving www.companyinfo.ge (www.companyinfo.ge)... 217.147.239.8
+Connecting to www.companyinfo.ge (www.companyinfo.ge)|217.147.239.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37650 (37K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100% 4.17M=0.07s
+
+2020-03-02 03:58:26 (4.17 Mb/s) - ‘/dev/null’ saved [37650/37650]
+

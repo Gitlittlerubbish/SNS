@@ -1,0 +1,17 @@
+--2020-03-02 01:01:49--  http://www.hennlich.ba/uploads/Flachdichtungen_de22.pdf
+Resolving www.hennlich.ba (www.hennlich.ba)... 213.174.241.131
+Connecting to www.hennlich.ba (www.hennlich.ba)|213.174.241.131|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hennlich.ba/uploads/Flachdichtungen_de22.pdf [following]
+--2020-03-02 01:01:50--  https://www.hennlich.ba/uploads/Flachdichtungen_de22.pdf
+Connecting to www.hennlich.ba (www.hennlich.ba)|213.174.241.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 115922 (113K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44% 8.78M 0s
+    50K .......... .......... .......... .......... .......... 88% 8.71M 0s
+   100K .......... ...                                        100%  716M=0.09s
+
+2020-03-02 01:01:50 (9.88 Mb/s) - ‘/dev/null’ saved [115922/115922]
+

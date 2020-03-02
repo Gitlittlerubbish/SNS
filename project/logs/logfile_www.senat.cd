@@ -1,0 +1,13 @@
+--2020-03-02 02:34:59--  http://www.senat.cd/discours/discours_ouverture_so_septembre_2011.pdf
+Resolving www.senat.cd (www.senat.cd)... 83.166.138.19
+Connecting to www.senat.cd (www.senat.cd)|83.166.138.19|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103843 (101K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 7.79M 0s
+    50K .......... .......... .......... .......... .......... 98% 14.7M 0s
+   100K .                                                     100%  231K=0.08s
+
+2020-03-02 02:35:00 (10.3 Mb/s) - ‘/dev/null’ saved [103843/103843]
+

@@ -1,0 +1,11 @@
+--2020-03-02 08:13:10--  http://fncci.org.np/old/text/trade_industry_tax.pdf
+Resolving fncci.org.np (fncci.org.np)... 104.27.151.37, 104.27.150.37
+Connecting to fncci.org.np (fncci.org.np)|104.27.151.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41635 (41K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..........           100%  502M=0.001s
+
+2020-03-02 08:13:11 (502 Mb/s) - ‘/dev/null’ saved [41635/41635]
+

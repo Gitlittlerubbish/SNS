@@ -1,0 +1,30 @@
+--2020-03-02 04:47:34--  http://jdih.kpu.go.id/countpkpu-5a4d54577041253344253344
+Resolving jdih.kpu.go.id (jdih.kpu.go.id)... 103.21.228.221
+Connecting to jdih.kpu.go.id (jdih.kpu.go.id)|103.21.228.221|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jdih.kpu.go.id/countpkpu-5a4d54577041253344253344 [following]
+--2020-03-02 04:47:36--  https://jdih.kpu.go.id/countpkpu-5a4d54577041253344253344
+Connecting to jdih.kpu.go.id (jdih.kpu.go.id)|103.21.228.221|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                                305M=0s
+
+2020-03-02 04:47:38 (305 Mb/s) - ‘/dev/null’ saved [9187]
+
+--2020-03-02 04:47:38--  http://jdih.kpu.go.id/countpkpu-426554577051253344253344
+Resolving jdih.kpu.go.id (jdih.kpu.go.id)... 103.21.228.221
+Connecting to jdih.kpu.go.id (jdih.kpu.go.id)|103.21.228.221|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jdih.kpu.go.id/countpkpu-426554577051253344253344 [following]
+--2020-03-02 04:47:41--  https://jdih.kpu.go.id/countpkpu-426554577051253344253344
+Connecting to jdih.kpu.go.id (jdih.kpu.go.id)|103.21.228.221|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                                313M=0s
+
+2020-03-02 04:47:44 (313 Mb/s) - ‘/dev/null’ saved [9185]
+

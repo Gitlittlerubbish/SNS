@@ -1,0 +1,32 @@
+--2020-03-02 04:37:42--  http://www.biocenter.hu/pdf/26616.pdf
+Resolving www.biocenter.hu (www.biocenter.hu)... 185.33.54.6
+Connecting to www.biocenter.hu (www.biocenter.hu)|185.33.54.6|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.84M
+    50K .......... .......... .......... .......... .......... 10.1M
+   100K .......... .......... .......... .......... .......... 69.2M
+   150K .......... .......... .......... .......... ..........  462M
+   200K .......... .......... .......... .......... .......... 10.4M
+   250K .......... .......... .......... .......... .......     137M=0.2s
+
+2020-03-02 04:37:43 (14.0 Mb/s) - ‘/dev/null’ saved [304381]
+
+--2020-03-02 04:37:49--  http://www.biocenter.hu/pdf/26616.pdf
+Resolving www.biocenter.hu (www.biocenter.hu)... 185.33.54.6
+Connecting to www.biocenter.hu (www.biocenter.hu)|185.33.54.6|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.88M
+    50K .......... .......... .......... .......... .......... 10.2M
+   100K .......... .......... .......... .......... .......... 80.9M
+   150K .......... .......... .......... .......... ..........  246M
+   200K .......... .......... .......... .......... .......... 10.5M
+   250K .......... .......... .......... .......... .......     159M=0.2s
+
+2020-03-02 04:37:49 (14.1 Mb/s) - ‘/dev/null’ saved [304381]
+

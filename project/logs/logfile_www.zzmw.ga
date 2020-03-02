@@ -1,0 +1,22 @@
+--2020-03-02 03:51:57--  http://www.zzmw.ga/%3FD1qNJ0OQHIMUTy9KERqGJS5JEkbROjLAOjAgMUSmoaIjsJbQNtVQntZPNtkdLHOpHykqI2kuszZpD1OG
+Resolving www.zzmw.ga (www.zzmw.ga)... 104.24.107.105, 104.24.106.105
+Connecting to www.zzmw.ga (www.zzmw.ga)|104.24.107.105|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.zzmw.ga/%3FD1qNJ0OQHIMUTy9KERqGJS5JEkbROjLAOjAgMUSmoaIjsJbQNtVQntZPNtkdLHOpHykqI2kuszZpD1OG [following]
+--2020-03-02 03:51:57--  https://www.zzmw.ga/%3FD1qNJ0OQHIMUTy9KERqGJS5JEkbROjLAOjAgMUSmoaIjsJbQNtVQntZPNtkdLHOpHykqI2kuszZpD1OG
+Connecting to www.zzmw.ga (www.zzmw.ga)|104.24.107.105|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.zzmw.ga attempted to set domain to zaxid.net
+Length: unspecified [*/*]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.69M
+    50K .......... .......... .......... .......... ..........  210M
+   100K .......... .......... .......... .......... .......... 2.60M
+   150K .......... .......... .......... .......... ..........  156M
+   200K .......... .......... .......... .......... .......... 2.68M
+   250K .......... .......... .......... .......... ..........  129M
+   300K .......... .......... .......... .......... ......      305M=0.6s
+
+2020-03-02 03:52:00 (5.06 Mb/s) - ‘/dev/null’ saved [354841]
+

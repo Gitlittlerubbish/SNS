@@ -1,0 +1,12 @@
+--2020-03-02 01:45:40--  http://www.naa.org.kh/files/kh/8820.pdf
+Resolving www.naa.org.kh (www.naa.org.kh)... 23.246.252.103
+Connecting to www.naa.org.kh (www.naa.org.kh)|23.246.252.103|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56002 (55K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 91% 1.43M 0s
+    50K ....                                                  100%  725M=0.3s
+
+2020-03-02 01:45:41 (1.56 Mb/s) - ‘/dev/null’ saved [56002/56002]
+

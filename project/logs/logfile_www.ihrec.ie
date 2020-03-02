@@ -1,0 +1,25 @@
+--2020-03-02 05:01:36--  http://www.ihrec.ie/download/pdf/enabling_lesbian_gay_and_bisexual_individuals_to_access_their_rights_under_equality_law.pdf
+Resolving www.ihrec.ie (www.ihrec.ie)... 172.104.149.181
+Connecting to www.ihrec.ie (www.ihrec.ie)|172.104.149.181|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ihrec.ie/download/pdf/enabling_lesbian_gay_and_bisexual_individuals_to_access_their_rights_under_equality_law.pdf [following]
+--2020-03-02 05:01:36--  https://www.ihrec.ie/download/pdf/enabling_lesbian_gay_and_bisexual_individuals_to_access_their_rights_under_equality_law.pdf
+Connecting to www.ihrec.ie (www.ihrec.ie)|172.104.149.181|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 544169 (531K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 12.9M 0s
+    50K .......... .......... .......... .......... .......... 18% 24.1M 0s
+   100K .......... .......... .......... .......... .......... 28%  183M 0s
+   150K .......... .......... .......... .......... .......... 37%  214M 0s
+   200K .......... .......... .......... .......... .......... 47% 29.1M 0s
+   250K .......... .......... .......... .......... .......... 56%  203M 0s
+   300K .......... .......... .......... .......... .......... 65% 37.3M 0s
+   350K .......... .......... .......... .......... .......... 75%  670M 0s
+   400K .......... .......... .......... .......... .......... 84% 30.9M 0s
+   450K .......... .......... .......... .......... .......... 94%  282M 0s
+   500K .......... .......... .......... .                    100%  108M=0.1s
+
+2020-03-02 05:01:36 (44.6 Mb/s) - ‘/dev/null’ saved [544169/544169]
+

@@ -1,0 +1,20 @@
+--2020-03-02 06:12:29--  http://dievil.la/images/galleries/SpeisenundGetraenke/Vorkommen.pdf
+Resolving dievil.la (dievil.la)... 83.169.33.89
+Connecting to dievil.la (dievil.la)|83.169.33.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://dievil.la/images/galleries/SpeisenundGetraenke/Vorkommen.pdf [following]
+--2020-03-02 06:12:29--  https://dievil.la/images/galleries/SpeisenundGetraenke/Vorkommen.pdf
+Connecting to dievil.la (dievil.la)|83.169.33.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274158 (268K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 12.9M 0s
+    50K .......... .......... .......... .......... .......... 37% 25.1M 0s
+   100K .......... .......... .......... .......... .......... 56% 59.1M 0s
+   150K .......... .......... .......... .......... .......... 74% 31.9M 0s
+   200K .......... .......... .......... .......... .......... 93% 96.9M 0s
+   250K .......... .......                                    100% 18.1M=0.08s
+
+2020-03-02 06:12:30 (27.4 Mb/s) - ‘/dev/null’ saved [274158/274158]
+

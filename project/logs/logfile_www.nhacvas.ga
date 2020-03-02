@@ -1,0 +1,11 @@
+--2020-03-02 03:53:49--  http://www.nhacvas.ga/_files/bilanci/2647_2014_B.pdf
+Resolving www.nhacvas.ga (www.nhacvas.ga)... 195.20.49.230
+Connecting to www.nhacvas.ga (www.nhacvas.ga)|195.20.49.230|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 636 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  175M=0s
+
+2020-03-02 03:53:50 (175 Mb/s) - ‘/dev/null’ saved [636/636]
+

@@ -1,0 +1,16 @@
+--2020-03-02 04:39:56--  http://www.vinnumalastofnun.is/media/1603/radningasamningur2015.pdf
+Resolving www.vinnumalastofnun.is (www.vinnumalastofnun.is)... 82.221.73.197
+Connecting to www.vinnumalastofnun.is (www.vinnumalastofnun.is)|82.221.73.197|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.vinnumalastofnun.is/media/1603/radningasamningur2015.pdf [following]
+--2020-03-02 04:39:56--  https://www.vinnumalastofnun.is/media/1603/radningasamningur2015.pdf
+Connecting to www.vinnumalastofnun.is (www.vinnumalastofnun.is)|82.221.73.197|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93552 (91K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54% 4.80M 0s
+    50K .......... .......... .......... .......... .         100%  101M=0.09s
+
+2020-03-02 04:39:57 (8.44 Mb/s) - ‘/dev/null’ saved [93552/93552]
+

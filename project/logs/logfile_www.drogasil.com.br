@@ -1,0 +1,42 @@
+--2020-03-02 01:14:45--  http://www.drogasil.com.br/media/raiadrogasil_bula/15855.pdf
+Resolving www.drogasil.com.br (www.drogasil.com.br)... 13.227.170.41, 13.227.170.66, 13.227.170.4, ...
+Connecting to www.drogasil.com.br (www.drogasil.com.br)|13.227.170.41|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.drogasil.com.br/media/raiadrogasil_bula/15855.pdf [following]
+--2020-03-02 01:14:45--  https://www.drogasil.com.br/media/raiadrogasil_bula/15855.pdf
+Connecting to www.drogasil.com.br (www.drogasil.com.br)|13.227.170.41|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://img.drogasil.com.br/raiadrogasil_bula/15855.pdf [following]
+--2020-03-02 01:14:45--  https://img.drogasil.com.br/raiadrogasil_bula/15855.pdf
+Resolving img.drogasil.com.br (img.drogasil.com.br)... 143.204.192.38, 143.204.192.90, 143.204.192.62, ...
+Connecting to img.drogasil.com.br (img.drogasil.com.br)|143.204.192.38|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55650 (54K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 92%  132M 0s
+    50K ....                                                  100%  174M=0.003s
+
+2020-03-02 01:14:45 (135 Mb/s) - ‘/dev/null’ saved [55650/55650]
+
+--2020-03-02 01:15:03--  http://www.drogasil.com.br/media/raiadrogasil_bula/15855.pdf
+Resolving www.drogasil.com.br (www.drogasil.com.br)... 13.227.170.41, 13.227.170.66, 13.227.170.4, ...
+Connecting to www.drogasil.com.br (www.drogasil.com.br)|13.227.170.41|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.drogasil.com.br/media/raiadrogasil_bula/15855.pdf [following]
+--2020-03-02 01:15:03--  https://www.drogasil.com.br/media/raiadrogasil_bula/15855.pdf
+Connecting to www.drogasil.com.br (www.drogasil.com.br)|13.227.170.41|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://img.drogasil.com.br/raiadrogasil_bula/15855.pdf [following]
+--2020-03-02 01:15:04--  https://img.drogasil.com.br/raiadrogasil_bula/15855.pdf
+Resolving img.drogasil.com.br (img.drogasil.com.br)... 143.204.192.38, 143.204.192.90, 143.204.192.62, ...
+Connecting to img.drogasil.com.br (img.drogasil.com.br)|143.204.192.38|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55650 (54K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 92% 62.7M 0s
+    50K ....                                                  100%  712K=0.007s
+
+2020-03-02 01:15:04 (68.2 Mb/s) - ‘/dev/null’ saved [55650/55650]
+

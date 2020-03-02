@@ -1,0 +1,23 @@
+--2020-03-02 00:46:40--  http://www.cadecocruz.org.bo/UserFiles/File/RBC-20mayo2011.pdf
+Resolving www.cadecocruz.org.bo (www.cadecocruz.org.bo)... 192.185.3.142
+Connecting to www.cadecocruz.org.bo (www.cadecocruz.org.bo)|192.185.3.142|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://cadecocruz.org.bo/UserFiles/File/RBC-20mayo2011.pdf [following]
+--2020-03-02 00:46:41--  https://cadecocruz.org.bo/UserFiles/File/RBC-20mayo2011.pdf
+Resolving cadecocruz.org.bo (cadecocruz.org.bo)... 192.185.3.142
+Connecting to cadecocruz.org.bo (cadecocruz.org.bo)|192.185.3.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 382503 (374K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 1.67M 2s
+    50K .......... .......... .......... .......... .......... 26% 3.38M 1s
+   100K .......... .......... .......... .......... .......... 40%  110M 1s
+   150K .......... .......... .......... .......... .......... 53%  229M 0s
+   200K .......... .......... .......... .......... .......... 66% 3.41M 0s
+   250K .......... .......... .......... .......... .......... 80%  159M 0s
+   300K .......... .......... .......... .......... .......... 93% 3.42M 0s
+   350K .......... .......... ...                             100%  846M=0.6s
+
+2020-03-02 00:46:42 (4.98 Mb/s) - ‘/dev/null’ saved [382503/382503]
+

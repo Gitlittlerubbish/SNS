@@ -1,0 +1,14 @@
+--2020-03-02 03:35:40--  http://www.nsh.fo/Samlagstrygging.pdf
+Resolving www.nsh.fo (www.nsh.fo)... 46.227.118.147
+Connecting to www.nsh.fo (www.nsh.fo)|46.227.118.147|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190789 (186K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 1.25M 1s
+    50K .......... .......... .......... .......... .......... 53% 3.13M 0s
+   100K .......... .......... .......... .......... .......... 80%  121M 0s
+   150K .......... .......... .......... ......               100% 4.49M=0.5s
+
+2020-03-02 03:35:40 (2.89 Mb/s) - ‘/dev/null’ saved [190789/190789]
+

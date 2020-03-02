@@ -1,0 +1,20 @@
+--2020-03-02 05:08:14--  http://web.unipv.it/schema_contrattosponsorizzazione_italiano/
+Resolving web.unipv.it (web.unipv.it)... 193.204.40.247
+Connecting to web.unipv.it (web.unipv.it)|193.204.40.247|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://web.unipv.it/schema_contrattosponsorizzazione_italiano/ [following]
+--2020-03-02 05:08:14--  https://web.unipv.it/schema_contrattosponsorizzazione_italiano/
+Connecting to web.unipv.it (web.unipv.it)|193.204.40.247|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://web.unipv.it/wp-content/uploads/2020/01/Schema_contrattoSponsorizzazione_Italiano.pdf [following]
+--2020-03-02 05:08:14--  https://web.unipv.it/wp-content/uploads/2020/01/Schema_contrattoSponsorizzazione_Italiano.pdf
+Reusing existing connection to web.unipv.it:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 64090 (63K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 79% 5.68M 0s
+    50K .......... ..                                         100% 4.48G=0.07s
+
+2020-03-02 05:08:14 (7.11 Mb/s) - ‘/dev/null’ saved [64090/64090]
+

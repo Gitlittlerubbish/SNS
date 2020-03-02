@@ -1,0 +1,19 @@
+--2020-03-02 00:34:23--  http://www.communityandculture.bm/files/pdf_reports/1268407050bermuda-connections-gombeys.pdf
+Resolving www.communityandculture.bm (www.communityandculture.bm)... 216.70.93.180
+Connecting to www.communityandculture.bm (www.communityandculture.bm)|216.70.93.180|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 416023 (406K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 2.37M 1s
+    50K .......... .......... .......... .......... .......... 24% 4.77M 1s
+   100K .......... .......... .......... .......... .......... 36% 4.70M 1s
+   150K .......... .......... .......... .......... .......... 49% 4.82M 0s
+   200K .......... .......... .......... .......... .......... 61% 4.89M 0s
+   250K .......... .......... .......... .......... .......... 73% 82.7M 0s
+   300K .......... .......... .......... .......... .......... 86% 4.99M 0s
+   350K .......... .......... .......... .......... .......... 98%  131M 0s
+   400K ......                                                100% 1.03M=0.6s
+
+2020-03-02 00:34:23 (5.50 Mb/s) - ‘/dev/null’ saved [416023/416023]
+

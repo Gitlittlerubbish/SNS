@@ -1,0 +1,26 @@
+--2020-03-02 08:27:22--  http://www.resene.co.nz/pdf/retailpricelist.pdf
+Resolving www.resene.co.nz (www.resene.co.nz)... 210.48.107.142
+Connecting to www.resene.co.nz (www.resene.co.nz)|210.48.107.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.resene.co.nz/pdf/retailpricelist.pdf [following]
+--2020-03-02 08:27:23--  https://www.resene.co.nz/pdf/retailpricelist.pdf
+Connecting to www.resene.co.nz (www.resene.co.nz)|210.48.107.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 584451 (571K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8%  530K 8s
+    50K .......... .......... .......... .......... .......... 17% 1.17M 5s
+   100K .......... .......... .......... .......... .......... 26%  999K 4s
+   150K .......... .......... .......... .......... .......... 35%  683M 3s
+   200K .......... .......... .......... .......... .......... 43%  995K 2s
+   250K .......... .......... .......... .......... .......... 52%  999K 2s
+   300K .......... .......... .......... .......... .......... 61% 1000K 2s
+   350K .......... .......... .......... .......... .......... 70%  898M 1s
+   400K .......... .......... .......... .......... .......... 78% 1.01M 1s
+   450K .......... .......... .......... .......... .......... 87%  977K 1s
+   500K .......... .......... .......... .......... .......... 96% 1.03M 0s
+   550K .......... ..........                                 100%  630M=4.0s
+
+2020-03-02 08:27:29 (1.17 Mb/s) - ‘/dev/null’ saved [584451/584451]
+

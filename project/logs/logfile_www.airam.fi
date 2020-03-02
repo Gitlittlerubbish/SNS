@@ -1,0 +1,21 @@
+--2020-03-02 03:44:55--  http://www.airam.fi/file/10917/fi/master
+Resolving www.airam.fi (www.airam.fi)... 213.139.180.182
+Connecting to www.airam.fi (www.airam.fi)|213.139.180.182|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.airam.fi/file/10917/fi/master [following]
+--2020-03-02 03:44:55--  https://www.airam.fi/file/10917/fi/master
+Connecting to www.airam.fi (www.airam.fi)|213.139.180.182|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.94M
+    50K .......... .......... .......... .......... .......... 4.24M
+   100K .......... .......... .......... .......... .......... 36.6M
+   150K .......... .......... .......... .......... .......... 9.06M
+   200K .......... .......... .......... .......... .......... 71.6M
+   250K .......... .......... .......... .......... .......... 9.05M
+   300K .......... .......... .......... ......                 215M=0.3s
+
+2020-03-02 03:44:56 (7.99 Mb/s) - ‘/dev/null’ saved [344439]
+

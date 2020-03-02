@@ -1,0 +1,16 @@
+--2020-03-02 03:45:48--  http://asiointi.trafi.fi/omatrafi-formservlet-web/lomake/F123
+Resolving asiointi.trafi.fi (asiointi.trafi.fi)... 131.207.86.99
+Connecting to asiointi.trafi.fi (asiointi.trafi.fi)|131.207.86.99|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://asiointi.trafi.fi/omatrafi-formservlet-web/lomake/F123 [following]
+--2020-03-02 03:45:48--  https://asiointi.trafi.fi/omatrafi-formservlet-web/lomake/F123
+Connecting to asiointi.trafi.fi (asiointi.trafi.fi)|131.207.86.99|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59909 (59K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 85%  204M 0s
+    50K ........                                              100%  246M=0.002s
+
+2020-03-02 03:45:49 (209 Mb/s) - ‘/dev/null’ saved [59909/59909]
+

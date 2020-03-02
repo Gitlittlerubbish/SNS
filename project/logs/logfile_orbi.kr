@@ -1,0 +1,16 @@
+--2020-03-02 05:54:04--  http://orbi.kr/download/united/11488643/2
+Resolving orbi.kr (orbi.kr)... 13.125.122.94, 15.165.23.26
+Connecting to orbi.kr (orbi.kr)|13.125.122.94|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://orbi.kr:443/download/united/11488643/2 [following]
+--2020-03-02 05:54:05--  https://orbi.kr/download/united/11488643/2
+Connecting to orbi.kr (orbi.kr)|13.125.122.94|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96962 (95K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 1.34M 0s
+    50K .......... .......... .......... .......... ....      100%  989M=0.3s
+
+2020-03-02 05:54:08 (2.54 Mb/s) - ‘/dev/null’ saved [96962/96962]
+

@@ -1,0 +1,12 @@
+--2020-03-02 01:08:33--  http://www.thepatriot.co.bw/downloads/Patriot-Rate-Card.pdf
+Resolving www.thepatriot.co.bw (www.thepatriot.co.bw)... 41.185.8.66
+Connecting to www.thepatriot.co.bw (www.thepatriot.co.bw)|41.185.8.66|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99016 (97K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 1.19M 0s
+    50K .......... .......... .......... .......... ......    100% 1.12M=0.7s
+
+2020-03-02 01:08:35 (1.16 Mb/s) - ‘/dev/null’ saved [99016/99016]
+

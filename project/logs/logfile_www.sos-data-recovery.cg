@@ -1,0 +1,16 @@
+--2020-03-02 02:37:11--  http://www.sos-data-recovery.cg/documents/nda/nda_fr.pdf
+Resolving www.sos-data-recovery.cg (www.sos-data-recovery.cg)... 83.166.142.37
+Connecting to www.sos-data-recovery.cg (www.sos-data-recovery.cg)|83.166.142.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sos-data-recovery.cg/ [following]
+--2020-03-02 02:37:11--  https://www.sos-data-recovery.cg/
+Connecting to www.sos-data-recovery.cg (www.sos-data-recovery.cg)|83.166.142.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15.0M
+    50K                                                        11.5K=0.03s
+
+2020-03-02 02:37:12 (15.0 Mb/s) - ‘/dev/null’ saved [51272]
+

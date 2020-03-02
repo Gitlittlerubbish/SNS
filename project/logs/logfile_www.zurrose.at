@@ -1,0 +1,14 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:43:59--  https://www.zurrose.at/media/lmiv_import/08054834.pdf
+Resolving www.zurrose.at (www.zurrose.at)... 87.118.83.164
+Connecting to www.zurrose.at (www.zurrose.at)|87.118.83.164|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112627 (110K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 10.3M 0s
+    50K .......... .......... .......... .......... .......... 90% 20.7M 0s
+   100K .........                                             100%  861M=0.06s
+
+2020-03-01 23:43:59 (15.1 Mb/s) - ‘/dev/null’ saved [112627/112627]
+

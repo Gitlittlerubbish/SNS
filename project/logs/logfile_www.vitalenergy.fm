@@ -1,0 +1,23 @@
+--2020-03-02 07:35:21--  http://www.vitalenergy.fm/wp-content/uploads/Azolla-ZS-68_SG.pdf
+Resolving www.vitalenergy.fm (www.vitalenergy.fm)... 192.185.152.104
+Connecting to www.vitalenergy.fm (www.vitalenergy.fm)|192.185.152.104|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35020 (34K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ....                 100% 2.35M=0.1s
+
+2020-03-02 07:35:22 (2.35 Mb/s) - ‘/dev/null’ saved [35020/35020]
+
+--2020-03-02 07:35:22--  http://www.vitalenergy.fm/wp-content/uploads/Transtec-5-80W90_SG.pdf
+Resolving www.vitalenergy.fm (www.vitalenergy.fm)... 192.185.152.104
+Connecting to www.vitalenergy.fm (www.vitalenergy.fm)|192.185.152.104|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62131 (61K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 82% 1.71M 0s
+    50K ..........                                            100%  754M=0.2s
+
+2020-03-02 07:35:22 (2.07 Mb/s) - ‘/dev/null’ saved [62131/62131]
+

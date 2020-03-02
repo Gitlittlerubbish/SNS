@@ -1,0 +1,16 @@
+--2020-03-02 04:39:50--  http://www.personuvernd.is/media/frettir/95_46.pdf
+Resolving www.personuvernd.is (www.personuvernd.is)... 80.248.22.12
+Connecting to www.personuvernd.is (www.personuvernd.is)|80.248.22.12|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.personuvernd.is/media/frettir/95_46.pdf [following]
+--2020-03-02 04:39:50--  https://www.personuvernd.is/media/frettir/95_46.pdf
+Connecting to www.personuvernd.is (www.personuvernd.is)|80.248.22.12|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90890 (89K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56% 4.40M 0s
+    50K .......... .......... .......... ........             100%  464M=0.09s
+
+2020-03-02 04:39:51 (7.76 Mb/s) - ‘/dev/null’ saved [90890/90890]
+

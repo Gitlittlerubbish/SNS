@@ -1,0 +1,24 @@
+--2020-03-02 03:42:16--  http://tslb.com.fj/getattachment/Forms/NTS-APPLICATION.pdf
+Resolving tslb.com.fj (tslb.com.fj)... 103.52.91.1
+Connecting to tslb.com.fj (tslb.com.fj)|103.52.91.1|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tslb.com.fj/getattachment/Forms/NTS-APPLICATION.pdf [following]
+--2020-03-02 03:42:17--  https://tslb.com.fj/getattachment/Forms/NTS-APPLICATION.pdf
+Connecting to tslb.com.fj (tslb.com.fj)|103.52.91.1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 509734 (498K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10%  499K 7s
+    50K .......... .......... .......... .......... .......... 20%  546M 3s
+   100K .......... .......... .......... .......... .......... 30% 1.00M 3s
+   150K .......... .......... .......... .......... .......... 40%  613M 2s
+   200K .......... .......... .......... .......... .......... 50% 1.01M 2s
+   250K .......... .......... .......... .......... .......... 60%  996K 1s
+   300K .......... .......... .......... .......... .......... 70% 1.00M 1s
+   350K .......... .......... .......... .......... .......... 80%  500K 1s
+   400K .......... .......... .......... .......... .......... 90% 1000K 0s
+   450K .......... .......... .......... .......... .......   100%  477K=4.5s
+
+2020-03-02 03:42:23 (905 Kb/s) - ‘/dev/null’ saved [509734/509734]
+

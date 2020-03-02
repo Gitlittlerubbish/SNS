@@ -1,0 +1,37 @@
+--2020-03-02 00:20:30--  http://xerox.bz/1H08zDZ
+Resolving xerox.bz (xerox.bz)... 67.199.248.13, 67.199.248.12
+Connecting to xerox.bz (xerox.bz)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1 [following]
+--2020-03-02 00:20:30--  http://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1
+Resolving www.xerox.com (www.xerox.com)... 88.221.135.51, 88.221.135.48
+Connecting to www.xerox.com (www.xerox.com)|88.221.135.51|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1 [following]
+--2020-03-02 00:20:30--  https://www.xerox.com/downloads/usa/en/c/cert_Security_FAQs_for_SMart_eSolutions.pdf?sf42437527=1
+Connecting to www.xerox.com (www.xerox.com)|88.221.135.51|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 918468 (897K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 55.8M 0s
+    50K .......... .......... .......... .......... .......... 11% 88.5M 0s
+   100K .......... .......... .......... .......... .......... 16%  127M 0s
+   150K .......... .......... .......... .......... .......... 22% 83.6M 0s
+   200K .......... .......... .......... .......... .......... 27%  279M 0s
+   250K .......... .......... .......... .......... .......... 33%  203M 0s
+   300K .......... .......... .......... .......... .......... 39%  194M 0s
+   350K .......... .......... .......... .......... .......... 44%  108M 0s
+   400K .......... .......... .......... .......... .......... 50%  137M 0s
+   450K .......... .......... .......... .......... .......... 55%  304M 0s
+   500K .......... .......... .......... .......... .......... 61%  225M 0s
+   550K .......... .......... .......... .......... .......... 66%  193M 0s
+   600K .......... .......... .......... .......... .......... 72%  102M 0s
+   650K .......... .......... .......... .......... .......... 78%  250M 0s
+   700K .......... .......... .......... .......... .......... 83%  371M 0s
+   750K .......... .......... .......... .......... .......... 89%  417M 0s
+   800K .......... .......... .......... .......... .......... 94%  200M 0s
+   850K .......... .......... .......... .......... ......    100%  357M=0.05s
+
+2020-03-02 00:20:30 (151 Mb/s) - ‘/dev/null’ saved [918468/918468]
+

@@ -1,0 +1,15 @@
+--2020-03-02 01:08:59--  http://www.iag.usp.br/~eder/guia_relatorio.pdf
+Resolving www.iag.usp.br (www.iag.usp.br)... 143.107.18.8
+Connecting to www.iag.usp.br (www.iag.usp.br)|143.107.18.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.iag.usp.br/~eder/guia_relatorio.pdf [following]
+--2020-03-02 01:09:01--  https://www.iag.usp.br/~eder/guia_relatorio.pdf
+Connecting to www.iag.usp.br (www.iag.usp.br)|143.107.18.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47102 (46K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....     100% 1.22M=0.3s
+
+2020-03-02 01:09:02 (1.22 Mb/s) - ‘/dev/null’ saved [47102/47102]
+

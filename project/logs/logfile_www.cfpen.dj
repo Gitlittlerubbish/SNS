@@ -1,0 +1,11 @@
+--2020-03-02 03:05:31--  http://www.cfpen.dj/pdf/referentielformation.pdf
+Resolving www.cfpen.dj (www.cfpen.dj)... 41.189.224.134
+Connecting to www.cfpen.dj (www.cfpen.dj)|41.189.224.134|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45770 (45K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ....      100% 2.01M=0.2s
+
+2020-03-02 03:05:32 (2.01 Mb/s) - ‘/dev/null’ saved [45770/45770]
+

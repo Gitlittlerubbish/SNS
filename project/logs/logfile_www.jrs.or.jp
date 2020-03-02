@@ -1,0 +1,20 @@
+--2020-03-02 05:20:06--  http://www.jrs.or.jp/uploads/uploads/files/photos/hikanetsu_kenkai.pdf
+Resolving www.jrs.or.jp (www.jrs.or.jp)... 211.121.195.209
+Connecting to www.jrs.or.jp (www.jrs.or.jp)|211.121.195.209|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.jrs.or.jp/uploads/uploads/files/photos/hikanetsu_kenkai.pdf [following]
+--2020-03-02 05:20:07--  https://www.jrs.or.jp/uploads/uploads/files/photos/hikanetsu_kenkai.pdf
+Connecting to www.jrs.or.jp (www.jrs.or.jp)|211.121.195.209|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276326 (270K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18%  635K 3s
+    50K .......... .......... .......... .......... .......... 37%  799K 2s
+   100K .......... .......... .......... .......... .......... 55% 1.70M 1s
+   150K .......... .......... .......... .......... .......... 74% 1.52M 1s
+   200K .......... .......... .......... .......... .......... 92% 1.32M 0s
+   250K .......... .........                                  100%  537K=2.3s
+
+2020-03-02 05:20:10 (969 Kb/s) - ‘/dev/null’ saved [276326/276326]
+

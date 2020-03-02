@@ -1,0 +1,31 @@
+--2020-03-02 01:51:36--  http://www.fieldstree.ca/s/hire_arborist.pdf
+Resolving www.fieldstree.ca (www.fieldstree.ca)... 198.185.159.145, 198.49.23.145, 198.49.23.144, ...
+Connecting to www.fieldstree.ca (www.fieldstree.ca)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.fieldstree.ca/s/hire_arborist.pdf [following]
+--2020-03-02 01:51:36--  https://www.fieldstree.ca/s/hire_arborist.pdf
+Connecting to www.fieldstree.ca (www.fieldstree.ca)|198.185.159.145|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/596d4c02197aea41b73ae70b/t/59b610af6f4ca36cb50b764d/1505104048573/hire_arborist.pdf [following]
+--2020-03-02 01:51:37--  https://static1.squarespace.com/static/596d4c02197aea41b73ae70b/t/59b610af6f4ca36cb50b764d/1505104048573/hire_arborist.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 603976 (590K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 10.7M 0s
+    50K .......... .......... .......... .......... .......... 16% 3.76M 1s
+   100K .......... .......... .......... .......... .......... 25% 2.47M 1s
+   150K .......... .......... .......... .......... .......... 33% 2.29M 1s
+   200K .......... .......... .......... .......... .......... 42% 7.16M 1s
+   250K .......... .......... .......... .......... .......... 50% 25.9M 1s
+   300K .......... .......... .......... .......... .......... 59% 46.4M 0s
+   350K .......... .......... .......... .......... .......... 67% 39.9M 0s
+   400K .......... .......... .......... .......... .......... 76% 74.7M 0s
+   450K .......... .......... .......... .......... .......... 84% 70.2M 0s
+   500K .......... .......... .......... .......... .......... 93% 51.0M 0s
+   550K .......... .......... .......... .........            100%  270M=0.6s
+
+2020-03-02 01:51:38 (8.00 Mb/s) - ‘/dev/null’ saved [603976/603976]
+

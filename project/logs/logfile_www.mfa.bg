@@ -1,0 +1,14 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:31:52--  https://www.mfa.bg/upload/27757/Hungary1.pdf
+Resolving www.mfa.bg (www.mfa.bg)... 104.24.111.11, 104.24.110.11
+Connecting to www.mfa.bg (www.mfa.bg)|104.24.111.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.mfa.bg attempted to set domain to mfa.bg
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68.3M
+    50K .......... .......... ........                          116M=0.008s
+
+2020-03-02 01:31:52 (80.3 Mb/s) - ‘/dev/null’ saved [80632]
+

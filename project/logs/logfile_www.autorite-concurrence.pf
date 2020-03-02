@@ -1,0 +1,28 @@
+--2020-03-02 03:50:58--  http://www.autorite-concurrence.pf/avis/section-avis/download/117_a4c9a08165596e9d6d2c34a5a48f055c
+Resolving www.autorite-concurrence.pf (www.autorite-concurrence.pf)... 87.98.154.146
+Connecting to www.autorite-concurrence.pf (www.autorite-concurrence.pf)|87.98.154.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.autorite-concurrence.pf/avis/section-avis/download/117_a4c9a08165596e9d6d2c34a5a48f055c [following]
+--2020-03-02 03:50:59--  https://www.autorite-concurrence.pf/avis/section-avis/download/117_a4c9a08165596e9d6d2c34a5a48f055c
+Connecting to www.autorite-concurrence.pf (www.autorite-concurrence.pf)|87.98.154.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 671359 (656K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 30.1M 0s
+    50K .......... .......... .......... .......... .......... 15% 61.8M 0s
+   100K .......... .......... .......... .......... .......... 22%  116M 0s
+   150K .......... .......... .......... .......... .......... 30%  270M 0s
+   200K .......... .......... .......... .......... .......... 38% 65.9M 0s
+   250K .......... .......... .......... .......... .......... 45% 95.7M 0s
+   300K .......... .......... .......... .......... .......... 53%  166M 0s
+   350K .......... .......... .......... .......... .......... 61%  409M 0s
+   400K .......... .......... .......... .......... .......... 68% 79.1M 0s
+   450K .......... .......... .......... .......... .......... 76%  231M 0s
+   500K .......... .......... .......... .......... .......... 83%  137M 0s
+   550K .......... .......... .......... .......... .......... 91% 99.0M 0s
+   600K .......... .......... .......... .......... .......... 99%  139M 0s
+   650K .....                                                 100%  921K=0.06s
+
+2020-03-02 03:50:59 (95.4 Mb/s) - ‘/dev/null’ saved [671359/671359]
+

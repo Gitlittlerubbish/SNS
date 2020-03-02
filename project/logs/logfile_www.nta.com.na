@@ -1,0 +1,25 @@
+--2020-03-02 08:01:34--  http://www.nta.com.na/ID831CarryoutRCMactivitiesusingatiptruck.pdf
+Resolving www.nta.com.na (www.nta.com.na)... 102.67.136.82
+Connecting to www.nta.com.na (www.nta.com.na)|102.67.136.82|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 172726 (169K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 1.39M 1s
+    50K .......... .......... .......... .......... .......... 59% 2.85M 0s
+   100K .......... .......... .......... .......... .......... 88%  158M 0s
+   150K .......... ........                                   100% 82.0M=0.4s
+
+2020-03-02 08:01:35 (3.11 Mb/s) - ‘/dev/null’ saved [172726/172726]
+
+--2020-03-02 08:01:35--  http://www.nta.com.na/853Developandimplementeffectivecommunicationsystemsforhealthandsafetyinformation.pdf
+Resolving www.nta.com.na (www.nta.com.na)... 102.67.136.82
+Connecting to www.nta.com.na (www.nta.com.na)|102.67.136.82|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33054 (32K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..                   100% 1.70M=0.2s
+
+2020-03-02 08:01:36 (1.70 Mb/s) - ‘/dev/null’ saved [33054/33054]
+

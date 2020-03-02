@@ -1,0 +1,13 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:52:55--  https://pdf.hres.ca/dpd_pm/00013453.PDF
+Resolving pdf.hres.ca (pdf.hres.ca)... 205.193.192.31
+Connecting to pdf.hres.ca (pdf.hres.ca)|205.193.192.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99046 (97K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 4.22M 0s
+    50K .......... .......... .......... .......... ......    100% 4.18M=0.2s
+
+2020-03-02 01:52:56 (4.20 Mb/s) - ‘/dev/null’ saved [99046/99046]
+

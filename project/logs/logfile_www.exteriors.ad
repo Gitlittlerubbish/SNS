@@ -1,0 +1,22 @@
+--2020-03-01 22:32:06--  http://www.exteriors.ad/cooperacio/pdf5_cast.pdf
+Resolving www.exteriors.ad (www.exteriors.ad)... 91.187.83.90
+Connecting to www.exteriors.ad (www.exteriors.ad)|91.187.83.90|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 994 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 1.59G=0s
+
+2020-03-01 22:32:06 (1.59 Gb/s) - ‘/dev/null’ saved [994/994]
+
+--2020-03-01 22:32:06--  http://www.exteriors.ad/cooperacio/pdf7_fra.pdf
+Resolving www.exteriors.ad (www.exteriors.ad)... 91.187.83.90
+Connecting to www.exteriors.ad (www.exteriors.ad)|91.187.83.90|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 994 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  723M=0s
+
+2020-03-01 22:32:06 (723 Mb/s) - ‘/dev/null’ saved [994/994]
+

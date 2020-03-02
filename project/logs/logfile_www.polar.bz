@@ -1,0 +1,15 @@
+--2020-03-02 00:23:14--  http://www.polar.bz/polarportal4p/content/upload/books/HowTo_WhitePaper.pdf
+Resolving www.polar.bz (www.polar.bz)... 116.202.130.39
+Connecting to www.polar.bz (www.polar.bz)|116.202.130.39|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 255515 (250K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 8.89M 0s
+    50K .......... .......... .......... .......... .......... 40% 18.1M 0s
+   100K .......... .......... .......... .......... .......... 60% 99.4M 0s
+   150K .......... .......... .......... .......... .......... 80% 37.4M 0s
+   200K .......... .......... .......... .......... ......... 100% 38.9M=0.09s
+
+2020-03-02 00:23:14 (21.7 Mb/s) - ‘/dev/null’ saved [255515/255515]
+

@@ -1,0 +1,21 @@
+--2020-03-02 04:55:11--  http://mychem.ir/uploads/tds/25139.pdf
+Resolving mychem.ir (mychem.ir)... 164.132.66.179
+Connecting to mychem.ir (mychem.ir)|164.132.66.179|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mychem.ir/uploads/tds/25139.pdf [following]
+--2020-03-02 04:55:11--  https://mychem.ir/uploads/tds/25139.pdf
+Connecting to mychem.ir (mychem.ir)|164.132.66.179|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 334596 (327K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 27.0M 0s
+    50K .......... .......... .......... .......... .......... 30% 36.9M 0s
+   100K .......... .......... .......... .......... .......... 45% 51.1M 0s
+   150K .......... .......... .......... .......... .......... 61% 52.6M 0s
+   200K .......... .......... .......... .......... .......... 76% 62.7M 0s
+   250K .......... .......... .......... .......... .......... 91% 54.9M 0s
+   300K .......... .......... ......                          100% 84.6M=0.06s
+
+2020-03-02 04:55:12 (45.6 Mb/s) - ‘/dev/null’ saved [334596/334596]
+

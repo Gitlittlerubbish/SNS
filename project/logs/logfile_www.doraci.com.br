@@ -1,0 +1,19 @@
+--2020-03-02 01:13:36--  http://www.doraci.com.br/files/cornell_note.pdf
+Resolving www.doraci.com.br (www.doraci.com.br)... 216.172.160.214
+Connecting to www.doraci.com.br (www.doraci.com.br)|216.172.160.214|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.doraci.com.br/files/cornell_note.pdf [following]
+--2020-03-02 01:13:37--  https://www.doraci.com.br/files/cornell_note.pdf
+Connecting to www.doraci.com.br (www.doraci.com.br)|216.172.160.214|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239603 (234K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.68M 1s
+    50K .......... .......... .......... .......... .......... 42% 3.36M 0s
+   100K .......... .......... .......... .......... .......... 64%  144M 0s
+   150K .......... .......... .......... .......... .......... 85% 4.07M 0s
+   200K .......... .......... .......... ...                  100% 13.8M=0.5s
+
+2020-03-02 01:13:38 (3.92 Mb/s) - ‘/dev/null’ saved [239603/239603]
+

@@ -1,0 +1,24 @@
+--2020-03-02 05:08:13--  http://www.aruba.it/informativa_arubaspa.pdf
+Resolving www.aruba.it (www.aruba.it)... 62.149.188.209
+Connecting to www.aruba.it (www.aruba.it)|62.149.188.209|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aruba.it/informativa_arubaspa.pdf [following]
+--2020-03-02 05:08:13--  https://www.aruba.it/informativa_arubaspa.pdf
+Connecting to www.aruba.it (www.aruba.it)|62.149.188.209|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 487915 (476K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 4.17M 1s
+    50K .......... .......... .......... .......... .......... 20%  163M 0s
+   100K .......... .......... .......... .......... .......... 31% 11.9M 0s
+   150K .......... .......... .......... .......... .......... 41%  120M 0s
+   200K .......... .......... .......... .......... .......... 52% 14.9M 0s
+   250K .......... .......... .......... .......... .......... 62% 80.6M 0s
+   300K .......... .......... .......... .......... .......... 73%  204M 0s
+   350K .......... .......... .......... .......... .......... 83% 14.6M 0s
+   400K .......... .......... .......... .......... .......... 94% 87.2M 0s
+   450K .......... .......... ......                          100%  400M=0.2s
+
+2020-03-02 05:08:14 (18.9 Mb/s) - ‘/dev/null’ saved [487915/487915]
+

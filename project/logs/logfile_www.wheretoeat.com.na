@@ -1,0 +1,19 @@
+--2020-03-02 08:02:47--  http://www.wheretoeat.com.na/Establishment/Menu%3FMenuID%3D2
+Resolving www.wheretoeat.com.na (www.wheretoeat.com.na)... 160.119.248.211
+Connecting to www.wheretoeat.com.na (www.wheretoeat.com.na)|160.119.248.211|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /Error/Error?aspxerrorpath=/Establishment/Menu?MenuID=2 [following]
+--2020-03-02 08:02:48--  http://www.wheretoeat.com.na/Error/Error?aspxerrorpath=/Establishment/Menu?MenuID=2
+Reusing existing connection to www.wheretoeat.com.na:80.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.wheretoeat.com.na/Error/Error?aspxerrorpath=/Establishment/Menu?MenuID=2 [following]
+--2020-03-02 08:02:48--  https://www.wheretoeat.com.na/Error/Error?aspxerrorpath=/Establishment/Menu?MenuID=2
+Connecting to www.wheretoeat.com.na (www.wheretoeat.com.na)|160.119.248.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13486 (13K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...                                        100% 1.24G=0s
+
+2020-03-02 08:02:49 (1.24 Gb/s) - ‘/dev/null’ saved [13486/13486]
+

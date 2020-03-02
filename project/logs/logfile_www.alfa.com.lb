@@ -1,0 +1,21 @@
+--2020-03-02 06:16:33--  http://www.alfa.com.lb/files/alfatab.pdf
+Resolving www.alfa.com.lb (www.alfa.com.lb)... 185.81.142.177
+Connecting to www.alfa.com.lb (www.alfa.com.lb)|185.81.142.177|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.alfa.com.lb/files/alfatab.pdf [following]
+--2020-03-02 06:16:34--  https://www.alfa.com.lb/files/alfatab.pdf
+Connecting to www.alfa.com.lb (www.alfa.com.lb)|185.81.142.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 349853 (342K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 3.58M 1s
+    50K .......... .......... .......... .......... .......... 29% 7.01M 0s
+   100K .......... .......... .......... .......... .......... 43% 88.9M 0s
+   150K .......... .......... .......... .......... .......... 58% 7.23M 0s
+   200K .......... .......... .......... .......... .......... 73% 7.01M 0s
+   250K .......... .......... .......... .......... .......... 87% 7.19M 0s
+   300K .......... .......... .......... .......... .         100%  100M=0.4s
+
+2020-03-02 06:16:34 (7.93 Mb/s) - ‘/dev/null’ saved [349853/349853]
+

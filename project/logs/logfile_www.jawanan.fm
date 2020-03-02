@@ -1,0 +1,11 @@
+--2020-03-02 07:32:30--  http://www.jawanan.fm/
+Resolving www.jawanan.fm (www.jawanan.fm)... 166.62.13.1
+Connecting to www.jawanan.fm (www.jawanan.fm)|166.62.13.1|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                     5.13M=0.03s
+
+2020-03-02 07:32:30 (5.13 Mb/s) - ‘/dev/null’ saved [18041]
+

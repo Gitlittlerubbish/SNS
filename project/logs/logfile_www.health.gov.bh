@@ -1,0 +1,13 @@
+--2020-03-02 00:00:27--  http://www.health.gov.bh/Content/Upload/File/X_635894964590493750.pdf
+Resolving www.health.gov.bh (www.health.gov.bh)... 34.250.123.96
+Connecting to www.health.gov.bh (www.health.gov.bh)|34.250.123.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152697 (149K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 6.46M 0s
+    50K .......... .......... .......... .......... .......... 67% 12.7M 0s
+   100K .......... .......... .......... .......... ......... 100% 28.8M=0.1s
+
+2020-03-02 00:00:27 (11.1 Mb/s) - ‘/dev/null’ saved [152697/152697]
+

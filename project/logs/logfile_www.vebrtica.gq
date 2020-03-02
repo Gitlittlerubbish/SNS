@@ -1,0 +1,13 @@
+--2020-03-02 03:28:40--  http://www.vebrtica.gq/static/.downloads/deutsch/sareg-bundesgesetzblatt.pdf
+Resolving www.vebrtica.gq (www.vebrtica.gq)... 104.18.39.100, 104.18.38.100
+Connecting to www.vebrtica.gq (www.vebrtica.gq)|104.18.39.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 9.68M
+    50K .......... .......... .......... .......... ..........  204M
+   100K .......... .                                            123M=0.05s
+
+2020-03-02 03:28:41 (20.2 Mb/s) - ‘/dev/null’ saved [113688]
+

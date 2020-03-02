@@ -1,0 +1,17 @@
+--2020-03-02 06:28:54--  http://www.mj.public.lu/legislation/commerciale/GT1_QA_002-14_Admissibilite_du_modele_de_la_reevaluation-Immo_corp.pdf
+Resolving www.mj.public.lu (www.mj.public.lu)... 194.154.200.74
+Connecting to www.mj.public.lu (www.mj.public.lu)|194.154.200.74|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://mj.public.lu/legislation/commerciale/GT1_QA_002-14_Admissibilite_du_modele_de_la_reevaluation-Immo_corp.pdf [following]
+--2020-03-02 06:28:54--  http://mj.public.lu/legislation/commerciale/GT1_QA_002-14_Admissibilite_du_modele_de_la_reevaluation-Immo_corp.pdf
+Resolving mj.public.lu (mj.public.lu)... 194.154.200.74
+Reusing existing connection to www.mj.public.lu:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 69306 (68K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73% 8.78M 0s
+    50K .......... .......                                    100% 46.3M=0.05s
+
+2020-03-02 06:28:54 (11.1 Mb/s) - ‘/dev/null’ saved [69306/69306]
+

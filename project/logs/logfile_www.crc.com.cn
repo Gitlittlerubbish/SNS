@@ -1,0 +1,11 @@
+--2020-03-02 02:13:24--  http://www.crc.com.cn/other/crsreport2015/
+Resolving www.crc.com.cn (www.crc.com.cn)... 211.152.136.97, 211.152.136.86, 211.152.137.16, ...
+Connecting to www.crc.com.cn (www.crc.com.cn)|211.152.136.97|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 372 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  248M=0s
+
+2020-03-02 02:13:26 (248 Mb/s) - ‘/dev/null’ saved [372/372]
+

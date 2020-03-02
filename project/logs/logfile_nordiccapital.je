@@ -1,0 +1,18 @@
+--2020-03-02 05:22:27--  http://nordiccapital.je/media/1581/nordic-capital-responsible-investment-policy_dec_2018.pdf
+Resolving nordiccapital.je (nordiccapital.je)... 52.51.220.143
+Connecting to nordiccapital.je (nordiccapital.je)|52.51.220.143|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://nordiccapital.je/media/1581/nordic-capital-responsible-investment-policy_dec_2018.pdf [following]
+--2020-03-02 05:22:27--  https://nordiccapital.je/media/1581/nordic-capital-responsible-investment-policy_dec_2018.pdf
+Connecting to nordiccapital.je (nordiccapital.je)|52.51.220.143|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184966 (181K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 15.9M 0s
+    50K .......... .......... .......... .......... .......... 55%  133M 0s
+   100K .......... .......... .......... .......... .......... 83% 31.2M 0s
+   150K .......... .......... ..........                      100%  227M=0.04s
+
+2020-03-02 05:22:27 (34.4 Mb/s) - ‘/dev/null’ saved [184966/184966]
+

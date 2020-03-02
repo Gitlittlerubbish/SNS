@@ -1,0 +1,32 @@
+--2020-03-02 05:31:13--  http://www.publicservice.go.ke/images/______INTERSHIP_APPLICATION_FORM_1_optimized.pdf
+Resolving www.publicservice.go.ke (www.publicservice.go.ke)... 194.201.253.172
+Connecting to www.publicservice.go.ke (www.publicservice.go.ke)|194.201.253.172|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.publicservice.go.ke/images/______INTERSHIP_APPLICATION_FORM_1_optimized.pdf [following]
+--2020-03-02 05:31:14--  https://www.publicservice.go.ke/images/______INTERSHIP_APPLICATION_FORM_1_optimized.pdf
+Connecting to www.publicservice.go.ke (www.publicservice.go.ke)|194.201.253.172|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72203 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 1.05M 0s
+    50K .......... ..........                                 100%  200M=0.4s
+
+2020-03-02 05:31:15 (1.47 Mb/s) - ‘/dev/null’ saved [72203/72203]
+
+--2020-03-02 05:31:18--  http://www.publicservice.go.ke/images/______INTERSHIP_APPLICATION_FORM_1_optimized.pdf
+Resolving www.publicservice.go.ke (www.publicservice.go.ke)... 194.201.253.172
+Connecting to www.publicservice.go.ke (www.publicservice.go.ke)|194.201.253.172|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.publicservice.go.ke/images/______INTERSHIP_APPLICATION_FORM_1_optimized.pdf [following]
+--2020-03-02 05:31:18--  https://www.publicservice.go.ke/images/______INTERSHIP_APPLICATION_FORM_1_optimized.pdf
+Connecting to www.publicservice.go.ke (www.publicservice.go.ke)|194.201.253.172|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72203 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 1.24M 0s
+    50K .......... ..........                                 100%  836M=0.3s
+
+2020-03-02 05:31:19 (1.75 Mb/s) - ‘/dev/null’ saved [72203/72203]
+

@@ -1,0 +1,14 @@
+--2020-03-02 07:39:45--  http://www.eri.mn/download/u8vm8q5x
+Resolving www.eri.mn (www.eri.mn)... 43.231.112.46
+Connecting to www.eri.mn (www.eri.mn)|43.231.112.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  984K
+    50K .......... .......... .......... .......... .......... 1.99M
+   100K .......... .......... .......... .......... .......... 33.2M
+   150K .......... .......... .......... .......... .........  52.6M=0.6s
+
+2020-03-02 07:39:46 (2.55 Mb/s) - ‘/dev/null’ saved [204630]
+

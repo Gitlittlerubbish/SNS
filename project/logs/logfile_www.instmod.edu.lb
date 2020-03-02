@@ -1,0 +1,22 @@
+--2020-03-02 06:15:44--  http://www.instmod.edu.lb/files/files513f2ef07e4a7.pdf
+Resolving www.instmod.edu.lb (www.instmod.edu.lb)... 209.15.226.8
+Connecting to www.instmod.edu.lb (www.instmod.edu.lb)|209.15.226.8|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.instmod.edu.lb//files/files513f2ef07e4a7.pdf [following]
+--2020-03-02 06:15:44--  https://www.instmod.edu.lb//files/files513f2ef07e4a7.pdf
+Connecting to www.instmod.edu.lb (www.instmod.edu.lb)|209.15.226.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 366988 (358K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 2.21M 1s
+    50K .......... .......... .......... .......... .......... 27% 4.60M 1s
+   100K .......... .......... .......... .......... .......... 41%  131M 0s
+   150K .......... .......... .......... .......... .......... 55% 4.56M 0s
+   200K .......... .......... .......... .......... .......... 69%  177M 0s
+   250K .......... .......... .......... .......... .......... 83% 87.2M 0s
+   300K .......... .......... .......... .......... .......... 97% 4.93M 0s
+   350K ........                                              100%  674M=0.5s
+
+2020-03-02 06:15:45 (6.42 Mb/s) - ‘/dev/null’ saved [366988/366988]
+

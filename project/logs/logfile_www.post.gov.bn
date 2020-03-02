@@ -1,0 +1,11 @@
+--2020-03-02 01:29:43--  http://www.post.gov.bn/FormServerTemplates/PERMOHONAN%2520PERKHIDMATAN%2520PREMIUM.pdf
+Resolving www.post.gov.bn (www.post.gov.bn)... 103.4.188.86
+Connecting to www.post.gov.bn (www.post.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                  186K=0.3s
+
+2020-03-02 01:29:44 (186 Kb/s) - ‘/dev/null’ saved [7092]
+

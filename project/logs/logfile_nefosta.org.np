@@ -1,0 +1,18 @@
+--2020-03-02 08:09:18--  http://nefosta.org.np/media/A_simple_HPLC_Method.pdf
+Resolving nefosta.org.np (nefosta.org.np)... 144.76.110.154
+Connecting to nefosta.org.np (nefosta.org.np)|144.76.110.154|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://nefosta.org.np/media/A_simple_HPLC_Method.pdf [following]
+--2020-03-02 08:09:19--  https://nefosta.org.np/media/A_simple_HPLC_Method.pdf
+Connecting to nefosta.org.np (nefosta.org.np)|144.76.110.154|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 168299 (164K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 7.83M 0s
+    50K .......... .......... .......... .......... .......... 60% 21.4M 0s
+   100K .......... .......... .......... .......... .......... 91% 45.4M 0s
+   150K .......... ....                                       100% 1.43G=0.08s
+
+2020-03-02 08:09:19 (16.7 Mb/s) - ‘/dev/null’ saved [168299/168299]
+

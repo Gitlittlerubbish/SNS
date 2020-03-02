@@ -1,0 +1,14 @@
+--2020-03-02 03:58:01--  http://mastsavlebeli.ge/uploads/vacheishvili.pdf
+Resolving mastsavlebeli.ge (mastsavlebeli.ge)... 194.60.250.151
+Connecting to mastsavlebeli.ge (mastsavlebeli.ge)|194.60.250.151|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157599 (154K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 2.95M 0s
+    50K .......... .......... .......... .......... .......... 64% 5.90M 0s
+   100K .......... .......... .......... .......... .......... 97% 5.97M 0s
+   150K ...                                                   100%  199M=0.3s
+
+2020-03-02 03:58:02 (4.56 Mb/s) - ‘/dev/null’ saved [157599/157599]
+

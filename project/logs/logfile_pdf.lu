@@ -1,0 +1,23 @@
+--2020-03-02 06:28:15--  http://pdf.lu/8jIp
+Resolving pdf.lu (pdf.lu)... 212.83.181.111
+Connecting to pdf.lu (pdf.lu)|212.83.181.111|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pdf.lu/8jIp [following]
+--2020-03-02 06:28:15--  https://pdf.lu/8jIp
+Connecting to pdf.lu (pdf.lu)|212.83.181.111|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.fichier-pdf.fr/2016/11/05/worldriskreport2016/ [following]
+--2020-03-02 06:28:15--  https://www.fichier-pdf.fr/2016/11/05/worldriskreport2016/
+Resolving www.fichier-pdf.fr (www.fichier-pdf.fr)... 212.83.181.111
+Connecting to www.fichier-pdf.fr (www.fichier-pdf.fr)|212.83.181.111|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17.3M
+    50K .......... .......... .......... .......... .......... 31.2M
+   100K .......... .......... .......... .......... ..........  199M
+   150K .......... .......... .......... ...                    159M=0.04s
+
+2020-03-02 06:28:15 (37.0 Mb/s) - ‘/dev/null’ saved [187798]
+

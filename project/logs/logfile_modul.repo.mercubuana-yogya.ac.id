@@ -1,0 +1,14 @@
+--2020-03-02 04:53:22--  http://modul.repo.mercubuana-yogya.ac.id/modul/files/openjournal/OpenJournalOfSportMedicine/nrJEP.pdf
+Resolving modul.repo.mercubuana-yogya.ac.id (modul.repo.mercubuana-yogya.ac.id)... 103.58.111.85
+Connecting to modul.repo.mercubuana-yogya.ac.id (modul.repo.mercubuana-yogya.ac.id)|103.58.111.85|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176993 (173K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28%  444K 2s
+    50K .......... .......... .......... .......... .......... 57%  667K 1s
+   100K .......... .......... .......... .......... .......... 86%  797K 0s
+   150K .......... .......... ..                              100%  460K=2.5s
+
+2020-03-02 04:53:25 (576 Kb/s) - ‘/dev/null’ saved [176993/176993]
+

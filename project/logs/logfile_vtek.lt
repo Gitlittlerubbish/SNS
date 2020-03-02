@@ -1,0 +1,20 @@
+--2020-03-02 06:26:57--  http://vtek.lt/images/Privaciu_interesu_deklaravimas_2020.pdf
+Resolving vtek.lt (vtek.lt)... 195.182.95.155
+Connecting to vtek.lt (vtek.lt)|195.182.95.155|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://vtek.lt/images/Privaciu_interesu_deklaravimas_2020.pdf [following]
+--2020-03-02 06:26:58--  https://vtek.lt/images/Privaciu_interesu_deklaravimas_2020.pdf
+Connecting to vtek.lt (vtek.lt)|195.182.95.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 294229 (287K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 8.09M 0s
+    50K .......... .......... .......... .......... .......... 34% 8.01M 0s
+   100K .......... .......... .......... .......... .......... 52%  187M 0s
+   150K .......... .......... .......... .......... .......... 69%  223M 0s
+   200K .......... .......... .......... .......... .......... 87% 8.52M 0s
+   250K .......... .......... .......... .......              100%  102M=0.2s
+
+2020-03-02 06:26:58 (15.0 Mb/s) - ‘/dev/null’ saved [294229/294229]
+

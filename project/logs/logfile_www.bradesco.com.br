@@ -1,0 +1,18 @@
+--2020-03-02 01:15:18--  http://www.bradesco.com.br/pdf/termos/termo_tan_code.pdf
+Resolving www.bradesco.com.br (www.bradesco.com.br)... 104.78.176.31
+Connecting to www.bradesco.com.br (www.bradesco.com.br)|104.78.176.31|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://banco.bradesco/pdf/termos/termo_tan_code.pdf [following]
+--2020-03-02 01:15:18--  https://banco.bradesco/pdf/termos/termo_tan_code.pdf
+Resolving banco.bradesco (banco.bradesco)... 104.78.176.31
+Connecting to banco.bradesco (banco.bradesco)|104.78.176.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140406 (137K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 91.6M 0s
+    50K .......... .......... .......... .......... .......... 72% 78.1M 0s
+   100K .......... .......... .......... .......              100%  228M=0.01s
+
+2020-03-02 01:15:18 (102 Mb/s) - ‘/dev/null’ saved [140406/140406]
+

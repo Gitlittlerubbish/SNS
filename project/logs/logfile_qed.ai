@@ -1,0 +1,13 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 22:42:12--  https://qed.ai/cv/CV_william_wu.pdf
+Resolving qed.ai (qed.ai)... 194.1.144.25
+Connecting to qed.ai (qed.ai)|194.1.144.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 83162 (81K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 61% 6.70M 0s
+    50K .......... .......... .......... .                    100% 22.2M=0.07s
+
+2020-03-01 22:42:12 (9.16 Mb/s) - ‘/dev/null’ saved [83162/83162]
+

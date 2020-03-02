@@ -1,0 +1,17 @@
+--2020-03-02 03:03:17--  http://www.bezpecnostpotravin.cz/attachments/Bila_kniha.pdf
+Resolving www.bezpecnostpotravin.cz (www.bezpecnostpotravin.cz)... 81.0.228.111
+Connecting to www.bezpecnostpotravin.cz (www.bezpecnostpotravin.cz)|81.0.228.111|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bezpecnostpotravin.cz/attachments/Bila_kniha.pdf [following]
+--2020-03-02 03:03:18--  https://www.bezpecnostpotravin.cz/attachments/Bila_kniha.pdf
+Connecting to www.bezpecnostpotravin.cz (www.bezpecnostpotravin.cz)|81.0.228.111|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147035 (144K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 8.50M 0s
+    50K .......... .......... .......... .......... .......... 69% 17.7M 0s
+   100K .......... .......... .......... .......... ...       100% 39.4M=0.08s
+
+2020-03-02 03:03:18 (14.6 Mb/s) - ‘/dev/null’ saved [147035/147035]
+

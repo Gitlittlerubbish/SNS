@@ -1,0 +1,17 @@
+--2020-03-02 02:52:37--  http://www.ena.ci/docs/pochette_concours_professionnel.pdf
+Resolving www.ena.ci (www.ena.ci)... 31.207.33.133
+Connecting to www.ena.ci (www.ena.ci)|31.207.33.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ena.ci/docs/pochette_concours_professionnel.pdf [following]
+--2020-03-02 02:52:37--  https://www.ena.ci/docs/pochette_concours_professionnel.pdf
+Connecting to www.ena.ci (www.ena.ci)|31.207.33.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128560 (126K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 6.31M 0s
+    50K .......... .......... .......... .......... .......... 79% 8.47M 0s
+   100K .......... .......... .....                           100% 1.20G=0.1s
+
+2020-03-02 02:52:37 (9.07 Mb/s) - ‘/dev/null’ saved [128560/128560]
+

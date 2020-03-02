@@ -1,0 +1,16 @@
+--2020-03-02 03:29:22--  http://www.jbooleanz.gq/fileadmin/user_upload/160224_SMI_Manual_EN.pdf
+Resolving www.jbooleanz.gq (www.jbooleanz.gq)... 104.27.154.160, 104.27.155.160
+Connecting to www.jbooleanz.gq (www.jbooleanz.gq)|104.27.154.160|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 9.63M
+    50K .......... .......... .......... .......... ..........  151M
+   100K .......... .......... .......... .......... .......... 10.6M
+   150K .......... .......... .......... .......... ..........  148M
+   200K .......... .......... .......... .......... ..........  350M
+   250K .......... .......... .......... .......... .           199M=0.09s
+
+2020-03-02 03:29:23 (26.7 Mb/s) - ‘/dev/null’ saved [298544]
+

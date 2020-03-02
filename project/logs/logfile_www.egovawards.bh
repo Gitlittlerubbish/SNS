@@ -1,0 +1,22 @@
+--2020-03-01 23:57:16--  http://www.egovawards.bh/UploadedFiles/eGovExcellenceAward2010_28Apr2010Ar.pdf
+Resolving www.egovawards.bh (www.egovawards.bh)... 52.49.81.72, 54.154.100.240
+Connecting to www.egovawards.bh (www.egovawards.bh)|52.49.81.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.egovawards.bh:443/UploadedFiles/eGovExcellenceAward2010_28Apr2010Ar.pdf [following]
+--2020-03-01 23:57:16--  https://www.egovawards.bh/UploadedFiles/eGovExcellenceAward2010_28Apr2010Ar.pdf
+Connecting to www.egovawards.bh (www.egovawards.bh)|52.49.81.72|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 366187 (358K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 15.0M 0s
+    50K .......... .......... .......... .......... .......... 27% 27.9M 0s
+   100K .......... .......... .......... .......... .......... 41% 76.5M 0s
+   150K .......... .......... .......... .......... .......... 55% 44.4M 0s
+   200K .......... .......... .......... .......... .......... 69% 96.2M 0s
+   250K .......... .......... .......... .......... .......... 83% 56.6M 0s
+   300K .......... .......... .......... .......... .......... 97%  103M 0s
+   350K .......                                               100% 1.38G=0.07s
+
+2020-03-01 23:57:17 (40.7 Mb/s) - ‘/dev/null’ saved [366187/366187]
+

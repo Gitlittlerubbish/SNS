@@ -1,0 +1,15 @@
+--2020-03-02 05:08:23--  http://www.tribunalecassino.it/allegatinews/A_16942.pdf
+Resolving www.tribunalecassino.it (www.tribunalecassino.it)... 89.46.68.150
+Connecting to www.tribunalecassino.it (www.tribunalecassino.it)|89.46.68.150|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245401 (240K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 3.40M 0s
+    50K .......... .......... .......... .......... .......... 41% 12.2M 0s
+   100K .......... .......... .......... .......... .......... 62%  205M 0s
+   150K .......... .......... .......... .......... .......... 83% 12.9M 0s
+   200K .......... .......... .......... .........            100%  108M=0.2s
+
+2020-03-02 05:08:23 (10.3 Mb/s) - ‘/dev/null’ saved [245401/245401]
+

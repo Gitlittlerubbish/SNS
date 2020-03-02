@@ -1,0 +1,14 @@
+--2020-03-02 02:53:15--  http://www.integration.ci/Bookshelf/articles/Culture.pdf
+Resolving www.integration.ci (www.integration.ci)... 163.172.94.25
+Connecting to www.integration.ci (www.integration.ci)|163.172.94.25|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 171624 (168K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 13.0M 0s
+    50K .......... .......... .......... .......... .......... 59% 29.7M 0s
+   100K .......... .......... .......... .......... .......... 89% 80.8M 0s
+   150K .......... .......                                    100% 96.8M=0.05s
+
+2020-03-02 02:53:16 (26.4 Mb/s) - ‘/dev/null’ saved [171624/171624]
+

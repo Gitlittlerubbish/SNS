@@ -1,0 +1,14 @@
+--2020-03-01 23:59:57--  http://www.transportation.gov.bh/sites/default/files/cap19.pdf
+Resolving www.transportation.gov.bh (www.transportation.gov.bh)... 54.229.164.199
+Connecting to www.transportation.gov.bh (www.transportation.gov.bh)|54.229.164.199|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 192798 (188K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 13.9M 0s
+    50K .......... .......... .......... .......... .......... 53% 31.6M 0s
+   100K .......... .......... .......... .......... .......... 79%  105M 0s
+   150K .......... .......... .......... ........             100%  283M=0.05s
+
+2020-03-01 23:59:58 (32.5 Mb/s) - ‘/dev/null’ saved [192798/192798]
+

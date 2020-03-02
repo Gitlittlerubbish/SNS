@@ -1,0 +1,13 @@
+--2020-03-02 04:13:06--  http://www.dgt.gob.gt/Documentos/ReglamentoDGT.pdf
+Resolving www.dgt.gob.gt (www.dgt.gob.gt)... 104.27.158.143, 104.27.159.143
+Connecting to www.dgt.gob.gt (www.dgt.gob.gt)|104.27.158.143|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 150403 (147K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 28.1M 0s
+    50K .......... .......... .......... .......... .......... 68%  201M 0s
+   100K .......... .......... .......... .......... ......    100% 98.1M=0.02s
+
+2020-03-02 04:13:07 (58.5 Mb/s) - ‘/dev/null’ saved [150403/150403]
+

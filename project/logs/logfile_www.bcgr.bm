@@ -1,0 +1,21 @@
+--2020-03-02 00:34:24--  http://www.bcgr.bm/sites/all//files/2Q_13_Insurance_Report.pdf
+Resolving www.bcgr.bm (www.bcgr.bm)... 35.174.224.30, 54.174.145.22
+Connecting to www.bcgr.bm (www.bcgr.bm)|35.174.224.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bcgr.bm/sites/all//files/2Q_13_Insurance_Report.pdf [following]
+--2020-03-02 00:34:24--  https://www.bcgr.bm/sites/all//files/2Q_13_Insurance_Report.pdf
+Connecting to www.bcgr.bm (www.bcgr.bm)|35.174.224.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 348559 (340K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 4.73M 1s
+    50K .......... .......... .......... .......... .......... 29% 4.66M 0s
+   100K .......... .......... .......... .......... .......... 44%  120M 0s
+   150K .......... .......... .......... .......... .......... 58% 88.3M 0s
+   200K .......... .......... .......... .......... .......... 73% 5.06M 0s
+   250K .......... .......... .......... .......... .......... 88% 94.3M 0s
+   300K .......... .......... .......... ..........           100% 4.27M=0.3s
+
+2020-03-02 00:34:25 (8.08 Mb/s) - ‘/dev/null’ saved [348559/348559]
+

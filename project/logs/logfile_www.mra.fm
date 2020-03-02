@@ -1,0 +1,12 @@
+--2020-03-02 07:34:35--  http://www.mra.fm/pdfs/laws_admirality.pdf
+Resolving www.mra.fm (www.mra.fm)... 173.0.129.49
+Connecting to www.mra.fm (www.mra.fm)|173.0.129.49|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53269 (52K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 96% 1.73M 0s
+    50K ..                                                    100%  331K=0.2s
+
+2020-03-02 07:34:36 (1.80 Mb/s) - ‘/dev/null’ saved [53269/53269]
+

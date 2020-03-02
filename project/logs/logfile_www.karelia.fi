@@ -1,0 +1,22 @@
+--2020-03-02 03:45:29--  http://www.karelia.fi/rekisteriselosteet/Tietosuojaseloste_SoleOPS_SA_TimeEdit.pdf
+Resolving www.karelia.fi (www.karelia.fi)... 195.148.193.151
+Connecting to www.karelia.fi (www.karelia.fi)|195.148.193.151|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.karelia.fi/rekisteriselosteet/Tietosuojaseloste_SoleOPS_SA_TimeEdit.pdf [following]
+--2020-03-02 03:45:30--  https://www.karelia.fi/rekisteriselosteet/Tietosuojaseloste_SoleOPS_SA_TimeEdit.pdf
+Connecting to www.karelia.fi (www.karelia.fi)|195.148.193.151|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 373023 (364K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 4.36M 1s
+    50K .......... .......... .......... .......... .......... 27%  373M 0s
+   100K .......... .......... .......... .......... .......... 41% 8.71M 0s
+   150K .......... .......... .......... .......... .......... 54% 9.02M 0s
+   200K .......... .......... .......... .......... .......... 68%  162M 0s
+   250K .......... .......... .......... .......... .......... 82% 96.1M 0s
+   300K .......... .......... .......... .......... .......... 96% 9.75M 0s
+   350K .......... ....                                       100%  914M=0.2s
+
+2020-03-02 03:45:30 (12.6 Mb/s) - ‘/dev/null’ saved [373023/373023]
+

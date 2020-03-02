@@ -1,0 +1,34 @@
+--2020-03-02 00:34:04--  http://www.artemis.bm/downloads/ilsnyc2018-attendees-26Jan.pdf
+Resolving www.artemis.bm (www.artemis.bm)... 104.18.55.227, 104.18.54.227
+Connecting to www.artemis.bm (www.artemis.bm)|104.18.55.227|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.artemis.bm/downloads/ilsnyc2018-attendees-26Jan.pdf [following]
+--2020-03-02 00:34:04--  https://www.artemis.bm/downloads/ilsnyc2018-attendees-26Jan.pdf
+Connecting to www.artemis.bm (www.artemis.bm)|104.18.55.227|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56.9M
+    50K .......... .......... .......... .......... .......... 29.7M
+   100K .......... .......... ....                              103M=0.02s
+
+2020-03-02 00:34:04 (44.5 Mb/s) - ‘/dev/null’ saved [127626]
+
+--2020-03-02 00:34:12--  http://www.artemis.bm/downloads/ilsnyc2018-attendees-26Jan.pdf
+Resolving www.artemis.bm (www.artemis.bm)... 104.18.55.227, 104.18.54.227
+Connecting to www.artemis.bm (www.artemis.bm)|104.18.55.227|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.artemis.bm/downloads/ilsnyc2018-attendees-26Jan.pdf [following]
+--2020-03-02 00:34:12--  https://www.artemis.bm/downloads/ilsnyc2018-attendees-26Jan.pdf
+Connecting to www.artemis.bm (www.artemis.bm)|104.18.55.227|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 93.3M
+    50K .......... .......... .......... .......... ..........  143M
+   100K .......... .......... ....                              169M=0.008s
+
+2020-03-02 00:34:12 (121 Mb/s) - ‘/dev/null’ saved [127626]
+

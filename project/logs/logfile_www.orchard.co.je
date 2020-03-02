@@ -1,0 +1,24 @@
+--2020-03-02 05:22:18--  http://www.orchard.co.je/index.php/download_file/view/84/202/
+Resolving www.orchard.co.je (www.orchard.co.je)... 141.0.161.7
+Connecting to www.orchard.co.je (www.orchard.co.je)|141.0.161.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.orchard.co.je/index.php/download_file/view/84/202/ [following]
+--2020-03-02 05:22:18--  https://www.orchard.co.je/index.php/download_file/view/84/202/
+Connecting to www.orchard.co.je (www.orchard.co.je)|141.0.161.7|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.orchard.co.je/files/2514/5926/7305/Setting-up-your-Workstation-Factsheet.pdf [following]
+--2020-03-02 05:22:18--  https://www.orchard.co.je/files/2514/5926/7305/Setting-up-your-Workstation-Factsheet.pdf
+Reusing existing connection to www.orchard.co.je:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 271482 (265K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 35.4M 0s
+    50K .......... .......... .......... .......... .......... 37% 37.5M 0s
+   100K .......... .......... .......... .......... .......... 56%  210M 0s
+   150K .......... .......... .......... .......... .......... 75% 41.2M 0s
+   200K .......... .......... .......... .......... .......... 94%  110M 0s
+   250K .......... .....                                      100%  924M=0.04s
+
+2020-03-02 05:22:18 (56.8 Mb/s) - ‘/dev/null’ saved [271482/271482]
+

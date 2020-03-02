@@ -1,0 +1,15 @@
+--2020-03-02 08:30:36--  http://redbook.streamliners.co.nz/commonlyuseddrugs.pdf
+Resolving redbook.streamliners.co.nz (redbook.streamliners.co.nz)... 202.124.113.88
+Connecting to redbook.streamliners.co.nz (redbook.streamliners.co.nz)|202.124.113.88|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://redbook.streamliners.co.nz/commonlyuseddrugs.pdf [following]
+--2020-03-02 08:30:38--  https://redbook.streamliners.co.nz/commonlyuseddrugs.pdf
+Connecting to redbook.streamliners.co.nz (redbook.streamliners.co.nz)|202.124.113.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12163 (12K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                          100%  885M=0s
+
+2020-03-02 08:30:40 (885 Mb/s) - ‘/dev/null’ saved [12163/12163]
+

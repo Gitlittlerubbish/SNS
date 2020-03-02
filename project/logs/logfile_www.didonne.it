@@ -1,0 +1,12 @@
+--2020-03-02 05:08:51--  http://www.didonne.it/normativa/cartadirue4.pdf
+Resolving www.didonne.it (www.didonne.it)... 159.213.38.136
+Connecting to www.didonne.it (www.didonne.it)|159.213.38.136|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81645 (80K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62% 5.11M 0s
+    50K .......... .......... .........                       100%  103M=0.08s
+
+2020-03-02 05:08:53 (7.91 Mb/s) - ‘/dev/null’ saved [81645/81645]
+

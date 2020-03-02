@@ -1,0 +1,16 @@
+--2020-03-02 01:29:44--  http://www.aia.com.bn/en/help-support/aia-financial-statement.html
+Resolving www.aia.com.bn (www.aia.com.bn)... 104.123.92.206
+Connecting to www.aia.com.bn (www.aia.com.bn)|104.123.92.206|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.aia.com.bn/en/help-support/aia-financial-statement.html [following]
+--2020-03-02 01:29:45--  https://www.aia.com.bn/en/help-support/aia-financial-statement.html
+Connecting to www.aia.com.bn (www.aia.com.bn)|104.123.92.206|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66.0M
+    50K ........                                               1.15G=0.006s
+
+2020-03-02 01:29:45 (76.0 Mb/s) - ‘/dev/null’ saved [59546]
+

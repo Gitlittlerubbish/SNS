@@ -1,0 +1,16 @@
+--2020-03-02 06:16:46--  http://www.lau.edu.lb/about/policies/academic_affairs_policy.pdf
+Resolving www.lau.edu.lb (www.lau.edu.lb)... 104.16.221.96, 104.16.222.96
+Connecting to www.lau.edu.lb (www.lau.edu.lb)|104.16.221.96|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lau.edu.lb/about/policies/academic_affairs_policy.pdf [following]
+--2020-03-02 06:16:46--  https://www.lau.edu.lb/about/policies/academic_affairs_policy.pdf
+Connecting to www.lau.edu.lb (www.lau.edu.lb)|104.16.221.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69285 (68K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73% 78.7M 0s
+    50K .......... .......                                    100%  245M=0.006s
+
+2020-03-02 06:16:47 (95.6 Mb/s) - ‘/dev/null’ saved [69285/69285]
+

@@ -1,0 +1,13 @@
+--2020-03-02 03:02:38--  http://www.gskkompendium.cz/pil-bactroban
+Resolving www.gskkompendium.cz (www.gskkompendium.cz)... 52.7.67.53, 18.210.59.197, 34.192.19.115
+Connecting to www.gskkompendium.cz (www.gskkompendium.cz)|52.7.67.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143573 (140K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 2.40M 0s
+    50K .......... .......... .......... .......... .......... 71% 4.81M 0s
+   100K .......... .......... .......... ..........           100%  114M=0.3s
+
+2020-03-02 03:02:39 (4.44 Mb/s) - ‘/dev/null’ saved [143573/143573]
+

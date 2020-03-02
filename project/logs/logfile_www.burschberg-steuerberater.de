@@ -1,0 +1,27 @@
+--2020-03-02 04:00:29--  http://www.burschberg-steuerberater.de/download/5/
+Resolving www.burschberg-steuerberater.de (www.burschberg-steuerberater.de)... 109.237.138.12
+Connecting to www.burschberg-steuerberater.de (www.burschberg-steuerberater.de)|109.237.138.12|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.burschberg-steuerberater.de/download/5/ [following]
+--2020-03-02 04:00:30--  https://www.burschberg-steuerberater.de/download/5/
+Connecting to www.burschberg-steuerberater.de (www.burschberg-steuerberater.de)|109.237.138.12|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22718 (22K) [application/download]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..                              100% 6.89M=0.03s
+
+2020-03-02 04:00:32 (6.89 Mb/s) - ‘/dev/null’ saved [22718/22718]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 04:00:33--  https://www.burschberg-steuerberater.de/download/5/
+Resolving www.burschberg-steuerberater.de (www.burschberg-steuerberater.de)... 109.237.138.12
+Connecting to www.burschberg-steuerberater.de (www.burschberg-steuerberater.de)|109.237.138.12|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22718 (22K) [application/download]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..                              100% 6.71M=0.03s
+
+2020-03-02 04:00:33 (6.71 Mb/s) - ‘/dev/null’ saved [22718/22718]
+

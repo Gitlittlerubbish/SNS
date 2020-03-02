@@ -1,0 +1,13 @@
+--2020-03-02 04:15:27--  http://www.healthcare.gg/wp-content/uploads/2013/06/Pilot-Addition-Test-Corrective-Lenses.pdf
+Resolving www.healthcare.gg (www.healthcare.gg)... 80.244.176.38
+Connecting to www.healthcare.gg (www.healthcare.gg)|80.244.176.38|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107534 (105K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 19.6M 0s
+    50K .......... .......... .......... .......... .......... 95% 38.0M 0s
+   100K .....                                                 100%  446M=0.03s
+
+2020-03-02 04:15:27 (27.1 Mb/s) - ‘/dev/null’ saved [107534/107534]
+

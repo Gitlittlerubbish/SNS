@@ -1,0 +1,23 @@
+--2020-03-02 04:51:16--  http://idx.co.id/media/5379/sido.pdf
+Resolving idx.co.id (idx.co.id)... 111.95.248.111
+Connecting to idx.co.id (idx.co.id)|111.95.248.111|:80... connected.
+HTTP request sent, awaiting response... 307 Moved Temporarily
+Location: https://idx.co.id/media/5379/sido.pdf [following]
+--2020-03-02 04:51:16--  https://idx.co.id/media/5379/sido.pdf
+Connecting to idx.co.id (idx.co.id)|111.95.248.111|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  240M
+    50K .......... .......... .......... .......... ..........  273M
+   100K .......... .......... .......... .......... .......... 1.76M
+   150K .......... .......... .......... .......... .......... 1.95M
+   200K .......... .......... .......... .......... .......... 29.2M
+   250K .......... .......... .......... .......... .......... 2.04M
+   300K .......... .......... .......... .......... .......... 44.0M
+   350K .......... .......... .......... .......... .......... 2.01M
+   400K .......... .......... .......... .......... .........   128M=0.9s
+
+2020-03-02 04:51:18 (4.20 Mb/s) - ‘/dev/null’ saved [459953]
+

@@ -1,0 +1,17 @@
+--2020-03-01 22:21:42--  http://www.eldjazaireldjadida.dz/IMG/pdf/rand_pe185z1.arabic.pdf
+Resolving www.eldjazaireldjadida.dz (www.eldjazaireldjadida.dz)... 136.243.68.206
+Connecting to www.eldjazaireldjadida.dz (www.eldjazaireldjadida.dz)|136.243.68.206|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310720 (303K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 8.57M 0s
+    50K .......... .......... .......... .......... .......... 32% 20.4M 0s
+   100K .......... .......... .......... .......... .......... 49% 40.6M 0s
+   150K .......... .......... .......... .......... .......... 65% 67.0M 0s
+   200K .......... .......... .......... .......... .......... 82% 31.9M 0s
+   250K .......... .......... .......... .......... .......... 98% 49.4M 0s
+   300K ...                                                   100%  258M=0.1s
+
+2020-03-01 22:21:43 (23.6 Mb/s) - ‘/dev/null’ saved [310720/310720]
+

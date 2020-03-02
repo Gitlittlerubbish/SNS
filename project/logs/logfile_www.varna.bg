@@ -1,0 +1,16 @@
+--2020-03-02 01:31:22--  http://www.varna.bg/docs/adresi_ofisi_vreme_ccb.pdf
+Resolving www.varna.bg (www.varna.bg)... 185.80.0.88
+Connecting to www.varna.bg (www.varna.bg)|185.80.0.88|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.varna.bg/docs/adresi_ofisi_vreme_ccb.pdf [following]
+--2020-03-02 01:31:22--  https://www.varna.bg/docs/adresi_ofisi_vreme_ccb.pdf
+Connecting to www.varna.bg (www.varna.bg)|185.80.0.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89542 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 4.19M 0s
+    50K .......... .......... .......... .......              100%  127M=0.1s
+
+2020-03-02 01:31:22 (7.15 Mb/s) - ‘/dev/null’ saved [89542/89542]
+

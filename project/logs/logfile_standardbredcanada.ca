@@ -1,0 +1,15 @@
+--2020-03-02 01:51:28--  http://standardbredcanada.ca/files/YR0217P5.pdf
+Resolving standardbredcanada.ca (standardbredcanada.ca)... 104.20.55.28, 104.20.56.28
+Connecting to standardbredcanada.ca (standardbredcanada.ca)|104.20.55.28|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217571 (212K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 57.9M 0s
+    50K .......... .......... .......... .......... .......... 47% 1.08G 0s
+   100K .......... .......... .......... .......... .......... 70% 51.5M 0s
+   150K .......... .......... .......... .......... .......... 94% 62.5M 0s
+   200K .......... ..                                         100%  837M=0.02s
+
+2020-03-02 01:51:29 (78.8 Mb/s) - ‘/dev/null’ saved [217571/217571]
+

@@ -1,0 +1,12 @@
+--2020-03-02 01:09:05--  http://www2.videolivraria.com.br/pdfs/11675.pdf
+Resolving www2.videolivraria.com.br (www2.videolivraria.com.br)... 99.86.255.188, 99.86.255.150, 99.86.255.218, ...
+Connecting to www2.videolivraria.com.br (www2.videolivraria.com.br)|99.86.255.188|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69078 (67K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 74% 2.78M 0s
+    50K .......... .......                                    100% 68.9M=0.1s
+
+2020-03-02 01:09:06 (3.70 Mb/s) - ‘/dev/null’ saved [69078/69078]
+

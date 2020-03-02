@@ -1,0 +1,19 @@
+--2020-03-02 04:21:13--  http://anap.gouv.ht/documents/Liste_des_APs.pdf
+Resolving anap.gouv.ht (anap.gouv.ht)... 162.241.225.159
+Connecting to anap.gouv.ht (anap.gouv.ht)|162.241.225.159|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://anap.gouv.ht/documents/Liste_des_APs.pdf [following]
+--2020-03-02 04:21:14--  https://anap.gouv.ht/documents/Liste_des_APs.pdf
+Connecting to anap.gouv.ht (anap.gouv.ht)|162.241.225.159|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246295 (241K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.69M 1s
+    50K .......... .......... .......... .......... .......... 41% 3.34M 1s
+   100K .......... .......... .......... .......... .......... 62%  482M 0s
+   150K .......... .......... .......... .......... .......... 83%  146M 0s
+   200K .......... .......... .......... ..........           100% 2.77M=0.5s
+
+2020-03-02 04:21:15 (4.04 Mb/s) - ‘/dev/null’ saved [246295/246295]
+

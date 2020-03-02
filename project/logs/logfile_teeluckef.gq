@@ -1,0 +1,12 @@
+--2020-03-02 03:27:36--  http://teeluckef.gq/wm477164
+Resolving teeluckef.gq (teeluckef.gq)... 104.18.56.51, 104.18.57.51
+Connecting to teeluckef.gq (teeluckef.gq)|104.18.56.51|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.88M
+    50K .......... .......... .......... .........              127M=0.09s
+
+2020-03-02 03:27:36 (8.50 Mb/s) - ‘/dev/null’ saved [91924]
+

@@ -1,0 +1,13 @@
+--2020-03-02 04:22:10--  http://www.outofoffice.hm/wp-content/uploads/2016/10/OutofOfficeCodeofConduct.pdf
+Resolving www.outofoffice.hm (www.outofoffice.hm)... 23.185.0.4
+Connecting to www.outofoffice.hm (www.outofoffice.hm)|23.185.0.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108536 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 32.4M 0s
+    50K .......... .......... .......... .......... .......... 94% 41.0M 0s
+   100K .....                                                 100% 51.1M=0.02s
+
+2020-03-02 04:22:11 (36.8 Mb/s) - ‘/dev/null’ saved [108536/108536]
+

@@ -1,0 +1,16 @@
+--2020-03-02 00:39:43--  http://www.citizenservices.gov.bt/JobPortal/manuals/Jobportal_Manual.pdf
+Resolving www.citizenservices.gov.bt (www.citizenservices.gov.bt)... 103.78.116.143
+Connecting to www.citizenservices.gov.bt (www.citizenservices.gov.bt)|103.78.116.143|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.citizenservices.gov.bt/JobPortal/manuals/Jobportal_Manual.pdf [following]
+--2020-03-02 00:39:44--  https://www.citizenservices.gov.bt/JobPortal/manuals/Jobportal_Manual.pdf
+Connecting to www.citizenservices.gov.bt (www.citizenservices.gov.bt)|103.78.116.143|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93493 (91K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54% 1.24M 0s
+    50K .......... .......... .......... .......... .         100% 2.05M=0.5s
+
+2020-03-02 00:39:45 (1.51 Mb/s) - ‘/dev/null’ saved [93493/93493]
+

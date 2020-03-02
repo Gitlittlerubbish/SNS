@@ -1,0 +1,12 @@
+--2020-03-02 02:55:09--  http://www.cropex.hr/images/Popis_drzavnih_blagdana.pdf
+Resolving www.cropex.hr (www.cropex.hr)... 185.15.29.110
+Connecting to www.cropex.hr (www.cropex.hr)|185.15.29.110|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84578 (83K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 60% 2.78M 0s
+    50K .......... .......... .......... ..                   100% 6.33M=0.2s
+
+2020-03-02 02:55:09 (3.57 Mb/s) - ‘/dev/null’ saved [84578/84578]
+

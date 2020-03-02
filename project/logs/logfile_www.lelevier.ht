@@ -1,0 +1,14 @@
+--2020-03-02 04:21:07--  http://www.lelevier.ht/download/down/Loi_les_caisses_2002.pdf
+Resolving www.lelevier.ht (www.lelevier.ht)... 64.91.231.151
+Connecting to www.lelevier.ht (www.lelevier.ht)|64.91.231.151|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189405 (185K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 1.95M 1s
+    50K .......... .......... .......... .......... .......... 54% 4.09M 0s
+   100K .......... .......... .......... .......... .......... 81%  110M 0s
+   150K .......... .......... .......... ....                 100% 1.54G=0.3s
+
+2020-03-02 04:21:08 (4.82 Mb/s) - ‘/dev/null’ saved [189405/189405]
+

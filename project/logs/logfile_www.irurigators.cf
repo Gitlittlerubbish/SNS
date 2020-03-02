@@ -1,0 +1,24 @@
+--2020-03-02 02:02:10--  http://www.irurigators.cf/7229587/F002_Fokus_028-035.pdf
+Resolving www.irurigators.cf (www.irurigators.cf)... 104.31.80.159, 104.31.81.159
+Connecting to www.irurigators.cf (www.irurigators.cf)|104.31.80.159|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 53.7M
+    50K .......... .........                                    687M=0.008s
+
+2020-03-02 02:02:11 (71.9 Mb/s) - ‘/dev/null’ saved [70684]
+
+--2020-03-02 02:02:11--  http://www.irurigators.cf/4379832/F002_Focus_026-033.pdf
+Resolving www.irurigators.cf (www.irurigators.cf)... 104.31.80.159, 104.31.81.159
+Connecting to www.irurigators.cf (www.irurigators.cf)|104.31.80.159|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 86.4M
+    50K .......... .......... .......... ..........             134M=0.007s
+
+2020-03-02 02:02:11 (103 Mb/s) - ‘/dev/null’ saved [92937]
+

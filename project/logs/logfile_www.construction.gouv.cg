@@ -1,0 +1,17 @@
+--2020-03-02 02:36:51--  http://www.construction.gouv.cg/documents/loiExercice.pdf
+Resolving www.construction.gouv.cg (www.construction.gouv.cg)... 198.136.54.34
+Connecting to www.construction.gouv.cg (www.construction.gouv.cg)|198.136.54.34|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.construction.gouv.cg/documents/loiExercice.pdf [following]
+--2020-03-02 02:36:51--  https://www.construction.gouv.cg/documents/loiExercice.pdf
+Connecting to www.construction.gouv.cg (www.construction.gouv.cg)|198.136.54.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105000 (103K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 1.65M 0s
+    50K .......... .......... .......... .......... .......... 97% 3.63M 0s
+   100K ..                                                    100%  416K=0.4s
+
+2020-03-02 02:36:52 (2.33 Mb/s) - ‘/dev/null’ saved [105000/105000]
+

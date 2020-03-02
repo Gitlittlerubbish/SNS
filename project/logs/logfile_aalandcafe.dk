@@ -1,0 +1,12 @@
+--2020-03-02 03:04:53--  http://aalandcafe.dk/menukort/morgenmad_brunch.pdf
+Resolving aalandcafe.dk (aalandcafe.dk)... 46.30.215.213
+Connecting to aalandcafe.dk (aalandcafe.dk)|46.30.215.213|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 58324 (57K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 87% 7.30M 0s
+    50K ......                                                100%  413M=0.06s
+
+2020-03-02 03:04:54 (8.30 Mb/s) - ‘/dev/null’ saved [58324/58324]
+

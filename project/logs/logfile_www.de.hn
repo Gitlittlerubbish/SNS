@@ -1,0 +1,27 @@
+--2020-03-02 04:24:21--  http://www.de.hn/form
+Resolving www.de.hn (www.de.hn)... 138.201.54.4
+Connecting to www.de.hn (www.de.hn)|138.201.54.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://de.hn/form [following]
+--2020-03-02 04:24:21--  http://de.hn/form
+Resolving de.hn (de.hn)... 138.201.54.4
+Reusing existing connection to www.de.hn:80.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.dehn.de/sites/default/files/media/files/2018-06/form-2120-d-din-en62305-3_0.pdf [following]
+--2020-03-02 04:24:21--  https://www.dehn.de/sites/default/files/media/files/2018-06/form-2120-d-din-en62305-3_0.pdf
+Resolving www.dehn.de (www.dehn.de)... 138.201.54.4
+Connecting to www.dehn.de (www.dehn.de)|138.201.54.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 329602 (322K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 8.47M 0s
+    50K .......... .......... .......... .......... .......... 31% 16.9M 0s
+   100K .......... .......... .......... .......... .......... 46%  103M 0s
+   150K .......... .......... .......... .......... .......... 62% 20.8M 0s
+   200K .......... .......... .......... .......... .......... 77%  181M 0s
+   250K .......... .......... .......... .......... .......... 93% 81.2M 0s
+   300K .......... .......... .                               100%  830M=0.1s
+
+2020-03-02 04:24:22 (25.4 Mb/s) - ‘/dev/null’ saved [329602/329602]
+

@@ -1,0 +1,20 @@
+--2020-03-02 06:24:18--  http://alah.li/1gjSq89
+Resolving alah.li (alah.li)... 67.199.248.12, 67.199.248.13
+Connecting to alah.li (alah.li)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://alahli.com/en-us/business-banking/business-banking-services/Documents/NCBRetailBankingFees.pdf [following]
+--2020-03-02 06:24:19--  http://alahli.com/en-us/business-banking/business-banking-services/Documents/NCBRetailBankingFees.pdf
+Resolving alahli.com (alahli.com)... 213.5.173.68, 213.5.174.11
+Connecting to alahli.com (alahli.com)|213.5.173.68|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://alahli.com/en-us/business-banking/business-banking-services/Documents/NCBRetailBankingFees.pdf [following]
+--2020-03-02 06:24:20--  https://alahli.com/en-us/business-banking/business-banking-services/Documents/NCBRetailBankingFees.pdf
+Connecting to alahli.com (alahli.com)|213.5.173.68|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 247 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  152M=0s
+
+2020-03-02 06:24:21 (152 Mb/s) - ‘/dev/null’ saved [247/247]
+

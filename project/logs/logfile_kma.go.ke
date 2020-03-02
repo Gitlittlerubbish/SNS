@@ -1,0 +1,20 @@
+--2020-03-02 05:32:44--  http://kma.go.ke/images/docs/IMOSulphurLimit/Guidance_on_best_practice_for_assuring_the_quality_of_fuel_oil_delivered_to_ships.pdf
+Resolving kma.go.ke (kma.go.ke)... 197.248.5.22
+Connecting to kma.go.ke (kma.go.ke)|197.248.5.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kma.go.ke/images/docs/IMOSulphurLimit/Guidance_on_best_practice_for_assuring_the_quality_of_fuel_oil_delivered_to_ships.pdf [following]
+--2020-03-02 05:32:46--  https://kma.go.ke/images/docs/IMOSulphurLimit/Guidance_on_best_practice_for_assuring_the_quality_of_fuel_oil_delivered_to_ships.pdf
+Connecting to kma.go.ke (kma.go.ke)|197.248.5.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 303791 (297K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16%  785K 3s
+    50K .......... .......... .......... .......... .......... 33% 2.44M 1s
+   100K .......... .......... .......... .......... .......... 50% 2.44M 1s
+   150K .......... .......... .......... .......... .......... 67% 6.73M 0s
+   200K .......... .......... .......... .......... .......... 84%  881K 0s
+   250K .......... .......... .......... .......... ......    100%  465M=1.4s
+
+2020-03-02 05:32:48 (1.75 Mb/s) - ‘/dev/null’ saved [303791/303791]
+

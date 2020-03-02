@@ -1,0 +1,38 @@
+--2020-03-02 04:14:46--  http://jb.gg/ij_roi
+Resolving jb.gg (jb.gg)... 13.227.170.25, 13.227.170.47, 13.227.170.129, ...
+Connecting to jb.gg (jb.gg)|13.227.170.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jb.gg/ij_roi [following]
+--2020-03-02 04:14:46--  https://jb.gg/ij_roi
+Connecting to jb.gg (jb.gg)|13.227.170.25|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bit.ly/ij_roi [following]
+--2020-03-02 04:14:47--  https://bit.ly/ij_roi
+Resolving bit.ly (bit.ly)... 67.199.248.11, 67.199.248.10
+Connecting to bit.ly (bit.ly)|67.199.248.11|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://resources.jetbrains.com/storage/products/intellij-idea/docs/forrester_tei.pdf [following]
+--2020-03-02 04:14:47--  https://resources.jetbrains.com/storage/products/intellij-idea/docs/forrester_tei.pdf
+Resolving resources.jetbrains.com (resources.jetbrains.com)... 99.86.3.44, 99.86.3.56, 99.86.3.58, ...
+Connecting to resources.jetbrains.com (resources.jetbrains.com)|99.86.3.44|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 714184 (697K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 7.57M 1s
+    50K .......... .......... .......... .......... .......... 14% 28.6M 0s
+   100K .......... .......... .......... .......... .......... 21% 24.7M 0s
+   150K .......... .......... .......... .......... .......... 28% 90.1M 0s
+   200K .......... .......... .......... .......... .......... 35% 35.0M 0s
+   250K .......... .......... .......... .......... .......... 43% 92.3M 0s
+   300K .......... .......... .......... .......... .......... 50% 33.3M 0s
+   350K .......... .......... .......... .......... .......... 57% 84.0M 0s
+   400K .......... .......... .......... .......... .......... 64%  166M 0s
+   450K .......... .......... .......... .......... .......... 71%  212M 0s
+   500K .......... .......... .......... .......... .......... 78% 56.9M 0s
+   550K .......... .......... .......... .......... .......... 86% 92.7M 0s
+   600K .......... .......... .......... .......... .......... 93%  161M 0s
+   650K .......... .......... .......... .......... .......   100%  122M=0.1s
+
+2020-03-02 04:14:47 (39.5 Mb/s) - ‘/dev/null’ saved [714184/714184]
+

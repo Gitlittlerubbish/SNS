@@ -1,0 +1,11 @@
+--2020-03-02 00:30:21--  http://www.sahamassurance.bj/sites/default/files/Devis_0.pdf
+Resolving www.sahamassurance.bj (www.sahamassurance.bj)... 41.77.119.154
+Connecting to www.sahamassurance.bj (www.sahamassurance.bj)|41.77.119.154|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32764 (32K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .                    100% 2.98M=0.09s
+
+2020-03-02 00:30:22 (2.98 Mb/s) - ‘/dev/null’ saved [32764/32764]
+

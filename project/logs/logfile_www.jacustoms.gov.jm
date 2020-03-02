@@ -1,0 +1,21 @@
+--2020-03-02 05:11:41--  http://www.jacustoms.gov.jm/sites/default/files/auctionmay2019_0.pdf
+Resolving www.jacustoms.gov.jm (www.jacustoms.gov.jm)... 196.3.191.16
+Connecting to www.jacustoms.gov.jm (www.jacustoms.gov.jm)|196.3.191.16|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.jacustoms.gov.jm/sites/default/files/auctionmay2019_0.pdf [following]
+--2020-03-02 05:11:41--  https://www.jacustoms.gov.jm/sites/default/files/auctionmay2019_0.pdf
+Connecting to www.jacustoms.gov.jm (www.jacustoms.gov.jm)|196.3.191.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 310798 (304K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 1.28M 2s
+    50K .......... .......... .......... .......... .......... 32% 1.57M 1s
+   100K .......... .......... .......... .......... .......... 49% 6.84M 1s
+   150K .......... .......... .......... .......... .......... 65% 2.74M 0s
+   200K .......... .......... .......... .......... .......... 82%  138M 0s
+   250K .......... .......... .......... .......... .......... 98% 2.12M 0s
+   300K ...                                                   100%  576K=1.0s
+
+2020-03-02 05:11:43 (2.52 Mb/s) - ‘/dev/null’ saved [310798/310798]
+

@@ -1,0 +1,13 @@
+--2020-03-02 06:06:23--  http://ntc.kg/doc/kyrgiz_tili_rodnoy_11kl.pdf
+Resolving ntc.kg (ntc.kg)... 195.38.166.154
+Connecting to ntc.kg (ntc.kg)|195.38.166.154|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124737 (122K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 1.80M 0s
+    50K .......... .......... .......... .......... .......... 82% 4.05M 0s
+   100K .......... .......... .                               100% 6.85M=0.4s
+
+2020-03-02 06:06:24 (2.81 Mb/s) - ‘/dev/null’ saved [124737/124737]
+

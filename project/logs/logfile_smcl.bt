@@ -1,0 +1,12 @@
+--2020-03-02 00:36:41--  http://smcl.bt/download/crushing.pdf
+Resolving smcl.bt (smcl.bt)... 202.144.128.156
+Connecting to smcl.bt (smcl.bt)|202.144.128.156|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88711 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 1.20M 0s
+    50K .......... .......... .......... ......               100%  126M=0.3s
+
+2020-03-02 00:36:41 (2.06 Mb/s) - ‘/dev/null’ saved [88711/88711]
+

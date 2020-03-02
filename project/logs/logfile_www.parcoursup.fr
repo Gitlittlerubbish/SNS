@@ -1,0 +1,17 @@
+--2020-03-02 03:46:32--  http://www.parcoursup.fr/documentspdf/psup_calendrier_A3_05_dbac_web.pdf
+Resolving www.parcoursup.fr (www.parcoursup.fr)... 193.54.151.194, 193.54.151.193
+Connecting to www.parcoursup.fr (www.parcoursup.fr)|193.54.151.194|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.parcoursup.fr/documentspdf/psup_calendrier_A3_05_dbac_web.pdf [following]
+--2020-03-02 03:46:32--  https://www.parcoursup.fr/documentspdf/psup_calendrier_A3_05_dbac_web.pdf
+Connecting to www.parcoursup.fr (www.parcoursup.fr)|193.54.151.194|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109955 (107K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 3.22M 0s
+    50K .......... .......... .......... .......... .......... 93% 9.21M 0s
+   100K .......                                               100%  657M=0.2s
+
+2020-03-02 03:46:33 (5.12 Mb/s) - ‘/dev/null’ saved [109955/109955]
+

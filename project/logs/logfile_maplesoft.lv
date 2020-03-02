@@ -1,0 +1,26 @@
+--2020-03-02 06:13:42--  http://maplesoft.lv/documentation_center/Maplesoft_EULA.pdf
+Resolving maplesoft.lv (maplesoft.lv)... 199.71.183.26
+Connecting to maplesoft.lv (maplesoft.lv)|199.71.183.26|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: http://www.maplesoft.com/documentation_center/Maplesoft_EULA.pdf [following]
+--2020-03-02 06:13:42--  http://www.maplesoft.com/documentation_center/Maplesoft_EULA.pdf
+Resolving www.maplesoft.com (www.maplesoft.com)... 199.71.183.28
+Connecting to www.maplesoft.com (www.maplesoft.com)|199.71.183.28|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.maplesoft.com/documentation_center/Maplesoft_EULA.pdf [following]
+--2020-03-02 06:13:42--  https://www.maplesoft.com/documentation_center/Maplesoft_EULA.pdf
+Connecting to www.maplesoft.com (www.maplesoft.com)|199.71.183.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 344411 (336K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 3.64M 1s
+    50K .......... .......... .......... .......... .......... 29% 3.82M 1s
+   100K .......... .......... .......... .......... .......... 44% 3.89M 0s
+   150K .......... .......... .......... .......... .......... 59% 90.7M 0s
+   200K .......... .......... .......... .......... .......... 74% 96.9M 0s
+   250K .......... .......... .......... .......... .......... 89% 4.02M 0s
+   300K .......... .......... .......... ......               100%  117M=0.4s
+
+2020-03-02 06:13:43 (6.29 Mb/s) - ‘/dev/null’ saved [344411/344411]
+

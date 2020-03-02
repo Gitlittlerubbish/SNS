@@ -1,0 +1,17 @@
+--2020-03-02 03:31:04--  http://www.riigiteataja.ee/akt/104042017014.pdf
+Resolving www.riigiteataja.ee (www.riigiteataja.ee)... 194.106.119.102, 213.184.53.241
+Connecting to www.riigiteataja.ee (www.riigiteataja.ee)|194.106.119.102|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.riigiteataja.ee/akt/104042017014.pdf [following]
+--2020-03-02 03:31:04--  https://www.riigiteataja.ee/akt/104042017014.pdf
+Connecting to www.riigiteataja.ee (www.riigiteataja.ee)|194.106.119.102|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145592 (142K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 8.11M 0s
+    50K .......... .......... .......... .......... .......... 70% 8.33M 0s
+   100K .......... .......... .......... .......... ..        100%  107M=0.1s
+
+2020-03-02 03:31:05 (11.3 Mb/s) - ‘/dev/null’ saved [145592/145592]
+

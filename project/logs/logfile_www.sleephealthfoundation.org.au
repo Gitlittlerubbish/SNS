@@ -1,0 +1,16 @@
+--2020-03-01 23:34:55--  http://www.sleephealthfoundation.org.au/pdfs/Narcolepsy.pdf
+Resolving www.sleephealthfoundation.org.au (www.sleephealthfoundation.org.au)... 103.68.208.67
+Connecting to www.sleephealthfoundation.org.au (www.sleephealthfoundation.org.au)|103.68.208.67|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 271724 (265K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18%  647K 3s
+    50K .......... .......... .......... .......... .......... 37% 1.33M 2s
+   100K .......... .......... .......... .......... .......... 56% 1.33M 1s
+   150K .......... .......... .......... .......... .......... 75% 1.33M 1s
+   200K .......... .......... .......... .......... .......... 94% 1.33M 0s
+   250K .......... .....                                      100%  635M=1.9s
+
+2020-03-01 23:34:59 (1.17 Mb/s) - ‘/dev/null’ saved [271724/271724]
+

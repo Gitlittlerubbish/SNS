@@ -1,0 +1,20 @@
+--2020-03-02 03:32:11--  http://www.kra.ee/static/Tervisedeklaratsioon.pdf
+Resolving www.kra.ee (www.kra.ee)... 213.184.42.41
+Connecting to www.kra.ee (www.kra.ee)|213.184.42.41|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.kra.ee/static/Tervisedeklaratsioon.pdf [following]
+--2020-03-02 03:32:12--  https://www.kra.ee/static/Tervisedeklaratsioon.pdf
+Connecting to www.kra.ee (www.kra.ee)|213.184.42.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284804 (278K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 3.69M 1s
+    50K .......... .......... .......... .......... .......... 35% 7.17M 0s
+   100K .......... .......... .......... .......... .......... 53%  117M 0s
+   150K .......... .......... .......... .......... .......... 71%  309M 0s
+   200K .......... .......... .......... .......... .......... 89% 7.75M 0s
+   250K .......... .......... ........                        100%  195M=0.2s
+
+2020-03-02 03:32:12 (10.0 Mb/s) - ‘/dev/null’ saved [284804/284804]
+

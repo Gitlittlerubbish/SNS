@@ -1,0 +1,26 @@
+--2020-03-02 00:20:37--  http://aml.bz/2E6VXi9
+Resolving aml.bz (aml.bz)... 67.199.248.12
+Connecting to aml.bz (aml.bz)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://fas.org/sgp/crs/misc/R45076.pdf?utm_content=buffer1637f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer [following]
+--2020-03-02 00:20:37--  https://fas.org/sgp/crs/misc/R45076.pdf?utm_content=buffer1637f&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+Resolving fas.org (fas.org)... 104.20.179.2, 104.20.178.2
+Connecting to fas.org (fas.org)|104.20.179.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 514884 (503K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9%  160M 0s
+    50K .......... .......... .......... .......... .......... 19%  536M 0s
+   100K .......... .......... .......... .......... .......... 29%  203M 0s
+   150K .......... .......... .......... .......... .......... 39%  313M 0s
+   200K .......... .......... .......... .......... .......... 49%  112M 0s
+   250K .......... .......... .......... .......... .......... 59% 83.4M 0s
+   300K .......... .......... .......... .......... .......... 69%  570M 0s
+   350K .......... .......... .......... .......... .......... 79%  210M 0s
+   400K .......... .......... .......... .......... .......... 89%  252M 0s
+   450K .......... .......... .......... .......... .......... 99% 1.80M 0s
+   500K ..                                                    100%  461M=0.2s
+
+2020-03-02 00:20:37 (16.7 Mb/s) - ‘/dev/null’ saved [514884/514884]
+

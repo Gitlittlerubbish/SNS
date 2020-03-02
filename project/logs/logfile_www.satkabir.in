@@ -1,0 +1,14 @@
+--2020-03-02 04:43:27--  http://www.satkabir.in/consp_doc/japjisahib.pdf
+Resolving www.satkabir.in (www.satkabir.in)... 116.206.105.72
+Connecting to www.satkabir.in (www.satkabir.in)|116.206.105.72|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 162196 (158K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.47M 1s
+    50K .......... .......... .......... .......... .......... 63% 2.96M 0s
+   100K .......... .......... .......... .......... .......... 94% 60.2M 0s
+   150K ........                                              100% 1.06G=0.4s
+
+2020-03-02 04:43:28 (3.06 Mb/s) - ‘/dev/null’ saved [162196/162196]
+

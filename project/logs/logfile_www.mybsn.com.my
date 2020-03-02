@@ -1,0 +1,26 @@
+--2020-03-02 07:02:15--  http://www.mybsn.com.my/formdownload%3FformDownloadId%3D162
+Resolving www.mybsn.com.my (www.mybsn.com.my)... 1.9.17.20, 202.187.110.20
+Connecting to www.mybsn.com.my (www.mybsn.com.my)|1.9.17.20|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.mybsn.com.my/formdownload?formDownloadId=162 [following]
+--2020-03-02 07:02:17--  https://www.mybsn.com.my/formdownload?formDownloadId=162
+Connecting to www.mybsn.com.my (www.mybsn.com.my)|1.9.17.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.11M
+    50K .......... .......... .......... .......... .......... 1.03M
+   100K .......... .......... .......... .......... ..........  537K
+   150K .......... .......... .......... .......... ..........  546K
+   200K .......... .......... .......... .......... .......... 1.33M
+   250K .......... .......... .......... .......... .......... 1.33M
+   300K .......... .......... .......... .......... ..........  732K
+   350K .......... .......... .......... .......... .......... 1.14M
+   400K .......... .......... .......... .......... .......... 1.33M
+   450K .......... .......... .......... .......... .......... 1.77M
+   500K .......... .......... .......... .......... ..........  698K
+   550K ....                                                    796M=4.9s
+
+2020-03-02 07:02:23 (919 Kb/s) - ‘/dev/null’ saved [567577]
+

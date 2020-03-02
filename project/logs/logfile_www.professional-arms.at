@@ -1,0 +1,46 @@
+--2020-03-01 23:43:29--  http://www.professional-arms.at/download/WBK_WP.pdf
+Resolving www.professional-arms.at (www.professional-arms.at)... 77.244.246.45
+Connecting to www.professional-arms.at (www.professional-arms.at)|77.244.246.45|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.professional-arms.at/download/WBK_WP.pdf [following]
+--2020-03-01 23:43:29--  https://www.professional-arms.at/download/WBK_WP.pdf
+Connecting to www.professional-arms.at (www.professional-arms.at)|77.244.246.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 418560 (409K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 6.26M 0s
+    50K .......... .......... .......... .......... .......... 24% 13.6M 0s
+   100K .......... .......... .......... .......... .......... 36% 67.7M 0s
+   150K .......... .......... .......... .......... .......... 48%  195M 0s
+   200K .......... .......... .......... .......... .......... 61% 15.3M 0s
+   250K .......... .......... .......... .......... .......... 73% 80.2M 0s
+   300K .......... .......... .......... .......... .......... 85% 21.7M 0s
+   350K .......... .......... .......... .......... .......... 97%  122M 0s
+   400K ........                                              100% 90.1M=0.2s
+
+2020-03-01 23:43:29 (21.1 Mb/s) - ‘/dev/null’ saved [418560/418560]
+
+--2020-03-01 23:43:32--  http://www.professional-arms.at/download/WBK_WP.pdf
+Resolving www.professional-arms.at (www.professional-arms.at)... 77.244.246.45
+Connecting to www.professional-arms.at (www.professional-arms.at)|77.244.246.45|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.professional-arms.at/download/WBK_WP.pdf [following]
+--2020-03-01 23:43:32--  https://www.professional-arms.at/download/WBK_WP.pdf
+Connecting to www.professional-arms.at (www.professional-arms.at)|77.244.246.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 418560 (409K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 6.35M 0s
+    50K .......... .......... .......... .......... .......... 24% 13.2M 0s
+   100K .......... .......... .......... .......... .......... 36%  105M 0s
+   150K .......... .......... .......... .......... .......... 48% 81.3M 0s
+   200K .......... .......... .......... .......... .......... 61% 14.4M 0s
+   250K .......... .......... .......... .......... .......... 73%  141M 0s
+   300K .......... .......... .......... .......... .......... 85% 17.2M 0s
+   350K .......... .......... .......... .......... .......... 97% 32.8M 0s
+   400K ........                                              100%  429M=0.2s
+
+2020-03-01 23:43:32 (19.4 Mb/s) - ‘/dev/null’ saved [418560/418560]
+

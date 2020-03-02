@@ -1,0 +1,26 @@
+--2020-03-02 05:11:48--  http://pcc.edu.jm/Application-Package/Application-Form.pdf
+Resolving pcc.edu.jm (pcc.edu.jm)... 35.209.115.133
+Connecting to pcc.edu.jm (pcc.edu.jm)|35.209.115.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pcc.edu.jm/Application-Package/Application-Form.pdf [following]
+--2020-03-02 05:11:49--  https://pcc.edu.jm/Application-Package/Application-Form.pdf
+Connecting to pcc.edu.jm (pcc.edu.jm)|35.209.115.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 564970 (552K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 3.76M 1s
+    50K .......... .......... .......... .......... .......... 18% 3.88M 1s
+   100K .......... .......... .......... .......... .......... 27%  112M 1s
+   150K .......... .......... .......... .......... .......... 36% 3.98M 1s
+   200K .......... .......... .......... .......... .......... 45% 98.1M 0s
+   250K .......... .......... .......... .......... .......... 54%  153M 0s
+   300K .......... .......... .......... .......... .......... 63%  185M 0s
+   350K .......... .......... .......... .......... .......... 72%  130M 0s
+   400K .......... .......... .......... .......... .......... 81% 4.18M 0s
+   450K .......... .......... .......... .......... .......... 90%  112M 0s
+   500K .......... .......... .......... .......... .......... 99%  318M 0s
+   550K .                                                     100%  393M=0.4s
+
+2020-03-02 05:11:50 (10.4 Mb/s) - ‘/dev/null’ saved [564970/564970]
+

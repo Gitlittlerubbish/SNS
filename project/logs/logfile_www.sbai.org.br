@@ -1,0 +1,11 @@
+--2020-03-02 01:14:07--  http://www.sbai.org.br/imageBank/loreni_anafilaxia_revisado.pdf
+Resolving www.sbai.org.br (www.sbai.org.br)... 191.252.45.199
+Connecting to www.sbai.org.br (www.sbai.org.br)|191.252.45.199|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49092 (48K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......   100%  246K=1.6s
+
+2020-03-02 01:14:10 (246 Kb/s) - ‘/dev/null’ saved [49092/49092]
+

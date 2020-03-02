@@ -1,0 +1,14 @@
+--2020-03-02 01:08:54--  http://www.producao.ufrgs.br/arquivos/disciplinas/507_artigo_1_the_role_of_the_business.pdf
+Resolving www.producao.ufrgs.br (www.producao.ufrgs.br)... 143.54.128.4
+Connecting to www.producao.ufrgs.br (www.producao.ufrgs.br)|143.54.128.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204140 (199K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  275K 4s
+    50K .......... .......... .......... .......... .......... 50% 1.32M 2s
+   100K .......... .......... .......... .......... .......... 75% 1.34M 1s
+   150K .......... .......... .......... .......... ......... 100% 1.31M=2.4s
+
+2020-03-02 01:08:58 (677 Kb/s) - ‘/dev/null’ saved [204140/204140]
+

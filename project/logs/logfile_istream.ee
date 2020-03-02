@@ -1,0 +1,12 @@
+--2020-03-02 03:32:18--  http://istream.ee/THC2020/Seniorladies_FS_Scores.pdf
+Resolving istream.ee (istream.ee)... 212.47.208.131
+Connecting to istream.ee (istream.ee)|212.47.208.131|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68782 (67K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 74% 5.64M 0s
+    50K .......... .......                                    100%  114M=0.07s
+
+2020-03-02 03:32:18 (7.45 Mb/s) - ‘/dev/null’ saved [68782/68782]
+

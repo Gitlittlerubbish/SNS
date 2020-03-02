@@ -1,0 +1,15 @@
+--2020-03-02 04:17:39--  http://www.devnet.org.gy/files/final_iped_ecommercereport_corrected_jan2010.pdf
+Resolving www.devnet.org.gy (www.devnet.org.gy)... 68.66.216.5
+Connecting to www.devnet.org.gy (www.devnet.org.gy)|68.66.216.5|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219756 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.17M 1s
+    50K .......... .......... .......... .......... .......... 46% 4.22M 0s
+   100K .......... .......... .......... .......... .......... 69% 4.31M 0s
+   150K .......... .......... .......... .......... .......... 93% 4.36M 0s
+   200K .......... ....                                       100%  177M=0.5s
+
+2020-03-02 04:17:40 (3.70 Mb/s) - ‘/dev/null’ saved [219756/219756]
+

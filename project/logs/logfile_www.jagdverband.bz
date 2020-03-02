@@ -1,0 +1,15 @@
+--2020-03-02 00:27:04--  http://www.jagdverband.bz/gesetze/landesjagdordnung-mai2012.pdf
+Resolving www.jagdverband.bz (www.jagdverband.bz)... 185.161.192.31
+Connecting to www.jagdverband.bz (www.jagdverband.bz)|185.161.192.31|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 252973 (247K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 6.22M 0s
+    50K .......... .......... .......... .......... .......... 40% 6.15M 0s
+   100K .......... .......... .......... .......... .......... 60% 4.22M 0s
+   150K .......... .......... .......... .......... .......... 80% 6.12M 0s
+   200K .......... .......... .......... .......... .......   100% 11.4M=0.3s
+
+2020-03-02 00:27:05 (6.13 Mb/s) - ‘/dev/null’ saved [252973/252973]
+

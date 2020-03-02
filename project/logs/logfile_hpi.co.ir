@@ -1,0 +1,18 @@
+--2020-03-02 04:55:19--  http://hpi.co.ir/productcatalog/D-M9P.pdf
+Resolving hpi.co.ir (hpi.co.ir)... 46.4.22.188
+Connecting to hpi.co.ir (hpi.co.ir)|46.4.22.188|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://hpi.co.ir/productcatalog/D-M9P.pdf [following]
+--2020-03-02 04:55:19--  https://hpi.co.ir/productcatalog/D-M9P.pdf
+Connecting to hpi.co.ir (hpi.co.ir)|46.4.22.188|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179567 (175K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 8.24M 0s
+    50K .......... .......... .......... .......... .......... 57% 16.4M 0s
+   100K .......... .......... .......... .......... .......... 85% 21.7M 0s
+   150K .......... .......... .....                           100% 71.2M=0.1s
+
+2020-03-02 04:55:19 (14.9 Mb/s) - ‘/dev/null’ saved [179567/179567]
+

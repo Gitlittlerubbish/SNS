@@ -1,0 +1,42 @@
+--2020-03-02 04:18:20--  http://gea.gov.gy/tenders/GY-L1066_TORs.pdf
+Resolving gea.gov.gy (gea.gov.gy)... 161.47.124.187
+Connecting to gea.gov.gy (gea.gov.gy)|161.47.124.187|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://gea.gov.gy/tenders/GY-L1066_TORs.pdf [following]
+--2020-03-02 04:18:21--  https://gea.gov.gy/tenders/GY-L1066_TORs.pdf
+Connecting to gea.gov.gy (gea.gov.gy)|161.47.124.187|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265724 (259K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 2.26M 1s
+    50K .......... .......... .......... .......... .......... 38%  213M 0s
+   100K .......... .......... .......... .......... .......... 57% 4.54M 0s
+   150K .......... .......... .......... .......... .......... 77%  108M 0s
+   200K .......... .......... .......... .......... .......... 96% 4.77M 0s
+   250K .........                                             100%  748M=0.4s
+
+2020-03-02 04:18:21 (5.86 Mb/s) - ‘/dev/null’ saved [265724/265724]
+
+--2020-03-02 04:18:47--  http://gea.gov.gy/pdf/CI-Application.pdf
+Resolving gea.gov.gy (gea.gov.gy)... 161.47.124.187
+Connecting to gea.gov.gy (gea.gov.gy)|161.47.124.187|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://gea.gov.gy/pdf/CI-Application.pdf [following]
+--2020-03-02 04:18:47--  https://gea.gov.gy/pdf/CI-Application.pdf
+Connecting to gea.gov.gy (gea.gov.gy)|161.47.124.187|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 391255 (382K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 2.28M 1s
+    50K .......... .......... .......... .......... .......... 26%  148M 1s
+   100K .......... .......... .......... .......... .......... 39% 4.50M 0s
+   150K .......... .......... .......... .......... .......... 52%  173M 0s
+   200K .......... .......... .......... .......... .......... 65% 4.67M 0s
+   250K .......... .......... .......... .......... .......... 78%  235M 0s
+   300K .......... .......... .......... .......... .......... 91%  141M 0s
+   350K .......... .......... .......... ..                   100% 3.07M=0.5s
+
+2020-03-02 04:18:48 (6.89 Mb/s) - ‘/dev/null’ saved [391255/391255]
+

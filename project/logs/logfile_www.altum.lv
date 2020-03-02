@@ -1,0 +1,68 @@
+--2020-03-02 06:13:18--  http://www.altum.lv/files/pirkuma_ligums.pdf
+Resolving www.altum.lv (www.altum.lv)... 195.5.102.107
+Connecting to www.altum.lv (www.altum.lv)|195.5.102.107|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.altum.lv//files/pirkuma_ligums.pdf [following]
+--2020-03-02 06:13:18--  https://www.altum.lv//files/pirkuma_ligums.pdf
+Connecting to www.altum.lv (www.altum.lv)|195.5.102.107|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120569 (118K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 3.73M 0s
+    50K .......... .......... .......... .......... .......... 84% 7.32M 0s
+   100K .......... .......                                    100%  472M=0.2s
+
+2020-03-02 06:13:18 (5.81 Mb/s) - ‘/dev/null’ saved [120569/120569]
+
+--2020-03-02 06:13:18--  http://www.altum.lv/files/aizdevumu_nodrosinajumu_apdr_noteikumi_v3.pdf
+Resolving www.altum.lv (www.altum.lv)... 195.5.102.107
+Connecting to www.altum.lv (www.altum.lv)|195.5.102.107|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.altum.lv//files/aizdevumu_nodrosinajumu_apdr_noteikumi_v3.pdf [following]
+--2020-03-02 06:13:18--  https://www.altum.lv//files/aizdevumu_nodrosinajumu_apdr_noteikumi_v3.pdf
+Connecting to www.altum.lv (www.altum.lv)|195.5.102.107|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 229415 (224K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 3.70M 0s
+    50K .......... .......... .......... .......... .......... 44% 7.32M 0s
+   100K .......... .......... .......... .......... .......... 66%  103M 0s
+   150K .......... .......... .......... .......... .......... 89% 7.99M 0s
+   200K .......... .......... ....                            100%  110M=0.2s
+
+2020-03-02 06:13:19 (8.21 Mb/s) - ‘/dev/null’ saved [229415/229415]
+
+--2020-03-02 06:13:25--  http://www.altum.lv/files/mvu_paligmaterials_v1_3.pdf
+Resolving www.altum.lv (www.altum.lv)... 195.5.102.107
+Connecting to www.altum.lv (www.altum.lv)|195.5.102.107|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.altum.lv//files/mvu_paligmaterials_v1_3.pdf [following]
+--2020-03-02 06:13:25--  https://www.altum.lv//files/mvu_paligmaterials_v1_3.pdf
+Connecting to www.altum.lv (www.altum.lv)|195.5.102.107|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 912521 (891K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 3.74M 2s
+    50K .......... .......... .......... .......... .......... 11% 7.59M 1s
+   100K .......... .......... .......... .......... .......... 16%  130M 1s
+   150K .......... .......... .......... .......... .......... 22% 7.69M 1s
+   200K .......... .......... .......... .......... .......... 28%  111M 1s
+   250K .......... .......... .......... .......... .......... 33%  622M 0s
+   300K .......... .......... .......... .......... .......... 39% 7.83M 0s
+   350K .......... .......... .......... .......... .......... 44%  335M 0s
+   400K .......... .......... .......... .......... .......... 50% 86.0M 0s
+   450K .......... .......... .......... .......... .......... 56%  416M 0s
+   500K .......... .......... .......... .......... .......... 61% 8.32M 0s
+   550K .......... .......... .......... .......... .......... 67%  199M 0s
+   600K .......... .......... .......... .......... .......... 72%  430M 0s
+   650K .......... .......... .......... .......... .......... 78%  104M 0s
+   700K .......... .......... .......... .......... .......... 84%  251M 0s
+   750K .......... .......... .......... .......... .......... 89% 8.40M 0s
+   800K .......... .......... .......... .......... .......... 95%  110M 0s
+   850K .......... .......... .......... .......... .         100% 1.15G=0.4s
+
+2020-03-02 06:13:26 (18.5 Mb/s) - ‘/dev/null’ saved [912521/912521]
+

@@ -1,0 +1,24 @@
+--2020-03-02 00:43:08--  http://www.aaps.gob.bo/images/DER/COSMOL.pdf
+Resolving www.aaps.gob.bo (www.aaps.gob.bo)... 200.105.156.50
+Connecting to www.aaps.gob.bo (www.aaps.gob.bo)|200.105.156.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75683 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 67% 1.04M 0s
+    50K .......... .......... ...                             100% 15.2M=0.4s
+
+2020-03-02 00:43:09 (1.48 Mb/s) - ‘/dev/null’ saved [75683/75683]
+
+--2020-03-02 00:43:09--  http://www.aaps.gob.bo/images/DER/COPLIN.pdf
+Resolving www.aaps.gob.bo (www.aaps.gob.bo)... 200.105.156.50
+Connecting to www.aaps.gob.bo (www.aaps.gob.bo)|200.105.156.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101477 (99K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50%  739K 1s
+    50K .......... .......... .......... .......... ......... 100% 70.6M=0.6s
+
+2020-03-02 00:43:10 (1.45 Mb/s) - ‘/dev/null’ saved [101477/101477]
+

@@ -1,0 +1,43 @@
+--2020-03-02 02:11:30--  http://t.cn/R2JyN9M
+Resolving t.cn (t.cn)... 116.211.169.137
+Connecting to t.cn (t.cn)|116.211.169.137|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://aclweb.org/anthology/N/N15/N15-1186.pdf [following]
+--2020-03-02 02:11:31--  http://aclweb.org/anthology/N/N15/N15-1186.pdf
+Resolving aclweb.org (aclweb.org)... 50.87.169.12
+Connecting to aclweb.org (aclweb.org)|50.87.169.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aclweb.org/anthology/N/N15/N15-1186.pdf [following]
+--2020-03-02 02:11:31--  https://www.aclweb.org/anthology/N/N15/N15-1186.pdf
+Resolving www.aclweb.org (www.aclweb.org)... 50.87.169.12
+Connecting to www.aclweb.org (www.aclweb.org)|50.87.169.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aclweb.org/anthology/N15-1186.pdf [following]
+--2020-03-02 02:11:32--  https://www.aclweb.org/anthology/N15-1186.pdf
+Reusing existing connection to www.aclweb.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 938430 (916K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 2.23M 3s
+    50K .......... .......... .......... .......... .......... 10% 2.34M 3s
+   100K .......... .......... .......... .......... .......... 16%  119M 2s
+   150K .......... .......... .......... .......... .......... 21% 2.45M 2s
+   200K .......... .......... .......... .......... .......... 27%  118M 1s
+   250K .......... .......... .......... .......... .......... 32% 2.51M 1s
+   300K .......... .......... .......... .......... .......... 38% 3.97M 1s
+   350K .......... .......... .......... .......... .......... 43% 6.49M 1s
+   400K .......... .......... .......... .......... .......... 49% 2.53M 1s
+   450K .......... .......... .......... .......... .......... 54% 84.2M 1s
+   500K .......... .......... .......... .......... .......... 60% 2.56M 1s
+   550K .......... .......... .......... .......... .......... 65% 95.5M 1s
+   600K .......... .......... .......... .......... .......... 70% 2.54M 1s
+   650K .......... .......... .......... .......... .......... 76% 75.5M 0s
+   700K .......... .......... .......... .......... .......... 81%  156M 0s
+   750K .......... .......... .......... .......... .......... 87% 2.47M 0s
+   800K .......... .......... .......... .......... .......... 92% 4.12M 0s
+   850K .......... .......... .......... .......... .......... 98% 5.78M 0s
+   900K .......... ......                                     100%  593M=1.7s
+
+2020-03-02 02:11:34 (4.42 Mb/s) - ‘/dev/null’ saved [938430/938430]
+

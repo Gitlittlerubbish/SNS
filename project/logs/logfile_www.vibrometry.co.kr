@@ -1,0 +1,15 @@
+--2020-03-02 05:47:17--  http://www.vibrometry.co.kr/MMA-300.pdf
+Resolving www.vibrometry.co.kr (www.vibrometry.co.kr)... 119.207.79.150
+Connecting to www.vibrometry.co.kr (www.vibrometry.co.kr)|119.207.79.150|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 229232 (224K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  179K 8s
+    50K .......... .......... .......... .......... .......... 44%  129K 7s
+   100K .......... .......... .......... .......... .......... 67%  223K 4s
+   150K .......... .......... .......... .......... .......... 89%  274K 1s
+   200K .......... .......... ...                             100%  339K=9.4s
+
+2020-03-02 05:47:29 (195 Kb/s) - ‘/dev/null’ saved [229232/229232]
+

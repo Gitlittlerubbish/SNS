@@ -1,0 +1,16 @@
+--2020-03-02 06:25:10--  http://www.gesetze.li/chrono/pdf/2011547000
+Resolving www.gesetze.li (www.gesetze.li)... 195.48.115.80
+Connecting to www.gesetze.li (www.gesetze.li)|195.48.115.80|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.gesetze.li/chrono/pdf/2011547000 [following]
+--2020-03-02 06:25:11--  https://www.gesetze.li/chrono/pdf/2011547000
+Connecting to www.gesetze.li (www.gesetze.li)|195.48.115.80|:443... connected.
+HTTP request sent, awaiting response... 200 200
+Length: 60041 (59K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 85% 7.98M 0s
+    50K ........                                              100% 1.50G=0.05s
+
+2020-03-02 06:25:11 (9.35 Mb/s) - ‘/dev/null’ saved [60041/60041]
+

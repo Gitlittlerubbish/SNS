@@ -1,0 +1,12 @@
+--2020-03-02 07:21:12--  http://www.are.mr/pdfs/elect_cdc_licenc5_birm.pdf
+Resolving www.are.mr (www.are.mr)... 82.151.74.138
+Connecting to www.are.mr (www.are.mr)|82.151.74.138|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86889 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58%  511K 1s
+    50K .......... .......... .......... ....                 100%  500K=1.4s
+
+2020-03-02 07:21:15 (506 Kb/s) - ‘/dev/null’ saved [86889/86889]
+

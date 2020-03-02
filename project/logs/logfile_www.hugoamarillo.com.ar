@@ -1,0 +1,13 @@
+--2020-03-01 23:17:09--  http://www.hugoamarillo.com.ar/publicaciones2/Informacion_sobre_el_prurito_anal.pdf
+Resolving www.hugoamarillo.com.ar (www.hugoamarillo.com.ar)... 192.190.83.170
+Connecting to www.hugoamarillo.com.ar (www.hugoamarillo.com.ar)|192.190.83.170|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143750 (140K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 1.86M 0s
+    50K .......... .......... .......... .......... .......... 71% 3.77M 0s
+   100K .......... .......... .......... ..........           100% 76.5M=0.3s
+
+2020-03-01 23:17:09 (3.45 Mb/s) - ‘/dev/null’ saved [143750/143750]
+

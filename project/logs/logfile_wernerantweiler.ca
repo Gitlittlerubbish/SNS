@@ -1,0 +1,17 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:51:26--  https://wernerantweiler.ca/public/noise_talk.pdf
+Resolving wernerantweiler.ca (wernerantweiler.ca)... 137.82.151.164
+Connecting to wernerantweiler.ca (wernerantweiler.ca)|137.82.151.164|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 296406 (289K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.59M 1s
+    50K .......... .......... .......... .......... .......... 34% 3.18M 1s
+   100K .......... .......... .......... .......... .......... 51%  205M 0s
+   150K .......... .......... .......... .......... .......... 69% 3.28M 0s
+   200K .......... .......... .......... .......... .......... 86%  101M 0s
+   250K .......... .......... .......... .........            100% 94.8M=0.5s
+
+2020-03-02 01:51:28 (4.55 Mb/s) - ‘/dev/null’ saved [296406/296406]
+

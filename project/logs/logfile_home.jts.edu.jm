@@ -1,0 +1,14 @@
+--2020-03-02 05:11:16--  http://home.jts.edu.jm/forms/Undergraduate_Application_Form.pdf
+Resolving home.jts.edu.jm (home.jts.edu.jm)... 68.66.216.31
+Connecting to home.jts.edu.jm (home.jts.edu.jm)|68.66.216.31|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186525 (182K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 2.09M 1s
+    50K .......... .......... .......... .......... .......... 54% 4.13M 0s
+   100K .......... .......... .......... .......... .......... 82%  120M 0s
+   150K .......... .......... .......... ..                   100%  319M=0.3s
+
+2020-03-02 05:11:18 (4.98 Mb/s) - ‘/dev/null’ saved [186525/186525]
+

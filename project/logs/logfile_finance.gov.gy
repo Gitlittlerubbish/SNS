@@ -1,0 +1,15 @@
+--2020-03-02 04:18:17--  http://finance.gov.gy/wp-content/uploads/2017/06/cap7802_2-1.pdf
+Resolving finance.gov.gy (finance.gov.gy)... 161.47.124.187
+Connecting to finance.gov.gy (finance.gov.gy)|161.47.124.187|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://finance.gov.gy/wp-content/uploads/2017/06/cap7802_2-1.pdf [following]
+--2020-03-02 04:18:17--  https://finance.gov.gy/wp-content/uploads/2017/06/cap7802_2-1.pdf
+Connecting to finance.gov.gy (finance.gov.gy)|161.47.124.187|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20393 (20K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                  100%  748M=0s
+
+2020-03-02 04:18:18 (748 Mb/s) - ‘/dev/null’ saved [20393/20393]
+

@@ -1,0 +1,16 @@
+--2020-03-02 00:23:18--  http://site.nemo.org.bz/wp-content/publications/Belize_Disaster_Preparedness_and_Response_Act.pdf
+Resolving site.nemo.org.bz (site.nemo.org.bz)... 192.252.146.60
+Connecting to site.nemo.org.bz (site.nemo.org.bz)|192.252.146.60|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 279878 (273K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 2.28M 1s
+    50K .......... .......... .......... .......... .......... 36% 4.95M 0s
+   100K .......... .......... .......... .......... .......... 54% 7.60M 0s
+   150K .......... .......... .......... .......... .......... 73% 10.9M 0s
+   200K .......... .......... .......... .......... .......... 91% 15.7M 0s
+   250K .......... .......... ...                             100% 12.9M=0.4s
+
+2020-03-02 00:23:19 (5.67 Mb/s) - ‘/dev/null’ saved [279878/279878]
+

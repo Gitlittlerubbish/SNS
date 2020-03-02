@@ -1,0 +1,14 @@
+--2020-03-02 01:46:25--  http://www.ncdd.gov.kh/images/job/ToR/ToR_Provincial_Operational_Advisor.pdf
+Resolving www.ncdd.gov.kh (www.ncdd.gov.kh)... 66.165.237.130
+Connecting to www.ncdd.gov.kh (www.ncdd.gov.kh)|66.165.237.130|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157688 (154K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 1.55M 1s
+    50K .......... .......... .......... .......... .......... 64% 3.13M 0s
+   100K .......... .......... .......... .......... .......... 97% 96.9M 0s
+   150K ...                                                   100%  654K=0.4s
+
+2020-03-02 01:46:26 (3.16 Mb/s) - ‘/dev/null’ saved [157688/157688]
+

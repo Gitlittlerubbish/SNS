@@ -1,0 +1,24 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:19:13--  https://vee.am/vSphere5Max
+Resolving vee.am (vee.am)... 52.54.71.237, 54.208.255.87
+Connecting to vee.am (vee.am)|52.54.71.237|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.vmware.com/pdf/vsphere5/r50/vsphere-50-configuration-maximums.pdf [following]
+--2020-03-01 23:19:14--  http://www.vmware.com/pdf/vsphere5/r50/vsphere-50-configuration-maximums.pdf
+Resolving www.vmware.com (www.vmware.com)... 96.16.108.32
+Connecting to www.vmware.com (www.vmware.com)|96.16.108.32|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.vmware.com/pdf/vsphere5/r50/vsphere-50-configuration-maximums.pdf [following]
+--2020-03-01 23:19:14--  https://www.vmware.com/pdf/vsphere5/r50/vsphere-50-configuration-maximums.pdf
+Connecting to www.vmware.com (www.vmware.com)|96.16.108.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 181940 (178K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 69.3M 0s
+    50K .......... .......... .......... .......... .......... 56% 75.8M 0s
+   100K .......... .......... .......... .......... .......... 84%  103M 0s
+   150K .......... .......... .......                         100%  396M=0.02s
+
+2020-03-01 23:19:14 (91.7 Mb/s) - ‘/dev/null’ saved [181940/181940]
+

@@ -1,0 +1,25 @@
+--2020-03-02 03:54:31--  http://kairabasss.gm/wp-content/uploads/2015/05/ENGLISH-LANGUAGE.pdf
+Resolving kairabasss.gm (kairabasss.gm)... 108.167.141.212
+Connecting to kairabasss.gm (kairabasss.gm)|108.167.141.212|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46056 (45K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ....      100% 1.52M=0.2s
+
+2020-03-02 03:54:32 (1.52 Mb/s) - ‘/dev/null’ saved [46056/46056]
+
+--2020-03-02 03:55:01--  http://kairabasss.gm/wp-content/uploads/2015/05/CHEMISTRY.pdf
+Resolving kairabasss.gm (kairabasss.gm)... 108.167.141.212
+Connecting to kairabasss.gm (kairabasss.gm)|108.167.141.212|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182499 (178K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 1.66M 1s
+    50K .......... .......... .......... .......... .......... 56% 3.37M 0s
+   100K .......... .......... .......... .......... .......... 84%  132M 0s
+   150K .......... .......... ........                        100%  103M=0.4s
+
+2020-03-02 03:55:02 (3.91 Mb/s) - ‘/dev/null’ saved [182499/182499]
+

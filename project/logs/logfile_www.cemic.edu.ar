@@ -1,0 +1,17 @@
+--2020-03-01 23:14:21--  http://www.cemic.edu.ar/descargas/donaciondesangre_requisitos.pdf
+Resolving www.cemic.edu.ar (www.cemic.edu.ar)... 190.221.2.139
+Connecting to www.cemic.edu.ar (www.cemic.edu.ar)|190.221.2.139|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cemic.edu.ar/descargas/donaciondesangre_requisitos.pdf [following]
+--2020-03-01 23:14:23--  https://www.cemic.edu.ar/descargas/donaciondesangre_requisitos.pdf
+Connecting to www.cemic.edu.ar (www.cemic.edu.ar)|190.221.2.139|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113031 (110K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  905K 1s
+    50K .......... .......... .......... .......... .......... 90% 1.83M 0s
+   100K ..........                                            100%  733M=0.7s
+
+2020-03-01 23:14:25 (1.34 Mb/s) - ‘/dev/null’ saved [113031/113031]
+

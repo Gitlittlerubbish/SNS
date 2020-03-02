@@ -1,0 +1,11 @@
+--2020-03-01 23:38:16--  http://susannahfullerton.com.au/wp-content/uploads/2019/04/The-Necklace.pdf
+Resolving susannahfullerton.com.au (susannahfullerton.com.au)... 103.64.148.84
+Connecting to susannahfullerton.com.au (susannahfullerton.com.au)|103.64.148.84|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19713 (19K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                  100%  474K=0.3s
+
+2020-03-01 23:38:18 (474 Kb/s) - ‘/dev/null’ saved [19713/19713]
+

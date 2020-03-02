@@ -1,0 +1,12 @@
+--2020-03-02 04:18:54--  http://www.business.gov.gy/wp-content/uploads/2019/05/Public-Corporations-Act.pdf
+Resolving www.business.gov.gy (www.business.gov.gy)... 67.20.121.169
+Connecting to www.business.gov.gy (www.business.gov.gy)|67.20.121.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96132 (94K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 53% 1.22M 0s
+    50K .......... .......... .......... .......... ...       100% 79.5M=0.3s
+
+2020-03-02 04:18:55 (2.25 Mb/s) - ‘/dev/null’ saved [96132/96132]
+

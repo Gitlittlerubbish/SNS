@@ -1,0 +1,19 @@
+--2020-03-02 00:59:20--  http://sigep.sigma.gob.bo/proveedores/PoliticasyCondicionesdeUsoRUPE.pdf
+Resolving sigep.sigma.gob.bo (sigep.sigma.gob.bo)... 190.181.4.101, 200.87.146.90
+Connecting to sigep.sigma.gob.bo (sigep.sigma.gob.bo)|190.181.4.101|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://sigep.sigma.gob.bo/proveedores/PoliticasyCondicionesdeUsoRUPE.pdf [following]
+--2020-03-02 00:59:21--  https://sigep.sigma.gob.bo/proveedores/PoliticasyCondicionesdeUsoRUPE.pdf
+Connecting to sigep.sigma.gob.bo (sigep.sigma.gob.bo)|190.181.4.101|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.08M
+    50K .......... .......... .......... .......... .......... 2.12M
+   100K .......... .......... .......... .......... .......... 2.19M
+   150K .......... .......... .......... .......... .......... 81.5M
+   200K .......... .......... .........                         202M=0.8s
+
+2020-03-02 00:59:23 (2.45 Mb/s) - ‘/dev/null’ saved [235020]
+

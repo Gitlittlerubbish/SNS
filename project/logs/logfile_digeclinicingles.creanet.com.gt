@@ -1,0 +1,16 @@
+--2020-03-02 04:13:32--  http://digeclinicingles.creanet.com.gt/files/roleendoscopypud.pdf
+Resolving digeclinicingles.creanet.com.gt (digeclinicingles.creanet.com.gt)... 162.210.102.39
+Connecting to digeclinicingles.creanet.com.gt (digeclinicingles.creanet.com.gt)|162.210.102.39|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 300613 (294K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 2.05M 1s
+    50K .......... .......... .......... .......... .......... 34% 4.15M 1s
+   100K .......... .......... .......... .......... .......... 51%  107M 0s
+   150K .......... .......... .......... .......... .......... 68%  221M 0s
+   200K .......... .......... .......... .......... .......... 85% 4.24M 0s
+   250K .......... .......... .......... .......... ...       100%  143M=0.4s
+
+2020-03-02 04:13:33 (5.97 Mb/s) - ‘/dev/null’ saved [300613/300613]
+

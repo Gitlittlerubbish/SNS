@@ -1,0 +1,15 @@
+--2020-03-02 08:29:00--  http://had.co.nz/reshape/introduction.pdf
+Resolving had.co.nz (had.co.nz)... 52.219.116.123
+Connecting to had.co.nz (had.co.nz)|52.219.116.123|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208711 (204K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 1.34M 1s
+    50K .......... .......... .......... .......... .......... 49% 3.13M 0s
+   100K .......... .......... .......... .......... .......... 73% 16.7M 0s
+   150K .......... .......... .......... .......... .......... 98%  120M 0s
+   200K ...                                                   100%  652M=0.5s
+
+2020-03-02 08:29:01 (3.60 Mb/s) - ‘/dev/null’ saved [208711/208711]
+

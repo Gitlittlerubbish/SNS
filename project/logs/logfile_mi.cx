@@ -1,0 +1,13 @@
+--2020-03-02 02:21:39--  http://mi.cx/ChrisHaleCV.pdf
+Resolving mi.cx (mi.cx)... 69.197.186.194
+Connecting to mi.cx (mi.cx)|69.197.186.194|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121317 (118K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 1.28M 0s
+    50K .......... .......... .......... .......... .......... 84% 2.27M 0s
+   100K .......... ........                                   100%  474M=0.5s
+
+2020-03-02 02:21:40 (1.94 Mb/s) - ‘/dev/null’ saved [121317/121317]
+

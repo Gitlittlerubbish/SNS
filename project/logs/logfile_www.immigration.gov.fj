@@ -1,0 +1,16 @@
+--2020-03-02 03:42:01--  http://www.immigration.gov.fj/images/pdfs/study_research_permit.pdf
+Resolving www.immigration.gov.fj (www.immigration.gov.fj)... 124.108.30.31
+Connecting to www.immigration.gov.fj (www.immigration.gov.fj)|124.108.30.31|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292459 (286K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17%  500K 4s
+    50K .......... .......... .......... .......... .......... 35% 1.00M 2s
+   100K .......... .......... .......... .......... .......... 52%  201M 1s
+   150K .......... .......... .......... .......... .......... 70%  239M 1s
+   200K .......... .......... .......... .......... .......... 87% 1.00M 0s
+   250K .......... .......... .......... .....                100% 1.40G=1.6s
+
+2020-03-02 03:42:04 (1.43 Mb/s) - ‘/dev/null’ saved [292459/292459]
+

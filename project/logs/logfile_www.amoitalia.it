@@ -1,0 +1,12 @@
+--2020-03-02 05:09:02--  http://www.amoitalia.it/pdf/coefficienti_dilatazione.pdf
+Resolving www.amoitalia.it (www.amoitalia.it)... 31.11.32.30
+Connecting to www.amoitalia.it (www.amoitalia.it)|31.11.32.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74893 (73K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68% 4.33M 0s
+    50K .......... .......... ...                             100% 87.9M=0.1s
+
+2020-03-02 05:09:03 (6.19 Mb/s) - ‘/dev/null’ saved [74893/74893]
+

@@ -1,0 +1,14 @@
+--2020-03-02 01:51:28--  http://www.cnac.ca/canadian_dial_plan/Canadian_Dial_Plan_Table.pdf
+Resolving www.cnac.ca (www.cnac.ca)... 74.208.236.43
+Connecting to www.cnac.ca (www.cnac.ca)|74.208.236.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161731 (158K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.93M 0s
+    50K .......... .......... .......... .......... .......... 63% 4.14M 0s
+   100K .......... .......... .......... .......... .......... 94% 6.60M 0s
+   150K .......                                               100% 15.2M=0.4s
+
+2020-03-02 01:51:28 (3.43 Mb/s) - ‘/dev/null’ saved [161731/161731]
+

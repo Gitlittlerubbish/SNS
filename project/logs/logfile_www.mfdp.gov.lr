@@ -1,0 +1,27 @@
+--2020-03-02 06:21:51--  http://www.mfdp.gov.lr/images/National_Consultation_on_the__Pro-Poor_Agenda_for_Prosperity_v3.pdf
+Resolving www.mfdp.gov.lr (www.mfdp.gov.lr)... 178.128.174.245
+Connecting to www.mfdp.gov.lr (www.mfdp.gov.lr)|178.128.174.245|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mfdp.gov.lr/images/National_Consultation_on_the__Pro-Poor_Agenda_for_Prosperity_v3.pdf [following]
+--2020-03-02 06:21:51--  https://www.mfdp.gov.lr/images/National_Consultation_on_the__Pro-Poor_Agenda_for_Prosperity_v3.pdf
+Connecting to www.mfdp.gov.lr (www.mfdp.gov.lr)|178.128.174.245|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 653679 (638K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 36.7M 0s
+    50K .......... .......... .......... .......... .......... 15%  103M 0s
+   100K .......... .......... .......... .......... .......... 23% 58.6M 0s
+   150K .......... .......... .......... .......... .......... 31%  109M 0s
+   200K .......... .......... .......... .......... .......... 39%  385M 0s
+   250K .......... .......... .......... .......... .......... 46%  203M 0s
+   300K .......... .......... .......... .......... .......... 54% 80.7M 0s
+   350K .......... .......... .......... .......... .......... 62%  538M 0s
+   400K .......... .......... .......... .......... .......... 70% 79.6M 0s
+   450K .......... .......... .......... .......... .......... 78%  218M 0s
+   500K .......... .......... .......... .......... .......... 86%  189M 0s
+   550K .......... .......... .......... .......... .......... 93% 63.8M 0s
+   600K .......... .......... .......... ........             100% 1.35G=0.05s
+
+2020-03-02 06:21:51 (103 Mb/s) - ‘/dev/null’ saved [653679/653679]
+

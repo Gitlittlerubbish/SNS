@@ -1,0 +1,16 @@
+--2020-03-02 05:01:34--  http://merkandi.ie/download/products/watch24590.pdf
+Resolving merkandi.ie (merkandi.ie)... 104.18.44.196, 104.18.45.196
+Connecting to merkandi.ie (merkandi.ie)|104.18.44.196|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://merkandi.ie/download/products/watch24590.pdf [following]
+--2020-03-02 05:01:34--  https://merkandi.ie/download/products/watch24590.pdf
+Connecting to merkandi.ie (merkandi.ie)|104.18.44.196|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92406 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 69.3M 0s
+    50K .......... .......... .......... ..........           100%  168M=0.008s
+
+2020-03-02 05:01:34 (93.8 Mb/s) - ‘/dev/null’ saved [92406/92406]
+

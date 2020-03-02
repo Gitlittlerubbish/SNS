@@ -1,0 +1,11 @@
+--2020-03-02 00:32:35--  http://www.olympics.bm/downloads/BOA_MultiSportsGamesFestivals.pdf
+Resolving www.olympics.bm (www.olympics.bm)... 192.186.246.68
+Connecting to www.olympics.bm (www.olympics.bm)|192.186.246.68|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 31489 (31K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..........                      100%  159M=0.002s
+
+2020-03-02 00:32:36 (159 Mb/s) - ‘/dev/null’ saved [31489/31489]
+

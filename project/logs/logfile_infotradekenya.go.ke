@@ -1,0 +1,41 @@
+--2020-03-02 05:29:41--  http://infotradekenya.go.ke/media/EAC_Customs_Management_Regulations_1.pdf
+Resolving infotradekenya.go.ke (infotradekenya.go.ke)... 144.76.184.122
+Connecting to infotradekenya.go.ke (infotradekenya.go.ke)|144.76.184.122|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://infotradekenya.go.ke/media/EAC_Customs_Management_Regulations_1.pdf [following]
+--2020-03-02 05:29:41--  https://infotradekenya.go.ke/media/EAC_Customs_Management_Regulations_1.pdf
+Connecting to infotradekenya.go.ke (infotradekenya.go.ke)|144.76.184.122|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 366420 (358K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 17.1M 0s
+    50K .......... .......... .......... .......... .......... 27% 16.9M 0s
+   100K .......... .......... .......... .......... .......... 41% 20.2M 0s
+   150K .......... .......... .......... .......... .......... 55% 94.5M 0s
+   200K .......... .......... .......... .......... .......... 69%  137M 0s
+   250K .......... .......... .......... .......... .......... 83% 24.8M 0s
+   300K .......... .......... .......... .......... .......... 97%  135M 0s
+   350K .......                                               100%  522M=0.1s
+
+2020-03-02 05:29:41 (30.7 Mb/s) - ‘/dev/null’ saved [366420/366420]
+
+--2020-03-02 05:29:41--  http://infotradekenya.go.ke/media/FinanceAct_No23of2019.PDF
+Resolving infotradekenya.go.ke (infotradekenya.go.ke)... 144.76.184.122
+Connecting to infotradekenya.go.ke (infotradekenya.go.ke)|144.76.184.122|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://infotradekenya.go.ke/media/FinanceAct_No23of2019.PDF [following]
+--2020-03-02 05:29:42--  https://infotradekenya.go.ke/media/FinanceAct_No23of2019.PDF
+Connecting to infotradekenya.go.ke (infotradekenya.go.ke)|144.76.184.122|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 221123 (216K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 17.3M 0s
+    50K .......... .......... .......... .......... .......... 46% 16.7M 0s
+   100K .......... .......... .......... .......... .......... 69% 19.6M 0s
+   150K .......... .......... .......... .......... .......... 92%  158M 0s
+   200K .......... .....                                      100%  653M=0.07s
+
+2020-03-02 05:29:42 (24.6 Mb/s) - ‘/dev/null’ saved [221123/221123]
+

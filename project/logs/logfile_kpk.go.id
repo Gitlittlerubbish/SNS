@@ -1,0 +1,17 @@
+--2020-03-02 04:51:32--  http://kpk.go.id/gratifikasi/BP/uu_28_1999.pdf
+Resolving kpk.go.id (kpk.go.id)... 223.27.153.37
+Connecting to kpk.go.id (kpk.go.id)|223.27.153.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.kpk.go.id/gratifikasi/BP/uu_28_1999.pdf [following]
+--2020-03-02 04:51:32--  https://www.kpk.go.id/gratifikasi/BP/uu_28_1999.pdf
+Resolving www.kpk.go.id (www.kpk.go.id)... 223.27.153.37
+Connecting to www.kpk.go.id (www.kpk.go.id)|223.27.153.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54998 (54K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 93%  108K 0s
+    50K ...                                                   100%  608K=3.8s
+
+2020-03-02 04:51:40 (116 Kb/s) - ‘/dev/null’ saved [54998/54998]
+

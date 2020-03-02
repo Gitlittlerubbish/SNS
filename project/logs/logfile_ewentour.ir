@@ -1,0 +1,15 @@
+--2020-03-02 04:57:38--  http://ewentour.ir/images/cheklist.pdf
+Resolving ewentour.ir (ewentour.ir)... 185.192.112.68
+Connecting to ewentour.ir (ewentour.ir)|185.192.112.68|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224015 (219K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.60M 1s
+    50K .......... .......... .......... .......... .......... 45% 3.34M 0s
+   100K .......... .......... .......... .......... .......... 68% 84.9M 0s
+   150K .......... .......... .......... .......... .......... 91% 3.36M 0s
+   200K .......... ........                                   100%  849M=0.5s
+
+2020-03-02 04:57:39 (3.55 Mb/s) - ‘/dev/null’ saved [224015/224015]
+

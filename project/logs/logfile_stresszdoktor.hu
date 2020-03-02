@@ -1,0 +1,14 @@
+--2020-03-02 04:37:29--  http://stresszdoktor.hu/uploads/tudastar/rivotril.pdf
+Resolving stresszdoktor.hu (stresszdoktor.hu)... 195.228.86.141
+Connecting to stresszdoktor.hu (stresszdoktor.hu)|195.228.86.141|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186133 (182K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 5.92M 0s
+    50K .......... .......... .......... .......... .......... 55% 12.3M 0s
+   100K .......... .......... .......... .......... .......... 82% 95.3M 0s
+   150K .......... .......... .......... .                    100%  175M=0.1s
+
+2020-03-02 04:37:29 (13.8 Mb/s) - ‘/dev/null’ saved [186133/186133]
+

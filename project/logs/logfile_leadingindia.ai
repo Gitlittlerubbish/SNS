@@ -1,0 +1,28 @@
+--2020-03-01 22:40:01--  http://leadingindia.ai/directorcv
+Resolving leadingindia.ai (leadingindia.ai)... 43.255.154.112
+Connecting to leadingindia.ai (leadingindia.ai)|43.255.154.112|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://leadingindia.ai/directorcv [following]
+--2020-03-01 22:40:01--  https://leadingindia.ai/directorcv
+Connecting to leadingindia.ai (leadingindia.ai)|43.255.154.112|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.leadingindia.ai/directorcv [following]
+--2020-03-01 22:40:02--  https://www.leadingindia.ai/directorcv
+Resolving www.leadingindia.ai (www.leadingindia.ai)... 43.255.154.112
+Connecting to www.leadingindia.ai (www.leadingindia.ai)|43.255.154.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 422135 (412K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12%  343K 9s
+    50K .......... .......... .......... .......... .......... 24%  470K 6s
+   100K .......... .......... .......... .......... .......... 36%  625K 5s
+   150K .......... .......... .......... .......... .......... 48%  697K 4s
+   200K .......... .......... .......... .......... .......... 60%  478K 3s
+   250K .......... .......... .......... .......... .......... 72%  627K 2s
+   300K .......... .......... .......... .......... .......... 84% 1.04M 1s
+   350K .......... .......... .......... .......... .......... 97% 1.15M 0s
+   400K .......... ..                                         100% 44.9M=5.6s
+
+2020-03-01 22:40:08 (606 Kb/s) - ‘/dev/null’ saved [422135/422135]
+

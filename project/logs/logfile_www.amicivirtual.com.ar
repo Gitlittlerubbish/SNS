@@ -1,0 +1,19 @@
+--2020-03-01 23:13:37--  http://www.amicivirtual.com.ar/Anatomia/04SistArticular.pdf
+Resolving www.amicivirtual.com.ar (www.amicivirtual.com.ar)... 200.58.110.192
+Connecting to www.amicivirtual.com.ar (www.amicivirtual.com.ar)|200.58.110.192|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.amicivirtual.com.ar/Anatomia/04SistArticular.pdf [following]
+--2020-03-01 23:13:39--  https://www.amicivirtual.com.ar/Anatomia/04SistArticular.pdf
+Connecting to www.amicivirtual.com.ar (www.amicivirtual.com.ar)|200.58.110.192|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 231632 (226K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  734K 2s
+    50K .......... .......... .......... .......... .......... 44% 1.64M 1s
+   100K .......... .......... .......... .......... .......... 66% 1.28M 1s
+   150K .......... .......... .......... .......... .......... 88%  278M 0s
+   200K .......... .......... ......                          100%  698K=1.4s
+
+2020-03-01 23:13:41 (1.29 Mb/s) - ‘/dev/null’ saved [231632/231632]
+

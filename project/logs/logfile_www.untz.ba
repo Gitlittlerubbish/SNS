@@ -1,0 +1,13 @@
+--2020-03-02 00:59:44--  http://www.untz.ba/uploads/file/akti/Pravilnik_o_postupku_direktnog_sporazuma_na_UNTZ_24_03_2015.pdf
+Resolving www.untz.ba (www.untz.ba)... 80.65.66.243
+Connecting to www.untz.ba (www.untz.ba)|80.65.66.243|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 118585 (116K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 43% 3.58M 0s
+    50K .......... .......... .......... .......... .......... 86% 7.15M 0s
+   100K .......... .....                                      100%  138M=0.2s
+
+2020-03-02 00:59:45 (5.49 Mb/s) - ‘/dev/null’ saved [118585/118585]
+

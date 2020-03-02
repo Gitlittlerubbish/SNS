@@ -1,0 +1,25 @@
+--2020-03-02 01:14:26--  http://www.companhiadasletras.com.br/trechos/10233.pdf
+Resolving www.companhiadasletras.com.br (www.companhiadasletras.com.br)... 34.204.162.158, 52.7.72.5
+Connecting to www.companhiadasletras.com.br (www.companhiadasletras.com.br)|34.204.162.158|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.companhiadasletras.com.br/trechos/10233.pdf [following]
+--2020-03-02 01:14:27--  https://www.companhiadasletras.com.br/trechos/10233.pdf
+Connecting to www.companhiadasletras.com.br (www.companhiadasletras.com.br)|34.204.162.158|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 548564 (536K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 4.79M 1s
+    50K .......... .......... .......... .......... .......... 18% 4.82M 1s
+   100K .......... .......... .......... .......... .......... 28% 57.8M 0s
+   150K .......... .......... .......... .......... .......... 37% 5.15M 0s
+   200K .......... .......... .......... .......... .......... 46% 80.4M 0s
+   250K .......... .......... .......... .......... .......... 56%  185M 0s
+   300K .......... .......... .......... .......... .......... 65% 5.12M 0s
+   350K .......... .......... .......... .......... .......... 74%  181M 0s
+   400K .......... .......... .......... .......... .......... 84%  139M 0s
+   450K .......... .......... .......... .......... .......... 93% 85.6M 0s
+   500K .......... .......... .......... .....                100%  453M=0.4s
+
+2020-03-02 01:14:28 (12.4 Mb/s) - ‘/dev/null’ saved [548564/548564]
+

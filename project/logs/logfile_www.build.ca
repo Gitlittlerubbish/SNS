@@ -1,0 +1,15 @@
+--2020-03-02 01:50:37--  http://www.build.ca/file/189427/
+Resolving www.build.ca (www.build.ca)... 138.197.225.200
+Connecting to www.build.ca (www.build.ca)|138.197.225.200|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.build.ca/file/189427/ [following]
+--2020-03-02 01:50:37--  https://www.build.ca/file/189427/
+Connecting to www.build.ca (www.build.ca)|138.197.225.200|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37511 (37K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100% 4.03M=0.07s
+
+2020-03-02 01:50:38 (4.03 Mb/s) - ‘/dev/null’ saved [37511/37511]
+

@@ -1,0 +1,11 @@
+--2020-03-02 03:46:26--  http://www.jlsigrist.fr/centimetres.pdf
+Resolving www.jlsigrist.fr (www.jlsigrist.fr)... 81.169.145.158
+Connecting to www.jlsigrist.fr (www.jlsigrist.fr)|81.169.145.158|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24607 (24K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ....                            100% 5.36M=0.04s
+
+2020-03-02 03:46:27 (5.36 Mb/s) - ‘/dev/null’ saved [24607/24607]
+

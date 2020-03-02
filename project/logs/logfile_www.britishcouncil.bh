@@ -1,0 +1,15 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:59:54--  https://www.britishcouncil.bh/sites/default/files/appendix_5.pdf
+Resolving www.britishcouncil.bh (www.britishcouncil.bh)... 2.19.159.80
+Connecting to www.britishcouncil.bh (www.britishcouncil.bh)|2.19.159.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56.8M
+    50K .......... .......... .......... .......... .......... 59.4M
+   100K .......... .......... .......... .......... ..........  176M
+   150K .......... .......... .......... ....                  80.4M=0.02s
+
+2020-03-01 23:59:54 (75.8 Mb/s) - ‘/dev/null’ saved [188535]
+

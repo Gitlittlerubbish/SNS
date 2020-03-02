@@ -1,0 +1,19 @@
+--2020-03-02 03:29:38--  http://www.ravimiamet.ee/maskidpdf
+Resolving www.ravimiamet.ee (www.ravimiamet.ee)... 213.184.50.18
+Connecting to www.ravimiamet.ee (www.ravimiamet.ee)|213.184.50.18|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ravimiamet.ee/maskidpdf [following]
+--2020-03-02 03:29:38--  https://www.ravimiamet.ee/maskidpdf
+Connecting to www.ravimiamet.ee (www.ravimiamet.ee)|213.184.50.18|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 3.86M
+    50K .......... .......... .......... .......... .......... 7.91M
+   100K .......... .......... .......... .......... ..........  186M
+   150K .......... .......... .......... .......... .......... 49.8M
+   200K .......... .......... .......... .......... ......     8.96M=0.2s
+
+2020-03-02 03:29:39 (9.58 Mb/s) - ‘/dev/null’ saved [252588]
+

@@ -1,0 +1,16 @@
+--2020-03-02 05:01:47--  http://www.ncts.ie/media/1010/vir.pdf
+Resolving www.ncts.ie (www.ncts.ie)... 194.165.190.40
+Connecting to www.ncts.ie (www.ncts.ie)|194.165.190.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ncts.ie/media/1010/vir.pdf [following]
+--2020-03-02 05:01:47--  https://www.ncts.ie/media/1010/vir.pdf
+Connecting to www.ncts.ie (www.ncts.ie)|194.165.190.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72399 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 15.0M 0s
+    50K .......... ..........                                 100% 16.4M=0.04s
+
+2020-03-02 05:01:47 (15.4 Mb/s) - ‘/dev/null’ saved [72399/72399]
+

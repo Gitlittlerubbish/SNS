@@ -1,0 +1,19 @@
+--2020-03-02 08:26:33--  http://www.gasindustry.co.nz/dmsdocument/5267
+Resolving www.gasindustry.co.nz (www.gasindustry.co.nz)... 103.16.181.158
+Connecting to www.gasindustry.co.nz (www.gasindustry.co.nz)|103.16.181.158|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gasindustry.co.nz/dmsdocument/5267 [following]
+--2020-03-02 08:26:34--  https://www.gasindustry.co.nz/dmsdocument/5267
+Connecting to www.gasindustry.co.nz (www.gasindustry.co.nz)|103.16.181.158|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 244089 (238K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20%  798K 2s
+    50K .......... .......... .......... .......... .......... 41% 1.61M 1s
+   100K .......... .......... .......... .......... .......... 62% 64.1M 0s
+   150K .......... .......... .......... .......... .......... 83% 2.25M 0s
+   200K .......... .......... .......... ........             100% 4.41M=1.0s
+
+2020-03-02 08:26:37 (1.90 Mb/s) - ‘/dev/null’ saved [244089/244089]
+

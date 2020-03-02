@@ -1,0 +1,33 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:33:46--  https://www.asx.com.au/asxpdf/20200212/pdf/44f0j9wsfgr0dt.pdf
+Resolving www.asx.com.au (www.asx.com.au)... 203.15.147.66
+Connecting to www.asx.com.au (www.asx.com.au)|203.15.147.66|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100144 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51%  276M 0s
+    50K .......... .......... .......... .......... .......   100%  957K=0.4s
+
+2020-03-01 23:33:48 (1.95 Mb/s) - ‘/dev/null’ saved [100144/100144]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:33:48--  https://www.asx.com.au/asxpdf/20200210/pdf/44dydnz2jbcjjy.pdf
+Resolving www.asx.com.au (www.asx.com.au)... 203.15.147.66
+Connecting to www.asx.com.au (www.asx.com.au)|203.15.147.66|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 452127 (442K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 77.7M 0s
+    50K .......... .......... .......... .......... .......... 22% 1.01M 1s
+   100K .......... .......... .......... .......... .......... 33% 1.00M 2s
+   150K .......... .......... .......... .......... .......... 45% 1000K 1s
+   200K .......... .......... .......... .......... .......... 56%  328M 1s
+   250K .......... .......... .......... .......... .......... 67% 1.00M 1s
+   300K .......... .......... .......... .......... .......... 79%  994K 1s
+   350K .......... .......... .......... .......... .......... 90% 1.23M 0s
+   400K .......... .......... .......... .......... .         100%  131M=2.4s
+
+2020-03-01 23:33:52 (1.52 Mb/s) - ‘/dev/null’ saved [452127/452127]
+

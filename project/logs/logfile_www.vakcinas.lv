@@ -1,0 +1,15 @@
+--2020-03-02 06:13:35--  http://www.vakcinas.lv/files/b02km3.pdf
+Resolving www.vakcinas.lv (www.vakcinas.lv)... 45.63.119.45
+Connecting to www.vakcinas.lv (www.vakcinas.lv)|45.63.119.45|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225439 (220K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 9.26M 0s
+    50K .......... .......... .......... .......... .......... 45% 18.1M 0s
+   100K .......... .......... .......... .......... .......... 68% 19.2M 0s
+   150K .......... .......... .......... .......... .......... 90% 18.6M 0s
+   200K .......... ..........                                 100%  842M=0.1s
+
+2020-03-02 06:13:36 (16.3 Mb/s) - ‘/dev/null’ saved [225439/225439]
+

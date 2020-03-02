@@ -1,0 +1,13 @@
+--2020-03-02 04:44:10--  http://megphed.gov.in/standards/guiderural.pdf
+Resolving megphed.gov.in (megphed.gov.in)... 164.100.179.119
+Connecting to megphed.gov.in (megphed.gov.in)|164.100.179.119|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103287 (101K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49%  919K 0s
+    50K .......... .......... .......... .......... .......... 99% 2.76M 0s
+   100K                                                       100% 5.57M=0.6s
+
+2020-03-02 04:44:11 (1.39 Mb/s) - ‘/dev/null’ saved [103287/103287]
+

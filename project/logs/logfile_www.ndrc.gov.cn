@@ -1,0 +1,25 @@
+--2020-03-02 02:17:19--  http://www.ndrc.gov.cn/yjzxDownload/fj1xdca.pdf
+Resolving www.ndrc.gov.cn (www.ndrc.gov.cn)... 123.6.2.99, 116.95.25.200, 14.204.144.140, ...
+Connecting to www.ndrc.gov.cn (www.ndrc.gov.cn)|123.6.2.99|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ndrc.gov.cn/yjzxDownload/fj1xdca.pdf [following]
+--2020-03-02 02:17:20--  https://www.ndrc.gov.cn/yjzxDownload/fj1xdca.pdf
+Connecting to www.ndrc.gov.cn (www.ndrc.gov.cn)|123.6.2.99|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 523038 (511K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 1.63M 2s
+    50K .......... .......... .......... .......... .......... 19% 4.36M 1s
+   100K .......... .......... .......... .......... .......... 29% 3.34M 1s
+   150K .......... .......... .......... .......... .......... 39% 4.62M 1s
+   200K .......... .......... .......... .......... .......... 48% 1.54M 1s
+   250K .......... .......... .......... .......... .......... 58%  728M 1s
+   300K .......... .......... .......... .......... .......... 68% 1.19G 0s
+   350K .......... .......... .......... .......... .......... 78%  731M 0s
+   400K .......... .......... .......... .......... .......... 88% 1.02G 0s
+   450K .......... .......... .......... .......... .......... 97% 1.64M 0s
+   500K ..........                                            100%  724M=1.1s
+
+2020-03-02 02:17:22 (3.89 Mb/s) - ‘/dev/null’ saved [523038/523038]
+

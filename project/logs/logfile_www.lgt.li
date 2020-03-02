@@ -1,0 +1,45 @@
+--2020-03-02 06:25:56--  http://www.lgt.li/shared/.content/publikationen/bankdienstleistungen/FL_5410_de.pdf
+Resolving www.lgt.li (www.lgt.li)... 194.147.69.132
+Connecting to www.lgt.li (www.lgt.li)|194.147.69.132|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lgt.li/shared/.content/publikationen/bankdienstleistungen/FL_5410_de.pdf [following]
+--2020-03-02 06:25:56--  https://www.lgt.li/shared/.content/publikationen/bankdienstleistungen/FL_5410_de.pdf
+Connecting to www.lgt.li (www.lgt.li)|194.147.69.132|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 473673 (463K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 5.72M 1s
+    50K .......... .......... .......... .......... .......... 21% 11.7M 0s
+   100K .......... .......... .......... .......... .......... 32%  168M 0s
+   150K .......... .......... .......... .......... .......... 43% 12.1M 0s
+   200K .......... .......... .......... .......... .......... 54%  111M 0s
+   250K .......... .......... .......... .......... .......... 64%  535M 0s
+   300K .......... .......... .......... .......... .......... 75% 9.97M 0s
+   350K .......... .......... .......... .......... .......... 86%  274M 0s
+   400K .......... .......... .......... .......... .......... 97%  254M 0s
+   450K .......... ..                                         100% 1.69G=0.2s
+
+2020-03-02 06:25:56 (19.8 Mb/s) - ‘/dev/null’ saved [473673/473673]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 06:26:01--  https://www.lgt.li/shared/.content/publikationen/bankdienstleistungen/FL_5410_de.pdf
+Resolving www.lgt.li (www.lgt.li)... 194.147.69.132
+Connecting to www.lgt.li (www.lgt.li)|194.147.69.132|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 473673 (463K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 5.89M 1s
+    50K .......... .......... .......... .......... .......... 21% 11.7M 0s
+   100K .......... .......... .......... .......... .......... 32%  194M 0s
+   150K .......... .......... .......... .......... .......... 43% 13.1M 0s
+   200K .......... .......... .......... .......... .......... 54% 52.9M 0s
+   250K .......... .......... .......... .......... .......... 64%  283M 0s
+   300K .......... .......... .......... .......... .......... 75% 15.9M 0s
+   350K .......... .......... .......... .......... .......... 86%  158M 0s
+   400K .......... .......... .......... .......... .......... 97% 40.4M 0s
+   450K .......... ..                                         100% 1.18G=0.2s
+
+2020-03-02 06:26:02 (20.4 Mb/s) - ‘/dev/null’ saved [473673/473673]
+

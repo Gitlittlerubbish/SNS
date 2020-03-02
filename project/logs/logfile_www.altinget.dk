@@ -1,0 +1,20 @@
+--2020-03-02 03:04:13--  http://www.altinget.dk/misc/factsheet_digital_taxation_21032018_en.pdf
+Resolving www.altinget.dk (www.altinget.dk)... 81.7.160.212
+Connecting to www.altinget.dk (www.altinget.dk)|81.7.160.212|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://www.altinget.dk/misc/factsheet_digital_taxation_21032018_en.pdf [following]
+--2020-03-02 03:04:13--  https://www.altinget.dk/misc/factsheet_digital_taxation_21032018_en.pdf
+Connecting to www.altinget.dk (www.altinget.dk)|81.7.160.212|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263127 (257K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 6.51M 0s
+    50K .......... .......... .......... .......... .......... 38%  192M 0s
+   100K .......... .......... .......... .......... .......... 58% 12.8M 0s
+   150K .......... .......... .......... .......... .......... 77% 78.6M 0s
+   200K .......... .......... .......... .......... .......... 97% 14.3M 0s
+   250K ......                                                100%  803M=0.1s
+
+2020-03-02 03:04:14 (16.1 Mb/s) - ‘/dev/null’ saved [263127/263127]
+

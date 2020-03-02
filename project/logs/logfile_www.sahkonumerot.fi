@@ -1,0 +1,18 @@
+--2020-03-02 03:45:25--  http://www.sahkonumerot.fi/2702074/doc/technicalinfodoc/
+Resolving www.sahkonumerot.fi (www.sahkonumerot.fi)... 91.237.151.80
+Connecting to www.sahkonumerot.fi (www.sahkonumerot.fi)|91.237.151.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sahkonumerot.fi/2702074/doc/technicalinfodoc/ [following]
+--2020-03-02 03:45:26--  https://www.sahkonumerot.fi/2702074/doc/technicalinfodoc/
+Connecting to www.sahkonumerot.fi (www.sahkonumerot.fi)|91.237.151.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.61M
+    50K .......... .......... .......... .......... .......... 9.29M
+   100K .......... .......... .......... .......... ..........  184M
+   150K .........                                               665M=0.1s
+
+2020-03-02 03:45:26 (9.65 Mb/s) - ‘/dev/null’ saved [163080]
+

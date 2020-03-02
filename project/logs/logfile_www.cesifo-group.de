@@ -1,0 +1,26 @@
+--2020-03-02 04:01:07--  http://www.cesifo-group.de/DocDL/cesifo1_wp1229.pdf
+Resolving www.cesifo-group.de (www.cesifo-group.de)... 213.179.134.24
+Connecting to www.cesifo-group.de (www.cesifo-group.de)|213.179.134.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ifo.de/DocDL/cesifo1_wp1229.pdf [following]
+--2020-03-02 04:01:07--  https://www.ifo.de/DocDL/cesifo1_wp1229.pdf
+Resolving www.ifo.de (www.ifo.de)... 93.104.242.193
+Connecting to www.ifo.de (www.ifo.de)|93.104.242.193|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.11M
+    50K .......... .......... .......... .......... .......... 7.92M
+   100K .......... .......... .......... .......... .......... 15.8M
+   150K .......... .......... .......... .......... .......... 16.2M
+   200K .......... .......... .......... .......... .......... 15.5M
+   250K .......... .......... .......... .......... .......... 19.4M
+   300K .......... .......... .......... .......... .......... 18.6M
+   350K .......... .......... .......... .......... .......... 16.9M
+   400K .......... .......... .......... .......... .......... 34.9M
+   450K .......... .......... .......... .......... .......... 15.7M
+   500K .......... .......... ....                              741M=0.3s
+
+2020-03-02 04:01:08 (13.6 Mb/s) - ‘/dev/null’ saved [536835]
+

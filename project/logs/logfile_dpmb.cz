@@ -1,0 +1,19 @@
+--2020-03-02 03:03:17--  http://dpmb.cz/cs/download/3662
+Resolving dpmb.cz (dpmb.cz)... 62.77.93.131
+Connecting to dpmb.cz (dpmb.cz)|62.77.93.131|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://dpmb.cz/cs/download/3662 [following]
+--2020-03-02 03:03:17--  https://dpmb.cz/cs/download/3662
+Connecting to dpmb.cz (dpmb.cz)|62.77.93.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217176 (212K) [Application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 5.82M 0s
+    50K .......... .......... .......... .......... .......... 47%  167M 0s
+   100K .......... .......... .......... .......... .......... 70% 11.6M 0s
+   150K .......... .......... .......... .......... .......... 94%  158M 0s
+   200K .......... ..                                         100%  990M=0.1s
+
+2020-03-02 03:03:17 (15.7 Mb/s) - ‘/dev/null’ saved [217176/217176]
+

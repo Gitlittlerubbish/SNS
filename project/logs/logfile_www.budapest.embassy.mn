@@ -1,0 +1,12 @@
+--2020-03-02 07:45:41--  http://www.budapest.embassy.mn/file/new_passport_form.pdf
+Resolving www.budapest.embassy.mn (www.budapest.embassy.mn)... 69.195.124.251
+Connecting to www.budapest.embassy.mn (www.budapest.embassy.mn)|69.195.124.251|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74923 (73K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68% 1.20M 0s
+    50K .......... .......... ...                             100% 65.5M=0.3s
+
+2020-03-02 07:45:42 (1.75 Mb/s) - ‘/dev/null’ saved [74923/74923]
+

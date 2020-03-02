@@ -1,0 +1,17 @@
+--2020-03-02 04:01:08--  http://www.dfg.de/formulare/54_01/54_01_de.pdf
+Resolving www.dfg.de (www.dfg.de)... 83.143.2.157
+Connecting to www.dfg.de (www.dfg.de)|83.143.2.157|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.dfg.de/formulare/54_01/54_01_de.pdf [following]
+--2020-03-02 04:01:08--  https://www.dfg.de/formulare/54_01/54_01_de.pdf
+Connecting to www.dfg.de (www.dfg.de)|83.143.2.157|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149377 (146K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 9.78M 0s
+    50K .......... .......... .......... .......... .......... 68% 18.4M 0s
+   100K .......... .......... .......... .......... .....     100% 17.4M=0.09s
+
+2020-03-02 04:01:08 (13.9 Mb/s) - ‘/dev/null’ saved [149377/149377]
+

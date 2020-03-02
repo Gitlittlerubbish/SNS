@@ -1,0 +1,22 @@
+--2020-03-02 06:04:42--  http://bookfair.nccal.gov.kw/en/ExhibitionCatalog/PublisherReleases/1280
+Resolving bookfair.nccal.gov.kw (bookfair.nccal.gov.kw)... 209.212.145.111
+Connecting to bookfair.nccal.gov.kw (bookfair.nccal.gov.kw)|209.212.145.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 0
+Saving to: ‘/dev/null’
+
+     0K                                                        0.00 =0s
+
+2020-03-02 06:04:43 (0.00 b/s) - ‘/dev/null’ saved [0/0]
+
+--2020-03-02 06:04:43--  http://bookfair.nccal.gov.kw/ar/ExhibitionCatalog/PublisherReleases/1195
+Resolving bookfair.nccal.gov.kw (bookfair.nccal.gov.kw)... 209.212.145.111
+Connecting to bookfair.nccal.gov.kw (bookfair.nccal.gov.kw)|209.212.145.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 0
+Saving to: ‘/dev/null’
+
+     0K                                                        0.00 =0s
+
+2020-03-02 06:04:44 (0.00 b/s) - ‘/dev/null’ saved [0/0]
+

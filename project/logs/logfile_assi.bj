@@ -1,0 +1,20 @@
+--2020-03-02 00:30:07--  http://assi.bj/doc/Recrutements/2019/ASSI-Ingenieurs-PKI.pdf
+Resolving assi.bj (assi.bj)... 137.255.9.108
+Connecting to assi.bj (assi.bj)|137.255.9.108|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://assi.bj/doc/Recrutements/2019/ASSI-Ingenieurs-PKI.pdf [following]
+--2020-03-02 00:30:08--  https://assi.bj/doc/Recrutements/2019/ASSI-Ingenieurs-PKI.pdf
+Connecting to assi.bj (assi.bj)|137.255.9.108|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 284089 (277K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 2.00M 1s
+    50K .......... .......... .......... .......... .......... 36% 4.03M 1s
+   100K .......... .......... .......... .......... .......... 54%  138M 0s
+   150K .......... .......... .......... .......... .......... 72%  675M 0s
+   200K .......... .......... .......... .......... .......... 90% 3.94M 0s
+   250K .......... .......... .......                         100%  973M=0.4s
+
+2020-03-02 00:30:09 (5.49 Mb/s) - ‘/dev/null’ saved [284089/284089]
+

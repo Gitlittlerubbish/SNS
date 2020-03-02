@@ -1,0 +1,13 @@
+--2020-03-02 08:03:04--  http://www.man.com.na/files/news/1528269898statement_on_dtg_18may_2018final.pdf
+Resolving www.man.com.na (www.man.com.na)... 67.227.227.193
+Connecting to www.man.com.na (www.man.com.na)|67.227.227.193|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113479 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 2.05M 0s
+    50K .......... .......... .......... .......... .......... 90% 2.52M 0s
+   100K ..........                                            100% 93.0M=0.4s
+
+2020-03-02 08:03:05 (2.50 Mb/s) - ‘/dev/null’ saved [113479/113479]
+

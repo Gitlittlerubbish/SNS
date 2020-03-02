@@ -1,0 +1,16 @@
+--2020-03-02 05:32:57--  http://www.aiu.ac.ke/fee-structure/send/5-fee-structure/7-fees-structure-2017-2018
+Resolving www.aiu.ac.ke (www.aiu.ac.ke)... 41.204.161.148
+Connecting to www.aiu.ac.ke (www.aiu.ac.ke)|41.204.161.148|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aiu.ac.ke/fee-structure/send/5-fee-structure/7-fees-structure-2017-2018 [following]
+--2020-03-02 05:32:58--  https://www.aiu.ac.ke/fee-structure/send/5-fee-structure/7-fees-structure-2017-2018
+Connecting to www.aiu.ac.ke (www.aiu.ac.ke)|41.204.161.148|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75271 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68% 1.00M 0s
+    50K .......... .......... ...                             100%  304M=0.4s
+
+2020-03-02 05:33:00 (1.47 Mb/s) - ‘/dev/null’ saved [75271/75271]
+

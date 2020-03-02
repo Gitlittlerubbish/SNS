@@ -1,0 +1,13 @@
+--2020-03-02 00:33:14--  http://northstarfinancialservices.bm/admin/resources/documents/pimco-global-bond.pdf
+Resolving northstarfinancialservices.bm (northstarfinancialservices.bm)... 65.52.168.70
+Connecting to northstarfinancialservices.bm (northstarfinancialservices.bm)|65.52.168.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122011 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 1.05M 1s
+    50K .......... .......... .......... .......... .......... 83% 2.09M 0s
+   100K .......... .........                                  100%  163M=0.6s
+
+2020-03-02 00:33:15 (1.66 Mb/s) - ‘/dev/null’ saved [122011/122011]
+

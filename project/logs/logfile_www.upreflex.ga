@@ -1,0 +1,13 @@
+--2020-03-02 03:52:06--  http://www.upreflex.ga/gr/files/785/marabu_ultraflex_UVF_Tech.pdf
+Resolving www.upreflex.ga (www.upreflex.ga)... 104.31.94.119, 104.31.95.119
+Connecting to www.upreflex.ga (www.upreflex.ga)|104.31.94.119|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.2M
+    50K .......... .......... .......... .......... ..........  200M
+   100K .......... .......... ..                               69.5M=0.04s
+
+2020-03-02 03:52:06 (22.3 Mb/s) - ‘/dev/null’ saved [125377]
+

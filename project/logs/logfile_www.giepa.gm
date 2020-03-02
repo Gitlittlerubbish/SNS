@@ -1,0 +1,11 @@
+--2020-03-02 03:54:35--  http://www.giepa.gm/sites/default/files/NEMAct1994.pdf
+Resolving www.giepa.gm (www.giepa.gm)... 66.96.149.32
+Connecting to www.giepa.gm (www.giepa.gm)|66.96.149.32|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24301 (24K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                             100% 2.56M=0.08s
+
+2020-03-02 03:54:36 (2.56 Mb/s) - ‘/dev/null’ saved [24301/24301]
+

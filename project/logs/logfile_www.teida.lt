@@ -1,0 +1,34 @@
+--2020-03-02 06:27:23--  http://www.teida.lt/out/media/Apie_TENS_ir_nuskausminima.pdf
+Resolving www.teida.lt (www.teida.lt)... 109.235.68.212
+Connecting to www.teida.lt (www.teida.lt)|109.235.68.212|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.teida.lt/out/media/Apie_TENS_ir_nuskausminima.pdf [following]
+--2020-03-02 06:27:23--  https://www.teida.lt/out/media/Apie_TENS_ir_nuskausminima.pdf
+Connecting to www.teida.lt (www.teida.lt)|109.235.68.212|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109211 (107K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 5.02M 0s
+    50K .......... .......... .......... .......... .......... 93% 5.26M 0s
+   100K ......                                                100% 1.47G=0.2s
+
+2020-03-02 06:27:24 (5.48 Mb/s) - ‘/dev/null’ saved [109211/109211]
+
+--2020-03-02 06:27:47--  http://www.teida.lt/out/media/Apie_TENS_ir_nuskausminima.pdf
+Resolving www.teida.lt (www.teida.lt)... 109.235.68.212
+Connecting to www.teida.lt (www.teida.lt)|109.235.68.212|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.teida.lt/out/media/Apie_TENS_ir_nuskausminima.pdf [following]
+--2020-03-02 06:27:47--  https://www.teida.lt/out/media/Apie_TENS_ir_nuskausminima.pdf
+Connecting to www.teida.lt (www.teida.lt)|109.235.68.212|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109211 (107K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 5.04M 0s
+    50K .......... .......... .......... .......... .......... 93% 5.56M 0s
+   100K ......                                                100%  586M=0.2s
+
+2020-03-02 06:27:47 (5.63 Mb/s) - ‘/dev/null’ saved [109211/109211]
+

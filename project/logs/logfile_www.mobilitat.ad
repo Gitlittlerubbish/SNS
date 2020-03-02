@@ -1,0 +1,22 @@
+--2020-03-01 22:33:18--  http://www.mobilitat.ad/Uploads/manual_complementari_senyalitzacio_privada_3_20191017175558_ca-ES.pdf
+Resolving www.mobilitat.ad (www.mobilitat.ad)... 194.158.80.55
+Connecting to www.mobilitat.ad (www.mobilitat.ad)|194.158.80.55|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mobilitat.ad/Uploads/manual_complementari_senyalitzacio_privada_3_20191017175558_ca-ES.pdf [following]
+--2020-03-01 22:33:18--  https://www.mobilitat.ad/Uploads/manual_complementari_senyalitzacio_privada_3_20191017175558_ca-ES.pdf
+Connecting to www.mobilitat.ad (www.mobilitat.ad)|194.158.80.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 400649 (391K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 4.19M 1s
+    50K .......... .......... .......... .......... .......... 25%  666M 0s
+   100K .......... .......... .......... .......... .......... 38% 9.34M 0s
+   150K .......... .......... .......... .......... .......... 51% 71.2M 0s
+   200K .......... .......... .......... .......... .......... 63% 11.6M 0s
+   250K .......... .......... .......... .......... .......... 76%  144M 0s
+   300K .......... .......... .......... .......... .......... 89% 51.1M 0s
+   350K .......... .......... .......... .......... .         100% 9.76M=0.2s
+
+2020-03-01 22:33:19 (14.0 Mb/s) - ‘/dev/null’ saved [400649/400649]
+

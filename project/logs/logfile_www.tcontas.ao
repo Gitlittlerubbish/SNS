@@ -1,0 +1,11 @@
+--2020-03-01 22:37:43--  http://www.tcontas.ao/assets/uploads/pdf/aade32064cd9bf02c6b0c3f96642a304.PDF
+Resolving www.tcontas.ao (www.tcontas.ao)... 41.223.157.57
+Connecting to www.tcontas.ao (www.tcontas.ao)|41.223.157.57|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32680 (32K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .                    100%  555K=0.5s
+
+2020-03-01 22:37:44 (555 Kb/s) - ‘/dev/null’ saved [32680/32680]
+

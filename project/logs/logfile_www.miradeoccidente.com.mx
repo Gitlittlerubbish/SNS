@@ -1,0 +1,16 @@
+--2020-03-02 07:31:31--  http://www.miradeoccidente.com.mx/bolsa/perfilventas.pdf
+Resolving www.miradeoccidente.com.mx (www.miradeoccidente.com.mx)... 174.136.26.182
+Connecting to www.miradeoccidente.com.mx (www.miradeoccidente.com.mx)|174.136.26.182|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 267314 (261K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19%  933K 2s
+    50K .......... .......... .......... .......... .......... 38% 1.88M 1s
+   100K .......... .......... .......... .......... .......... 57% 3.70M 1s
+   150K .......... .......... .......... .......... .......... 76% 87.0M 0s
+   200K .......... .......... .......... .......... .......... 95% 3.67M 0s
+   250K .......... .                                          100% 2.10G=0.9s
+
+2020-03-02 07:31:33 (2.42 Mb/s) - ‘/dev/null’ saved [267314/267314]
+

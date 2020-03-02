@@ -1,0 +1,21 @@
+--2020-03-01 23:05:50--  http://www.kisssoft.ag/deutsch/prices/Modulliste.pdf
+Resolving www.kisssoft.ag (www.kisssoft.ag)... 217.26.54.82
+Connecting to www.kisssoft.ag (www.kisssoft.ag)|217.26.54.82|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.kisssoft.ag/deutsch/prices/Modulliste.pdf [following]
+--2020-03-01 23:05:50--  https://www.kisssoft.ag/deutsch/prices/Modulliste.pdf
+Connecting to www.kisssoft.ag (www.kisssoft.ag)|217.26.54.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 327609 (320K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 8.88M 0s
+    50K .......... .......... .......... .......... .......... 31% 17.7M 0s
+   100K .......... .......... .......... .......... .......... 46% 19.8M 0s
+   150K .......... .......... .......... .......... .......... 62% 60.4M 0s
+   200K .......... .......... .......... .......... .......... 78% 19.2M 0s
+   250K .......... .......... .......... .......... .......... 93%  118M 0s
+   300K .......... .........                                  100%  409M=0.1s
+
+2020-03-01 23:05:50 (21.5 Mb/s) - ‘/dev/null’ saved [327609/327609]
+

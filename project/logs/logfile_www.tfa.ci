@@ -1,0 +1,21 @@
+--2020-03-02 02:52:40--  http://www.tfa.ci/uploads/1554988693tfa_presentation.pdf
+Resolving www.tfa.ci (www.tfa.ci)... 67.20.114.22
+Connecting to www.tfa.ci (www.tfa.ci)|67.20.114.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.tousfreresetassocies.com/uploads/1554988693tfa_presentation.pdf [following]
+--2020-03-02 02:52:40--  https://www.tousfreresetassocies.com/uploads/1554988693tfa_presentation.pdf
+Resolving www.tousfreresetassocies.com (www.tousfreresetassocies.com)... 67.20.113.142
+Connecting to www.tousfreresetassocies.com (www.tousfreresetassocies.com)|67.20.113.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 264224 (258K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.22M 1s
+    50K .......... .......... .......... .......... .......... 38% 2.51M 1s
+   100K .......... .......... .......... .......... .......... 58% 18.8M 0s
+   150K .......... .......... .......... .......... .......... 77%  161M 0s
+   200K .......... .......... .......... .......... .......... 96% 2.81M 0s
+   250K ........                                              100% 1.17G=0.7s
+
+2020-03-02 02:52:42 (3.16 Mb/s) - ‘/dev/null’ saved [264224/264224]
+

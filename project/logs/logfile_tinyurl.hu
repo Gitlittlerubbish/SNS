@@ -1,0 +1,25 @@
+--2020-03-02 04:37:13--  http://tinyurl.hu/0KLl/
+Resolving tinyurl.hu (tinyurl.hu)... 46.249.154.87
+Connecting to tinyurl.hu (tinyurl.hu)|46.249.154.87|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tinyurl.hu/0KLl/ [following]
+--2020-03-02 04:37:13--  https://tinyurl.hu/0KLl/
+Connecting to tinyurl.hu (tinyurl.hu)|46.249.154.87|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2427.1982.tb00384.x/pdf [following]
+--2020-03-02 04:37:13--  http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2427.1982.tb00384.x/pdf
+Resolving onlinelibrary.wiley.com (onlinelibrary.wiley.com)... 162.159.130.87, 162.159.129.87
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|162.159.130.87|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-2427.1982.tb00384.x [following]
+--2020-03-02 04:37:14--  https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1468-2427.1982.tb00384.x
+Connecting to onlinelibrary.wiley.com (onlinelibrary.wiley.com)|162.159.130.87|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.50M
+    50K .......... .......... .......... .......               10.6M=0.2s
+
+2020-03-02 04:37:14 (3.71 Mb/s) - ‘/dev/null’ saved [89190]
+

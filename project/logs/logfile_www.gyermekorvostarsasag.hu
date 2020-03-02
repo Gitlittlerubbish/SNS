@@ -1,0 +1,11 @@
+--2020-03-02 04:37:36--  http://www.gyermekorvostarsasag.hu/upload/gyermekorvostarsasag/document/Gyermekgyogyaszat_2003_jun_04_Ujszulottkori_apnoe.pdf
+Resolving www.gyermekorvostarsasag.hu (www.gyermekorvostarsasag.hu)... 195.56.189.73
+Connecting to www.gyermekorvostarsasag.hu (www.gyermekorvostarsasag.hu)|195.56.189.73|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42528 (42K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .         100% 2.59M=0.1s
+
+2020-03-02 04:37:37 (2.59 Mb/s) - ‘/dev/null’ saved [42528/42528]
+

@@ -1,0 +1,17 @@
+--2020-03-01 23:38:10--  http://static.ptv.vic.gov.au/public-transport-victoria/1491350490/PTVH2153_TramNetworkMap_A3_L_March2017_v1_FA_LOCKED.pdf
+Resolving static.ptv.vic.gov.au (static.ptv.vic.gov.au)... 104.18.133.15, 104.18.134.15
+Connecting to static.ptv.vic.gov.au (static.ptv.vic.gov.au)|104.18.133.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://static.ptv.vic.gov.au/public-transport-victoria/1491350490/PTVH2153_TramNetworkMap_A3_L_March2017_v1_FA_LOCKED.pdf [following]
+--2020-03-01 23:38:10--  https://static.ptv.vic.gov.au/public-transport-victoria/1491350490/PTVH2153_TramNetworkMap_A3_L_March2017_v1_FA_LOCKED.pdf
+Connecting to static.ptv.vic.gov.au (static.ptv.vic.gov.au)|104.18.133.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122412 (120K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41%  121M 0s
+    50K .......... .......... .......... .......... .......... 83%  496M 0s
+   100K .......... .........                                  100%  805M=0.004s
+
+2020-03-01 23:38:10 (223 Mb/s) - ‘/dev/null’ saved [122412/122412]
+

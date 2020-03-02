@@ -1,0 +1,14 @@
+--2020-03-02 03:28:24--  http://www.auas.gq/police/UHDPSGuidetoCampusSafety.pdf
+Resolving www.auas.gq (www.auas.gq)... 175.29.26.251
+Connecting to www.auas.gq (www.auas.gq)|175.29.26.251|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158728 (155K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32%  796K 1s
+    50K .......... .......... .......... .......... .......... 64% 1.42M 0s
+   100K .......... .......... .......... .......... .......... 96%  249M 0s
+   150K .....                                                 100%  562M=0.8s
+
+2020-03-02 03:28:26 (1.58 Mb/s) - ‘/dev/null’ saved [158728/158728]
+

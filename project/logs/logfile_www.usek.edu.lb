@@ -1,0 +1,30 @@
+--2020-03-02 06:16:53--  http://www.usek.edu.lb/Content/Assets/20181023EvalagInstitutionalAccred.pdf
+Resolving www.usek.edu.lb (www.usek.edu.lb)... 95.211.110.217
+Connecting to www.usek.edu.lb (www.usek.edu.lb)|95.211.110.217|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Could not parse String-Transport-Security header
+Location: https://www.usek.edu.lb/Content/Assets/20181023EvalagInstitutionalAccred.pdf [following]
+--2020-03-02 06:16:54--  https://www.usek.edu.lb/Content/Assets/20181023EvalagInstitutionalAccred.pdf
+Connecting to www.usek.edu.lb (www.usek.edu.lb)|95.211.110.217|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Could not parse String-Transport-Security header
+Length: 692617 (676K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 24.0M 0s
+    50K .......... .......... .......... .......... .......... 14%  122M 0s
+   100K .......... .......... .......... .......... .......... 22% 54.5M 0s
+   150K .......... .......... .......... .......... .......... 29%  165M 0s
+   200K .......... .......... .......... .......... .......... 36% 52.6M 0s
+   250K .......... .......... .......... .......... .......... 44%  141M 0s
+   300K .......... .......... .......... .......... .......... 51%  197M 0s
+   350K .......... .......... .......... .......... .......... 59% 50.2M 0s
+   400K .......... .......... .......... .......... .......... 66%  191M 0s
+   450K .......... .......... .......... .......... .......... 73%  412M 0s
+   500K .......... .......... .......... .......... .......... 81%  323M 0s
+   550K .......... .......... .......... .......... .......... 88%  141M 0s
+   600K .......... .......... .......... .......... .......... 96%  152M 0s
+   650K .......... .......... ......                          100% 74.4M=0.06s
+
+2020-03-02 06:16:54 (86.3 Mb/s) - ‘/dev/null’ saved [692617/692617]
+

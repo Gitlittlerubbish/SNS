@@ -1,0 +1,14 @@
+--2020-03-02 03:59:32--  http://www.alzheimergeorgia.ge/images/help_support/Know_the_faces_of_dementia.pdf
+Resolving www.alzheimergeorgia.ge (www.alzheimergeorgia.ge)... 91.212.213.20
+Connecting to www.alzheimergeorgia.ge (www.alzheimergeorgia.ge)|91.212.213.20|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201881 (197K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 2.19M 1s
+    50K .......... .......... .......... .......... .......... 50% 4.43M 0s
+   100K .......... .......... .......... .......... .......... 76% 53.5M 0s
+   150K .......... .......... .......... .......... .......   100%  104M=0.3s
+
+2020-03-02 03:59:32 (5.55 Mb/s) - ‘/dev/null’ saved [201881/201881]
+

@@ -1,0 +1,15 @@
+--2020-03-02 06:25:09--  http://gottwald.li/Swyx_Mikropegel_null_fix.pdf
+Resolving gottwald.li (gottwald.li)... 46.30.215.183
+Connecting to gottwald.li (gottwald.li)|46.30.215.183|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245059 (239K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 7.60M 0s
+    50K .......... .......... .......... .......... .......... 41% 15.2M 0s
+   100K .......... .......... .......... .......... .......... 62%  114M 0s
+   150K .......... .......... .......... .......... .......... 83%  283M 0s
+   200K .......... .......... .......... .........            100% 12.6M=0.1s
+
+2020-03-02 06:25:09 (17.6 Mb/s) - ‘/dev/null’ saved [245059/245059]
+

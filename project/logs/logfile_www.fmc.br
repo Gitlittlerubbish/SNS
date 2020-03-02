@@ -1,0 +1,13 @@
+--2020-03-02 01:08:35--  http://www.fmc.br/tcc21.pdf
+Resolving www.fmc.br (www.fmc.br)... 186.202.153.205
+Connecting to www.fmc.br (www.fmc.br)|186.202.153.205|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109440 (107K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46%  667K 1s
+    50K .......... .......... .......... .......... .......... 93% 1.33M 0s
+   100K ......                                                100%  411M=0.9s
+
+2020-03-02 01:08:37 (949 Kb/s) - ‘/dev/null’ saved [109440/109440]
+

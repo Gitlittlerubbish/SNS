@@ -1,0 +1,16 @@
+--2020-03-02 04:59:53--  http://www.scrdiraq.gov.iq/images/ad/taqeem_fuondet.pdf
+Resolving www.scrdiraq.gov.iq (www.scrdiraq.gov.iq)... 5.10.228.249
+Connecting to www.scrdiraq.gov.iq (www.scrdiraq.gov.iq)|5.10.228.249|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.scrdiraq.gov.iq/images/ad/taqeem_fuondet.pdf [following]
+--2020-03-02 04:59:53--  https://www.scrdiraq.gov.iq/images/ad/taqeem_fuondet.pdf
+Connecting to www.scrdiraq.gov.iq (www.scrdiraq.gov.iq)|5.10.228.249|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76851 (75K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 1.64M 0s
+    50K .......... .......... .....                           100% 89.5M=0.3s
+
+2020-03-02 04:59:54 (2.44 Mb/s) - ‘/dev/null’ saved [76851/76851]
+

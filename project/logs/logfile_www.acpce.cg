@@ -1,0 +1,15 @@
+--2020-03-02 02:36:45--  http://www.acpce.cg/uploads/declaration.pdf
+Resolving www.acpce.cg (www.acpce.cg)... 87.98.154.146
+Connecting to www.acpce.cg (www.acpce.cg)|87.98.154.146|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205708 (201K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 31.6M 0s
+    50K .......... .......... .......... .......... .......... 49% 44.3M 0s
+   100K .......... .......... .......... .......... .......... 74%  108M 0s
+   150K .......... .......... .......... .......... .......... 99%  357M 0s
+   200K                                                       100%  145K=0.03s
+
+2020-03-02 02:36:45 (60.6 Mb/s) - ‘/dev/null’ saved [205708/205708]
+

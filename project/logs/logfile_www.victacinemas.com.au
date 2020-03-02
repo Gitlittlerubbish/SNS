@@ -1,0 +1,12 @@
+--2020-03-01 23:33:44--  http://www.victacinemas.com.au/Graphic1.pdf
+Resolving www.victacinemas.com.au (www.victacinemas.com.au)... 13.211.71.186
+Connecting to www.victacinemas.com.au (www.victacinemas.com.au)|13.211.71.186|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74885 (73K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68%  667K 0s
+    50K .......... .......... ...                             100%  108M=0.6s
+
+2020-03-01 23:33:46 (972 Kb/s) - ‘/dev/null’ saved [74885/74885]
+

@@ -1,0 +1,64 @@
+--2020-03-02 00:20:27--  http://mehr.bz/raeumundstreu
+Resolving mehr.bz (mehr.bz)... 213.164.78.7
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mehr.bz/raeumundstreu [following]
+--2020-03-02 00:20:29--  https://mehr.bz/raeumundstreu
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.freiburg.de/pb/site/Freiburg/get/documents_E-1569863067/freiburg/daten/ortsrecht/08%20Stra%C3%9Fenwesen/OrtsR_08_01.pdf [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 00:20:29--  https://www.freiburg.de/pb/site/Freiburg/get/documents_E-1569863067/freiburg/daten/ortsrecht/08%20Stra%C3%9Fenwesen/OrtsR_08_01.pdf
+Resolving www.freiburg.de (www.freiburg.de)... 194.59.37.22
+Connecting to www.freiburg.de (www.freiburg.de)|194.59.37.22|:443... connected.
+HTTP request sent, awaiting response... 200 200
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.67M
+    50K .......... .......... .......... .......... .......... 17.0M
+   100K .......... .......... .......... .......... ..........  148M
+   150K .......... .......... .......... .......... .......... 17.0M
+   200K .......... .......... .......                          49.6M=0.1s
+
+2020-03-02 00:20:29 (17.1 Mb/s) - ‘/dev/null’ saved [233395]
+
+--2020-03-02 00:20:29--  http://mehr.bz/diw2014
+Resolving mehr.bz (mehr.bz)... 213.164.78.7
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mehr.bz/diw2014 [following]
+--2020-03-02 00:20:29--  https://mehr.bz/diw2014
+Connecting to mehr.bz (mehr.bz)|213.164.78.7|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.diw.de/documents/publikationen/73/diw_01.c.489772.de/14-47-3.pdf [following]
+--2020-03-02 00:20:29--  http://www.diw.de/documents/publikationen/73/diw_01.c.489772.de/14-47-3.pdf
+Resolving www.diw.de (www.diw.de)... 193.174.141.131
+Connecting to www.diw.de (www.diw.de)|193.174.141.131|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.diw.de/documents/publikationen/73/diw_01.c.489772.de/14-47-3.pdf [following]
+--2020-03-02 00:20:30--  https://www.diw.de/documents/publikationen/73/diw_01.c.489772.de/14-47-3.pdf
+Connecting to www.diw.de (www.diw.de)|193.174.141.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 785406 (767K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 6.93M 1s
+    50K .......... .......... .......... .......... .......... 13% 14.3M 1s
+   100K .......... .......... .......... .......... .......... 19%  128M 0s
+   150K .......... .......... .......... .......... .......... 26%  112M 0s
+   200K .......... .......... .......... .......... .......... 32% 15.5M 0s
+   250K .......... .......... .......... .......... .......... 39%  107M 0s
+   300K .......... .......... .......... .......... .......... 45% 16.5M 0s
+   350K .......... .......... .......... .......... .......... 52%  380M 0s
+   400K .......... .......... .......... .......... .......... 58% 82.0M 0s
+   450K .......... .......... .......... .......... .......... 65%  136M 0s
+   500K .......... .......... .......... .......... .......... 71% 17.7M 0s
+   550K .......... .......... .......... .......... .......... 78% 88.1M 0s
+   600K .......... .......... .......... .......... .......... 84%  101M 0s
+   650K .......... .......... .......... .......... .......... 91% 1.02G 0s
+   700K .......... .......... .......... .......... .......... 97%  325M 0s
+   750K .......... ......                                     100%  733M=0.2s
+
+2020-03-02 00:20:30 (32.6 Mb/s) - ‘/dev/null’ saved [785406/785406]
+

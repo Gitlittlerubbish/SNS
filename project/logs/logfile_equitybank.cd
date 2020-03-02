@@ -1,0 +1,17 @@
+--2020-03-02 02:34:48--  http://equitybank.cd/downloads/Recruitement_Test1_SAMPLE.pdf
+Resolving equitybank.cd (equitybank.cd)... 136.243.165.58
+Connecting to equitybank.cd (equitybank.cd)|136.243.165.58|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://equitybank.cd/downloads/Recruitement_Test1_SAMPLE.pdf [following]
+--2020-03-02 02:34:48--  https://equitybank.cd/downloads/Recruitement_Test1_SAMPLE.pdf
+Connecting to equitybank.cd (equitybank.cd)|136.243.165.58|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128081 (125K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 9.13M 0s
+    50K .......... .......... .......... .......... .......... 79% 21.4M 0s
+   100K .......... .......... .....                           100% 94.9M=0.07s
+
+2020-03-02 02:34:48 (15.5 Mb/s) - ‘/dev/null’ saved [128081/128081]
+

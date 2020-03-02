@@ -1,0 +1,14 @@
+--2020-03-02 07:35:03--  http://fmf.fm/docs/regulamin_fmf_young_talent_award_2014.pdf
+Resolving fmf.fm (fmf.fm)... 62.121.130.22
+Connecting to fmf.fm (fmf.fm)|62.121.130.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165257 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 5.16M 0s
+    50K .......... .......... .......... .......... .......... 61% 9.81M 0s
+   100K .......... .......... .......... .......... .......... 92% 10.2M 0s
+   150K .......... .                                          100% 1.24G=0.2s
+
+2020-03-02 07:35:03 (8.20 Mb/s) - ‘/dev/null’ saved [165257/165257]
+

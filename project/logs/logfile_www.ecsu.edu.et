@@ -1,0 +1,14 @@
+--2020-03-02 03:33:04--  http://www.ecsu.edu.et/download/file/fid/1752
+Resolving www.ecsu.edu.et (www.ecsu.edu.et)... 213.55.83.50
+Connecting to www.ecsu.edu.et (www.ecsu.edu.et)|213.55.83.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188306 (184K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 1.86M 1s
+    50K .......... .......... .......... .......... .......... 54% 3.80M 0s
+   100K .......... .......... .......... .......... .......... 81% 91.0M 0s
+   150K .......... .......... .......... ...                  100% 81.4M=0.3s
+
+2020-03-02 03:33:04 (4.49 Mb/s) - ‘/dev/null’ saved [188306/188306]
+

@@ -1,0 +1,18 @@
+--2020-03-01 22:50:36--  http://rapids.ai/assets/files/cheatsheet.pdf
+Resolving rapids.ai (rapids.ai)... 185.199.109.153, 185.199.108.153
+Connecting to rapids.ai (rapids.ai)|185.199.109.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://rapids.ai/assets/files/cheatsheet.pdf [following]
+--2020-03-01 22:50:36--  https://rapids.ai/assets/files/cheatsheet.pdf
+Connecting to rapids.ai (rapids.ai)|185.199.109.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173128 (169K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 41.8M 0s
+    50K .......... .......... .......... .......... .......... 59%  108M 0s
+   100K .......... .......... .......... .......... .......... 88%  115M 0s
+   150K .......... .........                                  100% 45.1M=0.02s
+
+2020-03-01 22:50:37 (67.1 Mb/s) - ‘/dev/null’ saved [173128/173128]
+

@@ -1,0 +1,14 @@
+--2020-03-02 07:57:31--  http://www.teledata.mz/uevdinap/LSD.pdf
+Resolving www.teledata.mz (www.teledata.mz)... 196.22.48.37
+Connecting to www.teledata.mz (www.teledata.mz)|196.22.48.37|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193949 (189K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26%  483K 2s
+    50K .......... .......... .......... .......... .......... 52% 1.36M 1s
+   100K .......... .......... .......... .......... .......... 79% 2.77M 0s
+   150K .......... .......... .......... .........            100% 5.34M=1.4s
+
+2020-03-02 07:57:33 (1.14 Mb/s) - ‘/dev/null’ saved [193949/193949]
+

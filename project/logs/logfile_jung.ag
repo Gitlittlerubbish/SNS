@@ -1,0 +1,15 @@
+--2020-03-01 23:04:17--  http://jung.ag/bestellformular_klusplatz.pdf
+Resolving jung.ag (jung.ag)... 80.74.141.2
+Connecting to jung.ag (jung.ag)|80.74.141.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jung.ag/bestellformular_klusplatz.pdf [following]
+--2020-03-01 23:04:18--  https://jung.ag/bestellformular_klusplatz.pdf
+Connecting to jung.ag (jung.ag)|80.74.141.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20177 (20K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                  100%  170M=0.001s
+
+2020-03-01 23:04:18 (170 Mb/s) - ‘/dev/null’ saved [20177/20177]
+

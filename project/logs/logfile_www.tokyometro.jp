@@ -1,0 +1,18 @@
+--2020-03-02 05:12:50--  http://www.tokyometro.jp/news/images_h/metroNews20200212_16.pdf
+Resolving www.tokyometro.jp (www.tokyometro.jp)... 23.36.211.192
+Connecting to www.tokyometro.jp (www.tokyometro.jp)|23.36.211.192|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.tokyometro.jp/news/images_h/metroNews20200212_16.pdf [following]
+--2020-03-02 05:12:50--  https://www.tokyometro.jp/news/images_h/metroNews20200212_16.pdf
+Connecting to www.tokyometro.jp (www.tokyometro.jp)|23.36.211.192|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199826 (195K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 1.77M 1s
+    50K .......... .......... .......... .......... .......... 51% 1.36M 1s
+   100K .......... .......... .......... .......... .......... 76% 3.61M 0s
+   150K .......... .......... .......... .......... .....     100% 9.09M=0.7s
+
+2020-03-02 05:12:51 (2.33 Mb/s) - ‘/dev/null’ saved [199826/199826]
+

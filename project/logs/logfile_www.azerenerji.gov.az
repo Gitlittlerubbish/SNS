@@ -1,0 +1,15 @@
+--2020-03-01 23:47:25--  http://www.azerenerji.gov.az/files/2016_12_27_13_06_42_9017.pdf
+Resolving www.azerenerji.gov.az (www.azerenerji.gov.az)... 31.170.236.83
+Connecting to www.azerenerji.gov.az (www.azerenerji.gov.az)|31.170.236.83|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 231298 (226K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 2.14M 1s
+    50K .......... .......... .......... .......... .......... 44% 4.50M 0s
+   100K .......... .......... .......... .......... .......... 66% 2.39M 0s
+   150K .......... .......... .......... .......... .......... 88% 4.23M 0s
+   200K .......... .......... .....                           100% 2.71M=0.6s
+
+2020-03-01 23:47:26 (2.94 Mb/s) - ‘/dev/null’ saved [231298/231298]
+

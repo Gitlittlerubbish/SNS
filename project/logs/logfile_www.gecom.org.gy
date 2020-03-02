@@ -1,0 +1,14 @@
+--2020-03-02 04:17:19--  http://www.gecom.org.gy/archived/pdf/LocalGovernmentActCap2802.pdf
+Resolving www.gecom.org.gy (www.gecom.org.gy)... 165.227.182.29
+Connecting to www.gecom.org.gy (www.gecom.org.gy)|165.227.182.29|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 177562 (173K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 2.82M 0s
+    50K .......... .......... .......... .......... .......... 57% 5.71M 0s
+   100K .......... .......... .......... .......... .......... 86% 79.4M 0s
+   150K .......... .......... ...                             100%  191M=0.2s
+
+2020-03-02 04:17:20 (6.36 Mb/s) - ‘/dev/null’ saved [177562/177562]
+

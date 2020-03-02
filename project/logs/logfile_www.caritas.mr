@@ -1,0 +1,13 @@
+--2020-03-02 07:23:30--  http://www.caritas.mr/documents/fiches_projets/termesagf.pdf
+Resolving www.caritas.mr (www.caritas.mr)... 41.188.113.127
+Connecting to www.caritas.mr (www.caritas.mr)|41.188.113.127|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130547 (127K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39%  779K 1s
+    50K .......... .......... .......... .......... .......... 78%  706K 0s
+   100K .......... .......... .......                         100% 1.37M=1.3s
+
+2020-03-02 07:23:32 (822 Kb/s) - ‘/dev/null’ saved [130547/130547]
+

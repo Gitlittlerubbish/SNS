@@ -1,0 +1,11 @@
+--2020-03-02 02:01:21--  http://bewegungsdlehre.cf/html/bokslut/varulager/FIFO-LVP.pdf
+Resolving bewegungsdlehre.cf (bewegungsdlehre.cf)... 104.18.53.92, 104.18.52.92
+Connecting to bewegungsdlehre.cf (bewegungsdlehre.cf)|104.18.53.92|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....      74.8M=0.005s
+
+2020-03-02 02:01:21 (74.8 Mb/s) - ‘/dev/null’ saved [47085]
+

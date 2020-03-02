@@ -1,0 +1,11 @@
+--2020-03-02 05:21:38--  http://cab.org.je/images/M_images/Noteslegalaid.pdf
+Resolving cab.org.je (cab.org.je)... 139.162.243.219
+Connecting to cab.org.je (cab.org.je)|139.162.243.219|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16315 (16K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .....                                      100% 25.7M=0.005s
+
+2020-03-02 05:21:38 (25.7 Mb/s) - ‘/dev/null’ saved [16315/16315]
+

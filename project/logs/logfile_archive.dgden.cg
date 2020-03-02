@@ -1,0 +1,40 @@
+--2020-03-02 02:36:40--  http://archive.dgden.cg/14_juin_2018.pdf
+Resolving archive.dgden.cg (archive.dgden.cg)... 91.234.194.177
+Connecting to archive.dgden.cg (archive.dgden.cg)|91.234.194.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://archive.dgden.cg/14_juin_2018.pdf [following]
+--2020-03-02 02:36:40--  https://archive.dgden.cg/14_juin_2018.pdf
+Connecting to archive.dgden.cg (archive.dgden.cg)|91.234.194.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 442640 (432K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 18.2M 0s
+    50K .......... .......... .......... .......... .......... 23% 27.5M 0s
+   100K .......... .......... .......... .......... .......... 34% 4.55M 0s
+   150K .......... .......... .......... .......... .......... 46% 22.6M 0s
+   200K .......... .......... .......... .......... .......... 57% 97.3M 0s
+   250K .......... .......... .......... .......... .......... 69% 21.6M 0s
+   300K .......... .......... .......... .......... .......... 80% 2.93M 0s
+   350K .......... .......... .......... .......... .......... 92% 2.68M 0s
+   400K .......... .......... .......... ..                   100% 1.11G=0.5s
+
+2020-03-02 02:36:41 (7.67 Mb/s) - ‘/dev/null’ saved [442640/442640]
+
+--2020-03-02 02:36:41--  http://archive.dgden.cg/20_septembre_2018.pdf
+Resolving archive.dgden.cg (archive.dgden.cg)... 91.234.194.177
+Connecting to archive.dgden.cg (archive.dgden.cg)|91.234.194.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://archive.dgden.cg/20_septembre_2018.pdf [following]
+--2020-03-02 02:36:41--  https://archive.dgden.cg/20_septembre_2018.pdf
+Connecting to archive.dgden.cg (archive.dgden.cg)|91.234.194.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132726 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 22.7M 0s
+    50K .......... .......... .......... .......... .......... 77% 3.82M 0s
+   100K .......... .......... .........                       100%  190M=0.1s
+
+2020-03-02 02:36:42 (8.38 Mb/s) - ‘/dev/null’ saved [132726/132726]
+

@@ -1,0 +1,11 @@
+--2020-03-02 03:37:33--  http://www.gista.fo/index_htm_files/vid_a.pdf
+Resolving www.gista.fo (www.gista.fo)... 194.150.113.26
+Connecting to www.gista.fo (www.gista.fo)|194.150.113.26|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7924 (7.7K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......                                               100% 1.76M=0.04s
+
+2020-03-02 03:37:33 (1.76 Mb/s) - ‘/dev/null’ saved [7924/7924]
+

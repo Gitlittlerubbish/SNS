@@ -1,0 +1,14 @@
+--2020-03-02 00:06:03--  http://www.asaub.edu.bd/asaubreview/data/v8n2sl9.pdf
+Resolving www.asaub.edu.bd (www.asaub.edu.bd)... 97.74.55.1
+Connecting to www.asaub.edu.bd (www.asaub.edu.bd)|97.74.55.1|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204564 (200K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 2.92M 0s
+    50K .......... .......... .......... .......... .......... 50% 78.7M 0s
+   100K .......... .......... .......... .......... .......... 75% 3.01M 0s
+   150K .......... .......... .......... .......... ......... 100% 71.3M=0.3s
+
+2020-03-02 00:06:04 (5.69 Mb/s) - ‘/dev/null’ saved [204564/204564]
+

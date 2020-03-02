@@ -1,0 +1,15 @@
+--2020-03-02 04:06:28--  http://www.ergen.gr/files/stock_market_participation.pdf
+Resolving www.ergen.gr (www.ergen.gr)... 185.88.20.61
+Connecting to www.ergen.gr (www.ergen.gr)|185.88.20.61|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250680 (245K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 3.48M 0s
+    50K .......... .......... .......... .......... .......... 40% 7.17M 0s
+   100K .......... .......... .......... .......... .......... 61% 61.6M 0s
+   150K .......... .......... .......... .......... .......... 81%  110M 0s
+   200K .......... .......... .......... .......... ....      100% 6.89M=0.2s
+
+2020-03-02 04:06:29 (8.41 Mb/s) - ‘/dev/null’ saved [250680/250680]
+

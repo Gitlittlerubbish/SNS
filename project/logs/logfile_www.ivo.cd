@@ -1,0 +1,12 @@
+--2020-03-02 02:36:22--  http://www.ivo.cd/goodies/lyrics/6TalkingToTheMoon.pdf
+Resolving www.ivo.cd (www.ivo.cd)... 80.74.152.30
+Connecting to www.ivo.cd (www.ivo.cd)|80.74.152.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69467 (68K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73% 5.53M 0s
+    50K .......... .......                                    100% 59.8M=0.08s
+
+2020-03-02 02:36:23 (7.26 Mb/s) - ‘/dev/null’ saved [69467/69467]
+

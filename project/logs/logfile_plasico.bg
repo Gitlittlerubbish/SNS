@@ -1,0 +1,17 @@
+--2020-03-02 01:30:54--  http://plasico.bg/resources/epson-lx-350.pdf
+Resolving plasico.bg (plasico.bg)... 185.80.0.50
+Connecting to plasico.bg (plasico.bg)|185.80.0.50|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://plasico.bg/resources/epson-lx-350.pdf [following]
+--2020-03-02 01:30:55--  https://plasico.bg/resources/epson-lx-350.pdf
+Connecting to plasico.bg (plasico.bg)|185.80.0.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152994 (149K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 4.25M 0s
+    50K .......... .......... .......... .......... .......... 66% 8.01M 0s
+   100K .......... .......... .......... .......... ......... 100% 9.24M=0.2s
+
+2020-03-02 01:30:55 (6.40 Mb/s) - ‘/dev/null’ saved [152994/152994]
+

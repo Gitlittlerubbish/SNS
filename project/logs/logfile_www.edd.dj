@@ -1,0 +1,12 @@
+--2020-03-02 03:05:47--  http://www.edd.dj/assets/pdf/speech_interconnexion_final.pdf
+Resolving www.edd.dj (www.edd.dj)... 196.201.197.226
+Connecting to www.edd.dj (www.edd.dj)|196.201.197.226|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56508 (55K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 90% 1.44M 0s
+    50K .....                                                 100% 45.8M=0.3s
+
+2020-03-02 03:05:48 (1.58 Mb/s) - ‘/dev/null’ saved [56508/56508]
+

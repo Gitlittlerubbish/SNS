@@ -1,0 +1,14 @@
+--2020-03-02 07:57:26--  http://www.bancomoc.mz/Files/BrochuraCoopCredito.pdf
+Resolving www.bancomoc.mz (www.bancomoc.mz)... 197.235.5.43
+Connecting to www.bancomoc.mz (www.bancomoc.mz)|197.235.5.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176386 (172K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29%  536K 2s
+    50K .......... .......... .......... .......... .......... 58% 1.03M 1s
+   100K .......... .......... .......... .......... .......... 87% 1.94M 0s
+   150K .......... .......... ..                              100%  941K=1.6s
+
+2020-03-02 07:57:28 (901 Kb/s) - ‘/dev/null’ saved [176386/176386]
+

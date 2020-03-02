@@ -1,0 +1,16 @@
+--2020-03-01 22:38:39--  http://www.fermat.co.ao/fotos/editor2/trabalhar_com_plaina_eletrica_final.pdf
+Resolving www.fermat.co.ao (www.fermat.co.ao)... 94.23.78.8
+Connecting to www.fermat.co.ao (www.fermat.co.ao)|94.23.78.8|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 289762 (283K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 13.9M 0s
+    50K .......... .......... .......... .......... .......... 35% 31.2M 0s
+   100K .......... .......... .......... .......... .......... 53%  135M 0s
+   150K .......... .......... .......... .......... .......... 70%  170M 0s
+   200K .......... .......... .......... .......... .......... 88% 34.1M 0s
+   250K .......... .......... .......... ..                   100%  177M=0.06s
+
+2020-03-01 22:38:39 (37.7 Mb/s) - ‘/dev/null’ saved [289762/289762]
+

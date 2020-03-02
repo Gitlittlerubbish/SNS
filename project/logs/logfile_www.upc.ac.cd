@@ -1,0 +1,12 @@
+--2020-03-02 02:36:38--  http://www.upc.ac.cd/squelettes/fichiers/pgmcoursfaseL1.pdf
+Resolving www.upc.ac.cd (www.upc.ac.cd)... 92.48.90.167
+Connecting to www.upc.ac.cd (www.upc.ac.cd)|92.48.90.167|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62866 (61K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 81% 38.3M 0s
+    50K .......... .                                          100% 45.6M=0.01s
+
+2020-03-02 02:36:38 (39.5 Mb/s) - ‘/dev/null’ saved [62866/62866]
+

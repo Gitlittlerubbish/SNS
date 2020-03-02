@@ -1,0 +1,13 @@
+--2020-03-01 22:14:10--  http://old.mcit.gov.af/Content/files/satalited.pdf
+Resolving old.mcit.gov.af (old.mcit.gov.af)... 103.132.98.201
+Connecting to old.mcit.gov.af (old.mcit.gov.af)|103.132.98.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151802 (148K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 1.26M 1s
+    50K .......... .......... .......... .......... .......... 67% 3.88M 0s
+   100K .......... .......... .......... .......... ........  100%  156M=0.4s
+
+2020-03-01 22:14:11 (2.80 Mb/s) - ‘/dev/null’ saved [151802/151802]
+

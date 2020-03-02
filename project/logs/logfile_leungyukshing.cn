@@ -1,0 +1,12 @@
+--2020-03-02 02:14:46--  http://leungyukshing.cn/download/SMO.pdf
+Resolving leungyukshing.cn (leungyukshing.cn)... 185.199.110.153, 185.199.108.153, 185.199.111.153, ...
+Connecting to leungyukshing.cn (leungyukshing.cn)|185.199.110.153|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92653 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 56.4M 0s
+    50K .......... .......... .......... ..........           100% 82.9M=0.01s
+
+2020-03-02 02:14:46 (65.8 Mb/s) - ‘/dev/null’ saved [92653/92653]
+

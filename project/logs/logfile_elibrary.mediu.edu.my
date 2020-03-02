@@ -1,0 +1,32 @@
+--2020-03-02 07:01:29--  http://elibrary.mediu.edu.my/books/2017/MEDIU07238.pdf
+Resolving elibrary.mediu.edu.my (elibrary.mediu.edu.my)... 113.23.137.15
+Connecting to elibrary.mediu.edu.my (elibrary.mediu.edu.my)|113.23.137.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://elibrary.mediu.edu.my/books/2017/MEDIU07238.pdf [following]
+--2020-03-02 07:01:30--  https://elibrary.mediu.edu.my/books/2017/MEDIU07238.pdf
+Connecting to elibrary.mediu.edu.my (elibrary.mediu.edu.my)|113.23.137.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59189 (58K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 86%  140K 0s
+    50K .......                                               100%  571M=2.9s
+
+2020-03-02 07:01:35 (162 Kb/s) - ‘/dev/null’ saved [59189/59189]
+
+--2020-03-02 07:01:40--  http://elibrary.mediu.edu.my/books/2017/MEDIU07238.pdf
+Resolving elibrary.mediu.edu.my (elibrary.mediu.edu.my)... 113.23.137.15
+Connecting to elibrary.mediu.edu.my (elibrary.mediu.edu.my)|113.23.137.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://elibrary.mediu.edu.my/books/2017/MEDIU07238.pdf [following]
+--2020-03-02 07:01:40--  https://elibrary.mediu.edu.my/books/2017/MEDIU07238.pdf
+Connecting to elibrary.mediu.edu.my (elibrary.mediu.edu.my)|113.23.137.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59189 (58K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 86%  132K 0s
+    50K .......                                               100%  551M=3.1s
+
+2020-03-02 07:01:46 (152 Kb/s) - ‘/dev/null’ saved [59189/59189]
+

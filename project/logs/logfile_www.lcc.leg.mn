@@ -1,0 +1,23 @@
+--2020-03-02 07:41:50--  http://www.lcc.leg.mn/tfcp/meetings/10132015/DHS_New_Screening_Guidelines.pdf
+Resolving www.lcc.leg.mn (www.lcc.leg.mn)... 156.98.79.215
+Connecting to www.lcc.leg.mn (www.lcc.leg.mn)|156.98.79.215|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lcc.leg.mn/tfcp/meetings/10132015/DHS_New_Screening_Guidelines.pdf [following]
+--2020-03-02 07:41:52--  https://www.lcc.leg.mn/tfcp/meetings/10132015/DHS_New_Screening_Guidelines.pdf
+Connecting to www.lcc.leg.mn (www.lcc.leg.mn)|156.98.79.215|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 456547 (446K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.96M 2s
+    50K .......... .......... .......... .......... .......... 22% 3.89M 1s
+   100K .......... .......... .......... .......... .......... 33%  122M 1s
+   150K .......... .......... .......... .......... .......... 44% 4.07M 1s
+   200K .......... .......... .......... .......... .......... 56%  126M 0s
+   250K .......... .......... .......... .......... .......... 67% 91.3M 0s
+   300K .......... .......... .......... .......... .......... 78% 4.19M 0s
+   350K .......... .......... .......... .......... .......... 89%  217M 0s
+   400K .......... .......... .......... .......... .....     100%  461M=0.5s
+
+2020-03-02 07:41:53 (6.93 Mb/s) - ‘/dev/null’ saved [456547/456547]
+

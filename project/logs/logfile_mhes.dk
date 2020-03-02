@@ -1,0 +1,11 @@
+--2020-03-02 03:04:03--  http://mhes.dk/PID.pdf
+Resolving mhes.dk (mhes.dk)... 46.30.215.41
+Connecting to mhes.dk (mhes.dk)|46.30.215.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41681 (41K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..........           100% 10.5M=0.03s
+
+2020-03-02 03:04:03 (10.5 Mb/s) - ‘/dev/null’ saved [41681/41681]
+

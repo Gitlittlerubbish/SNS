@@ -1,0 +1,22 @@
+--2020-03-02 03:03:44--  http://www.regionsyddanmark.dk/dwn382791
+Resolving www.regionsyddanmark.dk (www.regionsyddanmark.dk)... 193.163.231.65
+Connecting to www.regionsyddanmark.dk (www.regionsyddanmark.dk)|193.163.231.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.regionsyddanmark.dk/dwn382791 [following]
+--2020-03-02 03:03:44--  https://www.regionsyddanmark.dk/dwn382791
+Connecting to www.regionsyddanmark.dk (www.regionsyddanmark.dk)|193.163.231.65|:443... connected.
+HTTP request sent, awaiting response... 302 Object moved
+Location: /dwn382791.pdf [following]
+--2020-03-02 03:03:45--  https://www.regionsyddanmark.dk/dwn382791.pdf
+Reusing existing connection to www.regionsyddanmark.dk:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 204722 (200K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 12.1M 0s
+    50K .......... .......... .......... .......... .......... 50% 13.3M 0s
+   100K .......... .......... .......... .......... .......... 75% 97.9M 0s
+   150K .......... .......... .......... .......... ......... 100% 14.6M=0.1s
+
+2020-03-02 03:03:45 (16.9 Mb/s) - ‘/dev/null’ saved [204722/204722]
+

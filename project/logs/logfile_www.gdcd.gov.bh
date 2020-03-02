@@ -1,0 +1,15 @@
+--2020-03-01 23:59:58--  http://www.gdcd.gov.bh/mcms-store/pdf/safetyproceduresinthecampingseason2.pdf
+Resolving www.gdcd.gov.bh (www.gdcd.gov.bh)... 85.158.131.217
+Connecting to www.gdcd.gov.bh (www.gdcd.gov.bh)|85.158.131.217|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gdcd.gov.bh [following]
+--2020-03-02 00:00:01--  https://www.gdcd.gov.bh/
+Connecting to www.gdcd.gov.bh (www.gdcd.gov.bh)|85.158.131.217|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20746 (20K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ..........                                 100%  817K=0.2s
+
+2020-03-02 00:00:02 (817 Kb/s) - ‘/dev/null’ saved [20746/20746]
+

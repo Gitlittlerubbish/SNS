@@ -1,0 +1,12 @@
+--2020-03-02 04:00:01--  http://www.gaoga.org.ge/resurses/forma100.pdf
+Resolving www.gaoga.org.ge (www.gaoga.org.ge)... 213.157.215.238
+Connecting to www.gaoga.org.ge (www.gaoga.org.ge)|213.157.215.238|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59818 (58K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 85% 3.06M 0s
+    50K ........                                              100%  518M=0.1s
+
+2020-03-02 04:00:02 (3.57 Mb/s) - ‘/dev/null’ saved [59818/59818]
+

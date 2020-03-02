@@ -1,0 +1,11 @@
+--2020-03-02 04:17:25--  http://www.teachingservicecommission.gov.gy/departmentTSC.htm
+Resolving www.teachingservicecommission.gov.gy (www.teachingservicecommission.gov.gy)... 132.148.53.1
+Connecting to www.teachingservicecommission.gov.gy (www.teachingservicecommission.gov.gy)|132.148.53.1|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13869 (14K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...                                        100% 85.3M=0.001s
+
+2020-03-02 04:17:25 (85.3 Mb/s) - ‘/dev/null’ saved [13869/13869]
+

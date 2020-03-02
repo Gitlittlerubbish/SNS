@@ -1,0 +1,13 @@
+--2020-03-02 01:30:56--  http://procon.bg/system/files/02.12_Monitor.pdf
+Resolving procon.bg (procon.bg)... 45.56.104.68
+Connecting to procon.bg (procon.bg)|45.56.104.68|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149101 (146K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 2.79M 0s
+    50K .......... .......... .......... .......... .......... 68% 5.62M 0s
+   100K .......... .......... .......... .......... .....     100%  113M=0.2s
+
+2020-03-02 01:30:57 (5.35 Mb/s) - ‘/dev/null’ saved [149101/149101]
+

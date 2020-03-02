@@ -1,0 +1,11 @@
+--2020-03-02 01:14:28--  http://www.viacaotamandare.com.br/pdf/A31.pdf
+Resolving www.viacaotamandare.com.br (www.viacaotamandare.com.br)... 187.45.240.50
+Connecting to www.viacaotamandare.com.br (www.viacaotamandare.com.br)|187.45.240.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34025 (33K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                  100% 1.26M=0.2s
+
+2020-03-02 01:14:29 (1.26 Mb/s) - ‘/dev/null’ saved [34025/34025]
+

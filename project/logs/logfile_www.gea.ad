@@ -1,0 +1,14 @@
+--2020-03-01 22:33:24--  http://www.gea.ad/catalog/147749.pdf
+Resolving www.gea.ad (www.gea.ad)... 217.160.0.151
+Connecting to www.gea.ad (www.gea.ad)|217.160.0.151|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 171177 (167K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 5.91M 0s
+    50K .......... .......... .......... .......... .......... 59% 1.08G 0s
+   100K .......... .......... .......... .......... .......... 89% 34.5M 0s
+   150K .......... .......                                    100%  389K=0.4s
+
+2020-03-01 22:33:25 (3.09 Mb/s) - ‘/dev/null’ saved [171177/171177]
+

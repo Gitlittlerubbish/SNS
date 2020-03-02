@@ -1,0 +1,14 @@
+--2020-03-02 04:38:27--  http://godolloihirek.hu/tartalom/haziorvosokrendelesiido.pdf
+Resolving godolloihirek.hu (godolloihirek.hu)... 195.56.44.178
+Connecting to godolloihirek.hu (godolloihirek.hu)|195.56.44.178|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186812 (182K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 4.89M 0s
+    50K .......... .......... .......... .......... .......... 54% 10.3M 0s
+   100K .......... .......... .......... .......... .......... 82% 63.4M 0s
+   150K .......... .......... .......... ..                   100% 96.9M=0.1s
+
+2020-03-02 04:38:27 (11.3 Mb/s) - ‘/dev/null’ saved [186812/186812]
+

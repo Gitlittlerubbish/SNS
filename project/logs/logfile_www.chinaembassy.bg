@@ -1,0 +1,12 @@
+--2020-03-02 01:32:52--  http://www.chinaembassy.bg/chn/lsyws/P020140625769077401539.pdf
+Resolving www.chinaembassy.bg (www.chinaembassy.bg)... 106.48.12.11, 106.48.58.48
+Connecting to www.chinaembassy.bg (www.chinaembassy.bg)|106.48.12.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87957 (86K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58% 17.3M 0s
+    50K .......... .......... .......... .....                100% 5.69M=0.08s
+
+2020-03-02 01:32:54 (9.33 Mb/s) - ‘/dev/null’ saved [87957/87957]
+

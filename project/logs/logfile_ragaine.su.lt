@@ -1,0 +1,13 @@
+--2020-03-02 06:27:41--  http://ragaine.su.lt/tests/KOMP_TINKLAI.pdf
+Resolving ragaine.su.lt (ragaine.su.lt)... 193.219.168.10
+Connecting to ragaine.su.lt (ragaine.su.lt)|193.219.168.10|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151368 (148K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 4.43M 0s
+    50K .......... .......... .......... .......... .......... 67% 8.70M 0s
+   100K .......... .......... .......... .......... .......   100% 8.27M=0.2s
+
+2020-03-02 06:27:41 (6.48 Mb/s) - ‘/dev/null’ saved [151368/151368]
+

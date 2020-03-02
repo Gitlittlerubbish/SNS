@@ -1,0 +1,19 @@
+--2020-03-02 08:27:11--  http://www.canterbury.ac.nz/media/documents/oexp-library/beyond_cassi.pdf
+Resolving www.canterbury.ac.nz (www.canterbury.ac.nz)... 132.181.106.9
+Connecting to www.canterbury.ac.nz (www.canterbury.ac.nz)|132.181.106.9|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.canterbury.ac.nz/media/documents/oexp-library/beyond_cassi.pdf [following]
+--2020-03-02 08:27:12--  https://www.canterbury.ac.nz/media/documents/oexp-library/beyond_cassi.pdf
+Connecting to www.canterbury.ac.nz (www.canterbury.ac.nz)|132.181.106.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235668 (230K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21%  667K 2s
+    50K .......... .......... .......... .......... .......... 43% 1.33M 1s
+   100K .......... .......... .......... .......... .......... 65% 1.33M 1s
+   150K .......... .......... .......... .......... .......... 86% 1.34M 0s
+   200K .......... .......... ..........                      100%  239M=1.5s
+
+2020-03-02 08:27:15 (1.23 Mb/s) - ‘/dev/null’ saved [235668/235668]
+

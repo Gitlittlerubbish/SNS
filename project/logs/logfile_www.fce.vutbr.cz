@@ -1,0 +1,20 @@
+--2020-03-02 03:02:46--  http://www.fce.vutbr.cz/che/doc/chemicke_nazvoslovi.pdf
+Resolving www.fce.vutbr.cz (www.fce.vutbr.cz)... 147.229.16.89
+Connecting to www.fce.vutbr.cz (www.fce.vutbr.cz)|147.229.16.89|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.fce.vutbr.cz/che/doc/chemicke_nazvoslovi.pdf [following]
+--2020-03-02 03:02:46--  https://www.fce.vutbr.cz/che/doc/chemicke_nazvoslovi.pdf
+Connecting to www.fce.vutbr.cz (www.fce.vutbr.cz)|147.229.16.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 264644 (258K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 6.99M 0s
+    50K .......... .......... .......... .......... .......... 38%  110M 0s
+   100K .......... .......... .......... .......... .......... 58% 15.3M 0s
+   150K .......... .......... .......... .......... .......... 77% 93.3M 0s
+   200K .......... .......... .......... .......... .......... 96%  203M 0s
+   250K ........                                              100% 3.23M=0.1s
+
+2020-03-02 03:02:47 (18.1 Mb/s) - ‘/dev/null’ saved [264644/264644]
+

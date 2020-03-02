@@ -1,0 +1,16 @@
+--2020-03-02 05:09:36--  http://www.fla.gov.jm/files/Approved_Trainers_at_October_2017.pdf
+Resolving www.fla.gov.jm (www.fla.gov.jm)... 23.229.209.7
+Connecting to www.fla.gov.jm (www.fla.gov.jm)|23.229.209.7|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266122 (260K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.38M 1s
+    50K .......... .......... .......... .......... .......... 38% 2.78M 1s
+   100K .......... .......... .......... .......... .......... 57% 2.80M 0s
+   150K .......... .......... .......... .......... .......... 76%  163M 0s
+   200K .......... .......... .......... .......... .......... 96% 2.76M 0s
+   250K .........                                             100%  455M=0.7s
+
+2020-03-02 05:09:37 (2.87 Mb/s) - ‘/dev/null’ saved [266122/266122]
+

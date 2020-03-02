@@ -1,0 +1,23 @@
+--2020-03-02 01:01:59--  http://studis.ba/wp-content/uploads/2018/10/specskapp42v24mar16.pdf
+Resolving studis.ba (studis.ba)... 92.51.146.85
+Connecting to studis.ba (studis.ba)|92.51.146.85|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://studis.ba/wp-content/uploads/2018/10/specskapp42v24mar16.pdf [following]
+--2020-03-02 01:01:59--  https://studis.ba/wp-content/uploads/2018/10/specskapp42v24mar16.pdf
+Connecting to studis.ba (studis.ba)|92.51.146.85|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 452108 (442K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 10.7M 0s
+    50K .......... .......... .......... .......... .......... 22% 22.3M 0s
+   100K .......... .......... .......... .......... .......... 33% 98.2M 0s
+   150K .......... .......... .......... .......... .......... 45% 39.7M 0s
+   200K .......... .......... .......... .......... .......... 56%  109M 0s
+   250K .......... .......... .......... .......... .......... 67% 63.8M 0s
+   300K .......... .......... .......... .......... .......... 79% 53.3M 0s
+   350K .......... .......... .......... .......... .......... 90% 68.8M 0s
+   400K .......... .......... .......... .......... .         100%  172M=0.1s
+
+2020-03-02 01:01:59 (37.4 Mb/s) - ‘/dev/null’ saved [452108/452108]
+

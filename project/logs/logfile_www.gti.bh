@@ -1,0 +1,14 @@
+--2020-03-01 23:59:05--  http://www.gti.bh/Library/assets/067232685x-qsfr478.pdf
+Resolving www.gti.bh (www.gti.bh)... 50.87.177.110
+Connecting to www.gti.bh (www.gti.bh)|50.87.177.110|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160755 (157K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.20M 1s
+    50K .......... .......... .......... .......... .......... 63% 2.38M 0s
+   100K .......... .......... .......... .......... .......... 95%  140M 0s
+   150K ......                                                100%  225M=0.5s
+
+2020-03-01 23:59:06 (2.49 Mb/s) - ‘/dev/null’ saved [160755/160755]
+

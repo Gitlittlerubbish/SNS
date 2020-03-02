@@ -1,0 +1,16 @@
+--2020-03-02 04:15:08--  http://www.guernseyfunds.gg/pdf/RobinFuller.pdf
+Resolving www.guernseyfunds.gg (www.guernseyfunds.gg)... 79.170.44.214
+Connecting to www.guernseyfunds.gg (www.guernseyfunds.gg)|79.170.44.214|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.guernseyfunds.gg/pdf/RobinFuller.pdf [following]
+--2020-03-02 04:15:08--  https://www.guernseyfunds.gg/pdf/RobinFuller.pdf
+Connecting to www.guernseyfunds.gg (www.guernseyfunds.gg)|79.170.44.214|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64665 (63K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 79% 20.3M 0s
+    50K .......... ...                                        100%  134M=0.02s
+
+2020-03-02 04:15:08 (24.7 Mb/s) - ‘/dev/null’ saved [64665/64665]
+

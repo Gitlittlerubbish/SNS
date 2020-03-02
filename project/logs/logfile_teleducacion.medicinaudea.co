@@ -1,0 +1,19 @@
+--2020-03-02 02:30:59--  http://teleducacion.medicinaudea.co/mod/resource/view.php%3Fid%3D206717
+Resolving teleducacion.medicinaudea.co (teleducacion.medicinaudea.co)... 98.142.107.50
+Connecting to teleducacion.medicinaudea.co (teleducacion.medicinaudea.co)|98.142.107.50|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://teleducacion.medicinaudea.co/mod/resource/view.php?id=206717 [following]
+--2020-03-02 02:30:59--  https://teleducacion.medicinaudea.co/mod/resource/view.php?id=206717
+Connecting to teleducacion.medicinaudea.co (teleducacion.medicinaudea.co)|98.142.107.50|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://teleducacion.medicinaudea.co/enrol/index.php?id=2188 [following]
+--2020-03-02 02:31:00--  https://teleducacion.medicinaudea.co/enrol/index.php?id=2188
+Reusing existing connection to teleducacion.medicinaudea.co:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37008 (36K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100% 1.45M=0.2s
+
+2020-03-02 02:31:01 (1.45 Mb/s) - ‘/dev/null’ saved [37008/37008]
+

@@ -1,0 +1,24 @@
+--2020-03-02 04:11:56--  http://www.mouser.com.gt/ds/2/149/NC7SP14-1011482.pdf
+Resolving www.mouser.com.gt (www.mouser.com.gt)... 23.64.32.91
+Connecting to www.mouser.com.gt (www.mouser.com.gt)|23.64.32.91|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Syntax error in Set-Cookie: akacd_Default_PR=3760575115~rv=26~id=304fb7088d733300595fc2462b2235be; path=/;; HttpOnly at position 78.
+Location: https://www.mouser.com.gt/datasheet/2/149/NC7SP14-1011482.pdf [following]
+--2020-03-02 04:11:58--  https://www.mouser.com.gt/datasheet/2/149/NC7SP14-1011482.pdf
+Connecting to www.mouser.com.gt (www.mouser.com.gt)|23.64.32.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Syntax error in Set-Cookie: akacd_Default_PR=3760575117~rv=97~id=1ea7db365e16398357183d4a48ae916e; path=/;; HttpOnly; Secure; SameSite=None at position 78.
+Length: 404362 (395K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 3.70M 1s
+    50K .......... .......... .......... .......... .......... 25% 3.67M 1s
+   100K .......... .......... .......... .......... .......... 37% 46.0M 0s
+   150K .......... .......... .......... .......... .......... 50% 3.97M 0s
+   200K .......... .......... .......... .......... .......... 63%  145M 0s
+   250K .......... .......... .......... .......... .......... 75% 40.4M 0s
+   300K .......... .......... .......... .......... .......... 88%  194M 0s
+   350K .......... .......... .......... .......... ....      100%  197M=0.4s
+
+2020-03-02 04:12:02 (9.20 Mb/s) - ‘/dev/null’ saved [404362/404362]
+

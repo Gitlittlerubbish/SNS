@@ -1,0 +1,20 @@
+--2020-03-02 00:59:41--  http://www.fit.ba/staffmembers/20
+Resolving www.fit.ba (www.fit.ba)... 80.65.65.253
+Connecting to www.fit.ba (www.fit.ba)|80.65.65.253|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://www.fit.ba/staffmembers/20 [following]
+--2020-03-02 00:59:41--  https://www.fit.ba/staffmembers/20
+Connecting to www.fit.ba (www.fit.ba)|80.65.65.253|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 280430 (274K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 3.96M 0s
+    50K .......... .......... .......... .......... .......... 36%  125M 0s
+   100K .......... .......... .......... .......... .......... 54% 7.84M 0s
+   150K .......... .......... .......... .......... .......... 73%  125M 0s
+   200K .......... .......... .......... .......... .......... 91% 7.98M 0s
+   250K .......... .......... ...                             100%  188M=0.2s
+
+2020-03-02 00:59:42 (10.5 Mb/s) - ‘/dev/null’ saved [280430/280430]
+

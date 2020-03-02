@@ -1,0 +1,13 @@
+--2020-03-02 03:44:56--  http://www.wilimanni.fi/menu.pdf
+Resolving www.wilimanni.fi (www.wilimanni.fi)... 89.166.51.5
+Connecting to www.wilimanni.fi (www.wilimanni.fi)|89.166.51.5|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 129149 (126K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 3.99M 0s
+    50K .......... .......... .......... .......... .......... 79% 8.28M 0s
+   100K .......... .......... ......                          100%  104M=0.2s
+
+2020-03-02 03:44:56 (6.70 Mb/s) - ‘/dev/null’ saved [129149/129149]
+

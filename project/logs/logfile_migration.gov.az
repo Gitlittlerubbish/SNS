@@ -1,0 +1,15 @@
+--2020-03-01 23:48:51--  http://migration.gov.az/content/pdf/002d97d2f3f40408302ea91415001ad3.pdf
+Resolving migration.gov.az (migration.gov.az)... 31.170.236.82
+Connecting to migration.gov.az (migration.gov.az)|31.170.236.82|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://migration.gov.az/content/pdf/002d97d2f3f40408302ea91415001ad3.pdf [following]
+--2020-03-01 23:48:51--  https://migration.gov.az/content/pdf/002d97d2f3f40408302ea91415001ad3.pdf
+Connecting to migration.gov.az (migration.gov.az)|31.170.236.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45593 (45K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ....      100% 4.46M=0.08s
+
+2020-03-01 23:48:52 (4.46 Mb/s) - ‘/dev/null’ saved [45593/45593]
+

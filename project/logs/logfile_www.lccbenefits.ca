@@ -1,0 +1,12 @@
+--2020-03-02 01:51:50--  http://www.lccbenefits.ca/downloads/banewslettermar13.pdf
+Resolving www.lccbenefits.ca (www.lccbenefits.ca)... 69.49.101.51
+Connecting to www.lccbenefits.ca (www.lccbenefits.ca)|69.49.101.51|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63449 (62K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 80% 1.38M 0s
+    50K .......... .                                          100% 1.00M=0.4s
+
+2020-03-02 01:51:51 (1.29 Mb/s) - ‘/dev/null’ saved [63449/63449]
+

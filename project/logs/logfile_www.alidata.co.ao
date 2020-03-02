@@ -1,0 +1,20 @@
+--2020-03-01 22:39:21--  http://www.alidata.co.ao/media/1637/alidatacrm.pdf
+Resolving www.alidata.co.ao (www.alidata.co.ao)... 213.63.184.172
+Connecting to www.alidata.co.ao (www.alidata.co.ao)|213.63.184.172|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.alidata.co.ao/media/1637/alidatacrm.pdf [following]
+--2020-03-01 22:39:22--  https://www.alidata.co.ao/media/1637/alidatacrm.pdf
+Connecting to www.alidata.co.ao (www.alidata.co.ao)|213.63.184.172|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283741 (277K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 4.69M 0s
+    50K .......... .......... .......... .......... .......... 36% 98.9M 0s
+   100K .......... .......... .......... .......... .......... 54% 9.35M 0s
+   150K .......... .......... .......... .......... .......... 72%  137M 0s
+   200K .......... .......... .......... .......... .......... 90% 10.8M 0s
+   250K .......... .......... .......                         100% 52.1M=0.2s
+
+2020-03-01 22:39:22 (12.6 Mb/s) - ‘/dev/null’ saved [283741/283741]
+

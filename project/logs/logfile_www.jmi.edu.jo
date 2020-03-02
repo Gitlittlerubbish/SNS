@@ -1,0 +1,12 @@
+--2020-03-02 05:23:16--  http://www.jmi.edu.jo/en/file/3479/download%3Ftoken%3Dvcg_3yo1
+Resolving www.jmi.edu.jo (www.jmi.edu.jo)... 192.185.21.177
+Connecting to www.jmi.edu.jo (www.jmi.edu.jo)|192.185.21.177|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.00M
+    50K .......... .......... ....                             93.6M=0.4s
+
+2020-03-02 05:23:20 (1.48 Mb/s) - ‘/dev/null’ saved [75987]
+

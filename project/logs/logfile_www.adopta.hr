@@ -1,0 +1,15 @@
+--2020-03-02 02:55:36--  http://www.adopta.hr/images/pdf/adopted_children.pdf
+Resolving www.adopta.hr (www.adopta.hr)... 178.218.165.68
+Connecting to www.adopta.hr (www.adopta.hr)|178.218.165.68|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 239677 (234K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 5.44M 0s
+    50K .......... .......... .......... .......... .......... 42% 11.4M 0s
+   100K .......... .......... .......... .......... .......... 64% 82.6M 0s
+   150K .......... .......... .......... .......... .......... 85%  613M 0s
+   200K .......... .......... .......... ....                 100% 7.84M=0.2s
+
+2020-03-02 02:55:37 (12.6 Mb/s) - ‘/dev/null’ saved [239677/239677]
+

@@ -1,0 +1,12 @@
+--2020-03-02 03:29:16--  http://lisaviolemt.gq/media/1859/ivaerksaetterbarometer2019.pdf
+Resolving lisaviolemt.gq (lisaviolemt.gq)... 104.28.21.229, 104.28.20.229
+Connecting to lisaviolemt.gq (lisaviolemt.gq)|104.28.21.229|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 84.1M
+    50K ....                                                    664K=0.005s
+
+2020-03-02 03:29:16 (90.9 Mb/s) - ‘/dev/null’ saved [55349]
+

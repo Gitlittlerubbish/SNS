@@ -1,0 +1,36 @@
+--2020-03-02 04:07:41--  http://www.normahellas.gr/images/products/14grfile.pdf
+Resolving www.normahellas.gr (www.normahellas.gr)... 185.25.20.163
+Connecting to www.normahellas.gr (www.normahellas.gr)|185.25.20.163|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.normahellas.gr/images/products/14grfile.pdf [following]
+--2020-03-02 04:07:42--  https://www.normahellas.gr/images/products/14grfile.pdf
+Connecting to www.normahellas.gr (www.normahellas.gr)|185.25.20.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201336 (197K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 2.90M 0s
+    50K .......... .......... .......... .......... .......... 50% 5.97M 0s
+   100K .......... .......... .......... .......... .......... 76% 85.2M 0s
+   150K .......... .......... .......... .......... ......    100%  189M=0.2s
+
+2020-03-02 04:07:42 (7.43 Mb/s) - ‘/dev/null’ saved [201336/201336]
+
+--2020-03-02 04:07:42--  http://www.normahellas.gr/images/products/26grfile.pdf
+Resolving www.normahellas.gr (www.normahellas.gr)... 185.25.20.163
+Connecting to www.normahellas.gr (www.normahellas.gr)|185.25.20.163|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.normahellas.gr/images/products/26grfile.pdf [following]
+--2020-03-02 04:07:42--  https://www.normahellas.gr/images/products/26grfile.pdf
+Connecting to www.normahellas.gr (www.normahellas.gr)|185.25.20.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180257 (176K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 3.02M 0s
+    50K .......... .......... .......... .......... .......... 56% 5.83M 0s
+   100K .......... .......... .......... .......... .......... 85%  138M 0s
+   150K .......... .......... ......                          100%  244M=0.2s
+
+2020-03-02 04:07:43 (6.88 Mb/s) - ‘/dev/null’ saved [180257/180257]
+

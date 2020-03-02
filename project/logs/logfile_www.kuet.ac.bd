@@ -1,0 +1,13 @@
+--2020-03-02 00:09:25--  http://www.kuet.ac.bd/images/download/Academic_Ordinance_PG.pdf
+Resolving www.kuet.ac.bd (www.kuet.ac.bd)... 103.74.84.13
+Connecting to www.kuet.ac.bd (www.kuet.ac.bd)|103.74.84.13|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127556 (125K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40%  446K 1s
+    50K .......... .......... .......... .......... .......... 80% 1.54M 0s
+   100K .......... .......... ....                            100%  863K=1.4s
+
+2020-03-02 00:09:28 (721 Kb/s) - ‘/dev/null’ saved [127556/127556]
+

@@ -1,0 +1,16 @@
+--2020-03-02 04:38:25--  http://www.szentjozsefkonyha.hu/etlapok/felnott.pdf
+Resolving www.szentjozsefkonyha.hu (www.szentjozsefkonyha.hu)... 185.33.54.1
+Connecting to www.szentjozsefkonyha.hu (www.szentjozsefkonyha.hu)|185.33.54.1|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.89M
+    50K .......... .......... .......... .......... .......... 9.36M
+   100K .......... .......... .......... .......... .......... 94.7M
+   150K .......... .......... .......... .......... ..........  561M
+   200K .......... .......... .......... .......... .......... 10.0M
+   250K .......... .......... .......... .......... .........   176M=0.2s
+
+2020-03-02 04:38:26 (14.0 Mb/s) - ‘/dev/null’ saved [306592]
+

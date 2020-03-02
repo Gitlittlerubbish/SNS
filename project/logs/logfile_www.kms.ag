@@ -1,0 +1,30 @@
+--2020-03-01 23:00:36--  http://www.kms.ag/s/WEB_Flyer_RKKC2019.pdf
+Resolving www.kms.ag (www.kms.ag)... 198.185.159.145, 198.49.23.144, 198.49.23.145, ...
+Connecting to www.kms.ag (www.kms.ag)|198.185.159.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.kms.ag/s/WEB_Flyer_RKKC2019.pdf [following]
+--2020-03-01 23:00:36--  https://www.kms.ag/s/WEB_Flyer_RKKC2019.pdf
+Connecting to www.kms.ag (www.kms.ag)|198.185.159.145|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/5b29f09b12b13fad4f565f9f/t/5db9a99d358a8a05c4d42486/1572448671699/WEB_Flyer_RKKC2019.pdf [following]
+--2020-03-01 23:00:37--  https://static1.squarespace.com/static/5b29f09b12b13fad4f565f9f/t/5db9a99d358a8a05c4d42486/1572448671699/WEB_Flyer_RKKC2019.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 515966 (504K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 34.5M 0s
+    50K .......... .......... .......... .......... .......... 19% 26.8M 0s
+   100K .......... .......... .......... .......... .......... 29% 99.0M 0s
+   150K .......... .......... .......... .......... .......... 39% 89.2M 0s
+   200K .......... .......... .......... .......... .......... 49% 84.3M 0s
+   250K .......... .......... .......... .......... .......... 59% 84.5M 0s
+   300K .......... .......... .......... .......... .......... 69% 80.2M 0s
+   350K .......... .......... .......... .......... .......... 79% 51.1M 0s
+   400K .......... .......... .......... .......... .......... 89% 85.7M 0s
+   450K .......... .......... .......... .......... .......... 99% 94.9M 0s
+   500K ...                                                   100%  907M=0.07s
+
+2020-03-01 23:00:37 (60.8 Mb/s) - ‘/dev/null’ saved [515966/515966]
+

@@ -1,0 +1,27 @@
+--2020-03-02 04:39:21--  http://www.nave.is/utgefid_efni/skra/241/
+Resolving www.nave.is (www.nave.is)... 193.109.24.171
+Connecting to www.nave.is (www.nave.is)|193.109.24.171|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nave.is/utgefid_efni/skra/241/ [following]
+--2020-03-02 04:39:21--  https://www.nave.is/utgefid_efni/skra/241/
+Connecting to www.nave.is (www.nave.is)|193.109.24.171|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.91M
+    50K .......... .......... .......... .......... .......... 5.83M
+   100K .......... .......... .......... .......... ..........  130M
+   150K .......... .......... .......... .......... .......... 6.42M
+   200K .......... .......... .......... .......... .......... 89.8M
+   250K .......... .......... .......... .......... ..........  140M
+   300K .......... .......... .......... .......... .......... 6.62M
+   350K .......... .......... .......... .......... ..........  146M
+   400K .......... .......... .......... .......... .......... 36.5M
+   450K .......... .......... .......... .......... ..........  430M
+   500K .......... .......... .......... .......... .......... 7.59M
+   550K ..........                                              489M=0.4s
+
+Last-modified header invalid -- time-stamp ignored.
+2020-03-02 04:39:22 (11.0 Mb/s) - ‘/dev/null’ saved [573835]
+

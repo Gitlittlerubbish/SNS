@@ -1,0 +1,13 @@
+--2020-03-02 07:14:21--  http://www.adh.gov.mv/documents/62b03bade46cabc4bb84ac59eeb76d796a9cb827.pdf
+Resolving www.adh.gov.mv (www.adh.gov.mv)... 27.114.150.53
+Connecting to www.adh.gov.mv (www.adh.gov.mv)|27.114.150.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136806 (134K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37%  972K 1s
+    50K .......... .......... .......... .......... .......... 74% 2.34M 0s
+   100K .......... .......... .......... ...                  100% 10.9M=0.6s
+
+2020-03-02 07:14:23 (1.76 Mb/s) - ‘/dev/null’ saved [136806/136806]
+

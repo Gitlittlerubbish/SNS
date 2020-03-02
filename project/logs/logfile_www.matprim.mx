@@ -1,0 +1,11 @@
+--2020-03-02 07:29:07--  http://www.matprim.mx/descargables/Metaloceno/Exceed/Exceed-1018MA-en.pdf
+Resolving www.matprim.mx (www.matprim.mx)... 198.57.253.131
+Connecting to www.matprim.mx (www.matprim.mx)|198.57.253.131|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36485 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .....                100%  870K=0.3s
+
+2020-03-02 07:29:08 (870 Kb/s) - ‘/dev/null’ saved [36485/36485]
+

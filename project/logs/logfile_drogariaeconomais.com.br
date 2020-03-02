@@ -1,0 +1,11 @@
+--2020-03-02 01:09:57--  http://drogariaeconomais.com.br/BACKOFFICE/Uploads/Bula/7896026300155.pdf
+Resolving drogariaeconomais.com.br (drogariaeconomais.com.br)... 13.92.34.253
+Connecting to drogariaeconomais.com.br (drogariaeconomais.com.br)|13.92.34.253|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49876 (49K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........  100% 1.67M=0.2s
+
+2020-03-02 01:09:58 (1.67 Mb/s) - ‘/dev/null’ saved [49876/49876]
+

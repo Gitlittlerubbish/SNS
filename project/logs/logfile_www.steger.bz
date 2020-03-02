@@ -1,0 +1,16 @@
+--2020-03-02 00:23:04--  http://www.steger.bz/pdf/RundschreibenSteuerNr10_10AbsetzbarkeitvonGeschenkenundFirmenessen.pdf
+Resolving www.steger.bz (www.steger.bz)... 78.46.154.163
+Connecting to www.steger.bz (www.steger.bz)|78.46.154.163|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.steger.bz/pdf/RundschreibenSteuerNr10_10AbsetzbarkeitvonGeschenkenundFirmenessen.pdf [following]
+--2020-03-02 00:23:04--  https://www.steger.bz/pdf/RundschreibenSteuerNr10_10AbsetzbarkeitvonGeschenkenundFirmenessen.pdf
+Connecting to www.steger.bz (www.steger.bz)|78.46.154.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98628 (96K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 8.85M 0s
+    50K .......... .......... .......... .......... ......    100% 17.4M=0.07s
+
+2020-03-02 00:23:05 (11.6 Mb/s) - ‘/dev/null’ saved [98628/98628]
+

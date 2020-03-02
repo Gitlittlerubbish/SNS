@@ -1,0 +1,11 @@
+--2020-03-02 05:16:47--  http://www.fsc.go.jp/sonota/tori/tori_iinfq6.pdf
+Resolving www.fsc.go.jp (www.fsc.go.jp)... 116.91.128.18
+Connecting to www.fsc.go.jp (www.fsc.go.jp)|116.91.128.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  107M=0s
+
+2020-03-02 05:16:48 (107 Mb/s) - ‘/dev/null’ saved [188/188]
+

@@ -1,0 +1,15 @@
+--2020-03-02 03:50:32--  http://www.farerata.pf/sites/default/files/Liste_DAB_OPT_au_01092017.pdf
+Resolving www.farerata.pf (www.farerata.pf)... 202.3.238.86
+Connecting to www.farerata.pf (www.farerata.pf)|202.3.238.86|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.farerata.pf/sites/default/files/Liste_DAB_OPT_au_01092017.pdf [following]
+--2020-03-02 03:50:33--  https://www.farerata.pf/sites/default/files/Liste_DAB_OPT_au_01092017.pdf
+Connecting to www.farerata.pf (www.farerata.pf)|202.3.238.86|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6126 (6.0K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .....                                                 100% 3.06G=0s
+
+2020-03-02 03:50:34 (3.06 Gb/s) - ‘/dev/null’ saved [6126/6126]
+

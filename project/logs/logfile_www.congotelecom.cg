@@ -1,0 +1,15 @@
+--2020-03-02 02:36:38--  http://www.congotelecom.cg/cgp.pdf
+Resolving www.congotelecom.cg (www.congotelecom.cg)... 50.87.88.46
+Connecting to www.congotelecom.cg (www.congotelecom.cg)|50.87.88.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224102 (219K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  751K 2s
+    50K .......... .......... .......... .......... .......... 45% 1.71M 1s
+   100K .......... .......... .......... .......... .......... 68%  633M 0s
+   150K .......... .......... .......... .......... .......... 91% 2.26M 0s
+   200K .......... ........                                   100%  876K=1.1s
+
+2020-03-02 02:36:40 (1.57 Mb/s) - ‘/dev/null’ saved [224102/224102]
+

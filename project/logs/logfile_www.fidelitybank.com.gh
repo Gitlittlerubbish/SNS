@@ -1,0 +1,16 @@
+--2020-03-02 04:03:46--  http://www.fidelitybank.com.gh/faqs/44-fesa-faqs/file
+Resolving www.fidelitybank.com.gh (www.fidelitybank.com.gh)... 45.60.64.194
+Connecting to www.fidelitybank.com.gh (www.fidelitybank.com.gh)|45.60.64.194|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.fidelitybank.com.gh/faqs/44-fesa-faqs/file [following]
+--2020-03-02 04:03:46--  https://www.fidelitybank.com.gh/faqs/44-fesa-faqs/file
+Connecting to www.fidelitybank.com.gh (www.fidelitybank.com.gh)|45.60.64.194|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68807 (67K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 74% 11.6M 0s
+    50K .......... .......                                    100% 44.8M=0.04s
+
+2020-03-02 04:03:47 (14.3 Mb/s) - ‘/dev/null’ saved [68807/68807]
+

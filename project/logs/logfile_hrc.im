@@ -1,0 +1,31 @@
+--2020-03-02 05:02:26--  http://hrc.im/scotusbrief
+Resolving hrc.im (hrc.im)... 54.81.116.232
+Connecting to hrc.im (hrc.im)|54.81.116.232|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://hrc.im/scotusbrief [following]
+--2020-03-02 05:02:26--  https://hrc.im/scotusbrief
+Connecting to hrc.im (hrc.im)|54.81.116.232|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://assets2.hrc.org/files/assets/resources/Title-seven-business-amicus-brief.pdf [following]
+--2020-03-02 05:02:27--  https://assets2.hrc.org/files/assets/resources/Title-seven-business-amicus-brief.pdf
+Resolving assets2.hrc.org (assets2.hrc.org)... 13.227.170.77, 13.227.170.92, 13.227.170.102, ...
+Connecting to assets2.hrc.org (assets2.hrc.org)|13.227.170.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 587793 (574K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 2.70M 2s
+    50K .......... .......... .......... .......... .......... 17% 15.7M 1s
+   100K .......... .......... .......... .......... .......... 26% 7.52M 1s
+   150K .......... .......... .......... .......... .......... 34%  181M 0s
+   200K .......... .......... .......... .......... .......... 43% 5.71M 0s
+   250K .......... .......... .......... .......... .......... 52%  203M 0s
+   300K .......... .......... .......... .......... .......... 60%  314M 0s
+   350K .......... .......... .......... .......... .......... 69%  112M 0s
+   400K .......... .......... .......... .......... .......... 78% 20.9M 0s
+   450K .......... .......... .......... .......... .......... 87% 7.96M 0s
+   500K .......... .......... .......... .......... .......... 95%  404M 0s
+   550K .......... .......... ....                            100%  442M=0.4s
+
+2020-03-02 05:02:28 (12.2 Mb/s) - ‘/dev/null’ saved [587793/587793]
+

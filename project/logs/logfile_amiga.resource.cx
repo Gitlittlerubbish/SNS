@@ -1,0 +1,11 @@
+--2020-03-02 02:22:33--  http://amiga.resource.cx/manual/Protar_A500_HD.pdf
+Resolving amiga.resource.cx (amiga.resource.cx)... 185.53.129.233
+Connecting to amiga.resource.cx (amiga.resource.cx)|185.53.129.233|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47118 (46K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 17.3M=0.02s
+
+2020-03-02 02:22:33 (17.3 Mb/s) - ‘/dev/null’ saved [47118/47118]
+

@@ -1,0 +1,17 @@
+--2020-03-02 01:15:17--  http://institucional.anossadrogaria.com.br/bula/966690.pdf
+Resolving institucional.anossadrogaria.com.br (institucional.anossadrogaria.com.br)... 104.28.28.32, 104.28.29.32
+Connecting to institucional.anossadrogaria.com.br (institucional.anossadrogaria.com.br)|104.28.28.32|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 316155 (309K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 64.2M 0s
+    50K .......... .......... .......... .......... .......... 32%  143M 0s
+   100K .......... .......... .......... .......... .......... 48% 76.9M 0s
+   150K .......... .......... .......... .......... .......... 64%  101M 0s
+   200K .......... .......... .......... .......... .......... 80% 98.2M 0s
+   250K .......... .......... .......... .......... .......... 97%  303M 0s
+   300K ........                                              100%  907M=0.02s
+
+2020-03-02 01:15:17 (104 Mb/s) - ‘/dev/null’ saved [316155/316155]
+

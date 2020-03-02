@@ -1,0 +1,11 @@
+--2020-03-02 01:53:49--  http://aravis.ky/files/download/450
+Resolving aravis.ky (aravis.ky)... 199.184.144.27
+Connecting to aravis.ky (aravis.ky)|199.184.144.27|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                      1.39M=0.009s
+
+2020-03-02 01:53:49 (1.39 Mb/s) - ‘/dev/null’ saved [1556]
+

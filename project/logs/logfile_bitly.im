@@ -1,0 +1,34 @@
+--2020-03-02 05:02:14--  http://bitly.im/to1v4
+Resolving bitly.im (bitly.im)... 104.219.248.81
+Connecting to bitly.im (bitly.im)|104.219.248.81|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bitly.im/to1v4 [following]
+--2020-03-02 05:02:14--  https://bitly.im/to1v4
+Connecting to bitly.im (bitly.im)|104.219.248.81|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/651841/MGN_564.pdf [following]
+--2020-03-02 05:02:15--  https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/651841/MGN_564.pdf
+Resolving www.gov.uk (www.gov.uk)... 199.232.56.144
+Connecting to www.gov.uk (www.gov.uk)|199.232.56.144|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/651841/MGN_564.pdf [following]
+--2020-03-02 05:02:15--  https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/651841/MGN_564.pdf
+Resolving assets.publishing.service.gov.uk (assets.publishing.service.gov.uk)... 199.232.56.144
+Connecting to assets.publishing.service.gov.uk (assets.publishing.service.gov.uk)|199.232.56.144|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: //assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/791968/MGN564-Amendment1.pdf [following]
+--2020-03-02 05:02:15--  https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/791968/MGN564-Amendment1.pdf
+Reusing existing connection to assets.publishing.service.gov.uk:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 297659 (291K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 44.3M 0s
+    50K .......... .......... .......... .......... .......... 34% 59.7M 0s
+   100K .......... .......... .......... .......... .......... 51% 46.2M 0s
+   150K .......... .......... .......... .......... .......... 68% 65.0M 0s
+   200K .......... .......... .......... .......... .......... 86% 95.9M 0s
+   250K .......... .......... .......... ..........           100%  174M=0.04s
+
+2020-03-02 05:02:16 (63.6 Mb/s) - ‘/dev/null’ saved [297659/297659]
+

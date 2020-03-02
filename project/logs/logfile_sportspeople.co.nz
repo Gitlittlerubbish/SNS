@@ -1,0 +1,25 @@
+--2020-03-02 08:32:35--  http://sportspeople.co.nz/resources/files/50c063f2afa4.pdf
+Resolving sportspeople.co.nz (sportspeople.co.nz)... 52.64.40.177, 54.66.227.241, 52.64.134.205
+Connecting to sportspeople.co.nz (sportspeople.co.nz)|52.64.40.177|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sportspeople.co.nz:443/resources/files/50c063f2afa4.pdf [following]
+--2020-03-02 08:32:35--  https://sportspeople.co.nz/resources/files/50c063f2afa4.pdf
+Connecting to sportspeople.co.nz (sportspeople.co.nz)|52.64.40.177|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 518950 (507K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 1.34M 3s
+    50K .......... .......... .......... .......... .......... 19% 1.33M 2s
+   100K .......... .......... .......... .......... .......... 29% 1.32M 2s
+   150K .......... .......... .......... .......... .......... 39% 1.01M 2s
+   200K .......... .......... .......... .......... .......... 49% 1.33M 2s
+   250K .......... .......... .......... .......... .......... 59%  209M 1s
+   300K .......... .......... .......... .......... .......... 69% 1.32M 1s
+   350K .......... .......... .......... .......... .......... 78% 1.00M 1s
+   400K .......... .......... .......... .......... .......... 88% 1.01M 0s
+   450K .......... .......... .......... .......... .......... 98% 1.32M 0s
+   500K ......                                                100%  483M=3.1s
+
+2020-03-02 08:32:41 (1.35 Mb/s) - ‘/dev/null’ saved [518950/518950]
+

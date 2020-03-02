@@ -1,0 +1,25 @@
+--2020-03-02 07:27:38--  http://www.orange.yt/boutiques/mobile/images/sav.pdf%3FV2
+Resolving www.orange.yt (www.orange.yt)... 80.12.243.21
+Connecting to www.orange.yt (www.orange.yt)|80.12.243.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://mayotte.orange.fr/boutiques/mobile/images/sav.pdf%3FV2 [following]
+--2020-03-02 07:27:39--  http://mayotte.orange.fr/boutiques/mobile/images/sav.pdf%3FV2
+Resolving mayotte.orange.fr (mayotte.orange.fr)... 80.12.243.21
+Reusing existing connection to www.orange.yt:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mayotte.orange.fr/boutiques/mobile/images/sav.pdf%3FV2 [following]
+--2020-03-02 07:27:39--  https://mayotte.orange.fr/boutiques/mobile/images/sav.pdf%3FV2
+Connecting to mayotte.orange.fr (mayotte.orange.fr)|80.12.243.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 258168 (252K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.01M 2s
+    50K .......... .......... .......... .......... .......... 39% 2.04M 1s
+   100K .......... .......... .......... .......... .......... 59% 2.01M 1s
+   150K .......... .......... .......... .......... .......... 79% 2.05M 0s
+   200K .......... .......... .......... .......... .......... 99% 2.08M 0s
+   250K ..                                                    100%  347K=1.2s
+
+2020-03-02 07:27:41 (1.71 Mb/s) - ‘/dev/null’ saved [258168/258168]
+

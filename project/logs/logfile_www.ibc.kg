@@ -1,0 +1,14 @@
+--2020-03-02 06:06:02--  http://www.ibc.kg/ru/download/1260
+Resolving www.ibc.kg (www.ibc.kg)... 176.126.165.113
+Connecting to www.ibc.kg (www.ibc.kg)|176.126.165.113|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.98M
+    50K .......... .......... .......... .......... .......... 3.91M
+   100K .......... .......... .......... .......... .......... 3.95M
+   150K .......... .......... ..                                304M=0.4s
+
+2020-03-02 06:06:03 (3.40 Mb/s) - ‘/dev/null’ saved [176658]
+

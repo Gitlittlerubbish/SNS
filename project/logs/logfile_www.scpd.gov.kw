@@ -1,0 +1,32 @@
+--2020-03-02 06:02:34--  http://www.scpd.gov.kw/cv/ameenEn.pdf
+Resolving www.scpd.gov.kw (www.scpd.gov.kw)... 62.150.65.205
+Connecting to www.scpd.gov.kw (www.scpd.gov.kw)|62.150.65.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.scpd.gov.kw/ [following]
+--2020-03-02 06:02:36--  https://www.scpd.gov.kw/
+Connecting to www.scpd.gov.kw (www.scpd.gov.kw)|62.150.65.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  268K
+    50K ........                                                188K=1.9s
+
+2020-03-02 06:02:39 (252 Kb/s) - ‘/dev/null’ saved [60255]
+
+--2020-03-02 06:03:49--  http://www.scpd.gov.kw/archive/new/4.pdf
+Resolving www.scpd.gov.kw (www.scpd.gov.kw)... 62.150.65.205
+Connecting to www.scpd.gov.kw (www.scpd.gov.kw)|62.150.65.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.scpd.gov.kw/ [following]
+--2020-03-02 06:03:49--  https://www.scpd.gov.kw/
+Connecting to www.scpd.gov.kw (www.scpd.gov.kw)|62.150.65.205|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  408K
+    50K ........                                                392K=1.2s
+
+2020-03-02 06:03:51 (406 Kb/s) - ‘/dev/null’ saved [60255]
+

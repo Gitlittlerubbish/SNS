@@ -1,0 +1,24 @@
+--2020-03-02 07:35:22--  http://skyrock.fm/resources/reglements/Reglement_jeux_Morning_30_09_15.pdf
+Resolving skyrock.fm (skyrock.fm)... 91.203.187.39, 91.203.187.77, 91.203.187.103, ...
+Connecting to skyrock.fm (skyrock.fm)|91.203.187.39|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66475 (65K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 77% 14.2M 0s
+    50K .......... ....                                       100%  912M=0.03s
+
+2020-03-02 07:35:22 (18.3 Mb/s) - ‘/dev/null’ saved [66475/66475]
+
+--2020-03-02 07:35:24--  http://skyrock.fm/resources/reglements/Reglement_jeux_Morning_30_09_15.pdf
+Resolving skyrock.fm (skyrock.fm)... 91.203.187.77, 91.203.187.103, 91.203.187.13, ...
+Connecting to skyrock.fm (skyrock.fm)|91.203.187.77|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66475 (65K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 77% 16.0M 0s
+    50K .......... ....                                       100% 38.0M=0.03s
+
+2020-03-02 07:35:24 (18.5 Mb/s) - ‘/dev/null’ saved [66475/66475]
+

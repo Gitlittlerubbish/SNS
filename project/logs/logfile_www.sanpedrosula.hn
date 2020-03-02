@@ -1,0 +1,17 @@
+--2020-03-02 04:25:28--  http://www.sanpedrosula.hn/requisitos/secretariamunicipal.pdf
+Resolving www.sanpedrosula.hn (www.sanpedrosula.hn)... 200.52.153.82
+Connecting to www.sanpedrosula.hn (www.sanpedrosula.hn)|200.52.153.82|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sanpedrosula.hn/requisitos/secretariamunicipal.pdf [following]
+--2020-03-02 04:25:29--  https://www.sanpedrosula.hn/requisitos/secretariamunicipal.pdf
+Connecting to www.sanpedrosula.hn (www.sanpedrosula.hn)|200.52.153.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149244 (146K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 1.59M 0s
+    50K .......... .......... .......... .......... .......... 68%  109M 0s
+   100K .......... .......... .......... .......... .....     100% 2.99M=0.4s
+
+2020-03-02 04:25:30 (3.08 Mb/s) - ‘/dev/null’ saved [149244/149244]
+

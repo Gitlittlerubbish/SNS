@@ -1,0 +1,15 @@
+--2020-03-01 23:35:56--  http://www.rpc.com.au/pdf/contents.pdf
+Resolving www.rpc.com.au (www.rpc.com.au)... 203.13.68.191
+Connecting to www.rpc.com.au (www.rpc.com.au)|203.13.68.191|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rpc.com.au/pdf/contents.pdf [following]
+--2020-03-01 23:35:57--  https://www.rpc.com.au/pdf/contents.pdf
+Connecting to www.rpc.com.au (www.rpc.com.au)|203.13.68.191|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49445 (48K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........  100%  482K=0.8s
+
+2020-03-01 23:35:59 (482 Kb/s) - ‘/dev/null’ saved [49445/49445]
+

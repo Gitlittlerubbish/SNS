@@ -1,0 +1,12 @@
+--2020-03-02 01:51:40--  http://www.gfii.ca/images/Greenfield_Decimal_Equivalents.pdf
+Resolving www.gfii.ca (www.gfii.ca)... 67.23.168.82
+Connecting to www.gfii.ca (www.gfii.ca)|67.23.168.82|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75201 (73K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68% 1.40M 0s
+    50K .......... .......... ...                             100% 46.5M=0.3s
+
+2020-03-02 01:51:41 (2.02 Mb/s) - ‘/dev/null’ saved [75201/75201]
+

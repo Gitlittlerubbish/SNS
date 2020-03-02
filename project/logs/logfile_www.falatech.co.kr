@@ -1,0 +1,12 @@
+--2020-03-02 05:54:31--  http://www.falatech.co.kr/PDS/CFPS07.pdf
+Resolving www.falatech.co.kr (www.falatech.co.kr)... 211.40.118.130
+Connecting to www.falatech.co.kr (www.falatech.co.kr)|211.40.118.130|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78209 (76K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65%  456K 0s
+    50K .......... .......... ......                          100%  214M=0.9s
+
+2020-03-02 05:54:33 (696 Kb/s) - ‘/dev/null’ saved [78209/78209]
+

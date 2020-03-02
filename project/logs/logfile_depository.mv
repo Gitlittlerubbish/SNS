@@ -1,0 +1,33 @@
+--2020-03-02 07:14:29--  http://depository.mv/pdf/service-agents.pdf
+Resolving depository.mv (depository.mv)... 54.169.34.213
+Connecting to depository.mv (depository.mv)|54.169.34.213|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://depository.mv/pdf/service-agents.pdf [following]
+--2020-03-02 07:14:30--  https://depository.mv/pdf/service-agents.pdf
+Connecting to depository.mv (depository.mv)|54.169.34.213|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194471 (190K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 2.08M 1s
+    50K .......... .......... .......... .......... .......... 52% 2.07M 0s
+   100K .......... .......... .......... .......... .......... 78%  310M 0s
+   150K .......... .......... .......... .........            100%  469M=0.4s
+
+2020-03-02 07:14:31 (3.92 Mb/s) - ‘/dev/null’ saved [194471/194471]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 07:14:33--  https://depository.mv/pdf/service-agents.pdf
+Resolving depository.mv (depository.mv)... 54.169.34.213
+Connecting to depository.mv (depository.mv)|54.169.34.213|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194471 (190K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 2.29M 0s
+    50K .......... .......... .......... .......... .......... 52% 2.32M 0s
+   100K .......... .......... .......... .......... .......... 78%  115M 0s
+   150K .......... .......... .......... .........            100% 1.33G=0.4s
+
+2020-03-02 07:14:35 (4.34 Mb/s) - ‘/dev/null’ saved [194471/194471]
+

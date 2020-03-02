@@ -1,0 +1,13 @@
+--2020-03-02 04:17:57--  http://www.cagi.org.gy/pubs/CAGI_Annual_Report_2014.pdf
+Resolving www.cagi.org.gy (www.cagi.org.gy)... 23.227.134.102
+Connecting to www.cagi.org.gy (www.cagi.org.gy)|23.227.134.102|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133424 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 2.80M 0s
+    50K .......... .......... .......... .......... .......... 76% 5.55M 0s
+   100K .......... .......... ..........                      100%  106M=0.2s
+
+2020-03-02 04:17:57 (4.80 Mb/s) - ‘/dev/null’ saved [133424/133424]
+

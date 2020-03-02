@@ -1,0 +1,18 @@
+--2020-03-02 07:31:26--  http://www.ssmz.gob.mx/files/t2b_5dudh.pdf
+Resolving www.ssmz.gob.mx (www.ssmz.gob.mx)... 68.70.164.15
+Connecting to www.ssmz.gob.mx (www.ssmz.gob.mx)|68.70.164.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ssmz.gob.mx/files/t2b_5dudh.pdf [following]
+--2020-03-02 07:31:26--  https://www.ssmz.gob.mx/files/t2b_5dudh.pdf
+Connecting to www.ssmz.gob.mx (www.ssmz.gob.mx)|68.70.164.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 186317 (182K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 2.21M 0s
+    50K .......... .......... .......... .......... .......... 54% 4.47M 0s
+   100K .......... .......... .......... .......... .......... 82%  177M 0s
+   150K .......... .......... .......... .                    100% 85.6M=0.3s
+
+2020-03-02 07:31:27 (5.29 Mb/s) - ‘/dev/null’ saved [186317/186317]
+

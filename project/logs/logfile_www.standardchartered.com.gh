@@ -1,0 +1,24 @@
+--2020-03-02 04:02:49--  http://www.standardchartered.com.gh/gh/_pdf/Terms_and_Conditions_2012.pdf
+Resolving www.standardchartered.com.gh (www.standardchartered.com.gh)... 77.244.143.89, 77.244.143.96
+Connecting to www.standardchartered.com.gh (www.standardchartered.com.gh)|77.244.143.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sc.com/gh/gh/_pdf/Terms_and_Conditions_2012.pdf [following]
+--2020-03-02 04:02:49--  https://www.sc.com/gh/gh/_pdf/Terms_and_Conditions_2012.pdf
+Resolving www.sc.com (www.sc.com)... 2.16.59.243
+Connecting to www.sc.com (www.sc.com)|2.16.59.243|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sc.com/gh/_pdf/Terms_and_Conditions_2012.pdf [following]
+--2020-03-02 04:02:50--  https://www.sc.com/gh/_pdf/Terms_and_Conditions_2012.pdf
+Reusing existing connection to www.sc.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 243960 (238K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 57.2M 0s
+    50K .......... .......... .......... .......... .......... 41%  106M 0s
+   100K .......... .......... .......... .......... .......... 62%  141M 0s
+   150K .......... .......... .......... .......... .......... 83%  112M 0s
+   200K .......... .......... .......... ........             100%  236M=0.02s
+
+2020-03-02 04:02:50 (103 Mb/s) - ‘/dev/null’ saved [243960/243960]
+

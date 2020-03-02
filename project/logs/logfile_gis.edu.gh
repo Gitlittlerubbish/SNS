@@ -1,0 +1,13 @@
+--2020-03-02 04:04:42--  http://gis.edu.gh/wp-content/uploads/2018/03/history.pdf
+Resolving gis.edu.gh (gis.edu.gh)... 173.212.241.214
+Connecting to gis.edu.gh (gis.edu.gh)|173.212.241.214|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120038 (117K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 9.01M 0s
+    50K .......... .......... .......... .......... .......... 85% 18.4M 0s
+   100K .......... .......                                    100% 74.1M=0.07s
+
+2020-03-02 04:04:43 (13.8 Mb/s) - ‘/dev/null’ saved [120038/120038]
+

@@ -1,0 +1,15 @@
+--2020-03-01 23:06:42--  http://www.terras.edu.ar/biblioteca/1/CRRM_De_Alba_Unidad_1.pdf
+Resolving www.terras.edu.ar (www.terras.edu.ar)... 64.22.104.226
+Connecting to www.terras.edu.ar (www.terras.edu.ar)|64.22.104.226|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218747 (214K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.29M 1s
+    50K .......... .......... .......... .......... .......... 46% 4.63M 0s
+   100K .......... .......... .......... .......... .......... 70%  106M 0s
+   150K .......... .......... .......... .......... .......... 93%  210M 0s
+   200K .......... ...                                        100% 1.34M=0.4s
+
+2020-03-01 23:06:43 (4.91 Mb/s) - ‘/dev/null’ saved [218747/218747]
+

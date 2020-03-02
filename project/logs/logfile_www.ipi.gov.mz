@@ -1,0 +1,12 @@
+--2020-03-02 08:01:12--  http://www.ipi.gov.mz/attachments/article/153/Estatuto.pdf
+Resolving www.ipi.gov.mz (www.ipi.gov.mz)... 192.241.157.234
+Connecting to www.ipi.gov.mz (www.ipi.gov.mz)|192.241.157.234|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88632 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 2.85M 0s
+    50K .......... .......... .......... ......               100%  285M=0.1s
+
+2020-03-02 08:01:13 (4.90 Mb/s) - ‘/dev/null’ saved [88632/88632]
+

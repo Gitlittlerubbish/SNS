@@ -1,0 +1,17 @@
+--2020-03-02 05:12:15--  http://www.michinokubank.co.jp/news_2511.pdf
+Resolving www.michinokubank.co.jp (www.michinokubank.co.jp)... 211.120.52.190
+Connecting to www.michinokubank.co.jp (www.michinokubank.co.jp)|211.120.52.190|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.michinokubank.co.jp/news_2511.pdf [following]
+--2020-03-02 05:12:16--  https://www.michinokubank.co.jp/news_2511.pdf
+Connecting to www.michinokubank.co.jp (www.michinokubank.co.jp)|211.120.52.190|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139460 (136K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36%  666K 1s
+    50K .......... .......... .......... .......... .......... 73% 1.74M 0s
+   100K .......... .......... .......... ......               100% 13.9M=0.9s
+
+2020-03-02 05:12:18 (1.28 Mb/s) - ‘/dev/null’ saved [139460/139460]
+

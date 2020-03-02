@@ -1,0 +1,26 @@
+--2020-03-02 06:01:06--  http://www.cba.edu.kw/zainal/E4.pdf
+Resolving www.cba.edu.kw (www.cba.edu.kw)... 139.141.236.130
+Connecting to www.cba.edu.kw (www.cba.edu.kw)|139.141.236.130|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139965 (137K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 1.85M 0s
+    50K .......... .......... .......... .......... .......... 73% 3.81M 0s
+   100K .......... .......... .......... ......               100%  915K=0.7s
+
+2020-03-02 06:01:10 (1.70 Mb/s) - ‘/dev/null’ saved [139965/139965]
+
+--2020-03-02 06:01:10--  http://www.cba.edu.kw/zainal/e3.pdf
+Resolving www.cba.edu.kw (www.cba.edu.kw)... 139.141.236.130
+Connecting to www.cba.edu.kw (www.cba.edu.kw)|139.141.236.130|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136868 (134K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.89M 0s
+    50K .......... .......... .......... .......... .......... 74% 3.80M 0s
+   100K .......... .......... .......... ...                  100% 62.4M=0.3s
+
+2020-03-02 06:01:10 (3.33 Mb/s) - ‘/dev/null’ saved [136868/136868]
+

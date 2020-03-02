@@ -1,0 +1,16 @@
+--2020-03-02 03:58:09--  http://police.ge/files/migracia.pdf
+Resolving police.ge (police.ge)... 91.226.179.65
+Connecting to police.ge (police.ge)|91.226.179.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://police.ge/files/migracia.pdf [following]
+--2020-03-02 03:58:10--  https://police.ge/files/migracia.pdf
+Connecting to police.ge (police.ge)|91.226.179.65|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72675 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 1.98M 0s
+    50K .......... ..........                                 100% 31.7M=0.2s
+
+2020-03-02 03:58:10 (2.74 Mb/s) - ‘/dev/null’ saved [72675/72675]
+

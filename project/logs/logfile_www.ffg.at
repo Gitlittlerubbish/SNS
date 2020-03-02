@@ -1,0 +1,16 @@
+--2020-03-01 23:43:10--  http://www.ffg.at/sites/default/files/dok/kostenleitfaden_v_13_eu_kof.pdf
+Resolving www.ffg.at (www.ffg.at)... 5.35.252.46
+Connecting to www.ffg.at (www.ffg.at)|5.35.252.46|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ffg.at/sites/default/files/dok/kostenleitfaden_v_13_eu_kof.pdf [following]
+--2020-03-01 23:43:10--  https://www.ffg.at/sites/default/files/dok/kostenleitfaden_v_13_eu_kof.pdf
+Connecting to www.ffg.at (www.ffg.at)|5.35.252.46|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92564 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 22.1M 0s
+    50K .......... .......... .......... ..........           100%  208M=0.02s
+
+2020-03-01 23:43:10 (36.8 Mb/s) - ‘/dev/null’ saved [92564/92564]
+

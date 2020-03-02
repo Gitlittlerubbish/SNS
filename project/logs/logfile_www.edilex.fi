@@ -1,0 +1,19 @@
+--2020-03-02 03:45:32--  http://www.edilex.fi/lakikirjasto/7003.pdf
+Resolving www.edilex.fi (www.edilex.fi)... 95.175.105.87
+Connecting to www.edilex.fi (www.edilex.fi)|95.175.105.87|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.edilex.fi/lakikirjasto/7003.pdf [following]
+--2020-03-02 03:45:32--  https://www.edilex.fi/lakikirjasto/7003.pdf
+Connecting to www.edilex.fi (www.edilex.fi)|95.175.105.87|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /verohallinnon_ohjeet/7003.pdf [following]
+--2020-03-02 03:45:32--  https://www.edilex.fi/verohallinnon_ohjeet/7003.pdf
+Reusing existing connection to www.edilex.fi:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 47231 (46K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 9.53M=0.04s
+
+2020-03-02 03:45:32 (9.53 Mb/s) - ‘/dev/null’ saved [47231/47231]
+

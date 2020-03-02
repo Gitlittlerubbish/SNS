@@ -1,0 +1,36 @@
+--2020-03-02 02:36:30--  http://www.csm-rdc.cd/IMG/Documents/ORDONNANCE_N_16_006_DU_1er_MARS_2016_PORTANT_NOMINATION_DES_MAGISTRATS_CIVILS_DU_SIEGE_COUR_D_APPEL.pdf
+Resolving www.csm-rdc.cd (www.csm-rdc.cd)... 91.216.107.196
+Connecting to www.csm-rdc.cd (www.csm-rdc.cd)|91.216.107.196|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.csm-rdc.cd/IMG/Documents/ORDONNANCE_N_16_006_DU_1er_MARS_2016_PORTANT_NOMINATION_DES_MAGISTRATS_CIVILS_DU_SIEGE_COUR_D_APPEL.pdf [following]
+--2020-03-02 02:36:31--  https://www.csm-rdc.cd/IMG/Documents/ORDONNANCE_N_16_006_DU_1er_MARS_2016_PORTANT_NOMINATION_DES_MAGISTRATS_CIVILS_DU_SIEGE_COUR_D_APPEL.pdf
+Connecting to www.csm-rdc.cd (www.csm-rdc.cd)|91.216.107.196|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 243333 (238K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 2.65M 1s
+    50K .......... .......... .......... .......... .......... 42% 2.37M 0s
+   100K .......... .......... .......... .......... .......... 63% 4.98M 0s
+   150K .......... .......... .......... .......... .......... 84% 1.67M 0s
+   200K .......... .......... .......... .......              100% 4.90M=0.7s
+
+2020-03-02 02:36:32 (2.71 Mb/s) - ‘/dev/null’ saved [243333/243333]
+
+--2020-03-02 02:36:32--  http://www.csm-rdc.cd/IMG/Documents/Journal_Officiel.pdf
+Resolving www.csm-rdc.cd (www.csm-rdc.cd)... 91.216.107.196
+Connecting to www.csm-rdc.cd (www.csm-rdc.cd)|91.216.107.196|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.csm-rdc.cd/IMG/Documents/Journal_Officiel.pdf [following]
+--2020-03-02 02:36:32--  https://www.csm-rdc.cd/IMG/Documents/Journal_Officiel.pdf
+Connecting to www.csm-rdc.cd (www.csm-rdc.cd)|91.216.107.196|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132016 (129K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 2.62M 0s
+    50K .......... .......... .......... .......... .......... 77% 2.61M 0s
+   100K .......... .......... ........                        100% 2.97M=0.4s
+
+2020-03-02 02:36:32 (2.69 Mb/s) - ‘/dev/null’ saved [132016/132016]
+

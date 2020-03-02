@@ -1,0 +1,12 @@
+--2020-03-01 23:05:33--  http://www.onsen.ag/img/clawknights.pdf
+Resolving www.onsen.ag (www.onsen.ag)... 133.242.87.205
+Connecting to www.onsen.ag (www.onsen.ag)|133.242.87.205|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 69378 (68K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73%  867K 0s
+    50K .......... .......                                    100%  564K=0.7s
+
+2020-03-01 23:05:34 (760 Kb/s) - ‘/dev/null’ saved [69378/69378]
+

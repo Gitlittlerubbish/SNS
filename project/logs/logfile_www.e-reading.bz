@@ -1,0 +1,21 @@
+--2020-03-02 00:27:27--  http://www.e-reading.bz/bookreader.php/141450/wireless
+Resolving www.e-reading.bz (www.e-reading.bz)... 185.48.56.243
+Connecting to www.e-reading.bz (www.e-reading.bz)|185.48.56.243|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.e-reading.life/bookreader.php/141450/wireless [following]
+--2020-03-02 00:27:27--  https://www.e-reading.life/bookreader.php/141450/wireless
+Resolving www.e-reading.life (www.e-reading.life)... 185.48.56.243
+Connecting to www.e-reading.life (www.e-reading.life)|185.48.56.243|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.86M
+    50K .......... .......... .......... .......... .......... 10.5M
+   100K .......... .......... .......... .......... .......... 12.9M
+   150K .......... .......... .......... .......... .......... 14.5M
+   200K .......... .......... .......... .......... .......... 15.6M
+   250K .......... .......... .....                            14.5M=0.4s
+
+2020-03-02 00:27:28 (6.26 Mb/s) - ‘/dev/null’ saved [281675]
+

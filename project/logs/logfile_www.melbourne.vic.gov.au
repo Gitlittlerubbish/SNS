@@ -1,0 +1,16 @@
+--2020-03-01 23:40:54--  http://www.melbourne.vic.gov.au/SiteCollectionDocuments/sanitising.pdf
+Resolving www.melbourne.vic.gov.au (www.melbourne.vic.gov.au)... 13.224.130.76, 13.224.130.123, 13.224.130.45, ...
+Connecting to www.melbourne.vic.gov.au (www.melbourne.vic.gov.au)|13.224.130.76|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.melbourne.vic.gov.au/SiteCollectionDocuments/sanitising.pdf [following]
+--2020-03-01 23:40:55--  https://www.melbourne.vic.gov.au/SiteCollectionDocuments/sanitising.pdf
+Connecting to www.melbourne.vic.gov.au (www.melbourne.vic.gov.au)|13.224.130.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67132 (66K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 76%  992K 0s
+    50K .......... .....                                      100%  226M=0.4s
+
+2020-03-01 23:40:56 (1.30 Mb/s) - ‘/dev/null’ saved [67132/67132]
+

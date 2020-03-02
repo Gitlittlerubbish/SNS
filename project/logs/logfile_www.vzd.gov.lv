@@ -1,0 +1,24 @@
+--2020-03-02 06:14:12--  http://www.vzd.gov.lv/files/buklets_bku_jautajumi_un_atbildes_31_08_2016.pdf
+Resolving www.vzd.gov.lv (www.vzd.gov.lv)... 87.246.184.13
+Connecting to www.vzd.gov.lv (www.vzd.gov.lv)|87.246.184.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.vzd.gov.lv/files/buklets_bku_jautajumi_un_atbildes_31_08_2016.pdf [following]
+--2020-03-02 06:14:12--  https://www.vzd.gov.lv/files/buklets_bku_jautajumi_un_atbildes_31_08_2016.pdf
+Connecting to www.vzd.gov.lv (www.vzd.gov.lv)|87.246.184.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 475087 (464K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 3.41M 1s
+    50K .......... .......... .......... .......... .......... 21% 6.94M 1s
+   100K .......... .......... .......... .......... .......... 32% 79.2M 0s
+   150K .......... .......... .......... .......... .......... 43% 6.59M 0s
+   200K .......... .......... .......... .......... .......... 53%  185M 0s
+   250K .......... .......... .......... .......... .......... 64% 6.71M 0s
+   300K .......... .......... .......... .......... .......... 75%  127M 0s
+   350K .......... .......... .......... .......... .......... 86% 8.09M 0s
+   400K .......... .......... .......... .......... .......... 96%  111M 0s
+   450K .......... ...                                        100% 1.41G=0.4s
+
+2020-03-02 06:14:13 (10.4 Mb/s) - ‘/dev/null’ saved [475087/475087]
+

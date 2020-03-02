@@ -1,0 +1,13 @@
+--2020-03-02 06:28:41--  http://www.dimmisi.lu/pdf/DIMMISI_menu.pdf
+Resolving www.dimmisi.lu (www.dimmisi.lu)... 5.9.17.243
+Connecting to www.dimmisi.lu (www.dimmisi.lu)|5.9.17.243|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149517 (146K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 4.38M 0s
+    50K .......... .......... .......... .......... .......... 68% 8.75M 0s
+   100K .......... .......... .......... .......... ......    100% 15.1M=0.2s
+
+2020-03-02 06:28:41 (7.23 Mb/s) - ‘/dev/null’ saved [149517/149517]
+

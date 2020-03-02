@@ -1,0 +1,14 @@
+--2020-03-02 01:45:18--  http://www.pic.org.kh/images/2016Research/20170505_Legal_Judicial_Reform_Eng.pdf
+Resolving www.pic.org.kh (www.pic.org.kh)... 203.217.168.41
+Connecting to www.pic.org.kh (www.pic.org.kh)|203.217.168.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 178164 (174K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28%  665K 2s
+    50K .......... .......... .......... .......... .......... 57%  959K 1s
+   100K .......... .......... .......... .......... .......... 86% 1.50M 0s
+   150K .......... .......... ...                             100%  911K=1.5s
+
+2020-03-02 01:45:20 (931 Kb/s) - ‘/dev/null’ saved [178164/178164]
+

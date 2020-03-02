@@ -1,0 +1,12 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:34:15--  https://www.arc.gov.au/file/10737/download%3Ftoken%3DDzhh5Fmq
+Resolving www.arc.gov.au (www.arc.gov.au)... 95.101.17.203
+Connecting to www.arc.gov.au (www.arc.gov.au)|95.101.17.203|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..          771K=0.5s
+
+2020-03-01 23:34:18 (771 Kb/s) - ‘/dev/null’ saved [43815]
+

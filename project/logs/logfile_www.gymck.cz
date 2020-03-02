@@ -1,0 +1,21 @@
+--2020-03-02 03:03:22--  http://www.gymck.cz/storage/1328165193_sb_7a_pohybove_zakony.pdf
+Resolving www.gymck.cz (www.gymck.cz)... 194.228.207.67
+Connecting to www.gymck.cz (www.gymck.cz)|194.228.207.67|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.gymck.cz/storage/1328165193_sb_7a_pohybove_zakony.pdf [following]
+--2020-03-02 03:03:22--  https://www.gymck.cz/storage/1328165193_sb_7a_pohybove_zakony.pdf
+Connecting to www.gymck.cz (www.gymck.cz)|194.228.207.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 354700 (346K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 4.97M 0s
+    50K .......... .......... .......... .......... .......... 28% 13.2M 0s
+   100K .......... .......... .......... .......... .......... 43% 54.3M 0s
+   150K .......... .......... .......... .......... .......... 57% 14.9M 0s
+   200K .......... .......... .......... .......... .......... 72% 84.2M 0s
+   250K .......... .......... .......... .......... .......... 86% 15.3M 0s
+   300K .......... .......... .......... .......... ......    100% 56.6M=0.2s
+
+2020-03-02 03:03:23 (15.2 Mb/s) - ‘/dev/null’ saved [354700/354700]
+

@@ -1,0 +1,18 @@
+--2020-03-01 23:42:36--  http://www.fule.at/documents/c095night_.pdf
+Resolving www.fule.at (www.fule.at)... 81.19.159.65
+Connecting to www.fule.at (www.fule.at)|81.19.159.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.fule.at/documents/c095night_.pdf [following]
+--2020-03-01 23:42:36--  https://www.fule.at/documents/c095night_.pdf
+Connecting to www.fule.at (www.fule.at)|81.19.159.65|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198236 (194K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 5.52M 0s
+    50K .......... .......... .......... .......... .......... 51% 10.8M 0s
+   100K .......... .......... .......... .......... .......... 77%  130M 0s
+   150K .......... .......... .......... .......... ...       100%  368M=0.1s
+
+2020-03-01 23:42:36 (13.6 Mb/s) - ‘/dev/null’ saved [198236/198236]
+

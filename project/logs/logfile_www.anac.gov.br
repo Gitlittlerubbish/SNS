@@ -1,0 +1,17 @@
+--2020-03-02 01:10:50--  http://www.anac.gov.br/publicacoes/dicas_anac_atrasos_e_cancelamentos_web.pdf
+Resolving www.anac.gov.br (www.anac.gov.br)... 189.3.93.48
+Connecting to www.anac.gov.br (www.anac.gov.br)|189.3.93.48|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.anac.gov.br/publicacoes/dicas_anac_atrasos_e_cancelamentos_web.pdf [following]
+--2020-03-02 01:10:50--  https://www.anac.gov.br/publicacoes/dicas_anac_atrasos_e_cancelamentos_web.pdf
+Connecting to www.anac.gov.br (www.anac.gov.br)|189.3.93.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140084 (137K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36%  667K 1s
+    50K .......... .......... .......... .......... .......... 73% 1.33M 0s
+   100K .......... .......... .......... ......               100%  984K=1.2s
+
+2020-03-02 01:10:53 (912 Kb/s) - ‘/dev/null’ saved [140084/140084]
+

@@ -1,0 +1,14 @@
+--2020-03-02 08:02:50--  http://www.amos.com.na/images/Gebedsfokusse/November_Gebedsbriewe.pdf
+Resolving www.amos.com.na (www.amos.com.na)... 104.24.115.230, 104.24.114.230
+Connecting to www.amos.com.na (www.amos.com.na)|104.24.115.230|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183562 (179K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 20.3M 0s
+    50K .......... .......... .......... .......... .......... 55%  154M 0s
+   100K .......... .......... .......... .......... .......... 83% 83.3M 0s
+   150K .......... .......... .........                       100%  257M=0.03s
+
+2020-03-02 08:02:51 (51.2 Mb/s) - ‘/dev/null’ saved [183562/183562]
+

@@ -1,0 +1,33 @@
+--2020-03-01 22:13:54--  http://www.akbis.gov.af/uploads/countryinfo/1459572836.pdf
+Resolving www.akbis.gov.af (www.akbis.gov.af)... 104.27.144.107, 104.27.145.107
+Connecting to www.akbis.gov.af (www.akbis.gov.af)|104.27.144.107|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.akbis.gov.af/uploads/countryinfo/1459572836.pdf [following]
+--2020-03-01 22:13:54--  https://www.akbis.gov.af/uploads/countryinfo/1459572836.pdf
+Connecting to www.akbis.gov.af (www.akbis.gov.af)|104.27.144.107|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84731 (83K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 60% 48.1M 0s
+    50K .......... .......... .......... ..                   100%  188M=0.01s
+
+2020-03-01 22:13:54 (68.2 Mb/s) - ‘/dev/null’ saved [84731/84731]
+
+--2020-03-01 22:13:54--  http://www.akbis.gov.af/uploads/countryinfo/363475816.pdf
+Resolving www.akbis.gov.af (www.akbis.gov.af)... 104.27.144.107, 104.27.145.107
+Connecting to www.akbis.gov.af (www.akbis.gov.af)|104.27.144.107|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.akbis.gov.af/uploads/countryinfo/363475816.pdf [following]
+--2020-03-01 22:13:54--  https://www.akbis.gov.af/uploads/countryinfo/363475816.pdf
+Connecting to www.akbis.gov.af (www.akbis.gov.af)|104.27.144.107|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138342 (135K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 78.0M 0s
+    50K .......... .......... .......... .......... .......... 74% 67.2M 0s
+   100K .......... .......... .......... .....                100% 38.3M=0.02s
+
+2020-03-01 22:13:55 (58.7 Mb/s) - ‘/dev/null’ saved [138342/138342]
+

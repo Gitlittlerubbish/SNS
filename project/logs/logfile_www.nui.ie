@@ -1,0 +1,15 @@
+--2020-03-02 05:01:39--  http://www.nui.ie/college/docs/exemption.pdf
+Resolving www.nui.ie (www.nui.ie)... 99.80.184.10
+Connecting to www.nui.ie (www.nui.ie)|99.80.184.10|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217633 (213K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 15.8M 0s
+    50K .......... .......... .......... .......... .......... 47% 27.2M 0s
+   100K .......... .......... .......... .......... .......... 70%  140M 0s
+   150K .......... .......... .......... .......... .......... 94% 1.19G 0s
+   200K .......... ..                                         100% 9.00M=0.06s
+
+2020-03-02 05:01:39 (31.2 Mb/s) - ‘/dev/null’ saved [217633/217633]
+

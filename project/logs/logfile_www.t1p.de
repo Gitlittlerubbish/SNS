@@ -1,0 +1,34 @@
+--2020-03-02 04:00:05--  http://www.t1p.de/rk6s
+Resolving www.t1p.de (www.t1p.de)... 81.30.148.4
+Connecting to www.t1p.de (www.t1p.de)|81.30.148.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://t1p.de/rk6s [following]
+--2020-03-02 04:00:05--  https://t1p.de/rk6s
+Resolving t1p.de (t1p.de)... 81.30.148.4
+Connecting to t1p.de (t1p.de)|81.30.148.4|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://apps.who.int/iris/bitstream/handle/10665/260253/WHO-NMH-PND-16.5Rev.1-eng.pdf?sequence=1 [following]
+--2020-03-02 04:00:05--  http://apps.who.int/iris/bitstream/handle/10665/260253/WHO-NMH-PND-16.5Rev.1-eng.pdf?sequence=1
+Resolving apps.who.int (apps.who.int)... 158.232.12.85
+Connecting to apps.who.int (apps.who.int)|158.232.12.85|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://apps.who.int/iris/bitstream/handle/10665/260253/WHO-NMH-PND-16.5Rev.1-eng.pdf?sequence=1 [following]
+--2020-03-02 04:00:06--  https://apps.who.int/iris/bitstream/handle/10665/260253/WHO-NMH-PND-16.5Rev.1-eng.pdf?sequence=1
+Connecting to apps.who.int (apps.who.int)|158.232.12.85|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.who.int/sorry/ [following]
+--2020-03-02 04:00:06--  http://www.who.int/sorry/
+Resolving www.who.int (www.who.int)... 13.224.130.38, 13.224.130.42, 13.224.130.11, ...
+Connecting to www.who.int (www.who.int)|13.224.130.38|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.who.int/sorry/ [following]
+--2020-03-02 04:00:06--  https://www.who.int/sorry/
+Connecting to www.who.int (www.who.int)|13.224.130.38|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 35.6M=0s
+
+2020-03-02 04:00:06 (35.6 Mb/s) - ‘/dev/null’ saved [80/80]
+

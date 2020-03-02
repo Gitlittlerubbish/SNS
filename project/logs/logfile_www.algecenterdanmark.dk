@@ -1,0 +1,17 @@
+--2020-03-02 03:05:09--  http://www.algecenterdanmark.dk/media/2983/bioenergy_potential_of_ulva_lactuca.pdf
+Resolving www.algecenterdanmark.dk (www.algecenterdanmark.dk)... 87.54.37.112
+Connecting to www.algecenterdanmark.dk (www.algecenterdanmark.dk)|87.54.37.112|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 325378 (318K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 3.43M 1s
+    50K .......... .......... .......... .......... .......... 31% 10.1M 0s
+   100K .......... .......... .......... .......... .......... 47% 32.0M 0s
+   150K .......... .......... .......... .......... .......... 62% 14.4M 0s
+   200K .......... .......... .......... .......... .......... 78%  130M 0s
+   250K .......... .......... .......... .......... .......... 94% 42.4M 0s
+   300K .......... .......                                    100% 5.56M=0.2s
+
+2020-03-02 03:05:09 (10.9 Mb/s) - ‘/dev/null’ saved [325378/325378]
+

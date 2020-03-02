@@ -1,0 +1,51 @@
+--2020-03-02 04:19:04--  http://red.ht/2RM5SgY
+Resolving red.ht (red.ht)... 67.199.248.13, 67.199.248.12
+Connecting to red.ht (red.ht)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.redhat.com/cms/managed-files/ve-future-of-finance-ebook-f15443wg-201812-en_0_0.pdf [following]
+--2020-03-02 04:19:04--  https://www.redhat.com/cms/managed-files/ve-future-of-finance-ebook-f15443wg-201812-en_0_0.pdf
+Resolving www.redhat.com (www.redhat.com)... 84.53.156.34
+Connecting to www.redhat.com (www.redhat.com)|84.53.156.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 526444 (514K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 25.4M 0s
+    50K .......... .......... .......... .......... .......... 19% 6.76M 0s
+   100K .......... .......... .......... .......... .......... 29% 25.6M 0s
+   150K .......... .......... .......... .......... .......... 38% 45.5M 0s
+   200K .......... .......... .......... .......... .......... 48% 7.96M 0s
+   250K .......... .......... .......... .......... .......... 58% 32.2M 0s
+   300K .......... .......... .......... .......... .......... 68% 30.7M 0s
+   350K .......... .......... .......... .......... .......... 77%  241M 0s
+   400K .......... .......... .......... .......... .......... 87% 15.5M 0s
+   450K .......... .......... .......... .......... .......... 97% 21.9M 0s
+   500K .......... ....                                       100%  618M=0.2s
+
+2020-03-02 04:19:05 (18.6 Mb/s) - ‘/dev/null’ saved [526444/526444]
+
+--2020-03-02 04:19:05--  http://red.ht/2reg3P5
+Resolving red.ht (red.ht)... 67.199.248.13, 67.199.248.12
+Connecting to red.ht (red.ht)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.redhat.com/cms/managed-files/451-research-containers-rise-to-challenge-openstack-analyst-paper-201701-en.pdf [following]
+--2020-03-02 04:19:05--  https://www.redhat.com/cms/managed-files/451-research-containers-rise-to-challenge-openstack-analyst-paper-201701-en.pdf
+Resolving www.redhat.com (www.redhat.com)... 84.53.156.34
+Connecting to www.redhat.com (www.redhat.com)|84.53.156.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 497759 (486K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 83.4M 0s
+    50K .......... .......... .......... .......... .......... 20% 80.1M 0s
+   100K .......... .......... .......... .......... .......... 30%  116M 0s
+   150K .......... .......... .......... .......... .......... 41%  128M 0s
+   200K .......... .......... .......... .......... .......... 51%  207M 0s
+   250K .......... .......... .......... .......... .......... 61%  310M 0s
+   300K .......... .......... .......... .......... .......... 72%  122M 0s
+   350K .......... .......... .......... .......... .......... 82%  107M 0s
+   400K .......... .......... .......... .......... .......... 92%  190M 0s
+   450K .......... .......... .......... ......               100%  278M=0.03s
+
+2020-03-02 04:19:05 (131 Mb/s) - ‘/dev/null’ saved [497759/497759]
+

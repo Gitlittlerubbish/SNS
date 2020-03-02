@@ -1,0 +1,15 @@
+--2020-03-01 23:09:02--  http://www.legisalud.gov.ar/dels/constitucion_oms.pdf
+Resolving www.legisalud.gov.ar (www.legisalud.gov.ar)... 200.49.92.158
+Connecting to www.legisalud.gov.ar (www.legisalud.gov.ar)|200.49.92.158|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 255718 (250K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20%  232K 7s
+    50K .......... .......... .......... .......... .......... 40%  905K 3s
+   100K .......... .......... .......... .......... .......... 60% 1.80M 2s
+   150K .......... .......... .......... .......... .......... 80% 1.81M 1s
+   200K .......... .......... .......... .......... ......... 100% 67.1M=2.7s
+
+2020-03-01 23:09:06 (764 Kb/s) - ‘/dev/null’ saved [255718/255718]
+

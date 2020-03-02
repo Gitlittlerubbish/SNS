@@ -1,0 +1,22 @@
+--2020-03-01 23:05:35--  http://www.siegl.ag/assets/pdf/Zertifikate/Philipp/Kantenschutzwinkel.pdf
+Resolving www.siegl.ag (www.siegl.ag)... 80.190.174.50
+Connecting to www.siegl.ag (www.siegl.ag)|80.190.174.50|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.siegl.ag/assets/pdf/Zertifikate/Philipp/Kantenschutzwinkel.pdf [following]
+--2020-03-01 23:05:35--  https://www.siegl.ag/assets/pdf/Zertifikate/Philipp/Kantenschutzwinkel.pdf
+Connecting to www.siegl.ag (www.siegl.ag)|80.190.174.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 363132 (355K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 3.05M 1s
+    50K .......... .......... .......... .......... .......... 28% 19.6M 0s
+   100K .......... .......... .......... .......... .......... 42% 6.73M 0s
+   150K .......... .......... .......... .......... .......... 56% 9.79M 0s
+   200K .......... .......... .......... .......... .......... 70% 10.2M 0s
+   250K .......... .......... .......... .......... .......... 84% 11.3M 0s
+   300K .......... .......... .......... .......... .......... 98% 14.2M 0s
+   350K ....                                                  100% 12.1M=0.4s
+
+2020-03-01 23:05:35 (7.94 Mb/s) - ‘/dev/null’ saved [363132/363132]
+

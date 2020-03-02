@@ -1,0 +1,13 @@
+--2020-03-02 06:11:16--  http://bni.la/img/site/5abbf78fc59e41bfc174bcaa.pdf
+Resolving bni.la (bni.la)... 18.197.23.227
+Connecting to bni.la (bni.la)|18.197.23.227|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146939 (143K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 10.4M 0s
+    50K .......... .......... .......... .......... .......... 69% 20.9M 0s
+   100K .......... .......... .......... .......... ...       100%  184M=0.06s
+
+2020-03-02 06:11:16 (19.3 Mb/s) - ‘/dev/null’ saved [146939/146939]
+

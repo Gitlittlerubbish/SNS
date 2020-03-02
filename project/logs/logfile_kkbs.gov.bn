@@ -1,0 +1,11 @@
+--2020-03-02 01:30:00--  http://kkbs.gov.bn/Muat%2520Turun%2520Penerbitan/CanangOkt2019.pdf
+Resolving kkbs.gov.bn (kkbs.gov.bn)... 103.4.188.86
+Connecting to kkbs.gov.bn (kkbs.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                  185K=0.3s
+
+2020-03-02 01:30:01 (185 Kb/s) - ‘/dev/null’ saved [7092]
+

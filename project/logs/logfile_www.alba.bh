@@ -1,0 +1,23 @@
+--2020-03-01 23:57:41--  http://www.alba.bh/Procurement/pdf/BahrainCivilCommercialProceduresAct1.pdf
+Resolving www.alba.bh (www.alba.bh)... 93.95.24.147
+Connecting to www.alba.bh (www.alba.bh)|93.95.24.147|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.albasmelter.com/Procurement/pdf/BahrainCivilCommercialProceduresAct1.pdf [following]
+--2020-03-01 23:57:41--  https://www.albasmelter.com/Procurement/pdf/BahrainCivilCommercialProceduresAct1.pdf
+Resolving www.albasmelter.com (www.albasmelter.com)... 93.95.24.147
+Connecting to www.albasmelter.com (www.albasmelter.com)|93.95.24.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 404766 (395K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 1.57M 2s
+    50K .......... .......... .......... .......... .......... 25% 3.03M 1s
+   100K .......... .......... .......... .......... .......... 37% 1.56M 1s
+   150K .......... .......... .......... .......... .......... 50%  242K 2s
+   200K .......... .......... .......... .......... .......... 63% 1.58M 2s
+   250K .......... .......... .......... .......... .......... 75% 1.03M 1s
+   300K .......... .......... .......... .......... .......... 88% 1.04M 0s
+   350K .......... .......... .......... .......... .....     100% 1.43M=3.7s
+
+2020-03-01 23:57:46 (885 Kb/s) - ‘/dev/null’ saved [404766/404766]
+

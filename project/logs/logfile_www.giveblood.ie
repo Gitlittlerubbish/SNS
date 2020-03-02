@@ -1,0 +1,15 @@
+--2020-03-02 05:01:46--  http://www.giveblood.ie/imagesLibrary/haemoglobin-leaflet.pdf
+Resolving www.giveblood.ie (www.giveblood.ie)... 52.212.28.62
+Connecting to www.giveblood.ie (www.giveblood.ie)|52.212.28.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.giveblood.ie/imagesLibrary/haemoglobin-leaflet.pdf [following]
+--2020-03-02 05:01:46--  https://www.giveblood.ie/imagesLibrary/haemoglobin-leaflet.pdf
+Connecting to www.giveblood.ie (www.giveblood.ie)|52.212.28.62|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36508 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .....                100% 17.6M=0.02s
+
+2020-03-02 05:01:46 (17.6 Mb/s) - ‘/dev/null’ saved [36508/36508]
+

@@ -1,0 +1,11 @@
+--2020-03-01 23:24:02--  http://www.wto.am/documents/Transparency_Mechanism_RTA.pdf
+Resolving www.wto.am (www.wto.am)... 160.153.140.225
+Connecting to www.wto.am (www.wto.am)|160.153.140.225|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23118 (23K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..                              100%  721K=0.3s
+
+2020-03-01 23:24:02 (721 Kb/s) - ‘/dev/null’ saved [23118/23118]
+

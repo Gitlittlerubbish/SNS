@@ -1,0 +1,14 @@
+--2020-03-02 07:15:21--  http://www.standards.gov.mv/legislation/FishExp/reg183.pdf
+Resolving www.standards.gov.mv (www.standards.gov.mv)... 202.1.207.53
+Connecting to www.standards.gov.mv (www.standards.gov.mv)|202.1.207.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194646 (190K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26%  797K 1s
+    50K .......... .......... .......... .......... .......... 52% 2.00M 1s
+   100K .......... .......... .......... .......... .......... 78% 2.00M 0s
+   150K .......... .......... .......... ..........           100%  169M=0.9s
+
+2020-03-02 07:15:23 (1.68 Mb/s) - ‘/dev/null’ saved [194646/194646]
+

@@ -1,0 +1,22 @@
+--2020-03-02 00:28:35--  http://courconstitutionnellebenin.bj/upload/decision/DCC02-058.pdf
+Resolving courconstitutionnellebenin.bj (courconstitutionnellebenin.bj)... 5.100.154.160
+Connecting to courconstitutionnellebenin.bj (courconstitutionnellebenin.bj)|5.100.154.160|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18708 (18K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ........                                   100% 11.8M=0.01s
+
+2020-03-02 00:28:36 (11.8 Mb/s) - ‘/dev/null’ saved [18708/18708]
+
+--2020-03-02 00:28:36--  http://courconstitutionnellebenin.bj/upload/decision/DCC02-014.pdf
+Resolving courconstitutionnellebenin.bj (courconstitutionnellebenin.bj)... 5.100.154.160
+Connecting to courconstitutionnellebenin.bj (courconstitutionnellebenin.bj)|5.100.154.160|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18744 (18K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ........                                   100% 12.5M=0.01s
+
+2020-03-02 00:28:36 (12.5 Mb/s) - ‘/dev/null’ saved [18744/18744]
+

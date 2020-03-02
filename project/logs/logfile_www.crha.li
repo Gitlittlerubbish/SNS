@@ -1,0 +1,25 @@
+--2020-03-02 06:24:33--  http://www.crha.li/1KAZn3p
+Resolving www.crha.li (www.crha.li)... 67.199.248.13, 67.199.248.12
+Connecting to www.crha.li (www.crha.li)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.portailrh.org/protection/codes/codeconduite_harcelement.pdf [following]
+--2020-03-02 06:24:33--  http://www.portailrh.org/protection/codes/codeconduite_harcelement.pdf
+Resolving www.portailrh.org (www.portailrh.org)... 207.167.199.64
+Connecting to www.portailrh.org (www.portailrh.org)|207.167.199.64|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 465891 (455K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.00M 3s
+    50K .......... .......... .......... .......... .......... 21% 4.01M 2s
+   100K .......... .......... .......... .......... .......... 32% 90.2M 1s
+   150K .......... .......... .......... .......... .......... 43% 4.21M 1s
+   200K .......... .......... .......... .......... .......... 54%  186M 1s
+   250K .......... .......... .......... .......... .......... 65%  116M 0s
+   300K .......... .......... .......... .......... .......... 76% 4.22M 0s
+   350K .......... .......... .......... .......... .......... 87%  126M 0s
+   400K .......... .......... .......... .......... .......... 98%  570M 0s
+   450K ....                                                  100%  815K=0.7s
+
+2020-03-02 06:24:34 (5.18 Mb/s) - ‘/dev/null’ saved [465891/465891]
+

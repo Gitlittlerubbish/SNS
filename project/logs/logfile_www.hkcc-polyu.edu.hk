@@ -1,0 +1,17 @@
+--2020-03-02 04:36:30--  http://www.hkcc-polyu.edu.hk/students/Academic_Calendar.pdf
+Resolving www.hkcc-polyu.edu.hk (www.hkcc-polyu.edu.hk)... 14.136.239.17
+Connecting to www.hkcc-polyu.edu.hk (www.hkcc-polyu.edu.hk)|14.136.239.17|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.hkcc-polyu.edu.hk/students/Academic_Calendar.pdf [following]
+--2020-03-02 04:36:31--  https://www.hkcc-polyu.edu.hk/students/Academic_Calendar.pdf
+Connecting to www.hkcc-polyu.edu.hk (www.hkcc-polyu.edu.hk)|14.136.239.17|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 133585 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38%  503K 1s
+    50K .......... .......... .......... .......... .......... 76% 1.44M 0s
+   100K .......... .......... ..........                      100%  138M=1.1s
+
+2020-03-02 04:36:34 (971 Kb/s) - ‘/dev/null’ saved [133585/133585]
+

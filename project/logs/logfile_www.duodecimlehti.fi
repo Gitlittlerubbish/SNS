@@ -1,0 +1,15 @@
+--2020-03-02 03:45:19--  http://www.duodecimlehti.fi/api/pdf/duo94467
+Resolving www.duodecimlehti.fi (www.duodecimlehti.fi)... 185.6.181.146
+Connecting to www.duodecimlehti.fi (www.duodecimlehti.fi)|185.6.181.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.duodecimlehti.fi/api/pdf/duo94467 [following]
+--2020-03-02 03:45:19--  https://www.duodecimlehti.fi/api/pdf/duo94467
+Connecting to www.duodecimlehti.fi (www.duodecimlehti.fi)|185.6.181.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1233 (1.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  145M=0s
+
+2020-03-02 03:45:19 (145 Mb/s) - ‘/dev/null’ saved [1233/1233]
+

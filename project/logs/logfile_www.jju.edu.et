@@ -1,0 +1,16 @@
+--2020-03-02 03:33:17--  http://www.jju.edu.et/docs/sm/uml.pdf
+Resolving www.jju.edu.et (www.jju.edu.et)... 98.142.109.50
+Connecting to www.jju.edu.et (www.jju.edu.et)|98.142.109.50|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.jju.edu.et/docs/sm/uml.pdf [following]
+--2020-03-02 03:33:17--  https://www.jju.edu.et/docs/sm/uml.pdf
+Connecting to www.jju.edu.et (www.jju.edu.et)|98.142.109.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61524 (60K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 83% 2.04M 0s
+    50K ..........                                            100% 1.45G=0.2s
+
+2020-03-02 03:33:18 (2.45 Mb/s) - ‘/dev/null’ saved [61524/61524]
+

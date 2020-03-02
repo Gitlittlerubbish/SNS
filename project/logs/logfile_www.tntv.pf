@@ -1,0 +1,22 @@
+--2020-03-02 03:48:22--  http://www.tntv.pf/attachment/517369/
+Resolving www.tntv.pf (www.tntv.pf)... 104.26.15.247, 104.26.14.247
+Connecting to www.tntv.pf (www.tntv.pf)|104.26.15.247|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.tntv.pf/ [following]
+--2020-03-02 03:48:22--  https://www.tntv.pf/
+Connecting to www.tntv.pf (www.tntv.pf)|104.26.15.247|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  208M
+    50K .......... .......... .......... .......... ..........  562M
+   100K .......... .......... .......... .......... ..........  626M
+   150K .......... .......... .......... .......... ..........  242M
+   200K .......... .......... .......... .......... .......... 58.3M
+   250K .......... .......... .......... .......... ..........  175M
+   300K .......... .......... .......... .......... ..........  237M
+   350K .......... .......... .......... .......               1.00G=0.02s
+
+2020-03-02 03:48:23 (193 Mb/s) - ‘/dev/null’ saved [396310]
+

@@ -1,0 +1,19 @@
+--2020-03-02 04:37:47--  http://mta.hu/data/MTA_DSZ_2014.pdf
+Resolving mta.hu (mta.hu)... 193.225.207.51
+Connecting to mta.hu (mta.hu)|193.225.207.51|:80... connected.
+HTTP request sent, awaiting response... 301 Move Permanently
+Location: https://mta.hu/data/MTA_DSZ_2014.pdf [following]
+--2020-03-02 04:37:47--  https://mta.hu/data/MTA_DSZ_2014.pdf
+Connecting to mta.hu (mta.hu)|193.225.207.51|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225070 (220K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 5.30M 0s
+    50K .......... .......... .......... .......... .......... 45% 10.2M 0s
+   100K .......... .......... .......... .......... .......... 68%  152M 0s
+   150K .......... .......... .......... .......... .......... 90%  715M 0s
+   200K .......... .........                                  100% 4.81M=0.2s
+
+2020-03-02 04:37:47 (11.7 Mb/s) - ‘/dev/null’ saved [225070/225070]
+

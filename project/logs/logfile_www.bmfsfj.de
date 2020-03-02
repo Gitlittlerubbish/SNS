@@ -1,0 +1,15 @@
+--2020-03-02 04:00:59--  http://www.bmfsfj.de/blob/jump/94322/merkblatt-kinderzuschlag-data.pdf
+Resolving www.bmfsfj.de (www.bmfsfj.de)... 185.49.16.119
+Connecting to www.bmfsfj.de (www.bmfsfj.de)|185.49.16.119|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bmfsfj.de/blob/jump/94322/merkblatt-kinderzuschlag-data.pdf [following]
+--2020-03-02 04:00:59--  https://www.bmfsfj.de/blob/jump/94322/merkblatt-kinderzuschlag-data.pdf
+Connecting to www.bmfsfj.de (www.bmfsfj.de)|185.49.16.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1386 (1.4K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100% 91.6M=0s
+
+2020-03-02 04:00:59 (91.6 Mb/s) - ‘/dev/null’ saved [1386/1386]
+

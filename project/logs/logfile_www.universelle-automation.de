@@ -1,0 +1,22 @@
+--2020-03-02 04:00:32--  http://www.universelle-automation.de/1988_Stanford.pdf
+Resolving www.universelle-automation.de (www.universelle-automation.de)... 81.169.145.163
+Connecting to www.universelle-automation.de (www.universelle-automation.de)|81.169.145.163|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38877 (38K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......              100% 5.65M=0.06s
+
+2020-03-02 04:00:33 (5.65 Mb/s) - ‘/dev/null’ saved [38877/38877]
+
+--2020-03-02 04:00:35--  http://www.universelle-automation.de/1966_Boston.pdf
+Resolving www.universelle-automation.de (www.universelle-automation.de)... 81.169.145.163
+Connecting to www.universelle-automation.de (www.universelle-automation.de)|81.169.145.163|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22617 (22K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..                              100%  411M=0s
+
+2020-03-02 04:00:35 (411 Mb/s) - ‘/dev/null’ saved [22617/22617]
+

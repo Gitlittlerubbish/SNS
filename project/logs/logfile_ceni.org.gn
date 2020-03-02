@@ -1,0 +1,14 @@
+--2020-03-02 04:16:04--  http://ceni.org.gn/wp-content/uploads/2018/03/COMMUNE_KINIERAN_OK.pdf
+Resolving ceni.org.gn (ceni.org.gn)... 66.70.216.80
+Connecting to ceni.org.gn (ceni.org.gn)|66.70.216.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 184663 (180K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 2.48M 0s
+    50K .......... .......... .......... .......... .......... 55% 5.00M 0s
+   100K .......... .......... .......... .......... .......... 83% 82.0M 0s
+   150K .......... .......... ..........                      100%  243M=0.3s
+
+2020-03-02 04:16:05 (5.84 Mb/s) - ‘/dev/null’ saved [184663/184663]
+

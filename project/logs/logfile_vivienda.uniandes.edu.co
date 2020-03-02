@@ -1,0 +1,19 @@
+--2020-03-02 02:30:39--  http://vivienda.uniandes.edu.co/images/banners/Anexo_1-_Manual_de_Vida_en_Comunidad_Uniandes_002.pdf
+Resolving vivienda.uniandes.edu.co (vivienda.uniandes.edu.co)... 157.253.237.107
+Connecting to vivienda.uniandes.edu.co (vivienda.uniandes.edu.co)|157.253.237.107|:80... connected.
+HTTP request sent, awaiting response... 302 Found : Moved Temporarily
+Location: https://vivienda.uniandes.edu.co/images/banners/Anexo_1-_Manual_de_Vida_en_Comunidad_Uniandes_002.pdf [following]
+--2020-03-02 02:30:40--  https://vivienda.uniandes.edu.co/images/banners/Anexo_1-_Manual_de_Vida_en_Comunidad_Uniandes_002.pdf
+Connecting to vivienda.uniandes.edu.co (vivienda.uniandes.edu.co)|157.253.237.107|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.23M
+    50K .......... .......... .......... .......... .......... 80.9M
+   100K .......... .......... .......... .......... .......... 2.48M
+   150K .......... .......... .......... .......... ..........  111M
+   200K .........                                               144M=0.5s
+
+2020-03-02 02:30:41 (3.39 Mb/s) - ‘/dev/null’ saved [214924]
+

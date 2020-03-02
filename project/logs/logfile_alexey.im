@@ -1,0 +1,16 @@
+--2020-03-02 05:04:30--  http://alexey.im/745lec/out/lect4.pdf
+Resolving alexey.im (alexey.im)... 104.18.48.3, 104.18.49.3
+Connecting to alexey.im (alexey.im)|104.18.48.3|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://alexey.im/745lec/out/lect4.pdf [following]
+--2020-03-02 05:04:30--  https://alexey.im/745lec/out/lect4.pdf
+Connecting to alexey.im (alexey.im)|104.18.48.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59212 (58K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 86% 73.9M 0s
+    50K .......                                               100%  310M=0.006s
+
+2020-03-02 05:04:31 (82.4 Mb/s) - ‘/dev/null’ saved [59212/59212]
+

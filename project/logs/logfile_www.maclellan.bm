@@ -1,0 +1,19 @@
+--2020-03-02 00:32:50--  http://www.maclellan.bm/docs/MacLellan_FileForDivorce.pdf
+Resolving www.maclellan.bm (www.maclellan.bm)... 184.107.101.42
+Connecting to www.maclellan.bm (www.maclellan.bm)|184.107.101.42|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.maclellan.bm/docs/MacLellan_FileForDivorce.pdf [following]
+--2020-03-02 00:32:50--  https://www.maclellan.bm/docs/MacLellan_FileForDivorce.pdf
+Connecting to www.maclellan.bm (www.maclellan.bm)|184.107.101.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241451 (236K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.09M 1s
+    50K .......... .......... .......... .......... .......... 42% 4.30M 1s
+   100K .......... .......... .......... .......... .......... 63% 4.41M 0s
+   150K .......... .......... .......... .......... .......... 84% 77.9M 0s
+   200K .......... .......... .......... .....                100% 3.30M=0.7s
+
+2020-03-02 00:32:51 (2.94 Mb/s) - ‘/dev/null’ saved [241451/241451]
+

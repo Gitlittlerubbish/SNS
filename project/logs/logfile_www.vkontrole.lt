@@ -1,0 +1,19 @@
+--2020-03-02 06:27:29--  http://www.vkontrole.lt/failas.aspx%3Fid%3D3690
+Resolving www.vkontrole.lt (www.vkontrole.lt)... 195.182.95.246
+Connecting to www.vkontrole.lt (www.vkontrole.lt)|195.182.95.246|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: /klaida.aspx?aspxerrorpath=/failas.aspx?id=3690 [following]
+--2020-03-02 06:27:29--  http://www.vkontrole.lt/klaida.aspx?aspxerrorpath=/failas.aspx?id=3690
+Reusing existing connection to www.vkontrole.lt:80.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.vkontrole.lt/klaida.aspx?aspxerrorpath=/failas.aspx?id=3690 [following]
+--2020-03-02 06:27:29--  https://www.vkontrole.lt/klaida.aspx?aspxerrorpath=/failas.aspx?id=3690
+Connecting to www.vkontrole.lt (www.vkontrole.lt)|195.182.95.246|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47388 (46K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 7.42M=0.05s
+
+2020-03-02 06:27:30 (7.42 Mb/s) - ‘/dev/null’ saved [47388/47388]
+

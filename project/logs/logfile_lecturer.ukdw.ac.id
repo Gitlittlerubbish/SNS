@@ -1,0 +1,12 @@
+--2020-03-02 04:52:31--  http://lecturer.ukdw.ac.id/othie/pengantar_riset.pdf
+Resolving lecturer.ukdw.ac.id (lecturer.ukdw.ac.id)... 222.124.22.22
+Connecting to lecturer.ukdw.ac.id (lecturer.ukdw.ac.id)|222.124.22.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72945 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70%  167K 1s
+    50K .......... .......... .                               100%  169K=3.5s
+
+2020-03-02 04:52:35 (168 Kb/s) - ‘/dev/null’ saved [72945/72945]
+

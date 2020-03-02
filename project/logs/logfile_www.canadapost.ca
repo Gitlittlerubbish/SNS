@@ -1,0 +1,39 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:50:33--  https://www.canadapost.ca/santascorner
+Resolving www.canadapost.ca (www.canadapost.ca)... 88.221.179.33
+Connecting to www.canadapost.ca (www.canadapost.ca)|88.221.179.33|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.canadapost.ca/assets/pdf/aboutus/santa/santa_letter_afterchristmas_fr.pdf [following]
+--2020-03-02 01:50:33--  https://www.canadapost.ca/assets/pdf/aboutus/santa/santa_letter_afterchristmas_fr.pdf
+Reusing existing connection to www.canadapost.ca:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 208906 (204K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 26.0M 0s
+    50K .......... .......... .......... .......... .......... 49%  226M 0s
+   100K .......... .......... .......... .......... .......... 73% 80.9M 0s
+   150K .......... .......... .......... .......... .......... 98% 91.4M 0s
+   200K ....                                                  100%  657K=0.03s
+
+2020-03-02 01:50:33 (61.6 Mb/s) - ‘/dev/null’ saved [208906/208906]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:50:33--  https://www.canadapost.ca/santa
+Resolving www.canadapost.ca (www.canadapost.ca)... 88.221.179.33
+Connecting to www.canadapost.ca (www.canadapost.ca)|88.221.179.33|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.canadapost.ca/assets/pdf/aboutus/santa/santa_letter_afterchristmas_en.pdf [following]
+--2020-03-02 01:50:33--  https://www.canadapost.ca/assets/pdf/aboutus/santa/santa_letter_afterchristmas_en.pdf
+Reusing existing connection to www.canadapost.ca:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 198926 (194K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 78.4M 0s
+    50K .......... .......... .......... .......... .......... 51% 97.1M 0s
+   100K .......... .......... .......... .......... .......... 77% 90.4M 0s
+   150K .......... .......... .......... .......... ....      100% 1.10G=0.01s
+
+2020-03-02 01:50:34 (111 Mb/s) - ‘/dev/null’ saved [198926/198926]
+

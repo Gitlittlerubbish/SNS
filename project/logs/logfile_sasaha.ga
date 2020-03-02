@@ -1,0 +1,11 @@
+--2020-03-02 03:52:00--  http://sasaha.ga/jlvfvbqe00.pdf
+Resolving sasaha.ga (sasaha.ga)... 195.20.49.137
+Connecting to sasaha.ga (sasaha.ga)|195.20.49.137|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 633 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  203M=0s
+
+2020-03-02 03:52:01 (203 Mb/s) - ‘/dev/null’ saved [633/633]
+

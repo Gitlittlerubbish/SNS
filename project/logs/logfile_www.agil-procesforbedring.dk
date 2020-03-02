@@ -1,0 +1,20 @@
+--2020-03-02 03:05:03--  http://www.agil-procesforbedring.dk/downloads/artikel_hvadbetyderagil.pdf
+Resolving www.agil-procesforbedring.dk (www.agil-procesforbedring.dk)... 89.249.4.71
+Connecting to www.agil-procesforbedring.dk (www.agil-procesforbedring.dk)|89.249.4.71|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.agil-procesforbedring.dk/downloads/artikel_hvadbetyderagil.pdf [following]
+--2020-03-02 03:05:03--  https://www.agil-procesforbedring.dk/downloads/artikel_hvadbetyderagil.pdf
+Connecting to www.agil-procesforbedring.dk (www.agil-procesforbedring.dk)|89.249.4.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 299203 (292K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 5.11M 0s
+    50K .......... .......... .......... .......... .......... 34% 11.0M 0s
+   100K .......... .......... .......... .......... .......... 51% 1.40M 0s
+   150K .......... .......... .......... .......... .......... 68% 10.3M 0s
+   200K .......... .......... .......... .......... .......... 85%  219M 0s
+   250K .......... .......... .......... .......... ..        100% 8.61M=0.5s
+
+2020-03-02 03:05:05 (4.87 Mb/s) - ‘/dev/null’ saved [299203/299203]
+

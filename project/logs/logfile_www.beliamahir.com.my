@@ -1,0 +1,14 @@
+--2020-03-02 07:01:38--  http://www.beliamahir.com.my/files/editor_files/files/Minyak_Comp.pdf
+Resolving www.beliamahir.com.my (www.beliamahir.com.my)... 202.75.41.120
+Connecting to www.beliamahir.com.my (www.beliamahir.com.my)|202.75.41.120|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166271 (162K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 1.14M 1s
+    50K .......... .......... .......... .......... .......... 61% 2.26M 0s
+   100K .......... .......... .......... .......... .......... 92% 2.17M 0s
+   150K .......... ..                                         100%  563K=0.9s
+
+2020-03-02 07:01:40 (1.46 Mb/s) - ‘/dev/null’ saved [166271/166271]
+

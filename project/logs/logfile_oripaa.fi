@@ -1,0 +1,21 @@
+--2020-03-02 03:43:56--  http://oripaa.fi/e6696/
+Resolving oripaa.fi (oripaa.fi)... 77.240.19.29
+Connecting to oripaa.fi (oripaa.fi)|77.240.19.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://oripaa.fi/e6696/ [following]
+--2020-03-02 03:43:56--  https://oripaa.fi/e6696/
+Connecting to oripaa.fi (oripaa.fi)|77.240.19.29|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://oripaa.fi/wp-content/uploads/2019/06/e6696.pdf [following]
+--2020-03-02 03:43:58--  https://oripaa.fi/wp-content/uploads/2019/06/e6696.pdf
+Reusing existing connection to oripaa.fi:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 130050 (127K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 5.53M 0s
+    50K .......... .......... .......... .......... .......... 78% 11.2M 0s
+   100K .......... .......... .......                         100%  183M=0.1s
+
+2020-03-02 03:43:58 (9.29 Mb/s) - ‘/dev/null’ saved [130050/130050]
+

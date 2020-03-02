@@ -1,0 +1,21 @@
+--2020-03-01 23:46:41--  http://vizir.az/inc/uploads/2019/09/3_ss03041.pdf
+Resolving vizir.az (vizir.az)... 78.140.140.250
+Connecting to vizir.az (vizir.az)|78.140.140.250|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://vizir.az/inc/uploads/2019/09/3_ss03041.pdf [following]
+--2020-03-01 23:46:41--  https://vizir.az/inc/uploads/2019/09/3_ss03041.pdf
+Connecting to vizir.az (vizir.az)|78.140.140.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 355725 (347K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 6.42M 0s
+    50K .......... .......... .......... .......... .......... 28% 11.5M 0s
+   100K .......... .......... .......... .......... .......... 43%  881M 0s
+   150K .......... .......... .......... .......... .......... 57% 14.0M 0s
+   200K .......... .......... .......... .......... .......... 71% 90.5M 0s
+   250K .......... .......... .......... .......... .......... 86%  158M 0s
+   300K .......... .......... .......... .......... .......   100% 1.69M=0.4s
+
+2020-03-01 23:46:42 (7.77 Mb/s) - ‘/dev/null’ saved [355725/355725]
+

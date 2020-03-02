@@ -1,0 +1,13 @@
+--2020-03-02 03:20:42--  http://www.fue.edu.eg/pdfFiles/Courses/PAD_308_68476.pdf
+Resolving www.fue.edu.eg (www.fue.edu.eg)... 104.28.31.58, 104.28.30.58
+Connecting to www.fue.edu.eg (www.fue.edu.eg)|104.28.31.58|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128122 (125K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39%  116M 0s
+    50K .......... .......... .......... .......... .......... 79%  138M 0s
+   100K .......... .......... .....                           100% 68.3M=0.01s
+
+2020-03-02 03:20:43 (108 Mb/s) - ‘/dev/null’ saved [128122/128122]
+

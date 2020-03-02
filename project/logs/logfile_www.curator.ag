@@ -1,0 +1,14 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:06:10--  https://www.curator.ag/files/pdf/Merkblatt_Verfahrenskostenstundung.pdf
+Resolving www.curator.ag (www.curator.ag)... 109.237.140.48
+Connecting to www.curator.ag (www.curator.ag)|109.237.140.48|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121410 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 7.51M 0s
+    50K .......... .......... .......... .......... .......... 84% 15.5M 0s
+   100K .......... ........                                   100% 64.2M=0.08s
+
+2020-03-01 23:06:11 (11.7 Mb/s) - ‘/dev/null’ saved [121410/121410]
+

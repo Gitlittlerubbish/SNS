@@ -1,0 +1,11 @@
+--2020-03-02 07:28:33--  http://iio.ens.uabc.mx/hojas-seguridad/acido_clorhidrico.pdf
+Resolving iio.ens.uabc.mx (iio.ens.uabc.mx)... 148.231.230.2
+Connecting to iio.ens.uabc.mx (iio.ens.uabc.mx)|148.231.230.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36790 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .....                100% 1.03M=0.3s
+
+2020-03-02 07:28:34 (1.03 Mb/s) - ‘/dev/null’ saved [36790/36790]
+

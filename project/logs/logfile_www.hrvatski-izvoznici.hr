@@ -1,0 +1,14 @@
+--2020-03-02 02:55:50--  http://www.hrvatski-izvoznici.hr/doc-download/BGL2KREHASERPNEM
+Resolving www.hrvatski-izvoznici.hr (www.hrvatski-izvoznici.hr)... 88.99.105.72
+Connecting to www.hrvatski-izvoznici.hr (www.hrvatski-izvoznici.hr)|88.99.105.72|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 196083 (191K) [text/plain]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 4.89M 0s
+    50K .......... .......... .......... .......... .......... 52% 14.1M 0s
+   100K .......... .......... .......... .......... .......... 78% 36.3M 0s
+   150K .......... .......... .......... .......... .         100% 19.2M=0.1s
+
+2020-03-02 02:55:50 (11.1 Mb/s) - ‘/dev/null’ saved [196083/196083]
+

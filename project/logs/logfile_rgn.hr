@@ -1,0 +1,14 @@
+--2020-03-02 02:55:14--  http://rgn.hr/~bpasic/SI_SUSTAV.pdf
+Resolving rgn.hr (rgn.hr)... 161.53.60.3
+Connecting to rgn.hr (rgn.hr)|161.53.60.3|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163751 (160K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 5.18M 0s
+    50K .......... .......... .......... .......... .......... 62% 10.8M 0s
+   100K .......... .......... .......... .......... .......... 93% 76.8M 0s
+   150K .........                                             100% 23.3M=0.1s
+
+2020-03-02 02:55:14 (10.4 Mb/s) - ‘/dev/null’ saved [163751/163751]
+

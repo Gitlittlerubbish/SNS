@@ -1,0 +1,14 @@
+--2020-03-02 04:12:17--  http://www.oj.gob.gt/files/GUATEMALA.pdf
+Resolving www.oj.gob.gt (www.oj.gob.gt)... 107.154.80.195
+Connecting to www.oj.gob.gt (www.oj.gob.gt)|107.154.80.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170908 (167K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 43.0M 0s
+    50K .......... .......... .......... .......... .......... 59% 58.5M 0s
+   100K .......... .......... .......... .......... .......... 89% 60.1M 0s
+   150K .......... ......                                     100% 34.9M=0.03s
+
+2020-03-02 04:12:20 (50.1 Mb/s) - ‘/dev/null’ saved [170908/170908]
+

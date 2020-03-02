@@ -1,0 +1,17 @@
+--2020-03-02 05:32:44--  http://www.co-opbank.co.ke/images/PDFs/banks_branches.pdf
+Resolving www.co-opbank.co.ke (www.co-opbank.co.ke)... 136.243.111.89
+Connecting to www.co-opbank.co.ke (www.co-opbank.co.ke)|136.243.111.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.co-opbank.co.ke/images/PDFs/banks_branches.pdf [following]
+--2020-03-02 05:32:44--  https://www.co-opbank.co.ke/images/PDFs/banks_branches.pdf
+Connecting to www.co-opbank.co.ke (www.co-opbank.co.ke)|136.243.111.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124206 (121K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 8.65M 0s
+    50K .......... .......... .......... .......... .......... 82% 17.1M 0s
+   100K .......... .......... .                               100%  183M=0.07s
+
+2020-03-02 05:32:44 (13.8 Mb/s) - ‘/dev/null’ saved [124206/124206]
+

@@ -1,0 +1,14 @@
+--2020-03-01 23:59:54--  http://www.rcsibahrain.edu.bh/files/2015/20160814065823_Bahrain_MFD.pdf
+Resolving www.rcsibahrain.edu.bh (www.rcsibahrain.edu.bh)... 40.112.72.201
+Connecting to www.rcsibahrain.edu.bh (www.rcsibahrain.edu.bh)|40.112.72.201|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188881 (184K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 10.4M 0s
+    50K .......... .......... .......... .......... .......... 54% 24.8M 0s
+   100K .......... .......... .......... .......... .......... 81% 5.11M 0s
+   150K .......... .......... .......... ....                 100% 7.18M=0.2s
+
+2020-03-01 23:59:55 (8.61 Mb/s) - ‘/dev/null’ saved [188881/188881]
+

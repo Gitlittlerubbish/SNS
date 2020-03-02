@@ -1,0 +1,21 @@
+--2020-03-02 04:38:23--  http://terebess.hu/keletkultinfo/IllichDeschooling.pdf
+Resolving terebess.hu (terebess.hu)... 93.190.141.206
+Connecting to terebess.hu (terebess.hu)|93.190.141.206|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://terebess.hu/keletkultinfo/IllichDeschooling.pdf [following]
+--2020-03-02 04:38:23--  https://terebess.hu/keletkultinfo/IllichDeschooling.pdf
+Connecting to terebess.hu (terebess.hu)|93.190.141.206|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323934 (316K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 15.1M 0s
+    50K .......... .......... .......... .......... .......... 31% 46.2M 0s
+   100K .......... .......... .......... .......... .......... 47% 50.6M 0s
+   150K .......... .......... .......... .......... .......... 63%  168M 0s
+   200K .......... .......... .......... .......... .......... 79% 43.8M 0s
+   250K .......... .......... .......... .......... .......... 94% 65.6M 0s
+   300K .......... ......                                     100% 1.20G=0.06s
+
+2020-03-02 04:38:23 (41.6 Mb/s) - ‘/dev/null’ saved [323934/323934]
+

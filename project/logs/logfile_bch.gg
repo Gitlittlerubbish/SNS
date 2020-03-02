@@ -1,0 +1,25 @@
+--2020-03-02 04:14:40--  http://bch.gg/5c
+Resolving bch.gg (bch.gg)... 68.65.123.229
+Connecting to bch.gg (bch.gg)|68.65.123.229|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://digitalcommons.augustana.edu/cgi/viewcontent.cgi?article=1000&context=cscfaculty [following]
+--2020-03-02 04:14:40--  https://digitalcommons.augustana.edu/cgi/viewcontent.cgi?article=1000&context=cscfaculty
+Resolving digitalcommons.augustana.edu (digitalcommons.augustana.edu)... 13.57.92.51, 50.18.241.247
+Connecting to digitalcommons.augustana.edu (digitalcommons.augustana.edu)|13.57.92.51|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 480585 (469K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.26M 3s
+    50K .......... .......... .......... .......... .......... 21% 3.33M 2s
+   100K .......... .......... .......... .......... .......... 31% 13.8M 1s
+   150K .......... .......... .......... .......... .......... 42% 72.7M 1s
+   200K .......... .......... .......... .......... .......... 53% 2.83M 1s
+   250K .......... .......... .......... .......... .......... 63%  352M 0s
+   300K .......... .......... .......... .......... .......... 74%  172M 0s
+   350K .......... .......... .......... .......... .......... 85% 72.0M 0s
+   400K .......... .......... .......... .......... .......... 95% 3.61M 0s
+   450K .......... .........                                  100%  197M=0.8s
+
+2020-03-02 04:14:42 (5.11 Mb/s) - ‘/dev/null’ saved [480585/480585]
+

@@ -1,0 +1,21 @@
+--2020-03-01 23:43:16--  http://www.al-shami.at/images/kurziele.pdf
+Resolving www.al-shami.at (www.al-shami.at)... 46.4.30.157
+Connecting to www.al-shami.at (www.al-shami.at)|46.4.30.157|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.al-shami.at/images/kurziele.pdf [following]
+--2020-03-01 23:43:16--  https://www.al-shami.at/images/kurziele.pdf
+Connecting to www.al-shami.at (www.al-shami.at)|46.4.30.157|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 355735 (347K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 5.86M 0s
+    50K .......... .......... .......... .......... .......... 28% 14.0M 0s
+   100K .......... .......... .......... .......... .......... 43% 17.3M 0s
+   150K .......... .......... .......... .......... .......... 57% 24.2M 0s
+   200K .......... .......... .......... .......... .......... 71% 59.7M 0s
+   250K .......... .......... .......... .......... .......... 86% 24.7M 0s
+   300K .......... .......... .......... .......... .......   100%  122M=0.2s
+
+2020-03-01 23:43:16 (17.1 Mb/s) - ‘/dev/null’ saved [355735/355735]
+

@@ -1,0 +1,17 @@
+--2020-03-02 06:25:47--  http://pulsar.li/downloads/anleitungtippskolloidal.pdf
+Resolving pulsar.li (pulsar.li)... 80.74.154.161
+Connecting to pulsar.li (pulsar.li)|80.74.154.161|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pulsar.li/downloads/anleitungtippskolloidal.pdf [following]
+--2020-03-02 06:25:47--  https://pulsar.li/downloads/anleitungtippskolloidal.pdf
+Connecting to pulsar.li (pulsar.li)|80.74.154.161|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134522 (131K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 5.98M 0s
+    50K .......... .......... .......... .......... .......... 76% 12.2M 0s
+   100K .......... .......... .......... .                    100%  188M=0.1s
+
+2020-03-02 06:25:48 (10.4 Mb/s) - ‘/dev/null’ saved [134522/134522]
+

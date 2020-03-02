@@ -1,0 +1,30 @@
+--2020-03-02 02:34:47--  http://www.bizcongo.cd/medias/annexe_e_un_code_of_conduct_french.pdf
+Resolving www.bizcongo.cd (www.bizcongo.cd)... 83.166.157.112
+Connecting to www.bizcongo.cd (www.bizcongo.cd)|83.166.157.112|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 362106 (354K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 7.30M 0s
+    50K .......... .......... .......... .......... .......... 28% 15.1M 0s
+   100K .......... .......... .......... .......... .......... 42% 86.5M 0s
+   150K .......... .......... .......... .......... .......... 56%  223M 0s
+   200K .......... .......... .......... .......... .......... 70% 17.0M 0s
+   250K .......... .......... .......... .......... .......... 84% 81.6M 0s
+   300K .......... .......... .......... .......... .......... 98% 19.8M 0s
+   350K ...                                                   100%  362M=0.1s
+
+2020-03-02 02:34:48 (20.7 Mb/s) - ‘/dev/null’ saved [362106/362106]
+
+--2020-03-02 02:34:48--  http://www.bizcongo.cd/medias/acquisition_de_produits_petroliers.pdf
+Resolving www.bizcongo.cd (www.bizcongo.cd)... 83.166.157.112
+Connecting to www.bizcongo.cd (www.bizcongo.cd)|83.166.157.112|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77454 (76K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 7.54M 0s
+    50K .......... .......... .....                           100%  101M=0.06s
+
+2020-03-02 02:34:48 (11.0 Mb/s) - ‘/dev/null’ saved [77454/77454]
+

@@ -1,0 +1,19 @@
+--2020-03-02 03:46:28--  http://www.docvadis.fr/files/all/T6AfaydXtzu0K1N6K9fACg/je_cherche_des_informations_sur_la_neurofibromatose_de_recklinghausen_neurofibromatose1orphanet.pdf
+Resolving www.docvadis.fr (www.docvadis.fr)... 212.129.9.241
+Connecting to www.docvadis.fr (www.docvadis.fr)|212.129.9.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.docvadis.fr/files/all/T6AfaydXtzu0K1N6K9fACg/je_cherche_des_informations_sur_la_neurofibromatose_de_recklinghausen_neurofibromatose1orphanet.pdf [following]
+--2020-03-02 03:46:28--  https://www.docvadis.fr/files/all/T6AfaydXtzu0K1N6K9fACg/je_cherche_des_informations_sur_la_neurofibromatose_de_recklinghausen_neurofibromatose1orphanet.pdf
+Connecting to www.docvadis.fr (www.docvadis.fr)|212.129.9.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12.9M
+    50K .......... .......... .......... .......... .......... 25.7M
+   100K .......... .......... .......... .......... ..........  159M
+   150K .......... .......... .......... .......... ..........  278M
+   200K .......... .......... .......... .........             19.9M=0.07s
+
+2020-03-02 03:46:28 (28.8 Mb/s) - ‘/dev/null’ saved [245145]
+

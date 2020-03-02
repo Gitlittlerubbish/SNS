@@ -1,0 +1,11 @@
+--2020-03-01 23:58:58--  http://www.hempel.com.bh/pdfs/pcmc/56940.pdf
+Resolving www.hempel.com.bh (www.hempel.com.bh)... 193.188.112.56
+Connecting to www.hempel.com.bh (www.hempel.com.bh)|193.188.112.56|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37066 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100% 1.08M=0.3s
+
+2020-03-01 23:58:59 (1.08 Mb/s) - ‘/dev/null’ saved [37066/37066]
+

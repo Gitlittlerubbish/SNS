@@ -1,0 +1,20 @@
+--2020-03-02 01:02:12--  http://unvi.edu.ba/CV/jamila_jaganjac.pdf
+Resolving unvi.edu.ba (unvi.edu.ba)... 185.164.35.26
+Connecting to unvi.edu.ba (unvi.edu.ba)|185.164.35.26|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://unvi.edu.ba/CV/jamila_jaganjac.pdf [following]
+--2020-03-02 01:02:12--  https://unvi.edu.ba/CV/jamila_jaganjac.pdf
+Connecting to unvi.edu.ba (unvi.edu.ba)|185.164.35.26|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 270310 (264K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 4.07M 0s
+    50K .......... .......... .......... .......... .......... 37% 8.16M 0s
+   100K .......... .......... .......... .......... .......... 56%  164M 0s
+   150K .......... .......... .......... .......... .......... 75% 8.04M 0s
+   200K .......... .......... .......... .......... .......... 94% 78.2M 0s
+   250K .......... ...                                        100%  175M=0.2s
+
+2020-03-02 01:02:12 (10.3 Mb/s) - ‘/dev/null’ saved [270310/270310]
+

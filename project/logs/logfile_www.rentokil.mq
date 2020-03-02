@@ -1,0 +1,20 @@
+--2020-03-02 07:20:47--  http://www.rentokil.mq/assets/content/files/selcleaning-fds-pdf.pdf
+Resolving www.rentokil.mq (www.rentokil.mq)... 213.212.113.33
+Connecting to www.rentokil.mq (www.rentokil.mq)|213.212.113.33|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rentokil.mq/assets/content/files/selcleaning-fds-pdf.pdf [following]
+--2020-03-02 07:20:47--  https://www.rentokil.mq/assets/content/files/selcleaning-fds-pdf.pdf
+Connecting to www.rentokil.mq (www.rentokil.mq)|213.212.113.33|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281716 (275K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 54.8M 0s
+    50K .......... .......... .......... .......... .......... 36% 48.0M 0s
+   100K .......... .......... .......... .......... .......... 54% 97.5M 0s
+   150K .......... .......... .......... .......... .......... 72%  218M 0s
+   200K .......... .......... .......... .......... .......... 90%  132M 0s
+   250K .......... .......... .....                           100% 72.0M=0.03s
+
+2020-03-02 07:20:47 (80.3 Mb/s) - ‘/dev/null’ saved [281716/281716]
+

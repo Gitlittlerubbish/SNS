@@ -1,0 +1,22 @@
+--2020-03-02 03:34:56--  http://www.sure.co.fk/assets/Uploads/Change-broadband-package.pdf
+Resolving www.sure.co.fk (www.sure.co.fk)... 3.8.30.44
+Connecting to www.sure.co.fk (www.sure.co.fk)|3.8.30.44|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sure.co.fk/assets/Uploads/Change-broadband-package.pdf [following]
+--2020-03-02 03:34:58--  https://www.sure.co.fk/assets/Uploads/Change-broadband-package.pdf
+Connecting to www.sure.co.fk (www.sure.co.fk)|3.8.30.44|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 403803 (394K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 41.7M 0s
+    50K .......... .......... .......... .......... .......... 25% 83.6M 0s
+   100K .......... .......... .......... .......... .......... 38%  116M 0s
+   150K .......... .......... .......... .......... .......... 50%  126M 0s
+   200K .......... .......... .......... .......... .......... 63%  123M 0s
+   250K .......... .......... .......... .......... .......... 76% 33.0M 0s
+   300K .......... .......... .......... .......... .......... 88%  134M 0s
+   350K .......... .......... .......... .......... ....      100% 56.8M=0.05s
+
+2020-03-02 03:34:58 (69.2 Mb/s) - ‘/dev/null’ saved [403803/403803]
+

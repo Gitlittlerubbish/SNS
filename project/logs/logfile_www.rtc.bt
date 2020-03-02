@@ -1,0 +1,14 @@
+--2020-03-02 00:38:15--  http://www.rtc.bt/images/Pdf/TOR_Assistant_Academic_Officer_CE_Coordinator.pdf
+Resolving www.rtc.bt (www.rtc.bt)... 220.158.236.131
+Connecting to www.rtc.bt (www.rtc.bt)|220.158.236.131|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 193450 (189K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 1.20M 1s
+    50K .......... .......... .......... .......... .......... 52% 2.40M 0s
+   100K .......... .......... .......... .......... .......... 79% 88.7M 0s
+   150K .......... .......... .......... ........             100% 94.9M=0.5s
+
+2020-03-02 00:38:16 (2.97 Mb/s) - ‘/dev/null’ saved [193450/193450]
+

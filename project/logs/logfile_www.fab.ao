@@ -1,0 +1,15 @@
+--2020-03-01 22:39:17--  http://www.fab.ao/web/img/revista/14471594691128576572.pdf
+Resolving www.fab.ao (www.fab.ao)... 192.185.41.204
+Connecting to www.fab.ao (www.fab.ao)|192.185.41.204|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.fab.ao/cgi-sys/suspendedpage.cgi [following]
+--2020-03-01 22:39:18--  http://www.fab.ao/cgi-sys/suspendedpage.cgi
+Reusing existing connection to www.fab.ao:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         127M=0s
+
+2020-03-01 22:39:18 (127 Mb/s) - ‘/dev/null’ saved [494]
+

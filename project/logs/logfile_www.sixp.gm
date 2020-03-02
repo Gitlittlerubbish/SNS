@@ -1,0 +1,33 @@
+--2020-03-02 03:54:06--  http://www.sixp.gm/Documents/SIXP_Operational_Policies.pdf
+Resolving www.sixp.gm (www.sixp.gm)... 196.49.1.25
+Connecting to www.sixp.gm (www.sixp.gm)|196.49.1.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sixp.gm/Documents/SIXP_Operational_Policies.pdf [following]
+--2020-03-02 03:54:06--  https://www.sixp.gm/Documents/SIXP_Operational_Policies.pdf
+Connecting to www.sixp.gm (www.sixp.gm)|196.49.1.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102219 (100K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50% 1.96M 0s
+    50K .......... .......... .......... .......... ......... 100% 4.01M=0.3s
+
+2020-03-02 03:54:07 (2.63 Mb/s) - ‘/dev/null’ saved [102219/102219]
+
+--2020-03-02 03:54:07--  http://www.sixp.gm/Documents/SIXP_MOU.pdf
+Resolving www.sixp.gm (www.sixp.gm)... 196.49.1.25
+Connecting to www.sixp.gm (www.sixp.gm)|196.49.1.25|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sixp.gm/Documents/SIXP_MOU.pdf [following]
+--2020-03-02 03:54:07--  https://www.sixp.gm/Documents/SIXP_MOU.pdf
+Connecting to www.sixp.gm (www.sixp.gm)|196.49.1.25|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 137233 (134K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.95M 0s
+    50K .......... .......... .......... .......... .......... 74% 3.98M 0s
+   100K .......... .......... .......... ....                 100%  235M=0.3s
+
+2020-03-02 03:54:08 (3.49 Mb/s) - ‘/dev/null’ saved [137233/137233]
+

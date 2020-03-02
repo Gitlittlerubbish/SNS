@@ -1,0 +1,12 @@
+--2020-03-02 05:26:53--  http://www.kazid.kz/articles/Pension.pdf
+Resolving www.kazid.kz (www.kazid.kz)... 185.98.7.186
+Connecting to www.kazid.kz (www.kazid.kz)|185.98.7.186|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68991 (67K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 74%  979K 0s
+    50K .......... .......                                    100% 1.21G=0.4s
+
+2020-03-02 05:26:55 (1.32 Mb/s) - ‘/dev/null’ saved [68991/68991]
+

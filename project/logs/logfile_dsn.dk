@@ -1,0 +1,17 @@
+--2020-03-02 03:04:09--  http://dsn.dk/arkiv/kommaregler_haefte.pdf
+Resolving dsn.dk (dsn.dk)... 195.182.36.142
+Connecting to dsn.dk (dsn.dk)|195.182.36.142|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dsn.dk/arkiv/kommaregler_haefte.pdf [following]
+--2020-03-02 03:04:09--  https://dsn.dk/arkiv/kommaregler_haefte.pdf
+Connecting to dsn.dk (dsn.dk)|195.182.36.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110823 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 6.70M 0s
+    50K .......... .......... .......... .......... .......... 92% 13.7M 0s
+   100K ........                                              100%  562M=0.09s
+
+2020-03-02 03:04:09 (9.72 Mb/s) - ‘/dev/null’ saved [110823/110823]
+

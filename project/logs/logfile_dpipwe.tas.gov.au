@@ -1,0 +1,23 @@
+--2020-03-01 23:40:33--  http://dpipwe.tas.gov.au/Documents/jackjumperfactsheet.pdf
+Resolving dpipwe.tas.gov.au (dpipwe.tas.gov.au)... 147.109.249.95
+Connecting to dpipwe.tas.gov.au (dpipwe.tas.gov.au)|147.109.249.95|:80... connected.
+HTTP request sent, awaiting response... 302 Object Moved
+Location: https://dpipwe.tas.gov.au/Documents/jackjumperfactsheet.pdf [following]
+--2020-03-01 23:40:34--  https://dpipwe.tas.gov.au/Documents/jackjumperfactsheet.pdf
+Connecting to dpipwe.tas.gov.au (dpipwe.tas.gov.au)|147.109.249.95|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 447319 (437K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11%  377K 8s
+    50K .......... .......... .......... .......... .......... 22% 1.18M 5s
+   100K .......... .......... .......... .......... .......... 34%  180M 3s
+   150K .......... .......... .......... .......... .......... 45%  994K 2s
+   200K .......... .......... .......... .......... .......... 57%  465M 1s
+   250K .......... .......... .......... .......... .......... 68% 1.01M 1s
+   300K .......... .......... .......... .......... .......... 80% 1.00M 1s
+   350K .......... .......... .......... .......... .......... 91%  500K 0s
+   400K .......... .......... .......... ......               100%  421K=4.2s
+
+2020-03-01 23:40:41 (852 Kb/s) - ‘/dev/null’ saved [447319/447319]
+

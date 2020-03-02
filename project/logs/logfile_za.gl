@@ -1,0 +1,30 @@
+--2020-03-02 04:09:54--  http://za.gl/bMkGu
+Resolving za.gl (za.gl)... 104.26.4.66, 104.26.5.66
+Connecting to za.gl (za.gl)|104.26.4.66|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://za.gl/bMkGu [following]
+--2020-03-02 04:09:54--  https://za.gl/bMkGu
+Connecting to za.gl (za.gl)|104.26.4.66|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..                               90.8M=0.002s
+
+2020-03-02 04:09:55 (90.8 Mb/s) - ‘/dev/null’ saved [22756]
+
+--2020-03-02 04:09:55--  http://za.gl/1IZh5jV
+Resolving za.gl (za.gl)... 104.26.4.66, 104.26.5.66
+Connecting to za.gl (za.gl)|104.26.4.66|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://za.gl/1IZh5jV [following]
+--2020-03-02 04:09:55--  https://za.gl/1IZh5jV
+Connecting to za.gl (za.gl)|104.26.4.66|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..                                104M=0.002s
+
+2020-03-02 04:09:55 (104 Mb/s) - ‘/dev/null’ saved [22821]
+

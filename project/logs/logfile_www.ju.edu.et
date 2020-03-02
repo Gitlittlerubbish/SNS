@@ -1,0 +1,15 @@
+--2020-03-02 03:33:22--  http://www.ju.edu.et/sites/default/files/Policy_Brief_22.pdf
+Resolving www.ju.edu.et (www.ju.edu.et)... 213.55.92.84
+Connecting to www.ju.edu.et (www.ju.edu.et)|213.55.92.84|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ju.edu.et/sites/default/files/Policy_Brief_22.pdf [following]
+--2020-03-02 03:33:22--  https://www.ju.edu.et/sites/default/files/Policy_Brief_22.pdf
+Connecting to www.ju.edu.et (www.ju.edu.et)|213.55.92.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50038 (49K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........  100% 1.91M=0.2s
+
+2020-03-02 03:33:23 (1.91 Mb/s) - ‘/dev/null’ saved [50038/50038]
+

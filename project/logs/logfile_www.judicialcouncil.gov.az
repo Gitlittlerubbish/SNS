@@ -1,0 +1,12 @@
+--2020-03-01 23:48:17--  http://www.judicialcouncil.gov.az/Law/Umumdunya_IH_Beyannamesi.pdf
+Resolving www.judicialcouncil.gov.az (www.judicialcouncil.gov.az)... 31.170.236.83
+Connecting to www.judicialcouncil.gov.az (www.judicialcouncil.gov.az)|31.170.236.83|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76502 (75K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 2.19M 0s
+    50K .......... .......... ....                            100% 2.85M=0.3s
+
+2020-03-01 23:48:18 (2.38 Mb/s) - ‘/dev/null’ saved [76502/76502]
+

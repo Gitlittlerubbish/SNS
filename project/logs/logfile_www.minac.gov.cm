@@ -1,0 +1,15 @@
+--2020-03-02 01:50:29--  http://www.minac.gov.cm/documents/DISCOURS_MINAC_PRESENTATION_VOEUX_2017.pdf
+Resolving www.minac.gov.cm (www.minac.gov.cm)... 195.24.207.154
+Connecting to www.minac.gov.cm (www.minac.gov.cm)|195.24.207.154|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245648 (240K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.09M 1s
+    50K .......... .......... .......... .......... .......... 41% 2.20M 1s
+   100K .......... .......... .......... .......... .......... 62%  142M 0s
+   150K .......... .......... .......... .......... .......... 83% 4.30M 0s
+   200K .......... .......... .......... .........            100% 3.64M=0.7s
+
+2020-03-02 01:50:30 (2.62 Mb/s) - ‘/dev/null’ saved [245648/245648]
+

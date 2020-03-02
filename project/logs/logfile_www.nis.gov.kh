@@ -1,0 +1,14 @@
+--2020-03-02 01:42:53--  http://www.nis.gov.kh/cpi/CPI_Report_Dec_2016_E.pdf
+Resolving www.nis.gov.kh (www.nis.gov.kh)... 173.237.190.55
+Connecting to www.nis.gov.kh (www.nis.gov.kh)|173.237.190.55|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154188 (151K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 1.88M 0s
+    50K .......... .......... .......... .......... .......... 66% 3.62M 0s
+   100K .......... .......... .......... .......... .......... 99%  158M 0s
+   150K                                                       100% 94.1K=0.3s
+
+2020-03-02 01:42:54 (3.69 Mb/s) - ‘/dev/null’ saved [154188/154188]
+

@@ -1,0 +1,24 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 22:30:58--  https://vallbanc.ad/en/fees
+Resolving vallbanc.ad (vallbanc.ad)... 194.158.78.108
+Connecting to vallbanc.ad (vallbanc.ad)|194.158.78.108|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://vallbanc.ad/sites/default/files/documents/2019-11/FEES%20Vall%20Banc%20%28ANG%29.pdf [following]
+--2020-03-01 22:30:58--  https://vallbanc.ad/sites/default/files/documents/2019-11/FEES%20Vall%20Banc%20%28ANG%29.pdf
+Reusing existing connection to vallbanc.ad:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 440628 (430K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 4.75M 1s
+    50K .......... .......... .......... .......... .......... 23% 8.87M 0s
+   100K .......... .......... .......... .......... .......... 34% 9.99M 0s
+   150K .......... .......... .......... .......... .......... 46%  127M 0s
+   200K .......... .......... .......... .......... .......... 58% 10.4M 0s
+   250K .......... .......... .......... .......... .......... 69%  106M 0s
+   300K .......... .......... .......... .......... .......... 81% 11.1M 0s
+   350K .......... .......... .......... .......... .......... 92% 74.6M 0s
+   400K .......... .......... ..........                      100%  202M=0.3s
+
+2020-03-01 22:30:58 (13.4 Mb/s) - ‘/dev/null’ saved [440628/440628]
+

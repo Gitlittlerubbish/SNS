@@ -1,0 +1,15 @@
+--2020-03-02 05:21:44--  http://www.j-can.org.je/docs/Newsletter_2013_12.pdf
+Resolving www.j-can.org.je (www.j-can.org.je)... 173.236.28.2
+Connecting to www.j-can.org.je (www.j-can.org.je)|173.236.28.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 229918 (225K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 2.00M 1s
+    50K .......... .......... .......... .......... .......... 44% 3.98M 0s
+   100K .......... .......... .......... .......... .......... 66%  206M 0s
+   150K .......... .......... .......... .......... .......... 89% 4.06M 0s
+   200K .......... .......... ....                            100%  169M=0.4s
+
+2020-03-02 05:21:45 (4.46 Mb/s) - ‘/dev/null’ saved [229918/229918]
+

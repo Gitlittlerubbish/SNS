@@ -1,0 +1,12 @@
+--2020-03-01 23:24:12--  http://www.concourt.am/armenian/structure/president/articles/Mexico.pdf
+Resolving www.concourt.am (www.concourt.am)... 91.221.229.204
+Connecting to www.concourt.am (www.concourt.am)|91.221.229.204|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 59318 (58K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 86% 2.21M 0s
+    50K .......                                               100%  719K=0.3s
+
+2020-03-01 23:24:13 (1.72 Mb/s) - ‘/dev/null’ saved [59318/59318]
+

@@ -1,0 +1,25 @@
+--2020-03-02 00:09:13--  http://www.ie.com.bd/adminview/productDatasheetDownload/600.pdf
+Resolving www.ie.com.bd (www.ie.com.bd)... 192.185.96.107
+Connecting to www.ie.com.bd (www.ie.com.bd)|192.185.96.107|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ie.com.bd/adminview/productDatasheetDownload/600.pdf [following]
+--2020-03-02 00:09:14--  https://www.ie.com.bd/adminview/productDatasheetDownload/600.pdf
+Connecting to www.ie.com.bd (www.ie.com.bd)|192.185.96.107|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 515713 (504K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 1.68M 2s
+    50K .......... .......... .......... .......... .......... 19% 3.38M 1s
+   100K .......... .......... .......... .......... .......... 29% 93.6M 1s
+   150K .......... .......... .......... .......... .......... 39% 1.72M 1s
+   200K .......... .......... .......... .......... .......... 49%  737M 1s
+   250K .......... .......... .......... .......... .......... 59%  788M 0s
+   300K .......... .......... .......... .......... .......... 69% 3.34M 0s
+   350K .......... .......... .......... .......... .......... 79%  167M 0s
+   400K .......... .......... .......... .......... .......... 89% 3.54M 0s
+   450K .......... .......... .......... .......... .......... 99% 69.6M 0s
+   500K ...                                                   100%  594K=0.9s
+
+2020-03-02 00:09:15 (4.82 Mb/s) - ‘/dev/null’ saved [515713/515713]
+

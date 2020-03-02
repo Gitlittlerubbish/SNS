@@ -1,0 +1,35 @@
+--2020-03-02 06:25:32--  http://rothpartner.li/download_file/104/215
+Resolving rothpartner.li (rothpartner.li)... 35.157.156.250
+Connecting to rothpartner.li (rothpartner.li)|35.157.156.250|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://rothpartner.li/download_file/104/215 [following]
+--2020-03-02 06:25:32--  https://rothpartner.li/download_file/104/215
+Connecting to rothpartner.li (rothpartner.li)|35.157.156.250|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://rothpartner.li/application/files/7014/9450/2640/verkehrssuender-aufgepasst.pdf [following]
+--2020-03-02 06:25:32--  https://rothpartner.li/application/files/7014/9450/2640/verkehrssuender-aufgepasst.pdf
+Reusing existing connection to rothpartner.li:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 848487 (829K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 10.6M 1s
+    50K .......... .......... .......... .......... .......... 12% 22.5M 0s
+   100K .......... .......... .......... .......... .......... 18%  116M 0s
+   150K .......... .......... .......... .......... .......... 24%  233M 0s
+   200K .......... .......... .......... .......... .......... 30% 23.2M 0s
+   250K .......... .......... .......... .......... .......... 36%  137M 0s
+   300K .......... .......... .......... .......... .......... 42% 35.8M 0s
+   350K .......... .......... .......... .......... .......... 48%  194M 0s
+   400K .......... .......... .......... .......... .......... 54% 61.4M 0s
+   450K .......... .......... .......... .......... .......... 60%  290M 0s
+   500K .......... .......... .......... .......... .......... 66%  308M 0s
+   550K .......... .......... .......... .......... .......... 72% 39.4M 0s
+   600K .......... .......... .......... .......... .......... 78%  176M 0s
+   650K .......... .......... .......... .......... .......... 84% 59.9M 0s
+   700K .......... .......... .......... .......... .......... 90%  349M 0s
+   750K .......... .......... .......... .......... .......... 96% 38.5M 0s
+   800K .......... .......... ........                        100%  307M=0.1s
+
+2020-03-02 06:25:33 (49.2 Mb/s) - ‘/dev/null’ saved [848487/848487]
+

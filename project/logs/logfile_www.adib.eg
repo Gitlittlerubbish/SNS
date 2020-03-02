@@ -1,0 +1,18 @@
+--2020-03-02 03:19:48--  http://www.adib.eg/media/157794/ADIBEG_Accounts_ScheduleofCharges_Arabic_English.pdf
+Resolving www.adib.eg (www.adib.eg)... 213.158.162.62
+Connecting to www.adib.eg (www.adib.eg)|213.158.162.62|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://www.adib.eg/media/157794/ADIBEG_Accounts_ScheduleofCharges_Arabic_English.pdf [following]
+--2020-03-02 03:19:48--  https://www.adib.eg/media/157794/ADIBEG_Accounts_ScheduleofCharges_Arabic_English.pdf
+Connecting to www.adib.eg (www.adib.eg)|213.158.162.62|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 195568 (191K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 2.43M 0s
+    50K .......... .......... .......... .......... .......... 52% 5.16M 0s
+   100K .......... .......... .......... .......... .......... 78% 53.8M 0s
+   150K .......... .......... .......... ..........           100% 4.33M=0.3s
+
+2020-03-02 03:19:49 (4.70 Mb/s) - ‘/dev/null’ saved [195568/195568]
+

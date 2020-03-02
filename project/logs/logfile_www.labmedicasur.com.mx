@@ -1,0 +1,12 @@
+--2020-03-02 07:28:47--  http://www.labmedicasur.com.mx/userfiles/pdf/carrillo/ti102i.pdf
+Resolving www.labmedicasur.com.mx (www.labmedicasur.com.mx)... 204.232.170.155
+Connecting to www.labmedicasur.com.mx (www.labmedicasur.com.mx)|204.232.170.155|:80... connected.
+HTTP request sent, awaiting response... 200 
+Cookie coming from www.labmedicasur.com.mx attempted to set domain to medicasur.com.mx
+Length: 45924 (45K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ....      100% 2.38M=0.2s
+
+2020-03-02 07:28:47 (2.38 Mb/s) - ‘/dev/null’ saved [45924/45924]
+

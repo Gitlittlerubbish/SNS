@@ -1,0 +1,38 @@
+--2020-03-02 04:14:59--  http://playerlink.gg/pdf/terms.pdf
+Resolving playerlink.gg (playerlink.gg)... 104.26.10.190, 104.26.11.190
+Connecting to playerlink.gg (playerlink.gg)|104.26.10.190|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://playerlink.gg/pdf/terms.pdf [following]
+--2020-03-02 04:14:59--  https://playerlink.gg/pdf/terms.pdf
+Connecting to playerlink.gg (playerlink.gg)|104.26.10.190|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219686 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 50.8M 0s
+    50K .......... .......... .......... .......... .......... 46% 3.11M 0s
+   100K .......... .......... .......... .......... .......... 69%  130M 0s
+   150K .......... .......... .......... .......... .......... 93% 3.01M 0s
+   200K .......... ....                                       100%  492M=0.3s
+
+2020-03-02 04:15:00 (6.29 Mb/s) - ‘/dev/null’ saved [219686/219686]
+
+--2020-03-02 04:15:00--  http://playerlink.gg/pdf/terms.pdf
+Resolving playerlink.gg (playerlink.gg)... 104.26.10.190, 104.26.11.190
+Connecting to playerlink.gg (playerlink.gg)|104.26.10.190|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://playerlink.gg/pdf/terms.pdf [following]
+--2020-03-02 04:15:00--  https://playerlink.gg/pdf/terms.pdf
+Connecting to playerlink.gg (playerlink.gg)|104.26.10.190|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 219686 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  180M 0s
+    50K .......... .......... .......... .......... .......... 46%  240M 0s
+   100K .......... .......... .......... .......... .......... 69%  332M 0s
+   150K .......... .......... .......... .......... .......... 93%  454M 0s
+   200K .......... ....                                       100%  162M=0.007s
+
+2020-03-02 04:15:01 (256 Mb/s) - ‘/dev/null’ saved [219686/219686]
+

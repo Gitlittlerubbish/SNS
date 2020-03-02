@@ -1,0 +1,11 @@
+--2020-03-01 23:24:11--  http://www.rgs.am/uploads/DIVIDENDS_ARM.pdf
+Resolving www.rgs.am (www.rgs.am)... 109.68.124.195
+Connecting to www.rgs.am (www.rgs.am)|109.68.124.195|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42887 (42K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .         100% 2.24M=0.2s
+
+2020-03-01 23:24:12 (2.24 Mb/s) - ‘/dev/null’ saved [42887/42887]
+

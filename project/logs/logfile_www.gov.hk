@@ -1,0 +1,15 @@
+--2020-03-02 04:34:26--  http://www.gov.hk/en/residents/immigration/images/pdf/AnnexI_Eng.pdf
+Resolving www.gov.hk (www.gov.hk)... 104.16.248.130, 104.16.249.130
+Connecting to www.gov.hk (www.gov.hk)|104.16.248.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gov.hk/en/residents/immigration/images/pdf/AnnexI_Eng.pdf [following]
+--2020-03-02 04:34:26--  https://www.gov.hk/en/residents/immigration/images/pdf/AnnexI_Eng.pdf
+Connecting to www.gov.hk (www.gov.hk)|104.16.248.130|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11659 (11K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                          100%  136M=0.001s
+
+2020-03-02 04:34:27 (136 Mb/s) - ‘/dev/null’ saved [11659/11659]
+

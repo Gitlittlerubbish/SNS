@@ -1,0 +1,15 @@
+--2020-03-02 07:09:03--  http://www.bnm.gov.my/documents/2019/20190301_FAQ_MySalam.pdf
+Resolving www.bnm.gov.my (www.bnm.gov.my)... 103.6.236.129
+Connecting to www.bnm.gov.my (www.bnm.gov.my)|103.6.236.129|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bnm.gov.my:443/documents/2019/20190301_FAQ_MySalam.pdf [following]
+--2020-03-02 07:09:04--  https://www.bnm.gov.my/documents/2019/20190301_FAQ_MySalam.pdf
+Connecting to www.bnm.gov.my (www.bnm.gov.my)|103.6.236.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24911 (24K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ....                            100%  649K=0.3s
+
+2020-03-02 07:09:06 (649 Kb/s) - ‘/dev/null’ saved [24911/24911]
+

@@ -1,0 +1,24 @@
+--2020-03-02 04:00:55--  http://www.edekamarkt-haas.de/Mittagstisch.pdf
+Resolving www.edekamarkt-haas.de (www.edekamarkt-haas.de)... 141.0.20.221
+Connecting to www.edekamarkt-haas.de (www.edekamarkt-haas.de)|141.0.20.221|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97777 (95K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 11.7M 0s
+    50K .......... .......... .......... .......... .....     100% 21.8M=0.05s
+
+2020-03-02 04:00:55 (15.0 Mb/s) - ‘/dev/null’ saved [97777/97777]
+
+--2020-03-02 04:00:56--  http://www.edekamarkt-haas.de/Mittagstisch.pdf
+Resolving www.edekamarkt-haas.de (www.edekamarkt-haas.de)... 141.0.20.221
+Connecting to www.edekamarkt-haas.de (www.edekamarkt-haas.de)|141.0.20.221|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97777 (95K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 11.3M 0s
+    50K .......... .......... .......... .......... .....     100%  193M=0.04s
+
+2020-03-02 04:00:57 (20.4 Mb/s) - ‘/dev/null’ saved [97777/97777]
+

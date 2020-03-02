@@ -1,0 +1,14 @@
+--2020-03-02 06:08:06--  http://oidb.manas.edu.kg/pdf/sinav_yeni.pdf
+Resolving oidb.manas.edu.kg (oidb.manas.edu.kg)... 212.42.111.134
+Connecting to oidb.manas.edu.kg (oidb.manas.edu.kg)|212.42.111.134|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165732 (162K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30%  987K 1s
+    50K .......... .......... .......... .......... .......... 61% 3.90M 0s
+   100K .......... .......... .......... .......... .......... 92%  148M 0s
+   150K .......... .                                          100%  221M=0.5s
+
+2020-03-02 06:08:07 (2.54 Mb/s) - ‘/dev/null’ saved [165732/165732]
+

@@ -1,0 +1,16 @@
+--2020-03-02 07:58:08--  http://www.anea.gov.mz/Files/Regulamento_Interno_ANEA.pdf
+Resolving www.anea.gov.mz (www.anea.gov.mz)... 196.3.96.205
+Connecting to www.anea.gov.mz (www.anea.gov.mz)|196.3.96.205|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256126 (250K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.11M 1s
+    50K .......... .......... .......... .......... .......... 39% 2.22M 1s
+   100K .......... .......... .......... .......... .......... 59%  154M 0s
+   150K .......... .......... .......... .......... .......... 79% 36.5M 0s
+   200K .......... .......... .......... .......... .......... 99% 2.34M 0s
+   250K                                                       100% 20.2K=0.7s
+
+2020-03-02 07:58:10 (2.76 Mb/s) - ‘/dev/null’ saved [256126/256126]
+

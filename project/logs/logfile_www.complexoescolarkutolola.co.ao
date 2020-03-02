@@ -1,0 +1,14 @@
+--2020-03-01 22:35:23--  http://www.complexoescolarkutolola.co.ao/Projecto_Educativo.pdf
+Resolving www.complexoescolarkutolola.co.ao (www.complexoescolarkutolola.co.ao)... 176.61.147.180
+Connecting to www.complexoescolarkutolola.co.ao (www.complexoescolarkutolola.co.ao)|176.61.147.180|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180371 (176K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 5.47M 0s
+    50K .......... .......... .......... .......... .......... 56% 5.17M 0s
+   100K .......... .......... .......... .......... .......... 85%  839M 0s
+   150K .......... .......... ......                          100% 1.48G=0.2s
+
+2020-03-01 22:35:24 (9.32 Mb/s) - ‘/dev/null’ saved [180371/180371]
+

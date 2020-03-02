@@ -1,0 +1,25 @@
+--2020-03-02 02:54:54--  http://element.hr/artikli/file/1583
+Resolving element.hr (element.hr)... 213.186.6.144
+Connecting to element.hr (element.hr)|213.186.6.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://element.hr/artikli/file/1583 [following]
+--2020-03-02 02:54:54--  https://element.hr/artikli/file/1583
+Connecting to element.hr (element.hr)|213.186.6.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://element.hr/artikli/file/1583/matematika/10007 [following]
+--2020-03-02 02:54:54--  https://element.hr/artikli/file/1583/matematika/10007
+Reusing existing connection to element.hr:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 337409 (330K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 13.4M 0s
+    50K .......... .......... .......... .......... .......... 30% 12.4M 0s
+   100K .......... .......... .......... .......... .......... 45% 37.3M 0s
+   150K .......... .......... .......... .......... .......... 60%  498M 0s
+   200K .......... .......... .......... .......... .......... 75% 20.2M 0s
+   250K .......... .......... .......... .......... .......... 91% 35.2M 0s
+   300K .......... .......... .........                       100%  242M=0.1s
+
+2020-03-02 02:54:54 (24.9 Mb/s) - ‘/dev/null’ saved [337409/337409]
+

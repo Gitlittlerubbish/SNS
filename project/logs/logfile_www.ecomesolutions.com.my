@@ -1,0 +1,15 @@
+--2020-03-02 07:02:13--  http://www.ecomesolutions.com.my/data/midea_error_code.pdf
+Resolving www.ecomesolutions.com.my (www.ecomesolutions.com.my)... 103.8.25.228
+Connecting to www.ecomesolutions.com.my (www.ecomesolutions.com.my)|103.8.25.228|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211241 (206K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  811K 2s
+    50K .......... .......... .......... .......... .......... 48% 2.45M 1s
+   100K .......... .......... .......... .......... .......... 72% 20.2M 0s
+   150K .......... .......... .......... .......... .......... 96% 2.75M 0s
+   200K ......                                                100% 68.2M=0.8s
+
+2020-03-02 07:02:15 (2.01 Mb/s) - ‘/dev/null’ saved [211241/211241]
+

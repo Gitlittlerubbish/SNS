@@ -1,0 +1,33 @@
+--2020-03-02 00:22:54--  http://s.cdp.bz/4/1agikLvzs4
+Resolving s.cdp.bz (s.cdp.bz)... 35.154.77.135, 13.126.235.234
+Connecting to s.cdp.bz (s.cdp.bz)|35.154.77.135|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.apollomunichinsurance.com/Downloads/Optima-Restore-Brochure-1.pdf?cid=Lemnisk&utm_source=SMS&utm_campaign=OR_Brochure&utm_medium=cpc&utm_term=NotSet&pub=SMS_OR_Brochure&track_id=123 [following]
+--2020-03-02 00:22:54--  https://www.apollomunichinsurance.com/Downloads/Optima-Restore-Brochure-1.pdf?cid=Lemnisk&utm_source=SMS&utm_campaign=OR_Brochure&utm_medium=cpc&utm_term=NotSet&pub=SMS_OR_Brochure&track_id=123
+Resolving www.apollomunichinsurance.com (www.apollomunichinsurance.com)... 13.233.241.155, 13.127.178.100
+Connecting to www.apollomunichinsurance.com (www.apollomunichinsurance.com)|13.233.241.155|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /downloads/optima-restore-brochure-1.pdf?cid=Lemnisk&utm_source=SMS&utm_campaign=OR_Brochure&utm_medium=cpc&utm_term=NotSet&pub=SMS_OR_Brochure&track_id=123 [following]
+--2020-03-02 00:22:55--  https://www.apollomunichinsurance.com/downloads/optima-restore-brochure-1.pdf?cid=Lemnisk&utm_source=SMS&utm_campaign=OR_Brochure&utm_medium=cpc&utm_term=NotSet&pub=SMS_OR_Brochure&track_id=123
+Reusing existing connection to www.apollomunichinsurance.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 703927 (687K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7%  994K 5s
+    50K .......... .......... .......... .......... .......... 14% 92.6M 2s
+   100K .......... .......... .......... .......... .......... 21% 2.98M 2s
+   150K .......... .......... .......... .......... .......... 29% 1.52M 2s
+   200K .......... .......... .......... .......... .......... 36% 2.95M 2s
+   250K .......... .......... .......... .......... .......... 43% 2.97M 1s
+   300K .......... .......... .......... .......... .......... 50% 2.92M 1s
+   350K .......... .......... .......... .......... .......... 58% 3.01M 1s
+   400K .......... .......... .......... .......... .......... 65% 2.90M 1s
+   450K .......... .......... .......... .......... .......... 72% 3.03M 1s
+   500K .......... .......... .......... .......... .......... 80% 2.99M 0s
+   550K .......... .......... .......... .......... .......... 87% 2.97M 0s
+   600K .......... .......... .......... .......... .......... 94% 3.02M 0s
+   650K .......... .......... .......... .......              100% 3.03M=2.2s
+
+2020-03-02 00:22:57 (2.60 Mb/s) - ‘/dev/null’ saved [703927/703927]
+

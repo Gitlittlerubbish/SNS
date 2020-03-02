@@ -1,0 +1,15 @@
+--2020-03-02 03:33:08--  http://www.aarc.gov.et/images/demo1/faqhivafaan.pdf
+Resolving www.aarc.gov.et (www.aarc.gov.et)... 77.72.0.70
+Connecting to www.aarc.gov.et (www.aarc.gov.et)|77.72.0.70|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.aarc.gov.et/cgi-sys/suspendedpage.cgi [following]
+--2020-03-02 03:33:08--  http://www.aarc.gov.et/cgi-sys/suspendedpage.cgi
+Reusing existing connection to www.aarc.gov.et:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                                 632M=0s
+
+2020-03-02 03:33:08 (632 Mb/s) - ‘/dev/null’ saved [7580]
+

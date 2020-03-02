@@ -1,0 +1,23 @@
+--2020-03-02 01:10:06--  http://farmacianacional.unifabra.com.br/BACKOFFICE/Uploads/Bula/7897851250622.pdf
+Resolving farmacianacional.unifabra.com.br (farmacianacional.unifabra.com.br)... 13.92.34.253
+Connecting to farmacianacional.unifabra.com.br (farmacianacional.unifabra.com.br)|13.92.34.253|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://farmacianacional.unifabra.com.br/BACKOFFICE/Uploads/Bula/7897851250622.pdf [following]
+--2020-03-02 01:10:06--  https://farmacianacional.unifabra.com.br/BACKOFFICE/Uploads/Bula/7897851250622.pdf
+Connecting to farmacianacional.unifabra.com.br (farmacianacional.unifabra.com.br)|13.92.34.253|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 440836 (431K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 5.03M 1s
+    50K .......... .......... .......... .......... .......... 23% 5.12M 1s
+   100K .......... .......... .......... .......... .......... 34% 5.23M 0s
+   150K .......... .......... .......... .......... .......... 46% 7.73M 0s
+   200K .......... .......... .......... .......... .......... 58% 3.67M 0s
+   250K .......... .......... .......... .......... .......... 69% 8.46M 0s
+   300K .......... .......... .......... .......... .......... 81%  569M 0s
+   350K .......... .......... .......... .......... .......... 92% 16.1M 0s
+   400K .......... .......... ..........                      100% 4.74M=0.5s
+
+2020-03-02 01:10:07 (6.63 Mb/s) - ‘/dev/null’ saved [440836/440836]
+

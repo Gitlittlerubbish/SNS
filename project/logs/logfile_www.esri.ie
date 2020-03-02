@@ -1,0 +1,27 @@
+--2020-03-02 05:01:52--  http://www.esri.ie/pubs/WP548-1.pdf
+Resolving www.esri.ie (www.esri.ie)... 54.76.136.188
+Connecting to www.esri.ie (www.esri.ie)|54.76.136.188|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.esri.ie/pubs/WP548-1.pdf [following]
+--2020-03-02 05:01:52--  https://www.esri.ie/pubs/WP548-1.pdf
+Connecting to www.esri.ie (www.esri.ie)|54.76.136.188|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.esri.ie/system/files?file=media/file-uploads/2018-02/WP548-1.pdf [following]
+--2020-03-02 05:01:53--  https://www.esri.ie/system/files?file=media/file-uploads/2018-02/WP548-1.pdf
+Reusing existing connection to www.esri.ie:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 447679 (437K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 13.8M 0s
+    50K .......... .......... .......... .......... .......... 22% 31.1M 0s
+   100K .......... .......... .......... .......... .......... 34% 3.02M 0s
+   150K .......... .......... .......... .......... .......... 45%  202M 0s
+   200K .......... .......... .......... .......... .......... 57% 28.9M 0s
+   250K .......... .......... .......... .......... .......... 68%  510M 0s
+   300K .......... .......... .......... .......... .......... 80%  198M 0s
+   350K .......... .......... .......... .......... .......... 91%  256M 0s
+   400K .......... .......... .......... .......              100%  668M=0.2s
+
+2020-03-02 05:01:53 (17.9 Mb/s) - ‘/dev/null’ saved [447679/447679]
+

@@ -1,0 +1,18 @@
+--2020-03-02 00:46:36--  http://www.comunidad.org.bo/assets/archivos/herramienta/6c9ba1a1fe818c516c0fb05406843e84.pdf
+Resolving www.comunidad.org.bo (www.comunidad.org.bo)... 200.105.155.218
+Connecting to www.comunidad.org.bo (www.comunidad.org.bo)|200.105.155.218|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.comunidad.org.bo/assets/archivos/herramienta/6c9ba1a1fe818c516c0fb05406843e84.pdf [following]
+--2020-03-02 00:46:36--  https://www.comunidad.org.bo/assets/archivos/herramienta/6c9ba1a1fe818c516c0fb05406843e84.pdf
+Connecting to www.comunidad.org.bo (www.comunidad.org.bo)|200.105.155.218|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159771 (156K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 2.03M 0s
+    50K .......... .......... .......... .......... .......... 64% 2.14M 0s
+   100K .......... .......... .......... .......... .......... 96% 20.8M 0s
+   150K ......                                                100%  837M=0.4s
+
+2020-03-02 00:46:38 (3.10 Mb/s) - ‘/dev/null’ saved [159771/159771]
+

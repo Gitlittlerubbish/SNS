@@ -1,0 +1,16 @@
+--2020-03-02 03:43:58--  http://www.kennelliitto.fi/rokotusmaaraykset
+Resolving www.kennelliitto.fi (www.kennelliitto.fi)... 79.171.233.3
+Connecting to www.kennelliitto.fi (www.kennelliitto.fi)|79.171.233.3|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.kennelliitto.fi/rokotusmaaraykset [following]
+--2020-03-02 03:43:58--  https://www.kennelliitto.fi/rokotusmaaraykset
+Connecting to www.kennelliitto.fi (www.kennelliitto.fi)|79.171.233.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94951 (93K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 53% 10.7M 0s
+    50K .......... .......... .......... .......... ..        100%  190M=0.04s
+
+2020-03-02 03:43:59 (18.9 Mb/s) - ‘/dev/null’ saved [94951/94951]
+

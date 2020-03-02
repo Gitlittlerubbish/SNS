@@ -1,0 +1,12 @@
+--2020-03-02 07:27:47--  http://garcialocation.yt/wp-content/uploads/2014/09/cgl_v2013.pdf
+Resolving garcialocation.yt (garcialocation.yt)... 217.70.180.135
+Connecting to garcialocation.yt (garcialocation.yt)|217.70.180.135|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70062 (68K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73% 19.6M 0s
+    50K .......... ........                                   100% 43.8M=0.02s
+
+2020-03-02 07:27:47 (23.0 Mb/s) - ‘/dev/null’ saved [70062/70062]
+

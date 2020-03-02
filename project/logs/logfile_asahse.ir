@@ -1,0 +1,16 @@
+--2020-03-02 04:58:56--  http://asahse.ir/uploads/attachments/file_13980919144115.pdf
+Resolving asahse.ir (asahse.ir)... 185.159.152.16
+Connecting to asahse.ir (asahse.ir)|185.159.152.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://asahse.ir/uploads/attachments/file_13980919144115.pdf [following]
+--2020-03-02 04:58:56--  https://asahse.ir/uploads/attachments/file_13980919144115.pdf
+Connecting to asahse.ir (asahse.ir)|185.159.152.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76792 (75K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 1.49M 0s
+    50K .......... .......... ....                            100%  165M=0.3s
+
+2020-03-02 04:58:57 (2.22 Mb/s) - ‘/dev/null’ saved [76792/76792]
+

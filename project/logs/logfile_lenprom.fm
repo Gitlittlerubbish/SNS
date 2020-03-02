@@ -1,0 +1,32 @@
+--2020-03-02 07:35:23--  http://lenprom.fm/userfiles/file/catalog_bfe_for_site.pdf
+Resolving lenprom.fm (lenprom.fm)... 195.182.132.228
+Connecting to lenprom.fm (lenprom.fm)|195.182.132.228|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.lenprom.fm/index.php [following]
+--2020-03-02 07:35:24--  http://www.lenprom.fm/index.php
+Resolving www.lenprom.fm (www.lenprom.fm)... 195.182.132.228
+Reusing existing connection to lenprom.fm:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ......                                      2.86M=0.05s
+
+2020-03-02 07:35:24 (2.86 Mb/s) - ‘/dev/null’ saved [16386]
+
+--2020-03-02 07:35:25--  http://lenprom.fm/userfiles/file/catalog_bfe_for_site.pdf
+Resolving lenprom.fm (lenprom.fm)... 195.182.132.228
+Connecting to lenprom.fm (lenprom.fm)|195.182.132.228|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.lenprom.fm/index.php [following]
+--2020-03-02 07:35:25--  http://www.lenprom.fm/index.php
+Resolving www.lenprom.fm (www.lenprom.fm)... 195.182.132.228
+Reusing existing connection to lenprom.fm:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ......                                      2.90M=0.05s
+
+2020-03-02 07:35:25 (2.90 Mb/s) - ‘/dev/null’ saved [16386]
+

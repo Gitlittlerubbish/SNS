@@ -1,0 +1,28 @@
+--2020-03-02 03:53:09--  http://www.instashwirtp.ga/media/6562/samtykke.pdf
+Resolving www.instashwirtp.ga (www.instashwirtp.ga)... 104.27.165.116, 104.27.164.116
+Connecting to www.instashwirtp.ga (www.instashwirtp.ga)|104.27.165.116|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.2M
+    50K .......... .......... .......... .......... ..........  147M
+   100K .......... .......... .......... .......... .......... 28.6M
+   150K .                                                      99.6M=0.06s
+
+2020-03-02 03:53:09 (21.6 Mb/s) - ‘/dev/null’ saved [155331]
+
+--2020-03-02 03:53:12--  http://www.instashwirtp.ga/media/6562/samtykke.pdf
+Resolving www.instashwirtp.ga (www.instashwirtp.ga)... 104.27.165.116, 104.27.164.116
+Connecting to www.instashwirtp.ga (www.instashwirtp.ga)|104.27.165.116|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 84.3M
+    50K .......... .......... .......... .......... ..........  445M
+   100K .......... .......... .......... .......... .......... 84.2M
+   150K .                                                       104M=0.01s
+
+2020-03-02 03:53:12 (115 Mb/s) - ‘/dev/null’ saved [155331]
+

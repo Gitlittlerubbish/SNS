@@ -1,0 +1,12 @@
+--2020-03-02 04:07:54--  http://www.kemea.gr/images/documents/EC1142008CIP.pdf
+Resolving www.kemea.gr (www.kemea.gr)... 84.205.246.81
+Connecting to www.kemea.gr (www.kemea.gr)|84.205.246.81|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64935 (63K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 78% 4.14M 0s
+    50K .......... ...                                        100% 93.1M=0.1s
+
+2020-03-02 04:07:54 (5.19 Mb/s) - ‘/dev/null’ saved [64935/64935]
+

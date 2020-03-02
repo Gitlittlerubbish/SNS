@@ -1,0 +1,29 @@
+--2020-03-02 00:20:26--  http://krg.bz/2nKpd4a
+Resolving krg.bz (krg.bz)... 67.199.248.13, 67.199.248.12
+Connecting to krg.bz (krg.bz)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 00:20:27--  https://www.keurig.com/medias/K55-User-Care-Guide.pdf?context=bWFzdGVyfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmc3w2Mzc5MTF8YXBwbGljYXRpb24vcGRmfGstY3VwLWJyZXdlcnMtdXNlci1ndWlkZXMtcGRmcy9oOGEvaDFlLzQ0MjIzODcxNDUxMTY2LnBkZnxhZDAyNDc2ZjlhYjA1ODFkMmJkMjc4ZDExZWI4NjdmYWY5YjBlMjdmZTgyYWY2YmFkMWIyNTQ2ODI4ZDE2ZjIz
+Resolving www.keurig.com (www.keurig.com)... 104.78.163.153
+Connecting to www.keurig.com (www.keurig.com)|104.78.163.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 637911 (623K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 61.3M 0s
+    50K .......... .......... .......... .......... .......... 16% 42.9M 0s
+   100K .......... .......... .......... .......... .......... 24% 23.9M 0s
+   150K .......... .......... .......... .......... .......... 32%  465M 0s
+   200K .......... .......... .......... .......... .......... 40%  209M 0s
+   250K .......... .......... .......... .......... .......... 48% 98.3M 0s
+   300K .......... .......... .......... .......... .......... 56%  128M 0s
+   350K .......... .......... .......... .......... .......... 64% 87.6M 0s
+   400K .......... .......... .......... .......... .......... 72%  145M 0s
+   450K .......... .......... .......... .......... .......... 80%  270M 0s
+   500K .......... .......... .......... .......... .......... 88%  417M 0s
+   550K .......... .......... .......... .......... .......... 96%  229M 0s
+   600K .......... .......... ..                              100% 1.04G=0.06s
+
+2020-03-02 00:20:27 (91.9 Mb/s) - ‘/dev/null’ saved [637911/637911]
+

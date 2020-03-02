@@ -1,0 +1,12 @@
+--2020-03-02 04:45:09--  http://mitsgwalior.in/login/upload/clubstructureanddutiesofofficers.pdf
+Resolving mitsgwalior.in (mitsgwalior.in)... 104.31.67.100, 104.31.66.100
+Connecting to mitsgwalior.in (mitsgwalior.in)|104.31.67.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.31M
+    50K .......... .......... .......... ..........             116M=0.2s
+
+2020-03-02 04:45:09 (4.13 Mb/s) - ‘/dev/null’ saved [92835]
+

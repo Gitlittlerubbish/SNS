@@ -1,0 +1,13 @@
+--2020-03-02 00:13:42--  http://mapid.by/vakansii.pdf
+Resolving mapid.by (mapid.by)... 178.159.247.47
+Connecting to mapid.by (mapid.by)|178.159.247.47|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 129807 (127K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 3.23M 0s
+    50K .......... .......... .......... .......... .......... 78% 3.35M 0s
+   100K .......... .......... ......                          100%  193M=0.3s
+
+2020-03-02 00:13:44 (4.15 Mb/s) - ‘/dev/null’ saved [129807/129807]
+

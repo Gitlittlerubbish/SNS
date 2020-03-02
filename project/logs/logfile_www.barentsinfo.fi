@@ -1,0 +1,11 @@
+--2020-03-02 03:45:21--  http://www.barentsinfo.fi/docs/Gorbachev_speech.pdf
+Resolving www.barentsinfo.fi (www.barentsinfo.fi)... 193.167.215.46
+Connecting to www.barentsinfo.fi (www.barentsinfo.fi)|193.167.215.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27901 (27K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......                         100% 4.51M=0.05s
+
+2020-03-02 03:45:21 (4.51 Mb/s) - ‘/dev/null’ saved [27901/27901]
+

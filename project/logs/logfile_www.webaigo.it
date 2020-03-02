@@ -1,0 +1,25 @@
+--2020-03-02 05:08:43--  http://www.webaigo.it/download/pancreatite.pdf
+Resolving www.webaigo.it (www.webaigo.it)... 128.65.125.148
+Connecting to www.webaigo.it (www.webaigo.it)|128.65.125.148|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.webaigo.it/download/pancreatite.pdf [following]
+--2020-03-02 05:08:43--  https://www.webaigo.it/download/pancreatite.pdf
+Connecting to www.webaigo.it (www.webaigo.it)|128.65.125.148|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 530264 (518K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 13.5M 0s
+    50K .......... .......... .......... .......... .......... 19% 13.5M 0s
+   100K .......... .......... .......... .......... .......... 28% 14.8M 0s
+   150K .......... .......... .......... .......... .......... 38% 96.5M 0s
+   200K .......... .......... .......... .......... .......... 48%  197M 0s
+   250K .......... .......... .......... .......... .......... 57% 17.4M 0s
+   300K .......... .......... .......... .......... .......... 67%  215M 0s
+   350K .......... .......... .......... .......... .......... 77% 70.4M 0s
+   400K .......... .......... .......... .......... .......... 86% 17.6M 0s
+   450K .......... .......... .......... .......... .......... 96%  389M 0s
+   500K .......... .......                                    100%  114M=0.2s
+
+2020-03-02 05:08:43 (28.0 Mb/s) - ‘/dev/null’ saved [530264/530264]
+

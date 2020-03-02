@@ -1,0 +1,12 @@
+--2020-03-02 03:54:10--  http://aiu.edu.gm/ApplicationForm2011AIUWA.pdf
+Resolving aiu.edu.gm (aiu.edu.gm)... 50.63.166.121
+Connecting to aiu.edu.gm (aiu.edu.gm)|50.63.166.121|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100001 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 1.46M 0s
+    50K .......... .......... .......... .......... .......   100% 2.74M=0.4s
+
+2020-03-02 03:54:11 (1.89 Mb/s) - ‘/dev/null’ saved [100001/100001]
+

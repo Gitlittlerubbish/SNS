@@ -1,0 +1,16 @@
+--2020-03-02 05:17:22--  http://www.mizuho-fg.co.jp/release/pdf/20190207release_jp.pdf
+Resolving www.mizuho-fg.co.jp (www.mizuho-fg.co.jp)... 184.87.182.127
+Connecting to www.mizuho-fg.co.jp (www.mizuho-fg.co.jp)|184.87.182.127|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mizuho-fg.co.jp/release/pdf/20190207release_jp.pdf [following]
+--2020-03-02 05:17:22--  https://www.mizuho-fg.co.jp/release/pdf/20190207release_jp.pdf
+Connecting to www.mizuho-fg.co.jp (www.mizuho-fg.co.jp)|184.87.182.127|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91091 (89K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56%  730K 0s
+    50K .......... .......... .......... ........             100% 1.73M=0.7s
+
+2020-03-02 05:17:23 (978 Kb/s) - ‘/dev/null’ saved [91091/91091]
+

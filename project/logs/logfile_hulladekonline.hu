@@ -1,0 +1,23 @@
+--2020-03-02 04:37:28--  http://hulladekonline.hu/files/108
+Resolving hulladekonline.hu (hulladekonline.hu)... 193.6.2.3
+Connecting to hulladekonline.hu (hulladekonline.hu)|193.6.2.3|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://hulladekonline.hu/files/108 [following]
+--2020-03-02 04:37:28--  https://hulladekonline.hu/files/108
+Connecting to hulladekonline.hu (hulladekonline.hu)|193.6.2.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 396642 (387K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 4.91M 1s
+    50K .......... .......... .......... .......... .......... 25% 9.82M 0s
+   100K .......... .......... .......... .......... .......... 38%  139M 0s
+   150K .......... .......... .......... .......... .......... 51% 11.2M 0s
+   200K .......... .......... .......... .......... .......... 64% 84.4M 0s
+   250K .......... .......... .......... .......... .......... 77%  276M 0s
+   300K .......... .......... .......... .......... .......... 90% 10.9M 0s
+   350K .......... .......... .......... .......              100%  453M=0.2s
+
+Last-modified header invalid -- time-stamp ignored.
+2020-03-02 04:37:28 (15.2 Mb/s) - ‘/dev/null’ saved [396642/396642]
+

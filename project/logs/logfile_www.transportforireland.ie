@@ -1,0 +1,20 @@
+--2020-03-02 05:01:10--  http://www.transportforireland.ie/wp-content/uploads/12_Swords_A3.pdf
+Resolving www.transportforireland.ie (www.transportforireland.ie)... 54.76.52.87, 52.31.202.10
+Connecting to www.transportforireland.ie (www.transportforireland.ie)|54.76.52.87|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.transportforireland.ie/wp-content/uploads/12_Swords_A3.pdf [following]
+--2020-03-02 05:01:11--  https://www.transportforireland.ie/wp-content/uploads/12_Swords_A3.pdf
+Connecting to www.transportforireland.ie (www.transportforireland.ie)|54.76.52.87|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283940 (277K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 30.4M 0s
+    50K .......... .......... .......... .......... .......... 36% 27.1M 0s
+   100K .......... .......... .......... .......... .......... 54%  260M 0s
+   150K .......... .......... .......... .......... .......... 72%  479M 0s
+   200K .......... .......... .......... .......... .......... 90% 30.4M 0s
+   250K .......... .......... .......                         100% 73.4M=0.05s
+
+2020-03-02 05:01:11 (47.8 Mb/s) - ‘/dev/null’ saved [283940/283940]
+

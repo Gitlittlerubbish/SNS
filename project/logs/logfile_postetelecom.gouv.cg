@@ -1,0 +1,20 @@
+--2020-03-02 02:36:46--  http://postetelecom.gouv.cg/discours_ministre/Discours_MPTEN_Casablanca_Maroc.pdf
+Resolving postetelecom.gouv.cg (postetelecom.gouv.cg)... 198.136.54.34
+Connecting to postetelecom.gouv.cg (postetelecom.gouv.cg)|198.136.54.34|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://postetelecom.gouv.cg/discours_ministre/Discours_MPTEN_Casablanca_Maroc.pdf [following]
+--2020-03-02 02:36:46--  https://postetelecom.gouv.cg/discours_ministre/Discours_MPTEN_Casablanca_Maroc.pdf
+Connecting to postetelecom.gouv.cg (postetelecom.gouv.cg)|198.136.54.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 269313 (263K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.80M 1s
+    50K .......... .......... .......... .......... .......... 38% 3.27M 1s
+   100K .......... .......... .......... .......... .......... 57% 5.17M 0s
+   150K .......... .......... .......... .......... .......... 76% 6.20M 0s
+   200K .......... .......... .......... .......... .......... 95% 7.24M 0s
+   250K .......... ...                                        100% 20.4M=0.6s
+
+2020-03-02 02:36:47 (3.85 Mb/s) - ‘/dev/null’ saved [269313/269313]
+

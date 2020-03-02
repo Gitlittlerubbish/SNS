@@ -1,0 +1,19 @@
+--2020-03-02 02:29:01--  http://www.loveyoursmile.co/CDA_factsheet_xylitol.pdf
+Resolving www.loveyoursmile.co (www.loveyoursmile.co)... 104.27.185.44, 104.27.184.44
+Connecting to www.loveyoursmile.co (www.loveyoursmile.co)|104.27.185.44|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.loveyoursmile.co/CDA_factsheet_xylitol.pdf [following]
+--2020-03-02 02:29:01--  https://www.loveyoursmile.co/CDA_factsheet_xylitol.pdf
+Connecting to www.loveyoursmile.co (www.loveyoursmile.co)|104.27.185.44|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 229679 (224K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 4.12M 0s
+    50K .......... .......... .......... .......... .......... 44%  104M 0s
+   100K .......... .......... .......... .......... .......... 66% 3.54M 0s
+   150K .......... .......... .......... .......... .......... 89% 3.64M 0s
+   200K .......... .......... ....                            100% 76.8M=0.3s
+
+2020-03-02 02:29:02 (5.50 Mb/s) - ‘/dev/null’ saved [229679/229679]
+

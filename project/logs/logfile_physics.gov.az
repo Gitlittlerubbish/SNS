@@ -1,0 +1,13 @@
+--2020-03-01 23:45:56--  http://physics.gov.az/03.pdf
+Resolving physics.gov.az (physics.gov.az)... 31.170.236.83
+Connecting to physics.gov.az (physics.gov.az)|31.170.236.83|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147481 (144K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 1.72M 0s
+    50K .......... .......... .......... .......... .......... 69% 2.39M 0s
+   100K .......... .......... .......... .......... ....      100% 2.17M=0.6s
+
+2020-03-01 23:45:56 (2.05 Mb/s) - ‘/dev/null’ saved [147481/147481]
+

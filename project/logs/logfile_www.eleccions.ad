@@ -1,0 +1,22 @@
+--2020-03-01 22:33:49--  http://www.eleccions.ad/documentacio/anteriors/EG_2015.pdf
+Resolving www.eleccions.ad (www.eleccions.ad)... 91.187.83.90
+Connecting to www.eleccions.ad (www.eleccions.ad)|91.187.83.90|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 994 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  295M=0s
+
+2020-03-01 22:33:49 (295 Mb/s) - ‘/dev/null’ saved [994/994]
+
+--2020-03-01 22:33:49--  http://www.eleccions.ad/documentacio/anteriors/EG_2011.pdf
+Resolving www.eleccions.ad (www.eleccions.ad)... 91.187.83.90
+Connecting to www.eleccions.ad (www.eleccions.ad)|91.187.83.90|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 994 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  568M=0s
+
+2020-03-01 22:33:49 (568 Mb/s) - ‘/dev/null’ saved [994/994]
+

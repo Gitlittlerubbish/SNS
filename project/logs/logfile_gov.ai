@@ -1,0 +1,11 @@
+--2020-03-01 22:41:38--  http://gov.ai/forms/passport/form-c1.pdf
+Resolving gov.ai (gov.ai)... 107.154.146.252, 45.60.96.252
+Connecting to gov.ai (gov.ai)|107.154.146.252|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  210M=0s
+
+2020-03-01 22:41:39 (210 Mb/s) - ‘/dev/null’ saved [210/210]
+

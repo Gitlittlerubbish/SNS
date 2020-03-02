@@ -1,0 +1,26 @@
+--2020-03-02 01:52:24--  http://moodle.polymtl.ca/mod/resource/view.php%3Fid%3D288706
+Resolving moodle.polymtl.ca (moodle.polymtl.ca)... 132.207.4.20
+Connecting to moodle.polymtl.ca (moodle.polymtl.ca)|132.207.4.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://moodle.polymtl.ca/mod/resource/view.php?id=288706 [following]
+--2020-03-02 01:52:25--  https://moodle.polymtl.ca/mod/resource/view.php?id=288706
+Connecting to moodle.polymtl.ca (moodle.polymtl.ca)|132.207.4.20|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://moodle.polymtl.ca/pluginfile.php/527137/mod_resource/content/1/dean.pdf [following]
+--2020-03-02 01:52:25--  https://moodle.polymtl.ca/pluginfile.php/527137/mod_resource/content/1/dean.pdf
+Reusing existing connection to moodle.polymtl.ca:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 384452 (375K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 2.21M 1s
+    50K .......... .......... .......... .......... .......... 26% 4.36M 1s
+   100K .......... .......... .......... .......... .......... 39%  101M 0s
+   150K .......... .......... .......... .......... .......... 53% 4.61M 0s
+   200K .......... .......... .......... .......... .......... 66%  121M 0s
+   250K .......... .......... .......... .......... .......... 79%  113M 0s
+   300K .......... .......... .......... .......... .......... 93% 4.43M 0s
+   350K .......... .......... .....                           100%  256M=0.5s
+
+2020-03-02 01:52:26 (6.50 Mb/s) - ‘/dev/null’ saved [384452/384452]
+

@@ -1,0 +1,20 @@
+--2020-03-01 23:37:16--  http://www.mq.edu.au/r/organisation-chart
+Resolving www.mq.edu.au (www.mq.edu.au)... 185.64.253.1
+Connecting to www.mq.edu.au (www.mq.edu.au)|185.64.253.1|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mq.edu.au/r/organisation-chart [following]
+--2020-03-01 23:37:17--  https://www.mq.edu.au/r/organisation-chart
+Connecting to www.mq.edu.au (www.mq.edu.au)|185.64.253.1|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.mq.edu.au/__data/assets/pdf_file/0004/6763/Organisation-chart_MASTER_20200210_digital.pdf [following]
+--2020-03-01 23:37:18--  https://www.mq.edu.au/__data/assets/pdf_file/0004/6763/Organisation-chart_MASTER_20200210_digital.pdf
+Reusing existing connection to www.mq.edu.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14.3M
+    50K ......                                                  316M=0.03s
+
+2020-03-01 23:37:19 (16.1 Mb/s) - ‘/dev/null’ saved [57871]
+

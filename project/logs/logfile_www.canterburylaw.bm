@@ -1,0 +1,12 @@
+--2020-03-02 00:30:27--  http://www.canterburylaw.bm/images/COMPANIESASSEPARATELEGALPERSONS.pdf
+Resolving www.canterburylaw.bm (www.canterburylaw.bm)... 104.193.172.147
+Connecting to www.canterburylaw.bm (www.canterburylaw.bm)|104.193.172.147|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 92043 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 1.44M 0s
+    50K .......... .......... .......... .........            100% 2.34M=0.4s
+
+2020-03-02 00:30:28 (1.74 Mb/s) - ‘/dev/null’ saved [92043/92043]
+

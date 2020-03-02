@@ -1,0 +1,33 @@
+--2020-03-02 04:38:47--  http://htchivantara.is/2QDzqOE
+Resolving htchivantara.is (htchivantara.is)... 67.199.248.13, 67.199.248.12
+Connecting to htchivantara.is (htchivantara.is)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hitachivantara.com/en-us/pdfd/datasheet/content-platform-datasheet.pdf [following]
+--2020-03-02 04:38:48--  https://www.hitachivantara.com/en-us/pdfd/datasheet/content-platform-datasheet.pdf
+Resolving www.hitachivantara.com (www.hitachivantara.com)... 143.204.192.94, 143.204.192.21, 143.204.192.106, ...
+Connecting to www.hitachivantara.com (www.hitachivantara.com)|143.204.192.94|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Could not parse String-Transport-Security header
+Length: 846001 (826K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 1.85M 3s
+    50K .......... .......... .......... .......... .......... 12% 3.39M 2s
+   100K .......... .......... .......... .......... .......... 18% 3.40M 2s
+   150K .......... .......... .......... .......... .......... 24% 3.46M 2s
+   200K .......... .......... .......... .......... .......... 30%  160M 1s
+   250K .......... .......... .......... .......... .......... 36% 3.48M 1s
+   300K .......... .......... .......... .......... .......... 42% 3.44M 1s
+   350K .......... .......... .......... .......... .......... 48% 3.45M 1s
+   400K .......... .......... .......... .......... .......... 54% 3.41M 1s
+   450K .......... .......... .......... .......... .......... 60%  245M 1s
+   500K .......... .......... .......... .......... .......... 66% 3.38M 1s
+   550K .......... .......... .......... .......... .......... 72% 3.55M 0s
+   600K .......... .......... .......... .......... .......... 78% 3.43M 0s
+   650K .......... .......... .......... .......... .......... 84% 3.46M 0s
+   700K .......... .......... .......... .......... .......... 90%  135M 0s
+   750K .......... .......... .......... .......... .......... 96% 3.46M 0s
+   800K .......... .......... ......                          100% 5.20M=1.7s
+
+2020-03-02 04:38:50 (3.99 Mb/s) - ‘/dev/null’ saved [846001/846001]
+

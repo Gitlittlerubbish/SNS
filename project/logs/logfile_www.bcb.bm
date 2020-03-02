@@ -1,0 +1,24 @@
+--2020-03-02 00:30:44--  http://www.bcb.bm/media/137105/Form_J_Document_Certification_Guidance.pdf
+Resolving www.bcb.bm (www.bcb.bm)... 199.68.195.52
+Connecting to www.bcb.bm (www.bcb.bm)|199.68.195.52|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.bcb.bm/media/137105/Form_J_Document_Certification_Guidance.pdf [following]
+--2020-03-02 00:30:44--  https://www.bcb.bm/media/137105/Form_J_Document_Certification_Guidance.pdf
+Connecting to www.bcb.bm (www.bcb.bm)|199.68.195.52|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 473870 (463K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.96M 2s
+    50K .......... .......... .......... .......... .......... 21% 3.94M 1s
+   100K .......... .......... .......... .......... .......... 32%  102M 1s
+   150K .......... .......... .......... .......... .......... 43% 3.76M 1s
+   200K .......... .......... .......... .......... .......... 54% 2.03M 1s
+   250K .......... .......... .......... .......... .......... 64%  875M 0s
+   300K .......... .......... .......... .......... .......... 75% 3.88M 0s
+   350K .......... .......... .......... .......... .......... 86% 87.3M 0s
+   400K .......... .......... .......... .......... .......... 97% 2.03M 0s
+   450K .......... ..                                         100% 1.14G=0.9s
+
+2020-03-02 00:30:46 (4.04 Mb/s) - ‘/dev/null’ saved [473870/473870]
+

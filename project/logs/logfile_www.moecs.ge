@@ -1,0 +1,12 @@
+--2020-03-02 03:59:55--  http://www.moecs.ge/contentimage/konkursebi/sagamocdo_direqtorebi.pdf
+Resolving www.moecs.ge (www.moecs.ge)... 217.147.227.90
+Connecting to www.moecs.ge (www.moecs.ge)|217.147.227.90|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71046 (69K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 72% 2.73M 0s
+    50K .......... .........                                  100% 2.10M=0.2s
+
+2020-03-02 03:59:56 (2.52 Mb/s) - ‘/dev/null’ saved [71046/71046]
+

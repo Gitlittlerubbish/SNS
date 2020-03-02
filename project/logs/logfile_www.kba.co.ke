@@ -1,0 +1,19 @@
+--2020-03-02 05:29:52--  http://www.kba.co.ke/downloads/BankBranchesReport.pdf
+Resolving www.kba.co.ke (www.kba.co.ke)... 197.248.5.10
+Connecting to www.kba.co.ke (www.kba.co.ke)|197.248.5.10|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.kba.co.ke/downloads/BankBranchesReport.pdf [following]
+--2020-03-02 05:29:53--  https://www.kba.co.ke/downloads/BankBranchesReport.pdf
+Connecting to www.kba.co.ke (www.kba.co.ke)|197.248.5.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210479 (206K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  468K 3s
+    50K .......... .......... .......... .......... .......... 48% 2.00M 1s
+   100K .......... .......... .......... .......... .......... 72% 1.34M 1s
+   150K .......... .......... .......... .......... .......... 97% 2.00M 0s
+   200K .....                                                 100%  909M=1.6s
+
+2020-03-02 05:29:56 (1.06 Mb/s) - ‘/dev/null’ saved [210479/210479]
+

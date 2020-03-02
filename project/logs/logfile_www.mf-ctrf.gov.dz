@@ -1,0 +1,28 @@
+--2020-03-01 22:27:23--  http://www.mf-ctrf.gov.dz/presse/ar2171.pdf
+Resolving www.mf-ctrf.gov.dz (www.mf-ctrf.gov.dz)... 193.194.90.18
+Connecting to www.mf-ctrf.gov.dz (www.mf-ctrf.gov.dz)|193.194.90.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135153 (132K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 2.19M 0s
+    50K .......... .......... .......... .......... .......... 75% 6.42M 0s
+   100K .......... .......... .......... .                    100% 4.40M=0.3s
+
+2020-03-01 22:27:25 (3.49 Mb/s) - ‘/dev/null’ saved [135153/135153]
+
+--2020-03-01 22:27:25--  http://www.mf-ctrf.gov.dz/presse/N1538413.pdf
+Resolving www.mf-ctrf.gov.dz (www.mf-ctrf.gov.dz)... 193.194.90.18
+Connecting to www.mf-ctrf.gov.dz (www.mf-ctrf.gov.dz)|193.194.90.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213263 (208K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 2.10M 1s
+    50K .......... .......... .......... .......... .......... 48% 6.20M 0s
+   100K .......... .......... .......... .......... .......... 72% 5.86M 0s
+   150K .......... .......... .......... .......... .......... 96% 6.29M 0s
+   200K ........                                              100%  101M=0.4s
+
+2020-03-01 22:27:25 (4.30 Mb/s) - ‘/dev/null’ saved [213263/213263]
+

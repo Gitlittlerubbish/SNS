@@ -1,0 +1,15 @@
+--2020-03-02 01:02:14--  http://www.ccbh.ba/public/down/USTAV_BOSNE_I_HERCEGOVINE_bos.pdf
+Resolving www.ccbh.ba (www.ccbh.ba)... 195.222.34.126
+Connecting to www.ccbh.ba (www.ccbh.ba)|195.222.34.126|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 253940 (248K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 2.87M 1s
+    50K .......... .......... .......... .......... .......... 40% 8.35M 0s
+   100K .......... .......... .......... .......... .......... 60% 38.6M 0s
+   150K .......... .......... .......... .......... .......... 80% 10.1M 0s
+   200K .......... .......... .......... .......... .......   100% 44.5M=0.3s
+
+2020-03-02 01:02:15 (8.06 Mb/s) - ‘/dev/null’ saved [253940/253940]
+

@@ -1,0 +1,13 @@
+--2020-03-02 06:17:41--  http://www.osteos.org.lb/admin/uploads/10p.pdf
+Resolving www.osteos.org.lb (www.osteos.org.lb)... 69.167.189.43
+Connecting to www.osteos.org.lb (www.osteos.org.lb)|69.167.189.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 120418 (118K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 2.02M 0s
+    50K .......... .......... .......... .......... .......... 85% 4.07M 0s
+   100K .......... .......                                    100% 86.3M=0.3s
+
+2020-03-02 06:17:42 (3.16 Mb/s) - ‘/dev/null’ saved [120418/120418]
+

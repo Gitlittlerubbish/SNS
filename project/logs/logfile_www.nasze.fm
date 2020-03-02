@@ -1,0 +1,23 @@
+--2020-03-02 07:34:53--  http://www.nasze.fm/files/WynikiZWoltyzerka.pdf
+Resolving www.nasze.fm (www.nasze.fm)... 46.45.86.250
+Connecting to www.nasze.fm (www.nasze.fm)|46.45.86.250|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nasze.fm/files/WynikiZWoltyzerka.pdf [following]
+--2020-03-02 07:34:54--  https://www.nasze.fm/files/WynikiZWoltyzerka.pdf
+Connecting to www.nasze.fm (www.nasze.fm)|46.45.86.250|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 422441 (413K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 2.90M 1s
+    50K .......... .......... .......... .......... .......... 24% 8.73M 1s
+   100K .......... .......... .......... .......... .......... 36%  167M 0s
+   150K .......... .......... .......... .......... .......... 48% 8.79M 0s
+   200K .......... .......... .......... .......... .......... 60%  241M 0s
+   250K .......... .......... .......... .......... .......... 72% 8.56M 0s
+   300K .......... .......... .......... .......... .......... 84%  146M 0s
+   350K .......... .......... .......... .......... .......... 96% 9.34M 0s
+   400K .......... ..                                         100%  108M=0.3s
+
+2020-03-02 07:34:54 (10.1 Mb/s) - ‘/dev/null’ saved [422441/422441]
+

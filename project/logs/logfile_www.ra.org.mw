@@ -1,0 +1,11 @@
+--2020-03-02 06:57:44--  http://www.ra.org.mw/documents/DistanceChart.pdf
+Resolving www.ra.org.mw (www.ra.org.mw)... 41.216.228.28
+Connecting to www.ra.org.mw (www.ra.org.mw)|41.216.228.28|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14894 (15K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                       100%  627K=0.2s
+
+2020-03-02 06:57:45 (627 Kb/s) - ‘/dev/null’ saved [14894/14894]
+

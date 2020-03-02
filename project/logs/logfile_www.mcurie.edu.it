@@ -1,0 +1,17 @@
+--2020-03-02 05:09:04--  http://www.mcurie.edu.it/files/bettini.loretta/Prodotti_notevoli.pdf
+Resolving www.mcurie.edu.it (www.mcurie.edu.it)... 46.37.24.87
+Connecting to www.mcurie.edu.it (www.mcurie.edu.it)|46.37.24.87|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mcurie.edu.it/files/bettini.loretta/Prodotti_notevoli.pdf [following]
+--2020-03-02 05:09:04--  https://www.mcurie.edu.it/files/bettini.loretta/Prodotti_notevoli.pdf
+Connecting to www.mcurie.edu.it (www.mcurie.edu.it)|46.37.24.87|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 134128 (131K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 12.6M 0s
+    50K .......... .......... .......... .......... .......... 76% 12.9M 0s
+   100K .......... .......... ..........                      100%  783M=0.06s
+
+2020-03-02 05:09:05 (16.6 Mb/s) - ‘/dev/null’ saved [134128/134128]
+

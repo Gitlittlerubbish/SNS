@@ -1,0 +1,15 @@
+--2020-03-02 06:59:51--  http://www.citibank.com.my/cbtltnc/
+Resolving www.citibank.com.my (www.citibank.com.my)... 104.78.163.79
+Connecting to www.citibank.com.my (www.citibank.com.my)|104.78.163.79|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.citibank.com.my/cbtltnc/ [following]
+--2020-03-02 06:59:51--  https://www.citibank.com.my/cbtltnc/
+Connecting to www.citibank.com.my (www.citibank.com.my)|104.78.163.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 357 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 71.4M=0s
+
+2020-03-02 06:59:52 (71.4 Mb/s) - ‘/dev/null’ saved [357/357]
+

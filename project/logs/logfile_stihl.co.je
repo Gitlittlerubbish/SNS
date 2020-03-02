@@ -1,0 +1,16 @@
+--2020-03-02 05:22:28--  http://stihl.co.je/p/media/download/en-com/C_EKB_Hardware_GB_2009_05_22.pdf
+Resolving stihl.co.je (stihl.co.je)... 46.22.43.205
+Connecting to stihl.co.je (stihl.co.je)|46.22.43.205|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.stihl.com/p/media/download/en-com/C_EKB_Hardware_GB_2009_05_22.pdf [following]
+--2020-03-02 05:22:28--  https://www.stihl.com/p/media/download/en-com/C_EKB_Hardware_GB_2009_05_22.pdf
+Resolving www.stihl.com (www.stihl.com)... 95.101.85.41
+Connecting to www.stihl.com (www.stihl.com)|95.101.85.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 25446 (25K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ....                            100% 57.5M=0.004s
+
+2020-03-02 05:22:28 (57.5 Mb/s) - ‘/dev/null’ saved [25446/25446]
+

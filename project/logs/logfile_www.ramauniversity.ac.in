@@ -1,0 +1,19 @@
+--2020-03-02 04:44:11--  http://www.ramauniversity.ac.in/icipr2018/Bluebook.pdf
+Resolving www.ramauniversity.ac.in (www.ramauniversity.ac.in)... 182.50.151.47
+Connecting to www.ramauniversity.ac.in (www.ramauniversity.ac.in)|182.50.151.47|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://www.ramauniversity.ac.in/icipr2018/Bluebook.pdf [following]
+--2020-03-02 04:44:11--  https://www.ramauniversity.ac.in/icipr2018/Bluebook.pdf
+Connecting to www.ramauniversity.ac.in (www.ramauniversity.ac.in)|182.50.151.47|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 251983 (246K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20%  145M 0s
+    50K .......... .......... .......... .......... .......... 40% 2.30M 0s
+   100K .......... .......... .......... .......... .......... 60% 95.0M 0s
+   150K .......... .......... .......... .......... .......... 81% 2.36M 0s
+   200K .......... .......... .......... .......... ......    100%  344M=0.4s
+
+2020-03-02 04:44:12 (5.60 Mb/s) - ‘/dev/null’ saved [251983/251983]
+

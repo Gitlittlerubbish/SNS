@@ -1,0 +1,19 @@
+--2020-03-02 05:31:52--  http://eregulations.invest.go.ke/media/SurveyAct25of1961.pdf
+Resolving eregulations.invest.go.ke (eregulations.invest.go.ke)... 136.243.24.150
+Connecting to eregulations.invest.go.ke (eregulations.invest.go.ke)|136.243.24.150|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://eregulations.invest.go.ke/media/SurveyAct25of1961.pdf [following]
+--2020-03-02 05:31:54--  https://eregulations.invest.go.ke/media/SurveyAct25of1961.pdf
+Connecting to eregulations.invest.go.ke (eregulations.invest.go.ke)|136.243.24.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220523 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 4.72M 0s
+    50K .......... .......... .......... .......... .......... 46% 62.5M 0s
+   100K .......... .......... .......... .......... .......... 69% 2.85M 0s
+   150K .......... .......... .......... .......... .......... 92%  359M 0s
+   200K .......... .....                                      100%  953M=0.2s
+
+2020-03-02 05:31:55 (7.41 Mb/s) - ‘/dev/null’ saved [220523/220523]
+

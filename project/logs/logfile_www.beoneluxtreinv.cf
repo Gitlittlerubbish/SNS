@@ -1,0 +1,13 @@
+--2020-03-02 02:00:49--  http://www.beoneluxtreinv.cf/extract/2415
+Resolving www.beoneluxtreinv.cf (www.beoneluxtreinv.cf)... 104.18.53.149, 104.18.52.149
+Connecting to www.beoneluxtreinv.cf (www.beoneluxtreinv.cf)|104.18.53.149|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.92M
+    50K .......... .......... .......... .......... .......... 9.42M
+   100K ..........                                              712M=0.1s
+
+2020-03-02 02:00:50 (7.13 Mb/s) - ‘/dev/null’ saved [112992]
+

@@ -1,0 +1,18 @@
+--2020-03-01 23:05:29--  http://www.enbiensa.ag/PDF_Dateien/Schwedenbitter.pdf
+Resolving www.enbiensa.ag (www.enbiensa.ag)... 85.236.56.247
+Connecting to www.enbiensa.ag (www.enbiensa.ag)|85.236.56.247|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.enbiensa.ag/PDF_Dateien/Schwedenbitter.pdf [following]
+--2020-03-01 23:05:29--  https://www.enbiensa.ag/PDF_Dateien/Schwedenbitter.pdf
+Connecting to www.enbiensa.ag (www.enbiensa.ag)|85.236.56.247|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163505 (160K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 7.67M 0s
+    50K .......... .......... .......... .......... .......... 62% 93.9M 0s
+   100K .......... .......... .......... .......... .......... 93% 15.1M 0s
+   150K .........                                             100%  183M=0.09s
+
+2020-03-01 23:05:29 (15.3 Mb/s) - ‘/dev/null’ saved [163505/163505]
+

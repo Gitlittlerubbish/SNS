@@ -1,0 +1,11 @@
+--2020-03-02 02:37:03--  http://pssn.cg/images/Bulletins/LOGICIEL-ESPION.pdf
+Resolving pssn.cg (pssn.cg)... 91.234.195.182
+Connecting to pssn.cg (pssn.cg)|91.234.195.182|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                       577M=0s
+
+2020-03-02 02:37:03 (577 Mb/s) - ‘/dev/null’ saved [1658]
+

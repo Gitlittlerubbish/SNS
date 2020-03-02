@@ -1,0 +1,18 @@
+--2020-03-02 04:30:02--  http://www.eduhk.hk/acadprog/NLS_Definition_PG.pdf
+Resolving www.eduhk.hk (www.eduhk.hk)... 202.45.36.38
+Connecting to www.eduhk.hk (www.eduhk.hk)|202.45.36.38|:80... connected.
+HTTP request sent, awaiting response... 301 Moved permanently
+Location: https://www.eduhk.hk/acadprog/NLS_Definition_PG.pdf [following]
+--2020-03-02 04:30:03--  https://www.eduhk.hk/acadprog/NLS_Definition_PG.pdf
+Connecting to www.eduhk.hk (www.eduhk.hk)|202.45.36.38|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 195951 (191K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26%  918K 1s
+    50K .......... .......... .......... .......... .......... 52%  956K 1s
+   100K .......... .......... .......... .......... .......... 78% 1000K 0s
+   150K .......... .......... .......... .......... .         100% 1.58M=1.5s
+
+2020-03-02 04:30:06 (1.05 Mb/s) - ‘/dev/null’ saved [195951/195951]
+

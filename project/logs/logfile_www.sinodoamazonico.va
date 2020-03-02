@@ -1,0 +1,14 @@
+--2020-03-02 04:24:04--  http://www.sinodoamazonico.va/content/sinodoamazonico/pt/documentos/documento-preparatorio.pdf
+Resolving www.sinodoamazonico.va (www.sinodoamazonico.va)... 185.152.70.30
+Connecting to www.sinodoamazonico.va (www.sinodoamazonico.va)|185.152.70.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198220 (194K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 5.67M 0s
+    50K .......... .......... .......... .......... .......... 51% 11.8M 0s
+   100K .......... .......... .......... .......... .......... 77% 15.0M 0s
+   150K .......... .......... .......... .......... ...       100%  192M=0.1s
+
+2020-03-02 04:24:04 (11.6 Mb/s) - ‘/dev/null’ saved [198220/198220]
+

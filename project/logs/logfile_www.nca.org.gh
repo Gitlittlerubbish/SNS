@@ -1,0 +1,18 @@
+--2020-03-02 04:02:40--  http://www.nca.org.gh/assets/Uploads/FAQs_QoS_Monitoring_2018_Q1.pdf
+Resolving www.nca.org.gh (www.nca.org.gh)... 67.225.152.146
+Connecting to www.nca.org.gh (www.nca.org.gh)|67.225.152.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nca.org.gh/assets/Uploads/FAQs_QoS_Monitoring_2018_Q1.pdf [following]
+--2020-03-02 04:02:41--  https://www.nca.org.gh/assets/Uploads/FAQs_QoS_Monitoring_2018_Q1.pdf
+Connecting to www.nca.org.gh (www.nca.org.gh)|67.225.152.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201621 (197K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 2.03M 1s
+    50K .......... .......... .......... .......... .......... 50% 4.15M 0s
+   100K .......... .......... .......... .......... .......... 76%  138M 0s
+   150K .......... .......... .......... .......... ......    100%  151M=0.3s
+
+2020-03-02 04:02:42 (5.28 Mb/s) - ‘/dev/null’ saved [201621/201621]
+

@@ -1,0 +1,14 @@
+--2020-03-01 23:56:52--  http://roadtraffic.gov.bs/wp-content/uploads/2016/04/CabsAct_1.pdf
+Resolving roadtraffic.gov.bs (roadtraffic.gov.bs)... 24.51.100.235
+Connecting to roadtraffic.gov.bs (roadtraffic.gov.bs)|24.51.100.235|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160406 (157K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.05M 1s
+    50K .......... .......... .......... .......... .......... 63% 3.72M 0s
+   100K .......... .......... .......... .......... .......... 95% 1.44M 0s
+   150K ......                                                100%  990M=0.8s
+
+2020-03-01 23:56:53 (1.64 Mb/s) - ‘/dev/null’ saved [160406/160406]
+

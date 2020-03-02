@@ -1,0 +1,23 @@
+--2020-03-02 06:16:38--  http://www.un.org.lb/library/assets/Water.pdf
+Resolving www.un.org.lb (www.un.org.lb)... 72.18.146.203
+Connecting to www.un.org.lb (www.un.org.lb)|72.18.146.203|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.un.org.lb/library/assets/Water.pdf [following]
+--2020-03-02 06:16:39--  https://www.un.org.lb/library/assets/Water.pdf
+Connecting to www.un.org.lb (www.un.org.lb)|72.18.146.203|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 451847 (441K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.87M 2s
+    50K .......... .......... .......... .......... .......... 22% 3.78M 1s
+   100K .......... .......... .......... .......... .......... 33% 52.9M 1s
+   150K .......... .......... .......... .......... .......... 45%  207M 0s
+   200K .......... .......... .......... .......... .......... 56% 3.95M 0s
+   250K .......... .......... .......... .......... .......... 67% 73.1M 0s
+   300K .......... .......... .......... .......... .......... 79% 4.08M 0s
+   350K .......... .......... .......... .......... .......... 90% 80.9M 0s
+   400K .......... .......... .......... .......... .         100%  106M=0.6s
+
+2020-03-02 06:16:41 (6.51 Mb/s) - ‘/dev/null’ saved [451847/451847]
+

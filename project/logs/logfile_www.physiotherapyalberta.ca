@@ -1,0 +1,14 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:51:34--  https://www.physiotherapyalberta.ca/course_materials/ohs_module_6_handout.pdf
+Resolving www.physiotherapyalberta.ca (www.physiotherapyalberta.ca)... 64.141.55.139
+Connecting to www.physiotherapyalberta.ca (www.physiotherapyalberta.ca)|64.141.55.139|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143688 (140K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35%  876K 1s
+    50K .......... .......... .......... .......... .......... 71%  811K 0s
+   100K .......... .......... .......... ..........           100%  152M=1.0s
+
+2020-03-02 01:51:36 (1.18 Mb/s) - ‘/dev/null’ saved [143688/143688]
+

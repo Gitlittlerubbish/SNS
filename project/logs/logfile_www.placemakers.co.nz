@@ -1,0 +1,26 @@
+--2020-03-02 08:31:11--  http://www.placemakers.co.nz/media/10749/layingpavingstones.pdf
+Resolving www.placemakers.co.nz (www.placemakers.co.nz)... 185.71.230.35
+Connecting to www.placemakers.co.nz (www.placemakers.co.nz)|185.71.230.35|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.placemakers.co.nz/media/10749/layingpavingstones.pdf [following]
+--2020-03-02 08:31:12--  https://www.placemakers.co.nz/media/10749/layingpavingstones.pdf
+Connecting to www.placemakers.co.nz (www.placemakers.co.nz)|185.71.230.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 613455 (599K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8%  664K 7s
+    50K .......... .......... .......... .......... .......... 16% 1.33M 5s
+   100K .......... .......... .......... .......... .......... 25%  216M 3s
+   150K .......... .......... .......... .......... .......... 33% 1.36M 2s
+   200K .......... .......... .......... .......... .......... 41% 1.32M 2s
+   250K .......... .......... .......... .......... .......... 50% 1.34M 2s
+   300K .......... .......... .......... .......... .......... 58%  380M 1s
+   350K .......... .......... .......... .......... .......... 66% 1.35M 1s
+   400K .......... .......... .......... .......... .......... 75% 1.33M 1s
+   450K .......... .......... .......... .......... .......... 83% 1.34M 1s
+   500K .......... .......... .......... .......... .......... 91% 1.50M 0s
+   550K .......... .......... .......... .......... ......... 100%  131M=3.0s
+
+2020-03-02 08:31:17 (1.61 Mb/s) - ‘/dev/null’ saved [613455/613455]
+

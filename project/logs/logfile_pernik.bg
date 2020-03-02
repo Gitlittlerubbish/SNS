@@ -1,0 +1,12 @@
+--2020-03-02 01:31:27--  http://pernik.bg/pdf/PAZPISANIE21.pdf
+Resolving pernik.bg (pernik.bg)... 91.196.125.77
+Connecting to pernik.bg (pernik.bg)|91.196.125.77|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53148 (52K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 96% 4.46M 0s
+    50K .                                                     100%  133M=0.09s
+
+2020-03-02 01:31:28 (4.62 Mb/s) - ‘/dev/null’ saved [53148/53148]
+

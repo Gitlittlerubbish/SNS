@@ -1,0 +1,23 @@
+--2020-03-02 06:29:22--  http://www.internet.lu/documents/guides/mail_iphone.pdf
+Resolving www.internet.lu (www.internet.lu)... 195.218.25.11
+Connecting to www.internet.lu (www.internet.lu)|195.218.25.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.internet.lu/documents/guides/mail_iphone.pdf [following]
+--2020-03-02 06:29:22--  https://www.internet.lu/documents/guides/mail_iphone.pdf
+Connecting to www.internet.lu (www.internet.lu)|195.218.25.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 425952 (416K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 8.86M 0s
+    50K .......... .......... .......... .......... .......... 24% 16.2M 0s
+   100K .......... .......... .......... .......... .......... 36%  129M 0s
+   150K .......... .......... .......... .......... .......... 48%  331M 0s
+   200K .......... .......... .......... .......... .......... 60% 17.5M 0s
+   250K .......... .......... .......... .......... .......... 72%  212M 0s
+   300K .......... .......... .......... .......... .......... 84% 27.5M 0s
+   350K .......... .......... .......... .......... .......... 96%  387M 0s
+   400K .......... .....                                      100%  131M=0.1s
+
+2020-03-02 06:29:22 (28.8 Mb/s) - ‘/dev/null’ saved [425952/425952]
+

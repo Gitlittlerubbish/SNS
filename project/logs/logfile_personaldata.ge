@@ -1,0 +1,19 @@
+--2020-03-02 03:57:04--  http://personaldata.ge/ka/download/3022
+Resolving personaldata.ge (personaldata.ge)... 217.147.225.130
+Connecting to personaldata.ge (personaldata.ge)|217.147.225.130|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://personaldata.ge/ka/download/3022 [following]
+--2020-03-02 03:57:04--  https://personaldata.ge/ka/download/3022
+Connecting to personaldata.ge (personaldata.ge)|217.147.225.130|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 205761 (201K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 2.66M 0s
+    50K .......... .......... .......... .......... .......... 49% 5.42M 0s
+   100K .......... .......... .......... .......... .......... 74%  134M 0s
+   150K .......... .......... .......... .......... .......... 99%  175M 0s
+   200K                                                       100%  154K=0.2s
+
+2020-03-02 03:57:05 (7.00 Mb/s) - ‘/dev/null’ saved [205761/205761]
+

@@ -1,0 +1,25 @@
+--2020-03-02 08:33:25--  http://www.caravancamping.co.nz/resources/file/eberspacher_801_series_operating.pdf
+Resolving www.caravancamping.co.nz (www.caravancamping.co.nz)... 52.63.229.28
+Connecting to www.caravancamping.co.nz (www.caravancamping.co.nz)|52.63.229.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.caravancamping.co.nz/resources/file/eberspacher_801_series_operating.pdf [following]
+--2020-03-02 08:33:26--  https://www.caravancamping.co.nz/resources/file/eberspacher_801_series_operating.pdf
+Connecting to www.caravancamping.co.nz (www.caravancamping.co.nz)|52.63.229.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 528329 (516K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9%  654K 6s
+    50K .......... .......... .......... .......... .......... 19% 1.33M 4s
+   100K .......... .......... .......... .......... .......... 29% 1.32M 3s
+   150K .......... .......... .......... .......... .......... 38% 1.35M 2s
+   200K .......... .......... .......... .......... .......... 48% 1.33M 2s
+   250K .......... .......... .......... .......... .......... 58%  301M 1s
+   300K .......... .......... .......... .......... .......... 67% 1.38M 1s
+   350K .......... .......... .......... .......... .......... 77% 1.40M 1s
+   400K .......... .......... .......... .......... .......... 87% 1.23M 0s
+   450K .......... .......... .......... .......... .......... 96% 1.33M 0s
+   500K .......... .....                                      100%  806M=3.1s
+
+2020-03-02 08:33:31 (1.37 Mb/s) - ‘/dev/null’ saved [528329/528329]
+

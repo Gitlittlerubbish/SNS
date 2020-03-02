@@ -1,0 +1,12 @@
+--2020-03-01 23:49:52--  http://www.nigbrokers.az/files/2019/belinka/t_belinka_tung_oil_1an.pdf
+Resolving www.nigbrokers.az (www.nigbrokers.az)... 95.217.57.134
+Connecting to www.nigbrokers.az (www.nigbrokers.az)|95.217.57.134|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98115 (96K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52% 5.46M 0s
+    50K .......... .......... .......... .......... .....     100%  555M=0.08s
+
+2020-03-01 23:49:52 (10.4 Mb/s) - ‘/dev/null’ saved [98115/98115]
+

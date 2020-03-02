@@ -1,0 +1,11 @@
+--2020-03-02 06:25:09--  http://www.itil.li/ss_Release.pdf
+Resolving www.itil.li (www.itil.li)... 217.26.55.185
+Connecting to www.itil.li (www.itil.li)|217.26.55.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33295 (33K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..                   100% 10.6M=0.03s
+
+2020-03-02 06:25:09 (10.6 Mb/s) - ‘/dev/null’ saved [33295/33295]
+

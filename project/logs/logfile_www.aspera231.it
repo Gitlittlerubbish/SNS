@@ -1,0 +1,17 @@
+--2020-03-02 05:09:12--  http://www.aspera231.it/images/documenti/nozioni_reati.pdf
+Resolving www.aspera231.it (www.aspera231.it)... 212.78.2.71
+Connecting to www.aspera231.it (www.aspera231.it)|212.78.2.71|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aspera231.it/images/documenti/nozioni_reati.pdf [following]
+--2020-03-02 05:09:12--  https://www.aspera231.it/images/documenti/nozioni_reati.pdf
+Connecting to www.aspera231.it (www.aspera231.it)|212.78.2.71|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 129938 (127K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 4.96M 0s
+    50K .......... .......... .......... .......... .......... 78% 10.1M 0s
+   100K .......... .......... ......                          100%  140M=0.1s
+
+2020-03-02 05:09:12 (8.34 Mb/s) - ‘/dev/null’ saved [129938/129938]
+

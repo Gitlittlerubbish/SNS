@@ -1,0 +1,12 @@
+--2020-03-02 04:00:18--  http://www.dosisnet.de/trans.pdf
+Resolving www.dosisnet.de (www.dosisnet.de)... 217.160.231.164
+Connecting to www.dosisnet.de (www.dosisnet.de)|217.160.231.164|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82248 (80K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62% 11.0M 0s
+    50K .......... .......... ..........                      100% 28.5M=0.05s
+
+2020-03-02 04:00:19 (14.3 Mb/s) - ‘/dev/null’ saved [82248/82248]
+

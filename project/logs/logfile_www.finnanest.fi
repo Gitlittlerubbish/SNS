@@ -1,0 +1,12 @@
+--2020-03-02 03:45:25--  http://www.finnanest.fi/files/heiskanen_transdermaali.pdf
+Resolving www.finnanest.fi (www.finnanest.fi)... 84.234.76.250
+Connecting to www.finnanest.fi (www.finnanest.fi)|84.234.76.250|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82240 (80K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62% 5.10M 0s
+    50K .......... .......... ..........                      100% 6.37M=0.1s
+
+2020-03-02 03:45:25 (5.51 Mb/s) - ‘/dev/null’ saved [82240/82240]
+

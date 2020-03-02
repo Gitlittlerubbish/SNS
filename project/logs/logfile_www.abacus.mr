@@ -1,0 +1,15 @@
+--2020-03-02 07:23:36--  http://www.abacus.mr/fr/images/coordinateur.pdf
+Resolving www.abacus.mr (www.abacus.mr)... 174.142.95.74
+Connecting to www.abacus.mr (www.abacus.mr)|174.142.95.74|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 223637 (218K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 2.21M 1s
+    50K .......... .......... .......... .......... .......... 45% 4.47M 0s
+   100K .......... .......... .......... .......... .......... 68% 66.2M 0s
+   150K .......... .......... .......... .......... .......... 91%  374M 0s
+   200K .......... ........                                   100% 1.77M=0.4s
+
+2020-03-02 07:23:37 (4.84 Mb/s) - ‘/dev/null’ saved [223637/223637]
+

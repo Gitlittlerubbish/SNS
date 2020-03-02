@@ -1,0 +1,16 @@
+--2020-03-02 02:55:17--  http://reports.hanfa.hr/Documentation/SpecificationFile/977
+Resolving reports.hanfa.hr (reports.hanfa.hr)... 31.45.233.244
+Connecting to reports.hanfa.hr (reports.hanfa.hr)|31.45.233.244|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 288390 (282K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 2.73M 1s
+    50K .......... .......... .......... .......... .......... 35% 8.53M 0s
+   100K .......... .......... .......... .......... .......... 53% 48.9M 0s
+   150K .......... .......... .......... .......... .......... 71% 8.92M 0s
+   200K .......... .......... .......... .......... .......... 88% 99.4M 0s
+   250K .......... .......... .......... .                    100%  141M=0.3s
+
+2020-03-02 02:55:18 (8.93 Mb/s) - ‘/dev/null’ saved [288390/288390]
+

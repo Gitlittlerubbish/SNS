@@ -1,0 +1,15 @@
+--2020-03-02 03:45:32--  http://hammasteknikko.fi/tiedostot/Kullaa3.pdf
+Resolving hammasteknikko.fi (hammasteknikko.fi)... 77.240.19.38
+Connecting to hammasteknikko.fi (hammasteknikko.fi)|77.240.19.38|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 237156 (232K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 5.61M 0s
+    50K .......... .......... .......... .......... .......... 43% 11.2M 0s
+   100K .......... .......... .......... .......... .......... 64%  156M 0s
+   150K .......... .......... .......... .......... .......... 86%  182M 0s
+   200K .......... .......... .......... .                    100% 7.41M=0.1s
+
+2020-03-02 03:45:33 (12.7 Mb/s) - ‘/dev/null’ saved [237156/237156]
+

@@ -1,0 +1,11 @@
+--2020-03-01 23:41:36--  http://www.psr.jku.at/PSR2000/9_3Banch.pdF
+Resolving www.psr.jku.at (www.psr.jku.at)... 140.78.3.19
+Connecting to www.psr.jku.at (www.psr.jku.at)|140.78.3.19|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47151 (46K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 5.71M=0.07s
+
+2020-03-01 23:41:36 (5.71 Mb/s) - ‘/dev/null’ saved [47151/47151]
+

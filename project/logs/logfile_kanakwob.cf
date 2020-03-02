@@ -1,0 +1,12 @@
+--2020-03-02 02:01:58--  http://kanakwob.cf/images/manualer/sr3001.pdf
+Resolving kanakwob.cf (kanakwob.cf)... 104.28.30.50, 104.28.31.50
+Connecting to kanakwob.cf (kanakwob.cf)|104.28.30.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19.8M
+    50K .......... .......... .......... ..........             137M=0.02s
+
+2020-03-02 02:01:59 (32.1 Mb/s) - ‘/dev/null’ saved [92937]
+

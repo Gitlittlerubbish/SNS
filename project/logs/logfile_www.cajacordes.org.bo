@@ -1,0 +1,24 @@
+--2020-03-02 00:50:01--  http://www.cajacordes.org.bo/uploads/REQ_HIJOS.pdf
+Resolving www.cajacordes.org.bo (www.cajacordes.org.bo)... 185.201.11.119
+Connecting to www.cajacordes.org.bo (www.cajacordes.org.bo)|185.201.11.119|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91267 (89K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56% 2.12M 0s
+    50K .......... .......... .......... .........            100% 3.42M=0.3s
+
+2020-03-02 00:50:02 (2.54 Mb/s) - ‘/dev/null’ saved [91267/91267]
+
+--2020-03-02 00:50:02--  http://www.cajacordes.org.bo/uploads/REQ_ESPOSA.pdf
+Resolving www.cajacordes.org.bo (www.cajacordes.org.bo)... 185.201.11.119
+Connecting to www.cajacordes.org.bo (www.cajacordes.org.bo)|185.201.11.119|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90977 (89K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56% 2.13M 0s
+    50K .......... .......... .......... ........             100%  123M=0.2s
+
+2020-03-02 00:50:03 (3.73 Mb/s) - ‘/dev/null’ saved [90977/90977]
+

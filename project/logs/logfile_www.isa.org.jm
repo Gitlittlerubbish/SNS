@@ -1,0 +1,17 @@
+--2020-03-02 05:11:28--  http://www.isa.org.jm/files/documents/EN/Workshops/Jul06/C-Antrium-Talk1.pdf
+Resolving www.isa.org.jm (www.isa.org.jm)... 3.230.227.208
+Connecting to www.isa.org.jm (www.isa.org.jm)|3.230.227.208|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ran-s3.s3.amazonaws.com/isa.org.jm/s3fs-public/documents/EN/Workshops/Jul06/C-Antrium-Talk1.pdf [following]
+--2020-03-02 05:11:29--  https://ran-s3.s3.amazonaws.com/isa.org.jm/s3fs-public/documents/EN/Workshops/Jul06/C-Antrium-Talk1.pdf
+Resolving ran-s3.s3.amazonaws.com (ran-s3.s3.amazonaws.com)... 52.216.99.179
+Connecting to ran-s3.s3.amazonaws.com (ran-s3.s3.amazonaws.com)|52.216.99.179|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53191 (52K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 96% 4.81M 0s
+    50K .                                                     100%  257M=0.09s
+
+2020-03-02 05:11:29 (4.99 Mb/s) - ‘/dev/null’ saved [53191/53191]
+

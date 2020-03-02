@@ -1,0 +1,15 @@
+--2020-03-02 04:07:40--  http://www.djshop.gr/Attachment/DownloadFile%3FdownloadId%3D5143
+Resolving www.djshop.gr (www.djshop.gr)... 138.201.22.88
+Connecting to www.djshop.gr (www.djshop.gr)|138.201.22.88|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errorpage.htm?aspxerrorpath=/Attachment/DownloadFile?downloadId=5143 [following]
+--2020-03-02 04:07:40--  http://www.djshop.gr/errorpage.htm?aspxerrorpath=/Attachment/DownloadFile?downloadId=5143
+Reusing existing connection to www.djshop.gr:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1215 (1.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  648M=0s
+
+2020-03-02 04:07:40 (648 Mb/s) - ‘/dev/null’ saved [1215/1215]
+

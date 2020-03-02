@@ -1,0 +1,11 @@
+--2020-03-02 05:28:02--  http://www.bikastroyservice.kz/cms/uploads/file_1535530701_95180532.pdf
+Resolving www.bikastroyservice.kz (www.bikastroyservice.kz)... 89.219.33.203
+Connecting to www.bikastroyservice.kz (www.bikastroyservice.kz)|89.219.33.203|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47533 (46K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 1.71M=0.2s
+
+2020-03-02 05:28:03 (1.71 Mb/s) - ‘/dev/null’ saved [47533/47533]
+

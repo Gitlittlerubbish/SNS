@@ -1,0 +1,14 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 00:30:25--  https://www.wasexo.bj/IMG/pdf/baccalaureat-benin_siou-2015_meilleurs_laureats.pdf
+Resolving www.wasexo.bj (www.wasexo.bj)... 51.255.169.45
+Connecting to www.wasexo.bj (www.wasexo.bj)|51.255.169.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139139 (136K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 16.8M 0s
+    50K .......... .......... .......... .......... .......... 73% 17.8M 0s
+   100K .......... .......... .......... .....                100%  659M=0.05s
+
+2020-03-02 00:30:26 (23.2 Mb/s) - ‘/dev/null’ saved [139139/139139]
+

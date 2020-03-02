@@ -1,0 +1,13 @@
+--2020-03-02 03:51:53--  http://www.churnwobald.ga/medizin
+Resolving www.churnwobald.ga (www.churnwobald.ga)... 104.27.166.97, 104.27.167.97
+Connecting to www.churnwobald.ga (www.churnwobald.ga)|104.27.166.97|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 4.87M
+    50K .......... .......... .......... .......... .......... 9.92M
+   100K .......... .......... .......... .......... .....       194M=0.1s
+
+2020-03-02 03:51:54 (9.39 Mb/s) - ‘/dev/null’ saved [149421]
+

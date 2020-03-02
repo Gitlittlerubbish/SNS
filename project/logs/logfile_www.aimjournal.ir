@@ -1,0 +1,14 @@
+--2020-03-02 04:54:37--  http://www.aimjournal.ir/PDF/1145
+Resolving www.aimjournal.ir (www.aimjournal.ir)... 94.184.190.12
+Connecting to www.aimjournal.ir (www.aimjournal.ir)|94.184.190.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164714 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.28M 1s
+    50K .......... .......... .......... .......... .......... 62% 4.32M 0s
+   100K .......... .......... .......... .......... .......... 93% 26.6M 0s
+   150K ..........                                            100% 1.10M=0.5s
+
+2020-03-02 04:54:38 (2.59 Mb/s) - ‘/dev/null’ saved [164714/164714]
+

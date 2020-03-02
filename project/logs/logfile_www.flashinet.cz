@@ -1,0 +1,11 @@
+--2020-03-02 03:02:16--  http://www.flashinet.cz/
+Resolving www.flashinet.cz (www.flashinet.cz)... 81.95.96.75
+Connecting to www.flashinet.cz (www.flashinet.cz)|81.95.96.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 304 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 97.3M=0s
+
+2020-03-02 03:02:16 (97.3 Mb/s) - ‘/dev/null’ saved [304/304]
+

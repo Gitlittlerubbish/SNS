@@ -1,0 +1,17 @@
+--2020-03-02 01:01:53--  http://aposo.gov.ba/sadrzaj/uploads/Framework-Law.pdf
+Resolving aposo.gov.ba (aposo.gov.ba)... 185.164.32.124
+Connecting to aposo.gov.ba (aposo.gov.ba)|185.164.32.124|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aposo.gov.ba/sadrzaj/uploads/Framework-Law.pdf [following]
+--2020-03-02 01:01:53--  https://aposo.gov.ba/sadrzaj/uploads/Framework-Law.pdf
+Connecting to aposo.gov.ba (aposo.gov.ba)|185.164.32.124|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 147382 (144K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 2.71M 0s
+    50K .......... .......... .......... .......... .......... 69% 7.77M 0s
+   100K .......... .......... .......... .......... ...       100% 6.62M=0.3s
+
+2020-03-02 01:01:54 (4.57 Mb/s) - ‘/dev/null’ saved [147382/147382]
+

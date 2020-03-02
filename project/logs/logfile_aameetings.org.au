@@ -1,0 +1,15 @@
+--2020-03-01 23:40:46--  http://aameetings.org.au/download/GoldCoast/meetings.pdf
+Resolving aameetings.org.au (aameetings.org.au)... 112.140.176.160
+Connecting to aameetings.org.au (aameetings.org.au)|112.140.176.160|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aameetings.org.au/download/GoldCoast/meetings.pdf [following]
+--2020-03-01 23:40:47--  https://aameetings.org.au/download/GoldCoast/meetings.pdf
+Connecting to aameetings.org.au (aameetings.org.au)|112.140.176.160|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .....                             682K=0.3s
+
+2020-03-01 23:40:49 (682 Kb/s) - ‘/dev/null’ saved [25990]
+

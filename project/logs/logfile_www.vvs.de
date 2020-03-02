@@ -1,0 +1,26 @@
+--2020-03-02 04:00:42--  http://www.vvs.de/download/SBahn_Liniennetz.pdf
+Resolving www.vvs.de (www.vvs.de)... 213.178.170.102
+Connecting to www.vvs.de (www.vvs.de)|213.178.170.102|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102593 (100K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 10.5M 0s
+    50K .......... .......... .......... .......... .......... 99% 21.0M 0s
+   100K                                                       100% 30.9K=0.06s
+
+2020-03-02 04:00:42 (14.0 Mb/s) - ‘/dev/null’ saved [102593/102593]
+
+--2020-03-02 04:00:48--  http://www.vvs.de/download/SBahn_Liniennetz.pdf
+Resolving www.vvs.de (www.vvs.de)... 213.178.170.102
+Connecting to www.vvs.de (www.vvs.de)|213.178.170.102|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 102593 (100K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 11.0M 0s
+    50K .......... .......... .......... .......... .......... 99% 21.8M 0s
+   100K                                                       100% 30.9K=0.06s
+
+2020-03-02 04:00:48 (14.7 Mb/s) - ‘/dev/null’ saved [102593/102593]
+

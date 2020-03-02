@@ -1,0 +1,17 @@
+--2020-03-02 07:07:36--  http://mazda.com.my/PriceList/WestMalaysia/2019/MazdaCX5_Price(W).pdf
+Resolving mazda.com.my (mazda.com.my)... 104.26.3.190, 104.26.2.190
+Connecting to mazda.com.my (mazda.com.my)|104.26.3.190|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mazda.com.my/PriceList/WestMalaysia/2019/MazdaCX5_Price(W).pdf [following]
+--2020-03-02 07:07:36--  https://mazda.com.my/PriceList/WestMalaysia/2019/MazdaCX5_Price(W).pdf
+Connecting to mazda.com.my (mazda.com.my)|104.26.3.190|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110726 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 2.88M 0s
+    50K .......... .......... .......... .......... .......... 92%  241M 0s
+   100K ........                                              100%  424M=0.1s
+
+2020-03-02 07:07:38 (6.14 Mb/s) - ‘/dev/null’ saved [110726/110726]
+

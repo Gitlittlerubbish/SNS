@@ -1,0 +1,34 @@
+--2020-03-02 06:16:37--  http://www.bdl.gov.lb/circulars/download/109/en
+Resolving www.bdl.gov.lb (www.bdl.gov.lb)... 95.138.143.243
+Connecting to www.bdl.gov.lb (www.bdl.gov.lb)|95.138.143.243|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bdl.gov.lb/circulars/download/109/en [following]
+--2020-03-02 06:16:38--  https://www.bdl.gov.lb/circulars/download/109/en
+Connecting to www.bdl.gov.lb (www.bdl.gov.lb)|95.138.143.243|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12.9M
+    50K .......... .......... .......... .......... .......... 19.2M
+   100K .......... .......... .......... .......... .......    14.8M=0.08s
+
+2020-03-02 06:16:38 (15.2 Mb/s) - ‘/dev/null’ saved [151294]
+
+--2020-03-02 06:16:38--  http://www.bdl.gov.lb/circulars/download/166/ar
+Resolving www.bdl.gov.lb (www.bdl.gov.lb)... 95.138.143.243
+Connecting to www.bdl.gov.lb (www.bdl.gov.lb)|95.138.143.243|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bdl.gov.lb/circulars/download/166/ar [following]
+--2020-03-02 06:16:38--  https://www.bdl.gov.lb/circulars/download/166/ar
+Connecting to www.bdl.gov.lb (www.bdl.gov.lb)|95.138.143.243|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14.0M
+    50K .......... .......... .......... .......... .......... 15.4M
+   100K .......... ..                                          70.3M=0.06s
+
+2020-03-02 06:16:38 (16.2 Mb/s) - ‘/dev/null’ saved [115692]
+

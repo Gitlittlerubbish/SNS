@@ -1,0 +1,28 @@
+--2020-03-02 04:23:42--  http://www.comunicazione.va/content/dam/comunicazione/services/WorldFeed_ChristmasEve_24_12_2019.pdf
+Resolving www.comunicazione.va (www.comunicazione.va)... 185.152.70.101
+Connecting to www.comunicazione.va (www.comunicazione.va)|185.152.70.101|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 190876 (186K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 5.77M 0s
+    50K .......... .......... .......... .......... .......... 53% 11.4M 0s
+   100K .......... .......... .......... .......... .......... 80% 30.1M 0s
+   150K .......... .......... .......... ......               100%  409M=0.1s
+
+2020-03-02 04:23:43 (12.6 Mb/s) - ‘/dev/null’ saved [190876/190876]
+
+--2020-03-02 04:23:43--  http://www.comunicazione.va/content/dam/comunicazione/services/Offerta_Pasqua2019_ita_rev1.pdf
+Resolving www.comunicazione.va (www.comunicazione.va)... 185.152.70.101
+Connecting to www.comunicazione.va (www.comunicazione.va)|185.152.70.101|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189827 (185K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 4.94M 0s
+    50K .......... .......... .......... .......... .......... 53% 10.9M 0s
+   100K .......... .......... .......... .......... .......... 80% 26.0M 0s
+   150K .......... .......... .......... .....                100%  150M=0.1s
+
+2020-03-02 04:23:43 (11.0 Mb/s) - ‘/dev/null’ saved [189827/189827]
+

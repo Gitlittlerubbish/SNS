@@ -1,0 +1,18 @@
+--2020-03-02 04:20:31--  http://ona.ht/pdf_docs/Bilan_ONA_Mars_2017_Mars_2018.pdf
+Resolving ona.ht (ona.ht)... 198.54.116.115
+Connecting to ona.ht (ona.ht)|198.54.116.115|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ona.ht/pdf_docs/Bilan_ONA_Mars_2017_Mars_2018.pdf [following]
+--2020-03-02 04:20:32--  https://ona.ht/pdf_docs/Bilan_ONA_Mars_2017_Mars_2018.pdf
+Connecting to ona.ht (ona.ht)|198.54.116.115|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159054 (155K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 2.66M 0s
+    50K .......... .......... .......... .......... .......... 64% 2.70M 0s
+   100K .......... .......... .......... .......... .......... 96% 2.72M 0s
+   150K .....                                                 100%  358M=0.5s
+
+2020-03-02 04:20:33 (2.79 Mb/s) - ‘/dev/null’ saved [159054/159054]
+

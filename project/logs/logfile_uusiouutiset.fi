@@ -1,0 +1,17 @@
+--2020-03-02 03:44:53--  http://uusiouutiset.fi/EurostatJate2014.pdf
+Resolving uusiouutiset.fi (uusiouutiset.fi)... 80.69.164.61
+Connecting to uusiouutiset.fi (uusiouutiset.fi)|80.69.164.61|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uusiouutiset.fi/EurostatJate2014.pdf [following]
+--2020-03-02 03:44:53--  https://www.uusiouutiset.fi/EurostatJate2014.pdf
+Resolving www.uusiouutiset.fi (www.uusiouutiset.fi)... 80.69.164.61
+Connecting to www.uusiouutiset.fi (www.uusiouutiset.fi)|80.69.164.61|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67044 (65K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 76% 8.50M 0s
+    50K .......... .....                                      100%  975M=0.05s
+
+2020-03-02 03:44:53 (11.1 Mb/s) - ‘/dev/null’ saved [67044/67044]
+

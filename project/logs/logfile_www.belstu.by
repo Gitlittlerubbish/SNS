@@ -1,0 +1,15 @@
+--2020-03-02 00:16:39--  http://www.belstu.by/Portals/0/Laboratornaya-rabota--12.pdf
+Resolving www.belstu.by (www.belstu.by)... 93.125.104.171
+Connecting to www.belstu.by (www.belstu.by)|93.125.104.171|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216253 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.01M 1s
+    50K .......... .......... .......... .......... .......... 47% 7.72M 0s
+   100K .......... .......... .......... .......... .......... 71% 40.7M 0s
+   150K .......... .......... .......... .......... .......... 94% 9.80M 0s
+   200K .......... .                                          100%  524M=0.3s
+
+2020-03-02 00:16:40 (5.60 Mb/s) - ‘/dev/null’ saved [216253/216253]
+

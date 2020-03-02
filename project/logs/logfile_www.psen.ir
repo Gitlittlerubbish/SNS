@@ -1,0 +1,12 @@
+--2020-03-02 04:57:10--  http://www.psen.ir/LenzDetector/CC308_USER_MANUAL.pdf
+Resolving www.psen.ir (www.psen.ir)... 185.88.152.85
+Connecting to www.psen.ir (www.psen.ir)|185.88.152.85|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71315 (70K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 71% 1.54M 0s
+    50K .......... .........                                  100% 42.0M=0.3s
+
+2020-03-02 04:57:11 (2.11 Mb/s) - ‘/dev/null’ saved [71315/71315]
+

@@ -1,0 +1,35 @@
+--2020-03-01 23:43:00--  http://www.caf-zentrum.at/webfm_send/1925
+Resolving www.caf-zentrum.at (www.caf-zentrum.at)... 116.202.85.101
+Connecting to www.caf-zentrum.at (www.caf-zentrum.at)|116.202.85.101|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.caf-zentrum.at/webfm_send/1925 [following]
+--2020-03-01 23:43:00--  https://www.caf-zentrum.at/webfm_send/1925
+Connecting to www.caf-zentrum.at (www.caf-zentrum.at)|116.202.85.101|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.caf-zentrum.at/sites/default/files/documents/caf/CAF/EndversionAT_131118_CAF2013_broschuere_web.pdf [following]
+--2020-03-01 23:43:01--  https://www.caf-zentrum.at/sites/default/files/documents/caf/CAF/EndversionAT_131118_CAF2013_broschuere_web.pdf
+Reusing existing connection to www.caf-zentrum.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 863878 (844K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 8.53M 1s
+    50K .......... .......... .......... .......... .......... 11% 16.5M 1s
+   100K .......... .......... .......... .......... .......... 17% 17.5M 0s
+   150K .......... .......... .......... .......... .......... 23% 88.7M 0s
+   200K .......... .......... .......... .......... .......... 29%  100M 0s
+   250K .......... .......... .......... .......... .......... 35% 23.9M 0s
+   300K .......... .......... .......... .......... .......... 41% 91.8M 0s
+   350K .......... .......... .......... .......... .......... 47%  135M 0s
+   400K .......... .......... .......... .......... .......... 53% 21.7M 0s
+   450K .......... .......... .......... .......... .......... 59%  161M 0s
+   500K .......... .......... .......... .......... .......... 65% 27.1M 0s
+   550K .......... .......... .......... .......... .......... 71%  236M 0s
+   600K .......... .......... .......... .......... .......... 77%  103M 0s
+   650K .......... .......... .......... .......... .......... 82% 85.9M 0s
+   700K .......... .......... .......... .......... .......... 88% 31.3M 0s
+   750K .......... .......... .......... .......... .......... 94%  151M 0s
+   800K .......... .......... .......... .......... ...       100%  237M=0.2s
+
+2020-03-01 23:43:01 (35.7 Mb/s) - ‘/dev/null’ saved [863878/863878]
+

@@ -1,0 +1,18 @@
+--2020-03-02 04:00:28--  http://www.hwiesenthal.de/downloads/2logics.pdf
+Resolving www.hwiesenthal.de (www.hwiesenthal.de)... 81.169.145.88
+Connecting to www.hwiesenthal.de (www.hwiesenthal.de)|81.169.145.88|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hwiesenthal.de/downloads/2logics.pdf [following]
+--2020-03-02 04:00:28--  https://www.hwiesenthal.de/downloads/2logics.pdf
+Connecting to www.hwiesenthal.de (www.hwiesenthal.de)|81.169.145.88|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165499 (162K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 10.9M 0s
+    50K .......... .......... .......... .......... .......... 61% 22.3M 0s
+   100K .......... .......... .......... .......... .......... 92% 87.4M 0s
+   150K .......... .                                          100%  656M=0.06s
+
+2020-03-02 04:00:28 (21.7 Mb/s) - ‘/dev/null’ saved [165499/165499]
+

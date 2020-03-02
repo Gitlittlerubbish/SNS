@@ -1,0 +1,20 @@
+--2020-03-02 04:53:41--  http://simdos.unud.ac.id/uploads/file_penelitian_1_dir/767616f64cd58798f36164d0c9396ffb.pdf
+Resolving simdos.unud.ac.id (simdos.unud.ac.id)... 103.29.196.248
+Connecting to simdos.unud.ac.id (simdos.unud.ac.id)|103.29.196.248|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://simdos.unud.ac.id/uploads/file_penelitian_1_dir/767616f64cd58798f36164d0c9396ffb.pdf [following]
+--2020-03-02 04:53:42--  https://simdos.unud.ac.id/uploads/file_penelitian_1_dir/767616f64cd58798f36164d0c9396ffb.pdf
+Connecting to simdos.unud.ac.id (simdos.unud.ac.id)|103.29.196.248|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 275146 (269K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18%  787K 2s
+    50K .......... .......... .......... .......... .......... 37% 1.91M 1s
+   100K .......... .......... .......... .......... .......... 55%  110M 1s
+   150K .......... .......... .......... .......... .......... 74% 1.44M 0s
+   200K .......... .......... .......... .......... .......... 93%  263M 0s
+   250K .......... ........                                   100% 1.04G=1.0s
+
+2020-03-02 04:53:44 (2.15 Mb/s) - ‘/dev/null’ saved [275146/275146]
+

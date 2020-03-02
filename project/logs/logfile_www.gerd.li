@@ -1,0 +1,13 @@
+--2020-03-02 06:25:09--  http://www.gerd.li/Anmeldung_IB_2019.pdf
+Resolving www.gerd.li (www.gerd.li)... 194.150.248.23
+Connecting to www.gerd.li (www.gerd.li)|194.150.248.23|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110299 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 8.12M 0s
+    50K .......... .......... .......... .......... .......... 92% 16.1M 0s
+   100K .......                                               100%  569M=0.08s
+
+2020-03-02 06:25:09 (11.6 Mb/s) - ‘/dev/null’ saved [110299/110299]
+

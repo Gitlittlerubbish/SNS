@@ -1,0 +1,14 @@
+--2020-03-02 04:37:35--  http://skory.z-net.hu/alkatresz/2SK3067.pdf
+Resolving skory.z-net.hu (skory.z-net.hu)... 185.106.113.62
+Connecting to skory.z-net.hu (skory.z-net.hu)|185.106.113.62|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163841 (160K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 5.59M 0s
+    50K .......... .......... .......... .......... .......... 62% 10.7M 0s
+   100K .......... .......... .......... .......... .......... 93% 11.4M 0s
+   150K ..........                                            100%  661M=0.1s
+
+2020-03-02 04:37:35 (8.87 Mb/s) - ‘/dev/null’ saved [163841/163841]
+

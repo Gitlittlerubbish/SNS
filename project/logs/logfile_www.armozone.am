@@ -1,0 +1,12 @@
+--2020-03-01 23:23:39--  http://www.armozone.am/img/vienna_convention_eng.pdf
+Resolving www.armozone.am (www.armozone.am)... 104.28.6.69, 104.28.7.69
+Connecting to www.armozone.am (www.armozone.am)|104.28.6.69|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76364 (75K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 67% 59.3M 0s
+    50K .......... .......... ....                            100%  574M=0.007s
+
+2020-03-01 23:23:39 (84.2 Mb/s) - ‘/dev/null’ saved [76364/76364]
+

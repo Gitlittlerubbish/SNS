@@ -1,0 +1,15 @@
+--2020-03-02 03:33:57--  http://www.aastu.edu.et/wp-content/uploads/2017/08/gonder.pdf
+Resolving www.aastu.edu.et (www.aastu.edu.et)... 197.156.73.161
+Connecting to www.aastu.edu.et (www.aastu.edu.et)|197.156.73.161|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 248533 (243K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 2.00M 1s
+    50K .......... .......... .......... .......... .......... 41% 4.04M 0s
+   100K .......... .......... .......... .......... .......... 61% 94.4M 0s
+   150K .......... .......... .......... .......... .......... 82% 50.9M 0s
+   200K .......... .......... .......... .......... ..        100% 3.78M=0.4s
+
+2020-03-02 03:33:58 (4.84 Mb/s) - ‘/dev/null’ saved [248533/248533]
+

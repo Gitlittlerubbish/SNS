@@ -1,0 +1,24 @@
+--2020-03-02 04:52:14--  http://sidina.menpan.go.id/files/Panduan_Aplikasi_SiDina_ver_1_0.pdf
+Resolving sidina.menpan.go.id (sidina.menpan.go.id)... 203.57.25.138
+Connecting to sidina.menpan.go.id (sidina.menpan.go.id)|203.57.25.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sidina.menpan.go.id/files/Panduan_Aplikasi_SiDina_ver_1_0.pdf [following]
+--2020-03-02 04:52:14--  https://sidina.menpan.go.id/files/Panduan_Aplikasi_SiDina_ver_1_0.pdf
+Connecting to sidina.menpan.go.id (sidina.menpan.go.id)|203.57.25.138|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 465830 (455K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.18M 3s
+    50K .......... .......... .......... .......... .......... 21% 2.39M 2s
+   100K .......... .......... .......... .......... .......... 32%  159M 1s
+   150K .......... .......... .......... .......... .......... 43% 4.13M 1s
+   200K .......... .......... .......... .......... .......... 54% 5.51M 1s
+   250K .......... .......... .......... .......... .......... 65%  104M 0s
+   300K .......... .......... .......... .......... .......... 76% 2.47M 0s
+   350K .......... .......... .......... .......... .......... 87%  107M 0s
+   400K .......... .......... .......... .......... .......... 98%  173M 0s
+   450K ....                                                  100%  660M=0.9s
+
+2020-03-02 04:52:16 (4.28 Mb/s) - ‘/dev/null’ saved [465830/465830]
+

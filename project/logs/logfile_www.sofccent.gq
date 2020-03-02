@@ -1,0 +1,14 @@
+--2020-03-02 03:29:27--  http://www.sofccent.gq/IMG/pdf/bievre2016.pdf
+Resolving www.sofccent.gq (www.sofccent.gq)... 104.18.40.247, 104.18.41.247
+Connecting to www.sofccent.gq (www.sofccent.gq)|104.18.40.247|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 9.66M
+    50K .......... .......... .......... .......... .......... 10.0M
+   100K .......... .......... .......... .......... .......... 93.8M
+   150K .......... ....                                         940M=0.09s
+
+2020-03-02 03:29:27 (15.3 Mb/s) - ‘/dev/null’ saved [168166]
+

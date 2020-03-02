@@ -1,0 +1,11 @@
+--2020-03-02 01:05:57--  http://pass.co.bw/pdf/InternationalFinancialServicesCentre.pdf
+Resolving pass.co.bw (pass.co.bw)... 168.167.21.107
+Connecting to pass.co.bw (pass.co.bw)|168.167.21.107|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23934 (23K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                             100% 1.05M=0.2s
+
+2020-03-02 01:05:58 (1.05 Mb/s) - ‘/dev/null’ saved [23934/23934]
+

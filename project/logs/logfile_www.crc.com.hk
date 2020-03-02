@@ -1,0 +1,11 @@
+--2020-03-02 04:29:26--  http://www.crc.com.hk/other/crsreport2015/
+Resolving www.crc.com.hk (www.crc.com.hk)... 203.161.4.57, 203.161.4.58
+Connecting to www.crc.com.hk (www.crc.com.hk)|203.161.4.57|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 372 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  106M=0s
+
+2020-03-02 04:29:27 (106 Mb/s) - ‘/dev/null’ saved [372/372]
+

@@ -1,0 +1,36 @@
+--2020-03-02 06:56:02--  http://www.karakasis.mw/printpdf/1313
+Resolving www.karakasis.mw (www.karakasis.mw)... 104.27.160.4, 104.27.161.4
+Connecting to www.karakasis.mw (www.karakasis.mw)|104.27.160.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.karakasis.mw/printpdf/1313 [following]
+--2020-03-02 06:56:02--  https://www.karakasis.mw/printpdf/1313
+Connecting to www.karakasis.mw (www.karakasis.mw)|104.27.160.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50.6M
+    50K .......... .......... .......... .......... ..........  124M
+   100K .......... .......... .......... .......... ..........  129M
+   150K .......... .......                                     76.2M=0.02s
+
+2020-03-02 06:56:04 (83.4 Mb/s) - ‘/dev/null’ saved [171776]
+
+--2020-03-02 06:56:04--  http://www.karakasis.mw/printpdf/1432
+Resolving www.karakasis.mw (www.karakasis.mw)... 104.27.160.4, 104.27.161.4
+Connecting to www.karakasis.mw (www.karakasis.mw)|104.27.160.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.karakasis.mw/printpdf/1432 [following]
+--2020-03-02 06:56:04--  https://www.karakasis.mw/printpdf/1432
+Connecting to www.karakasis.mw (www.karakasis.mw)|104.27.160.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 95.3M
+    50K .......... .......... .......... .......... ..........  166M
+   100K .......... .......... .......... .......... ..........  123M
+   150K ....                                                    547M=0.01s
+
+2020-03-02 06:56:05 (124 Mb/s) - ‘/dev/null’ saved [157843]
+

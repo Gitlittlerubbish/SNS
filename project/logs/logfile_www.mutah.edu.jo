@@ -1,0 +1,21 @@
+--2020-03-02 05:23:22--  http://www.mutah.edu.jo/Regulation/12.pdf
+Resolving www.mutah.edu.jo (www.mutah.edu.jo)... 87.236.234.100
+Connecting to www.mutah.edu.jo (www.mutah.edu.jo)|87.236.234.100|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mutah.edu.jo/Regulation/12.pdf [following]
+--2020-03-02 05:23:22--  https://www.mutah.edu.jo/Regulation/12.pdf
+Connecting to www.mutah.edu.jo (www.mutah.edu.jo)|87.236.234.100|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 348267 (340K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 2.49M 1s
+    50K .......... .......... .......... .......... .......... 29%  147M 0s
+   100K .......... .......... .......... .......... .......... 44% 4.97M 0s
+   150K .......... .......... .......... .......... .......... 58% 73.0M 0s
+   200K .......... .......... .......... .......... .......... 73% 5.59M 0s
+   250K .......... .......... .......... .......... .......... 88% 58.8M 0s
+   300K .......... .......... .......... ..........           100%  106M=0.3s
+
+2020-03-02 05:23:23 (8.22 Mb/s) - ‘/dev/null’ saved [348267/348267]
+

@@ -1,0 +1,11 @@
+--2020-03-02 03:46:30--  http://plano.free.fr/oappr74.pdf
+Resolving plano.free.fr (plano.free.fr)... 212.27.63.102
+Connecting to plano.free.fr (plano.free.fr)|212.27.63.102|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28008 (27K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......                         100% 17.3M=0.01s
+
+2020-03-02 03:46:30 (17.3 Mb/s) - ‘/dev/null’ saved [28008/28008]
+

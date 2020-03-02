@@ -1,0 +1,22 @@
+--2020-03-02 05:21:04--  http://tam.je/jah
+Resolving tam.je (tam.je)... 81.95.99.253
+Connecting to tam.je (tam.je)|81.95.99.253|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tam.je/jah [following]
+--2020-03-02 05:21:05--  https://tam.je/jah
+Connecting to tam.je (tam.je)|81.95.99.253|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporary
+Location: https://www.oskarta.cz/Oskar_Formular_zmena_hesla.pdf?tc=fb_wall [following]
+--2020-03-02 05:21:05--  https://www.oskarta.cz/Oskar_Formular_zmena_hesla.pdf?tc=fb_wall
+Resolving www.oskarta.cz (www.oskarta.cz)... 91.239.201.251
+Connecting to www.oskarta.cz (www.oskarta.cz)|91.239.201.251|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 150282 (147K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 6.00M 0s
+    50K .......... .......... .......... .......... .......... 68% 11.7M 0s
+   100K .......... .......... .......... .......... ......    100%  131M=0.1s
+
+2020-03-02 05:21:05 (11.3 Mb/s) - ‘/dev/null’ saved [150282/150282]
+

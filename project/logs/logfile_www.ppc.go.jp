@@ -1,0 +1,11 @@
+--2020-03-02 05:13:28--  http://www.ppc.go.jp/files/pdf/koyoukanri_ryuuijikou.pdf
+Resolving www.ppc.go.jp (www.ppc.go.jp)... 210.232.23.140, 203.182.144.140
+Connecting to www.ppc.go.jp (www.ppc.go.jp)|210.232.23.140|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 60.2M=0s
+
+2020-03-02 05:13:29 (60.2 Mb/s) - ‘/dev/null’ saved [188/188]
+

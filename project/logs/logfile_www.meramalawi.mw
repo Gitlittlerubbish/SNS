@@ -1,0 +1,11 @@
+--2020-03-02 06:58:17--  http://www.meramalawi.mw/documents/licensing/howtoapply/licensing_process.pdf
+Resolving www.meramalawi.mw (www.meramalawi.mw)... 108.167.184.227
+Connecting to www.meramalawi.mw (www.meramalawi.mw)|108.167.184.227|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20523 (20K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ..........                                 100%  804K=0.2s
+
+2020-03-02 06:58:19 (804 Kb/s) - ‘/dev/null’ saved [20523/20523]
+

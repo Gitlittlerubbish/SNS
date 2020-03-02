@@ -1,0 +1,12 @@
+--2020-03-02 00:38:30--  http://www.rba.bt/announcement/DPO_SEC1901_D-1_13-ENG.pdf
+Resolving www.rba.bt (www.rba.bt)... 202.144.128.216
+Connecting to www.rba.bt (www.rba.bt)|202.144.128.216|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87293 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58% 1.19M 0s
+    50K .......... .......... .......... .....                100% 99.9M=0.3s
+
+2020-03-02 00:38:31 (2.01 Mb/s) - ‘/dev/null’ saved [87293/87293]
+

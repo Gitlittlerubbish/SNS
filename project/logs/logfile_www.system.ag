@@ -1,0 +1,16 @@
+--2020-03-01 23:05:02--  http://www.system.ag/images/Systemanforderungen.pdf
+Resolving www.system.ag (www.system.ag)... 95.216.20.216
+Connecting to www.system.ag (www.system.ag)|95.216.20.216|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.system.ag/images/Systemanforderungen.pdf [following]
+--2020-03-01 23:05:02--  https://www.system.ag/images/Systemanforderungen.pdf
+Connecting to www.system.ag (www.system.ag)|95.216.20.216|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82754 (81K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 61% 4.99M 0s
+    50K .......... .......... ..........                      100%  176M=0.08s
+
+2020-03-01 23:05:02 (7.93 Mb/s) - ‘/dev/null’ saved [82754/82754]
+

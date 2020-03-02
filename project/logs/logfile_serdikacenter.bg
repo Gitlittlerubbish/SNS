@@ -1,0 +1,17 @@
+--2020-03-02 01:32:44--  http://serdikacenter.bg/upl/pdfs/VALKAT_I_7_KOZLETA_PRIKASKA_ZA_SAITA.pdf
+Resolving serdikacenter.bg (serdikacenter.bg)... 164.138.221.176
+Connecting to serdikacenter.bg (serdikacenter.bg)|164.138.221.176|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://serdikacenter.bg/upl/pdfs/VALKAT_I_7_KOZLETA_PRIKASKA_ZA_SAITA.pdf [following]
+--2020-03-02 01:32:44--  https://serdikacenter.bg/upl/pdfs/VALKAT_I_7_KOZLETA_PRIKASKA_ZA_SAITA.pdf
+Connecting to serdikacenter.bg (serdikacenter.bg)|164.138.221.176|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152760 (149K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 4.21M 0s
+    50K .......... .......... .......... .......... .......... 67% 8.90M 0s
+   100K .......... .......... .......... .......... ......... 100% 91.5M=0.1s
+
+2020-03-02 01:32:44 (8.27 Mb/s) - ‘/dev/null’ saved [152760/152760]
+

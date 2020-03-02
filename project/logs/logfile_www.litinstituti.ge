@@ -1,0 +1,12 @@
+--2020-03-02 03:57:08--  http://www.litinstituti.ge/skola-karichashvili.pdf
+Resolving www.litinstituti.ge (www.litinstituti.ge)... 213.157.206.35
+Connecting to www.litinstituti.ge (www.litinstituti.ge)|213.157.206.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90106 (88K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56% 3.11M 0s
+    50K .......... .......... .......... .......              100% 4.90M=0.2s
+
+2020-03-02 03:57:08 (3.69 Mb/s) - ‘/dev/null’ saved [90106/90106]
+

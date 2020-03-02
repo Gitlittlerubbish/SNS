@@ -1,0 +1,11 @@
+--2020-03-02 03:32:17--  http://www.maavillane.ee/roomu/poegimisabi.pdf
+Resolving www.maavillane.ee (www.maavillane.ee)... 85.194.202.130
+Connecting to www.maavillane.ee (www.maavillane.ee)|85.194.202.130|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49399 (48K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........  100%  169M=0.002s
+
+2020-03-02 03:32:18 (169 Mb/s) - ‘/dev/null’ saved [49399/49399]
+

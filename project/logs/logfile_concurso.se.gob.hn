@@ -1,0 +1,18 @@
+--2020-03-02 04:25:30--  http://concurso.se.gob.hn/static/documentos/CNB_Resumen_ok.pdf
+Resolving concurso.se.gob.hn (concurso.se.gob.hn)... 181.210.1.218, 190.130.17.249
+Connecting to concurso.se.gob.hn (concurso.se.gob.hn)|181.210.1.218|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://concurso.se.gob.hn/static/documentos/CNB_Resumen_ok.pdf [following]
+--2020-03-02 04:25:31--  https://concurso.se.gob.hn/static/documentos/CNB_Resumen_ok.pdf
+Connecting to concurso.se.gob.hn (concurso.se.gob.hn)|181.210.1.218|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194125 (190K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 1.52M 1s
+    50K .......... .......... .......... .......... .......... 52% 3.08M 0s
+   100K .......... .......... .......... .......... .......... 79%  102M 0s
+   150K .......... .......... .......... .........            100%  787M=0.4s
+
+2020-03-02 04:25:32 (3.82 Mb/s) - ‘/dev/null’ saved [194125/194125]
+

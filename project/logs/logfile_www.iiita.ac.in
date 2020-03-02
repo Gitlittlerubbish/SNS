@@ -1,0 +1,21 @@
+--2020-03-02 04:45:30--  http://www.iiita.ac.in/uploads/PG_Ordinance_Eng725.pdf
+Resolving www.iiita.ac.in (www.iiita.ac.in)... 103.119.35.14
+Connecting to www.iiita.ac.in (www.iiita.ac.in)|103.119.35.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.iiita.ac.in/uploads/PG_Ordinance_Eng725.pdf [following]
+--2020-03-02 04:45:31--  https://www.iiita.ac.in/uploads/PG_Ordinance_Eng725.pdf
+Connecting to www.iiita.ac.in (www.iiita.ac.in)|103.119.35.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 322948 (315K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  819K 3s
+    50K .......... .......... .......... .......... .......... 31% 2.45M 1s
+   100K .......... .......... .......... .......... .......... 47%  279M 1s
+   150K .......... .......... .......... .......... .......... 63% 2.43M 0s
+   200K .......... .......... .......... .......... .......... 79%  139M 0s
+   250K .......... .......... .......... .......... .......... 95% 2.48M 0s
+   300K .......... .....                                      100%  875M=1.0s
+
+2020-03-02 04:45:33 (2.57 Mb/s) - ‘/dev/null’ saved [322948/322948]
+

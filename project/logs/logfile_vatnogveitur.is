@@ -1,0 +1,15 @@
+--2020-03-02 04:39:55--  http://vatnogveitur.is/Attachment/GenericFile%3FattachmentId%3D4234
+Resolving vatnogveitur.is (vatnogveitur.is)... 94.142.154.87
+Connecting to vatnogveitur.is (vatnogveitur.is)|94.142.154.87|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errorpage.htm?aspxerrorpath=/Attachment/GenericFile?attachmentId=4234 [following]
+--2020-03-02 04:39:55--  http://vatnogveitur.is/errorpage.htm?aspxerrorpath=/Attachment/GenericFile?attachmentId=4234
+Reusing existing connection to vatnogveitur.is:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1269 (1.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  390M=0s
+
+2020-03-02 04:39:55 (390 Mb/s) - ‘/dev/null’ saved [1269/1269]
+

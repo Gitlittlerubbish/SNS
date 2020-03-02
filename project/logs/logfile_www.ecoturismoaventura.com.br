@@ -1,0 +1,16 @@
+--2020-03-02 01:13:44--  http://www.ecoturismoaventura.com.br/brasil/hotspots.pdf
+Resolving www.ecoturismoaventura.com.br (www.ecoturismoaventura.com.br)... 216.250.120.62
+Connecting to www.ecoturismoaventura.com.br (www.ecoturismoaventura.com.br)|216.250.120.62|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 272817 (266K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 1.90M 1s
+    50K .......... .......... .......... .......... .......... 37% 4.15M 1s
+   100K .......... .......... .......... .......... .......... 56% 6.59M 0s
+   150K .......... .......... .......... .......... .......... 75% 8.97M 0s
+   200K .......... .......... .......... .......... .......... 93% 13.1M 0s
+   250K .......... ......                                     100% 12.4M=0.5s
+
+2020-03-02 01:13:45 (4.70 Mb/s) - ‘/dev/null’ saved [272817/272817]
+

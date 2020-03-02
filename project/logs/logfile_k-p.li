@@ -1,0 +1,20 @@
+--2020-03-02 06:25:00--  http://k-p.li/2mSPm14
+Resolving k-p.li (k-p.li)... 67.199.248.13, 67.199.248.12
+Connecting to k-p.li (k-p.li)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bestpractices.nokidhungry.org/sites/default/files/resources/pre-implementation_checklist.pdf?hootPostID=3cdb64f861ccc496a2017cb317c351a2 [following]
+--2020-03-02 06:25:01--  https://bestpractices.nokidhungry.org/sites/default/files/resources/pre-implementation_checklist.pdf?hootPostID=3cdb64f861ccc496a2017cb317c351a2
+Resolving bestpractices.nokidhungry.org (bestpractices.nokidhungry.org)... 107.22.224.252, 34.226.3.187
+Connecting to bestpractices.nokidhungry.org (bestpractices.nokidhungry.org)|107.22.224.252|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://bestpractices.nokidhungry.org/resource-center/download?id=0B2DlBiC2i6EHMFl6el96V0hmeVU&hootPostID=3cdb64f861ccc496a2017cb317c351a2 [following]
+--2020-03-02 06:25:02--  http://bestpractices.nokidhungry.org/resource-center/download?id=0B2DlBiC2i6EHMFl6el96V0hmeVU&hootPostID=3cdb64f861ccc496a2017cb317c351a2
+Connecting to bestpractices.nokidhungry.org (bestpractices.nokidhungry.org)|107.22.224.252|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ........              1.92M=0.2s
+
+2020-03-02 06:25:04 (1.92 Mb/s) - ‘/dev/null’ saved [39407]
+

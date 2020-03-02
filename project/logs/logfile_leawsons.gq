@@ -1,0 +1,11 @@
+--2020-03-02 03:28:53--  http://leawsons.gq/download.html%3Fdocument%3D37820
+Resolving leawsons.gq (leawsons.gq)... 104.27.172.28, 104.27.173.28
+Connecting to leawsons.gq (leawsons.gq)|104.27.172.28|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..         8.34M=0.04s
+
+2020-03-02 03:28:53 (8.34 Mb/s) - ‘/dev/null’ saved [43338]
+

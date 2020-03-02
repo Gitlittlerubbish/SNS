@@ -1,0 +1,12 @@
+--2020-03-02 05:27:20--  http://accredo-med.kz/531.pdf
+Resolving accredo-med.kz (accredo-med.kz)... 185.98.7.165
+Connecting to accredo-med.kz (accredo-med.kz)|185.98.7.165|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85444 (83K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 1.55M 0s
+    50K .......... .......... .......... ...                  100% 74.1M=0.3s
+
+2020-03-02 05:27:22 (2.54 Mb/s) - ‘/dev/null’ saved [85444/85444]
+

@@ -1,0 +1,11 @@
+--2020-03-02 01:29:50--  http://www.mora.gov.bn/Jawatan%2520Kosong/PEGAWAI%2520KERJA.pdf
+Resolving www.mora.gov.bn (www.mora.gov.bn)... 103.4.188.86
+Connecting to www.mora.gov.bn (www.mora.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                  184K=0.3s
+
+2020-03-02 01:29:52 (184 Kb/s) - ‘/dev/null’ saved [7092]
+

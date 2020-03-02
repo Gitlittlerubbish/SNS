@@ -1,0 +1,20 @@
+--2020-03-02 04:20:53--  http://www.primature.gouv.ht/documents/administrationcentrale.pdf
+Resolving www.primature.gouv.ht (www.primature.gouv.ht)... 67.225.171.56
+Connecting to www.primature.gouv.ht (www.primature.gouv.ht)|67.225.171.56|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://primature.gouv.ht/documents/administrationcentrale.pdf [following]
+--2020-03-02 04:20:53--  http://primature.gouv.ht/documents/administrationcentrale.pdf
+Resolving primature.gouv.ht (primature.gouv.ht)... 67.225.171.56
+Reusing existing connection to www.primature.gouv.ht:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 222176 (217K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.01M 1s
+    50K .......... .......... .......... .......... .......... 46% 4.06M 0s
+   100K .......... .......... .......... .......... .......... 69%  169M 0s
+   150K .......... .......... .......... .......... .......... 92% 71.5M 0s
+   200K .......... ......                                     100% 1.45M=0.4s
+
+2020-03-02 04:20:53 (4.35 Mb/s) - ‘/dev/null’ saved [222176/222176]
+

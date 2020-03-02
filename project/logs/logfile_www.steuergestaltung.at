@@ -1,0 +1,11 @@
+--2020-03-01 23:43:10--  http://www.steuergestaltung.at/download/Rechnungsmerkmale_igL.pdf
+Resolving www.steuergestaltung.at (www.steuergestaltung.at)... 77.244.243.38
+Connecting to www.steuergestaltung.at (www.steuergestaltung.at)|77.244.243.38|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47475 (46K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 6.11M=0.06s
+
+2020-03-01 23:43:11 (6.11 Mb/s) - ‘/dev/null’ saved [47475/47475]
+

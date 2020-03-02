@@ -1,0 +1,20 @@
+--2020-03-02 02:55:28--  http://www.azoo.hr/images/stories/Pravilnik_o_kriterijima_za_izricanje_pedagoskih_mjera_NN_br_94_2015.pdf
+Resolving www.azoo.hr (www.azoo.hr)... 193.198.59.102
+Connecting to www.azoo.hr (www.azoo.hr)|193.198.59.102|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.azoo.hr/images/stories/Pravilnik_o_kriterijima_za_izricanje_pedagoskih_mjera_NN_br_94_2015.pdf [following]
+--2020-03-02 02:55:29--  https://www.azoo.hr/images/stories/Pravilnik_o_kriterijima_za_izricanje_pedagoskih_mjera_NN_br_94_2015.pdf
+Connecting to www.azoo.hr (www.azoo.hr)|193.198.59.102|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 276431 (270K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 5.38M 0s
+    50K .......... .......... .......... .......... .......... 37% 11.4M 0s
+   100K .......... .......... .......... .......... .......... 55%  105M 0s
+   150K .......... .......... .......... .......... .......... 74%  303M 0s
+   200K .......... .......... .......... .......... .......... 92% 12.1M 0s
+   250K .......... .........                                  100% 1.08G=0.2s
+
+2020-03-02 02:55:29 (14.6 Mb/s) - ‘/dev/null’ saved [276431/276431]
+

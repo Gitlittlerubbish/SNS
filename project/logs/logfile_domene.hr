@@ -1,0 +1,23 @@
+--2020-03-02 02:55:37--  http://domene.hr/portal/files/HRTLDpravilnik2010hr.pdf
+Resolving domene.hr (domene.hr)... 161.53.160.55
+Connecting to domene.hr (domene.hr)|161.53.160.55|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://domene.hr/portal/files/HRTLDpravilnik2010hr.pdf [following]
+--2020-03-02 02:55:37--  https://domene.hr/portal/files/HRTLDpravilnik2010hr.pdf
+Connecting to domene.hr (domene.hr)|161.53.160.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 453196 (443K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 3.71M 1s
+    50K .......... .......... .......... .......... .......... 22% 5.60M 1s
+   100K .......... .......... .......... .......... .......... 33% 10.3M 0s
+   150K .......... .......... .......... .......... .......... 45% 11.2M 0s
+   200K .......... .......... .......... .......... .......... 56% 10.5M 0s
+   250K .......... .......... .......... .......... .......... 67% 11.1M 0s
+   300K .......... .......... .......... .......... .......... 79% 12.9M 0s
+   350K .......... .......... .......... .......... .......... 90% 83.2M 0s
+   400K .......... .......... .......... .......... ..        100% 10.4M=0.4s
+
+2020-03-02 02:55:38 (8.94 Mb/s) - ‘/dev/null’ saved [453196/453196]
+

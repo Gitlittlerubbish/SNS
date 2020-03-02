@@ -1,0 +1,13 @@
+--2020-03-02 04:13:46--  http://cgab.org.gt/images/documentos_publicos/inter_67_01_31_07.pdf
+Resolving cgab.org.gt (cgab.org.gt)... 184.106.58.111
+Connecting to cgab.org.gt (cgab.org.gt)|184.106.58.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143504 (140K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 2.06M 0s
+    50K .......... .......... .......... .......... .......... 71% 4.08M 0s
+   100K .......... .......... .......... ..........           100% 3.23M=0.4s
+
+2020-03-02 04:13:47 (2.86 Mb/s) - ‘/dev/null’ saved [143504/143504]
+

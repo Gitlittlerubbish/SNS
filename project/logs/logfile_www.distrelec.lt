@@ -1,0 +1,20 @@
+--2020-03-02 06:27:05--  http://www.distrelec.lt/Web/Downloads/_t/ds/MCP2551_eng_tds-2.pdf
+Resolving www.distrelec.lt (www.distrelec.lt)... 192.225.208.206
+Connecting to www.distrelec.lt (www.distrelec.lt)|192.225.208.206|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.distrelec.lt/Web/Downloads/_t/ds/MCP2551_eng_tds-2.pdf [following]
+--2020-03-02 06:27:05--  https://www.distrelec.lt/Web/Downloads/_t/ds/MCP2551_eng_tds-2.pdf
+Connecting to www.distrelec.lt (www.distrelec.lt)|192.225.208.206|:443... connected.
+HTTP request sent, awaiting response... 200 200
+Length: 269349 (263K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 9.48M 0s
+    50K .......... .......... .......... .......... .......... 38% 24.9M 0s
+   100K .......... .......... .......... .......... .......... 57% 30.9M 0s
+   150K .......... .......... .......... .......... .......... 76% 20.8M 0s
+   200K .......... .......... .......... .......... .......... 95% 19.9M 0s
+   250K .......... ...                                        100% 25.7M=0.1s
+
+2020-03-02 06:27:06 (18.4 Mb/s) - ‘/dev/null’ saved [269349/269349]
+

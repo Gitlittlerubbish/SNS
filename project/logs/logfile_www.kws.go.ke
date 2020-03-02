@@ -1,0 +1,36 @@
+--2020-03-02 05:32:25--  http://www.kws.go.ke/file/2834/download%3Ftoken%3Dw8LWwNyK
+Resolving www.kws.go.ke (www.kws.go.ke)... 88.99.138.119
+Connecting to www.kws.go.ke (www.kws.go.ke)|88.99.138.119|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 6.81M
+    50K .......... ..........                                   163M=0.06s
+
+2020-03-02 05:32:27 (9.42 Mb/s) - ‘/dev/null’ saved [72024]
+
+--2020-03-02 05:32:27--  http://www.kws.go.ke/file/2233/download%3Ftoken%3DMrgOej_k
+Resolving www.kws.go.ke (www.kws.go.ke)... 88.99.138.119
+Connecting to www.kws.go.ke (www.kws.go.ke)|88.99.138.119|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 7.24M
+    50K .......... ..........                                   167M=0.06s
+
+2020-03-02 05:32:29 (10.0 Mb/s) - ‘/dev/null’ saved [71992]
+
+--2020-03-02 05:32:34--  http://www.kws.go.ke/file/2233/download%3Ftoken%3DMrgOej_k
+Resolving www.kws.go.ke (www.kws.go.ke)... 88.99.138.119
+Connecting to www.kws.go.ke (www.kws.go.ke)|88.99.138.119|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 6.26M
+    50K .......... ..........                                   164M=0.07s
+
+2020-03-02 05:32:35 (8.66 Mb/s) - ‘/dev/null’ saved [71992]
+

@@ -1,0 +1,14 @@
+--2020-03-02 04:43:52--  http://www.bharatpetroleum.in/pdf/BPCL_LPG_sms_Booking.pdf
+Resolving www.bharatpetroleum.in (www.bharatpetroleum.in)... 13.235.148.133, 13.235.107.222
+Connecting to www.bharatpetroleum.in (www.bharatpetroleum.in)|13.235.148.133|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 175757 (172K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 1.53M 1s
+    50K .......... .......... .......... .......... .......... 58% 3.07M 0s
+   100K .......... .......... .......... .......... .......... 87%  113M 0s
+   150K .......... .......... .                               100% 19.8M=0.4s
+
+2020-03-02 04:43:53 (3.39 Mb/s) - ‘/dev/null’ saved [175757/175757]
+

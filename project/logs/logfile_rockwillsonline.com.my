@@ -1,0 +1,17 @@
+--2020-03-02 07:08:08--  http://rockwillsonline.com.my/document/statute/Distribution_Act_1958.pdf
+Resolving rockwillsonline.com.my (rockwillsonline.com.my)... 103.233.1.234
+Connecting to rockwillsonline.com.my (rockwillsonline.com.my)|103.233.1.234|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 355219 (347K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 1.15M 2s
+    50K .......... .......... .......... .......... .......... 28% 2.34M 1s
+   100K .......... .......... .......... .......... .......... 43%  121M 1s
+   150K .......... .......... .......... .......... .......... 57%  234M 0s
+   200K .......... .......... .......... .......... .......... 72% 2.35M 0s
+   250K .......... .......... .......... .......... .......... 86%  257M 0s
+   300K .......... .......... .......... .......... ......    100% 2.22M=0.9s
+
+2020-03-02 07:08:10 (3.21 Mb/s) - ‘/dev/null’ saved [355219/355219]
+

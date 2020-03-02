@@ -1,0 +1,16 @@
+--2020-03-02 06:27:19--  http://vaikoteises.lt/media/file/Kauno.pdf
+Resolving vaikoteises.lt (vaikoteises.lt)... 193.46.83.35
+Connecting to vaikoteises.lt (vaikoteises.lt)|193.46.83.35|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://vaikoteises.lt/media/file/Kauno.pdf [following]
+--2020-03-02 06:27:19--  https://vaikoteises.lt/media/file/Kauno.pdf
+Connecting to vaikoteises.lt (vaikoteises.lt)|193.46.83.35|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73980 (72K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 69% 3.69M 0s
+    50K .......... .......... ..                              100%  726M=0.1s
+
+2020-03-02 06:27:20 (5.32 Mb/s) - ‘/dev/null’ saved [73980/73980]
+

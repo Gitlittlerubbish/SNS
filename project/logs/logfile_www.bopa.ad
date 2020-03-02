@@ -1,0 +1,11 @@
+--2020-03-01 22:33:38--  http://www.bopa.ad/bopa/documents/032010.pdf
+Resolving www.bopa.ad (www.bopa.ad)... 194.158.95.176
+Connecting to www.bopa.ad (www.bopa.ad)|194.158.95.176|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 994 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  361M=0s
+
+2020-03-01 22:33:38 (361 Mb/s) - ‘/dev/null’ saved [994/994]
+

@@ -1,0 +1,13 @@
+--2020-03-01 23:41:31--  http://www.forschungsnetzwerk.at/downloadpub/lessenich_subjekt_regieren.pdf
+Resolving www.forschungsnetzwerk.at (www.forschungsnetzwerk.at)... 81.19.145.33
+Connecting to www.forschungsnetzwerk.at (www.forschungsnetzwerk.at)|81.19.145.33|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106097 (104K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 3.62M 0s
+    50K .......... .......... .......... .......... .......... 96% 10.1M 0s
+   100K ...                                                   100%  592K=0.2s
+
+2020-03-01 23:41:31 (5.51 Mb/s) - ‘/dev/null’ saved [106097/106097]
+

@@ -1,0 +1,19 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:52:32--  https://socialsciences.mcmaster.ca/econ/ugcm/3ll3/aristotle/Ethics.pdf
+Resolving socialsciences.mcmaster.ca (socialsciences.mcmaster.ca)... 130.113.48.15
+Connecting to socialsciences.mcmaster.ca (socialsciences.mcmaster.ca)|130.113.48.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 378203 (369K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 4.14M 1s
+    50K .......... .......... .......... .......... .......... 27% 4.23M 1s
+   100K .......... .......... .......... .......... .......... 40%  215M 0s
+   150K .......... .......... .......... .......... .......... 54%  181M 0s
+   200K .......... .......... .......... .......... .......... 67% 4.25M 0s
+   250K .......... .......... .......... .......... .......... 81%  419M 0s
+   300K .......... .......... .......... .......... .......... 94% 4.20M 0s
+   350K .......... .........                                  100% 1.30G=0.4s
+
+2020-03-02 01:52:33 (7.66 Mb/s) - ‘/dev/null’ saved [378203/378203]
+

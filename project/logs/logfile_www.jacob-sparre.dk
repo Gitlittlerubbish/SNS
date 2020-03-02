@@ -1,0 +1,12 @@
+--2020-03-02 03:05:06--  http://www.jacob-sparre.dk/reliability/privacy_leaks.pdf
+Resolving www.jacob-sparre.dk (www.jacob-sparre.dk)... 37.97.186.237
+Connecting to www.jacob-sparre.dk (www.jacob-sparre.dk)|37.97.186.237|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89306 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 6.44M 0s
+    50K .......... .......... .......... .......              100%  203M=0.07s
+
+2020-03-02 03:05:07 (11.0 Mb/s) - ‘/dev/null’ saved [89306/89306]
+

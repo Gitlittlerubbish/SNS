@@ -1,0 +1,11 @@
+--2020-03-02 03:27:32--  http://www.yyuu.gq/IHEnHyDrHIknDIEpE0pnI1gsHIuDKSWGHRZqII1MIRRpJyqSUI1JDDLqrzpnOtVUNOgOIyH
+Resolving www.yyuu.gq (www.yyuu.gq)... 195.20.51.102
+Connecting to www.yyuu.gq (www.yyuu.gq)|195.20.51.102|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 627 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  251M=0s
+
+2020-03-02 03:27:33 (251 Mb/s) - ‘/dev/null’ saved [627/627]
+

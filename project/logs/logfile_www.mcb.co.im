@@ -1,0 +1,15 @@
+--2020-03-02 05:04:48--  http://www.mcb.co.im/pdf/t14.pdf
+Resolving www.mcb.co.im (www.mcb.co.im)... 213.137.24.20
+Connecting to www.mcb.co.im (www.mcb.co.im)|213.137.24.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mcb.co.im/pdf/t14.pdf [following]
+--2020-03-02 05:04:49--  https://www.mcb.co.im/pdf/t14.pdf
+Connecting to www.mcb.co.im (www.mcb.co.im)|213.137.24.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48101 (47K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 4.02M=0.1s
+
+2020-03-02 05:04:49 (4.02 Mb/s) - ‘/dev/null’ saved [48101/48101]
+

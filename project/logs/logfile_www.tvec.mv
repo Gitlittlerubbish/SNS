@@ -1,0 +1,13 @@
+--2020-03-02 07:09:19--  http://www.tvec.mv/applicationform.pdf
+Resolving www.tvec.mv (www.tvec.mv)... 162.144.5.15
+Connecting to www.tvec.mv (www.tvec.mv)|162.144.5.15|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127258 (124K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 1.20M 1s
+    50K .......... .......... .......... .......... .......... 80% 2.44M 0s
+   100K .......... .......... ....                            100% 42.3M=0.5s
+
+2020-03-02 07:09:20 (1.98 Mb/s) - ‘/dev/null’ saved [127258/127258]
+

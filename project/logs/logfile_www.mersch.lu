@@ -1,0 +1,16 @@
+--2020-03-02 06:28:52--  http://www.mersch.lu/media/5b309dd74480e_loremipsum.pdf
+Resolving www.mersch.lu (www.mersch.lu)... 18.194.129.37
+Connecting to www.mersch.lu (www.mersch.lu)|18.194.129.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mersch.lu/media/5b309dd74480e_loremipsum.pdf [following]
+--2020-03-02 06:28:52--  https://www.mersch.lu/media/5b309dd74480e_loremipsum.pdf
+Connecting to www.mersch.lu (www.mersch.lu)|18.194.129.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77123 (75K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 7.07M 0s
+    50K .......... .......... .....                           100%  804M=0.06s
+
+2020-03-02 06:28:52 (10.6 Mb/s) - ‘/dev/null’ saved [77123/77123]
+

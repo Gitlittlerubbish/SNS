@@ -1,0 +1,12 @@
+--2020-03-02 05:08:39--  http://www.hoepliscuola.it/download/4745/ascii
+Resolving www.hoepliscuola.it (www.hoepliscuola.it)... 194.113.89.83
+Connecting to www.hoepliscuola.it (www.hoepliscuola.it)|194.113.89.83|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51839 (51K) [octet/stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 98% 6.35M 0s
+    50K                                                       100% 46.5M=0.06s
+
+2020-03-02 05:08:40 (6.42 Mb/s) - ‘/dev/null’ saved [51839/51839]
+

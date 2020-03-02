@@ -1,0 +1,17 @@
+--2020-03-02 03:03:02--  http://www.kodis.cz/pdf/prodejni_mista.pdf
+Resolving www.kodis.cz (www.kodis.cz)... 95.168.206.203
+Connecting to www.kodis.cz (www.kodis.cz)|95.168.206.203|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.kodis.cz/pdf/prodejni_mista.pdf [following]
+--2020-03-02 03:03:02--  https://www.kodis.cz/pdf/prodejni_mista.pdf
+Connecting to www.kodis.cz (www.kodis.cz)|95.168.206.203|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 114907 (112K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44% 9.57M 0s
+    50K .......... .......... .......... .......... .......... 89% 19.6M 0s
+   100K .......... ..                                         100% 58.0M=0.07s
+
+2020-03-02 03:03:03 (14.1 Mb/s) - ‘/dev/null’ saved [114907/114907]
+

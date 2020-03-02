@@ -1,0 +1,12 @@
+--2020-03-01 23:42:53--  http://www.klagsverband.at/recht/eu_2004_113_de.pdf
+Resolving www.klagsverband.at (www.klagsverband.at)... 77.91.239.247
+Connecting to www.klagsverband.at (www.klagsverband.at)|77.91.239.247|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65612 (64K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 78% 1.02M 0s
+    50K .......... ....                                       100% 2.30M=0.5s
+
+2020-03-01 23:42:53 (1.16 Mb/s) - ‘/dev/null’ saved [65612/65612]
+

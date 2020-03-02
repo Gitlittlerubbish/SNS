@@ -1,0 +1,11 @@
+--2020-03-02 01:29:23--  http://psd.gov.bn/Shared%2520Documents/Peperiksaan/memangku.pdf
+Resolving psd.gov.bn (psd.gov.bn)... 103.4.188.86
+Connecting to psd.gov.bn (psd.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                  169K=0.3s
+
+2020-03-02 01:29:24 (169 Kb/s) - ‘/dev/null’ saved [7095]
+

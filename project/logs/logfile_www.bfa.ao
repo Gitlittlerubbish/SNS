@@ -1,0 +1,21 @@
+--2020-03-01 22:38:35--  http://www.bfa.ao/media/1242/contrato-kandandu.pdf
+Resolving www.bfa.ao (www.bfa.ao)... 196.216.161.40
+Connecting to www.bfa.ao (www.bfa.ao)|196.216.161.40|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bfa.ao/media/1242/contrato-kandandu.pdf [following]
+--2020-03-01 22:38:36--  https://www.bfa.ao/media/1242/contrato-kandandu.pdf
+Connecting to www.bfa.ao (www.bfa.ao)|196.216.161.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 311290 (304K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 1.52M 1s
+    50K .......... .......... .......... .......... .......... 32%  514K 2s
+   100K .......... .......... .......... .......... .......... 49%  526K 2s
+   150K .......... .......... .......... .......... .......... 65% 3.02M 1s
+   200K .......... .......... .......... .......... .......... 82% 2.97M 0s
+   250K .......... .......... .......... .......... .......... 98% 1.45M 0s
+   300K ...                                                   100%  242M=2.4s
+
+2020-03-01 22:38:39 (1.04 Mb/s) - ‘/dev/null’ saved [311290/311290]
+

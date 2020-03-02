@@ -1,0 +1,17 @@
+--2020-03-02 00:17:55--  http://www.barsu.by/educational_work/Download/ovr_4.pdf
+Resolving www.barsu.by (www.barsu.by)... 86.57.251.172
+Connecting to www.barsu.by (www.barsu.by)|86.57.251.172|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.barsu.by/educational_work/Download/ovr_4.pdf [following]
+--2020-03-02 00:17:55--  https://www.barsu.by/educational_work/Download/ovr_4.pdf
+Connecting to www.barsu.by (www.barsu.by)|86.57.251.172|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123718 (121K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 1.68M 0s
+    50K .......... .......... .......... .......... .......... 82% 6.88M 0s
+   100K .......... ..........                                 100%  146M=0.3s
+
+2020-03-02 00:17:55 (3.24 Mb/s) - ‘/dev/null’ saved [123718/123718]
+

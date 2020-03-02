@@ -1,0 +1,16 @@
+--2020-03-02 02:31:06--  http://proxse16.univalle.edu.co/~controlinterno/doc/cp91.pdf
+Resolving proxse16.univalle.edu.co (proxse16.univalle.edu.co)... 45.5.164.13
+Connecting to proxse16.univalle.edu.co (proxse16.univalle.edu.co)|45.5.164.13|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 269357 (263K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19%  829K 2s
+    50K .......... .......... .......... .......... .......... 38% 2.47M 1s
+   100K .......... .......... .......... .......... .......... 57% 2.45M 1s
+   150K .......... .......... .......... .......... .......... 76%  349M 0s
+   200K .......... .......... .......... .......... .......... 95%  252M 0s
+   250K .......... ...                                        100%  664K=1.0s
+
+2020-03-02 02:31:08 (2.17 Mb/s) - ‘/dev/null’ saved [269357/269357]
+

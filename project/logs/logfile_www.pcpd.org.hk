@@ -1,0 +1,21 @@
+--2020-03-02 04:34:42--  http://www.pcpd.org.hk/english/files/pdpo.pdf
+Resolving www.pcpd.org.hk (www.pcpd.org.hk)... 203.192.156.174
+Connecting to www.pcpd.org.hk (www.pcpd.org.hk)|203.192.156.174|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.pcpd.org.hk/english/files/pdpo.pdf [following]
+--2020-03-02 04:34:44--  https://www.pcpd.org.hk/english/files/pdpo.pdf
+Connecting to www.pcpd.org.hk (www.pcpd.org.hk)|203.192.156.174|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 350798 (343K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14%  799K 3s
+    50K .......... .......... .......... .......... .......... 29% 1.33M 2s
+   100K .......... .......... .......... .......... .......... 43% 1.33M 1s
+   150K .......... .......... .......... .......... .......... 58% 1.32M 1s
+   200K .......... .......... .......... .......... .......... 72%  792K 1s
+   250K .......... .......... .......... .......... .......... 87%  672K 0s
+   300K .......... .......... .......... .......... ..        100%  571K=3.2s
+
+2020-03-02 04:34:48 (884 Kb/s) - ‘/dev/null’ saved [350798/350798]
+

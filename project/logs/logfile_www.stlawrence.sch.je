@@ -1,0 +1,13 @@
+--2020-03-02 05:21:52--  http://www.stlawrence.sch.je/wp-content/uploads/Jersey_Premium_report_evaluation_of_2018_and_strategy_for_2019.pdf
+Resolving www.stlawrence.sch.je (www.stlawrence.sch.je)... 185.151.28.158
+Connecting to www.stlawrence.sch.je (www.stlawrence.sch.je)|185.151.28.158|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 139021 (136K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 17.7M 0s
+    50K .......... .......... .......... .......... .......... 73% 37.5M 0s
+   100K .......... .......... .......... .....                100%  159M=0.04s
+
+2020-03-02 05:21:52 (31.0 Mb/s) - ‘/dev/null’ saved [139021/139021]
+

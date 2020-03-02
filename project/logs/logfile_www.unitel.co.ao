@@ -1,0 +1,13 @@
+--2020-03-01 22:37:21--  http://www.unitel.co.ao/servlet/web/termoutilizacao_packnatal
+Resolving www.unitel.co.ao (www.unitel.co.ao)... 41.78.17.204
+Connecting to www.unitel.co.ao (www.unitel.co.ao)|41.78.17.204|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.12M
+    50K .......... .......... .......... .......... .......... 2.25M
+   100K ..........                                              193K=1.0s
+
+2020-03-01 22:37:23 (922 Kb/s) - ‘/dev/null’ saved [112766]
+

@@ -1,0 +1,19 @@
+--2020-03-02 03:05:18--  http://www.allen.dj/laserscope/Error_Codes_All_Laserscope_Systems.pdf
+Resolving www.allen.dj (www.allen.dj)... 107.180.92.246
+Connecting to www.allen.dj (www.allen.dj)|107.180.92.246|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.allen.dj/laserscope/Error_Codes_All_Laserscope_Systems.pdf [following]
+--2020-03-02 03:05:18--  https://www.allen.dj/laserscope/Error_Codes_All_Laserscope_Systems.pdf
+Connecting to www.allen.dj (www.allen.dj)|107.180.92.246|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217239 (212K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.28M 1s
+    50K .......... .......... .......... .......... .......... 47% 4.77M 0s
+   100K .......... .......... .......... .......... .......... 70%  175M 0s
+   150K .......... .......... .......... .......... .......... 94%  285M 0s
+   200K .......... ..                                         100% 1.07G=0.3s
+
+2020-03-02 03:05:19 (6.46 Mb/s) - ‘/dev/null’ saved [217239/217239]
+

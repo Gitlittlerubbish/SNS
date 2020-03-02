@@ -1,0 +1,13 @@
+--2020-03-02 01:50:19--  http://www.gutf.cm/images/documents/annuaires/annuaire_mindcaf_servicescentraux.pdf
+Resolving www.gutf.cm (www.gutf.cm)... 195.24.207.207
+Connecting to www.gutf.cm (www.gutf.cm)|195.24.207.207|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 104065 (102K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49%  557K 1s
+    50K .......... .......... .......... .......... .......... 98% 1.11M 0s
+   100K .                                                     100%  266K=1.1s
+
+2020-03-02 01:50:22 (753 Kb/s) - ‘/dev/null’ saved [104065/104065]
+

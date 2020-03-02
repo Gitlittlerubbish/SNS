@@ -1,0 +1,20 @@
+--2020-03-02 00:20:34--  http://ehr.bz/j9
+Resolving ehr.bz (ehr.bz)... 50.62.233.1
+Connecting to ehr.bz (ehr.bz)|50.62.233.1|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.idemployee.id.tue.nl/g.w.m.rauterberg/lecturenotes/USability-Maturity-Model%5B1%5D.PDF [following]
+--2020-03-02 00:20:34--  http://www.idemployee.id.tue.nl/g.w.m.rauterberg/lecturenotes/USability-Maturity-Model%5B1%5D.PDF
+Resolving www.idemployee.id.tue.nl (www.idemployee.id.tue.nl)... 131.155.11.68
+Connecting to www.idemployee.id.tue.nl (www.idemployee.id.tue.nl)|131.155.11.68|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215678 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 8.47M 0s
+    50K .......... .......... .......... .......... .......... 47% 31.4M 0s
+   100K .......... .......... .......... .......... .......... 71% 97.2M 0s
+   150K .......... .......... .......... .......... .......... 94% 46.0M 0s
+   200K ..........                                            100% 1.50G=0.07s
+
+2020-03-02 00:20:37 (23.2 Mb/s) - ‘/dev/null’ saved [215678/215678]
+

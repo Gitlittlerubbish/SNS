@@ -1,0 +1,15 @@
+--2020-03-02 03:19:38--  http://www.esic.org.eg/UserFiles/187File58142.pdf
+Resolving www.esic.org.eg (www.esic.org.eg)... 100.42.49.232
+Connecting to www.esic.org.eg (www.esic.org.eg)|100.42.49.232|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227534 (222K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.70M 1s
+    50K .......... .......... .......... .......... .......... 45% 3.43M 0s
+   100K .......... .......... .......... .......... .......... 67%  103M 0s
+   150K .......... .......... .......... .......... .......... 90%  135M 0s
+   200K .......... .......... ..                              100% 1.59M=0.5s
+
+2020-03-02 03:19:42 (3.77 Mb/s) - ‘/dev/null’ saved [227534/227534]
+

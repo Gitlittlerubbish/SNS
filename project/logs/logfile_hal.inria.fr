@@ -1,0 +1,19 @@
+--2020-03-02 03:46:42--  http://hal.inria.fr/hal-00650905v1/document
+Resolving hal.inria.fr (hal.inria.fr)... 193.48.96.10
+Connecting to hal.inria.fr (hal.inria.fr)|193.48.96.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://hal.inria.fr/hal-00650905v1/document [following]
+--2020-03-02 03:46:42--  https://hal.inria.fr/hal-00650905v1/document
+Connecting to hal.inria.fr (hal.inria.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 251088 (245K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.69M 1s
+    50K .......... .......... .......... .......... .......... 40% 1.92M 1s
+   100K .......... .......... .......... .......... .......... 61% 3.52M 0s
+   150K .......... .......... .......... .......... .......... 81% 2.53M 0s
+   200K .......... .......... .......... .......... .....     100% 3.15M=0.9s
+
+2020-03-02 03:46:44 (2.36 Mb/s) - ‘/dev/null’ saved [251088/251088]
+

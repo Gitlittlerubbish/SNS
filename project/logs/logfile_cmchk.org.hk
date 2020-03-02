@@ -1,0 +1,18 @@
+--2020-03-02 04:34:30--  http://cmchk.org.hk/pdf/ich_zs.pdf
+Resolving cmchk.org.hk (cmchk.org.hk)... 35.220.220.46
+Connecting to cmchk.org.hk (cmchk.org.hk)|35.220.220.46|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://cmchk.org.hk/pdf/ich_zs.pdf [following]
+--2020-03-02 04:34:30--  https://cmchk.org.hk/pdf/ich_zs.pdf
+Connecting to cmchk.org.hk (cmchk.org.hk)|35.220.220.46|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 199806 (195K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  780K 2s
+    50K .......... .......... .......... .......... .......... 51% 1.57M 1s
+   100K .......... .......... .......... .......... .......... 76% 80.9M 0s
+   150K .......... .......... .......... .......... .....     100% 32.6M=0.8s
+
+2020-03-02 04:34:32 (1.99 Mb/s) - ‘/dev/null’ saved [199806/199806]
+

@@ -1,0 +1,18 @@
+--2020-03-02 03:37:13--  http://www.teoriroynd.fo/files/teoribog2.pdf
+Resolving www.teoriroynd.fo (www.teoriroynd.fo)... 89.188.72.141
+Connecting to www.teoriroynd.fo (www.teoriroynd.fo)|89.188.72.141|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.teoriroynd.fo/files/teoribog2.pdf [following]
+--2020-03-02 03:37:13--  https://www.teoriroynd.fo/files/teoribog2.pdf
+Connecting to www.teoriroynd.fo (www.teoriroynd.fo)|89.188.72.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 157753 (154K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 5.42M 0s
+    50K .......... .......... .......... .......... .......... 64%  139M 0s
+   100K .......... .......... .......... .......... .......... 97% 10.2M 0s
+   150K ....                                                  100%  291M=0.1s
+
+2020-03-02 03:37:14 (10.6 Mb/s) - ‘/dev/null’ saved [157753/157753]
+

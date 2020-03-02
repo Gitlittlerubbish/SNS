@@ -1,0 +1,13 @@
+--2020-03-02 06:59:56--  http://journalarticle.ukm.my/1522/1/1.pdf
+Resolving journalarticle.ukm.my (journalarticle.ukm.my)... 103.219.237.12
+Connecting to journalarticle.ukm.my (journalarticle.ukm.my)|103.219.237.12|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143528 (140K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 1.07M 1s
+    50K .......... .......... .......... .......... .......... 71% 2.11M 0s
+   100K .......... .......... .......... ..........           100% 20.9M=0.6s
+
+2020-03-02 06:59:58 (1.94 Mb/s) - ‘/dev/null’ saved [143528/143528]
+

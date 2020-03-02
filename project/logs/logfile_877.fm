@@ -1,0 +1,15 @@
+--2020-03-02 07:35:08--  http://877.fm/tablePrint.php
+Resolving 877.fm (877.fm)... 219.94.128.49
+Connecting to 877.fm (877.fm)|219.94.128.49|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://877.fm/tablePrint.php [following]
+--2020-03-02 07:35:09--  https://877.fm/tablePrint.php
+Connecting to 877.fm (877.fm)|219.94.128.49|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                                 585K=0.3s
+
+2020-03-02 07:35:11 (585 Kb/s) - ‘/dev/null’ saved [22317]
+

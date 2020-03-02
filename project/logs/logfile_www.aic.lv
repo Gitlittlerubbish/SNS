@@ -1,0 +1,11 @@
+--2020-03-02 06:14:37--  http://www.aic.lv/bologna2007/presentations/P_Zgaga_Conclusions_Recommendations.pdf
+Resolving www.aic.lv (www.aic.lv)... 80.232.221.44
+Connecting to www.aic.lv (www.aic.lv)|80.232.221.44|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44514 (43K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...       100% 1.54M=0.2s
+
+2020-03-02 06:14:37 (1.54 Mb/s) - ‘/dev/null’ saved [44514/44514]
+

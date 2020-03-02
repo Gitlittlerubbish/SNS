@@ -1,0 +1,31 @@
+--2020-03-02 05:02:28--  http://zop.im/multibrand
+Resolving zop.im (zop.im)... 104.17.111.45, 104.16.26.61
+Connecting to zop.im (zop.im)|104.17.111.45|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://zop.im/multibrand [following]
+--2020-03-02 05:02:28--  https://zop.im/multibrand
+Connecting to zop.im (zop.im)|104.17.111.45|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://zen-marketing-zopim.s3.amazonaws.com/PMM/Zendesk_Chat_Multibrand_Guide.pdf [following]
+--2020-03-02 05:02:29--  https://zen-marketing-zopim.s3.amazonaws.com/PMM/Zendesk_Chat_Multibrand_Guide.pdf
+Resolving zen-marketing-zopim.s3.amazonaws.com (zen-marketing-zopim.s3.amazonaws.com)... 52.219.32.36
+Connecting to zen-marketing-zopim.s3.amazonaws.com (zen-marketing-zopim.s3.amazonaws.com)|52.219.32.36|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 607918 (594K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 2.30M 2s
+    50K .......... .......... .......... .......... .......... 16% 2.30M 2s
+   100K .......... .......... .......... .......... .......... 25% 2.33M 2s
+   150K .......... .......... .......... .......... .......... 33%  151M 1s
+   200K .......... .......... .......... .......... .......... 42%  272M 1s
+   250K .......... .......... .......... .......... .......... 50% 2.33M 1s
+   300K .......... .......... .......... .......... .......... 58%  217M 0s
+   350K .......... .......... .......... .......... .......... 67%  231M 0s
+   400K .......... .......... .......... .......... .......... 75%  361M 0s
+   450K .......... .......... .......... .......... .......... 84%  227M 0s
+   500K .......... .......... .......... .......... .......... 92% 2.38M 0s
+   550K .......... .......... .......... .......... ...       100% 98.9M=0.9s
+
+2020-03-02 05:02:31 (5.44 Mb/s) - ‘/dev/null’ saved [607918/607918]
+

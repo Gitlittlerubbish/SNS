@@ -1,0 +1,16 @@
+--2020-03-02 00:49:53--  http://www.hergo.com.bo/pdf/1290.pdf
+Resolving www.hergo.com.bo (www.hergo.com.bo)... 200.75.160.22
+Connecting to www.hergo.com.bo (www.hergo.com.bo)|200.75.160.22|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hergo.com.bo/pdf/1290.pdf [following]
+--2020-03-02 00:49:53--  https://www.hergo.com.bo/pdf/1290.pdf
+Connecting to www.hergo.com.bo (www.hergo.com.bo)|200.75.160.22|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76568 (75K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 1.44M 0s
+    50K .......... .......... ....                            100% 1.97M=0.4s
+
+2020-03-02 00:49:55 (1.58 Mb/s) - ‘/dev/null’ saved [76568/76568]
+

@@ -1,0 +1,16 @@
+--2020-03-02 07:33:00--  http://www.mycloud.fm/CondGen.pdf
+Resolving www.mycloud.fm (www.mycloud.fm)... 85.236.152.79
+Connecting to www.mycloud.fm (www.mycloud.fm)|85.236.152.79|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.mycloud.fm/CondGen.pdf [following]
+--2020-03-02 07:33:00--  https://www.mycloud.fm/CondGen.pdf
+Connecting to www.mycloud.fm (www.mycloud.fm)|85.236.152.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80247 (78K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 15.8M 0s
+    50K .......... .......... ........                        100%  908M=0.03s
+
+2020-03-02 07:33:00 (24.6 Mb/s) - ‘/dev/null’ saved [80247/80247]
+

@@ -1,0 +1,18 @@
+--2020-03-02 02:55:44--  http://www.belupo.hr/media/products/MIROBACT_20_mg1_g_mast.pdf
+Resolving www.belupo.hr (www.belupo.hr)... 139.162.160.34
+Connecting to www.belupo.hr (www.belupo.hr)|139.162.160.34|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.belupo.hr/media/products/MIROBACT_20_mg1_g_mast.pdf [following]
+--2020-03-02 02:55:44--  https://www.belupo.hr/media/products/MIROBACT_20_mg1_g_mast.pdf
+Connecting to www.belupo.hr (www.belupo.hr)|139.162.160.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165592 (162K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 22.2M 0s
+    50K .......... .......... .......... .......... .......... 61% 24.6M 0s
+   100K .......... .......... .......... .......... .......... 92%  117M 0s
+   150K .......... .                                          100%  922M=0.04s
+
+2020-03-02 02:55:44 (34.2 Mb/s) - ‘/dev/null’ saved [165592/165592]
+

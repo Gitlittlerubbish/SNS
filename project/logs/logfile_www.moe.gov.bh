@@ -1,0 +1,13 @@
+--2020-03-01 23:57:39--  http://www.moe.gov.bh/images/teachers_names.pdf
+Resolving www.moe.gov.bh (www.moe.gov.bh)... 34.243.156.160
+Connecting to www.moe.gov.bh (www.moe.gov.bh)|34.243.156.160|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135123 (132K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 4.92M 0s
+    50K .......... .......... .......... .......... .......... 75% 7.21M 0s
+   100K .......... .......... .......... .                    100% 8.93M=0.2s
+
+2020-03-01 23:57:39 (6.38 Mb/s) - ‘/dev/null’ saved [135123/135123]
+

@@ -1,0 +1,12 @@
+--2020-03-02 04:09:56--  http://www.kamikposten.gl/wp-content/uploads/2018/07/Faktaark-oekonomiske-noegletal.pdf
+Resolving www.kamikposten.gl (www.kamikposten.gl)... 209.135.140.203
+Connecting to www.kamikposten.gl (www.kamikposten.gl)|209.135.140.203|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 84002 (82K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 60% 2.14M 0s
+    50K .......... .......... .......... ..                   100% 2.74M=0.3s
+
+2020-03-02 04:09:57 (2.34 Mb/s) - ‘/dev/null’ saved [84002/84002]
+

@@ -1,0 +1,12 @@
+--2020-03-02 03:50:55--  http://maths.grange.pf/LYCEE/INFO/TI/algo_ti.pdf
+Resolving maths.grange.pf (maths.grange.pf)... 199.59.247.118
+Connecting to maths.grange.pf (maths.grange.pf)|199.59.247.118|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89849 (88K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56% 2.18M 0s
+    50K .......... .......... .......... .......              100%  146M=0.2s
+
+2020-03-02 03:50:55 (3.79 Mb/s) - ‘/dev/null’ saved [89849/89849]
+

@@ -1,0 +1,36 @@
+--2020-03-02 08:07:03--  http://www.nrb.org.np/mfd/mfd_brocher.pdf
+Resolving www.nrb.org.np (www.nrb.org.np)... 202.63.240.150
+Connecting to www.nrb.org.np (www.nrb.org.np)|202.63.240.150|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nrb.org.np/mfd/mfd_brocher.pdf [following]
+--2020-03-02 08:07:06--  https://www.nrb.org.np/mfd/mfd_brocher.pdf
+Connecting to www.nrb.org.np (www.nrb.org.np)|202.63.240.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 268264 (262K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19%  417K 4s
+    50K .......... .......... .......... .......... .......... 38% 1.32M 2s
+   100K .......... .......... .......... .......... .......... 57% 1.35M 1s
+   150K .......... .......... .......... .......... .......... 76%  305M 0s
+   200K .......... .......... .......... .......... .......... 95% 1.32M 0s
+   250K .......... .                                          100%  991M=1.9s
+
+2020-03-02 08:07:12 (1.13 Mb/s) - ‘/dev/null’ saved [268264/268264]
+
+--2020-03-02 08:07:12--  http://www.nrb.org.np/bsd/pdffiles/FAQBaselIIinNepaleseperspective.pdf
+Resolving www.nrb.org.np (www.nrb.org.np)... 202.63.240.150
+Connecting to www.nrb.org.np (www.nrb.org.np)|202.63.240.150|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.nrb.org.np/bsd/pdffiles/FAQBaselIIinNepaleseperspective.pdf [following]
+--2020-03-02 08:07:13--  https://www.nrb.org.np/bsd/pdffiles/FAQBaselIIinNepaleseperspective.pdf
+Connecting to www.nrb.org.np (www.nrb.org.np)|202.63.240.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51654 (50K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 99%  665K 0s
+    50K                                                       100% 72.6K=0.6s
+
+2020-03-02 08:07:15 (671 Kb/s) - ‘/dev/null’ saved [51654/51654]
+

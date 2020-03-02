@@ -1,0 +1,23 @@
+--2020-03-02 03:05:10--  http://www.sensekost.dk/filarkiv/pdf/To_dage_med_Sense.pdf
+Resolving www.sensekost.dk (www.sensekost.dk)... 176.9.33.165
+Connecting to www.sensekost.dk (www.sensekost.dk)|176.9.33.165|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sensekost.dk/filarkiv/pdf/To_dage_med_Sense.pdf [following]
+--2020-03-02 03:05:10--  https://www.sensekost.dk/filarkiv/pdf/To_dage_med_Sense.pdf
+Connecting to www.sensekost.dk (www.sensekost.dk)|176.9.33.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 412603 (403K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 5.86M 0s
+    50K .......... .......... .......... .......... .......... 24% 16.5M 0s
+   100K .......... .......... .......... .......... .......... 37% 18.3M 0s
+   150K .......... .......... .......... .......... .......... 49% 51.8M 0s
+   200K .......... .......... .......... .......... .......... 62%  198M 0s
+   250K .......... .......... .......... .......... .......... 74% 19.9M 0s
+   300K .......... .......... .......... .......... .......... 86% 26.0M 0s
+   350K .......... .......... .......... .......... .......... 99%  121M 0s
+   400K ..                                                    100%  236M=0.2s
+
+2020-03-02 03:05:10 (19.8 Mb/s) - ‘/dev/null’ saved [412603/412603]
+

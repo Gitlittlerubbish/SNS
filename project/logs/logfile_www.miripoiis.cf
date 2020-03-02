@@ -1,0 +1,24 @@
+--2020-03-02 02:01:55--  http://www.miripoiis.cf/Download/23642/Suunnitteluperusteet.pdf
+Resolving www.miripoiis.cf (www.miripoiis.cf)... 104.27.190.145, 104.27.191.145
+Connecting to www.miripoiis.cf (www.miripoiis.cf)|104.27.190.145|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 97.8M
+    50K .......... .......... .......... ..........             203M=0.006s
+
+2020-03-02 02:01:55 (128 Mb/s) - ‘/dev/null’ saved [92937]
+
+--2020-03-02 02:02:07--  http://www.miripoiis.cf/Download/23642/Suunnitteluperusteet.pdf
+Resolving www.miripoiis.cf (www.miripoiis.cf)... 104.27.190.145, 104.27.191.145
+Connecting to www.miripoiis.cf (www.miripoiis.cf)|104.27.190.145|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  106M
+    50K .......... .......... .......... ..........             182M=0.006s
+
+2020-03-02 02:02:07 (130 Mb/s) - ‘/dev/null’ saved [92937]
+

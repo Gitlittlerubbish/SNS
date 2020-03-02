@@ -1,0 +1,12 @@
+--2020-03-02 08:29:45--  http://www.chemteach.ac.nz/documents/Ion_revision.pdf
+Resolving www.chemteach.ac.nz (www.chemteach.ac.nz)... 132.181.106.41
+Connecting to www.chemteach.ac.nz (www.chemteach.ac.nz)|132.181.106.41|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73707 (72K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 69% 1.26M 0s
+    50K .......... .......... .                               100%  227M=0.3s
+
+2020-03-02 08:29:46 (1.81 Mb/s) - ‘/dev/null’ saved [73707/73707]
+

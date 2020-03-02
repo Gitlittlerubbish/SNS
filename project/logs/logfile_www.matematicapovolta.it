@@ -1,0 +1,18 @@
+--2020-03-02 05:09:09--  http://www.matematicapovolta.it/tabelle/sencostg.pdf
+Resolving www.matematicapovolta.it (www.matematicapovolta.it)... 104.18.56.191, 104.18.57.191
+Connecting to www.matematicapovolta.it (www.matematicapovolta.it)|104.18.56.191|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.matematicapovolta.it/tabelle/sencostg.pdf [following]
+--2020-03-02 05:09:09--  https://www.matematicapovolta.it/tabelle/sencostg.pdf
+Connecting to www.matematicapovolta.it (www.matematicapovolta.it)|104.18.56.191|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170005 (166K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 91.9M 0s
+    50K .......... .......... .......... .......... .......... 60%  110M 0s
+   100K .......... .......... .......... .......... .......... 90%  182M 0s
+   150K .......... ......                                     100%  179M=0.01s
+
+2020-03-02 05:09:09 (122 Mb/s) - ‘/dev/null’ saved [170005/170005]
+

@@ -1,0 +1,27 @@
+--2020-03-02 00:13:26--  http://belchip.by/sitedocs/18230.pdf
+Resolving belchip.by (belchip.by)... 178.172.201.67
+Connecting to belchip.by (belchip.by)|178.172.201.67|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159946 (156K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 3.30M 0s
+    50K .......... .......... .......... .......... .......... 64% 3.34M 0s
+   100K .......... .......... .......... .......... .......... 96% 6.64M 0s
+   150K ......                                                100% 1.02M=0.3s
+
+2020-03-02 00:13:27 (4.15 Mb/s) - ‘/dev/null’ saved [159946/159946]
+
+--2020-03-02 00:13:27--  http://belchip.by/sitedocs/00016165.pdf
+Resolving belchip.by (belchip.by)... 178.172.201.67
+Connecting to belchip.by (belchip.by)|178.172.201.67|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113614 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 3.26M 0s
+    50K .......... .......... .......... .......... .......... 90% 6.58M 0s
+   100K ..........                                            100%  507M=0.2s
+
+2020-03-02 00:13:27 (4.83 Mb/s) - ‘/dev/null’ saved [113614/113614]
+

@@ -1,0 +1,23 @@
+--2020-03-02 02:00:49--  http://www.seminalplasminw.cf/behandelingen/buik/buikwandcorrectie_door_de_plastisch_chirurg.pdf
+Resolving www.seminalplasminw.cf (www.seminalplasminw.cf)... 104.18.36.14, 104.18.37.14
+Connecting to www.seminalplasminw.cf (www.seminalplasminw.cf)|104.18.36.14|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  107M
+    50K .......... ..                                           737M=0.004s
+
+2020-03-02 02:00:49 (129 Mb/s) - ‘/dev/null’ saved [63640]
+
+--2020-03-02 02:00:49--  http://www.seminalplasminw.cf/onderzoeken/maag/gastroscopie.pdf
+Resolving www.seminalplasminw.cf (www.seminalplasminw.cf)... 104.18.36.14, 104.18.37.14
+Connecting to www.seminalplasminw.cf (www.seminalplasminw.cf)|104.18.36.14|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....      43.6M=0.009s
+
+2020-03-02 02:00:49 (43.6 Mb/s) - ‘/dev/null’ saved [46670]
+

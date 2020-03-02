@@ -1,0 +1,21 @@
+--2020-03-02 04:14:56--  http://www.genesisgaming.gg/s/MELEE_G4_RULESET.pdf
+Resolving www.genesisgaming.gg (www.genesisgaming.gg)... 198.49.23.144, 198.185.159.144, 198.49.23.145, ...
+Connecting to www.genesisgaming.gg (www.genesisgaming.gg)|198.49.23.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.genesisgaming.gg/s/MELEE_G4_RULESET.pdf [following]
+--2020-03-02 04:14:57--  https://www.genesisgaming.gg/s/MELEE_G4_RULESET.pdf
+Connecting to www.genesisgaming.gg (www.genesisgaming.gg)|198.49.23.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/55fa1b39e4b045bda5ba5b0f/t/5880b1da725e25792a4a7fb0/1484829146816/MELEE_G4_RULESET.pdf [following]
+--2020-03-02 04:14:58--  https://static1.squarespace.com/static/55fa1b39e4b045bda5ba5b0f/t/5880b1da725e25792a4a7fb0/1484829146816/MELEE_G4_RULESET.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94864 (93K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 53% 27.6M 0s
+    50K .......... .......... .......... .......... ..        100% 81.6M=0.02s
+
+2020-03-02 04:14:58 (39.7 Mb/s) - ‘/dev/null’ saved [94864/94864]
+

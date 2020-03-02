@@ -1,0 +1,28 @@
+--2020-03-02 06:27:22--  http://www.seb.lt/pdf/lt/Vekseliai.pdf
+Resolving www.seb.lt (www.seb.lt)... 78.24.199.9
+Connecting to www.seb.lt (www.seb.lt)|78.24.199.9|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.seb.lt/pdf/lt/Vekseliai.pdf [following]
+--2020-03-02 06:27:22--  https://www.seb.lt/pdf/lt/Vekseliai.pdf
+Connecting to www.seb.lt (www.seb.lt)|78.24.199.9|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /sites/default/files/web/pdf/Vekseliai.pdf [following]
+--2020-03-02 06:27:23--  https://www.seb.lt/sites/default/files/web/pdf/Vekseliai.pdf
+Reusing existing connection to www.seb.lt:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 474592 (463K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 2.58M 1s
+    50K .......... .......... .......... .......... .......... 21% 7.88M 1s
+   100K .......... .......... .......... .......... .......... 32% 7.85M 1s
+   150K .......... .......... .......... .......... .......... 43% 7.88M 0s
+   200K .......... .......... .......... .......... .......... 53% 8.61M 0s
+   250K .......... .......... .......... .......... .......... 64% 49.5M 0s
+   300K .......... .......... .......... .......... .......... 75% 8.27M 0s
+   350K .......... .......... .......... .......... .......... 86% 7.82M 0s
+   400K .......... .......... .......... .......... .......... 97% 7.92M 0s
+   450K .......... ...                                        100% 3.06G=0.5s
+
+2020-03-02 06:27:23 (7.24 Mb/s) - ‘/dev/null’ saved [474592/474592]
+

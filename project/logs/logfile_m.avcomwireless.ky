@@ -1,0 +1,16 @@
+--2020-03-02 01:54:48--  http://m.avcomwireless.ky/Documents/WNS_LimitedWarranty.pdf
+Resolving m.avcomwireless.ky (m.avcomwireless.ky)... 65.254.250.110
+Connecting to m.avcomwireless.ky (m.avcomwireless.ky)|65.254.250.110|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://m.avcomwireless.ky/Documents/WNS_LimitedWarranty.pdf [following]
+--2020-03-02 01:54:48--  https://m.avcomwireless.ky/Documents/WNS_LimitedWarranty.pdf
+Connecting to m.avcomwireless.ky (m.avcomwireless.ky)|65.254.250.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76212 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 67%  181M 0s
+    50K .......... .......... ....                            100% 1.38M=0.1s
+
+2020-03-02 01:54:48 (4.14 Mb/s) - ‘/dev/null’ saved [76212/76212]
+

@@ -1,0 +1,31 @@
+--2020-03-02 01:21:28--  http://bvi.gov.vg/pub/VISRFiles/uksi_20001335_en.pdf
+Resolving bvi.gov.vg (bvi.gov.vg)... 206.214.27.55
+Connecting to bvi.gov.vg (bvi.gov.vg)|206.214.27.55|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://bvi.gov.vg/pub/VISRFiles/uksi_20001335_en.pdf [following]
+--2020-03-02 01:21:29--  https://bvi.gov.vg/pub/VISRFiles/uksi_20001335_en.pdf
+Connecting to bvi.gov.vg (bvi.gov.vg)|206.214.27.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48661 (48K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......   100% 3.17M=0.1s
+
+2020-03-02 01:21:30 (3.17 Mb/s) - ‘/dev/null’ saved [48661/48661]
+
+--2020-03-02 01:21:30--  http://bvi.gov.vg/pub/VISRFiles/uksi_19992722_en.pdf
+Resolving bvi.gov.vg (bvi.gov.vg)... 206.214.27.55
+Connecting to bvi.gov.vg (bvi.gov.vg)|206.214.27.55|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://bvi.gov.vg/pub/VISRFiles/uksi_19992722_en.pdf [following]
+--2020-03-02 01:21:30--  https://bvi.gov.vg/pub/VISRFiles/uksi_19992722_en.pdf
+Connecting to bvi.gov.vg (bvi.gov.vg)|206.214.27.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56713 (55K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 90% 3.21M 0s
+    50K .....                                                 100%  882K=0.1s
+
+2020-03-02 01:21:31 (3.55 Mb/s) - ‘/dev/null’ saved [56713/56713]
+

@@ -1,0 +1,28 @@
+--2020-03-02 04:39:28--  http://www.engine.is/s/Hacking_The_Patent_System_2016_update.pdf
+Resolving www.engine.is (www.engine.is)... 198.185.159.144, 198.185.159.145, 198.49.23.144, ...
+Connecting to www.engine.is (www.engine.is)|198.185.159.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.engine.is/s/Hacking_The_Patent_System_2016_update.pdf [following]
+--2020-03-02 04:39:28--  https://www.engine.is/s/Hacking_The_Patent_System_2016_update.pdf
+Connecting to www.engine.is (www.engine.is)|198.185.159.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/571681753c44d835a440c8b5/t/573d29d47c65e401e6618024/1463626198428/Hacking_The_Patent_System_2016_update.pdf [following]
+--2020-03-02 04:39:29--  https://static1.squarespace.com/static/571681753c44d835a440c8b5/t/573d29d47c65e401e6618024/1463626198428/Hacking_The_Patent_System_2016_update.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 450552 (440K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 29.8M 0s
+    50K .......... .......... .......... .......... .......... 22% 58.9M 0s
+   100K .......... .......... .......... .......... .......... 34% 57.5M 0s
+   150K .......... .......... .......... .......... .......... 45% 53.2M 0s
+   200K .......... .......... .......... .......... .......... 56% 58.7M 0s
+   250K .......... .......... .......... .......... .......... 68% 67.6M 0s
+   300K .......... .......... .......... .......... .......... 79% 84.1M 0s
+   350K .......... .......... .......... .......... .......... 90% 50.8M 0s
+   400K .......... .......... .......... .........            100%  151M=0.06s
+
+2020-03-02 04:39:29 (56.6 Mb/s) - ‘/dev/null’ saved [450552/450552]
+

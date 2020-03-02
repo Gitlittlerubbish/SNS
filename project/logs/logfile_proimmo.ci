@@ -1,0 +1,12 @@
+--2020-03-02 02:51:12--  http://proimmo.ci/docs/status1.pdf
+Resolving proimmo.ci (proimmo.ci)... 83.166.138.44
+Connecting to proimmo.ci (proimmo.ci)|83.166.138.44|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81355 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62% 6.92M 0s
+    50K .......... .......... .........                       100%  209M=0.06s
+
+2020-03-02 02:51:12 (10.8 Mb/s) - ‘/dev/null’ saved [81355/81355]
+

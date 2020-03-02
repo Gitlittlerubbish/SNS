@@ -1,0 +1,21 @@
+--2020-03-01 23:40:05--  http://crana.org.au/uploads/pdfs/Other_42.pdf
+Resolving crana.org.au (crana.org.au)... 116.90.0.146
+Connecting to crana.org.au (crana.org.au)|116.90.0.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://crana.org.au/uploads/pdfs/Other_42.pdf [following]
+--2020-03-01 23:40:05--  https://crana.org.au/uploads/pdfs/Other_42.pdf
+Connecting to crana.org.au (crana.org.au)|116.90.0.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307834 (301K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16%  666K 3s
+    50K .......... .......... .......... .......... .......... 33%  667K 2s
+   100K .......... .......... .......... .......... .......... 49%  263M 1s
+   150K .......... .......... .......... .......... .......... 66% 1.44M 1s
+   200K .......... .......... .......... .......... .......... 83%  204M 0s
+   250K .......... .......... .......... .......... .......... 99% 1.25M 0s
+   300K                                                       100%  101K=1.8s
+
+2020-03-01 23:40:09 (1.33 Mb/s) - ‘/dev/null’ saved [307834/307834]
+

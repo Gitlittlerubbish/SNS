@@ -1,0 +1,12 @@
+--2020-03-02 08:08:41--  http://nfnmakwanpur.org.np/exfiles/Sanstha_Darta.pdf
+Resolving nfnmakwanpur.org.np (nfnmakwanpur.org.np)... 5.189.186.245
+Connecting to nfnmakwanpur.org.np (nfnmakwanpur.org.np)|5.189.186.245|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52485 (51K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 97% 7.64M 0s
+    50K .                                                     100%  206K=0.05s
+
+2020-03-02 08:08:42 (7.83 Mb/s) - ‘/dev/null’ saved [52485/52485]
+

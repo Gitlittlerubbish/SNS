@@ -1,0 +1,24 @@
+--2020-03-02 03:59:52--  http://momavali2012.ge/masala/instr/2.pdf
+Resolving momavali2012.ge (momavali2012.ge)... 91.212.213.93
+Connecting to momavali2012.ge (momavali2012.ge)|91.212.213.93|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63115 (62K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 81% 2.24M 0s
+    50K .......... .                                          100% 1.91G=0.2s
+
+2020-03-02 03:59:53 (2.76 Mb/s) - ‘/dev/null’ saved [63115/63115]
+
+--2020-03-02 03:59:55--  http://momavali2012.ge/masala/instr/2.pdf
+Resolving momavali2012.ge (momavali2012.ge)... 91.212.213.93
+Connecting to momavali2012.ge (momavali2012.ge)|91.212.213.93|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 63115 (62K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 81% 2.04M 0s
+    50K .......... .                                          100%  107M=0.2s
+
+2020-03-02 03:59:55 (2.50 Mb/s) - ‘/dev/null’ saved [63115/63115]
+

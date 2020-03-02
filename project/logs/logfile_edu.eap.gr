@@ -1,0 +1,14 @@
+--2020-03-02 04:07:25--  http://edu.eap.gr/pli/pli23/documents/Parallila_Keimena/Cellular_Communications.pdf
+Resolving edu.eap.gr (edu.eap.gr)... 193.108.160.197
+Connecting to edu.eap.gr (edu.eap.gr)|193.108.160.197|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 159924 (156K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 1.66M 1s
+    50K .......... .......... .......... .......... .......... 64% 3.39M 0s
+   100K .......... .......... .......... .......... .......... 96%  152M 0s
+   150K ......                                                100% 1.01G=0.4s
+
+2020-03-02 04:07:26 (3.46 Mb/s) - ‘/dev/null’ saved [159924/159924]
+

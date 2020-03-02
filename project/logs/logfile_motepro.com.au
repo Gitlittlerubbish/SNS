@@ -1,0 +1,13 @@
+--2020-03-01 23:38:06--  http://motepro.com.au/Instructions/bd.pdf
+Resolving motepro.com.au (motepro.com.au)... 104.27.130.92, 104.27.131.92
+Connecting to motepro.com.au (motepro.com.au)|104.27.130.92|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109032 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 1.97M 0s
+    50K .......... .......... .......... .......... .......... 93%  148M 0s
+   100K ......                                                100% 19.7M=0.2s
+
+2020-03-01 23:38:08 (4.09 Mb/s) - ‘/dev/null’ saved [109032/109032]
+

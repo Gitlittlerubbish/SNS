@@ -1,0 +1,17 @@
+--2020-03-02 02:55:58--  http://www.tele2.hr/upload/pdf/uvjeti_koristenja_usluge_sos_kredit_za_tele2_korisnike_bonova.pdf
+Resolving www.tele2.hr (www.tele2.hr)... 212.247.238.170
+Connecting to www.tele2.hr (www.tele2.hr)|212.247.238.170|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.tele2.hr/upload/pdf/uvjeti_koristenja_usluge_sos_kredit_za_tele2_korisnike_bonova.pdf [following]
+--2020-03-02 02:55:58--  https://www.tele2.hr/upload/pdf/uvjeti_koristenja_usluge_sos_kredit_za_tele2_korisnike_bonova.pdf
+Connecting to www.tele2.hr (www.tele2.hr)|212.247.238.170|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105832 (103K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 4.87M 0s
+    50K .......... .......... .......... .......... .......... 96% 9.68M 0s
+   100K ...                                                   100%  352M=0.1s
+
+2020-03-02 02:55:59 (6.69 Mb/s) - ‘/dev/null’ saved [105832/105832]
+

@@ -1,0 +1,11 @@
+--2020-03-01 22:32:06--  http://www.nic.ad/pdf/Reglament_noms_comercials_cas.pdf
+Resolving www.nic.ad (www.nic.ad)... 194.158.91.121
+Connecting to www.nic.ad (www.nic.ad)|194.158.91.121|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43039 (42K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..        100% 7.85M=0.04s
+
+2020-03-01 22:32:06 (7.85 Mb/s) - ‘/dev/null’ saved [43039/43039]
+

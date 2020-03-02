@@ -1,0 +1,15 @@
+--2020-03-02 01:53:00--  http://www.cmnrp.ca/uploads/documents/Newborn_Thermoregulation_SLM_2013_06.pdf
+Resolving www.cmnrp.ca (www.cmnrp.ca)... 23.253.52.230
+Connecting to www.cmnrp.ca (www.cmnrp.ca)|23.253.52.230|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 250021 (244K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 2.15M 1s
+    50K .......... .......... .......... .......... .......... 40% 4.36M 0s
+   100K .......... .......... .......... .......... .......... 61% 4.34M 0s
+   150K .......... .......... .......... .......... .......... 81% 4.28M 0s
+   200K .......... .......... .......... .......... ....      100%  161M=0.5s
+
+2020-03-02 01:53:01 (4.20 Mb/s) - ‘/dev/null’ saved [250021/250021]
+

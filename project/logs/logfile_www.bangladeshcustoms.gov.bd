@@ -1,0 +1,12 @@
+--2020-03-02 00:02:47--  http://www.bangladeshcustoms.gov.bd/download/Convention_on_International_Trade_in_Endangered_Species_of_Wild_Fauna_and_Flora.pdf
+Resolving www.bangladeshcustoms.gov.bd (www.bangladeshcustoms.gov.bd)... 103.48.16.30
+Connecting to www.bangladeshcustoms.gov.bd (www.bangladeshcustoms.gov.bd)|103.48.16.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80268 (78K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 1.41M 0s
+    50K .......... .......... ........                        100% 2.79M=0.4s
+
+2020-03-02 00:02:48 (1.72 Mb/s) - ‘/dev/null’ saved [80268/80268]
+

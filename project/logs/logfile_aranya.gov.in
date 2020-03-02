@@ -1,0 +1,16 @@
+--2020-03-02 04:46:09--  http://aranya.gov.in/downloads/FC_Act_1980.pdf
+Resolving aranya.gov.in (aranya.gov.in)... 164.100.80.175
+Connecting to aranya.gov.in (aranya.gov.in)|164.100.80.175|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aranya.gov.in/downloads/FC_Act_1980.pdf [following]
+--2020-03-02 04:46:09--  https://aranya.gov.in/downloads/FC_Act_1980.pdf
+Connecting to aranya.gov.in (aranya.gov.in)|164.100.80.175|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54597 (53K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 93%  573K 0s
+    50K ...                                                   100%  544K=0.7s
+
+2020-03-02 04:46:11 (611 Kb/s) - ‘/dev/null’ saved [54597/54597]
+

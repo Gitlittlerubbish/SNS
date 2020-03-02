@@ -1,0 +1,16 @@
+--2020-03-02 04:01:07--  http://www.rundfunkbeitrag.de/e175/e4794/Rundfunkbeitragsstaatsvertrag.pdf
+Resolving www.rundfunkbeitrag.de (www.rundfunkbeitrag.de)... 83.169.51.106
+Connecting to www.rundfunkbeitrag.de (www.rundfunkbeitrag.de)|83.169.51.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rundfunkbeitrag.de/e175/e4794/Rundfunkbeitragsstaatsvertrag.pdf [following]
+--2020-03-02 04:01:07--  https://www.rundfunkbeitrag.de/e175/e4794/Rundfunkbeitragsstaatsvertrag.pdf
+Connecting to www.rundfunkbeitrag.de (www.rundfunkbeitrag.de)|83.169.51.106|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88914 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 13.1M 0s
+    50K .......... .......... .......... ......               100%  435M=0.03s
+
+2020-03-02 04:01:07 (22.2 Mb/s) - ‘/dev/null’ saved [88914/88914]
+

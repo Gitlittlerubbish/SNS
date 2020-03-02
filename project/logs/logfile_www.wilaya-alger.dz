@@ -1,0 +1,14 @@
+--2020-03-01 22:23:58--  http://www.wilaya-alger.dz/ONML.pdf
+Resolving www.wilaya-alger.dz (www.wilaya-alger.dz)... 197.112.0.111
+Connecting to www.wilaya-alger.dz (www.wilaya-alger.dz)|197.112.0.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 191011 (187K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26%  131M 0s
+    50K .......... .......... .......... .......... .......... 53% 6.76M 0s
+   100K .......... .......... .......... .......... .......... 80%  139M 0s
+   150K .......... .......... .......... ......               100% 5.13M=0.1s
+
+2020-03-01 22:23:58 (12.2 Mb/s) - ‘/dev/null’ saved [191011/191011]
+

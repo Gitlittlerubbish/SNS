@@ -1,0 +1,15 @@
+--2020-03-02 04:30:16--  http://www.cuhk.edu.hk/chem/doc/s6_resourcebk/en-s_expt_11.pdf
+Resolving www.cuhk.edu.hk (www.cuhk.edu.hk)... 27.126.235.25
+Connecting to www.cuhk.edu.hk (www.cuhk.edu.hk)|27.126.235.25|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227435 (222K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 43.9M 0s
+    50K .......... .......... .......... .......... .......... 45% 5.62M 0s
+   100K .......... .......... .......... .......... .......... 67% 83.4M 0s
+   150K .......... .......... .......... .......... .......... 90% 2.45M 0s
+   200K .......... .......... ..                              100% 1.03G=0.3s
+
+2020-03-02 04:30:17 (7.14 Mb/s) - ‘/dev/null’ saved [227435/227435]
+

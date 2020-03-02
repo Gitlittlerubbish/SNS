@@ -1,0 +1,15 @@
+--2020-03-02 06:26:01--  http://www.ifm.li/files/attachments/Anlegermitteilung_Legacy_Investment_Fund_20190809.pdf%3Ft%3D290819185755
+Resolving www.ifm.li (www.ifm.li)... 91.207.130.29
+Connecting to www.ifm.li (www.ifm.li)|91.207.130.29|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ifm.li/default.aspx?404;http://www.ifm.li:80/files/attachments/Anlegermitteilung_Legacy_Investment_Fund_20190809.pdf?t=290819185755 [following]
+--2020-03-02 06:26:01--  https://www.ifm.li/default.aspx?404;http://www.ifm.li:80/files/attachments/Anlegermitteilung_Legacy_Investment_Fund_20190809.pdf?t=290819185755
+Connecting to www.ifm.li (www.ifm.li)|91.207.130.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43681 (43K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..        100% 8.20M=0.04s
+
+2020-03-02 06:26:01 (8.20 Mb/s) - ‘/dev/null’ saved [43681/43681]
+

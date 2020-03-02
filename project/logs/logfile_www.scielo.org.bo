@@ -1,0 +1,15 @@
+--2020-03-02 00:46:39--  http://www.scielo.org.bo/pdf/jsars/v1n1/a02.pdf
+Resolving www.scielo.org.bo (www.scielo.org.bo)... 200.105.141.249
+Connecting to www.scielo.org.bo (www.scielo.org.bo)|200.105.141.249|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211105 (206K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24%  526K 2s
+    50K .......... .......... .......... .......... .......... 48% 1.13M 1s
+   100K .......... .......... .......... .......... .......... 72% 23.0M 0s
+   150K .......... .......... .......... .......... .......... 97% 2.25M 0s
+   200K ......                                                100% 21.3M=1.3s
+
+2020-03-02 00:46:40 (1.26 Mb/s) - ‘/dev/null’ saved [211105/211105]
+

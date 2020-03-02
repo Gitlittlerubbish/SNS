@@ -1,0 +1,13 @@
+--2020-03-02 01:14:32--  http://www.hinariodigital.com.br/hdcif/425.pdf
+Resolving www.hinariodigital.com.br (www.hinariodigital.com.br)... 186.202.153.106
+Connecting to www.hinariodigital.com.br (www.hinariodigital.com.br)|186.202.153.106|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106811 (104K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47%  936K 0s
+    50K .......... .......... .......... .......... .......... 95% 1.90M 0s
+   100K ....                                                  100%  321M=0.7s
+
+2020-03-02 01:14:33 (1.31 Mb/s) - ‘/dev/null’ saved [106811/106811]
+

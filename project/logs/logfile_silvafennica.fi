@@ -1,0 +1,20 @@
+--2020-03-02 03:44:46--  http://silvafennica.fi/pdf/article236.pdf
+Resolving silvafennica.fi (silvafennica.fi)... 193.166.24.146
+Connecting to silvafennica.fi (silvafennica.fi)|193.166.24.146|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://silvafennica.fi/pdf/article236.pdf [following]
+--2020-03-02 03:44:46--  https://silvafennica.fi/pdf/article236.pdf
+Connecting to silvafennica.fi (silvafennica.fi)|193.166.24.146|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256313 (250K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 4.13M 0s
+    50K .......... .......... .......... .......... .......... 39% 8.54M 0s
+   100K .......... .......... .......... .......... .......... 59%  112M 0s
+   150K .......... .......... .......... .......... .......... 79%  314M 0s
+   200K .......... .......... .......... .......... .......... 99% 8.91M 0s
+   250K                                                       100% 50.1K=0.2s
+
+2020-03-02 03:44:47 (10.4 Mb/s) - ‘/dev/null’ saved [256313/256313]
+

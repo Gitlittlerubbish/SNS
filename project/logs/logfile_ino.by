@@ -1,0 +1,13 @@
+--2020-03-02 00:14:36--  http://ino.by/docs/forma_dogovora.pdf
+Resolving ino.by (ino.by)... 178.159.243.220
+Connecting to ino.by (ino.by)|178.159.243.220|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138584 (135K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 3.34M 0s
+    50K .......... .......... .......... .......... .......... 73% 6.30M 0s
+   100K .......... .......... .......... .....                100% 4.86M=0.2s
+
+2020-03-02 00:14:37 (4.48 Mb/s) - ‘/dev/null’ saved [138584/138584]
+

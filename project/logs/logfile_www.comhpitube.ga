@@ -1,0 +1,12 @@
+--2020-03-02 03:53:59--  http://www.comhpitube.ga/pdf/fp/bred_fpc_communaute_universelle.pdf
+Resolving www.comhpitube.ga (www.comhpitube.ga)... 104.18.38.122, 104.18.39.122
+Connecting to www.comhpitube.ga (www.comhpitube.ga)|104.18.38.122|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 91.3M
+    50K .....                                                   109M=0.005s
+
+2020-03-02 03:53:59 (92.8 Mb/s) - ‘/dev/null’ saved [56595]
+

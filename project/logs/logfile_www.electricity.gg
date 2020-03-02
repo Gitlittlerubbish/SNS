@@ -1,0 +1,22 @@
+--2020-03-02 04:15:08--  http://www.electricity.gg/media/6681/ServiceApplicationForm.pdf
+Resolving www.electricity.gg (www.electricity.gg)... 209.251.252.194
+Connecting to www.electricity.gg (www.electricity.gg)|209.251.252.194|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42903 (42K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .         100% 4.84M=0.07s
+
+2020-03-02 04:15:08 (4.84 Mb/s) - ‘/dev/null’ saved [42903/42903]
+
+--2020-03-02 04:15:10--  http://www.electricity.gg/media/6681/ServiceApplicationForm.pdf
+Resolving www.electricity.gg (www.electricity.gg)... 209.251.252.194
+Connecting to www.electricity.gg (www.electricity.gg)|209.251.252.194|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42903 (42K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .         100% 9.75M=0.04s
+
+2020-03-02 04:15:10 (9.75 Mb/s) - ‘/dev/null’ saved [42903/42903]
+

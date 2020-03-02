@@ -1,0 +1,15 @@
+--2020-03-02 04:36:21--  http://www.ceo.gov.hk/eng/pdf/ce_written_statement_20190509.pdf
+Resolving www.ceo.gov.hk (www.ceo.gov.hk)... 143.204.202.28, 143.204.202.113, 143.204.202.97, ...
+Connecting to www.ceo.gov.hk (www.ceo.gov.hk)|143.204.202.28|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ceo.gov.hk/eng/pdf/ce_written_statement_20190509.pdf [following]
+--2020-03-02 04:36:21--  https://www.ceo.gov.hk/eng/pdf/ce_written_statement_20190509.pdf
+Connecting to www.ceo.gov.hk (www.ceo.gov.hk)|143.204.202.28|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45802 (45K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ....      100% 2.10M=0.2s
+
+2020-03-02 04:36:22 (2.10 Mb/s) - ‘/dev/null’ saved [45802/45802]
+

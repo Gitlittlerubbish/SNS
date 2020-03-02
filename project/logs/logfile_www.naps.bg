@@ -1,0 +1,12 @@
+--2020-03-02 01:31:03--  http://www.naps.bg/Docs/109_test_oop.pdf
+Resolving www.naps.bg (www.naps.bg)... 95.87.38.117
+Connecting to www.naps.bg (www.naps.bg)|95.87.38.117|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93808 (92K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54% 4.12M 0s
+    50K .......... .......... .......... .......... .         100%  115M=0.1s
+
+2020-03-02 01:31:03 (7.33 Mb/s) - ‘/dev/null’ saved [93808/93808]
+

@@ -1,0 +1,19 @@
+--2020-03-01 23:55:52--  http://bamsibahamas.edu.bs/BAMSIUAF.pdf
+Resolving bamsibahamas.edu.bs (bamsibahamas.edu.bs)... 162.241.169.31
+Connecting to bamsibahamas.edu.bs (bamsibahamas.edu.bs)|162.241.169.31|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://bamsibahamas.edu.bs/BAMSIUAF.pdf [following]
+--2020-03-01 23:55:53--  https://bamsibahamas.edu.bs/BAMSIUAF.pdf
+Connecting to bamsibahamas.edu.bs (bamsibahamas.edu.bs)|162.241.169.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207605 (203K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 1.63M 1s
+    50K .......... .......... .......... .......... .......... 49% 3.36M 0s
+   100K .......... .......... .......... .......... .......... 73% 68.1M 0s
+   150K .......... .......... .......... .......... .......... 98% 3.60M 0s
+   200K ..                                                    100%  182M=0.5s
+
+2020-03-01 23:55:54 (3.36 Mb/s) - ‘/dev/null’ saved [207605/207605]
+

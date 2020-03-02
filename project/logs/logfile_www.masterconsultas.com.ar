@@ -1,0 +1,11 @@
+--2020-03-01 23:15:15--  http://www.masterconsultas.com.ar/pdfs/ConciergeServices.pdf
+Resolving www.masterconsultas.com.ar (www.masterconsultas.com.ar)... 200.59.160.172
+Connecting to www.masterconsultas.com.ar (www.masterconsultas.com.ar)|200.59.160.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44966 (44K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...       100%  586K=0.6s
+
+2020-03-01 23:15:17 (586 Kb/s) - ‘/dev/null’ saved [44966/44966]
+

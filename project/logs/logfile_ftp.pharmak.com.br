@@ -1,0 +1,12 @@
+--2020-03-02 01:09:56--  http://ftp.pharmak.com.br/assessoria/bula/kayexalate.pdf
+Resolving ftp.pharmak.com.br (ftp.pharmak.com.br)... 200.98.245.108
+Connecting to ftp.pharmak.com.br (ftp.pharmak.com.br)|200.98.245.108|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76548 (75K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 66% 1.13M 0s
+    50K .......... .......... ....                            100%  135M=0.4s
+
+2020-03-02 01:09:57 (1.68 Mb/s) - ‘/dev/null’ saved [76548/76548]
+

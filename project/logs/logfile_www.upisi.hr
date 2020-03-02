@@ -1,0 +1,24 @@
+--2020-03-02 02:54:55--  http://www.upisi.hr/docs/Publikacija_umjetnicke_sportasi.pdf
+Resolving www.upisi.hr (www.upisi.hr)... 193.198.233.130
+Connecting to www.upisi.hr (www.upisi.hr)|193.198.233.130|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.upisi.hr/docs/Publikacija_umjetnicke_sportasi.pdf [following]
+--2020-03-02 02:54:55--  https://www.upisi.hr/docs/Publikacija_umjetnicke_sportasi.pdf
+Connecting to www.upisi.hr (www.upisi.hr)|193.198.233.130|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 507357 (495K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 2.85M 1s
+    50K .......... .......... .......... .......... .......... 20% 5.75M 1s
+   100K .......... .......... .......... .......... .......... 30% 11.1M 1s
+   150K .......... .......... .......... .......... .......... 40% 11.3M 0s
+   200K .......... .......... .......... .......... .......... 50%  103M 0s
+   250K .......... .......... .......... .......... .......... 60% 11.5M 0s
+   300K .......... .......... .......... .......... .......... 70% 11.6M 0s
+   350K .......... .......... .......... .......... .......... 80% 12.6M 0s
+   400K .......... .......... .......... .......... .......... 90% 70.2M 0s
+   450K .......... .......... .......... .......... .....     100% 11.0M=0.4s
+
+2020-03-02 02:54:56 (9.32 Mb/s) - ‘/dev/null’ saved [507357/507357]
+

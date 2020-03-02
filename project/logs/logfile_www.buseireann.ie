@@ -1,0 +1,17 @@
+--2020-03-02 05:01:32--  http://www.buseireann.ie/timetables/182-1517485979.pdf
+Resolving www.buseireann.ie (www.buseireann.ie)... 194.106.151.79
+Connecting to www.buseireann.ie (www.buseireann.ie)|194.106.151.79|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.buseireann.ie/timetables/182-1517485979.pdf [following]
+--2020-03-02 05:01:32--  https://www.buseireann.ie/timetables/182-1517485979.pdf
+Connecting to www.buseireann.ie (www.buseireann.ie)|194.106.151.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 126146 (123K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 9.51M 0s
+    50K .......... .......... .......... .......... .......... 81%  144M 0s
+   100K .......... .......... ...                             100%  142M=0.05s
+
+2020-03-02 05:01:32 (21.3 Mb/s) - ‘/dev/null’ saved [126146/126146]
+

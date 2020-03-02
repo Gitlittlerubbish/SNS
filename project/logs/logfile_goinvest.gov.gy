@@ -1,0 +1,14 @@
+--2020-03-02 04:17:26--  http://goinvest.gov.gy/wp-content/uploads/cap5701.pdf
+Resolving goinvest.gov.gy (goinvest.gov.gy)... 67.20.121.169
+Connecting to goinvest.gov.gy (goinvest.gov.gy)|67.20.121.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170232 (166K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 1.15M 1s
+    50K .......... .......... .......... .......... .......... 60% 2.40M 0s
+   100K .......... .......... .......... .......... .......... 90%  110M 0s
+   150K .......... ......                                     100%  218M=0.5s
+
+2020-03-02 04:17:27 (2.56 Mb/s) - ‘/dev/null’ saved [170232/170232]
+

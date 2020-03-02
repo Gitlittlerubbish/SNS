@@ -1,0 +1,22 @@
+--2020-03-02 03:37:40--  http://www.atlantic.fo/media/1518/raettindi_hja_atlantic_airways_ferandi_fo.pdf
+Resolving www.atlantic.fo (www.atlantic.fo)... 104.20.42.138, 104.20.41.138
+Connecting to www.atlantic.fo (www.atlantic.fo)|104.20.42.138|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.atlantic.fo/media/1518/raettindi_hja_atlantic_airways_ferandi_fo.pdf [following]
+--2020-03-02 03:37:41--  https://www.atlantic.fo/media/1518/raettindi_hja_atlantic_airways_ferandi_fo.pdf
+Connecting to www.atlantic.fo (www.atlantic.fo)|104.20.42.138|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 402119 (393K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12%  200M 0s
+    50K .......... .......... .......... .......... .......... 25%  523M 0s
+   100K .......... .......... .......... .......... .......... 38%  612M 0s
+   150K .......... .......... .......... .......... .......... 50%  504M 0s
+   200K .......... .......... .......... .......... .......... 63% 40.8M 0s
+   250K .......... .......... .......... .......... .......... 76%  143M 0s
+   300K .......... .......... .......... .......... .......... 89%  440M 0s
+   350K .......... .......... .......... .......... ..        100%  169M=0.02s
+
+2020-03-02 03:37:41 (159 Mb/s) - ‘/dev/null’ saved [402119/402119]
+

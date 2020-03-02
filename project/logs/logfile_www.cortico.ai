@@ -1,0 +1,23 @@
+--2020-03-01 22:42:31--  http://www.cortico.ai/s/Cortico-Corporation-2018-Audit.pdf
+Resolving www.cortico.ai (www.cortico.ai)... 198.185.159.144, 198.185.159.145, 198.49.23.145, ...
+Connecting to www.cortico.ai (www.cortico.ai)|198.185.159.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cortico.ai/s/Cortico-Corporation-2018-Audit.pdf [following]
+--2020-03-01 22:42:32--  https://www.cortico.ai/s/Cortico-Corporation-2018-Audit.pdf
+Connecting to www.cortico.ai (www.cortico.ai)|198.185.159.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/58dbd69f1b10e3f76d545cac/t/5d89101b7f9dff3f30e5b09d/1569263661905/Cortico+Corporation+2018+Audit.pdf [following]
+--2020-03-01 22:42:32--  https://static1.squarespace.com/static/58dbd69f1b10e3f76d545cac/t/5d89101b7f9dff3f30e5b09d/1569263661905/Cortico+Corporation+2018+Audit.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201282 (197K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 60.3M 0s
+    50K .......... .......... .......... .......... .......... 50% 39.7M 0s
+   100K .......... .......... .......... .......... .......... 76% 43.2M 0s
+   150K .......... .......... .......... .......... ......    100% 73.4M=0.03s
+
+2020-03-01 22:42:32 (50.6 Mb/s) - ‘/dev/null’ saved [201282/201282]
+

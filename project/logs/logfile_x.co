@@ -1,0 +1,22 @@
+--2020-03-02 02:28:41--  http://x.co/LLUz
+Resolving x.co (x.co)... 45.40.140.1
+Connecting to x.co (x.co)|45.40.140.1|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://x.co/LLUz [following]
+--2020-03-02 02:28:41--  https://x.co/LLUz
+Connecting to x.co (x.co)|45.40.140.1|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://images.fedex.com/ca_english/customersupport/faq/DimensionalWeight.pdf [following]
+--2020-03-02 02:28:42--  http://images.fedex.com/ca_english/customersupport/faq/DimensionalWeight.pdf
+Resolving images.fedex.com (images.fedex.com)... 104.78.177.63
+Connecting to images.fedex.com (images.fedex.com)|104.78.177.63|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49.7M
+    50K .......... .......... .......... .......... .......... 84.5M
+   100K .......... .......... .......... ....                  61.6M=0.02s
+
+2020-03-02 02:28:43 (62.4 Mb/s) - ‘/dev/null’ saved [137505]
+

@@ -1,0 +1,17 @@
+--2020-03-02 05:23:36--  http://www.orange.jo/en/documents/contracts/adsl_arabic.pdf
+Resolving www.orange.jo (www.orange.jo)... 213.139.33.145
+Connecting to www.orange.jo (www.orange.jo)|213.139.33.145|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.orange.jo/en/documents/contracts/adsl_arabic.pdf [following]
+--2020-03-02 05:23:37--  https://www.orange.jo/en/documents/contracts/adsl_arabic.pdf
+Connecting to www.orange.jo (www.orange.jo)|213.139.33.145|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153204 (150K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 2.76M 0s
+    50K .......... .......... .......... .......... .......... 66% 5.52M 0s
+   100K .......... .......... .......... .......... ......... 100% 97.5M=0.2s
+
+2020-03-02 05:23:37 (5.40 Mb/s) - ‘/dev/null’ saved [153204/153204]
+

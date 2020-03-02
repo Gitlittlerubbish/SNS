@@ -1,0 +1,19 @@
+--2020-03-02 03:02:47--  http://www.elektro-paloucek.cz/files/110302134555-termostat_euro091_manual.pdf
+Resolving www.elektro-paloucek.cz (www.elektro-paloucek.cz)... 104.27.168.77, 104.27.169.77
+Connecting to www.elektro-paloucek.cz (www.elektro-paloucek.cz)|104.27.168.77|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.elektro-paloucek.cz/files/110302134555-termostat_euro091_manual.pdf [following]
+--2020-03-02 03:02:48--  https://www.elektro-paloucek.cz/files/110302134555-termostat_euro091_manual.pdf
+Connecting to www.elektro-paloucek.cz (www.elektro-paloucek.cz)|104.27.168.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217570 (212K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 17.9M 0s
+    50K .......... .......... .......... .......... .......... 47%  301M 0s
+   100K .......... .......... .......... .......... .......... 70% 87.1M 0s
+   150K .......... .......... .......... .......... .......... 94%  112M 0s
+   200K .......... ..                                         100%  730M=0.03s
+
+2020-03-02 03:02:48 (53.2 Mb/s) - ‘/dev/null’ saved [217570/217570]
+

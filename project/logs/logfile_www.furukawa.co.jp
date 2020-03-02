@@ -1,0 +1,17 @@
+--2020-03-02 05:15:13--  http://www.furukawa.co.jp/release/2020/ir_20200220.pdf
+Resolving www.furukawa.co.jp (www.furukawa.co.jp)... 52.199.225.21, 3.114.137.224
+Connecting to www.furukawa.co.jp (www.furukawa.co.jp)|52.199.225.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.furukawa.co.jp/release/2020/ir_20200220.pdf [following]
+--2020-03-02 05:15:14--  https://www.furukawa.co.jp/release/2020/ir_20200220.pdf
+Connecting to www.furukawa.co.jp (www.furukawa.co.jp)|52.199.225.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135926 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.33M 1s
+    50K .......... .......... .......... .......... .......... 75% 1.84M 0s
+   100K .......... .......... .......... ..                   100%  158M=0.5s
+
+2020-03-02 05:15:16 (2.04 Mb/s) - ‘/dev/null’ saved [135926/135926]
+

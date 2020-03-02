@@ -1,0 +1,13 @@
+--2020-03-02 01:50:34--  http://www.midwivesofheadwaterhills.ca/pdf/breastfeeding_and_alcohol.pdf
+Resolving www.midwivesofheadwaterhills.ca (www.midwivesofheadwaterhills.ca)... 107.6.42.122
+Connecting to www.midwivesofheadwaterhills.ca (www.midwivesofheadwaterhills.ca)|107.6.42.122|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 114538 (112K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44% 2.21M 0s
+    50K .......... .......... .......... .......... .......... 89% 4.50M 0s
+   100K .......... .                                          100%  113M=0.3s
+
+2020-03-02 01:50:36 (3.31 Mb/s) - ‘/dev/null’ saved [114538/114538]
+

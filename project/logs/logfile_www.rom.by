@@ -1,0 +1,14 @@
+--2020-03-02 00:14:11--  http://www.rom.by/files/WT7514LV130_datasheet.pdf
+Resolving www.rom.by (www.rom.by)... 54.217.205.226
+Connecting to www.rom.by (www.rom.by)|54.217.205.226|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 175144 (171K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 13.9M 0s
+    50K .......... .......... .......... .......... .......... 58% 15.5M 0s
+   100K .......... .......... .......... .......... .......... 87% 28.4M 0s
+   150K .......... .......... .                               100%  108M=0.07s
+
+2020-03-02 00:14:12 (19.5 Mb/s) - ‘/dev/null’ saved [175144/175144]
+

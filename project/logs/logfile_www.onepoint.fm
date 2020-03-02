@@ -1,0 +1,37 @@
+--2020-03-02 07:35:06--  http://www.onepoint.fm/docs/onepoint_Sitepolicy_de.pdf
+Resolving www.onepoint.fm (www.onepoint.fm)... 104.31.73.11, 104.31.72.11
+Connecting to www.onepoint.fm (www.onepoint.fm)|104.31.73.11|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.onepoint.fm/docs/onepoint_Sitepolicy_de.pdf [following]
+--2020-03-02 07:35:06--  https://www.onepoint.fm/docs/onepoint_Sitepolicy_de.pdf
+Connecting to www.onepoint.fm (www.onepoint.fm)|104.31.73.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274533 (268K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 4.80M 0s
+    50K .......... .......... .......... .......... .......... 37% 15.9M 0s
+   100K .......... .......... .......... .......... .......... 55% 28.8M 0s
+   150K .......... .......... .......... .......... .......... 74% 48.6M 0s
+   200K .......... .......... .......... .......... .......... 93%  136M 0s
+   250K .......... ........                                   100% 22.2M=0.1s
+
+2020-03-02 07:35:06 (15.3 Mb/s) - ‘/dev/null’ saved [274533/274533]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 07:35:06--  https://www.onepoint.fm/docs/onepoint_Sitepolicy_de.pdf
+Resolving www.onepoint.fm (www.onepoint.fm)... 104.31.73.11, 104.31.72.11
+Connecting to www.onepoint.fm (www.onepoint.fm)|104.31.73.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274533 (268K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 5.83M 0s
+    50K .......... .......... .......... .......... .......... 37% 20.6M 0s
+   100K .......... .......... .......... .......... .......... 55% 38.4M 0s
+   150K .......... .......... .......... .......... .......... 74% 35.6M 0s
+   200K .......... .......... .......... .......... .......... 93% 51.2M 0s
+   250K .......... ........                                   100%  117M=0.1s
+
+2020-03-02 07:35:07 (18.1 Mb/s) - ‘/dev/null’ saved [274533/274533]
+

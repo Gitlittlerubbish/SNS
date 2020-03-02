@@ -1,0 +1,13 @@
+--2020-03-02 04:16:13--  http://www.cne.gw/images/RESULTADO_PROVISORIO_PRESIDENCIAIS_2019.pdf
+Resolving www.cne.gw (www.cne.gw)... 185.240.248.20
+Connecting to www.cne.gw (www.cne.gw)|185.240.248.20|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152324 (149K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 4.77M 0s
+    50K .......... .......... .......... .......... .......... 67% 9.48M 0s
+   100K .......... .......... .......... .......... ........  100%  155M=0.1s
+
+2020-03-02 04:16:15 (9.25 Mb/s) - ‘/dev/null’ saved [152324/152324]
+

@@ -1,0 +1,26 @@
+--2020-03-02 01:43:15--  http://inb.gov.kh/law/view/75
+Resolving inb.gov.kh (inb.gov.kh)... 206.189.202.178
+Connecting to inb.gov.kh (inb.gov.kh)|206.189.202.178|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://inb.gov.kh/law/view/75 [following]
+--2020-03-02 01:43:16--  https://inb.gov.kh/law/view/75
+Connecting to inb.gov.kh (inb.gov.kh)|206.189.202.178|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://inb.gov.kh/media/file/law/1565844168.pdf [following]
+--2020-03-02 01:43:16--  https://inb.gov.kh/media/file/law/1565844168.pdf
+Reusing existing connection to inb.gov.kh:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 387754 (379K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 2.84M 1s
+    50K .......... .......... .......... .......... .......... 26% 5.68M 1s
+   100K .......... .......... .......... .......... .......... 39% 85.4M 0s
+   150K .......... .......... .......... .......... .......... 52%  841M 0s
+   200K .......... .......... .......... .......... .......... 66% 5.78M 0s
+   250K .......... .......... .......... .......... .......... 79%  103M 0s
+   300K .......... .......... .......... .......... .......... 92% 6.41M 0s
+   350K .......... .......... ........                        100%  513M=0.4s
+
+2020-03-02 01:43:17 (8.60 Mb/s) - ‘/dev/null’ saved [387754/387754]
+

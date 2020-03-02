@@ -1,0 +1,35 @@
+--2020-03-02 01:30:51--  http://www.vali.bg/download/q1ZKy8xJjc9MUbKyNDUwrQUA
+Resolving www.vali.bg (www.vali.bg)... 212.91.184.14
+Connecting to www.vali.bg (www.vali.bg)|212.91.184.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.vali.bg/download/q1ZKy8xJjc9MUbKyNDUwrQUA [following]
+--2020-03-02 01:30:51--  https://www.vali.bg/download/q1ZKy8xJjc9MUbKyNDUwrQUA
+Connecting to www.vali.bg (www.vali.bg)|212.91.184.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176434 (172K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 4.37M 0s
+    50K .......... .......... .......... .......... .......... 58% 8.41M 0s
+   100K .......... .......... .......... .......... .......... 87%  670M 0s
+   150K .......... .......... ..                              100%  129M=0.1s
+
+2020-03-02 01:30:51 (9.77 Mb/s) - ‘/dev/null’ saved [176434/176434]
+
+--2020-03-02 01:30:51--  http://www.vali.bg/download/q1ZKy8xJjc9MUbKyNDU3rAUA
+Resolving www.vali.bg (www.vali.bg)... 212.91.184.14
+Connecting to www.vali.bg (www.vali.bg)|212.91.184.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.vali.bg/download/q1ZKy8xJjc9MUbKyNDU3rAUA [following]
+--2020-03-02 01:30:51--  https://www.vali.bg/download/q1ZKy8xJjc9MUbKyNDU3rAUA
+Connecting to www.vali.bg (www.vali.bg)|212.91.184.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145781 (142K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 4.44M 0s
+    50K .......... .......... .......... .......... .......... 70% 8.15M 0s
+   100K .......... .......... .......... .......... ..        100%  123M=0.1s
+
+2020-03-02 01:30:52 (8.02 Mb/s) - ‘/dev/null’ saved [145781/145781]
+

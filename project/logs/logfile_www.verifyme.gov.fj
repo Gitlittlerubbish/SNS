@@ -1,0 +1,16 @@
+--2020-03-02 03:40:50--  http://www.verifyme.gov.fj/Image/FijiVoterListCorrectionsForm.pdf
+Resolving www.verifyme.gov.fj (www.verifyme.gov.fj)... 124.108.30.21
+Connecting to www.verifyme.gov.fj (www.verifyme.gov.fj)|124.108.30.21|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293470 (287K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17%  200K 10s
+    50K .......... .......... .......... .......... .......... 34% 1.01M 5s
+   100K .......... .......... .......... .......... .......... 52% 1.03M 3s
+   150K .......... .......... .......... .......... .......... 69% 1.41M 1s
+   200K .......... .......... .......... .......... .......... 87% 7.62M 0s
+   250K .......... .......... .......... ......               100%  783K=3.6s
+
+2020-03-02 03:40:57 (655 Kb/s) - ‘/dev/null’ saved [293470/293470]
+

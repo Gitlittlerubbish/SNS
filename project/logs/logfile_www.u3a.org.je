@@ -1,0 +1,25 @@
+--2020-03-02 05:21:28--  http://www.u3a.org.je/pdfs/U3ADiary.pdf
+Resolving www.u3a.org.je (www.u3a.org.je)... 173.254.28.126
+Connecting to www.u3a.org.je (www.u3a.org.je)|173.254.28.126|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103568 (101K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 1.21M 0s
+    50K .......... .......... .......... .......... .......... 98% 2.45M 0s
+   100K .                                                     100%  187K=0.5s
+
+2020-03-02 05:21:29 (1.63 Mb/s) - ‘/dev/null’ saved [103568/103568]
+
+--2020-03-02 05:21:29--  http://www.u3a.org.je/pdfs/3fold.pdf
+Resolving www.u3a.org.je (www.u3a.org.je)... 173.254.28.126
+Connecting to www.u3a.org.je (www.u3a.org.je)|173.254.28.126|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87687 (86K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58% 1.25M 0s
+    50K .......... .......... .......... .....                100% 97.2M=0.3s
+
+2020-03-02 05:21:29 (2.12 Mb/s) - ‘/dev/null’ saved [87687/87687]
+

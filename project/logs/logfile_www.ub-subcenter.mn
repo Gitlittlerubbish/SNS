@@ -1,0 +1,16 @@
+--2020-03-02 07:46:26--  http://www.ub-subcenter.mn/webdata/law/37443d44eea801df40a83766f0d103b5.pdf
+Resolving www.ub-subcenter.mn (www.ub-subcenter.mn)... 208.91.199.233
+Connecting to www.ub-subcenter.mn (www.ub-subcenter.mn)|208.91.199.233|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263483 (257K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.71M 1s
+    50K .......... .......... .......... .......... .......... 38% 3.38M 1s
+   100K .......... .......... .......... .......... .......... 58%  139M 0s
+   150K .......... .......... .......... .......... .......... 77%  286M 0s
+   200K .......... .......... .......... .......... .......... 97% 3.42M 0s
+   250K .......                                               100%  483M=0.5s
+
+2020-03-02 07:46:28 (4.34 Mb/s) - ‘/dev/null’ saved [263483/263483]
+

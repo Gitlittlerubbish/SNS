@@ -1,0 +1,20 @@
+--2020-03-02 05:08:47--  http://www.plexishop.it/pdf/IRF530.pdf
+Resolving www.plexishop.it (www.plexishop.it)... 85.94.210.167
+Connecting to www.plexishop.it (www.plexishop.it)|85.94.210.167|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.plexishop.it/pdf/IRF530.pdf [following]
+--2020-03-02 05:08:47--  https://www.plexishop.it/pdf/IRF530.pdf
+Connecting to www.plexishop.it (www.plexishop.it)|85.94.210.167|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283268 (277K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 4.39M 0s
+    50K .......... .......... .......... .......... .......... 36% 8.34M 0s
+   100K .......... .......... .......... .......... .......... 54%  123M 0s
+   150K .......... .......... .......... .......... .......... 72% 8.91M 0s
+   200K .......... .......... .......... .......... .......... 90%  126M 0s
+   250K .......... .......... ......                          100% 5.60M=0.2s
+
+2020-03-02 05:08:47 (9.69 Mb/s) - ‘/dev/null’ saved [283268/283268]
+

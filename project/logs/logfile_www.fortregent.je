@@ -1,0 +1,23 @@
+--2020-03-02 05:21:42--  http://www.fortregent.je/media/365041/25078_-_exercise_referrel_2016_web.pdf
+Resolving www.fortregent.je (www.fortregent.je)... 54.72.118.82
+Connecting to www.fortregent.je (www.fortregent.je)|54.72.118.82|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.fortregent.je/media/365041/25078_-_exercise_referrel_2016_web.pdf [following]
+--2020-03-02 05:21:42--  https://www.fortregent.je/media/365041/25078_-_exercise_referrel_2016_web.pdf
+Connecting to www.fortregent.je (www.fortregent.je)|54.72.118.82|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 410272 (401K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 16.0M 0s
+    50K .......... .......... .......... .......... .......... 24%  108M 0s
+   100K .......... .......... .......... .......... .......... 37% 36.8M 0s
+   150K .......... .......... .......... .......... .......... 49% 61.4M 0s
+   200K .......... .......... .......... .......... .......... 62% 77.7M 0s
+   250K .......... .......... .......... .......... .......... 74% 52.0M 0s
+   300K .......... .......... .......... .......... .......... 87%  139M 0s
+   350K .......... .......... .......... .......... .......... 99% 77.1M 0s
+   400K                                                       100%  108K=0.07s
+
+2020-03-02 05:21:43 (47.8 Mb/s) - ‘/dev/null’ saved [410272/410272]
+

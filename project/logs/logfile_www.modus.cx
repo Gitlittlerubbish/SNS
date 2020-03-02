@@ -1,0 +1,13 @@
+--2020-03-02 02:21:43--  http://www.modus.cx/polityka_prywatnosci_Modusco.pdf
+Resolving www.modus.cx (www.modus.cx)... 77.83.100.30
+Connecting to www.modus.cx (www.modus.cx)|77.83.100.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131419 (128K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 5.47M 0s
+    50K .......... .......... .......... .......... .......... 77% 10.9M 0s
+   100K .......... .......... ........                        100% 98.7M=0.1s
+
+2020-03-02 02:21:43 (9.15 Mb/s) - ‘/dev/null’ saved [131419/131419]
+

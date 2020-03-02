@@ -1,0 +1,23 @@
+--2020-03-02 01:30:10--  http://www.minfin.bg/document/17332
+Resolving www.minfin.bg (www.minfin.bg)... 104.26.7.219, 104.26.6.219
+Connecting to www.minfin.bg (www.minfin.bg)|104.26.7.219|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.minfin.bg/document/17332 [following]
+--2020-03-02 01:30:10--  https://www.minfin.bg/document/17332
+Connecting to www.minfin.bg (www.minfin.bg)|104.26.7.219|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /upload/17332/Bulgaria_ResearchUpdate_11Dec2015.pdf [following]
+--2020-03-02 01:30:12--  https://www.minfin.bg/upload/17332/Bulgaria_ResearchUpdate_11Dec2015.pdf
+Reusing existing connection to www.minfin.bg:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 232946 (227K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21%  178M 0s
+    50K .......... .......... .......... .......... .......... 43%  421M 0s
+   100K .......... .......... .......... .......... .......... 65%  262M 0s
+   150K .......... .......... .......... .......... .......... 87%  202M 0s
+   200K .......... .......... .......                         100%  843M=0.007s
+
+2020-03-02 01:30:12 (261 Mb/s) - ‘/dev/null’ saved [232946/232946]
+

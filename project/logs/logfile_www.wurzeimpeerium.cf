@@ -1,0 +1,13 @@
+--2020-03-02 02:02:18--  http://www.wurzeimpeerium.cf/cn/documents/Crott_93_US.pdf
+Resolving www.wurzeimpeerium.cf (www.wurzeimpeerium.cf)... 104.24.106.36, 104.24.107.36
+Connecting to www.wurzeimpeerium.cf (www.wurzeimpeerium.cf)|104.24.106.36|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13.1M
+    50K .......... .......... .......... .......... .......... 13.7M
+   100K .......... .......... .......... .......... .....      87.9M=0.07s
+
+2020-03-02 02:02:18 (18.3 Mb/s) - ‘/dev/null’ saved [149421]
+

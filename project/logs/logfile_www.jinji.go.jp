@@ -1,0 +1,11 @@
+--2020-03-02 05:14:58--  http://www.jinji.go.jp/kyuuyo/index_pdf/teate_gaiyo.pdf
+Resolving www.jinji.go.jp (www.jinji.go.jp)... 116.91.128.93, 210.169.215.93
+Connecting to www.jinji.go.jp (www.jinji.go.jp)|116.91.128.93|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 81.7M=0s
+
+2020-03-02 05:14:59 (81.7 Mb/s) - ‘/dev/null’ saved [245/245]
+

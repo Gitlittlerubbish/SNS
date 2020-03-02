@@ -1,0 +1,11 @@
+--2020-03-01 23:24:17--  http://haikuj.am/data/events.pdf
+Resolving haikuj.am (haikuj.am)... 52.89.65.97, 54.148.47.92
+Connecting to haikuj.am (haikuj.am)|52.89.65.97|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18291 (18K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                    100% 1.05M=0.1s
+
+2020-03-01 23:24:17 (1.05 Mb/s) - ‘/dev/null’ saved [18291/18291]
+

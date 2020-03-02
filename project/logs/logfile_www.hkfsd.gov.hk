@@ -1,0 +1,19 @@
+--2020-03-02 04:36:18--  http://www.hkfsd.gov.hk/eng/source/fire_services_Factsheet_eng.pdf
+Resolving www.hkfsd.gov.hk (www.hkfsd.gov.hk)... 143.204.192.21, 143.204.192.48, 143.204.192.25, ...
+Connecting to www.hkfsd.gov.hk (www.hkfsd.gov.hk)|143.204.192.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hkfsd.gov.hk/eng/source/fire_services_Factsheet_eng.pdf [following]
+--2020-03-02 04:36:18--  https://www.hkfsd.gov.hk/eng/source/fire_services_Factsheet_eng.pdf
+Connecting to www.hkfsd.gov.hk (www.hkfsd.gov.hk)|143.204.192.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222643 (217K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.17M 1s
+    50K .......... .......... .......... .......... .......... 45% 1.08M 1s
+   100K .......... .......... .......... .......... .......... 68% 2.14M 0s
+   150K .......... .......... .......... .......... .......... 91% 1.09M 0s
+   200K .......... .......                                    100% 75.5M=1.3s
+
+2020-03-02 04:36:20 (1.37 Mb/s) - ‘/dev/null’ saved [222643/222643]
+

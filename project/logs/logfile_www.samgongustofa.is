@@ -1,0 +1,17 @@
+--2020-03-02 04:40:09--  http://www.samgongustofa.is/media/eydublod/SGSUS140tilkynningumeigendaskiptiLOGO.pdf
+Resolving www.samgongustofa.is (www.samgongustofa.is)... 157.157.42.165
+Connecting to www.samgongustofa.is (www.samgongustofa.is)|157.157.42.165|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.samgongustofa.is/media/eydublod/SGSUS140tilkynningumeigendaskiptiLOGO.pdf [following]
+--2020-03-02 04:40:09--  https://www.samgongustofa.is/media/eydublod/SGSUS140tilkynningumeigendaskiptiLOGO.pdf
+Connecting to www.samgongustofa.is (www.samgongustofa.is)|157.157.42.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 107266 (105K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 2.98M 0s
+    50K .......... .......... .......... .......... .......... 95%  117M 0s
+   100K ....                                                  100%  382M=0.1s
+
+2020-03-02 04:40:10 (6.08 Mb/s) - ‘/dev/null’ saved [107266/107266]
+

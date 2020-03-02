@@ -1,0 +1,12 @@
+--2020-03-02 03:49:36--  http://www.transports-terrestres.pf/IMG/pdf/formulaire_taxi.pdf
+Resolving www.transports-terrestres.pf (www.transports-terrestres.pf)... 103.46.218.18
+Connecting to www.transports-terrestres.pf (www.transports-terrestres.pf)|103.46.218.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64057 (63K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 79%  794K 0s
+    50K .......... ..                                         100% 1.22G=0.5s
+
+2020-03-02 03:49:38 (993 Kb/s) - ‘/dev/null’ saved [64057/64057]
+

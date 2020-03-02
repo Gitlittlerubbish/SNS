@@ -1,0 +1,18 @@
+--2020-03-02 03:46:40--  http://publications.iarc.fr/_publications/media/download/3469/3be6599f0227fbc06d00d91a99aa5ce007090018.pdf
+Resolving publications.iarc.fr (publications.iarc.fr)... 193.51.164.193
+Connecting to publications.iarc.fr (publications.iarc.fr)|193.51.164.193|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 6.80M
+    50K .......... .......... .......... .......... .......... 14.4M
+   100K .......... .......... .......... .......... ..........  121M
+   150K .......... .......... .......... .......... ..........  124M
+   200K .......... .......... .......... .......... .......... 15.4M
+   250K .......... .......... .......... .......... ..........  129M
+   300K .......... .......... .......... .......... .......... 17.8M
+   350K .......... ..........                                   795M=0.1s
+
+2020-03-02 03:46:40 (20.4 Mb/s) - ‘/dev/null’ saved [379368]
+

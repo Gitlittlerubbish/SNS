@@ -1,0 +1,12 @@
+--2020-03-02 02:28:58--  http://www.saludpereira.gov.co/medios/Ley_485_de_1998.pdf
+Resolving www.saludpereira.gov.co (www.saludpereira.gov.co)... 170.254.229.116
+Connecting to www.saludpereira.gov.co (www.saludpereira.gov.co)|170.254.229.116|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55742 (54K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 91% 1.27M 0s
+    50K ....                                                  100%  727K=0.3s
+
+2020-03-02 02:28:59 (1.39 Mb/s) - ‘/dev/null’ saved [55742/55742]
+

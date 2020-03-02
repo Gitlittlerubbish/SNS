@@ -1,0 +1,16 @@
+--2020-03-02 05:31:16--  http://www.naisulaschool.ac.ke/downloads/Fees_Structure_September_2018.pdf
+Resolving www.naisulaschool.ac.ke (www.naisulaschool.ac.ke)... 197.248.5.24
+Connecting to www.naisulaschool.ac.ke (www.naisulaschool.ac.ke)|197.248.5.24|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 295939 (289K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.15M 2s
+    50K .......... .......... .......... .......... .......... 34% 2.29M 1s
+   100K .......... .......... .......... .......... .......... 51% 2.29M 1s
+   150K .......... .......... .......... .......... .......... 69% 2.29M 0s
+   200K .......... .......... .......... .......... .......... 86%  315M 0s
+   250K .......... .......... .......... .........            100% 1.83M=1.1s
+
+2020-03-02 05:31:17 (2.21 Mb/s) - ‘/dev/null’ saved [295939/295939]
+

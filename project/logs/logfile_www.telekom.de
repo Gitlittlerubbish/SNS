@@ -1,0 +1,54 @@
+--2020-03-02 04:00:55--  http://www.telekom.de/hilfe/downloads/bedienungsanleitung-speed-home-wifi.pdf
+Resolving www.telekom.de (www.telekom.de)... 80.158.67.40
+Connecting to www.telekom.de (www.telekom.de)|80.158.67.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.telekom.de/hilfe/downloads/bedienungsanleitung-speed-home-wifi.pdf [following]
+--2020-03-02 04:00:55--  https://www.telekom.de/hilfe/downloads/bedienungsanleitung-speed-home-wifi.pdf
+Connecting to www.telekom.de (www.telekom.de)|80.158.67.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 627356 (613K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 7.51M 1s
+    50K .......... .......... .......... .......... .......... 16% 17.1M 0s
+   100K .......... .......... .......... .......... .......... 24% 15.7M 0s
+   150K .......... .......... .......... .......... .......... 32% 88.0M 0s
+   200K .......... .......... .......... .......... .......... 40% 19.5M 0s
+   250K .......... .......... .......... .......... .......... 48% 94.6M 0s
+   300K .......... .......... .......... .......... .......... 57%  103M 0s
+   350K .......... .......... .......... .......... .......... 65% 18.8M 0s
+   400K .......... .......... .......... .......... .......... 73%  107M 0s
+   450K .......... .......... .......... .......... .......... 81% 18.7M 0s
+   500K .......... .......... .......... .......... .......... 89%  269M 0s
+   550K .......... .......... .......... .......... .......... 97%  101M 0s
+   600K .......... ..                                         100%  652M=0.2s
+
+2020-03-02 04:00:56 (26.2 Mb/s) - ‘/dev/null’ saved [627356/627356]
+
+--2020-03-02 04:00:57--  http://www.telekom.de/hilfe/downloads/bedienungsanleitung-speed-home-wifi.pdf
+Resolving www.telekom.de (www.telekom.de)... 80.158.67.40
+Connecting to www.telekom.de (www.telekom.de)|80.158.67.40|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.telekom.de/hilfe/downloads/bedienungsanleitung-speed-home-wifi.pdf [following]
+--2020-03-02 04:00:57--  https://www.telekom.de/hilfe/downloads/bedienungsanleitung-speed-home-wifi.pdf
+Connecting to www.telekom.de (www.telekom.de)|80.158.67.40|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 627356 (613K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8%  114M 0s
+    50K .......... .......... .......... .......... .......... 16%  140M 0s
+   100K .......... .......... .......... .......... .......... 24% 16.0M 0s
+   150K .......... .......... .......... .......... .......... 32%  108M 0s
+   200K .......... .......... .......... .......... .......... 40% 20.0M 0s
+   250K .......... .......... .......... .......... .......... 48% 49.8M 0s
+   300K .......... .......... .......... .......... .......... 57%  125M 0s
+   350K .......... .......... .......... .......... .......... 65% 19.7M 0s
+   400K .......... .......... .......... .......... .......... 73% 81.7M 0s
+   450K .......... .......... .......... .......... .......... 81% 20.1M 0s
+   500K .......... .......... .......... .......... .......... 89% 60.6M 0s
+   550K .......... .......... .......... .......... .......... 97%  106M 0s
+   600K .......... ..                                         100%  886M=0.1s
+
+2020-03-02 04:00:58 (40.2 Mb/s) - ‘/dev/null’ saved [627356/627356]
+

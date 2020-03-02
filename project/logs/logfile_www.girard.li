@@ -1,0 +1,13 @@
+--2020-03-02 06:25:33--  http://www.girard.li/pph/PPH_Algorithm_franc.pdf
+Resolving www.girard.li (www.girard.li)... 193.33.128.167
+Connecting to www.girard.li (www.girard.li)|193.33.128.167|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106577 (104K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 9.26M 0s
+    50K .......... .......... .......... .......... .......... 96% 18.9M 0s
+   100K ....                                                  100%  307M=0.07s
+
+2020-03-02 06:25:33 (12.9 Mb/s) - ‘/dev/null’ saved [106577/106577]
+

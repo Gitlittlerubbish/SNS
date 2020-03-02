@@ -1,0 +1,11 @@
+--2020-03-02 03:42:54--  http://naditowncouncil.com.fj/2016/data/Pacific-Timetable.pdf
+Resolving naditowncouncil.com.fj (naditowncouncil.com.fj)... 182.50.130.70
+Connecting to naditowncouncil.com.fj (naditowncouncil.com.fj)|182.50.130.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41630 (41K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..........           100%  559K=0.6s
+
+2020-03-02 03:42:55 (559 Kb/s) - ‘/dev/null’ saved [41630/41630]
+

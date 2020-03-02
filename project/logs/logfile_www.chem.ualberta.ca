@@ -1,0 +1,16 @@
+--2020-03-02 01:52:34--  http://www.chem.ualberta.ca/~campbell/resources/PDFs/11_Improved_monomeric_FPs.pdf
+Resolving www.chem.ualberta.ca (www.chem.ualberta.ca)... 129.128.56.131
+Connecting to www.chem.ualberta.ca (www.chem.ualberta.ca)|129.128.56.131|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 286826 (280K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.73M 1s
+    50K .......... .......... .......... .......... .......... 35% 3.46M 1s
+   100K .......... .......... .......... .......... .......... 53%  136M 0s
+   150K .......... .......... .......... .......... .......... 71% 4.22M 0s
+   200K .......... .......... .......... .......... .......... 89% 18.5M 0s
+   250K .......... .......... ..........                      100%  144M=0.5s
+
+2020-03-02 01:52:35 (4.79 Mb/s) - ‘/dev/null’ saved [286826/286826]
+

@@ -1,0 +1,12 @@
+--2020-03-01 23:58:43--  http://www.makasebfunds.bh/Images/MIF_December06_tcm24-22996.pdf
+Resolving www.makasebfunds.bh (www.makasebfunds.bh)... 87.201.244.220
+Connecting to www.makasebfunds.bh (www.makasebfunds.bh)|87.201.244.220|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72191 (70K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70%  709K 0s
+    50K .......... ..........                                 100% 1.19M=0.7s
+
+2020-03-01 23:58:45 (804 Kb/s) - ‘/dev/null’ saved [72191/72191]
+

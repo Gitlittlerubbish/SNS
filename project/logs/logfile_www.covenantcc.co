@@ -1,0 +1,13 @@
+--2020-03-02 02:30:35--  http://www.covenantcc.co/pdf/commonly_abused_drugs_and_withdrawal_symptoms.pdf
+Resolving www.covenantcc.co (www.covenantcc.co)... 173.254.97.122
+Connecting to www.covenantcc.co (www.covenantcc.co)|173.254.97.122|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145571 (142K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 1.20M 1s
+    50K .......... .......... .......... .......... .......... 70% 2.38M 0s
+   100K .......... .......... .......... .......... ..        100%  106M=0.5s
+
+2020-03-02 02:30:36 (2.25 Mb/s) - ‘/dev/null’ saved [145571/145571]
+

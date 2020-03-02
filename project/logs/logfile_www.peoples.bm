@@ -1,0 +1,13 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 00:32:34--  https://www.peoples.bm/pdf/PeoplesPharmacyJobApplication.pdf
+Resolving www.peoples.bm (www.peoples.bm)... 216.249.47.113
+Connecting to www.peoples.bm (www.peoples.bm)|216.249.47.113|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 78763 (77K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65% 2.21M 0s
+    50K .......... .......... ......                          100% 87.5M=0.2s
+
+2020-03-02 00:32:35 (3.35 Mb/s) - ‘/dev/null’ saved [78763/78763]
+

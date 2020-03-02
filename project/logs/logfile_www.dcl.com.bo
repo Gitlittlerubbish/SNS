@@ -1,0 +1,14 @@
+--2020-03-02 00:59:23--  http://www.dcl.com.bo/documentos/negocios/impuestos.pdf
+Resolving www.dcl.com.bo (www.dcl.com.bo)... 107.180.49.117
+Connecting to www.dcl.com.bo (www.dcl.com.bo)|107.180.49.117|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 165273 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 53.6M 0s
+    50K .......... .......... .......... .......... .......... 61% 3.80M 0s
+   100K .......... .......... .......... .......... .......... 92%  230M 0s
+   150K .......... .                                          100% 9.41M=0.1s
+
+2020-03-02 00:59:24 (10.4 Mb/s) - ‘/dev/null’ saved [165273/165273]
+

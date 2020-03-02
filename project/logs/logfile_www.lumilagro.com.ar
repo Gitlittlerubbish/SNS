@@ -1,0 +1,13 @@
+--2020-03-01 23:13:44--  http://www.lumilagro.com.ar/manual/manual.pdf
+Resolving www.lumilagro.com.ar (www.lumilagro.com.ar)... 190.105.232.60
+Connecting to www.lumilagro.com.ar (www.lumilagro.com.ar)|190.105.232.60|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105506 (103K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48%  323K 1s
+    50K .......... .......... .......... .......... .......... 97%  850K 0s
+   100K ...                                                   100% 34.2M=1.8s
+
+2020-03-01 23:13:46 (482 Kb/s) - ‘/dev/null’ saved [105506/105506]
+

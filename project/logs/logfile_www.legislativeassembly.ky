@@ -1,0 +1,34 @@
+--2020-03-02 01:54:26--  http://www.legislativeassembly.ky/portal/pls/portal/docs/1/9782669.PDF
+Resolving www.legislativeassembly.ky (www.legislativeassembly.ky)... 209.27.55.215
+Connecting to www.legislativeassembly.ky (www.legislativeassembly.ky)|209.27.55.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215647 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  562K 2s
+    50K .......... .......... .......... .......... .......... 47% 1.39M 1s
+   100K .......... .......... .......... .......... .......... 71% 2.42M 0s
+   150K .......... .......... .......... .......... .......... 94% 2.57M 0s
+   200K ..........                                            100%  700M=1.4s
+
+2020-03-02 01:54:28 (1.28 Mb/s) - ‘/dev/null’ saved [215647/215647]
+
+--2020-03-02 01:54:28--  http://www.legislativeassembly.ky/portal/pls/portal/docs/1/10978233.PDF
+Resolving www.legislativeassembly.ky (www.legislativeassembly.ky)... 209.27.55.215
+Connecting to www.legislativeassembly.ky (www.legislativeassembly.ky)|209.27.55.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 432354 (422K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11%  690K 4s
+    50K .......... .......... .......... .......... .......... 23% 1.35M 3s
+   100K .......... .......... .......... .......... .......... 35% 2.69M 2s
+   150K .......... .......... .......... .......... .......... 47% 2.66M 1s
+   200K .......... .......... .......... .......... .......... 59% 41.4M 1s
+   250K .......... .......... .......... .......... .......... 71% 2.75M 1s
+   300K .......... .......... .......... .......... .......... 82% 35.0M 0s
+   350K .......... .......... .......... .......... .......... 94% 2.74M 0s
+   400K .......... .......... ..                              100%  226M=1.5s
+
+2020-03-02 01:54:30 (2.27 Mb/s) - ‘/dev/null’ saved [432354/432354]
+

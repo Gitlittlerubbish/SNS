@@ -1,0 +1,14 @@
+--2020-03-02 02:01:51--  http://csmatuto.cf/media/1859/ivaerksaetterbarometer2019.pdf
+Resolving csmatuto.cf (csmatuto.cf)... 104.27.151.131, 104.27.150.131
+Connecting to csmatuto.cf (csmatuto.cf)|104.27.151.131|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11.0M
+    50K .......... .......... .......... .......... .......... 9.74M
+   100K .......... .......... .......... .......... ..........  205M
+   150K .......... .......... .......... .......... ...         118M=0.08s
+
+2020-03-02 02:01:51 (18.8 Mb/s) - ‘/dev/null’ saved [197996]
+

@@ -1,0 +1,11 @@
+--2020-03-02 03:05:16--  http://www.ministere-finances.dj/a.pdf
+Resolving www.ministere-finances.dj (www.ministere-finances.dj)... 41.189.224.134
+Connecting to www.ministere-finances.dj (www.ministere-finances.dj)|41.189.224.134|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8934 (8.7K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K ........                                              100%  674M=0s
+
+2020-03-02 03:05:16 (674 Mb/s) - ‘/dev/null’ saved [8934/8934]
+

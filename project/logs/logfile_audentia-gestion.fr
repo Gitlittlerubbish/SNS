@@ -1,0 +1,13 @@
+--2020-03-02 03:46:38--  http://audentia-gestion.fr/ADOBE/sephora-case-study.pdf
+Resolving audentia-gestion.fr (audentia-gestion.fr)... 213.186.33.69
+Connecting to audentia-gestion.fr (audentia-gestion.fr)|213.186.33.69|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149643 (146K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 13.7M 0s
+    50K .......... .......... .......... .......... .......... 68% 31.0M 0s
+   100K .......... .......... .......... .......... ......    100% 70.1M=0.05s
+
+2020-03-02 03:46:38 (24.7 Mb/s) - ‘/dev/null’ saved [149643/149643]
+

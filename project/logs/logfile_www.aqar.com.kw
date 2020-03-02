@@ -1,0 +1,13 @@
+--2020-03-02 06:04:25--  http://www.aqar.com.kw/uploads/15692319115d8894275c9997.70300488.pdf
+Resolving www.aqar.com.kw (www.aqar.com.kw)... 176.74.21.8
+Connecting to www.aqar.com.kw (www.aqar.com.kw)|176.74.21.8|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132487 (129K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 32.5M 0s
+    50K .......... .......... .......... .......... .......... 77% 75.8M 0s
+   100K .......... .......... .........                       100%  151M=0.02s
+
+2020-03-02 06:04:25 (54.1 Mb/s) - ‘/dev/null’ saved [132487/132487]
+

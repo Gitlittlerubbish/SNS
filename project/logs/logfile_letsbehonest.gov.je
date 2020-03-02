@@ -1,0 +1,17 @@
+--2020-03-02 05:22:24--  http://letsbehonest.gov.je/media/1129/senior-practitioner.pdf
+Resolving letsbehonest.gov.je (letsbehonest.gov.je)... 212.84.171.171
+Connecting to letsbehonest.gov.je (letsbehonest.gov.je)|212.84.171.171|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319985 (312K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 34.8M 0s
+    50K .......... .......... .......... .......... .......... 32% 2.10M 0s
+   100K .......... .......... .......... .......... .......... 48% 2.04M 0s
+   150K .......... .......... .......... .......... .......... 64% 54.4M 0s
+   200K .......... .......... .......... .......... .......... 80% 53.9M 0s
+   250K .......... .......... .......... .......... .......... 96%  260M 0s
+   300K .......... ..                                         100%  956M=0.4s
+
+2020-03-02 05:22:24 (6.02 Mb/s) - ‘/dev/null’ saved [319985/319985]
+

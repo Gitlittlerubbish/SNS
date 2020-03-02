@@ -1,0 +1,21 @@
+--2020-03-02 02:53:43--  http://www.eglin.ci/media/1416/2014_jaar_press_uk.pdf
+Resolving www.eglin.ci (www.eglin.ci)... 89.36.74.115
+Connecting to www.eglin.ci (www.eglin.ci)|89.36.74.115|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sipef.com/media/1416/2014_jaar_press_uk.pdf [following]
+--2020-03-02 02:53:43--  https://www.sipef.com/media/1416/2014_jaar_press_uk.pdf
+Resolving www.sipef.com (www.sipef.com)... 89.36.74.115
+Connecting to www.sipef.com (www.sipef.com)|89.36.74.115|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 285193 (279K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 12.1M 0s
+    50K .......... .......... .......... .......... .......... 35%  203M 0s
+   100K .......... .......... .......... .......... .......... 53% 26.9M 0s
+   150K .......... .......... .......... .......... .......... 71%  154M 0s
+   200K .......... .......... .......... .......... .......... 89% 30.8M 0s
+   250K .......... .......... ........                        100%  111M=0.07s
+
+2020-03-02 02:53:44 (33.0 Mb/s) - ‘/dev/null’ saved [285193/285193]
+

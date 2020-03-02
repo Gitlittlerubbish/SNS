@@ -1,0 +1,12 @@
+--2020-03-02 05:01:10--  http://www.ros.ie/privacy_policy.pdf
+Resolving www.ros.ie (www.ros.ie)... 137.191.227.35
+Connecting to www.ros.ie (www.ros.ie)|137.191.227.35|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91649 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 4.56M 0s
+    50K .......... .......... .......... .........            100% 13.0M=0.1s
+
+2020-03-02 05:01:10 (6.39 Mb/s) - ‘/dev/null’ saved [91649/91649]
+

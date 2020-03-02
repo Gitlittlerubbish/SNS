@@ -1,0 +1,15 @@
+--2020-03-01 22:14:47--  http://nawihewad.af/wp-content/uploads/2018/09/COBAS_C111.pdf
+Resolving nawihewad.af (nawihewad.af)... 192.185.88.194
+Connecting to nawihewad.af (nawihewad.af)|192.185.88.194|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215689 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 1.67M 1s
+    50K .......... .......... .......... .......... .......... 47% 3.37M 0s
+   100K .......... .......... .......... .......... .......... 71%  111M 0s
+   150K .......... .......... .......... .......... .......... 94%  522M 0s
+   200K ..........                                            100% 1.04G=0.4s
+
+2020-03-01 22:14:48 (4.65 Mb/s) - ‘/dev/null’ saved [215689/215689]
+

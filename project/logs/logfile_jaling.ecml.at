@@ -1,0 +1,12 @@
+--2020-03-01 23:41:36--  http://jaling.ecml.at/pdfdocs/hawkins.pdf
+Resolving jaling.ecml.at (jaling.ecml.at)... 91.118.6.247
+Connecting to jaling.ecml.at (jaling.ecml.at)|91.118.6.247|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74557 (73K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68% 2.45M 0s
+    50K .......... .......... ..                              100%  404K=0.6s
+
+2020-03-01 23:41:37 (946 Kb/s) - ‘/dev/null’ saved [74557/74557]
+

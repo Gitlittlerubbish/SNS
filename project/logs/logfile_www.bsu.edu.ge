@@ -1,0 +1,17 @@
+--2020-03-02 04:00:00--  http://www.bsu.edu.ge/text_files/ge_file_3242_4.pdf
+Resolving www.bsu.edu.ge (www.bsu.edu.ge)... 213.157.199.141
+Connecting to www.bsu.edu.ge (www.bsu.edu.ge)|213.157.199.141|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bsu.edu.ge/text_files/ge_file_3242_4.pdf [following]
+--2020-03-02 04:00:00--  https://www.bsu.edu.ge/text_files/ge_file_3242_4.pdf
+Connecting to www.bsu.edu.ge (www.bsu.edu.ge)|213.157.199.141|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111108 (109K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 3.21M 0s
+    50K .......... .......... .......... .......... .......... 92% 6.37M 0s
+   100K ........                                              100%  733M=0.2s
+
+2020-03-02 04:00:01 (4.63 Mb/s) - ‘/dev/null’ saved [111108/111108]
+

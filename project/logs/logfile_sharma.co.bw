@@ -1,0 +1,11 @@
+--2020-03-02 01:05:58--  http://sharma.co.bw/documents/Intellectual_Property_Rights.pdf
+Resolving sharma.co.bw (sharma.co.bw)... 79.170.44.102
+Connecting to sharma.co.bw (sharma.co.bw)|79.170.44.102|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41325 (40K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..........           100% 29.3M=0.01s
+
+2020-03-02 01:05:59 (29.3 Mb/s) - ‘/dev/null’ saved [41325/41325]
+

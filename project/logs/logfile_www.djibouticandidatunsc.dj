@@ -1,0 +1,25 @@
+--2020-03-02 03:06:07--  http://www.djibouticandidatunsc.dj/storage/soutiens/November2019/86iNwwMrHeZvqUbKvqA7.pdf
+Resolving www.djibouticandidatunsc.dj (www.djibouticandidatunsc.dj)... 197.241.36.49
+Connecting to www.djibouticandidatunsc.dj (www.djibouticandidatunsc.dj)|197.241.36.49|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.djibouticandidatunsc.dj/storage/soutiens/November2019/86iNwwMrHeZvqUbKvqA7.pdf [following]
+--2020-03-02 03:06:10--  https://www.djibouticandidatunsc.dj/storage/soutiens/November2019/86iNwwMrHeZvqUbKvqA7.pdf
+Connecting to www.djibouticandidatunsc.dj (www.djibouticandidatunsc.dj)|197.241.36.49|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 539100 (526K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 2.30M 2s
+    50K .......... .......... .......... .......... .......... 18% 4.81M 1s
+   100K .......... .......... .......... .......... .......... 28% 99.6M 1s
+   150K .......... .......... .......... .......... .......... 37% 5.08M 1s
+   200K .......... .......... .......... .......... .......... 47% 95.1M 0s
+   250K .......... .......... .......... .......... .......... 56%  102M 0s
+   300K .......... .......... .......... .......... .......... 66% 97.4M 0s
+   350K .......... .......... .......... .......... .......... 75% 90.8M 0s
+   400K .......... .......... .......... .......... .......... 85% 5.59M 0s
+   450K .......... .......... .......... .......... .......... 94%  109M 0s
+   500K .......... .......... ......                          100%  208M=0.4s
+
+2020-03-02 03:06:11 (9.74 Mb/s) - ‘/dev/null’ saved [539100/539100]
+

@@ -1,0 +1,18 @@
+--2020-03-02 07:46:19--  http://gia.gov.mn/upload/files/zaavar.pdf
+Resolving gia.gov.mn (gia.gov.mn)... 103.87.69.132
+Connecting to gia.gov.mn (gia.gov.mn)|103.87.69.132|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://gia.gov.mn/ [following]
+--2020-03-02 07:46:20--  https://gia.gov.mn/
+Connecting to gia.gov.mn (gia.gov.mn)|103.87.69.132|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  735K
+    50K .......... .......... .......... .......... .......... 1.66M
+   100K .......... .......... .......... .......... .......... 1.66M
+   150K .......... .......... .......... ....                  73.3M=1.1s
+
+2020-03-02 07:46:22 (1.43 Mb/s) - ‘/dev/null’ saved [188672]
+

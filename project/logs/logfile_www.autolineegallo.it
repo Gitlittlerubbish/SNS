@@ -1,0 +1,12 @@
+--2020-03-02 05:08:18--  http://www.autolineegallo.it/orari.pdf
+Resolving www.autolineegallo.it (www.autolineegallo.it)... 93.57.87.221
+Connecting to www.autolineegallo.it (www.autolineegallo.it)|93.57.87.221|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 58634 (57K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 87% 1.45M 0s
+    50K .......                                               100% 53.1M=0.3s
+
+2020-03-02 05:08:18 (1.65 Mb/s) - ‘/dev/null’ saved [58634/58634]
+

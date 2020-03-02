@@ -1,0 +1,17 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:07:16--  https://www.britishcouncil.co.bw/sites/default/files/july_cr_enrolment_form.pdf
+Resolving www.britishcouncil.co.bw (www.britishcouncil.co.bw)... 104.83.2.54
+Connecting to www.britishcouncil.co.bw (www.britishcouncil.co.bw)|104.83.2.54|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 97.0M
+    50K .......... .......... .......... .......... .......... 68.9M
+   100K .......... .......... .......... .......... ..........  142M
+   150K .......... .......... .......... .......... ..........  196M
+   200K .......... .......... .......... .......... .......... 64.5M
+   250K ........                                               3.15G=0.02s
+
+2020-03-02 01:07:17 (98.6 Mb/s) - ‘/dev/null’ saved [265042]
+

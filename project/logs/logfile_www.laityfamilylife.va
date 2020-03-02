@@ -1,0 +1,32 @@
+--2020-03-02 04:24:04--  http://www.laityfamilylife.va/content/dam/laityfamilylife/Magistero/FamigliaEng/006_ENG_Codice_di_diritto_Canonico_2_di_2_can_da_1055_a_1165.pdf
+Resolving www.laityfamilylife.va (www.laityfamilylife.va)... 185.152.70.30
+Connecting to www.laityfamilylife.va (www.laityfamilylife.va)|185.152.70.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 350445 (342K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 4.86M 0s
+    50K .......... .......... .......... .......... .......... 29% 12.0M 0s
+   100K .......... .......... .......... .......... .......... 43% 27.4M 0s
+   150K .......... .......... .......... .......... .......... 58%  111M 0s
+   200K .......... .......... .......... .......... .......... 73% 15.3M 0s
+   250K .......... .......... .......... .......... .......... 87% 31.0M 0s
+   300K .......... .......... .......... .......... ..        100% 23.8M=0.2s
+
+2020-03-02 04:24:05 (14.6 Mb/s) - ‘/dev/null’ saved [350445/350445]
+
+--2020-03-02 04:24:05--  http://www.laityfamilylife.va/content/dam/laityfamilylife/Magistero/FamigliaEng/007_ENG_Catechismo_della_Chiesa_Cattolica_1_di_5_nn_da_1601_a_1666.pdf
+Resolving www.laityfamilylife.va (www.laityfamilylife.va)... 185.152.70.30
+Connecting to www.laityfamilylife.va (www.laityfamilylife.va)|185.152.70.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230151 (225K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 5.39M 0s
+    50K .......... .......... .......... .......... .......... 44% 12.3M 0s
+   100K .......... .......... .......... .......... .......... 66% 29.0M 0s
+   150K .......... .......... .......... .......... .......... 88%  185M 0s
+   200K .......... .......... ....                            100% 9.43M=0.1s
+
+2020-03-02 04:24:05 (12.5 Mb/s) - ‘/dev/null’ saved [230151/230151]
+

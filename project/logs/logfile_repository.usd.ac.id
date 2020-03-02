@@ -1,0 +1,44 @@
+--2020-03-02 04:47:06--  http://repository.usd.ac.id/17285/1/068114132.pdf
+Resolving repository.usd.ac.id (repository.usd.ac.id)... 202.94.83.37
+Connecting to repository.usd.ac.id (repository.usd.ac.id)|202.94.83.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://repository.usd.ac.id/17285/1/068114132.pdf [following]
+--2020-03-02 04:47:08--  https://repository.usd.ac.id/17285/1/068114132.pdf
+Connecting to repository.usd.ac.id (repository.usd.ac.id)|202.94.83.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 509334 (497K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10%  537K 7s
+    50K .......... .......... .......... .......... .......... 20%  634K 6s
+   100K .......... .......... .......... .......... .......... 30% 1.02M 4s
+   150K .......... .......... .......... .......... .......... 40%  384K 4s
+   200K .......... .......... .......... .......... .......... 50% 1.20M 3s
+   250K .......... .......... .......... .......... .......... 60%  629K 3s
+   300K .......... .......... .......... .......... .......... 70%  366K 2s
+   350K .......... .......... .......... .......... .......... 80%  399K 1s
+   400K .......... .......... .......... .......... .......... 90%  417K 1s
+   450K .......... .......... .......... .......... .......   100%  999K=7.4s
+
+2020-03-02 04:47:16 (552 Kb/s) - ‘/dev/null’ saved [509334/509334]
+
+--2020-03-02 04:47:16--  http://repository.usd.ac.id/6766/1/125314133.pdf
+Resolving repository.usd.ac.id (repository.usd.ac.id)... 202.94.83.37
+Connecting to repository.usd.ac.id (repository.usd.ac.id)|202.94.83.37|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://repository.usd.ac.id/6766/1/125314133.pdf [following]
+--2020-03-02 04:47:16--  https://repository.usd.ac.id/6766/1/125314133.pdf
+Connecting to repository.usd.ac.id (repository.usd.ac.id)|202.94.83.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 294225 (287K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17%  711K 3s
+    50K .......... .......... .......... .......... .......... 34% 1.15G 1s
+   100K .......... .......... .......... .......... .......... 52% 2.04M 1s
+   150K .......... .......... .......... .......... .......... 69% 2.18M 0s
+   200K .......... .......... .......... .......... .......... 87% 2.17M 0s
+   250K .......... .......... .......... .......              100% 1.62M=1.3s
+
+2020-03-02 04:47:19 (1.75 Mb/s) - ‘/dev/null’ saved [294225/294225]
+

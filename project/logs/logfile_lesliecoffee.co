@@ -1,0 +1,15 @@
+--2020-03-02 02:31:11--  http://lesliecoffee.co/menu/lesliecoffeeco-menu.pdf
+Resolving lesliecoffee.co (lesliecoffee.co)... 64.111.100.13
+Connecting to lesliecoffee.co (lesliecoffee.co)|64.111.100.13|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 222349 (217K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.66M 1s
+    50K .......... .......... .......... .......... .......... 46% 5.16M 0s
+   100K .......... .......... .......... .......... .......... 69%  204M 0s
+   150K .......... .......... .......... .......... .......... 92%  149M 0s
+   200K .......... .......                                    100% 1.83M=0.3s
+
+2020-03-02 02:31:12 (5.65 Mb/s) - ‘/dev/null’ saved [222349/222349]
+

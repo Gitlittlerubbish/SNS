@@ -1,0 +1,11 @@
+--2020-03-02 07:28:43--  http://reactivosmeyer.com.mx/datos/pdf/materias/hds_6315.pdf
+Resolving reactivosmeyer.com.mx (reactivosmeyer.com.mx)... 65.99.252.199
+Connecting to reactivosmeyer.com.mx (reactivosmeyer.com.mx)|65.99.252.199|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45273 (44K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ....      100% 1.65M=0.2s
+
+2020-03-02 07:28:44 (1.65 Mb/s) - ‘/dev/null’ saved [45273/45273]
+

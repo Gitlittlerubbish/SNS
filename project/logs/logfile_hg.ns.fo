@@ -1,0 +1,19 @@
+--2020-03-02 03:37:14--  http://hg.ns.fo/kunningarskriv.pdf
+Resolving hg.ns.fo (hg.ns.fo)... 212.55.53.48
+Connecting to hg.ns.fo (hg.ns.fo)|212.55.53.48|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://hg.ns.fo [following]
+--2020-03-02 03:37:15--  https://hg.ns.fo/
+Connecting to hg.ns.fo (hg.ns.fo)|212.55.53.48|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /LogOnNemID.aspx [following]
+--2020-03-02 03:37:15--  https://hg.ns.fo/LogOnNemID.aspx
+Reusing existing connection to hg.ns.fo:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 16510 (16K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ......                                     100%  831M=0s
+
+2020-03-02 03:37:15 (831 Mb/s) - ‘/dev/null’ saved [16510/16510]
+

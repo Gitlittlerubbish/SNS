@@ -1,0 +1,42 @@
+--2020-03-02 05:20:13--  http://pioneer.jp/support/purpose/faq/pdf/16cyber-connect_pan.pdf
+Resolving pioneer.jp (pioneer.jp)... 153.153.159.136
+Connecting to pioneer.jp (pioneer.jp)|153.153.159.136|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pioneer.jp/support/purpose/faq/pdf/16cyber-connect_pan.pdf [following]
+--2020-03-02 05:20:13--  https://pioneer.jp/support/purpose/faq/pdf/16cyber-connect_pan.pdf
+Connecting to pioneer.jp (pioneer.jp)|153.153.159.136|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://jpn.pioneer/ja/support/purpose/faq/pdf/16cyber-connect_pan.pdf [following]
+--2020-03-02 05:20:15--  http://jpn.pioneer/ja/support/purpose/faq/pdf/16cyber-connect_pan.pdf
+Resolving jpn.pioneer (jpn.pioneer)... 153.153.159.136
+Connecting to jpn.pioneer (jpn.pioneer)|153.153.159.136|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jpn.pioneer/ja/support/purpose/faq/pdf/16cyber-connect_pan.pdf [following]
+--2020-03-02 05:20:16--  https://jpn.pioneer/ja/support/purpose/faq/pdf/16cyber-connect_pan.pdf
+Connecting to jpn.pioneer (jpn.pioneer)|153.153.159.136|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 924060 (902K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5%  642K 11s
+    50K .......... .......... .......... .......... .......... 11% 1.14M 8s
+   100K .......... .......... .......... .......... .......... 16% 1.77M 6s
+   150K .......... .......... .......... .......... .......... 22% 1.79M 5s
+   200K .......... .......... .......... .......... .......... 27% 1.21M 5s
+   250K .......... .......... .......... .......... .......... 33% 1.19M 4s
+   300K .......... .......... .......... .......... .......... 38% 1.78M 4s
+   350K .......... .......... .......... .......... .......... 44% 1.19M 3s
+   400K .......... .......... .......... .......... .......... 49% 1.25M 3s
+   450K .......... .......... .......... .......... .......... 55% 1.70M 3s
+   500K .......... .......... .......... .......... .......... 60% 1.21M 2s
+   550K .......... .......... .......... .......... .......... 66% 1.78M 2s
+   600K .......... .......... .......... .......... .......... 72% 1.09M 2s
+   650K .......... .......... .......... .......... .......... 77% 1.31M 1s
+   700K .......... .......... .......... .......... .......... 83% 1.71M 1s
+   750K .......... .......... .......... .......... .......... 88% 1.79M 1s
+   800K .......... .......... .......... .......... .......... 94%  899K 0s
+   850K .......... .......... .......... .......... .......... 99% 1.25M 0s
+   900K ..                                                    100%  394K=5.8s
+
+2020-03-02 05:20:23 (1.28 Mb/s) - ‘/dev/null’ saved [924060/924060]
+

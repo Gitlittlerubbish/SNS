@@ -1,0 +1,19 @@
+--2020-03-02 05:08:53--  http://www.figc.it/Utility/ExportAllegatiPdf%3Fid%3D1300
+Resolving www.figc.it (www.figc.it)... 217.61.41.70
+Connecting to www.figc.it (www.figc.it)|217.61.41.70|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /500.html?aspxerrorpath=/Utility/ExportAllegatiPdf?id=1300 [following]
+--2020-03-02 05:08:53--  http://www.figc.it/500.html?aspxerrorpath=/Utility/ExportAllegatiPdf?id=1300
+Reusing existing connection to www.figc.it:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.figc.it/500.html?aspxerrorpath=/Utility/ExportAllegatiPdf?id=1300&aspxerrorpath=/Utility/ExportAllegatiPdf?id=1300 [following]
+--2020-03-02 05:08:53--  https://www.figc.it/500.html?aspxerrorpath=/Utility/ExportAllegatiPdf?id=1300&aspxerrorpath=/Utility/ExportAllegatiPdf?id=1300
+Connecting to www.figc.it (www.figc.it)|217.61.41.70|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2019 (2.0K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  950M=0s
+
+2020-03-02 05:08:53 (950 Mb/s) - ‘/dev/null’ saved [2019/2019]
+

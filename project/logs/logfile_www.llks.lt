@@ -1,0 +1,13 @@
+--2020-03-02 06:26:19--  http://www.llks.lt/pdf2/Satrijos_Ragana_Apie_tevyne.pdf
+Resolving www.llks.lt (www.llks.lt)... 194.135.87.7
+Connecting to www.llks.lt (www.llks.lt)|194.135.87.7|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149226 (146K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 5.08M 0s
+    50K .......... .......... .......... .......... .......... 68% 10.4M 0s
+   100K .......... .......... .......... .......... .....     100% 9.44M=0.2s
+
+2020-03-02 06:26:19 (7.47 Mb/s) - ‘/dev/null’ saved [149226/149226]
+

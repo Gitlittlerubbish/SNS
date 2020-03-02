@@ -1,0 +1,15 @@
+--2020-03-02 01:49:47--  http://sonara-cm.cm/wp-content/uploads/2018/08/Brochure_SONARA.pdf
+Resolving sonara-cm.cm (sonara-cm.cm)... 178.62.17.94
+Connecting to sonara-cm.cm (sonara-cm.cm)|178.62.17.94|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://sonara-cm.cm/cgi-sys/suspendedpage.cgi [following]
+--2020-03-02 01:49:47--  http://sonara-cm.cm/cgi-sys/suspendedpage.cgi
+Reusing existing connection to sonara-cm.cm:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                                9.49M=0.006s
+
+2020-03-02 01:49:47 (9.49 Mb/s) - ‘/dev/null’ saved [7577]
+

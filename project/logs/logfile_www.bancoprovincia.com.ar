@@ -1,0 +1,24 @@
+--2020-03-01 23:14:47--  http://www.bancoprovincia.com.ar/CDN/Get/verano_restaurantes_bares
+Resolving www.bancoprovincia.com.ar (www.bancoprovincia.com.ar)... 181.191.187.30, 181.191.186.30
+Connecting to www.bancoprovincia.com.ar (www.bancoprovincia.com.ar)|181.191.187.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bancoprovincia.com.ar/CDN/Get/verano_restaurantes_bares [following]
+--2020-03-01 23:14:50--  https://www.bancoprovincia.com.ar/CDN/Get/verano_restaurantes_bares
+Connecting to www.bancoprovincia.com.ar (www.bancoprovincia.com.ar)|181.191.187.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 485423 (474K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.33M 3s
+    50K .......... .......... .......... .......... .......... 21% 1.33M 2s
+   100K .......... .......... .......... .......... .......... 31%  499M 1s
+   150K .......... .......... .......... .......... .......... 42% 1.33M 1s
+   200K .......... .......... .......... .......... .......... 52%  427M 1s
+   250K .......... .......... .......... .......... .......... 63%  241M 1s
+   300K .......... .......... .......... .......... .......... 73% 1.36M 0s
+   350K .......... .......... .......... .......... .......... 84%  219M 0s
+   400K .......... .......... .......... .......... .......... 94%  293M 0s
+   450K .......... .......... ....                            100% 1.04G=1.2s
+
+2020-03-01 23:14:53 (3.15 Mb/s) - ‘/dev/null’ saved [485423/485423]
+

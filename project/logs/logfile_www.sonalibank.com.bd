@@ -1,0 +1,26 @@
+--2020-03-02 00:02:52--  http://www.sonalibank.com.bd/upload/fxrate.pdf
+Resolving www.sonalibank.com.bd (www.sonalibank.com.bd)... 206.225.83.57
+Connecting to www.sonalibank.com.bd (www.sonalibank.com.bd)|206.225.83.57|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sonalibank.com.bd/upload/fxrate.pdf [following]
+--2020-03-02 00:02:55--  https://www.sonalibank.com.bd/upload/fxrate.pdf
+Connecting to www.sonalibank.com.bd (www.sonalibank.com.bd)|206.225.83.57|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 608375 (594K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 1.41M 3s
+    50K .......... .......... .......... .......... .......... 16% 2.78M 2s
+   100K .......... .......... .......... .......... .......... 25% 62.7M 1s
+   150K .......... .......... .......... .......... .......... 33% 2.82M 1s
+   200K .......... .......... .......... .......... .......... 42% 74.9M 1s
+   250K .......... .......... .......... .......... .......... 50% 2.96M 1s
+   300K .......... .......... .......... .......... .......... 58% 78.8M 1s
+   350K .......... .......... .......... .......... .......... 67% 74.1M 0s
+   400K .......... .......... .......... .......... .......... 75% 3.03M 0s
+   450K .......... .......... .......... .......... .......... 84%  104M 0s
+   500K .......... .......... .......... .......... .......... 92%  105M 0s
+   550K .......... .......... .......... .......... ....      100%  168M=0.9s
+
+2020-03-02 00:02:56 (5.47 Mb/s) - ‘/dev/null’ saved [608375/608375]
+

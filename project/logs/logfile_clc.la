@@ -1,0 +1,15 @@
+--2020-03-02 06:08:41--  http://clc.la/vrk2017
+Resolving clc.la (clc.la)... 23.105.240.15
+Connecting to clc.la (clc.la)|23.105.240.15|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://clc.la/vrk2017 [following]
+--2020-03-02 06:08:41--  https://clc.la/vrk2017
+Connecting to clc.la (clc.la)|23.105.240.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 558 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  279M=0s
+
+2020-03-02 06:08:42 (279 Mb/s) - ‘/dev/null’ saved [558/558]
+

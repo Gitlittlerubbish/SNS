@@ -1,0 +1,16 @@
+--2020-03-02 06:28:56--  http://www.lasel.lu/cal/cal0910t1/regl_RUG5.pdf
+Resolving www.lasel.lu (www.lasel.lu)... 158.64.1.63
+Connecting to www.lasel.lu (www.lasel.lu)|158.64.1.63|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.lasel.lu/cal/cal0910t1/regl_RUG5.pdf [following]
+--2020-03-02 06:28:57--  https://www.lasel.lu/cal/cal0910t1/regl_RUG5.pdf
+Connecting to www.lasel.lu (www.lasel.lu)|158.64.1.63|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85480 (83K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 27.6M 0s
+    50K .......... .......... .......... ...                  100%  952M=0.02s
+
+2020-03-02 06:28:57 (45.2 Mb/s) - ‘/dev/null’ saved [85480/85480]
+

@@ -1,0 +1,13 @@
+--2020-03-02 07:30:55--  http://internet10.com.mx/Docs/Brief.pdf
+Resolving internet10.com.mx (internet10.com.mx)... 107.180.41.252
+Connecting to internet10.com.mx (internet10.com.mx)|107.180.41.252|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146087 (143K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 2.37M 0s
+    50K .......... .......... .......... .......... .......... 70% 2.46M 0s
+   100K .......... .......... .......... .......... ..        100% 4.07M=0.4s
+
+2020-03-02 07:30:56 (2.75 Mb/s) - ‘/dev/null’ saved [146087/146087]
+

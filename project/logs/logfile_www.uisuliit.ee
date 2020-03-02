@@ -1,0 +1,27 @@
+--2020-03-02 03:30:48--  http://www.uisuliit.ee/est/g42s644
+Resolving www.uisuliit.ee (www.uisuliit.ee)... 194.106.111.136
+Connecting to www.uisuliit.ee (www.uisuliit.ee)|194.106.111.136|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uisuliit.ee/est/g42s644 [following]
+--2020-03-02 03:30:48--  https://www.uisuliit.ee/est/g42s644
+Connecting to www.uisuliit.ee (www.uisuliit.ee)|194.106.111.136|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uisuliit.ee/Tallink-Hotels-CUP-2020-International [following]
+--2020-03-02 03:30:49--  https://www.uisuliit.ee/Tallink-Hotels-CUP-2020-International
+Reusing existing connection to www.uisuliit.ee:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 416581 (407K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 3.78M 1s
+    50K .......... .......... .......... .......... .......... 24% 7.99M 0s
+   100K .......... .......... .......... .......... .......... 36% 86.5M 0s
+   150K .......... .......... .......... .......... .......... 49%  131M 0s
+   200K .......... .......... .......... .......... .......... 61% 8.37M 0s
+   250K .......... .......... .......... .......... .......... 73% 63.6M 0s
+   300K .......... .......... .......... .......... .......... 86% 9.44M 0s
+   350K .......... .......... .......... .......... .......... 98% 90.0M 0s
+   400K ......                                                100%  642M=0.3s
+
+2020-03-02 03:30:49 (12.3 Mb/s) - ‘/dev/null’ saved [416581/416581]
+

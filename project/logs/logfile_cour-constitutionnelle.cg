@@ -1,0 +1,30 @@
+--2020-03-02 02:36:48--  http://cour-constitutionnelle.cg/constitutionsanterieures/Loiconstitutionnelle1.pdf
+Resolving cour-constitutionnelle.cg (cour-constitutionnelle.cg)... 198.136.54.34
+Connecting to cour-constitutionnelle.cg (cour-constitutionnelle.cg)|198.136.54.34|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://cour-constitutionnelle.cg/constitutionsanterieures/Loiconstitutionnelle1.pdf [following]
+--2020-03-02 02:36:49--  https://cour-constitutionnelle.cg/constitutionsanterieures/Loiconstitutionnelle1.pdf
+Connecting to cour-constitutionnelle.cg (cour-constitutionnelle.cg)|198.136.54.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 68231 (67K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 75% 1.79M 0s
+    50K .......... ......                                     100%  110M=0.2s
+
+2020-03-02 02:36:50 (2.37 Mb/s) - ‘/dev/null’ saved [68231/68231]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 02:36:50--  https://cour-constitutionnelle.cg/constitutionsanterieures/Constitutiondu2mars1961.pdf
+Resolving cour-constitutionnelle.cg (cour-constitutionnelle.cg)... 198.136.54.34
+Connecting to cour-constitutionnelle.cg (cour-constitutionnelle.cg)|198.136.54.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132137 (129K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 1.72M 0s
+    50K .......... .......... .......... .......... .......... 77% 3.34M 0s
+   100K .......... .......... .........                       100% 11.1M=0.4s
+
+2020-03-02 02:36:51 (2.77 Mb/s) - ‘/dev/null’ saved [132137/132137]
+

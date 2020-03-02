@@ -1,0 +1,22 @@
+--2020-03-02 00:27:14--  http://sanipro.bz/images/pdf/ansuchen/guida_operativa.pdf
+Resolving sanipro.bz (sanipro.bz)... 79.133.45.235
+Connecting to sanipro.bz (sanipro.bz)|79.133.45.235|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://sanipro.bz/images/pdf/ansuchen/guida_operativa.pdf [following]
+--2020-03-02 00:27:14--  https://sanipro.bz/images/pdf/ansuchen/guida_operativa.pdf
+Connecting to sanipro.bz (sanipro.bz)|79.133.45.235|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 392600 (383K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 14.8M 0s
+    50K .......... .......... .......... .......... .......... 26% 16.3M 0s
+   100K .......... .......... .......... .......... .......... 39%  119M 0s
+   150K .......... .......... .......... .......... .......... 52% 14.8M 0s
+   200K .......... .......... .......... .......... .......... 65% 15.7M 0s
+   250K .......... .......... .......... .......... .......... 78% 16.3M 0s
+   300K .......... .......... .......... .......... .......... 91% 18.6M 0s
+   350K .......... .......... .......... ...                  100% 48.3M=0.2s
+
+2020-03-02 00:27:14 (19.3 Mb/s) - ‘/dev/null’ saved [392600/392600]
+

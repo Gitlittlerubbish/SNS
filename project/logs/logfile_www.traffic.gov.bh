@@ -1,0 +1,15 @@
+--2020-03-02 00:00:33--  http://www.traffic.gov.bh/mcms-store/pdf/RoadTrafficRules.pdf
+Resolving www.traffic.gov.bh (www.traffic.gov.bh)... 85.158.131.217
+Connecting to www.traffic.gov.bh (www.traffic.gov.bh)|85.158.131.217|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.traffic.gov.bh [following]
+--2020-03-02 00:00:35--  https://www.traffic.gov.bh/
+Connecting to www.traffic.gov.bh (www.traffic.gov.bh)|85.158.131.217|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18375 (18K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                    100%  717K=0.2s
+
+2020-03-02 00:00:36 (717 Kb/s) - ‘/dev/null’ saved [18375/18375]
+

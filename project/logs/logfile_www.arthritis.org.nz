@@ -1,0 +1,19 @@
+--2020-03-02 08:31:00--  http://www.arthritis.org.nz/pdfs/brochures/Fibromyalgia.pdf
+Resolving www.arthritis.org.nz (www.arthritis.org.nz)... 210.48.32.89
+Connecting to www.arthritis.org.nz (www.arthritis.org.nz)|210.48.32.89|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.arthritis.org.nz/pdfs/brochures/Fibromyalgia.pdf [following]
+--2020-03-02 08:31:02--  https://www.arthritis.org.nz/pdfs/brochures/Fibromyalgia.pdf
+Connecting to www.arthritis.org.nz (www.arthritis.org.nz)|210.48.32.89|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235633 (230K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21%  997K 1s
+    50K .......... .......... .......... .......... .......... 43% 1.15M 1s
+   100K .......... .......... .......... .......... .......... 65%  369M 0s
+   150K .......... .......... .......... .......... .......... 86%  887K 0s
+   200K .......... .......... ..........                      100% 1.00G=1.2s
+
+2020-03-02 08:31:05 (1.53 Mb/s) - ‘/dev/null’ saved [235633/235633]
+

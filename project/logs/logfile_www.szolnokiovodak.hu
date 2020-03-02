@@ -1,0 +1,13 @@
+--2020-03-02 04:37:49--  http://www.szolnokiovodak.hu/pdfs/Tatrahazine_Staub_Zita.pdf
+Resolving www.szolnokiovodak.hu (www.szolnokiovodak.hu)... 79.172.204.177
+Connecting to www.szolnokiovodak.hu (www.szolnokiovodak.hu)|79.172.204.177|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135455 (132K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 6.09M 0s
+    50K .......... .......... .......... .......... .......... 75% 11.7M 0s
+   100K .......... .......... .......... ..                   100% 8.01M=0.1s
+
+2020-03-02 04:37:49 (8.01 Mb/s) - ‘/dev/null’ saved [135455/135455]
+

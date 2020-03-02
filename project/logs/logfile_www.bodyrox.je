@@ -1,0 +1,14 @@
+--2020-03-02 05:22:10--  http://www.bodyrox.je/images/classes/BodyRox_Class_Timetable-sept-2017.pdf
+Resolving www.bodyrox.je (www.bodyrox.je)... 185.43.50.244
+Connecting to www.bodyrox.je (www.bodyrox.je)|185.43.50.244|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 195231 (191K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 3.72M 0s
+    50K .......... .......... .......... .......... .......... 52% 7.69M 0s
+   100K .......... .......... .......... .......... .......... 78% 13.5M 0s
+   150K .......... .......... .......... ..........           100%  136M=0.2s
+
+2020-03-02 05:22:11 (7.97 Mb/s) - ‘/dev/null’ saved [195231/195231]
+

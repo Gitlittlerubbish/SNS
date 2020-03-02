@@ -1,0 +1,16 @@
+--2020-03-02 01:06:46--  http://www.hrmc.co.bw/_images_upload/.WUCJDExecutiveDirectorOperationsvFN.pdf
+Resolving www.hrmc.co.bw (www.hrmc.co.bw)... 79.174.130.80
+Connecting to www.hrmc.co.bw (www.hrmc.co.bw)|79.174.130.80|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 258204 (252K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 5.47M 0s
+    50K .......... .......... .......... .......... .......... 39% 14.2M 0s
+   100K .......... .......... .......... .......... .......... 59% 27.8M 0s
+   150K .......... .......... .......... .......... .......... 79% 72.2M 0s
+   200K .......... .......... .......... .......... .......... 99% 26.3M 0s
+   250K ..                                                    100%  353K=0.1s
+
+2020-03-02 01:06:47 (14.8 Mb/s) - ‘/dev/null’ saved [258204/258204]
+

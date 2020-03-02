@@ -1,0 +1,20 @@
+--2020-03-02 01:07:46--  http://www.bitc.co.bw/sites/default/files/pbga_2017_application_form.pdf
+Resolving www.bitc.co.bw (www.bitc.co.bw)... 96.125.174.55
+Connecting to www.bitc.co.bw (www.bitc.co.bw)|96.125.174.55|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.gobotswana.com/sites/default/files/pbga_2017_application_form.pdf [following]
+--2020-03-02 01:07:47--  https://www.gobotswana.com/sites/default/files/pbga_2017_application_form.pdf
+Resolving www.gobotswana.com (www.gobotswana.com)... 96.125.174.55
+Connecting to www.gobotswana.com (www.gobotswana.com)|96.125.174.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 236096 (231K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 3.33M 0s
+    50K .......... .......... .......... .......... .......... 43% 3.25M 0s
+   100K .......... .......... .......... .......... .......... 65%  190M 0s
+   150K .......... .......... .......... .......... .......... 86% 3.47M 0s
+   200K .......... .......... ..........                      100% 66.5M=0.4s
+
+2020-03-02 01:07:48 (5.06 Mb/s) - ‘/dev/null’ saved [236096/236096]
+

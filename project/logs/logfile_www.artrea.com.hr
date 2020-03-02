@@ -1,0 +1,30 @@
+--2020-03-02 02:55:53--  http://www.artrea.com.hr/skola/Podsjetnik_Trokut.pdf
+Resolving www.artrea.com.hr (www.artrea.com.hr)... 178.218.166.219
+Connecting to www.artrea.com.hr (www.artrea.com.hr)|178.218.166.219|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.artrea.com.hr/skola/Podsjetnik_Trokut.pdf [following]
+--2020-03-02 02:55:53--  https://www.artrea.com.hr/skola/Podsjetnik_Trokut.pdf
+Connecting to www.artrea.com.hr (www.artrea.com.hr)|178.218.166.219|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41681 (41K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..........           100% 4.51M=0.07s
+
+2020-03-02 02:55:53 (4.51 Mb/s) - ‘/dev/null’ saved [41681/41681]
+
+--2020-03-02 02:55:53--  http://www.artrea.com.hr/skola/DjeljivostBrojeva.pdf
+Resolving www.artrea.com.hr (www.artrea.com.hr)... 178.218.166.219
+Connecting to www.artrea.com.hr (www.artrea.com.hr)|178.218.166.219|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.artrea.com.hr/skola/DjeljivostBrojeva.pdf [following]
+--2020-03-02 02:55:53--  https://www.artrea.com.hr/skola/DjeljivostBrojeva.pdf
+Connecting to www.artrea.com.hr (www.artrea.com.hr)|178.218.166.219|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24711 (24K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ....                            100% 5.22M=0.04s
+
+2020-03-02 02:55:53 (5.22 Mb/s) - ‘/dev/null’ saved [24711/24711]
+

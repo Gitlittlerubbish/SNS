@@ -1,0 +1,16 @@
+--2020-03-01 23:05:03--  http://herpolsheimer.ag/media/ASR_03_2017.pdf
+Resolving herpolsheimer.ag (herpolsheimer.ag)... 85.236.44.228
+Connecting to herpolsheimer.ag (herpolsheimer.ag)|85.236.44.228|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://herpolsheimer.ag/media/ASR_03_2017.pdf [following]
+--2020-03-01 23:05:03--  https://herpolsheimer.ag/media/ASR_03_2017.pdf
+Connecting to herpolsheimer.ag (herpolsheimer.ag)|85.236.44.228|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90103 (88K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56% 7.04M 0s
+    50K .......... .......... .......... .......              100%  334M=0.06s
+
+2020-03-01 23:05:03 (12.2 Mb/s) - ‘/dev/null’ saved [90103/90103]
+

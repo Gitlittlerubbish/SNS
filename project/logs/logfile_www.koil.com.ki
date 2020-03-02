@@ -1,0 +1,15 @@
+--2020-03-02 05:33:13--  http://www.koil.com.ki/advert-project-manager-final/
+Resolving www.koil.com.ki (www.koil.com.ki)... 79.170.44.141
+Connecting to www.koil.com.ki (www.koil.com.ki)|79.170.44.141|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://79.170.44.8/inactive.cgi?site=koil.com.ki;key=5aef1b5348e8a1ebbdfb86e701da56a8 [following]
+--2020-03-02 05:33:13--  http://79.170.44.8/inactive.cgi?site=koil.com.ki;key=5aef1b5348e8a1ebbdfb86e701da56a8
+Connecting to 79.170.44.8:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         166M=0s
+
+2020-03-02 05:33:14 (166 Mb/s) - ‘/dev/null’ saved [456]
+

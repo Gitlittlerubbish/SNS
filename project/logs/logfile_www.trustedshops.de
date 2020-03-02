@@ -1,0 +1,20 @@
+--2020-03-02 04:00:39--  http://www.trustedshops.de/tsdocument/CONSUMER_MEMBERSHIP_TERMS_de.pdf
+Resolving www.trustedshops.de (www.trustedshops.de)... 213.227.161.21
+Connecting to www.trustedshops.de (www.trustedshops.de)|213.227.161.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.trustedshops.com/tsdocument/CONSUMER_MEMBERSHIP_TERMS_de.pdf [following]
+--2020-03-02 04:00:39--  https://www.trustedshops.com/tsdocument/CONSUMER_MEMBERSHIP_TERMS_de.pdf
+Resolving www.trustedshops.com (www.trustedshops.com)... 213.227.161.34
+Connecting to www.trustedshops.com (www.trustedshops.com)|213.227.161.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.55M
+    50K .......... .......... .......... .......... .......... 17.5M
+   100K .......... .......... .......... .......... .......... 60.8M
+   150K .......... .......... .......... .......... .......... 17.3M
+   200K ........                                                560M=0.1s
+
+2020-03-02 04:00:40 (13.4 Mb/s) - ‘/dev/null’ saved [213697]
+

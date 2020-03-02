@@ -1,0 +1,34 @@
+--2020-03-02 06:27:18--  http://www.swedbank.lt/files/busto_e.gidas.pdf
+Resolving www.swedbank.lt (www.swedbank.lt)... 193.203.196.147
+Connecting to www.swedbank.lt (www.swedbank.lt)|193.203.196.147|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.swedbank.lt/files/busto_e.gidas.pdf [following]
+--2020-03-02 06:27:18--  https://www.swedbank.lt/files/busto_e.gidas.pdf
+Connecting to www.swedbank.lt (www.swedbank.lt)|193.203.196.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113837 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44%  140M 0s
+    50K .......... .......... .......... .......... .......... 89% 8.18M 0s
+   100K .......... .                                          100%  789M=0.05s
+
+2020-03-02 06:27:19 (17.1 Mb/s) - ‘/dev/null’ saved [113837/113837]
+
+--2020-03-02 06:27:30--  http://www.swedbank.lt/files/busto_e.gidas.pdf
+Resolving www.swedbank.lt (www.swedbank.lt)... 193.203.196.147
+Connecting to www.swedbank.lt (www.swedbank.lt)|193.203.196.147|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.swedbank.lt/files/busto_e.gidas.pdf [following]
+--2020-03-02 06:27:30--  https://www.swedbank.lt/files/busto_e.gidas.pdf
+Connecting to www.swedbank.lt (www.swedbank.lt)|193.203.196.147|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113837 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44%  294M 0s
+    50K .......... .......... .......... .......... .......... 89% 7.60M 0s
+   100K .......... .                                          100% 2.54G=0.06s
+
+2020-03-02 06:27:30 (16.5 Mb/s) - ‘/dev/null’ saved [113837/113837]
+

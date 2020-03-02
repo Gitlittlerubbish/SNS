@@ -1,0 +1,20 @@
+--2020-03-02 04:15:25--  http://www.guernseylawofficers.gg/CHttpHandler.ashx%3Fid%3D110066%26p%3D0
+Resolving www.guernseylawofficers.gg (www.guernseylawofficers.gg)... 195.226.152.43
+Connecting to www.guernseylawofficers.gg (www.guernseylawofficers.gg)|195.226.152.43|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.gov.gg/index.aspx?articleid=121267 [following]
+--2020-03-02 04:15:25--  http://www.gov.gg/index.aspx?articleid=121267
+Resolving www.gov.gg (www.gov.gg)... 195.226.152.45
+Connecting to www.gov.gg (www.gov.gg)|195.226.152.45|:80... connected.
+HTTP request sent, awaiting response... 302 Object Moved
+Location: https://www.gov.gg/index.aspx?articleid=121267 [following]
+--2020-03-02 04:15:25--  https://www.gov.gg/index.aspx?articleid=121267
+Connecting to www.gov.gg (www.gov.gg)|195.226.152.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                   7.19M=0.02s
+
+2020-03-02 04:15:26 (7.19 Mb/s) - ‘/dev/null’ saved [20293]
+

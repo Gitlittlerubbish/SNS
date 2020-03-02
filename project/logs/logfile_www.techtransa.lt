@@ -1,0 +1,24 @@
+--2020-03-02 06:26:02--  http://www.techtransa.lt/MAN_klaidu_kodai.pdf
+Resolving www.techtransa.lt (www.techtransa.lt)... 194.135.87.2
+Connecting to www.techtransa.lt (www.techtransa.lt)|194.135.87.2|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.techtransa.lt/MAN_klaidu_kodai.pdf [following]
+--2020-03-02 06:26:02--  https://www.techtransa.lt/MAN_klaidu_kodai.pdf
+Connecting to www.techtransa.lt (www.techtransa.lt)|194.135.87.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 503203 (491K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 3.58M 1s
+    50K .......... .......... .......... .......... .......... 20% 8.31M 1s
+   100K .......... .......... .......... .......... .......... 30% 9.47M 0s
+   150K .......... .......... .......... .......... .......... 40% 10.8M 0s
+   200K .......... .......... .......... .......... .......... 50%  151M 0s
+   250K .......... .......... .......... .......... .......... 61% 11.3M 0s
+   300K .......... .......... .......... .......... .......... 71% 61.0M 0s
+   350K .......... .......... .......... .......... .......... 81% 24.4M 0s
+   400K .......... .......... .......... .......... .......... 91% 24.3M 0s
+   450K .......... .......... .......... .......... .         100% 55.3M=0.3s
+
+2020-03-02 06:26:03 (12.2 Mb/s) - ‘/dev/null’ saved [503203/503203]
+

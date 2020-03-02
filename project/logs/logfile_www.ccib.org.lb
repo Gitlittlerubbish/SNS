@@ -1,0 +1,13 @@
+--2020-03-02 06:15:42--  http://www.ccib.org.lb/uploads/584e6335b346e.pdf
+Resolving www.ccib.org.lb (www.ccib.org.lb)... 66.147.251.239
+Connecting to www.ccib.org.lb (www.ccib.org.lb)|66.147.251.239|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121016 (118K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 1.21M 0s
+    50K .......... .......... .......... .......... .......... 84% 2.43M 0s
+   100K .......... ........                                   100% 57.9M=0.5s
+
+2020-03-02 06:15:43 (1.91 Mb/s) - ‘/dev/null’ saved [121016/121016]
+

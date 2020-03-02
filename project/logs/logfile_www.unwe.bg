@@ -1,0 +1,15 @@
+--2020-03-02 01:30:52--  http://www.unwe.bg/Uploads/Trustees/trustees_04572_ViolinaMarinova.pdf
+Resolving www.unwe.bg (www.unwe.bg)... 194.141.32.4
+Connecting to www.unwe.bg (www.unwe.bg)|194.141.32.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.unwe.bg/Uploads/Trustees/trustees_04572_ViolinaMarinova.pdf [following]
+--2020-03-02 01:30:53--  https://www.unwe.bg/Uploads/Trustees/trustees_04572_ViolinaMarinova.pdf
+Connecting to www.unwe.bg (www.unwe.bg)|194.141.32.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50617 (49K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......... 100% 4.17M=0.1s
+
+2020-03-02 01:30:53 (4.17 Mb/s) - ‘/dev/null’ saved [50617/50617]
+

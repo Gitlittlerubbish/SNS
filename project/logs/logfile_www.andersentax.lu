@@ -1,0 +1,24 @@
+--2020-03-02 06:29:11--  http://www.andersentax.lu/assets/uploads/Factsheet_SPF.pdf
+Resolving www.andersentax.lu (www.andersentax.lu)... 77.244.98.160
+Connecting to www.andersentax.lu (www.andersentax.lu)|77.244.98.160|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.andersentax.lu/assets/uploads/Factsheet_SPF.pdf [following]
+--2020-03-02 06:29:12--  https://www.andersentax.lu/assets/uploads/Factsheet_SPF.pdf
+Connecting to www.andersentax.lu (www.andersentax.lu)|77.244.98.160|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 462012 (451K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 7.72M 0s
+    50K .......... .......... .......... .......... .......... 22% 16.2M 0s
+   100K .......... .......... .......... .......... .......... 33%  217M 0s
+   150K .......... .......... .......... .......... .......... 44% 16.4M 0s
+   200K .......... .......... .......... .......... .......... 55%  135M 0s
+   250K .......... .......... .......... .......... .......... 66%  310M 0s
+   300K .......... .......... .......... .......... .......... 77% 18.1M 0s
+   350K .......... .......... .......... .......... .......... 88%  303M 0s
+   400K .......... .......... .......... .......... .......... 99%  135M 0s
+   450K .                                                     100%  194K=0.1s
+
+2020-03-02 06:29:12 (27.1 Mb/s) - ‘/dev/null’ saved [462012/462012]
+

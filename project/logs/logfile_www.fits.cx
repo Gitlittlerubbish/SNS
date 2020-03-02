@@ -1,0 +1,16 @@
+--2020-03-02 02:21:53--  http://www.fits.cx/doc/shoukokin202002_1.pdf
+Resolving www.fits.cx (www.fits.cx)... 150.60.190.67
+Connecting to www.fits.cx (www.fits.cx)|150.60.190.67|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.fits.cx/doc/shoukokin202002_1.pdf [following]
+--2020-03-02 02:21:54--  https://www.fits.cx/doc/shoukokin202002_1.pdf
+Connecting to www.fits.cx (www.fits.cx)|150.60.190.67|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98407 (96K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52%  667K 1s
+    50K .......... .......... .......... .......... ......    100%  830M=0.6s
+
+2020-03-02 02:21:56 (1.28 Mb/s) - ‘/dev/null’ saved [98407/98407]
+

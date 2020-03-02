@@ -1,0 +1,19 @@
+--2020-03-02 00:33:08--  http://www.esop.bm/documents/InstitutIntlFinishinSchoolinfo2015.pdf
+Resolving www.esop.bm (www.esop.bm)... 194.8.254.229
+Connecting to www.esop.bm (www.esop.bm)|194.8.254.229|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.esop.bm/documents/InstitutIntlFinishinSchoolinfo2015.pdf [following]
+--2020-03-02 00:33:09--  https://www.esop.bm/documents/InstitutIntlFinishinSchoolinfo2015.pdf
+Connecting to www.esop.bm (www.esop.bm)|194.8.254.229|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 214629 (210K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 19.9M 0s
+    50K .......... .......... .......... .......... .......... 47% 20.0M 0s
+   100K .......... .......... .......... .......... .......... 71% 24.8M 0s
+   150K .......... .......... .......... .......... .......... 95% 21.0M 0s
+   200K .........                                             100%  756M=0.08s
+
+2020-03-02 00:33:09 (22.3 Mb/s) - ‘/dev/null’ saved [214629/214629]
+

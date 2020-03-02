@@ -1,0 +1,25 @@
+--2020-03-02 07:08:27--  http://apps.mara.gov.my/ebakiv2/FAQebaki.pdf
+Resolving apps.mara.gov.my (apps.mara.gov.my)... 110.159.246.10
+Connecting to apps.mara.gov.my (apps.mara.gov.my)|110.159.246.10|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://apps.mara.gov.my/FAQebaki.pdf [following]
+--2020-03-02 07:08:28--  https://apps.mara.gov.my/FAQebaki.pdf
+Connecting to apps.mara.gov.my (apps.mara.gov.my)|110.159.246.10|:443... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://apps.mara.gov.my/ebakiv2/FAQebaki.pdf [following]
+--2020-03-02 07:08:29--  https://apps.mara.gov.my/ebakiv2/FAQebaki.pdf
+Reusing existing connection to apps.mara.gov.my:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 324962 (317K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15%  803K 3s
+    50K .......... .......... .......... .......... .......... 31% 97.6M 1s
+   100K .......... .......... .......... .......... .......... 47% 1.43M 1s
+   150K .......... .......... .......... .......... .......... 63%  413M 0s
+   200K .......... .......... .......... .......... .......... 78% 1.79M 0s
+   250K .......... .......... .......... .......... .......... 94% 60.2M 0s
+   300K .......... .......                                    100%  587M=1.0s
+
+2020-03-02 07:08:30 (2.50 Mb/s) - ‘/dev/null’ saved [324962/324962]
+

@@ -1,0 +1,17 @@
+--2020-03-01 22:43:08--  http://abbyy.ai/media/5420/fr_mac_pro_compare_list.pdf
+Resolving abbyy.ai (abbyy.ai)... 62.213.108.142
+Connecting to abbyy.ai (abbyy.ai)|62.213.108.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.abbyy.com/media/5420/fr_mac_pro_compare_list.pdf [following]
+--2020-03-01 22:43:08--  https://www.abbyy.com/media/5420/fr_mac_pro_compare_list.pdf
+Resolving www.abbyy.com (www.abbyy.com)... 62.213.108.142
+Connecting to www.abbyy.com (www.abbyy.com)|62.213.108.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51212 (50K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 99% 3.47M 0s
+    50K                                                       100% 1.92K=0.1s
+
+2020-03-01 22:43:09 (3.48 Mb/s) - ‘/dev/null’ saved [51212/51212]
+

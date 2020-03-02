@@ -1,0 +1,15 @@
+--2020-03-01 22:41:25--  http://vig.ai/VIGOR.pdf
+Resolving vig.ai (vig.ai)... 3.13.105.139
+Connecting to vig.ai (vig.ai)|3.13.105.139|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://vig.ai/VIGOR.pdf [following]
+--2020-03-01 22:41:25--  https://vig.ai/VIGOR.pdf
+Connecting to vig.ai (vig.ai)|3.13.105.139|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6596 (6.4K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                100% 2.78G=0s
+
+2020-03-01 22:41:26 (2.78 Gb/s) - ‘/dev/null’ saved [6596/6596]
+

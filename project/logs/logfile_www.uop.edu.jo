@@ -1,0 +1,24 @@
+--2020-03-02 05:24:17--  http://www.uop.edu.jo/download/Research/members/lessonsInDM.pdf
+Resolving www.uop.edu.jo (www.uop.edu.jo)... 91.106.97.18
+Connecting to www.uop.edu.jo (www.uop.edu.jo)|91.106.97.18|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.uop.edu.jo/download/Research/members/lessonsInDM.pdf [following]
+--2020-03-02 05:24:18--  https://www.uop.edu.jo/download/Research/members/lessonsInDM.pdf
+Connecting to www.uop.edu.jo (www.uop.edu.jo)|91.106.97.18|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 476373 (465K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 2.68M 1s
+    50K .......... .......... .......... .......... .......... 21%  153M 1s
+   100K .......... .......... .......... .......... .......... 32% 5.33M 0s
+   150K .......... .......... .......... .......... .......... 42% 5.21M 0s
+   200K .......... .......... .......... .......... .......... 53% 5.37M 0s
+   250K .......... .......... .......... .......... .......... 64% 93.6M 0s
+   300K .......... .......... .......... .......... .......... 75% 5.46M 0s
+   350K .......... .......... .......... .......... .......... 85% 5.28M 0s
+   400K .......... .......... .......... .......... .......... 96% 5.28M 0s
+   450K .......... .....                                      100%  652M=0.6s
+
+2020-03-02 05:24:19 (6.13 Mb/s) - ‘/dev/null’ saved [476373/476373]
+

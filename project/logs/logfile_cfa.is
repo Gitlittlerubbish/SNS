@@ -1,0 +1,22 @@
+--2020-03-02 04:38:51--  http://cfa.is/2pfpy1o
+Resolving cfa.is (cfa.is)... 67.199.248.12
+Connecting to cfa.is (cfa.is)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cfasociety.org/india/Newsletters/Howard Marks_The Truth about Investing.pdf [following]
+--2020-03-02 04:38:52--  https://www.cfasociety.org/india/Newsletters/Howard%20Marks_The%20Truth%20about%20Investing.pdf
+Resolving www.cfasociety.org (www.cfasociety.org)... 23.102.155.76
+Connecting to www.cfasociety.org (www.cfasociety.org)|23.102.155.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 319501 (312K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 3.72M 1s
+    50K .......... .......... .......... .......... .......... 32% 1.92M 1s
+   100K .......... .......... .......... .......... .......... 48% 92.1M 0s
+   150K .......... .......... .......... .......... .......... 64% 3.92M 0s
+   200K .......... .......... .......... .......... .......... 80%  192M 0s
+   250K .......... .......... .......... .......... .......... 96%  153M 0s
+   300K .......... ..                                         100%  184M=0.4s
+
+2020-03-02 04:38:53 (5.84 Mb/s) - ‘/dev/null’ saved [319501/319501]
+

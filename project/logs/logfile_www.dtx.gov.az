@@ -1,0 +1,15 @@
+--2020-03-01 23:48:52--  http://www.dtx.gov.az/pdf/qanunlar/6.pdf
+Resolving www.dtx.gov.az (www.dtx.gov.az)... 31.170.236.85
+Connecting to www.dtx.gov.az (www.dtx.gov.az)|31.170.236.85|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230592 (225K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 2.02M 1s
+    50K .......... .......... .......... .......... .......... 44% 3.77M 0s
+   100K .......... .......... .......... .......... .......... 66% 4.12M 0s
+   150K .......... .......... .......... .......... .......... 88% 27.7M 0s
+   200K .......... .......... .....                           100% 2.70M=0.5s
+
+2020-03-01 23:48:53 (3.67 Mb/s) - ‘/dev/null’ saved [230592/230592]
+

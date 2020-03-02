@@ -1,0 +1,19 @@
+--2020-03-02 03:37:49--  http://www.klaksvik.fo/download/file/d686a5e7e7ef2d738aa08744b52edb565aae966d.pdf
+Resolving www.klaksvik.fo (www.klaksvik.fo)... 188.166.61.248
+Connecting to www.klaksvik.fo (www.klaksvik.fo)|188.166.61.248|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.klaksvik.fo/download/file/d686a5e7e7ef2d738aa08744b52edb565aae966d.pdf [following]
+--2020-03-02 03:37:49--  https://www.klaksvik.fo/download/file/d686a5e7e7ef2d738aa08744b52edb565aae966d.pdf
+Connecting to www.klaksvik.fo (www.klaksvik.fo)|188.166.61.248|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12.8M
+    50K .......... .......... .......... .......... .......... 12.3M
+   100K .......... .......... .......... .......... ..........  204M
+   150K .......... .......... .......... .......... ..........  478M
+   200K .......... .......                                     4.70M=0.1s
+
+2020-03-02 03:37:50 (18.1 Mb/s) - ‘/dev/null’ saved [222353]
+

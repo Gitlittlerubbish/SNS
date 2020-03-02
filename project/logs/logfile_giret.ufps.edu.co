@@ -1,0 +1,11 @@
+--2020-03-02 02:31:08--  http://giret.ufps.edu.co/cisco/docs/4/normaeiatia568.pdf
+Resolving giret.ufps.edu.co (giret.ufps.edu.co)... 200.93.148.18
+Connecting to giret.ufps.edu.co (giret.ufps.edu.co)|200.93.148.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 37245 (36K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ......               100%  346K=0.9s
+
+2020-03-02 02:31:09 (346 Kb/s) - ‘/dev/null’ saved [37245/37245]
+

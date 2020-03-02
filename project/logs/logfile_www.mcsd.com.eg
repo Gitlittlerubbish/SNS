@@ -1,0 +1,11 @@
+--2020-03-02 03:18:27--  http://www.mcsd.com.eg/mcdr/Arabic/documents/Depository_Forms.pdf
+Resolving www.mcsd.com.eg (www.mcsd.com.eg)... 41.128.174.139, 217.139.241.10
+Connecting to www.mcsd.com.eg (www.mcsd.com.eg)|41.128.174.139|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 187 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 74.8M=0s
+
+2020-03-02 03:18:27 (74.8 Mb/s) - ‘/dev/null’ saved [187/187]
+

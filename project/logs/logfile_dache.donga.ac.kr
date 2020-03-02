@@ -1,0 +1,15 @@
+--2020-03-02 05:54:13--  http://dache.donga.ac.kr/bbs/dache/487/12066/download.do
+Resolving dache.donga.ac.kr (dache.donga.ac.kr)... 168.115.32.64
+Connecting to dache.donga.ac.kr (dache.donga.ac.kr)|168.115.32.64|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216322 (211K) [application/x-msdownload]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  151K 9s
+    50K .......... .......... .......... .......... .......... 47%  322K 4s
+   100K .......... .......... .......... .......... .......... 71%  399K 2s
+   150K .......... .......... .......... .......... .......... 94%  445K 0s
+   200K .......... .                                          100%  157M=5.9s
+
+2020-03-02 05:54:20 (291 Kb/s) - ‘/dev/null’ saved [216322/216322]
+

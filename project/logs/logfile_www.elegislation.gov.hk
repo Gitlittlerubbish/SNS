@@ -1,0 +1,15 @@
+--2020-03-02 04:29:03--  http://www.elegislation.gov.hk/verifiedlist
+Resolving www.elegislation.gov.hk (www.elegislation.gov.hk)... 202.128.253.24
+Connecting to www.elegislation.gov.hk (www.elegislation.gov.hk)|202.128.253.24|:80... connected.
+HTTP request sent, awaiting response... 302 
+Location: http://www.elegislation.gov.hk/checkconfig/checkClientConfig.jsp?applicationId=RA001 [following]
+--2020-03-02 04:29:03--  http://www.elegislation.gov.hk/checkconfig/checkClientConfig.jsp?applicationId=RA001
+Reusing existing connection to www.elegislation.gov.hk:80.
+HTTP request sent, awaiting response... 200 
+Length: 7413 (7.2K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                               100%  303K=0.2s
+
+2020-03-02 04:29:04 (303 Kb/s) - ‘/dev/null’ saved [7413/7413]
+

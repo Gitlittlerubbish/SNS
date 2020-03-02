@@ -1,0 +1,14 @@
+--2020-03-02 05:01:25--  http://www.cwps.ie/_files/2015121591210_c8a5b43d.pdf
+Resolving www.cwps.ie (www.cwps.ie)... 89.185.147.228
+Connecting to www.cwps.ie (www.cwps.ie)|89.185.147.228|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161928 (158K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 7.54M 0s
+    50K .......... .......... .......... .......... .......... 63% 22.6M 0s
+   100K .......... .......... .......... .......... .......... 94% 66.8M 0s
+   150K ........                                              100% 1.75G=0.08s
+
+2020-03-02 05:01:26 (16.5 Mb/s) - ‘/dev/null’ saved [161928/161928]
+

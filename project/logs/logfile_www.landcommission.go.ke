@@ -1,0 +1,15 @@
+--2020-03-02 05:32:31--  http://www.landcommission.go.ke/media/erp/upload/communitylandact27of2016.pdf
+Resolving www.landcommission.go.ke (www.landcommission.go.ke)... 197.248.5.22
+Connecting to www.landcommission.go.ke (www.landcommission.go.ke)|197.248.5.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 232358 (227K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  747K 2s
+    50K .......... .......... .......... .......... .......... 44% 1.13M 1s
+   100K .......... .......... .......... .......... .......... 66% 48.3M 0s
+   150K .......... .......... .......... .......... .......... 88% 2.28M 0s
+   200K .......... .......... ......                          100% 44.8M=1.1s
+
+2020-03-02 05:32:34 (1.68 Mb/s) - ‘/dev/null’ saved [232358/232358]
+

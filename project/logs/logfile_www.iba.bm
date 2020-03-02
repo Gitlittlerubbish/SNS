@@ -1,0 +1,12 @@
+--2020-03-02 00:32:04--  http://www.iba.bm/downloads/Response_Document_to_2012_Draft_Act_08_07_2013_Rev_1_18_04_2016.pdf
+Resolving www.iba.bm (www.iba.bm)... 192.185.168.30
+Connecting to www.iba.bm (www.iba.bm)|192.185.168.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99938 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 1.67M 0s
+    50K .......... .......... .......... .......... .......   100%  114M=0.2s
+
+2020-03-02 00:32:05 (3.21 Mb/s) - ‘/dev/null’ saved [99938/99938]
+

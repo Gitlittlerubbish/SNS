@@ -1,0 +1,14 @@
+--2020-03-02 04:24:04--  http://www.laici.va/content/dam/laici/documenti/3congresso/ghirlanda.pdf
+Resolving www.laici.va (www.laici.va)... 185.152.70.30
+Connecting to www.laici.va (www.laici.va)|185.152.70.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 171166 (167K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 5.40M 0s
+    50K .......... .......... .......... .......... .......... 59% 12.4M 0s
+   100K .......... .......... .......... .......... .......... 89% 47.7M 0s
+   150K .......... .......                                    100%  132M=0.1s
+
+2020-03-02 04:24:04 (11.5 Mb/s) - ‘/dev/null’ saved [171166/171166]
+

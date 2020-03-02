@@ -1,0 +1,25 @@
+--2020-03-02 05:02:42--  http://vio.im/fire7
+Resolving vio.im (vio.im)... 69.163.164.220
+Connecting to vio.im (vio.im)|69.163.164.220|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.spc.noaa.gov/misc/Critical_Criteria_for_web.pdf [following]
+--2020-03-02 05:02:44--  http://www.spc.noaa.gov/misc/Critical_Criteria_for_web.pdf
+Resolving www.spc.noaa.gov (www.spc.noaa.gov)... 143.204.202.108, 143.204.202.29, 143.204.202.99, ...
+Connecting to www.spc.noaa.gov (www.spc.noaa.gov)|143.204.202.108|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.spc.noaa.gov/misc/Critical_Criteria_for_web.pdf [following]
+--2020-03-02 05:02:44--  https://www.spc.noaa.gov/misc/Critical_Criteria_for_web.pdf
+Connecting to www.spc.noaa.gov (www.spc.noaa.gov)|143.204.202.108|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292502 (286K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.58M 1s
+    50K .......... .......... .......... .......... .......... 35% 3.06M 1s
+   100K .......... .......... .......... .......... .......... 52% 90.0M 0s
+   150K .......... .......... .......... .......... .......... 70% 38.9M 0s
+   200K .......... .......... .......... .......... .......... 87% 2.95M 0s
+   250K .......... .......... .......... .....                100%  451M=0.5s
+
+2020-03-02 05:02:45 (4.26 Mb/s) - ‘/dev/null’ saved [292502/292502]
+

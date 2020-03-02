@@ -1,0 +1,13 @@
+--2020-03-02 02:51:30--  http://www.ujlog.ci/ImagesTextes/CODE_D_ETHIQUE_CAMES.pdf
+Resolving www.ujlog.ci (www.ujlog.ci)... 197.159.193.73
+Connecting to www.ujlog.ci (www.ujlog.ci)|197.159.193.73|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138321 (135K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.70M 0s
+    50K .......... .......... .......... .......... .......... 74% 3.42M 0s
+   100K .......... .......... .......... .....                100%  173M=0.4s
+
+2020-03-02 02:51:31 (3.05 Mb/s) - ‘/dev/null’ saved [138321/138321]
+

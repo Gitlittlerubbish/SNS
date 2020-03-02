@@ -1,0 +1,24 @@
+--2020-03-02 04:45:59--  http://www.dicgc.org.in/pdf/CorePrinciplesOfIADI_Nov2014.pdf
+Resolving www.dicgc.org.in (www.dicgc.org.in)... 121.241.247.168
+Connecting to www.dicgc.org.in (www.dicgc.org.in)|121.241.247.168|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.dicgc.org.in/pdf/CorePrinciplesOfIADI_Nov2014.pdf [following]
+--2020-03-02 04:45:59--  https://www.dicgc.org.in/pdf/CorePrinciplesOfIADI_Nov2014.pdf
+Connecting to www.dicgc.org.in (www.dicgc.org.in)|121.241.247.168|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 508340 (496K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.45M 3s
+    50K .......... .......... .......... .......... .......... 20%  111M 1s
+   100K .......... .......... .......... .......... .......... 30% 2.88M 1s
+   150K .......... .......... .......... .......... .......... 40%  143M 1s
+   200K .......... .......... .......... .......... .......... 50% 3.03M 1s
+   250K .......... .......... .......... .......... .......... 60% 84.7M 0s
+   300K .......... .......... .......... .......... .......... 70%  109M 0s
+   350K .......... .......... .......... .......... .......... 80% 3.07M 0s
+   400K .......... .......... .......... .......... .......... 90% 74.7M 0s
+   450K .......... .......... .......... .......... ......    100%  771M=0.7s
+
+2020-03-02 04:46:00 (5.70 Mb/s) - ‘/dev/null’ saved [508340/508340]
+

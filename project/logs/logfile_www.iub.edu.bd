@@ -1,0 +1,15 @@
+--2020-03-02 00:04:05--  http://www.iub.edu.bd/ftp/FinancialAidForm.pdf
+Resolving www.iub.edu.bd (www.iub.edu.bd)... 103.81.69.22
+Connecting to www.iub.edu.bd (www.iub.edu.bd)|103.81.69.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227661 (222K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  250K 6s
+    50K .......... .......... .......... .......... .......... 44% 1.32M 2s
+   100K .......... .......... .......... .......... .......... 67% 1.35M 1s
+   150K .......... .......... .......... .......... .......... 89%  393M 0s
+   200K .......... .......... ..                              100%  133M=2.3s
+
+2020-03-02 00:04:08 (807 Kb/s) - ‘/dev/null’ saved [227661/227661]
+

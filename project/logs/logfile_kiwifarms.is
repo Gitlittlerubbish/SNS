@@ -1,0 +1,19 @@
+--2020-03-02 04:40:03--  http://kiwifarms.is/attachments/130715_01-pdf.921275/
+Resolving kiwifarms.is (kiwifarms.is)... 104.18.49.237, 104.18.48.237
+Connecting to kiwifarms.is (kiwifarms.is)|104.18.49.237|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kiwifarms.is/attachments/130715_01-pdf.921275/ [following]
+--2020-03-02 04:40:03--  https://kiwifarms.is/attachments/130715_01-pdf.921275/
+Connecting to kiwifarms.is (kiwifarms.is)|104.18.49.237|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254695 (249K) [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.66M 1s
+    50K .......... .......... .......... .......... .......... 40% 2.83M 1s
+   100K .......... .......... .......... .......... .......... 60%  117M 0s
+   150K .......... .......... .......... .......... .......... 80%  174M 0s
+   200K .......... .......... .......... .......... ........  100% 3.05M=0.5s
+
+2020-03-02 04:40:04 (3.86 Mb/s) - ‘/dev/null’ saved [254695/254695]
+

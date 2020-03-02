@@ -1,0 +1,29 @@
+--2020-03-02 03:46:36--  http://www.audolys.fr/pdf/Votre_alimentation_sous_AVK.pdf
+Resolving www.audolys.fr (www.audolys.fr)... 109.234.164.43
+Connecting to www.audolys.fr (www.audolys.fr)|109.234.164.43|:80... connected.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: http://www.audolys.fr/pdf/Votre_alimentation_sous_AVK.pdf [following]
+--2020-03-02 03:46:36--  http://www.audolys.fr/pdf/Votre_alimentation_sous_AVK.pdf
+Reusing existing connection to www.audolys.fr:80.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.audolys.fr/pdf/Votre_alimentation_sous_AVK.pdf [following]
+--2020-03-02 03:46:36--  https://www.audolys.fr/pdf/Votre_alimentation_sous_AVK.pdf
+Connecting to www.audolys.fr (www.audolys.fr)|109.234.164.43|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 549159 (536K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 16.7M 0s
+    50K .......... .......... .......... .......... .......... 18% 17.1M 0s
+   100K .......... .......... .......... .......... .......... 27%  143M 0s
+   150K .......... .......... .......... .......... .......... 37% 24.0M 0s
+   200K .......... .......... .......... .......... .......... 46% 92.9M 0s
+   250K .......... .......... .......... .......... .......... 55%  102M 0s
+   300K .......... .......... .......... .......... .......... 65% 25.2M 0s
+   350K .......... .......... .......... .......... .......... 74%  196M 0s
+   400K .......... .......... .......... .......... .......... 83%  103M 0s
+   450K .......... .......... .......... .......... .......... 93%  145M 0s
+   500K .......... .......... .......... ......               100% 22.0M=0.1s
+
+2020-03-02 03:46:36 (38.1 Mb/s) - ‘/dev/null’ saved [549159/549159]
+

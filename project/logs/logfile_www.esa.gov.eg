@@ -1,0 +1,12 @@
+--2020-03-02 03:20:53--  http://www.esa.gov.eg/files/laws/10.pdf
+Resolving www.esa.gov.eg (www.esa.gov.eg)... 41.196.0.170
+Connecting to www.esa.gov.eg (www.esa.gov.eg)|41.196.0.170|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76238 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 67% 1.64M 0s
+    50K .......... .......... ....                            100% 75.5M=0.3s
+
+2020-03-02 03:20:54 (2.41 Mb/s) - ‘/dev/null’ saved [76238/76238]
+

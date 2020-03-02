@@ -1,0 +1,28 @@
+--2020-03-01 23:41:21--  http://www.aekwien.at/kinder
+Resolving www.aekwien.at (www.aekwien.at)... 95.129.207.10
+Connecting to www.aekwien.at (www.aekwien.at)|95.129.207.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aekwien.at/kinder [following]
+--2020-03-01 23:41:21--  https://www.aekwien.at/kinder
+Connecting to www.aekwien.at (www.aekwien.at)|95.129.207.10|:443... connected.
+HTTP request sent, awaiting response... 302 
+Location: https://www.aekwien.at/documents/263869/345590/WE_Feiertagsversorgung_Kinder_4.+Quartal+2019.pdf/856d6d29-1047-b038-d9d0-2b020e97e265 [following]
+--2020-03-01 23:41:21--  https://www.aekwien.at/documents/263869/345590/WE_Feiertagsversorgung_Kinder_4.+Quartal+2019.pdf/856d6d29-1047-b038-d9d0-2b020e97e265
+Reusing existing connection to www.aekwien.at:443.
+HTTP request sent, awaiting response... 200 
+Length: 496023 (484K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 11.2M 0s
+    50K .......... .......... .......... .......... .......... 20% 11.4M 0s
+   100K .......... .......... .......... .......... .......... 30%  100M 0s
+   150K .......... .......... .......... .......... .......... 41% 59.7M 0s
+   200K .......... .......... .......... .......... .......... 51% 13.0M 0s
+   250K .......... .......... .......... .......... .......... 61%  132M 0s
+   300K .......... .......... .......... .......... .......... 72% 11.1M 0s
+   350K .......... .......... .......... .......... .......... 82% 10.5M 0s
+   400K .......... .......... .......... .......... .......... 92%  207M 0s
+   450K .......... .......... .......... ....                 100% 1.19G=0.2s
+
+2020-03-01 23:41:22 (20.2 Mb/s) - ‘/dev/null’ saved [496023/496023]
+

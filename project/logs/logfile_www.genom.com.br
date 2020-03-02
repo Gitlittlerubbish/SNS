@@ -1,0 +1,19 @@
+--2020-03-02 01:14:10--  http://www.genom.com.br/bulas/Baclon_Bula_Paciente.pdf
+Resolving www.genom.com.br (www.genom.com.br)... 179.188.52.129
+Connecting to www.genom.com.br (www.genom.com.br)|179.188.52.129|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.genom.com.br/bulas/Baclon_Bula_Paciente.pdf [following]
+--2020-03-02 01:14:11--  https://www.genom.com.br/bulas/Baclon_Bula_Paciente.pdf
+Connecting to www.genom.com.br (www.genom.com.br)|179.188.52.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 223051 (218K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.02M 1s
+    50K .......... .......... .......... .......... .......... 45% 2.03M 1s
+   100K .......... .......... .......... .......... .......... 68%  138M 0s
+   150K .......... .......... .......... .......... .......... 91% 2.08M 0s
+   200K .......... .......                                    100%  702M=0.8s
+
+2020-03-02 01:14:12 (2.22 Mb/s) - ‘/dev/null’ saved [223051/223051]
+

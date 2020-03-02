@@ -1,0 +1,22 @@
+--2020-03-02 05:02:19--  http://lsi.im/poliris
+Resolving lsi.im (lsi.im)... 54.36.121.216
+Connecting to lsi.im (lsi.im)|54.36.121.216|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://gedeon.im/docs/TransfertsSeloger408v6.pdf [following]
+--2020-03-02 05:02:19--  https://gedeon.im/docs/TransfertsSeloger408v6.pdf
+Resolving gedeon.im (gedeon.im)... 54.36.121.216
+Connecting to gedeon.im (gedeon.im)|54.36.121.216|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 320021 (313K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 14.3M 0s
+    50K .......... .......... .......... .......... .......... 31% 37.5M 0s
+   100K .......... .......... .......... .......... .......... 47% 70.7M 0s
+   150K .......... .......... .......... .......... .......... 63% 48.2M 0s
+   200K .......... .......... .......... .......... .......... 79% 85.7M 0s
+   250K .......... .......... .......... .......... .......... 95% 85.8M 0s
+   300K .......... ..                                         100%  573M=0.06s
+
+2020-03-02 05:02:19 (40.2 Mb/s) - ‘/dev/null’ saved [320021/320021]
+

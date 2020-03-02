@@ -1,0 +1,21 @@
+--2020-03-02 05:01:33--  http://www.ictu.ie/download/pdf/skills_agenda2016381enf11.pdf
+Resolving www.ictu.ie (www.ictu.ie)... 83.96.156.173
+Connecting to www.ictu.ie (www.ictu.ie)|83.96.156.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ictu.ie/download/pdf/skills_agenda2016381enf11.pdf [following]
+--2020-03-02 05:01:33--  https://www.ictu.ie/download/pdf/skills_agenda2016381enf11.pdf
+Connecting to www.ictu.ie (www.ictu.ie)|83.96.156.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 323327 (316K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 19.0M 0s
+    50K .......... .......... .......... .......... .......... 31% 37.4M 0s
+   100K .......... .......... .......... .......... .......... 47%  228M 0s
+   150K .......... .......... .......... .......... .......... 63%  213M 0s
+   200K .......... .......... .......... .......... .......... 79% 36.0M 0s
+   250K .......... .......... .......... .......... .......... 95% 97.1M 0s
+   300K .......... .....                                      100%  970M=0.05s
+
+2020-03-02 05:01:33 (49.8 Mb/s) - ‘/dev/null’ saved [323327/323327]
+

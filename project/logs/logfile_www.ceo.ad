@@ -1,0 +1,20 @@
+--2020-03-01 22:31:48--  http://www.ceo.ad/ca/reglament/
+Resolving www.ceo.ad (www.ceo.ad)... 34.90.145.237
+Connecting to www.ceo.ad (www.ceo.ad)|34.90.145.237|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ceo.ad/ca/reglament/ [following]
+--2020-03-01 22:31:48--  https://www.ceo.ad/ca/reglament/
+Connecting to www.ceo.ad (www.ceo.ad)|34.90.145.237|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /continguts/multimedia/media/REGLAMENT_2015.pdf [following]
+--2020-03-01 22:31:48--  https://www.ceo.ad/continguts/multimedia/media/REGLAMENT_2015.pdf
+Reusing existing connection to www.ceo.ad:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 55849 (55K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 91% 28.0M 0s
+    50K ....                                                  100%  744K=0.01s
+
+2020-03-01 22:31:49 (30.5 Mb/s) - ‘/dev/null’ saved [55849/55849]
+

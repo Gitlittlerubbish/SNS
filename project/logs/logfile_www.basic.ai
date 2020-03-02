@@ -1,0 +1,20 @@
+--2020-03-01 22:41:58--  http://www.basic.ai/pdf/rpa_learn.pdf
+Resolving www.basic.ai (www.basic.ai)... 18.144.31.155
+Connecting to www.basic.ai (www.basic.ai)|18.144.31.155|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.basic.ai/pdf/rpa_learn.pdf [following]
+--2020-03-01 22:41:59--  https://www.basic.ai/pdf/rpa_learn.pdf
+Connecting to www.basic.ai (www.basic.ai)|18.144.31.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 269835 (264K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 2.61M 1s
+    50K .......... .......... .......... .......... .......... 37% 2.66M 1s
+   100K .......... .......... .......... .......... .......... 56% 81.6M 0s
+   150K .......... .......... .......... .......... .......... 75% 2.73M 0s
+   200K .......... .......... .......... .......... .......... 94% 72.3M 0s
+   250K .......... ...                                        100% 1.01G=0.5s
+
+2020-03-01 22:42:00 (4.58 Mb/s) - ‘/dev/null’ saved [269835/269835]
+

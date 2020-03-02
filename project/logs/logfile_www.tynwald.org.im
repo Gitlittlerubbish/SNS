@@ -1,0 +1,13 @@
+--2020-03-02 05:03:21--  http://www.tynwald.org.im/memoff/former/FormerBiogs/CainCA.pdf
+Resolving www.tynwald.org.im (www.tynwald.org.im)... 109.70.47.61
+Connecting to www.tynwald.org.im (www.tynwald.org.im)|109.70.47.61|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 127218 (124K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 6.46M 0s
+    50K .......... .......... .......... .......... .......... 80% 20.7M 0s
+   100K .......... .......... ....                            100% 48.3M=0.09s
+
+2020-03-02 05:03:21 (11.7 Mb/s) - ‘/dev/null’ saved [127218/127218]
+

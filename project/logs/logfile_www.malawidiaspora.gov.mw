@@ -1,0 +1,20 @@
+--2020-03-02 06:57:57--  http://www.malawidiaspora.gov.mw/images/Malawi_Constitution_1994_as-amended_en.pdf
+Resolving www.malawidiaspora.gov.mw (www.malawidiaspora.gov.mw)... 41.77.13.210
+Connecting to www.malawidiaspora.gov.mw (www.malawidiaspora.gov.mw)|41.77.13.210|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.malawidiaspora.gov.mw/images/Malawi_Constitution_1994_as-amended_en.pdf [following]
+--2020-03-02 06:57:58--  https://www.malawidiaspora.gov.mw/images/Malawi_Constitution_1994_as-amended_en.pdf
+Connecting to www.malawidiaspora.gov.mw (www.malawidiaspora.gov.mw)|41.77.13.210|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 290628 (284K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17%  980K 2s
+    50K .......... .......... .......... .......... .......... 35% 2.22M 1s
+   100K .......... .......... .......... .......... .......... 52% 1.87M 1s
+   150K .......... .......... .......... .......... .......... 70%  688K 1s
+   200K .......... .......... .......... .......... .......... 88% 3.54M 0s
+   250K .......... .......... .......... ...                  100% 23.3M=1.5s
+
+2020-03-02 06:58:00 (1.50 Mb/s) - ‘/dev/null’ saved [290628/290628]
+

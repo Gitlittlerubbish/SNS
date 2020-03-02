@@ -1,0 +1,202 @@
+--2020-03-02 04:16:50--  http://capatholo.gy/2hBMIex
+Resolving capatholo.gy (capatholo.gy)... 67.199.248.12, 67.199.248.13
+Connecting to capatholo.gy (capatholo.gy)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.archivesofpathology.org/doi/pdf/10.5858/arpa.2016-0401-OA [following]
+--2020-03-02 04:16:50--  http://www.archivesofpathology.org/doi/pdf/10.5858/arpa.2016-0401-OA
+Resolving www.archivesofpathology.org (www.archivesofpathology.org)... 65.156.1.66
+Connecting to www.archivesofpathology.org (www.archivesofpathology.org)|65.156.1.66|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2016-0401-OA&rc=0 [following]
+--2020-03-02 04:16:51--  https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2016-0401-OA&rc=0
+Resolving pinnacle-secure.allenpress.com (pinnacle-secure.allenpress.com)... 65.156.1.66
+Connecting to pinnacle-secure.allenpress.com (pinnacle-secure.allenpress.com)|65.156.1.66|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2016-0401-OA&rc=0&cookieSet=1 [following]
+--2020-03-02 04:16:52--  https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2016-0401-OA&rc=0&cookieSet=1
+Reusing existing connection to pinnacle-secure.allenpress.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2016-0401-OA&rc=0& [following]
+--2020-03-02 04:16:52--  https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2016-0401-OA&rc=0&
+Reusing existing connection to pinnacle-secure.allenpress.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.archivesofpathology.org/action/consumeSharedSessionAction?I2KBRCK=1&JSESSIONID=b7907d48-59c1-46f6-b491-315ad7000d2d&MAID=jf5l4W%2FmbThtHd6ScOA3jQ%3D%3D&SERVER=WZ6myaEXBLE%2BgjewL%2Bbv3g%3D%3D&ORIGIN=39525388&RD=RD [following]
+--2020-03-02 04:16:52--  https://www.archivesofpathology.org/action/consumeSharedSessionAction?I2KBRCK=1&JSESSIONID=b7907d48-59c1-46f6-b491-315ad7000d2d&MAID=jf5l4W%2FmbThtHd6ScOA3jQ%3D%3D&SERVER=WZ6myaEXBLE%2BgjewL%2Bbv3g%3D%3D&ORIGIN=39525388&RD=RD
+Connecting to www.archivesofpathology.org (www.archivesofpathology.org)|65.156.1.66|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.archivesofpathology.org/action/consumeSharedSessionAction?I2KBRCK=1&JSESSIONID=b7907d48-59c1-46f6-b491-315ad7000d2d&MAID=jf5l4W%2FmbThtHd6ScOA3jQ%3D%3D&SERVER=WZ6myaEXBLE%2BgjewL%2Bbv3g%3D%3D&ORIGIN=39525388&RD=RD&rc=0 [following]
+--2020-03-02 04:16:53--  https://www.archivesofpathology.org/action/consumeSharedSessionAction?I2KBRCK=1&JSESSIONID=b7907d48-59c1-46f6-b491-315ad7000d2d&MAID=jf5l4W%2FmbThtHd6ScOA3jQ%3D%3D&SERVER=WZ6myaEXBLE%2BgjewL%2Bbv3g%3D%3D&ORIGIN=39525388&RD=RD&rc=0
+Connecting to www.archivesofpathology.org (www.archivesofpathology.org)|65.156.1.66|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.archivesofpathology.org/doi/pdf/10.5858/arpa.2016-0401-OA [following]
+--2020-03-02 04:16:53--  https://www.archivesofpathology.org/doi/pdf/10.5858/arpa.2016-0401-OA
+Reusing existing connection to www.archivesofpathology.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.31M
+    50K .......... .......... .......... .......... .......... 2.66M
+   100K .......... .......... .......... .......... .......... 2.61M
+   150K .......... .......... .......... .......... .......... 2.63M
+   200K .......... .......... .......... .......... .......... 34.0M
+   250K .......... .......... .......... .......... .......... 2.84M
+   300K .......... .......... .......... .......... .......... 2.63M
+   350K .......... .......... .......... .......... .......... 2.63M
+   400K .......... .......... .......... .......... .......... 2.68M
+   450K .......... .......... .......... .......... .......... 2.64M
+   500K .......... .......... .......... .......... .......... 34.1M
+   550K .......... .......... .......... .......... .......... 2.73M
+   600K .......... .......... .......... .......... .......... 2.64M
+   650K .......... .......... .......... .......... .......... 47.8M
+   700K .......... .......... .......... .......... .......... 2.64M
+   750K .......... .......... .......... .......... .......... 2.71M
+   800K .......... .......... .......... .......... .......... 2.64M
+   850K .......... .......... .......... .......... .......... 2.63M
+   900K .......... .......... .......... .......... ..........  103M
+   950K .......... .......... .......... .......... .......... 2.63M
+  1000K .......... .......... .......... .......... .......... 2.70M
+  1050K .......... .......... .......... .......... .......... 2.65M
+  1100K .......... .......... .......... .......... .......... 2.64M
+  1150K .......... .......... .......... .......... .......... 73.6M
+  1200K .......... .......... .......... .......... .......... 2.69M
+  1250K .......... .......... .......... .......... .......... 2.63M
+  1300K .......... .......... .......... .......... .......... 2.65M
+  1350K .......... .......... .......... .......... .......... 2.73M
+  1400K .......... .......... .......... .......... .......... 40.4M
+  1450K .......... .......... .......... .......... .......... 2.65M
+  1500K .......... .......... .......... .......... .......... 2.62M
+  1550K .......... .......... .......... .......... .......... 2.69M
+  1600K .......... .......... .......... .......... .......... 2.65M
+  1650K .......... .......... .......... .......... .......... 55.1M
+  1700K .......... .......... .......... .......... .......... 2.60M
+  1750K .......... .......... .......... .......... .......... 2.64M
+  1800K .......... .......... .......... .......... .......... 2.70M
+  1850K .......... .........                                   30.4M=4.8s
+
+2020-03-02 04:16:59 (3.16 Mb/s) - ‘/dev/null’ saved [1914110]
+
+--2020-03-02 04:16:59--  http://capatholo.gy/2LMjCaQ
+Resolving capatholo.gy (capatholo.gy)... 67.199.248.12, 67.199.248.13
+Connecting to capatholo.gy (capatholo.gy)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.archivesofpathology.org/doi/pdf/10.5858/arpa.2017-0547-RA [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 04:16:59--  https://www.archivesofpathology.org/doi/pdf/10.5858/arpa.2017-0547-RA
+Resolving www.archivesofpathology.org (www.archivesofpathology.org)... 65.156.1.66
+Connecting to www.archivesofpathology.org (www.archivesofpathology.org)|65.156.1.66|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2017-0547-RA&rc=0 [following]
+--2020-03-02 04:16:59--  https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2017-0547-RA&rc=0
+Resolving pinnacle-secure.allenpress.com (pinnacle-secure.allenpress.com)... 65.156.1.66
+Connecting to pinnacle-secure.allenpress.com (pinnacle-secure.allenpress.com)|65.156.1.66|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2017-0547-RA&rc=0&cookieSet=1 [following]
+--2020-03-02 04:17:00--  https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2017-0547-RA&rc=0&cookieSet=1
+Reusing existing connection to pinnacle-secure.allenpress.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2017-0547-RA&rc=0& [following]
+--2020-03-02 04:17:00--  https://pinnacle-secure.allenpress.com/action/getSharedSiteSession?redirect=https%3A%2F%2Fwww.archivesofpathology.org%2Fdoi%2Fpdf%2F10.5858%2Farpa.2017-0547-RA&rc=0&
+Reusing existing connection to pinnacle-secure.allenpress.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.archivesofpathology.org/action/consumeSharedSessionAction?I2KBRCK=1&JSESSIONID=8af0379e-a116-4788-881f-4225558c1f3b&MAID=t%2Fx%2F2bXFAqdiaXXY5v1L3g%3D%3D&SERVER=WZ6myaEXBLE%2BgjewL%2Bbv3g%3D%3D&ORIGIN=461902977&RD=RD [following]
+--2020-03-02 04:17:00--  https://www.archivesofpathology.org/action/consumeSharedSessionAction?I2KBRCK=1&JSESSIONID=8af0379e-a116-4788-881f-4225558c1f3b&MAID=t%2Fx%2F2bXFAqdiaXXY5v1L3g%3D%3D&SERVER=WZ6myaEXBLE%2BgjewL%2Bbv3g%3D%3D&ORIGIN=461902977&RD=RD
+Connecting to www.archivesofpathology.org (www.archivesofpathology.org)|65.156.1.66|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.archivesofpathology.org/action/consumeSharedSessionAction?I2KBRCK=1&JSESSIONID=8af0379e-a116-4788-881f-4225558c1f3b&MAID=t%2Fx%2F2bXFAqdiaXXY5v1L3g%3D%3D&SERVER=WZ6myaEXBLE%2BgjewL%2Bbv3g%3D%3D&ORIGIN=461902977&RD=RD&rc=0 [following]
+--2020-03-02 04:17:01--  https://www.archivesofpathology.org/action/consumeSharedSessionAction?I2KBRCK=1&JSESSIONID=8af0379e-a116-4788-881f-4225558c1f3b&MAID=t%2Fx%2F2bXFAqdiaXXY5v1L3g%3D%3D&SERVER=WZ6myaEXBLE%2BgjewL%2Bbv3g%3D%3D&ORIGIN=461902977&RD=RD&rc=0
+Connecting to www.archivesofpathology.org (www.archivesofpathology.org)|65.156.1.66|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.archivesofpathology.org/doi/pdf/10.5858/arpa.2017-0547-RA [following]
+--2020-03-02 04:17:02--  https://www.archivesofpathology.org/doi/pdf/10.5858/arpa.2017-0547-RA
+Reusing existing connection to www.archivesofpathology.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.72M
+    50K .......... .......... .......... .......... .......... 2.80M
+   100K .......... .......... .......... .......... .......... 2.86M
+   150K .......... .......... .......... .......... .......... 2.79M
+   200K .......... .......... .......... .......... .......... 82.2M
+   250K .......... .......... .......... .......... .......... 2.83M
+   300K .......... .......... .......... .......... .......... 2.78M
+   350K .......... .......... .......... .......... .......... 2.82M
+   400K .......... .......... .......... .......... .......... 81.7M
+   450K .......... .......... .......... .......... .......... 2.80M
+   500K .......... .......... .......... .......... .......... 2.86M
+   550K .......... .......... .......... .......... .......... 2.82M
+   600K .......... .......... .......... .......... .......... 2.81M
+   650K .......... .......... .......... .......... .......... 2.88M
+   700K .......... .......... .......... .......... .......... 40.7M
+   750K .......... .......... .......... .......... .......... 2.87M
+   800K .......... .......... .......... .......... .......... 2.86M
+   850K .......... .......... .......... .......... .......... 2.80M
+   900K .......... .......... .......... .......... .......... 2.85M
+   950K .......... .......... .......... .......... .......... 51.4M
+  1000K .......... .......... .......... .......... .......... 2.85M
+  1050K .......... .......... .......... .......... .......... 2.82M
+  1100K .......... .......... .......... .......... .......... 2.87M
+  1150K .......... .......... .......... .......... .......... 2.81M
+  1200K .......... .......... .......... .......... .......... 87.4M
+  1250K .......... .......... .......... .......... .......... 2.81M
+  1300K .......... .......... .......... .......... .......... 2.88M
+  1350K .......... .......... .......... .......... .......... 2.81M
+  1400K .......... .......... .......... .......... .......... 33.6M
+  1450K .......... .......... .......... .......... .......... 2.93M
+  1500K .......... .......... .......... .......... .......... 2.86M
+  1550K .......... .......... .......... .......... .......... 2.80M
+  1600K .......... .......... .......... .......... .......... 67.3M
+  1650K .......... .......... .......... .......... .......... 2.81M
+  1700K .......... .......... .......... .......... .......... 2.89M
+  1750K .......... .......... .......... .......... .......... 2.77M
+  1800K .......... .......... .......... .......... .......... 2.83M
+  1850K .......... .......... .......... .......... .......... 60.3M
+  1900K .......... .......... .......... .......... .......... 2.82M
+  1950K .......... .......... .......... .......... .......... 2.76M
+  2000K .......... .......... .......... .......... .......... 2.79M
+  2050K .......... .......... .......... .......... .......... 2.94M
+  2100K .......... .......... .......... .......... .......... 31.8M
+  2150K .......... .......... .......... .......... .......... 2.91M
+  2200K .......... .......... .......... .......... .......... 2.88M
+  2250K .......... .......... .......... .......... .......... 2.79M
+  2300K .......... .......... .......... .......... .......... 2.87M
+  2350K .......... .......... .......... .......... .......... 34.6M
+  2400K .......... .......... .......... .......... .......... 2.83M
+  2450K .......... .......... .......... .......... .......... 2.79M
+  2500K .......... .......... .......... .......... .......... 3.01M
+  2550K .......... .......... .......... .......... .......... 27.1M
+  2600K .......... .......... .......... .......... .......... 2.81M
+  2650K .......... .......... .......... .......... .......... 2.91M
+  2700K .......... .......... .......... .......... .......... 2.81M
+  2750K .......... .......... .......... .......... .......... 2.89M
+  2800K .......... .......... .......... .......... .......... 20.5M
+  2850K .......... .......... .......... .......... .......... 2.75M
+  2900K .......... .......... .......... .......... .......... 3.24M
+  2950K .......... .......... .......... .......... .......... 2.80M
+  3000K .......... .......... .......... .......... .......... 3.02M
+  3050K .......... .......... .......... .......... .......... 2.82M
+  3100K .......... .......... .......... .......... .......... 12.1M
+  3150K .......... .......... .......... .......... .......... 3.24M
+  3200K .......... .......... .......... .......... .......... 2.77M
+  3250K .......... .......... .......... .......... .......... 3.10M
+  3300K .......... .......... .......... .......... .......... 11.0M
+  3350K .......... .......... .......... .......... .......... 2.81M
+  3400K .......... .......... .......... .......... .......... 3.28M
+  3450K .......... .......... .......... .......... .......... 2.74M
+  3500K .......... .......... .......... .......... .......... 3.16M
+  3550K .......... .......... .......... .......... .......... 9.06M
+  3600K .......... .......... .......... .......... .......... 2.79M
+  3650K .......... .......... .......... .......... .......... 3.47M
+  3700K .......... .......... .......... .......... .......... 2.79M
+  3750K .......... .......... .......... .......... .......... 10.8M
+  3800K .......... .......... .......... .......... .......... 2.83M
+  3850K .......... .......... .......... .......... .......... 2.81M
+  3900K .......... .......... .......... .......... .......... 3.54M
+  3950K .......... .......... .......... .......... .......... 2.82M
+  4000K .......... .......... .......... .......... .......... 11.5M
+  4050K .......... .......... .......... .......... .......... 2.84M
+  4100K .                                                       234K=9.6s
+
+2020-03-02 04:17:11 (3.51 Mb/s) - ‘/dev/null’ saved [4199862]
+

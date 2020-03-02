@@ -1,0 +1,32 @@
+--2020-03-02 04:37:42--  http://fegkazan.hu/r_termekek/c_gazkeszulek_kezelesi_utmutato.pdf
+Resolving fegkazan.hu (fegkazan.hu)... 92.43.203.179
+Connecting to fegkazan.hu (fegkazan.hu)|92.43.203.179|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277031 (271K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 4.96M 0s
+    50K .......... .......... .......... .......... .......... 36% 8.64M 0s
+   100K .......... .......... .......... .......... .......... 55% 9.60M 0s
+   150K .......... .......... .......... .......... .......... 73% 9.90M 0s
+   200K .......... .......... .......... .......... .......... 92% 10.4M 0s
+   250K .......... ..........                                 100% 79.0M=0.3s
+
+2020-03-02 04:37:42 (8.68 Mb/s) - ‘/dev/null’ saved [277031/277031]
+
+--2020-03-02 04:37:48--  http://fegkazan.hu/r_termekek/c_gazkeszulek_kezelesi_utmutato.pdf
+Resolving fegkazan.hu (fegkazan.hu)... 92.43.203.179
+Connecting to fegkazan.hu (fegkazan.hu)|92.43.203.179|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277031 (271K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 4.93M 0s
+    50K .......... .......... .......... .......... .......... 36% 4.92M 0s
+   100K .......... .......... .......... .......... .......... 55%  130M 0s
+   150K .......... .......... .......... .......... .......... 73% 10.0M 0s
+   200K .......... .......... .......... .......... .......... 92% 10.1M 0s
+   250K .......... ..........                                 100% 72.7M=0.3s
+
+2020-03-02 04:37:48 (8.75 Mb/s) - ‘/dev/null’ saved [277031/277031]
+

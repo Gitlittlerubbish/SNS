@@ -1,0 +1,15 @@
+--2020-03-02 07:21:28--  http://www.caon.gov.mr/img/pdf/Guide_FIDA_S_E_module_8.pdf
+Resolving www.caon.gov.mr (www.caon.gov.mr)... 82.151.65.232
+Connecting to www.caon.gov.mr (www.caon.gov.mr)|82.151.65.232|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 238366 (233K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21%  994K 2s
+    50K .......... .......... .......... .......... .......... 42% 2.85M 1s
+   100K .......... .......... .......... .......... .......... 64% 3.00M 0s
+   150K .......... .......... .......... .......... .......... 85% 3.06M 0s
+   200K .......... .......... .......... ..                   100% 2.04M=1.0s
+
+2020-03-02 07:21:33 (1.99 Mb/s) - ‘/dev/null’ saved [238366/238366]
+

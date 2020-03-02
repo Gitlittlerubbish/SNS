@@ -1,0 +1,62 @@
+--2020-03-02 06:08:46--  http://trb.la/z80cIr
+Resolving trb.la (trb.la)... 18.208.85.101
+Connecting to trb.la (trb.la)|18.208.85.101|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://trb.la/z80cIr [following]
+--2020-03-02 06:08:47--  https://trb.la/z80cIr
+Connecting to trb.la (trb.la)|18.208.85.101|:443... connected.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: http://www.ucc.org/justice/advocacy_resources/pdfs/environmental-justice/almost-everything-you-need-to-know-about-environmental-justice-english-version.pdf [following]
+--2020-03-02 06:08:47--  http://www.ucc.org/justice/advocacy_resources/pdfs/environmental-justice/almost-everything-you-need-to-know-about-environmental-justice-english-version.pdf
+Resolving www.ucc.org (www.ucc.org)... 88.221.135.17, 88.221.134.2
+Connecting to www.ucc.org (www.ucc.org)|88.221.135.17|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ucc.org/justice/advocacy_resources/pdfs/environmental-justice/almost-everything-you-need-to-know-about-environmental-justice-english-version.pdf [following]
+--2020-03-02 06:08:48--  https://www.ucc.org/justice/advocacy_resources/pdfs/environmental-justice/almost-everything-you-need-to-know-about-environmental-justice-english-version.pdf
+Connecting to www.ucc.org (www.ucc.org)|88.221.135.17|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://d3n8a8pro7vhmx.cloudfront.net/unitedchurchofchrist/legacy_url/421/almost-everything-you-need-to-know-about-environmental-justice-english-version.pdf?1418423801 [following]
+--2020-03-02 06:08:48--  http://d3n8a8pro7vhmx.cloudfront.net/unitedchurchofchrist/legacy_url/421/almost-everything-you-need-to-know-about-environmental-justice-english-version.pdf?1418423801
+Resolving d3n8a8pro7vhmx.cloudfront.net (d3n8a8pro7vhmx.cloudfront.net)... 143.204.208.130, 143.204.208.46, 143.204.208.186, ...
+Connecting to d3n8a8pro7vhmx.cloudfront.net (d3n8a8pro7vhmx.cloudfront.net)|143.204.208.130|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 290232 (283K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 19.5M 0s
+    50K .......... .......... .......... .......... .......... 35% 31.5M 0s
+   100K .......... .......... .......... .......... .......... 52% 50.4M 0s
+   150K .......... .......... .......... .......... .......... 70% 9.54M 0s
+   200K .......... .......... .......... .......... .......... 88%  212M 0s
+   250K .......... .......... .......... ...                  100%  120M=0.09s
+
+2020-03-02 06:08:48 (26.0 Mb/s) - ‘/dev/null’ saved [290232/290232]
+
+--2020-03-02 06:08:48--  http://trb.la/18qbSUw
+Resolving trb.la (trb.la)... 18.208.85.101
+Connecting to trb.la (trb.la)|18.208.85.101|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://trb.la/18qbSUw [following]
+--2020-03-02 06:08:48--  https://trb.la/18qbSUw
+Connecting to trb.la (trb.la)|18.208.85.101|:443... connected.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: https://www.newtactics.org/sites/default/files/resources/Map the Terrain_Worksheet_Creating a Spectrum of Allies.pdf [following]
+--2020-03-02 06:08:49--  https://www.newtactics.org/sites/default/files/resources/Map%20the%20Terrain_Worksheet_Creating%20a%20Spectrum%20of%20Allies.pdf
+Resolving www.newtactics.org (www.newtactics.org)... 23.185.0.1
+Connecting to www.newtactics.org (www.newtactics.org)|23.185.0.1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 449368 (439K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 38.3M 0s
+    50K .......... .......... .......... .......... .......... 22%  114M 0s
+   100K .......... .......... .......... .......... .......... 34% 83.4M 0s
+   150K .......... .......... .......... .......... .......... 45%  165M 0s
+   200K .......... .......... .......... .......... .......... 56%  106M 0s
+   250K .......... .......... .......... .......... .......... 68%  102M 0s
+   300K .......... .......... .......... .......... .......... 79% 80.3M 0s
+   350K .......... .......... .......... .......... .......... 91% 86.3M 0s
+   400K .......... .......... .......... ........             100%  247M=0.04s
+
+2020-03-02 06:08:50 (88.5 Mb/s) - ‘/dev/null’ saved [449368/449368]
+

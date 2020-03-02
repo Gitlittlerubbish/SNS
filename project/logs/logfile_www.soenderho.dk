@@ -1,0 +1,15 @@
+--2020-03-02 03:04:53--  http://www.soenderho.dk/userfiles/dk.pdf
+Resolving www.soenderho.dk (www.soenderho.dk)... 77.111.240.110
+Connecting to www.soenderho.dk (www.soenderho.dk)|77.111.240.110|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.soenderho.dk/userfiles/dk.pdf [following]
+--2020-03-02 03:04:53--  https://www.soenderho.dk/userfiles/dk.pdf
+Connecting to www.soenderho.dk (www.soenderho.dk)|77.111.240.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30929 (30K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..........                      100%  273M=0.001s
+
+2020-03-02 03:04:53 (273 Mb/s) - ‘/dev/null’ saved [30929/30929]
+

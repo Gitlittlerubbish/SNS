@@ -1,0 +1,11 @@
+--2020-03-02 04:38:05--  http://www.hentesbolt.hu/public/products/generatePricesPdf
+Resolving www.hentesbolt.hu (www.hentesbolt.hu)... 194.38.104.92
+Connecting to www.hentesbolt.hu (www.hentesbolt.hu)|194.38.104.92|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16853 (16K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ......                                     100% 4.44M=0.03s
+
+2020-03-02 04:38:08 (4.44 Mb/s) - ‘/dev/null’ saved [16853/16853]
+

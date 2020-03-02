@@ -1,0 +1,13 @@
+--2020-03-02 05:08:49--  http://www.giuliotortello.it/ebook/cathedral.pdf
+Resolving www.giuliotortello.it (www.giuliotortello.it)... 31.11.32.175
+Connecting to www.giuliotortello.it (www.giuliotortello.it)|31.11.32.175|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148460 (145K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 4.38M 0s
+    50K .......... .......... .......... .......... .......... 68% 12.2M 0s
+   100K .......... .......... .......... .......... ....      100%  212M=0.1s
+
+2020-03-02 05:08:50 (9.21 Mb/s) - ‘/dev/null’ saved [148460/148460]
+

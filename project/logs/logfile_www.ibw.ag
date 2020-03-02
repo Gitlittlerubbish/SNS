@@ -1,0 +1,17 @@
+--2020-03-01 23:00:35--  http://www.ibw.ag/anschlussbegehren
+Resolving www.ibw.ag (www.ibw.ag)... 37.128.182.80
+Connecting to www.ibw.ag (www.ibw.ag)|37.128.182.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ibw.ag/dynasite.cfm?cmd=cdownload_download_download_download&filename=datei_120814140435916.pdf&FileId=55&dsmid=502917&skipfurl=1 [following]
+--2020-03-01 23:00:35--  https://www.ibw.ag/dynasite.cfm?cmd=cdownload_download_download_download&filename=datei_120814140435916.pdf&FileId=55&dsmid=502917&skipfurl=1
+Connecting to www.ibw.ag (www.ibw.ag)|37.128.182.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132765 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 8.71M 0s
+    50K .......... .......... .......... .......... .......... 77% 67.3M 0s
+   100K .......... .......... .........                       100% 14.2M=0.07s
+
+2020-03-01 23:00:36 (15.1 Mb/s) - ‘/dev/null’ saved [132765/132765]
+

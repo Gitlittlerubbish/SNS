@@ -1,0 +1,12 @@
+--2020-03-02 00:05:53--  http://agami.teletalk.com.bd/public/CC_Code22.pdf
+Resolving agami.teletalk.com.bd (agami.teletalk.com.bd)... 103.230.104.218
+Connecting to agami.teletalk.com.bd (agami.teletalk.com.bd)|103.230.104.218|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74596 (73K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68%  127K 1s
+    50K .......... .......... ..                              100% 48.3K=7.1s
+
+2020-03-02 00:06:03 (84.1 Kb/s) - ‘/dev/null’ saved [74596/74596]
+

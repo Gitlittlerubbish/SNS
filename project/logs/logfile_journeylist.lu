@@ -1,0 +1,25 @@
+--2020-03-02 06:29:21--  http://journeylist.lu/downloads/2eme/plato.pdf
+Resolving journeylist.lu (journeylist.lu)... 94.130.89.24
+Connecting to journeylist.lu (journeylist.lu)|94.130.89.24|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://journeylist.lu/downloads/2eme/plato.pdf [following]
+--2020-03-02 06:29:21--  https://journeylist.lu/downloads/2eme/plato.pdf
+Connecting to journeylist.lu (journeylist.lu)|94.130.89.24|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 562572 (549K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 14.1M 0s
+    50K .......... .......... .......... .......... .......... 18% 14.0M 0s
+   100K .......... .......... .......... .......... .......... 27% 99.8M 0s
+   150K .......... .......... .......... .......... .......... 36%  496M 0s
+   200K .......... .......... .......... .......... .......... 45% 16.3M 0s
+   250K .......... .......... .......... .......... .......... 54%  102M 0s
+   300K .......... .......... .......... .......... .......... 63% 18.0M 0s
+   350K .......... .......... .......... .......... .......... 72% 84.9M 0s
+   400K .......... .......... .......... .......... .......... 81%  225M 0s
+   450K .......... .......... .......... .......... .......... 91%  182M 0s
+   500K .......... .......... .......... .......... ......... 100%  412M=0.1s
+
+2020-03-02 06:29:21 (36.0 Mb/s) - ‘/dev/null’ saved [562572/562572]
+

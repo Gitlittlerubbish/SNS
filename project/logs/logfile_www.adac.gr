@@ -1,0 +1,19 @@
+--2020-03-02 04:06:20--  http://www.adac.gr/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf
+Resolving www.adac.gr (www.adac.gr)... 62.116.130.8
+Connecting to www.adac.gr (www.adac.gr)|62.116.130.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.adac.de/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf [following]
+--2020-03-02 04:06:20--  https://www.adac.de/_mmm/pdf/Wohnmobiltest_ADRIA_TWIN_FS_157387.pdf
+Resolving www.adac.de (www.adac.de)... 193.30.38.230
+Connecting to www.adac.de (www.adac.de)|193.30.38.230|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173970 (170K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 7.75M 0s
+    50K .......... .......... .......... .......... .......... 58%  161M 0s
+   100K .......... .......... .......... .......... .......... 88% 16.0M 0s
+   150K .......... .........                                  100%  151M=0.08s
+
+2020-03-02 04:06:21 (17.0 Mb/s) - ‘/dev/null’ saved [173970/173970]
+

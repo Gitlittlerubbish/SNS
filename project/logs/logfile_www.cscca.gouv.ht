@@ -1,0 +1,13 @@
+--2020-03-02 04:19:37--  http://www.cscca.gouv.ht/documents/241.pdf
+Resolving www.cscca.gouv.ht (www.cscca.gouv.ht)... 162.241.24.236
+Connecting to www.cscca.gouv.ht (www.cscca.gouv.ht)|162.241.24.236|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135958 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.70M 0s
+    50K .......... .......... .......... .......... .......... 75% 3.42M 0s
+   100K .......... .......... .......... ..                   100%  116M=0.4s
+
+2020-03-02 04:19:38 (3.00 Mb/s) - ‘/dev/null’ saved [135958/135958]
+

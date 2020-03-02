@@ -1,0 +1,12 @@
+--2020-03-02 06:57:50--  http://www.nyassa.mw/fileadmin/dokumente/Introduction_to_Crew.pdf
+Resolving www.nyassa.mw (www.nyassa.mw)... 193.200.113.22
+Connecting to www.nyassa.mw (www.nyassa.mw)|193.200.113.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 70180 (69K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 72% 7.17M 0s
+    50K .......... ........                                   100%  183M=0.06s
+
+2020-03-02 06:57:51 (9.69 Mb/s) - ‘/dev/null’ saved [70180/70180]
+

@@ -1,0 +1,13 @@
+--2020-03-02 01:49:50--  http://www.minfopra.gov.cm/images/pdf/Fiche_Notice_individuelle.pdf
+Resolving www.minfopra.gov.cm (www.minfopra.gov.cm)... 195.24.205.68
+Connecting to www.minfopra.gov.cm (www.minfopra.gov.cm)|195.24.205.68|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 124516 (122K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 1.10M 1s
+    50K .......... .......... .......... .......... .......... 82% 2.21M 0s
+   100K .......... .......... .                               100%  157M=0.6s
+
+2020-03-02 01:49:51 (1.78 Mb/s) - ‘/dev/null’ saved [124516/124516]
+

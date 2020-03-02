@@ -1,0 +1,19 @@
+--2020-03-02 07:23:19--  http://beta.mr/docs/pdf/AMI_recrutement_Conseiller_Jurdique.pdf
+Resolving beta.mr (beta.mr)... 50.87.169.103
+Connecting to beta.mr (beta.mr)|50.87.169.103|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://beta.mr/docs/pdf/AMI_recrutement_Conseiller_Jurdique.pdf [following]
+--2020-03-02 07:23:19--  https://beta.mr/docs/pdf/AMI_recrutement_Conseiller_Jurdique.pdf
+Connecting to beta.mr (beta.mr)|50.87.169.103|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 254441 (248K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 2.44M 1s
+    50K .......... .......... .......... .......... .......... 40% 2.49M 0s
+   100K .......... .......... .......... .......... .......... 60%  117M 0s
+   150K .......... .......... .......... .......... .......... 80%  341M 0s
+   200K .......... .......... .......... .......... ........  100% 2.41M=0.5s
+
+2020-03-02 07:23:21 (4.05 Mb/s) - ‘/dev/null’ saved [254441/254441]
+

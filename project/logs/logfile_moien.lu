@@ -1,0 +1,15 @@
+--2020-03-02 06:29:20--  http://moien.lu/wp-content/uploads/2020/01/pr240_E-1.pdf
+Resolving moien.lu (moien.lu)... 51.15.132.238
+Connecting to moien.lu (moien.lu)|51.15.132.238|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://moien.lu/wp-content/uploads/2020/01/pr240_E-1.pdf [following]
+--2020-03-02 06:29:21--  https://moien.lu/wp-content/uploads/2020/01/pr240_E-1.pdf
+Connecting to moien.lu (moien.lu)|51.15.132.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 43121 (42K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..        100%  161M=0.002s
+
+2020-03-02 06:29:21 (161 Mb/s) - ‘/dev/null’ saved [43121/43121]
+

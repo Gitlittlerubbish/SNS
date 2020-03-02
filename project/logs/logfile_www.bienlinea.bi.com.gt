@@ -1,0 +1,15 @@
+--2020-03-02 04:14:08--  http://www.bienlinea.bi.com.gt/ach/documentos/diccionario.pdf
+Resolving www.bienlinea.bi.com.gt (www.bienlinea.bi.com.gt)... 149.126.74.241
+Connecting to www.bienlinea.bi.com.gt (www.bienlinea.bi.com.gt)|149.126.74.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bienlinea.bi.com.gt/ach/documentos/diccionario.pdf [following]
+--2020-03-02 04:14:08--  https://www.bienlinea.bi.com.gt/ach/documentos/diccionario.pdf
+Connecting to www.bienlinea.bi.com.gt (www.bienlinea.bi.com.gt)|149.126.74.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  112M=0s
+
+2020-03-02 04:14:08 (112 Mb/s) - ‘/dev/null’ saved [210/210]
+

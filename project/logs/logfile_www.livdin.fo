@@ -1,0 +1,11 @@
+--2020-03-02 03:37:38--  http://www.livdin.fo/Talur/Ymiskt/Tunglyndi_071104_BDI_II_Spurnarblad.pdf
+Resolving www.livdin.fo (www.livdin.fo)... 74.124.194.161
+Connecting to www.livdin.fo (www.livdin.fo)|74.124.194.161|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13557 (13K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ...                                        100%  627M=0s
+
+2020-03-02 03:37:38 (627 Mb/s) - ‘/dev/null’ saved [13557/13557]
+

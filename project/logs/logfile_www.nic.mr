@@ -1,0 +1,24 @@
+--2020-03-02 07:21:42--  http://www.nic.mr/docs/Listes_termes_soumis_examen_prealable.pdf
+Resolving www.nic.mr (www.nic.mr)... 82.151.64.226
+Connecting to www.nic.mr (www.nic.mr)|82.151.64.226|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67007 (65K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 76% 1.26M 0s
+    50K .......... .....                                      100%  110M=0.3s
+
+2020-03-02 07:21:43 (1.65 Mb/s) - ‘/dev/null’ saved [67007/67007]
+
+--2020-03-02 07:22:40--  http://www.nic.mr/RIB_NIC-MAURITANIE.pdf
+Resolving www.nic.mr (www.nic.mr)... 82.151.64.226
+Connecting to www.nic.mr (www.nic.mr)|82.151.64.226|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64249 (63K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 79% 1.50M 0s
+    50K .......... ..                                         100% 54.8M=0.3s
+
+2020-03-02 07:22:41 (1.86 Mb/s) - ‘/dev/null’ saved [64249/64249]
+

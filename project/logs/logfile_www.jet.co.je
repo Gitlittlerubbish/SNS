@@ -1,0 +1,22 @@
+--2020-03-02 05:21:43--  http://www.jet.co.je/media/53957/room_booking_terms_and_conditions.pdf
+Resolving www.jet.co.je (www.jet.co.je)... 54.77.23.130
+Connecting to www.jet.co.je (www.jet.co.je)|54.77.23.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.jet.co.je/media/53957/room_booking_terms_and_conditions.pdf [following]
+--2020-03-02 05:21:43--  https://www.jet.co.je/media/53957/room_booking_terms_and_conditions.pdf
+Connecting to www.jet.co.je (www.jet.co.je)|54.77.23.130|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 362445 (354K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 15.4M 0s
+    50K .......... .......... .......... .......... .......... 28%  180M 0s
+   100K .......... .......... .......... .......... .......... 42% 31.7M 0s
+   150K .......... .......... .......... .......... .......... 56%  118M 0s
+   200K .......... .......... .......... .......... .......... 70% 38.9M 0s
+   250K .......... .......... .......... .......... .......... 84%  143M 0s
+   300K .......... .......... .......... .......... .......... 98%  232M 0s
+   350K ...                                                   100%  548M=0.06s
+
+2020-03-02 05:21:43 (48.0 Mb/s) - ‘/dev/null’ saved [362445/362445]
+

@@ -1,0 +1,13 @@
+--2020-03-01 22:35:34--  http://ciencia.ao/redes/rede_instituicoes.pdf
+Resolving ciencia.ao (ciencia.ao)... 185.176.40.116
+Connecting to ciencia.ao (ciencia.ao)|185.176.40.116|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 117231 (114K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 43% 4.66M 0s
+    50K .......... .......... .......... .......... .......... 87% 9.59M 0s
+   100K .......... ....                                       100% 89.1M=0.1s
+
+2020-03-01 22:35:34 (7.11 Mb/s) - ‘/dev/null’ saved [117231/117231]
+

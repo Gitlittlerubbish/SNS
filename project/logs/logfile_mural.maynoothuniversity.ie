@@ -1,0 +1,13 @@
+--2020-03-02 05:01:32--  http://mural.maynoothuniversity.ie/8592/1/Gadamer-2001-Journal_of_Philosophy_of_Education.pdf
+Resolving mural.maynoothuniversity.ie (mural.maynoothuniversity.ie)... 13.69.156.231
+Connecting to mural.maynoothuniversity.ie (mural.maynoothuniversity.ie)|13.69.156.231|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 125827 (123K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 13.5M 0s
+    50K .......... .......... .......... .......... .......... 81% 30.3M 0s
+   100K .......... .......... ..                              100% 81.7M=0.05s
+
+2020-03-02 05:01:32 (21.8 Mb/s) - ‘/dev/null’ saved [125827/125827]
+

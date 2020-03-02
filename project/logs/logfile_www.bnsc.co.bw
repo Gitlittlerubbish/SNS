@@ -1,0 +1,14 @@
+--2020-03-02 01:05:47--  http://www.bnsc.co.bw/bn_gal/docu_49.pdf
+Resolving www.bnsc.co.bw (www.bnsc.co.bw)... 168.167.71.11
+Connecting to www.bnsc.co.bw (www.bnsc.co.bw)|168.167.71.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 177904 (174K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 1.05M 1s
+    50K .......... .......... .......... .......... .......... 57% 2.72M 0s
+   100K .......... .......... .......... .......... .......... 86% 13.2M 0s
+   150K .......... .......... ...                             100% 91.9M=0.6s
+
+2020-03-02 01:05:49 (2.48 Mb/s) - ‘/dev/null’ saved [177904/177904]
+

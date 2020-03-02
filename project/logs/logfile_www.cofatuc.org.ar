@@ -1,0 +1,17 @@
+--2020-03-01 23:18:50--  http://www.cofatuc.org.ar/docs/psicotropicos.pdf
+Resolving www.cofatuc.org.ar (www.cofatuc.org.ar)... 138.219.41.150
+Connecting to www.cofatuc.org.ar (www.cofatuc.org.ar)|138.219.41.150|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cofatuc.org.ar/docs/psicotropicos.pdf [following]
+--2020-03-01 23:18:52--  https://www.cofatuc.org.ar/docs/psicotropicos.pdf
+Connecting to www.cofatuc.org.ar (www.cofatuc.org.ar)|138.219.41.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113096 (110K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  778K 1s
+    50K .......... .......... .......... .......... .......... 90% 1.86M 0s
+   100K ..........                                            100% 1.36G=0.7s
+
+2020-03-01 23:18:54 (1.21 Mb/s) - ‘/dev/null’ saved [113096/113096]
+

@@ -1,0 +1,30 @@
+--2020-03-02 04:13:39--  http://consulta.rgp.org.gt/docs/inmproindivisos.pdf
+Resolving consulta.rgp.org.gt (consulta.rgp.org.gt)... 181.114.24.102
+Connecting to consulta.rgp.org.gt (consulta.rgp.org.gt)|181.114.24.102|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://consulta.rgp.org.gt/docs/inmproindivisos.pdf [following]
+--2020-03-02 04:13:39--  https://consulta.rgp.org.gt/docs/inmproindivisos.pdf
+Connecting to consulta.rgp.org.gt (consulta.rgp.org.gt)|181.114.24.102|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48480 (47K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......   100% 1.48M=0.3s
+
+2020-03-02 04:13:40 (1.48 Mb/s) - ‘/dev/null’ saved [48480/48480]
+
+--2020-03-02 04:13:45--  http://consulta.rgp.org.gt/docs/inmproindivisos.pdf
+Resolving consulta.rgp.org.gt (consulta.rgp.org.gt)... 181.114.24.102
+Connecting to consulta.rgp.org.gt (consulta.rgp.org.gt)|181.114.24.102|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://consulta.rgp.org.gt/docs/inmproindivisos.pdf [following]
+--2020-03-02 04:13:45--  https://consulta.rgp.org.gt/docs/inmproindivisos.pdf
+Connecting to consulta.rgp.org.gt (consulta.rgp.org.gt)|181.114.24.102|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48480 (47K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......   100% 1.47M=0.3s
+
+2020-03-02 04:13:46 (1.47 Mb/s) - ‘/dev/null’ saved [48480/48480]
+

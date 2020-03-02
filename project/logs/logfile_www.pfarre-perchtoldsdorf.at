@@ -1,0 +1,20 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:42:38--  https://www.pfarre-perchtoldsdorf.at/wochenzettel.php
+Resolving www.pfarre-perchtoldsdorf.at (www.pfarre-perchtoldsdorf.at)... 77.244.243.39
+Connecting to www.pfarre-perchtoldsdorf.at (www.pfarre-perchtoldsdorf.at)|77.244.243.39|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /images/content/Info/Termine/Wochenzettel/Wochenzettel.pdf?1583106161 [following]
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:42:41--  https://www.pfarre-perchtoldsdorf.at/images/content/Info/Termine/Wochenzettel/Wochenzettel.pdf?1583106161
+Reusing existing connection to www.pfarre-perchtoldsdorf.at:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 182433 (178K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 11.8M 0s
+    50K .......... .......... .......... .......... .......... 56% 13.0M 0s
+   100K .......... .......... .......... .......... .......... 84% 74.1M 0s
+   150K .......... .......... ........                        100%  209M=0.07s
+
+2020-03-01 23:42:41 (20.1 Mb/s) - ‘/dev/null’ saved [182433/182433]
+

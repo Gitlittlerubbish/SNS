@@ -1,0 +1,16 @@
+--2020-03-02 01:13:38--  http://www.fiocruz.br/bibsmc/media/comoreferenciarecitarsegundooEstiloVancouver_2008.pdf
+Resolving www.fiocruz.br (www.fiocruz.br)... 157.86.152.4
+Connecting to www.fiocruz.br (www.fiocruz.br)|157.86.152.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 302763 (296K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16%  420K 5s
+    50K .......... .......... .......... .......... .......... 33% 2.07M 2s
+   100K .......... .......... .......... .......... .......... 50% 2.08M 1s
+   150K .......... .......... .......... .......... .......... 67% 2.14M 1s
+   200K .......... .......... .......... .......... .......... 84% 79.4M 0s
+   250K .......... .......... .......... .......... .....     100% 1.98M=1.8s
+
+2020-03-02 01:13:41 (1.38 Mb/s) - ‘/dev/null’ saved [302763/302763]
+

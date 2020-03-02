@@ -1,0 +1,22 @@
+--2020-03-02 02:15:22--  http://www.airida.cn/drugpopup/Cefotaxime.pdf
+Resolving www.airida.cn (www.airida.cn)... 211.72.204.156
+Connecting to www.airida.cn (www.airida.cn)|211.72.204.156|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10741 (10K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K ..........                                            100%  168K=0.5s
+
+2020-03-02 02:15:23 (168 Kb/s) - ‘/dev/null’ saved [10741/10741]
+
+--2020-03-02 02:15:23--  http://www.airida.cn/drugpopup/Chloramphenicol.pdf
+Resolving www.airida.cn (www.airida.cn)... 211.72.204.156
+Connecting to www.airida.cn (www.airida.cn)|211.72.204.156|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11540 (11K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                          100%  150K=0.6s
+
+2020-03-02 02:15:24 (150 Kb/s) - ‘/dev/null’ saved [11540/11540]
+

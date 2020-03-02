@@ -1,0 +1,11 @@
+--2020-03-02 00:34:04--  http://www.schroder.bm/getfunddocument%3Foid%3D1.9.1695267
+Resolving www.schroder.bm (www.schroder.bm)... 165.160.13.20, 165.160.15.20
+Connecting to www.schroder.bm (www.schroder.bm)|165.160.13.20|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 57.8M=0s
+
+2020-03-02 00:34:04 (57.8 Mb/s) - ‘/dev/null’ saved [94/94]
+

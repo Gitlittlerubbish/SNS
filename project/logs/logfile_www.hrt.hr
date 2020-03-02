@@ -1,0 +1,22 @@
+--2020-03-02 02:55:57--  http://www.hrt.hr/fileadmin/dokumenti/ODJAVA_FIZIC__KE_NOVA.pdf
+Resolving www.hrt.hr (www.hrt.hr)... 213.5.56.20
+Connecting to www.hrt.hr (www.hrt.hr)|213.5.56.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hrt.hr/fileadmin/dokumenti/ODJAVA_FIZIC__KE_NOVA.pdf [following]
+--2020-03-02 02:55:57--  https://www.hrt.hr/fileadmin/dokumenti/ODJAVA_FIZIC__KE_NOVA.pdf
+Connecting to www.hrt.hr (www.hrt.hr)|213.5.56.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 369671 (361K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 7.69M 0s
+    50K .......... .......... .......... .......... .......... 27% 8.02M 0s
+   100K .......... .......... .......... .......... .......... 41%  107M 0s
+   150K .......... .......... .......... .......... .......... 55%  123M 0s
+   200K .......... .......... .......... .......... .......... 69% 8.76M 0s
+   250K .......... .......... .......... .......... .......... 83%  175M 0s
+   300K .......... .......... .......... .......... .......... 96% 9.39M 0s
+   350K .......... .                                          100% 57.7M=0.2s
+
+2020-03-02 02:55:58 (14.4 Mb/s) - ‘/dev/null’ saved [369671/369671]
+

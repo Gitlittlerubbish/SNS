@@ -1,0 +1,26 @@
+--2020-03-02 04:43:07--  http://dpsmegacity.in/pdf/MATHEMATICS_Specimen_QP_Class_XI_2019.pdf
+Resolving dpsmegacity.in (dpsmegacity.in)... 66.39.124.103
+Connecting to dpsmegacity.in (dpsmegacity.in)|66.39.124.103|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://dpsmegacity.in/pdf/MATHEMATICS_Specimen_QP_Class_XI_2019.pdf [following]
+--2020-03-02 04:43:07--  https://dpsmegacity.in/pdf/MATHEMATICS_Specimen_QP_Class_XI_2019.pdf
+Connecting to dpsmegacity.in (dpsmegacity.in)|66.39.124.103|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 573278 (560K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 2.03M 2s
+    50K .......... .......... .......... .......... .......... 17% 95.3M 1s
+   100K .......... .......... .......... .......... .......... 26% 4.18M 1s
+   150K .......... .......... .......... .......... .......... 35%  223M 1s
+   200K .......... .......... .......... .......... .......... 44% 44.2M 0s
+   250K .......... .......... .......... .......... .......... 53% 4.45M 0s
+   300K .......... .......... .......... .......... .......... 62%  114M 0s
+   350K .......... .......... .......... .......... .......... 71%  375M 0s
+   400K .......... .......... .......... .......... .......... 80% 4.13M 0s
+   450K .......... .......... .......... .......... .......... 89%  132M 0s
+   500K .......... .......... .......... .......... .......... 98%  262M 0s
+   550K .........                                             100%  701M=0.5s
+
+2020-03-02 04:43:08 (8.89 Mb/s) - ‘/dev/null’ saved [573278/573278]
+

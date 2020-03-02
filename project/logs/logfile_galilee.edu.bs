@@ -1,0 +1,14 @@
+--2020-03-01 23:55:57--  http://galilee.edu.bs/GCapplicationFORM.pdf
+Resolving galilee.edu.bs (galilee.edu.bs)... 198.54.120.221
+Connecting to galilee.edu.bs (galilee.edu.bs)|198.54.120.221|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166784 (163K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 1.05M 1s
+    50K .......... .......... .......... .......... .......... 61% 2.57M 0s
+   100K .......... .......... .......... .......... .......... 92% 2.61M 0s
+   150K .......... ..                                         100% 41.8M=0.7s
+
+2020-03-01 23:55:58 (1.88 Mb/s) - ‘/dev/null’ saved [166784/166784]
+

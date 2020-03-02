@@ -1,0 +1,20 @@
+--2020-03-01 23:40:09--  http://www.racgp.org.au/afp/200603/200603keks.pdf
+Resolving www.racgp.org.au (www.racgp.org.au)... 203.44.18.45
+Connecting to www.racgp.org.au (www.racgp.org.au)|203.44.18.45|:80... connected.
+HTTP request sent, awaiting response... 302 Found : Moved Temporarily
+Location: https://www.racgp.org.au/afp/200603/200603keks.pdf [following]
+--2020-03-01 23:40:10--  https://www.racgp.org.au/afp/200603/200603keks.pdf
+Connecting to www.racgp.org.au (www.racgp.org.au)|203.44.18.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 266182 (260K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19%  483K 4s
+    50K .......... .......... .......... .......... .......... 38%  462K 3s
+   100K .......... .......... .......... .......... .......... 57% 1.07M 2s
+   150K .......... .......... .......... .......... .......... 76% 1.11M 1s
+   200K .......... .......... .......... .......... .......... 96% 1.01M 0s
+   250K .........                                             100%  734M=2.9s
+
+2020-03-01 23:40:15 (736 Kb/s) - ‘/dev/null’ saved [266182/266182]
+

@@ -1,0 +1,19 @@
+--2020-03-02 03:59:58--  http://www.be.ge/published/publicdata/TEST/attachments/SC/products_manual/144858_manual_05.pdf
+Resolving www.be.ge (www.be.ge)... 104.24.109.53, 104.24.108.53
+Connecting to www.be.ge (www.be.ge)|104.24.109.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.be.ge/published/publicdata/TEST/attachments/SC/products_manual/144858_manual_05.pdf [following]
+--2020-03-02 03:59:58--  https://www.be.ge/published/publicdata/TEST/attachments/SC/products_manual/144858_manual_05.pdf
+Connecting to www.be.ge (www.be.ge)|104.24.109.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from www.be.ge attempted to set domain to be.ge
+Length: 187041 (183K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 17.0M 0s
+    50K .......... .......... .......... .......... .......... 54% 23.9M 0s
+   100K .......... .......... .......... .......... .......... 82%  134M 0s
+   150K .......... .......... .......... ..                   100% 92.4M=0.05s
+
+2020-03-02 03:59:58 (31.7 Mb/s) - ‘/dev/null’ saved [187041/187041]
+

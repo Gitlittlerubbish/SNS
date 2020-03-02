@@ -1,0 +1,18 @@
+--2020-03-01 23:39:36--  http://www.healthymale.org.au/files/resources/erectile_dysfunction_fact_sheet_healthy_male_2019.pdf
+Resolving www.healthymale.org.au (www.healthymale.org.au)... 149.28.164.202
+Connecting to www.healthymale.org.au (www.healthymale.org.au)|149.28.164.202|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.healthymale.org.au/files/resources/erectile_dysfunction_fact_sheet_healthy_male_2019.pdf [following]
+--2020-03-01 23:39:37--  https://www.healthymale.org.au/files/resources/erectile_dysfunction_fact_sheet_healthy_male_2019.pdf
+Connecting to www.healthymale.org.au (www.healthymale.org.au)|149.28.164.202|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 167333 (163K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30%  662K 1s
+    50K .......... .......... .......... .......... .......... 61% 1.35M 1s
+   100K .......... .......... .......... .......... .......... 91%  325M 0s
+   150K .......... ...                                        100% 1.45G=0.9s
+
+2020-03-01 23:39:39 (1.45 Mb/s) - ‘/dev/null’ saved [167333/167333]
+

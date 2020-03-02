@@ -1,0 +1,13 @@
+--2020-03-02 00:37:54--  http://www.btnagro.bt/public/pdf/20180108093244151069862.pdf
+Resolving www.btnagro.bt (www.btnagro.bt)... 202.144.128.217
+Connecting to www.btnagro.bt (www.btnagro.bt)|202.144.128.217|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135998 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.18M 1s
+    50K .......... .......... .......... .......... .......... 75% 2.38M 0s
+   100K .......... .......... .......... ..                   100% 1.60M=0.7s
+
+2020-03-02 00:37:56 (1.59 Mb/s) - ‘/dev/null’ saved [135998/135998]
+

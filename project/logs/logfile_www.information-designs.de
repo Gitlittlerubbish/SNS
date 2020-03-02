@@ -1,0 +1,11 @@
+--2020-03-02 04:00:32--  http://www.information-designs.de/newen.pdf
+Resolving www.information-designs.de (www.information-designs.de)... 68.171.218.21
+Connecting to www.information-designs.de (www.information-designs.de)|68.171.218.21|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34101 (33K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                  100% 1.51M=0.2s
+
+2020-03-02 04:00:32 (1.51 Mb/s) - ‘/dev/null’ saved [34101/34101]
+

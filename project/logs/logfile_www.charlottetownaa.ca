@@ -1,0 +1,11 @@
+--2020-03-02 01:52:21--  http://www.charlottetownaa.ca/pamphlets/12promises.pdf
+Resolving www.charlottetownaa.ca (www.charlottetownaa.ca)... 208.91.198.172
+Connecting to www.charlottetownaa.ca (www.charlottetownaa.ca)|208.91.198.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4359 (4.3K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100%  872M=0s
+
+2020-03-02 01:52:21 (872 Mb/s) - ‘/dev/null’ saved [4359/4359]
+

@@ -1,0 +1,16 @@
+--2020-03-02 03:37:33--  http://www.christmaschild.fo/assets/ny_klistrimerkir.pdf
+Resolving www.christmaschild.fo (www.christmaschild.fo)... 54.236.190.114
+Connecting to www.christmaschild.fo (www.christmaschild.fo)|54.236.190.114|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 293522 (287K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 2.41M 1s
+    50K .......... .......... .......... .......... .......... 34% 4.90M 0s
+   100K .......... .......... .......... .......... .......... 52%  100M 0s
+   150K .......... .......... .......... .......... .......... 69%  166M 0s
+   200K .......... .......... .......... .......... .......... 87% 5.07M 0s
+   250K .......... .......... .......... ......               100%  112M=0.3s
+
+2020-03-02 03:37:34 (6.84 Mb/s) - ‘/dev/null’ saved [293522/293522]
+

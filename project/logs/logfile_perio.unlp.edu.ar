@@ -1,0 +1,17 @@
+--2020-03-01 23:18:44--  http://perio.unlp.edu.ar/tpm/textos/tpm-mision_vision_y_cb-ejemplos.pdf
+Resolving perio.unlp.edu.ar (perio.unlp.edu.ar)... 163.10.16.134
+Connecting to perio.unlp.edu.ar (perio.unlp.edu.ar)|163.10.16.134|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://perio.unlp.edu.ar/tpm/textos/tpm-mision_vision_y_cb-ejemplos.pdf [following]
+--2020-03-01 23:18:47--  https://perio.unlp.edu.ar/tpm/textos/tpm-mision_vision_y_cb-ejemplos.pdf
+Connecting to perio.unlp.edu.ar (perio.unlp.edu.ar)|163.10.16.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 126216 (123K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40%  664K 1s
+    50K .......... .......... .......... .......... .......... 81% 1.41M 0s
+   100K .......... .......... ...                             100%  472M=0.9s
+
+2020-03-01 23:18:50 (1.11 Mb/s) - ‘/dev/null’ saved [126216/126216]
+

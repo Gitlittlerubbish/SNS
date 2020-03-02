@@ -1,0 +1,19 @@
+--2020-03-02 07:09:24--  http://www.mwsc.com.mv/Downloads/3781
+Resolving www.mwsc.com.mv (www.mwsc.com.mv)... 52.221.218.213
+Connecting to www.mwsc.com.mv (www.mwsc.com.mv)|52.221.218.213|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mwsc.com.mv/Downloads/3781 [following]
+--2020-03-02 07:09:26--  https://www.mwsc.com.mv/Downloads/3781
+Connecting to www.mwsc.com.mv (www.mwsc.com.mv)|52.221.218.213|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.28M
+    50K .......... .......... .......... .......... .......... 2.54M
+   100K .......... .......... .......... .......... ..........  137M
+   150K .......... .......... .......... .......... ..........  124M
+   200K .......... .......... .......... .......... ..         2.26M=0.6s
+
+2020-03-02 07:09:27 (3.09 Mb/s) - ‘/dev/null’ saved [248430]
+

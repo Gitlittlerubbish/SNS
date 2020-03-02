@@ -1,0 +1,13 @@
+--2020-03-02 03:23:29--  http://www.arc.sci.eg/NARIMS_upload/CLAESFILES/3913.pdf
+Resolving www.arc.sci.eg (www.arc.sci.eg)... 195.43.12.178
+Connecting to www.arc.sci.eg (www.arc.sci.eg)|195.43.12.178|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 138982 (136K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 2.98M 0s
+    50K .......... .......... .......... .......... .......... 73% 5.63M 0s
+   100K .......... .......... .......... .....                100% 93.4M=0.2s
+
+2020-03-02 03:23:30 (5.22 Mb/s) - ‘/dev/null’ saved [138982/138982]
+

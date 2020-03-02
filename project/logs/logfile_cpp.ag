@@ -1,0 +1,16 @@
+--2020-03-01 23:05:40--  http://cpp.ag/wp-content/uploads/2018/06/Goldcob_Label.pdf
+Resolving cpp.ag (cpp.ag)... 217.160.0.119
+Connecting to cpp.ag (cpp.ag)|217.160.0.119|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://claytonpp.com/wp-content/uploads/2018/06/Goldcob_Label.pdf [following]
+--2020-03-01 23:05:40--  https://claytonpp.com/wp-content/uploads/2018/06/Goldcob_Label.pdf
+Resolving claytonpp.com (claytonpp.com)... 217.160.0.119
+Connecting to claytonpp.com (claytonpp.com)|217.160.0.119|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44293 (43K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...       100% 17.9M=0.02s
+
+2020-03-01 23:05:40 (17.9 Mb/s) - ‘/dev/null’ saved [44293/44293]
+

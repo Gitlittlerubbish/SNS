@@ -1,0 +1,16 @@
+--2020-03-02 02:28:19--  http://mybk.co/fEt530npPav
+Resolving mybk.co (mybk.co)... 67.199.248.13, 67.199.248.12
+Connecting to mybk.co (mybk.co)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.maybank2u.com.my/home/m2u/common/login.do [following]
+--2020-03-02 02:28:19--  https://www.maybank2u.com.my/home/m2u/common/login.do
+Resolving www.maybank2u.com.my (www.maybank2u.com.my)... 23.43.69.140
+Connecting to www.maybank2u.com.my (www.maybank2u.com.my)|23.43.69.140|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3944 (3.9K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ...                                                   100%  192M=0s
+
+2020-03-02 02:28:20 (192 Mb/s) - ‘/dev/null’ saved [3944/3944]
+

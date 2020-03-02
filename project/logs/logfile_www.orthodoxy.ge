@@ -1,0 +1,12 @@
+--2020-03-02 03:59:26--  http://www.orthodoxy.ge/gvtismsakhureba/gangeba/sergi1.pdf
+Resolving www.orthodoxy.ge (www.orthodoxy.ge)... 91.239.207.46
+Connecting to www.orthodoxy.ge (www.orthodoxy.ge)|91.239.207.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85676 (84K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 1.86M 0s
+    50K .......... .......... .......... ...                  100%  158M=0.2s
+
+2020-03-02 03:59:26 (3.09 Mb/s) - ‘/dev/null’ saved [85676/85676]
+

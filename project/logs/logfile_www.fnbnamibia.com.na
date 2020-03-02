@@ -1,0 +1,19 @@
+--2020-03-02 08:02:33--  http://www.fnbnamibia.com.na/downloads/namibia/PersonalLoansAgreementTermsandConditions.pdf
+Resolving www.fnbnamibia.com.na (www.fnbnamibia.com.na)... 196.11.125.135
+Connecting to www.fnbnamibia.com.na (www.fnbnamibia.com.na)|196.11.125.135|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.fnbnamibia.com.na//downloads/namibia/PersonalLoansAgreementTermsandConditions.pdf [following]
+--2020-03-02 08:02:33--  https://www.fnbnamibia.com.na//downloads/namibia/PersonalLoansAgreementTermsandConditions.pdf
+Connecting to www.fnbnamibia.com.na (www.fnbnamibia.com.na)|196.11.125.135|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 208200 (203K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 1.17M 1s
+    50K .......... .......... .......... .......... .......... 49% 1.48M 1s
+   100K .......... .......... .......... .......... .......... 73% 5.44M 0s
+   150K .......... .......... .......... .......... .......... 98% 2.37M 0s
+   200K ...                                                   100%  544K=0.9s
+
+2020-03-02 08:02:35 (1.90 Mb/s) - ‘/dev/null’ saved [208200/208200]
+

@@ -1,0 +1,27 @@
+--2020-03-02 06:07:39--  http://job.desko.kg/resume/download/2091
+Resolving job.desko.kg (job.desko.kg)... 104.28.2.13, 104.28.3.13
+Connecting to job.desko.kg (job.desko.kg)|104.28.2.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://job.desko.kg/resume/download/2091 [following]
+--2020-03-02 06:07:39--  https://job.desko.kg/resume/download/2091
+Connecting to job.desko.kg (job.desko.kg)|104.28.2.13|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://desko.kg/job/resume/2091 [following]
+--2020-03-02 06:07:39--  http://desko.kg/job/resume/2091
+Resolving desko.kg (desko.kg)... 104.28.2.13, 104.28.3.13
+Connecting to desko.kg (desko.kg)|104.28.2.13|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://desko.kg/job/resume/2091 [following]
+--2020-03-02 06:07:39--  https://desko.kg/job/resume/2091
+Connecting to desko.kg (desko.kg)|104.28.2.13|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 76.4M
+    50K .......... .......... .......... .......... ..........  109M
+   100K .......... .......... .......... .......... .......... 79.0M
+   150K ..........                                              746M=0.01s
+
+2020-03-02 06:07:39 (91.0 Mb/s) - ‘/dev/null’ saved [163864]
+

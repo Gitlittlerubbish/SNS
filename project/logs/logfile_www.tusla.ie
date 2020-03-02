@@ -1,0 +1,23 @@
+--2020-03-02 05:01:51--  http://www.tusla.ie/uploads/content/Tusla_SAP_UserGuide_Final_June_2014.pdf
+Resolving www.tusla.ie (www.tusla.ie)... 89.185.146.183
+Connecting to www.tusla.ie (www.tusla.ie)|89.185.146.183|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.tusla.ie/uploads/content/Tusla_SAP_UserGuide_Final_June_2014.pdf [following]
+--2020-03-02 05:01:51--  https://www.tusla.ie/uploads/content/Tusla_SAP_UserGuide_Final_June_2014.pdf
+Connecting to www.tusla.ie (www.tusla.ie)|89.185.146.183|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 423597 (414K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 1.98M 2s
+    50K .......... .......... .......... .......... .......... 24% 23.8M 1s
+   100K .......... .......... .......... .......... .......... 36% 7.39M 0s
+   150K .......... .......... .......... .......... .......... 48% 2.34M 0s
+   200K .......... .......... .......... .......... .......... 60% 22.7M 0s
+   250K .......... .......... .......... .......... .......... 72% 22.0M 0s
+   300K .......... .......... .......... .......... .......... 84% 7.99M 0s
+   350K .......... .......... .......... .......... .......... 96%  494M 0s
+   400K .......... ...                                        100%  763K=0.7s
+
+2020-03-02 05:01:52 (4.91 Mb/s) - ‘/dev/null’ saved [423597/423597]
+

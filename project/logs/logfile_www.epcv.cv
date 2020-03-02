@@ -1,0 +1,12 @@
+--2020-03-02 01:42:26--  http://www.epcv.cv/assets/files/oferta_formativa/organizacao_curricular_e_programas_1_ciclo_est_meio.pdf
+Resolving www.epcv.cv (www.epcv.cv)... 192.185.134.13
+Connecting to www.epcv.cv (www.epcv.cv)|192.185.134.13|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101778 (99K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 50% 1.70M 0s
+    50K .......... .......... .......... .......... ......... 100% 2.23M=0.4s
+
+2020-03-02 01:42:27 (1.92 Mb/s) - ‘/dev/null’ saved [101778/101778]
+

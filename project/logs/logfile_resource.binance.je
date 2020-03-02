@@ -1,0 +1,17 @@
+--2020-03-02 05:21:45--  http://resource.binance.je/images/201906/SourceofFundsDeclarationBJELApr2019.pdf
+Resolving resource.binance.je (resource.binance.je)... 99.86.3.116, 99.86.3.44, 99.86.3.127, ...
+Connecting to resource.binance.je (resource.binance.je)|99.86.3.116|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://resource.binance.je/images/201906/SourceofFundsDeclarationBJELApr2019.pdf [following]
+--2020-03-02 05:21:45--  https://resource.binance.je/images/201906/SourceofFundsDeclarationBJELApr2019.pdf
+Connecting to resource.binance.je (resource.binance.je)|99.86.3.116|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 123208 (120K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 8.76M 0s
+    50K .......... .......... .......... .......... .......... 83% 27.1M 0s
+   100K .......... ..........                                 100% 19.9M=0.07s
+
+2020-03-02 05:21:46 (14.0 Mb/s) - ‘/dev/null’ saved [123208/123208]
+

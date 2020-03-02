@@ -1,0 +1,11 @@
+--2020-03-02 07:30:28--  http://homepage.cem.itesm.mx/alesando/index_archivos/MetodolDisMejoraDeProcesos/LluviaDeIdeas.pdf
+Resolving homepage.cem.itesm.mx (homepage.cem.itesm.mx)... 148.241.3.46
+Connecting to homepage.cem.itesm.mx (homepage.cem.itesm.mx)|148.241.3.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33388 (33K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..                   100%  944K=0.3s
+
+2020-03-02 07:30:29 (944 Kb/s) - ‘/dev/null’ saved [33388/33388]
+

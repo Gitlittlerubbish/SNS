@@ -1,0 +1,15 @@
+--2020-03-02 03:03:38--  http://www.bradal.dk/pdf
+Resolving www.bradal.dk (www.bradal.dk)... 89.188.85.154
+Connecting to www.bradal.dk (www.bradal.dk)|89.188.85.154|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bradal.dk/pdf [following]
+--2020-03-02 03:03:38--  https://www.bradal.dk/pdf
+Connecting to www.bradal.dk (www.bradal.dk)|89.188.85.154|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46589 (45K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....     100% 8.38M=0.04s
+
+2020-03-02 03:03:39 (8.38 Mb/s) - ‘/dev/null’ saved [46589/46589]
+

@@ -1,0 +1,11 @@
+--2020-03-02 05:08:38--  http://www.didatticanda.it/mater_gener/exemples_sujets_debats_oral.pdf
+Resolving www.didatticanda.it (www.didatticanda.it)... 31.11.33.76
+Connecting to www.didatticanda.it (www.didatticanda.it)|31.11.33.76|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34804 (34K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                  100% 4.42M=0.06s
+
+2020-03-02 05:08:38 (4.42 Mb/s) - ‘/dev/null’ saved [34804/34804]
+

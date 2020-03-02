@@ -1,0 +1,19 @@
+--2020-03-02 03:47:01--  http://www.lolivier.fr/documents/constat-amiable.pdf
+Resolving www.lolivier.fr (www.lolivier.fr)... 82.223.249.148
+Connecting to www.lolivier.fr (www.lolivier.fr)|82.223.249.148|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lolivier.fr/documents/constat-amiable.pdf [following]
+--2020-03-02 03:47:01--  https://www.lolivier.fr/documents/constat-amiable.pdf
+Connecting to www.lolivier.fr (www.lolivier.fr)|82.223.249.148|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 227312 (222K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 3.77M 0s
+    50K .......... .......... .......... .......... .......... 45% 11.5M 0s
+   100K .......... .......... .......... .......... .......... 67%  246M 0s
+   150K .......... .......... .......... .......... .......... 90% 67.5M 0s
+   200K .......... .......... .                               100% 6.49M=0.2s
+
+2020-03-02 03:47:01 (10.1 Mb/s) - ‘/dev/null’ saved [227312/227312]
+

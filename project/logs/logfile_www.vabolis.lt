@@ -1,0 +1,11 @@
+--2020-03-02 06:26:08--  http://www.vabolis.lt/stuff/RFID_lock_keypad_manual.pdf
+Resolving www.vabolis.lt (www.vabolis.lt)... 88.119.154.29
+Connecting to www.vabolis.lt (www.vabolis.lt)|88.119.154.29|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15256 (15K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ....                                       100% 2.09M=0.06s
+
+2020-03-02 06:26:08 (2.09 Mb/s) - ‘/dev/null’ saved [15256/15256]
+

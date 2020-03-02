@@ -1,0 +1,22 @@
+--2020-03-02 07:28:56--  http://www.imss.gob.mx/sites/all/statics/guiasclinicas/602GRR.pdf
+Resolving www.imss.gob.mx (www.imss.gob.mx)... 201.175.10.169
+Connecting to www.imss.gob.mx (www.imss.gob.mx)|201.175.10.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         365M=0s
+
+2020-03-02 07:28:57 (365 Mb/s) - ‘/dev/null’ saved [730]
+
+--2020-03-02 07:28:57--  http://www.imss.gob.mx/sites/all/statics/guiasclinicas/632GRR.pdf
+Resolving www.imss.gob.mx (www.imss.gob.mx)... 201.175.10.169
+Connecting to www.imss.gob.mx (www.imss.gob.mx)|201.175.10.169|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                         389M=0s
+
+2020-03-02 07:28:58 (389 Mb/s) - ‘/dev/null’ saved [730]
+

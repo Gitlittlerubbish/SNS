@@ -1,0 +1,13 @@
+--2020-03-02 03:03:02--  http://www.slzt.cz/dokumenty/pokyny_clanek_13.pdf
+Resolving www.slzt.cz (www.slzt.cz)... 93.185.98.151
+Connecting to www.slzt.cz (www.slzt.cz)|93.185.98.151|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.86M
+    50K .......... .......... .......... .......... .......... 12.2M
+   100K .......... .......... .......... ....                   131M=0.1s
+
+2020-03-02 03:03:02 (10.4 Mb/s) - ‘/dev/null’ saved [137631]
+

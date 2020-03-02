@@ -1,0 +1,11 @@
+--2020-03-02 08:32:52--  http://www.primaryhealthresponse.org.nz/previous_event/cdc-ppe-sequence/
+Resolving www.primaryhealthresponse.org.nz (www.primaryhealthresponse.org.nz)... 202.124.103.92
+Connecting to www.primaryhealthresponse.org.nz (www.primaryhealthresponse.org.nz)|202.124.103.92|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ........                                     480K=0.3s
+
+2020-03-02 08:32:53 (480 Kb/s) - ‘/dev/null’ saved [18945]
+

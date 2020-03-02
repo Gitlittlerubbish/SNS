@@ -1,0 +1,11 @@
+--2020-03-02 03:52:04--  http://setugu.ga/792media.pdf
+Resolving setugu.ga (setugu.ga)... 195.20.53.176
+Connecting to setugu.ga (setugu.ga)|195.20.53.176|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 633 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  563M=0s
+
+2020-03-02 03:52:05 (563 Mb/s) - ‘/dev/null’ saved [633/633]
+

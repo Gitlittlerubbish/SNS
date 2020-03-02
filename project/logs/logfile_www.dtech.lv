@@ -1,0 +1,12 @@
+--2020-03-02 06:13:54--  http://www.dtech.lv/pdf/vkn_etp_basics3e.pdf
+Resolving www.dtech.lv (www.dtech.lv)... 89.111.52.138
+Connecting to www.dtech.lv (www.dtech.lv)|89.111.52.138|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91823 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 4.26M 0s
+    50K .......... .......... .......... .........            100% 55.3M=0.1s
+
+2020-03-02 06:13:54 (7.20 Mb/s) - ‘/dev/null’ saved [91823/91823]
+

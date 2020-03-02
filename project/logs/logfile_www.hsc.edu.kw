@@ -1,0 +1,22 @@
+--2020-03-02 06:04:02--  http://www.hsc.edu.kw/employment/fahs/Health_Information_Administration.pdf
+Resolving www.hsc.edu.kw (www.hsc.edu.kw)... 139.141.91.9
+Connecting to www.hsc.edu.kw (www.hsc.edu.kw)|139.141.91.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35919 (35K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .....                100%  495K=0.6s
+
+2020-03-02 06:04:03 (495 Kb/s) - ‘/dev/null’ saved [35919/35919]
+
+--2020-03-02 06:04:18--  http://www.hsc.edu.kw/employment/fahs/Health_Information_Administration.pdf
+Resolving www.hsc.edu.kw (www.hsc.edu.kw)... 139.141.91.9
+Connecting to www.hsc.edu.kw (www.hsc.edu.kw)|139.141.91.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 35919 (35K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .....                100% 2.31M=0.1s
+
+2020-03-02 06:04:18 (2.31 Mb/s) - ‘/dev/null’ saved [35919/35919]
+

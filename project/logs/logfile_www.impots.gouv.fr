@@ -1,0 +1,19 @@
+--2020-03-02 03:46:35--  http://www.impots.gouv.fr/portail/1metier1particulierev5patrimoinelogement510calculidlseuilsrfr2016th2017pdf
+Resolving www.impots.gouv.fr (www.impots.gouv.fr)... 152.199.19.61
+Connecting to www.impots.gouv.fr (www.impots.gouv.fr)|152.199.19.61|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.impots.gouv.fr/portail/1metier1particulierev5patrimoinelogement510calculidlseuilsrfr2016th2017pdf [following]
+--2020-03-02 03:46:35--  https://www.impots.gouv.fr/portail/1metier1particulierev5patrimoinelogement510calculidlseuilsrfr2016th2017pdf
+Connecting to www.impots.gouv.fr (www.impots.gouv.fr)|152.199.19.61|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /portail/files/media/1_metier/1_particulier/EV/5_patrimoine_logement/510_calcul_idl/limite_seuil_lf2019.pdf [following]
+--2020-03-02 03:46:35--  https://www.impots.gouv.fr/portail/files/media/1_metier/1_particulier/EV/5_patrimoine_logement/510_calcul_idl/limite_seuil_lf2019.pdf
+Reusing existing connection to www.impots.gouv.fr:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........   17.9M=0.02s
+
+2020-03-02 03:46:35 (17.9 Mb/s) - ‘/dev/null’ saved [50166]
+

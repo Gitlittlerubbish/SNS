@@ -1,0 +1,16 @@
+--2020-03-02 04:09:17--  http://apografi.gov.gr/images/Evaluation_Manual_Finalization_guide_OCT2018_VERSION_III.pdf
+Resolving apografi.gov.gr (apografi.gov.gr)... 84.205.254.114
+Connecting to apografi.gov.gr (apografi.gov.gr)|84.205.254.114|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 263746 (258K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 4.05M 0s
+    50K .......... .......... .......... .......... .......... 38% 4.32M 0s
+   100K .......... .......... .......... .......... .......... 58%  920M 0s
+   150K .......... .......... .......... .......... .......... 77% 77.8M 0s
+   200K .......... .......... .......... .......... .......... 97% 8.80M 0s
+   250K .......                                               100% 74.2M=0.2s
+
+2020-03-02 04:09:17 (8.47 Mb/s) - ‘/dev/null’ saved [263746/263746]
+

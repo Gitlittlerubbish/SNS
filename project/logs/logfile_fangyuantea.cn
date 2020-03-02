@@ -1,0 +1,14 @@
+--2020-03-02 02:13:10--  http://fangyuantea.cn/factsheets/l_cyhalogen.pdf
+Resolving fangyuantea.cn (fangyuantea.cn)... 156.253.19.83
+Connecting to fangyuantea.cn (fangyuantea.cn)|156.253.19.83|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 154624 (151K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 72.8K 11s
+    50K .......... .......... .......... .......... .......... 66%  114K 5s
+   100K .......... .......... .......... .......... .......... 99% 95.3K 0s
+   150K .                                                     100%  164K=14s
+
+2020-03-02 02:13:24 (91.5 Kb/s) - ‘/dev/null’ saved [154624/154624]
+

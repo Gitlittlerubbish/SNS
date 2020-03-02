@@ -1,0 +1,42 @@
+--2020-03-02 05:24:15--  http://rhas.org.jo/Photos/ar5f370555-16c1-413d-9185-bcc982a563da.pdf
+Resolving rhas.org.jo (rhas.org.jo)... 191.233.108.131
+Connecting to rhas.org.jo (rhas.org.jo)|191.233.108.131|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://rhas.org.jo/Photos/ar5f370555-16c1-413d-9185-bcc982a563da.pdf [following]
+--2020-03-02 05:24:16--  https://rhas.org.jo/Photos/ar5f370555-16c1-413d-9185-bcc982a563da.pdf
+Connecting to rhas.org.jo (rhas.org.jo)|191.233.108.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 332329 (325K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 16.1M 0s
+    50K .......... .......... .......... .......... .......... 30%  124M 0s
+   100K .......... .......... .......... .......... .......... 46% 30.8M 0s
+   150K .......... .......... .......... .......... .......... 61% 36.3M 0s
+   200K .......... .......... .......... .......... .......... 77%  309M 0s
+   250K .......... .......... .......... .......... .......... 92%  139M 0s
+   300K .......... .......... ....                            100% 21.7M=0.07s
+
+2020-03-02 05:24:16 (39.8 Mb/s) - ‘/dev/null’ saved [332329/332329]
+
+--2020-03-02 05:24:16--  http://rhas.org.jo/Photos/ar2d7f696b-0ca2-45bc-bf65-d5ea9166a965.pdf
+Resolving rhas.org.jo (rhas.org.jo)... 191.233.108.131
+Connecting to rhas.org.jo (rhas.org.jo)|191.233.108.131|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://rhas.org.jo/Photos/ar2d7f696b-0ca2-45bc-bf65-d5ea9166a965.pdf [following]
+--2020-03-02 05:24:17--  https://rhas.org.jo/Photos/ar2d7f696b-0ca2-45bc-bf65-d5ea9166a965.pdf
+Connecting to rhas.org.jo (rhas.org.jo)|191.233.108.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 329374 (322K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 14.7M 0s
+    50K .......... .......... .......... .......... .......... 31%  157M 0s
+   100K .......... .......... .......... .......... .......... 46% 27.6M 0s
+   150K .......... .......... .......... .......... .......... 62% 27.7M 0s
+   200K .......... .......... .......... .......... .......... 77%  659M 0s
+   250K .......... .......... .......... .......... .......... 93%  268M 0s
+   300K .......... .......... .                               100%  814M=0.06s
+
+2020-03-02 05:24:17 (42.2 Mb/s) - ‘/dev/null’ saved [329374/329374]
+

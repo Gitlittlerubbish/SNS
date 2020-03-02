@@ -1,0 +1,16 @@
+--2020-03-02 04:39:20--  http://www.mr.is/efn/L_LOTUKE.PDF
+Resolving www.mr.is (www.mr.is)... 176.10.32.1
+Connecting to www.mr.is (www.mr.is)|176.10.32.1|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mr.is/efn/L_LOTUKE.PDF [following]
+--2020-03-02 04:39:21--  https://www.mr.is/efn/L_LOTUKE.PDF
+Connecting to www.mr.is (www.mr.is)|176.10.32.1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 98730 (96K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 8.78M 0s
+    50K .......... .......... .......... .......... ......    100% 9.78M=0.09s
+
+2020-03-02 04:39:21 (9.24 Mb/s) - ‘/dev/null’ saved [98730/98730]
+

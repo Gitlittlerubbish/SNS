@@ -1,0 +1,13 @@
+--2020-03-02 01:53:37--  http://consulting.ky/free_project_management_templates/Generic_Project_Management_Methodology4.pdf
+Resolving consulting.ky (consulting.ky)... 198.38.76.114
+Connecting to consulting.ky (consulting.ky)|198.38.76.114|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 109044 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 2.15M 0s
+    50K .......... .......... .......... .......... .......... 93% 2.14M 0s
+   100K ......                                                100%  146M=0.4s
+
+2020-03-02 01:53:37 (2.28 Mb/s) - ‘/dev/null’ saved [109044/109044]
+

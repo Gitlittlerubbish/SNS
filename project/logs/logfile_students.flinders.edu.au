@@ -1,0 +1,16 @@
+--2020-03-01 23:38:08--  http://students.flinders.edu.au/content/dam/student/slc/case-studies.pdf
+Resolving students.flinders.edu.au (students.flinders.edu.au)... 143.204.192.21, 143.204.192.4, 143.204.192.110, ...
+Connecting to students.flinders.edu.au (students.flinders.edu.au)|143.204.192.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://students.flinders.edu.au/content/dam/student/slc/case-studies.pdf [following]
+--2020-03-01 23:38:09--  https://students.flinders.edu.au/content/dam/student/slc/case-studies.pdf
+Connecting to students.flinders.edu.au (students.flinders.edu.au)|143.204.192.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81385 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62% 1.50M 0s
+    50K .......... .......... .........                       100%  290M=0.3s
+
+2020-03-01 23:38:10 (2.38 Mb/s) - ‘/dev/null’ saved [81385/81385]
+

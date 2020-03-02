@@ -1,0 +1,50 @@
+--2020-03-02 04:13:18--  http://www.thyssenkrupp.com.gt/noticia/download/683/
+Resolving www.thyssenkrupp.com.gt (www.thyssenkrupp.com.gt)... 186.202.143.4
+Connecting to www.thyssenkrupp.com.gt (www.thyssenkrupp.com.gt)|186.202.143.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.thyssenkrupp.com.gt/noticia/download/683/ [following]
+--2020-03-02 04:13:19--  https://www.thyssenkrupp.com.gt/noticia/download/683/
+Connecting to www.thyssenkrupp.com.gt (www.thyssenkrupp.com.gt)|186.202.143.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 174713 (171K) [application/download]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29%  786K 1s
+    50K .......... .......... .......... .......... .......... 58% 1.58M 1s
+   100K .......... .......... .......... .......... .......... 87%  123M 0s
+   150K .......... ..........                                 100%  261K=1.4s
+
+2020-03-02 04:13:22 (976 Kb/s) - ‘/dev/null’ saved [174713/174713]
+
+--2020-03-02 04:13:51--  http://www.thyssenkrupp.com.gt/es/downloads/download/126/
+Resolving www.thyssenkrupp.com.gt (www.thyssenkrupp.com.gt)... 186.202.143.4
+Connecting to www.thyssenkrupp.com.gt (www.thyssenkrupp.com.gt)|186.202.143.4|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.thyssenkrupp.com.gt/es/downloads/download/126/ [following]
+--2020-03-02 04:13:51--  https://www.thyssenkrupp.com.gt/es/downloads/download/126/
+Connecting to www.thyssenkrupp.com.gt (www.thyssenkrupp.com.gt)|186.202.143.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 893595 (873K) [application/download]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 1.54M 4s
+    50K .......... .......... .......... .......... .......... 11% 1.56M 4s
+   100K .......... .......... .......... .......... .......... 17% 94.6M 3s
+   150K .......... .......... .......... .......... .......... 22%  683K 4s
+   200K .......... .......... .......... .......... .......... 28%  259K 7s
+   250K .......... .......... .......... .......... .......... 34%  715K 6s
+   300K .......... .......... .......... .......... .......... 40% 1.55M 5s
+   350K .......... .......... .......... .......... .......... 45% 1.56M 5s
+   400K .......... .......... .......... .......... .......... 51% 1.55M 4s
+   450K .......... .......... .......... .......... .......... 57%  777K 3s
+   500K .......... .......... .......... .......... .......... 63% 1.54M 3s
+   550K .......... .......... .......... .......... .......... 68% 1.55M 2s
+   600K .......... .......... .......... .......... .......... 74% 1.55M 2s
+   650K .......... .......... .......... .......... .......... 80% 1.55M 1s
+   700K .......... .......... .......... .......... .......... 85% 1.55M 1s
+   750K .......... .......... .......... .......... .......... 91% 1.56M 1s
+   800K .......... .......... .......... .......... .......... 97% 1.55M 0s
+   850K .......... .......... ..                              100% 84.0M=6.5s
+
+2020-03-02 04:14:00 (1.11 Mb/s) - ‘/dev/null’ saved [893595/893595]
+

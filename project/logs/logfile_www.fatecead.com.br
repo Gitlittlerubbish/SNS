@@ -1,0 +1,12 @@
+--2020-03-02 01:08:58--  http://www.fatecead.com.br/ativas/parte11/texto11_01.pdf
+Resolving www.fatecead.com.br (www.fatecead.com.br)... 188.93.231.95
+Connecting to www.fatecead.com.br (www.fatecead.com.br)|188.93.231.95|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81008 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 5.50M 0s
+    50K .......... .......... .........                       100% 75.7M=0.08s
+
+2020-03-02 01:08:59 (8.35 Mb/s) - ‘/dev/null’ saved [81008/81008]
+

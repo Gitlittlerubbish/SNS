@@ -1,0 +1,19 @@
+--2020-03-02 05:19:22--  http://www.netbk.co.jp/contents/resources/pdf/pr/20200203_fs.pdf
+Resolving www.netbk.co.jp (www.netbk.co.jp)... 2.19.159.5
+Connecting to www.netbk.co.jp (www.netbk.co.jp)|2.19.159.5|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.netbk.co.jp/contents/resources/pdf/pr/20200203_fs.pdf [following]
+--2020-03-02 05:19:22--  https://www.netbk.co.jp/contents/resources/pdf/pr/20200203_fs.pdf
+Connecting to www.netbk.co.jp (www.netbk.co.jp)|2.19.159.5|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207531 (203K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 34.2M 0s
+    50K .......... .......... .......... .......... .......... 49% 9.32M 0s
+   100K .......... .......... .......... .......... .......... 74% 2.35M 0s
+   150K .......... .......... .......... .......... .......... 98% 13.2M 0s
+   200K ..                                                    100%  437K=0.3s
+
+2020-03-02 05:19:22 (6.36 Mb/s) - ‘/dev/null’ saved [207531/207531]
+

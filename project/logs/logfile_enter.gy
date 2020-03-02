@@ -1,0 +1,24 @@
+--2020-03-02 04:17:16--  http://enter.gy/6046DAcxw
+Resolving enter.gy (enter.gy)... 184.72.243.192
+Connecting to enter.gy (enter.gy)|184.72.243.192|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.nrc.gov/reading-rm/doc-collections/news/2018/18-047.pdf [following]
+--2020-03-02 04:17:16--  https://www.nrc.gov/reading-rm/doc-collections/news/2018/18-047.pdf
+Resolving www.nrc.gov (www.nrc.gov)... 23.43.76.37
+Connecting to www.nrc.gov (www.nrc.gov)|23.43.76.37|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: /docs/ML1828/ML18288A152.pdf [following]
+--2020-03-02 04:17:16--  https://www.nrc.gov/docs/ML1828/ML18288A152.pdf
+Reusing existing connection to www.nrc.gov:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 214747 (210K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 1.83M 1s
+    50K .......... .......... .......... .......... .......... 47%  123M 0s
+   100K .......... .......... .......... .......... .......... 71% 3.81M 0s
+   150K .......... .......... .......... .......... .......... 95%  224M 0s
+   200K .........                                             100%  959M=0.3s
+
+2020-03-02 04:17:16 (5.10 Mb/s) - ‘/dev/null’ saved [214747/214747]
+

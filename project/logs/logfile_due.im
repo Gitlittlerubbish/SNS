@@ -1,0 +1,21 @@
+--2020-03-02 05:03:08--  http://due.im/short/7WH
+Resolving due.im (due.im)... 192.40.115.79
+Connecting to due.im (due.im)|192.40.115.79|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.ftc.gov/system/files/documents/public_events/1415032/privacycon2019_serge_egelman.pdf [following]
+--2020-03-02 05:03:08--  https://www.ftc.gov/system/files/documents/public_events/1415032/privacycon2019_serge_egelman.pdf
+Resolving www.ftc.gov (www.ftc.gov)... 184.87.181.214
+Connecting to www.ftc.gov (www.ftc.gov)|184.87.181.214|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283787 (277K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 57.3M 0s
+    50K .......... .......... .......... .......... .......... 36% 51.1M 0s
+   100K .......... .......... .......... .......... .......... 54%  141M 0s
+   150K .......... .......... .......... .......... .......... 72%  120M 0s
+   200K .......... .......... .......... .......... .......... 90%  125M 0s
+   250K .......... .......... .......                         100% 60.3M=0.03s
+
+2020-03-02 05:03:08 (79.8 Mb/s) - ‘/dev/null’ saved [283787/283787]
+

@@ -1,0 +1,24 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:06:04--  https://www.fnbbotswana.co.bw/downloads/1965W_FNB_eBucks_Rewards_FAQs.pdf
+Resolving www.fnbbotswana.co.bw (www.fnbbotswana.co.bw)... 196.11.125.150
+Connecting to www.fnbbotswana.co.bw (www.fnbbotswana.co.bw)|196.11.125.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40465 (40K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .........            100% 1.79M=0.2s
+
+2020-03-02 01:06:05 (1.79 Mb/s) - ‘/dev/null’ saved [40465/40465]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 01:06:05--  https://www.fnbbotswana.co.bw/downloads/Glossary_Reference.pdf
+Resolving www.fnbbotswana.co.bw (www.fnbbotswana.co.bw)... 196.11.125.150
+Connecting to www.fnbbotswana.co.bw (www.fnbbotswana.co.bw)|196.11.125.150|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10278 (10K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K ..........                                            100%  653M=0s
+
+2020-03-02 01:06:06 (653 Mb/s) - ‘/dev/null’ saved [10278/10278]
+

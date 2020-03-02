@@ -1,0 +1,35 @@
+--2020-03-02 02:52:11--  http://sicogi.ci/assets/fournisseur.pdf
+Resolving sicogi.ci (sicogi.ci)... 62.210.249.95
+Connecting to sicogi.ci (sicogi.ci)|62.210.249.95|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sicogi.net/assets/fournisseur.pdf [following]
+--2020-03-02 02:52:11--  http://www.sicogi.net/assets/fournisseur.pdf
+Resolving www.sicogi.net (www.sicogi.net)... 109.234.164.30
+Connecting to www.sicogi.net (www.sicogi.net)|109.234.164.30|:80... connected.
+HTTP request sent, awaiting response... 307 Temporary Redirect
+Location: http://www.sicogi.net/assets/fournisseur.pdf [following]
+--2020-03-02 02:52:12--  http://www.sicogi.net/assets/fournisseur.pdf
+Reusing existing connection to www.sicogi.net:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 772928 (755K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  6% 8.64M 1s
+    50K .......... .......... .......... .......... .......... 13% 16.7M 0s
+   100K .......... .......... .......... .......... .......... 19%  122M 0s
+   150K .......... .......... .......... .......... .......... 26%  239M 0s
+   200K .......... .......... .......... .......... .......... 33% 17.2M 0s
+   250K .......... .......... .......... .......... .......... 39%  146M 0s
+   300K .......... .......... .......... .......... .......... 46% 25.2M 0s
+   350K .......... .......... .......... .......... .......... 52%  136M 0s
+   400K .......... .......... .......... .......... .......... 59% 33.0M 0s
+   450K .......... .......... .......... .......... .......... 66%  212M 0s
+   500K .......... .......... .......... .......... .......... 72% 38.9M 0s
+   550K .......... .......... .......... .......... .......... 79%  222M 0s
+   600K .......... .......... .......... .......... .......... 86%  343M 0s
+   650K .......... .......... .......... .......... .......... 92% 35.1M 0s
+   700K .......... .......... .......... .......... .......... 99% 67.5M 0s
+   750K ....                                                  100%  788K=0.2s
+
+2020-03-02 02:52:12 (36.7 Mb/s) - ‘/dev/null’ saved [772928/772928]
+

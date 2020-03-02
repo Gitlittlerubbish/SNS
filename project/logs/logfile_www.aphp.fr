@@ -1,0 +1,25 @@
+--2020-03-02 03:46:24--  http://www.aphp.fr/node/5719
+Resolving www.aphp.fr (www.aphp.fr)... 212.31.129.10
+Connecting to www.aphp.fr (www.aphp.fr)|212.31.129.10|:80... connected.
+HTTP request sent, awaiting response... 307 Moved Temporarily
+Location: https://www.aphp.fr/node/5719/? [following]
+--2020-03-02 03:46:24--  https://www.aphp.fr/node/5719/?
+Connecting to www.aphp.fr (www.aphp.fr)|212.31.129.10|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.aphp.fr/contenu/declaration-publique-dinteret-de-sylvie-rio [following]
+--2020-03-02 03:46:25--  https://www.aphp.fr/contenu/declaration-publique-dinteret-de-sylvie-rio
+Reusing existing connection to www.aphp.fr:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.aphp.fr/file/5676/download?token=Mg9Gfz1N [following]
+--2020-03-02 03:46:25--  https://www.aphp.fr/file/5676/download?token=Mg9Gfz1N
+Reusing existing connection to www.aphp.fr:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 124308 (121K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 15.3M 0s
+    50K .......... .......... .......... .......... .......... 82% 33.6M 0s
+   100K .......... .......... .                               100% 16.9M=0.05s
+
+2020-03-02 03:46:26 (20.2 Mb/s) - ‘/dev/null’ saved [124308/124308]
+

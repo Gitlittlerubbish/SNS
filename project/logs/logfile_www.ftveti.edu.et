@@ -1,0 +1,22 @@
+--2020-03-02 03:32:43--  http://www.ftveti.edu.et/other_info.pdf
+Resolving www.ftveti.edu.et (www.ftveti.edu.et)... 197.156.85.78
+Connecting to www.ftveti.edu.et (www.ftveti.edu.et)|197.156.85.78|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ftveti.edu.et/other_info.pdf [following]
+--2020-03-02 03:32:44--  https://www.ftveti.edu.et/other_info.pdf
+Connecting to www.ftveti.edu.et (www.ftveti.edu.et)|197.156.85.78|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 384815 (376K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 1.54M 2s
+    50K .......... .......... .......... .......... .......... 26% 3.15M 1s
+   100K .......... .......... .......... .......... .......... 39% 49.9M 1s
+   150K .......... .......... .......... .......... .......... 53% 4.12M 0s
+   200K .......... .......... .......... .......... .......... 66% 12.6M 0s
+   250K .......... .......... .......... .......... .......... 79%  108M 0s
+   300K .......... .......... .......... .......... .......... 93% 3.41M 0s
+   350K .......... .......... .....                           100%  204M=0.7s
+
+2020-03-02 03:32:45 (4.65 Mb/s) - ‘/dev/null’ saved [384815/384815]
+

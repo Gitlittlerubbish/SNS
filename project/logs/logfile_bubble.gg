@@ -1,0 +1,15 @@
+--2020-03-02 04:15:33--  http://bubble.gg/home.pdf
+Resolving bubble.gg (bubble.gg)... 104.28.19.108, 104.28.18.108
+Connecting to bubble.gg (bubble.gg)|104.28.19.108|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bubble.gg/home.pdf [following]
+--2020-03-02 04:15:33--  https://bubble.gg/home.pdf
+Connecting to bubble.gg (bubble.gg)|104.28.19.108|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                        87.7M=0s
+
+2020-03-02 04:15:33 (87.7 Mb/s) - ‘/dev/null’ saved [263]
+

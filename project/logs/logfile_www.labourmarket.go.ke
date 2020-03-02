@@ -1,0 +1,21 @@
+--2020-03-02 05:32:13--  http://www.labourmarket.go.ke/media/resources/The_International_Labour_Organizations_Fundamental_Conventions.pdf
+Resolving www.labourmarket.go.ke (www.labourmarket.go.ke)... 41.204.161.196
+Connecting to www.labourmarket.go.ke (www.labourmarket.go.ke)|41.204.161.196|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.labourmarket.go.ke/media/resources/The_International_Labour_Organizations_Fundamental_Conventions.pdf [following]
+--2020-03-02 05:32:13--  https://www.labourmarket.go.ke/media/resources/The_International_Labour_Organizations_Fundamental_Conventions.pdf
+Connecting to www.labourmarket.go.ke (www.labourmarket.go.ke)|41.204.161.196|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 322332 (315K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 1.25M 2s
+    50K .......... .......... .......... .......... .......... 31% 2.55M 1s
+   100K .......... .......... .......... .......... .......... 47%  121M 1s
+   150K .......... .......... .......... .......... .......... 63%  113M 0s
+   200K .......... .......... .......... .......... .......... 79% 2.52M 0s
+   250K .......... .......... .......... .......... .......... 95%  110M 0s
+   300K .......... ....                                       100% 1.10G=0.7s
+
+2020-03-02 05:32:14 (3.90 Mb/s) - ‘/dev/null’ saved [322332/322332]
+

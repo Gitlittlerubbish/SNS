@@ -1,0 +1,14 @@
+--2020-03-02 03:56:57--  http://www.gfma.ge/documents/Hematologia.pdf
+Resolving www.gfma.ge (www.gfma.ge)... 213.157.205.164
+Connecting to www.gfma.ge (www.gfma.ge)|213.157.205.164|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188176 (184K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 2.95M 0s
+    50K .......... .......... .......... .......... .......... 54% 5.80M 0s
+   100K .......... .......... .......... .......... .......... 81% 5.78M 0s
+   150K .......... .......... .......... ...                  100% 4.02M=0.3s
+
+2020-03-02 03:56:58 (4.31 Mb/s) - ‘/dev/null’ saved [188176/188176]
+

@@ -1,0 +1,48 @@
+--2020-03-02 06:27:17--  http://www.mii.lt/informatics_in_education/pdf/INFE047.pdf
+Resolving www.mii.lt (www.mii.lt)... 158.129.140.130
+Connecting to www.mii.lt (www.mii.lt)|158.129.140.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mii.lt/informatics_in_education/pdf/INFE047.pdf [following]
+--2020-03-02 06:27:17--  https://www.mii.lt/informatics_in_education/pdf/INFE047.pdf
+Connecting to www.mii.lt (www.mii.lt)|158.129.140.130|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94213 (92K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54% 4.81M 0s
+    50K .......... .......... .......... .......... ..        100%  274M=0.09s
+
+2020-03-02 06:27:18 (8.72 Mb/s) - ‘/dev/null’ saved [94213/94213]
+
+--2020-03-02 06:27:20--  http://www.mii.lt/informatics_in_education/pdf/INFE062.pdf
+Resolving www.mii.lt (www.mii.lt)... 158.129.140.130
+Connecting to www.mii.lt (www.mii.lt)|158.129.140.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mii.lt/informatics_in_education/pdf/INFE062.pdf [following]
+--2020-03-02 06:27:20--  https://www.mii.lt/informatics_in_education/pdf/INFE062.pdf
+Connecting to www.mii.lt (www.mii.lt)|158.129.140.130|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86747 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 4.77M 0s
+    50K .......... .......... .......... ....                 100%  512M=0.09s
+
+2020-03-02 06:27:21 (8.02 Mb/s) - ‘/dev/null’ saved [86747/86747]
+
+--2020-03-02 06:27:45--  http://www.mii.lt/informatics_in_education/pdf/INFE062.pdf
+Resolving www.mii.lt (www.mii.lt)... 158.129.140.130
+Connecting to www.mii.lt (www.mii.lt)|158.129.140.130|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mii.lt/informatics_in_education/pdf/INFE062.pdf [following]
+--2020-03-02 06:27:45--  https://www.mii.lt/informatics_in_education/pdf/INFE062.pdf
+Connecting to www.mii.lt (www.mii.lt)|158.129.140.130|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86747 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 4.81M 0s
+    50K .......... .......... .......... ....                 100%  167M=0.09s
+
+2020-03-02 06:27:45 (8.00 Mb/s) - ‘/dev/null’ saved [86747/86747]
+

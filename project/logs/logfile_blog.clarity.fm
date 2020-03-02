@@ -1,0 +1,32 @@
+--2020-03-02 07:34:50--  http://blog.clarity.fm/perfect_qrqc_les_fondations.pdf
+Resolving blog.clarity.fm (blog.clarity.fm)... 130.211.144.212
+Connecting to blog.clarity.fm (blog.clarity.fm)|130.211.144.212|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://clarity.fm/perfect_qrqc_les_fondations.pdf [following]
+--2020-03-02 07:34:50--  https://clarity.fm/perfect_qrqc_les_fondations.pdf
+Resolving clarity.fm (clarity.fm)... 130.211.144.212
+Connecting to clarity.fm (clarity.fm)|130.211.144.212|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...                                         1.09M=0.1s
+
+2020-03-02 07:34:52 (1.09 Mb/s) - ‘/dev/null’ saved [13324]
+
+--2020-03-02 07:34:52--  http://blog.clarity.fm/cisco_ccda_simplified.pdf
+Resolving blog.clarity.fm (blog.clarity.fm)... 130.211.144.212
+Connecting to blog.clarity.fm (blog.clarity.fm)|130.211.144.212|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://clarity.fm/cisco_ccda_simplified.pdf [following]
+--2020-03-02 07:34:52--  https://clarity.fm/cisco_ccda_simplified.pdf
+Resolving clarity.fm (clarity.fm)... 130.211.144.212
+Connecting to clarity.fm (clarity.fm)|130.211.144.212|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... ...                                         1.04M=0.1s
+
+2020-03-02 07:34:53 (1.04 Mb/s) - ‘/dev/null’ saved [13324]
+

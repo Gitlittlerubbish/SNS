@@ -1,0 +1,11 @@
+--2020-03-02 07:58:06--  http://www.ciuem.mz/images/cisco_tabela_de_precos_2014.pdf
+Resolving www.ciuem.mz (www.ciuem.mz)... 196.3.96.206
+Connecting to www.ciuem.mz (www.ciuem.mz)|196.3.96.206|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 46303 (45K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .....     100% 1.00M=0.4s
+
+2020-03-02 07:58:07 (1.00 Mb/s) - ‘/dev/null’ saved [46303/46303]
+

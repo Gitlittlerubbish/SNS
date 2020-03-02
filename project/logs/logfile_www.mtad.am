@@ -1,0 +1,12 @@
+--2020-03-01 23:24:56--  http://www.mtad.am/files/docs/1053.pdf
+Resolving www.mtad.am (www.mtad.am)... 91.221.229.155
+Connecting to www.mtad.am (www.mtad.am)|91.221.229.155|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85561 (84K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 2.24M 0s
+    50K .......... .......... .......... ...                  100% 3.08M=0.3s
+
+2020-03-01 23:24:57 (2.51 Mb/s) - ‘/dev/null’ saved [85561/85561]
+

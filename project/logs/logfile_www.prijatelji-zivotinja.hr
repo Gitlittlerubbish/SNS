@@ -1,0 +1,14 @@
+--2020-03-02 02:55:38--  http://www.prijatelji-zivotinja.hr/data/file_2728.pdf
+Resolving www.prijatelji-zivotinja.hr (www.prijatelji-zivotinja.hr)... 185.58.73.31
+Connecting to www.prijatelji-zivotinja.hr (www.prijatelji-zivotinja.hr)|185.58.73.31|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 176275 (172K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 4.16M 0s
+    50K .......... .......... .......... .......... .......... 58% 7.53M 0s
+   100K .......... .......... .......... .......... .......... 87%  353M 0s
+   150K .......... .......... ..                              100%  679M=0.2s
+
+2020-03-02 02:55:38 (9.15 Mb/s) - ‘/dev/null’ saved [176275/176275]
+

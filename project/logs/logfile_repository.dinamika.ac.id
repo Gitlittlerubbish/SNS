@@ -1,0 +1,14 @@
+--2020-03-02 04:50:14--  http://repository.dinamika.ac.id/id/eprint/980/4/BAB_II.pdf
+Resolving repository.dinamika.ac.id (repository.dinamika.ac.id)... 103.121.58.21
+Connecting to repository.dinamika.ac.id (repository.dinamika.ac.id)|103.121.58.21|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203126 (198K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25%  986K 1s
+    50K .......... .......... .......... .......... .......... 50% 1.97M 1s
+   100K .......... .......... .......... .......... .......... 75%  154M 0s
+   150K .......... .......... .......... .......... ........  100%  145M=0.6s
+
+2020-03-02 04:50:16 (2.59 Mb/s) - ‘/dev/null’ saved [203126/203126]
+

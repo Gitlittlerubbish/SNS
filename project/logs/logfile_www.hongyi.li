@@ -1,0 +1,46 @@
+--2020-03-02 06:25:51--  http://www.hongyi.li/papers/CompetitionEVT.pdf
+Resolving www.hongyi.li (www.hongyi.li)... 143.204.202.8, 143.204.202.105, 143.204.202.63, ...
+Connecting to www.hongyi.li (www.hongyi.li)|143.204.202.8|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hongyi.li/papers/CompetitionEVT.pdf [following]
+--2020-03-02 06:25:51--  https://www.hongyi.li/papers/CompetitionEVT.pdf
+Connecting to www.hongyi.li (www.hongyi.li)|143.204.202.8|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 460625 (450K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 18.9M 0s
+    50K .......... .......... .......... .......... .......... 22% 15.3M 0s
+   100K .......... .......... .......... .......... .......... 33% 23.7M 0s
+   150K .......... .......... .......... .......... .......... 44% 39.3M 0s
+   200K .......... .......... .......... .......... .......... 55% 44.7M 0s
+   250K .......... .......... .......... .......... .......... 66% 59.3M 0s
+   300K .......... .......... .......... .......... .......... 77% 33.9M 0s
+   350K .......... .......... .......... .......... .......... 88%  142M 0s
+   400K .......... .......... .......... .......... ......... 100%  115M=0.1s
+
+2020-03-02 06:25:52 (33.3 Mb/s) - ‘/dev/null’ saved [460625/460625]
+
+--2020-03-02 06:25:58--  http://www.hongyi.li/papers/CompetitionEVT.pdf
+Resolving www.hongyi.li (www.hongyi.li)... 143.204.202.105, 143.204.202.63, 143.204.202.107, ...
+Connecting to www.hongyi.li (www.hongyi.li)|143.204.202.105|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.hongyi.li/papers/CompetitionEVT.pdf [following]
+--2020-03-02 06:25:58--  https://www.hongyi.li/papers/CompetitionEVT.pdf
+Connecting to www.hongyi.li (www.hongyi.li)|143.204.202.105|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 460625 (450K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 19.9M 0s
+    50K .......... .......... .......... .......... .......... 22% 33.1M 0s
+   100K .......... .......... .......... .......... .......... 33% 73.3M 0s
+   150K .......... .......... .......... .......... .......... 44% 56.9M 0s
+   200K .......... .......... .......... .......... .......... 55% 53.9M 0s
+   250K .......... .......... .......... .......... .......... 66% 81.9M 0s
+   300K .......... .......... .......... .......... .......... 77% 57.9M 0s
+   350K .......... .......... .......... .......... .......... 88% 73.2M 0s
+   400K .......... .......... .......... .......... ......... 100%  278M=0.07s
+
+2020-03-02 06:25:59 (50.9 Mb/s) - ‘/dev/null’ saved [460625/460625]
+

@@ -1,0 +1,23 @@
+--2020-03-01 23:40:41--  http://atsilirn.aiatsis.gov.au/docs/ProtocolBrochure2012.pdf
+Resolving atsilirn.aiatsis.gov.au (atsilirn.aiatsis.gov.au)... 203.0.89.102
+Connecting to atsilirn.aiatsis.gov.au (atsilirn.aiatsis.gov.au)|203.0.89.102|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://atsilirn.aiatsis.gov.au/docs/ProtocolBrochure2012.pdf [following]
+--2020-03-01 23:40:42--  https://atsilirn.aiatsis.gov.au/docs/ProtocolBrochure2012.pdf
+Connecting to atsilirn.aiatsis.gov.au (atsilirn.aiatsis.gov.au)|203.0.89.102|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 449924 (439K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.31M 2s
+    50K .......... .......... .......... .......... .......... 22% 1.35M 2s
+   100K .......... .......... .......... .......... .......... 34% 1.34M 2s
+   150K .......... .......... .......... .......... .......... 45% 1.33M 1s
+   200K .......... .......... .......... .......... .......... 56%  133M 1s
+   250K .......... .......... .......... .......... .......... 68% 1.34M 1s
+   300K .......... .......... .......... .......... .......... 79%  459K 1s
+   350K .......... .......... .......... .......... .......... 91%  826M 0s
+   400K .......... .......... .......... .........            100% 1.34G=2.4s
+
+2020-03-01 23:40:46 (1.48 Mb/s) - ‘/dev/null’ saved [449924/449924]
+

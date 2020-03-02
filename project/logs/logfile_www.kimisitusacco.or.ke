@@ -1,0 +1,14 @@
+--2020-03-02 05:31:25--  http://www.kimisitusacco.or.ke/images/pdf/M_Kimisitu_App_and_USSD_Code_Procedure.pdf
+Resolving www.kimisitusacco.or.ke (www.kimisitusacco.or.ke)... 138.201.207.39
+Connecting to www.kimisitusacco.or.ke (www.kimisitusacco.or.ke)|138.201.207.39|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 203873 (199K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 8.37M 0s
+    50K .......... .......... .......... .......... .......... 50% 17.0M 0s
+   100K .......... .......... .......... .......... .......... 75% 17.6M 0s
+   150K .......... .......... .......... .......... ......... 100% 18.6M=0.1s
+
+2020-03-02 05:31:26 (13.8 Mb/s) - ‘/dev/null’ saved [203873/203873]
+

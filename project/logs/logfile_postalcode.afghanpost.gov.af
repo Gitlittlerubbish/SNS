@@ -1,0 +1,13 @@
+--2020-03-01 22:14:06--  http://postalcode.afghanpost.gov.af/codes/area-coverd1063.pdf
+Resolving postalcode.afghanpost.gov.af (postalcode.afghanpost.gov.af)... 103.132.98.11
+Connecting to postalcode.afghanpost.gov.af (postalcode.afghanpost.gov.af)|103.132.98.11|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 122914 (120K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 41% 1.25M 0s
+    50K .......... .......... .......... .......... .......... 83% 3.78M 0s
+   100K .......... ..........                                 100%  163M=0.4s
+
+2020-03-01 22:14:08 (2.25 Mb/s) - ‘/dev/null’ saved [122914/122914]
+

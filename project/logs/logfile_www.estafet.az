@@ -1,0 +1,12 @@
+--2020-03-01 23:48:33--  http://www.estafet.az/userfiles/EUBC-W64.pdf
+Resolving www.estafet.az (www.estafet.az)... 50.31.160.50
+Connecting to www.estafet.az (www.estafet.az)|50.31.160.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60692 (59K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 84% 2.22M 0s
+    50K .........                                             100%  875K=0.3s
+
+2020-03-01 23:48:34 (1.79 Mb/s) - ‘/dev/null’ saved [60692/60692]
+

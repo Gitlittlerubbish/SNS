@@ -1,0 +1,13 @@
+--2020-03-01 23:43:10--  http://www.boule.at/upload/Boulebahnen.pdf
+Resolving www.boule.at (www.boule.at)... 91.220.179.172
+Connecting to www.boule.at (www.boule.at)|91.220.179.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108471 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 5.21M 0s
+    50K .......... .......... .......... .......... .......... 94% 4.12M 0s
+   100K .....                                                 100% 62.3M=0.2s
+
+2020-03-01 23:43:10 (4.86 Mb/s) - ‘/dev/null’ saved [108471/108471]
+

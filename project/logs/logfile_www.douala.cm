@@ -1,0 +1,23 @@
+--2020-03-02 01:49:13--  http://www.douala.cm/upload/documents/Prodel.pdf
+Resolving www.douala.cm (www.douala.cm)... 192.162.71.173
+Connecting to www.douala.cm (www.douala.cm)|192.162.71.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.douala.cm/upload/documents/Prodel.pdf [following]
+--2020-03-02 01:49:13--  https://www.douala.cm/upload/documents/Prodel.pdf
+Connecting to www.douala.cm (www.douala.cm)|192.162.71.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 447912 (437K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 11.4M 0s
+    50K .......... .......... .......... .......... .......... 22% 26.7M 0s
+   100K .......... .......... .......... .......... .......... 34% 52.9M 0s
+   150K .......... .......... .......... .......... .......... 45% 58.6M 0s
+   200K .......... .......... .......... .......... .......... 57% 60.2M 0s
+   250K .......... .......... .......... .......... .......... 68% 69.2M 0s
+   300K .......... .......... .......... .......... .......... 80% 64.7M 0s
+   350K .......... .......... .......... .......... .......... 91% 83.8M 0s
+   400K .......... .......... .......... .......              100% 79.3M=0.09s
+
+2020-03-02 01:49:13 (38.2 Mb/s) - ‘/dev/null’ saved [447912/447912]
+

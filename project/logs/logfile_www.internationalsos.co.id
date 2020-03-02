@@ -1,0 +1,24 @@
+--2020-03-02 04:50:28--  http://www.internationalsos.co.id/-/media/corporate/files/documents/policies/dataretentionarchivinganddestruction.pdf
+Resolving www.internationalsos.co.id (www.internationalsos.co.id)... 45.60.13.197
+Connecting to www.internationalsos.co.id (www.internationalsos.co.id)|45.60.13.197|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.internationalsos.co.id/-/media/corporate/files/documents/policies/dataretentionarchivinganddestruction.pdf [following]
+--2020-03-02 04:50:29--  https://www.internationalsos.co.id/-/media/corporate/files/documents/policies/dataretentionarchivinganddestruction.pdf
+Connecting to www.internationalsos.co.id (www.internationalsos.co.id)|45.60.13.197|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 485685 (474K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.84M 2s
+    50K .......... .......... .......... .......... .......... 21% 3.64M 1s
+   100K .......... .......... .......... .......... .......... 31% 3.73M 1s
+   150K .......... .......... .......... .......... .......... 42% 85.5M 1s
+   200K .......... .......... .......... .......... .......... 52% 3.71M 1s
+   250K .......... .......... .......... .......... .......... 63% 3.67M 0s
+   300K .......... .......... .......... .......... .......... 73% 3.73M 0s
+   350K .......... .......... .......... .......... .......... 84% 3.22M 0s
+   400K .......... .......... .......... .......... .......... 94% 23.3M 0s
+   450K .......... .......... ....                            100% 2.05M=1.0s
+
+2020-03-02 04:50:31 (3.79 Mb/s) - ‘/dev/null’ saved [485685/485685]
+

@@ -1,0 +1,20 @@
+--2020-03-02 03:03:15--  http://www.hadex.cz/spec/m419a.pdf
+Resolving www.hadex.cz (www.hadex.cz)... 91.239.201.15
+Connecting to www.hadex.cz (www.hadex.cz)|91.239.201.15|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.hadex.cz/spec/m419a.pdf [following]
+--2020-03-02 03:03:15--  https://www.hadex.cz/spec/m419a.pdf
+Connecting to www.hadex.cz (www.hadex.cz)|91.239.201.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 299868 (293K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 11.7M 0s
+    50K .......... .......... .......... .......... .......... 34% 12.1M 0s
+   100K .......... .......... .......... .......... .......... 51%  166M 0s
+   150K .......... .......... .......... .......... .......... 68%  114M 0s
+   200K .......... .......... .......... .......... .......... 85% 13.7M 0s
+   250K .......... .......... .......... .......... ..        100%  123M=0.1s
+
+2020-03-02 03:03:15 (22.3 Mb/s) - ‘/dev/null’ saved [299868/299868]
+

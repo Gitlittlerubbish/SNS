@@ -1,0 +1,17 @@
+--2020-03-02 00:36:41--  http://books.google.bt/intl/en//googlebooks/ideagroup.pdf
+Resolving books.google.bt (books.google.bt)... 216.58.204.14
+Connecting to books.google.bt (books.google.bt)|216.58.204.14|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://static.googleusercontent.com/media/books.google.bt/en/bt/intl/en//googlebooks/ideagroup.pdf [following]
+--2020-03-02 00:36:41--  http://static.googleusercontent.com/media/books.google.bt/en/bt/intl/en//googlebooks/ideagroup.pdf
+Resolving static.googleusercontent.com (static.googleusercontent.com)... 172.217.169.1
+Connecting to static.googleusercontent.com (static.googleusercontent.com)|172.217.169.1|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61293 (60K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 83% 53.0M 0s
+    50K .........                                             100% 85.4M=0.009s
+
+2020-03-02 00:36:41 (56.5 Mb/s) - ‘/dev/null’ saved [61293/61293]
+

@@ -1,0 +1,15 @@
+--2020-03-02 00:33:54--  http://www.lionfish.bm/assets/pdf/task_force_donation_instructions.pdf
+Resolving www.lionfish.bm (www.lionfish.bm)... 52.200.53.55
+Connecting to www.lionfish.bm (www.lionfish.bm)|52.200.53.55|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lionfish.bm/assets/pdf/task_force_donation_instructions.pdf [following]
+--2020-03-02 00:33:54--  https://www.lionfish.bm/assets/pdf/task_force_donation_instructions.pdf
+Connecting to www.lionfish.bm (www.lionfish.bm)|52.200.53.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8880 (8.7K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K ........                                              100%  113M=0.001s
+
+2020-03-02 00:33:54 (113 Mb/s) - ‘/dev/null’ saved [8880/8880]
+

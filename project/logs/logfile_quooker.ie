@@ -1,0 +1,32 @@
+--2020-03-02 05:01:55--  http://quooker.ie/pub/media/gene-cms/t/i/tips_for_use_e_uk_1.pdf
+Resolving quooker.ie (quooker.ie)... 3.124.201.156
+Connecting to quooker.ie (quooker.ie)|3.124.201.156|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://quooker.ie/ [following]
+--2020-03-02 05:01:55--  https://quooker.ie/
+Connecting to quooker.ie (quooker.ie)|3.124.201.156|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82069 (80K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62% 10.9M 0s
+    50K .......... .......... ..........                      100%  128M=0.04s
+
+2020-03-02 05:01:55 (16.7 Mb/s) - ‘/dev/null’ saved [82069/82069]
+
+--2020-03-02 05:01:57--  http://quooker.ie/pub/media/gene-cms/t/i/tips_for_use_e_uk_1.pdf
+Resolving quooker.ie (quooker.ie)... 3.124.201.156
+Connecting to quooker.ie (quooker.ie)|3.124.201.156|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://quooker.ie/ [following]
+--2020-03-02 05:01:57--  https://quooker.ie/
+Connecting to quooker.ie (quooker.ie)|3.124.201.156|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82069 (80K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62% 10.9M 0s
+    50K .......... .......... ..........                      100%  192M=0.04s
+
+2020-03-02 05:01:57 (16.9 Mb/s) - ‘/dev/null’ saved [82069/82069]
+

@@ -1,0 +1,27 @@
+--2020-03-02 05:01:59--  http://www.curriculumonline.ie/getmedia/9df5f3c5-257b-471e-8d0f-f2cf059af941/PSEC02_Mathematics_Curriculum.pdf
+Resolving www.curriculumonline.ie (www.curriculumonline.ie)... 94.245.104.73
+Connecting to www.curriculumonline.ie (www.curriculumonline.ie)|94.245.104.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.curriculumonline.ie/getmedia/9df5f3c5-257b-471e-8d0f-f2cf059af941/PSEC02_Mathematics_Curriculum.pdf [following]
+--2020-03-02 05:01:59--  https://www.curriculumonline.ie/getmedia/9df5f3c5-257b-471e-8d0f-f2cf059af941/PSEC02_Mathematics_Curriculum.pdf
+Connecting to www.curriculumonline.ie (www.curriculumonline.ie)|94.245.104.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 663628 (648K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 14.9M 0s
+    50K .......... .......... .......... .......... .......... 15%  147M 0s
+   100K .......... .......... .......... .......... .......... 23% 29.9M 0s
+   150K .......... .......... .......... .......... .......... 30%  216M 0s
+   200K .......... .......... .......... .......... .......... 38% 39.7M 0s
+   250K .......... .......... .......... .......... .......... 46% 92.4M 0s
+   300K .......... .......... .......... .......... .......... 54%  232M 0s
+   350K .......... .......... .......... .......... .......... 61% 31.6M 0s
+   400K .......... .......... .......... .......... .......... 69%  234M 0s
+   450K .......... .......... .......... .......... .......... 77%  206M 0s
+   500K .......... .......... .......... .......... .......... 84%  362M 0s
+   550K .......... .......... .......... .......... .......... 92%  184M 0s
+   600K .......... .......... .......... .......... ........  100%  132M=0.09s
+
+2020-03-02 05:02:00 (62.1 Mb/s) - ‘/dev/null’ saved [663628/663628]
+

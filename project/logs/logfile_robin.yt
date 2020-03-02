@@ -1,0 +1,26 @@
+--2020-03-02 07:27:05--  http://robin.yt/2J8bjGl
+Resolving robin.yt (robin.yt)... 67.199.248.12
+Connecting to robin.yt (robin.yt)|67.199.248.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1749-6632.1960.tb32641.x [following]
+--2020-03-02 07:27:05--  https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1749-6632.1960.tb32641.x
+Resolving nyaspubs.onlinelibrary.wiley.com (nyaspubs.onlinelibrary.wiley.com)... 162.159.129.87, 162.159.130.87
+Connecting to nyaspubs.onlinelibrary.wiley.com (nyaspubs.onlinelibrary.wiley.com)|162.159.129.87|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1749-6632.1960.tb32641.x?cookieSet=1 [following]
+--2020-03-02 07:27:06--  https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1749-6632.1960.tb32641.x?cookieSet=1
+Reusing existing connection to nyaspubs.onlinelibrary.wiley.com:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1749-6632.1960.tb32641.x [following]
+--2020-03-02 07:27:06--  https://nyaspubs.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1749-6632.1960.tb32641.x
+Reusing existing connection to nyaspubs.onlinelibrary.wiley.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 2.27M
+    50K .......... .......... .......... .......... .......... 2.26M
+   100K .                                                       250K=0.4s
+
+2020-03-02 07:27:07 (2.30 Mb/s) - ‘/dev/null’ saved [103963]
+

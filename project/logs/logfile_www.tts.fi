@@ -1,0 +1,13 @@
+--2020-03-02 03:45:04--  http://www.tts.fi/files/359/traktori_peravaunu-kantola.pdf
+Resolving www.tts.fi (www.tts.fi)... 193.93.133.82
+Connecting to www.tts.fi (www.tts.fi)|193.93.133.82|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136179 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 3.37M 0s
+    50K .......... .......... .......... .......... .......... 75% 9.94M 0s
+   100K .......... .......... .......... ..                   100% 6.53M=0.2s
+
+2020-03-02 03:45:05 (5.33 Mb/s) - ‘/dev/null’ saved [136179/136179]
+

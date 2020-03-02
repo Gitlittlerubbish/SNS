@@ -1,0 +1,17 @@
+--2020-03-02 06:16:41--  http://bankmed.com.lb/BOMedia/Upload/20191009081451686.pdf
+Resolving bankmed.com.lb (bankmed.com.lb)... 13.81.172.122
+Connecting to bankmed.com.lb (bankmed.com.lb)|13.81.172.122|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://bankmed.com.lb [following]
+--2020-03-02 06:16:42--  https://bankmed.com.lb/
+Connecting to bankmed.com.lb (bankmed.com.lb)|13.81.172.122|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 150998 (147K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 14.1M 0s
+    50K .......... .......... .......... .......... .......... 67%  149M 0s
+   100K .......... .......... .......... .......... .......   100% 29.3M=0.05s
+
+2020-03-02 06:16:42 (26.8 Mb/s) - ‘/dev/null’ saved [150998/150998]
+

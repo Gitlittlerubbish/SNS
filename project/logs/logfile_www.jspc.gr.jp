@@ -1,0 +1,15 @@
+--2020-03-02 05:19:17--  http://www.jspc.gr.jp/Contents/public/pdf/shi-guide04_22.pdf
+Resolving www.jspc.gr.jp (www.jspc.gr.jp)... 143.125.240.155
+Connecting to www.jspc.gr.jp (www.jspc.gr.jp)|143.125.240.155|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.jspc.gr.jp [following]
+--2020-03-02 05:19:17--  https://www.jspc.gr.jp/
+Connecting to www.jspc.gr.jp (www.jspc.gr.jp)|143.125.240.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19566 (19K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                  100%  503K=0.3s
+
+2020-03-02 05:19:19 (503 Kb/s) - ‘/dev/null’ saved [19566/19566]
+

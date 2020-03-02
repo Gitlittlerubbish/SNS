@@ -1,0 +1,11 @@
+--2020-03-02 06:57:51--  http://nmcm.org.mw/downloads/REVISED_FEES_JUNE_2016.pdf
+Resolving nmcm.org.mw (nmcm.org.mw)... 41.190.93.254
+Connecting to nmcm.org.mw (nmcm.org.mw)|41.190.93.254|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23921 (23K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                             100% 1.00M=0.2s
+
+2020-03-02 06:57:52 (1.00 Mb/s) - ‘/dev/null’ saved [23921/23921]
+

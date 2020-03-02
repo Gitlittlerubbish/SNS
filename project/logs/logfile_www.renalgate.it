@@ -1,0 +1,12 @@
+--2020-03-02 05:08:06--  http://www.renalgate.it/Contenuto_potassioi.pdf
+Resolving www.renalgate.it (www.renalgate.it)... 212.39.9.15
+Connecting to www.renalgate.it (www.renalgate.it)|212.39.9.15|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73123 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70%  988K 0s
+    50K .......... .......... .                               100% 88.2M=0.4s
+
+2020-03-02 05:08:07 (1.40 Mb/s) - ‘/dev/null’ saved [73123/73123]
+

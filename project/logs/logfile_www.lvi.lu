@@ -1,0 +1,19 @@
+--2020-03-02 06:29:10--  http://www.lvi.lu/bedandbike/media/bb_flyer_inscription_fr.pdf
+Resolving www.lvi.lu (www.lvi.lu)... 194.42.98.62
+Connecting to www.lvi.lu (www.lvi.lu)|194.42.98.62|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lvi.lu/bedandbike/media/bb_flyer_inscription_fr.pdf [following]
+--2020-03-02 06:29:10--  https://www.lvi.lu/bedandbike/media/bb_flyer_inscription_fr.pdf
+Connecting to www.lvi.lu (www.lvi.lu)|194.42.98.62|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 212709 (208K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 14.7M 0s
+    50K .......... .......... .......... .......... .......... 48% 25.6M 0s
+   100K .......... .......... .......... .......... .......... 72%  164M 0s
+   150K .......... .......... .......... .......... .......... 96% 35.3M 0s
+   200K .......                                               100%  555M=0.06s
+
+2020-03-02 06:29:10 (29.3 Mb/s) - ‘/dev/null’ saved [212709/212709]
+

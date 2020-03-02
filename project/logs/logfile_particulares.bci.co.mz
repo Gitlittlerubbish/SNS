@@ -1,0 +1,19 @@
+--2020-03-02 08:00:16--  http://particulares.bci.co.mz/upl/precario_bci_1.pdf
+Resolving particulares.bci.co.mz (particulares.bci.co.mz)... 197.235.12.118
+Connecting to particulares.bci.co.mz (particulares.bci.co.mz)|197.235.12.118|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://particulares.bci.co.mz/upl/precario_bci_1.pdf [following]
+--2020-03-02 08:00:16--  https://particulares.bci.co.mz/upl/precario_bci_1.pdf
+Connecting to particulares.bci.co.mz (particulares.bci.co.mz)|197.235.12.118|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215712 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  238K 6s
+    50K .......... .......... .......... .......... .......... 47%  311K 3s
+   100K .......... .......... .......... .......... .......... 71%  359K 2s
+   150K .......... .......... .......... .......... .......... 94%  354K 0s
+   200K ..........                                            100%  515K=5.5s
+
+2020-03-02 08:00:24 (314 Kb/s) - ‘/dev/null’ saved [215712/215712]
+

@@ -1,0 +1,22 @@
+--2020-03-02 07:07:27--  http://www.myeg.com.my/resources/IMM_User_Transaction_Prepaid_Cy.pdf
+Resolving www.myeg.com.my (www.myeg.com.my)... 58.26.224.29
+Connecting to www.myeg.com.my (www.myeg.com.my)|58.26.224.29|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.myeg.com.my/resources/IMM_User_Transaction_Prepaid_Cy.pdf [following]
+--2020-03-02 07:07:28--  https://www.myeg.com.my/resources/IMM_User_Transaction_Prepaid_Cy.pdf
+Connecting to www.myeg.com.my (www.myeg.com.my)|58.26.224.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 362902 (354K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 1.63M 2s
+    50K .......... .......... .......... .......... .......... 28% 1.62M 1s
+   100K .......... .......... .......... .......... .......... 42% 1.62M 1s
+   150K .......... .......... .......... .......... .......... 56% 84.8M 1s
+   200K .......... .......... .......... .......... .......... 70% 1.54M 0s
+   250K .......... .......... .......... .......... .......... 84% 1.43M 0s
+   300K .......... .......... .......... .......... .......... 98% 1.26M 0s
+   350K ....                                                  100%  456M=1.6s
+
+2020-03-02 07:07:31 (1.77 Mb/s) - ‘/dev/null’ saved [362902/362902]
+

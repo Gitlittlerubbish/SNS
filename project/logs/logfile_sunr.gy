@@ -1,0 +1,20 @@
+--2020-03-02 04:17:13--  http://sunr.gy/Z0BC300Jvjl
+Resolving sunr.gy (sunr.gy)... 54.241.242.82
+Connecting to sunr.gy (sunr.gy)|54.241.242.82|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.suncor.com/~/media/Files/PDF/Home/FMM%20Fire/Suncor-FMM-Fires-Personal-Property-Form.ashx?la=en-CA [following]
+--2020-03-02 04:17:14--  http://www.suncor.com/~/media/Files/PDF/Home/FMM%20Fire/Suncor-FMM-Fires-Personal-Property-Form.ashx?la=en-CA
+Resolving www.suncor.com (www.suncor.com)... 156.44.121.21
+Connecting to www.suncor.com (www.suncor.com)|156.44.121.21|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.suncor.com/~/media/Files/PDF/Home/FMM%20Fire/Suncor-FMM-Fires-Personal-Property-Form.ashx?la=en-CA [following]
+--2020-03-02 04:17:14--  https://www.suncor.com/~/media/Files/PDF/Home/FMM%20Fire/Suncor-FMM-Fires-Personal-Property-Form.ashx?la=en-CA
+Connecting to www.suncor.com (www.suncor.com)|156.44.121.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 38081 (37K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......              100% 1.73M=0.2s
+
+2020-03-02 04:17:16 (1.73 Mb/s) - ‘/dev/null’ saved [38081/38081]
+

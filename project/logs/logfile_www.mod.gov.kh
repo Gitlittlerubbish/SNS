@@ -1,0 +1,24 @@
+--2020-03-02 01:44:29--  http://www.mod.gov.kh/messages/107/download
+Resolving www.mod.gov.kh (www.mod.gov.kh)... 175.100.28.206
+Connecting to www.mod.gov.kh (www.mod.gov.kh)|175.100.28.206|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mod.gov.kh/messages/107/download [following]
+--2020-03-02 01:44:29--  https://www.mod.gov.kh/messages/107/download
+Connecting to www.mod.gov.kh (www.mod.gov.kh)|175.100.28.206|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.mod.gov.kh/mod/listing/message/original/107.pdf?1567599173 [following]
+--2020-03-02 01:44:30--  https://www.mod.gov.kh/mod/listing/message/original/107.pdf?1567599173
+Reusing existing connection to www.mod.gov.kh:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 288744 (282K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.72M 1s
+    50K .......... .......... .......... .......... .......... 35% 1.52M 1s
+   100K .......... .......... .......... .......... .......... 53%  448M 0s
+   150K .......... .......... .......... .......... .......... 70%  210M 0s
+   200K .......... .......... .......... .......... .......... 88% 1.31M 0s
+   250K .......... .......... .......... .                    100% 1.37G=0.8s
+
+2020-03-02 01:44:32 (2.81 Mb/s) - ‘/dev/null’ saved [288744/288744]
+

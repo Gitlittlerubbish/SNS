@@ -1,0 +1,21 @@
+--2020-03-02 04:07:17--  http://eody.gov.gr/five_keys_food-safety_who_english/
+Resolving eody.gov.gr (eody.gov.gr)... 84.205.192.167
+Connecting to eody.gov.gr (eody.gov.gr)|84.205.192.167|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://eody.gov.gr/five_keys_food-safety_who_english/ [following]
+--2020-03-02 04:07:17--  https://eody.gov.gr/five_keys_food-safety_who_english/
+Connecting to eody.gov.gr (eody.gov.gr)|84.205.192.167|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://eody.gov.gr/wp-content/uploads/2019/05/Five_Keys_Food-Safety_WHO_English.pdf [following]
+--2020-03-02 04:07:18--  https://eody.gov.gr/wp-content/uploads/2019/05/Five_Keys_Food-Safety_WHO_English.pdf
+Reusing existing connection to eody.gov.gr:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 116283 (114K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44% 8.40M 0s
+    50K .......... .......... .......... .......... .......... 88% 8.37M 0s
+   100K .......... ...                                        100% 1.05G=0.1s
+
+2020-03-02 04:07:18 (9.51 Mb/s) - ‘/dev/null’ saved [116283/116283]
+

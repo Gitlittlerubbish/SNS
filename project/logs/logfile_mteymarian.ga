@@ -1,0 +1,12 @@
+--2020-03-02 03:53:22--  http://mteymarian.ga/files/voorbereiding/V_FR_Woordenlijsten.pdf
+Resolving mteymarian.ga (mteymarian.ga)... 104.18.61.152, 104.18.60.152
+Connecting to mteymarian.ga (mteymarian.ga)|104.18.61.152|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 88.7M
+    50K ........                                                170M=0.005s
+
+2020-03-02 03:53:22 (95.2 Mb/s) - ‘/dev/null’ saved [59678]
+

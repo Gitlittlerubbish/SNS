@@ -1,0 +1,19 @@
+--2020-03-02 03:45:43--  http://www.ksshp.fi/6minuutinkavelytesti/Verenpaineen_kotiseuranta_ohje_kortti.pdf
+Resolving www.ksshp.fi (www.ksshp.fi)... 195.236.107.31
+Connecting to www.ksshp.fi (www.ksshp.fi)|195.236.107.31|:80... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://www.ksshp.fi/6minuutinkavelytesti/Verenpaineen_kotiseuranta_ohje_kortti.pdf [following]
+--2020-03-02 03:45:43--  https://www.ksshp.fi/6minuutinkavelytesti/Verenpaineen_kotiseuranta_ohje_kortti.pdf
+Connecting to www.ksshp.fi (www.ksshp.fi)|195.236.107.31|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215109 (210K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 5.10M 0s
+    50K .......... .......... .......... .......... .......... 47% 10.1M 0s
+   100K .......... .......... .......... .......... .......... 71% 90.6M 0s
+   150K .......... .......... .......... .......... .......... 95% 11.0M 0s
+   200K ..........                                            100%  687M=0.2s
+
+2020-03-02 03:45:44 (10.6 Mb/s) - ‘/dev/null’ saved [215109/215109]
+

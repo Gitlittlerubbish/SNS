@@ -1,0 +1,18 @@
+--2020-03-02 06:14:03--  http://amativeikals.lv/content/wc.pdf
+Resolving amativeikals.lv (amativeikals.lv)... 185.80.128.245
+Connecting to amativeikals.lv (amativeikals.lv)|185.80.128.245|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://amativeikals.lv/content/wc.pdf [following]
+--2020-03-02 06:14:03--  https://amativeikals.lv/content/wc.pdf
+Connecting to amativeikals.lv (amativeikals.lv)|185.80.128.245|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 204502 (200K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 5.35M 0s
+    50K .......... .......... .......... .......... .......... 50% 10.3M 0s
+   100K .......... .......... .......... .......... .......... 75% 10.7M 0s
+   150K .......... .......... .......... .......... ......... 100% 11.9M=0.2s
+
+2020-03-02 06:14:03 (8.68 Mb/s) - ‘/dev/null’ saved [204502/204502]
+

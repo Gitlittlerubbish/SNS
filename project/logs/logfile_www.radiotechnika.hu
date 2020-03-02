@@ -1,0 +1,14 @@
+--2020-03-02 04:37:56--  http://www.radiotechnika.hu/images/TDA7297.pdf
+Resolving www.radiotechnika.hu (www.radiotechnika.hu)... 109.74.48.43
+Connecting to www.radiotechnika.hu (www.radiotechnika.hu)|109.74.48.43|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183620 (179K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 6.49M 0s
+    50K .......... .......... .......... .......... .......... 55% 13.2M 0s
+   100K .......... .......... .......... .......... .......... 83% 94.4M 0s
+   150K .......... .......... .........                       100%  949M=0.1s
+
+2020-03-02 04:37:57 (14.9 Mb/s) - ‘/dev/null’ saved [183620/183620]
+

@@ -1,0 +1,14 @@
+--2020-03-02 03:04:06--  http://www.svanemaerket.dk/-/criteriadoc/3462
+Resolving www.svanemaerket.dk (www.svanemaerket.dk)... 62.116.217.39
+Connecting to www.svanemaerket.dk (www.svanemaerket.dk)|62.116.217.39|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 197212 (193K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 3.75M 0s
+    50K .......... .......... .......... .......... .......... 51% 11.0M 0s
+   100K .......... .......... .......... .......... .......... 77% 2.02M 0s
+   150K .......... .......... .......... .......... ..        100%  189M=0.4s
+
+2020-03-02 03:04:07 (4.50 Mb/s) - ‘/dev/null’ saved [197212/197212]
+

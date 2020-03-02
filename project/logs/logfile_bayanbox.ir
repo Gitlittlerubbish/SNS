@@ -1,0 +1,12 @@
+--2020-03-02 04:58:01--  http://bayanbox.ir/view/3531867963015314991/uksi-20022013-en.pdf
+Resolving bayanbox.ir (bayanbox.ir)... 91.98.29.220
+Connecting to bayanbox.ir (bayanbox.ir)|91.98.29.220|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72893 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 1.64M 0s
+    50K .......... .......... .                               100% 1.40M=0.4s
+
+2020-03-02 04:58:01 (1.56 Mb/s) - ‘/dev/null’ saved [72893/72893]
+

@@ -1,0 +1,13 @@
+--2020-03-01 23:40:19--  http://www.residentialreports.com.au/wp-content/uploads/2015/03/Weep-Holes.pdf
+Resolving www.residentialreports.com.au (www.residentialreports.com.au)... 119.15.105.9
+Connecting to www.residentialreports.com.au (www.residentialreports.com.au)|119.15.105.9|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113531 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45%  667K 1s
+    50K .......... .......... .......... .......... .......... 90% 1.33M 0s
+   100K ..........                                            100% 1.33G=0.9s
+
+2020-03-01 23:40:21 (984 Kb/s) - ‘/dev/null’ saved [113531/113531]
+

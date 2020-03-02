@@ -1,0 +1,14 @@
+--2020-03-01 23:04:46--  http://www.swissnet.ag/PDF/AGB_SN.pdf
+Resolving www.swissnet.ag (www.swissnet.ag)... 85.10.203.22
+Connecting to www.swissnet.ag (www.swissnet.ag)|85.10.203.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 160632 (157K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 8.48M 0s
+    50K .......... .......... .......... .......... .......... 63% 18.7M 0s
+   100K .......... .......... .......... .......... .......... 95%  109M 0s
+   150K ......                                                100% 1.15G=0.07s
+
+2020-03-01 23:04:46 (17.4 Mb/s) - ‘/dev/null’ saved [160632/160632]
+

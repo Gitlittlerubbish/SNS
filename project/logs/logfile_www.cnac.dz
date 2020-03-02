@@ -1,0 +1,17 @@
+--2020-03-01 22:24:21--  http://www.cnac.dz/ressources/dowloads/dl9411.pdf
+Resolving www.cnac.dz (www.cnac.dz)... 41.111.134.91, 105.96.11.131
+Connecting to www.cnac.dz (www.cnac.dz)|41.111.134.91|:80... connected.
+HTTP request sent, awaiting response... 302 Object moved
+Location: https://www.cnac.dz:443/ressources/dowloads/dl9411.pdf [following]
+--2020-03-01 22:24:22--  https://www.cnac.dz/ressources/dowloads/dl9411.pdf
+Connecting to www.cnac.dz (www.cnac.dz)|41.111.134.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110680 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 3.04M 0s
+    50K .......... .......... .......... .......... .......... 92% 2.13M 0s
+   100K ........                                              100%  376M=0.3s
+
+2020-03-01 22:24:23 (2.70 Mb/s) - ‘/dev/null’ saved [110680/110680]
+

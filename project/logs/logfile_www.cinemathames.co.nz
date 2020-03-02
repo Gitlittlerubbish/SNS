@@ -1,0 +1,13 @@
+--2020-03-02 08:27:04--  http://www.cinemathames.co.nz/whangamata.pdf
+Resolving www.cinemathames.co.nz (www.cinemathames.co.nz)... 43.245.53.21
+Connecting to www.cinemathames.co.nz (www.cinemathames.co.nz)|43.245.53.21|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128050 (125K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39%  670K 1s
+    50K .......... .......... .......... .......... .......... 79% 1.34M 0s
+   100K .......... .......... .....                           100%  178M=0.9s
+
+2020-03-02 08:27:06 (1.12 Mb/s) - ‘/dev/null’ saved [128050/128050]
+

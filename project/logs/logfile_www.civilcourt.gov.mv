@@ -1,0 +1,11 @@
+--2020-03-02 07:13:43--  http://www.civilcourt.gov.mv/iulaan/ibthidhaaee.pdf
+Resolving www.civilcourt.gov.mv (www.civilcourt.gov.mv)... 66.96.147.105
+Connecting to www.civilcourt.gov.mv (www.civilcourt.gov.mv)|66.96.147.105|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44016 (43K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..        100% 1.53M=0.2s
+
+2020-03-02 07:13:43 (1.53 Mb/s) - ‘/dev/null’ saved [44016/44016]
+

@@ -1,0 +1,17 @@
+--2020-03-01 23:26:51--  http://www.police.am/images/1.pdf
+Resolving www.police.am (www.police.am)... 212.73.75.103
+Connecting to www.police.am (www.police.am)|212.73.75.103|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.police.am/images/1.pdf [following]
+--2020-03-01 23:26:54--  https://www.police.am/images/1.pdf
+Connecting to www.police.am (www.police.am)|212.73.75.103|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116031 (113K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44% 1.62M 0s
+    50K .......... .......... .......... .......... .......... 88% 4.65M 0s
+   100K .......... ...                                        100%  532M=0.3s
+
+2020-03-01 23:26:55 (2.72 Mb/s) - ‘/dev/null’ saved [116031/116031]
+

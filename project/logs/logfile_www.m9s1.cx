@@ -1,0 +1,19 @@
+--2020-03-02 02:21:43--  http://www.m9s1.cx/manual_mf_440.pdf
+Resolving www.m9s1.cx (www.m9s1.cx)... 95.179.198.106
+Connecting to www.m9s1.cx (www.m9s1.cx)|95.179.198.106|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.m9s1.cx/manual_mf_440.pdf [following]
+--2020-03-02 02:21:43--  https://www.m9s1.cx/manual_mf_440.pdf
+Connecting to www.m9s1.cx (www.m9s1.cx)|95.179.198.106|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.m9s1.cx/login [following]
+--2020-03-02 02:21:43--  https://www.m9s1.cx/login
+Reusing existing connection to www.m9s1.cx:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8835 (8.6K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K ........                                              100%  654M=0s
+
+2020-03-02 02:21:43 (654 Mb/s) - ‘/dev/null’ saved [8835/8835]
+

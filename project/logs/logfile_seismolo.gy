@@ -1,0 +1,16 @@
+--2020-03-02 04:19:00--  http://seismolo.gy/kehoe_cv.pdf
+Resolving seismolo.gy (seismolo.gy)... 185.199.110.153, 185.199.111.153, 185.199.109.153, ...
+Connecting to seismolo.gy (seismolo.gy)|185.199.110.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://seismolo.gy/kehoe_cv.pdf [following]
+--2020-03-02 04:19:00--  https://seismolo.gy/kehoe_cv.pdf
+Connecting to seismolo.gy (seismolo.gy)|185.199.110.153|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 64453 (63K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 79% 25.9M 0s
+    50K .......... ..                                         100% 2.08G=0.02s
+
+2020-03-02 04:19:01 (32.6 Mb/s) - ‘/dev/null’ saved [64453/64453]
+

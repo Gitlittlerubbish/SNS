@@ -1,0 +1,23 @@
+--2020-03-02 04:46:16--  http://hukum.unsrat.ac.id/pp/pp_66_1951.pdf
+Resolving hukum.unsrat.ac.id (hukum.unsrat.ac.id)... 103.84.116.22
+Connecting to hukum.unsrat.ac.id (hukum.unsrat.ac.id)|103.84.116.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 33869 (33K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                  100% 10.2M=0.03s
+
+2020-03-02 04:46:18 (10.2 Mb/s) - ‘/dev/null’ saved [33869/33869]
+
+--2020-03-02 04:46:18--  http://hukum.unsrat.ac.id/pp/pp_40_1958.pdf
+Resolving hukum.unsrat.ac.id (hukum.unsrat.ac.id)... 103.84.116.22
+Connecting to hukum.unsrat.ac.id (hukum.unsrat.ac.id)|103.84.116.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51980 (51K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 98%  316M 0s
+    50K                                                       100% 79.0M=0.001s
+
+2020-03-02 04:46:19 (302 Mb/s) - ‘/dev/null’ saved [51980/51980]
+

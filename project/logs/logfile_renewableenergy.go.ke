@@ -1,0 +1,21 @@
+--2020-03-02 05:32:40--  http://renewableenergy.go.ke/downloads/policy-docs/sessional_paper_4_on_energy_2004.pdf
+Resolving renewableenergy.go.ke (renewableenergy.go.ke)... 41.242.1.179
+Connecting to renewableenergy.go.ke (renewableenergy.go.ke)|41.242.1.179|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://renewableenergy.go.ke/downloads/policy-docs/sessional_paper_4_on_energy_2004.pdf [following]
+--2020-03-02 05:32:41--  https://renewableenergy.go.ke/downloads/policy-docs/sessional_paper_4_on_energy_2004.pdf
+Connecting to renewableenergy.go.ke (renewableenergy.go.ke)|41.242.1.179|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 335569 (328K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 1.27M 2s
+    50K .......... .......... .......... .......... .......... 30% 2.56M 1s
+   100K .......... .......... .......... .......... .......... 45%  105M 1s
+   150K .......... .......... .......... .......... .......... 61% 2.64M 0s
+   200K .......... .......... .......... .......... .......... 76%  183M 0s
+   250K .......... .......... .......... .......... .......... 91% 85.1M 0s
+   300K .......... .......... .......                         100%  131M=0.7s
+
+2020-03-02 05:32:42 (4.13 Mb/s) - ‘/dev/null’ saved [335569/335569]
+

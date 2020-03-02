@@ -1,0 +1,13 @@
+--2020-03-02 05:31:31--  http://www.nairobicentralsda.or.ke/images/downloads/strategic_Plan.pdf
+Resolving www.nairobicentralsda.or.ke (www.nairobicentralsda.or.ke)... 198.38.82.103
+Connecting to www.nairobicentralsda.or.ke (www.nairobicentralsda.or.ke)|198.38.82.103|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121247 (118K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 2.22M 0s
+    50K .......... .......... .......... .......... .......... 84% 4.48M 0s
+   100K .......... ........                                   100%  122M=0.3s
+
+2020-03-02 05:31:32 (3.50 Mb/s) - ‘/dev/null’ saved [121247/121247]
+

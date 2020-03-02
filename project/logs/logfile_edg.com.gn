@@ -1,0 +1,14 @@
+--2020-03-02 04:16:07--  http://edg.com.gn/wp-content/uploads/2019/05/Saidi2018.pdf
+Resolving edg.com.gn (edg.com.gn)... 167.114.106.124
+Connecting to edg.com.gn (edg.com.gn)|167.114.106.124|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201288 (197K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 2.59M 0s
+    50K .......... .......... .......... .......... .......... 50% 5.30M 0s
+   100K .......... .......... .......... .......... .......... 76% 83.8M 0s
+   150K .......... .......... .......... .......... ......    100%  986M=0.2s
+
+2020-03-02 04:16:07 (6.69 Mb/s) - ‘/dev/null’ saved [201288/201288]
+

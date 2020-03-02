@@ -1,0 +1,15 @@
+--2020-03-02 00:11:58--  http://www.pppo.gov.bd/download/ppp_office/Policy_G2G_Partnership-2017.pdf
+Resolving www.pppo.gov.bd (www.pppo.gov.bd)... 128.199.231.172
+Connecting to www.pppo.gov.bd (www.pppo.gov.bd)|128.199.231.172|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213487 (208K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 1.16M 1s
+    50K .......... .......... .......... .......... .......... 47% 2.33M 1s
+   100K .......... .......... .......... .......... .......... 71%  112M 0s
+   150K .......... .......... .......... .......... .......... 95%  105M 0s
+   200K ........                                              100% 1.54G=0.5s
+
+2020-03-02 00:12:00 (3.19 Mb/s) - ‘/dev/null’ saved [213487/213487]
+

@@ -1,0 +1,15 @@
+--2020-03-02 04:39:58--  http://www.ronning.is/Attachment/GenericFile%3FattachmentId%3D16005
+Resolving www.ronning.is (www.ronning.is)... 94.142.154.87
+Connecting to www.ronning.is (www.ronning.is)|94.142.154.87|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /errorpage.htm?aspxerrorpath=/Attachment/GenericFile?attachmentId=16005 [following]
+--2020-03-02 04:39:58--  http://www.ronning.is/errorpage.htm?aspxerrorpath=/Attachment/GenericFile?attachmentId=16005
+Reusing existing connection to www.ronning.is:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1630 (1.6K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  724M=0s
+
+2020-03-02 04:39:58 (724 Mb/s) - ‘/dev/null’ saved [1630/1630]
+

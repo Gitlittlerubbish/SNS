@@ -1,0 +1,16 @@
+--2020-03-02 01:49:04--  http://www.mipromalo.cm/documentation/Affiche_CFP_Mipromalo.pdf
+Resolving www.mipromalo.cm (www.mipromalo.cm)... 195.24.207.141
+Connecting to www.mipromalo.cm (www.mipromalo.cm)|195.24.207.141|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 265620 (259K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 1.10M 2s
+    50K .......... .......... .......... .......... .......... 38% 2.20M 1s
+   100K .......... .......... .......... .......... .......... 57% 2.19M 1s
+   150K .......... .......... .......... .......... .......... 77% 2.18M 0s
+   200K .......... .......... .......... .......... .......... 96% 2.34M 0s
+   250K .........                                             100% 73.7M=1.1s
+
+2020-03-02 01:49:06 (1.92 Mb/s) - ‘/dev/null’ saved [265620/265620]
+

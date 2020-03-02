@@ -1,0 +1,20 @@
+--2020-03-02 05:03:21--  http://www.iomfsa.im/media/2431/section-18-alterations-form.pdf
+Resolving www.iomfsa.im (www.iomfsa.im)... 107.162.159.32
+Connecting to www.iomfsa.im (www.iomfsa.im)|107.162.159.32|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.iomfsa.im/media/2431/section-18-alterations-form.pdf [following]
+--2020-03-02 05:03:21--  https://www.iomfsa.im/media/2431/section-18-alterations-form.pdf
+Connecting to www.iomfsa.im (www.iomfsa.im)|107.162.159.32|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256220 (250K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 21.5M 0s
+    50K .......... .......... .......... .......... .......... 39% 56.4M 0s
+   100K .......... .......... .......... .......... .......... 59% 63.9M 0s
+   150K .......... .......... .......... .......... .......... 79% 34.9M 0s
+   200K .......... .......... .......... .......... .......... 99% 50.9M 0s
+   250K                                                       100% 35.2K=0.05s
+
+2020-03-02 05:03:22 (39.0 Mb/s) - ‘/dev/null’ saved [256220/256220]
+

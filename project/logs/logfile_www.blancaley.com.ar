@@ -1,0 +1,19 @@
+--2020-03-01 23:18:38--  http://www.blancaley.com.ar/documentos/2.pdf
+Resolving www.blancaley.com.ar (www.blancaley.com.ar)... 162.241.137.97
+Connecting to www.blancaley.com.ar (www.blancaley.com.ar)|162.241.137.97|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://blancaley.com.ar/documentos/2.pdf [following]
+--2020-03-01 23:18:39--  https://blancaley.com.ar/documentos/2.pdf
+Resolving blancaley.com.ar (blancaley.com.ar)... 162.241.137.97
+Connecting to blancaley.com.ar (blancaley.com.ar)|162.241.137.97|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 155548 (152K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 1.67M 0s
+    50K .......... .......... .......... .......... .......... 65% 3.33M 0s
+   100K .......... .......... .......... .......... .......... 98%  146M 0s
+   150K .                                                     100%  312K=0.4s
+
+2020-03-01 23:18:39 (3.35 Mb/s) - ‘/dev/null’ saved [155548/155548]
+

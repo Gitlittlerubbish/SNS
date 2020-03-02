@@ -1,0 +1,14 @@
+--2020-03-02 03:04:58--  http://edtech.dk/Bitcoin/img/pvp.pdf
+Resolving edtech.dk (edtech.dk)... 46.30.213.219
+Connecting to edtech.dk (edtech.dk)|46.30.213.219|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 168469 (165K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 7.07M 0s
+    50K .......... .......... .......... .......... .......... 60% 15.8M 0s
+   100K .......... .......... .......... .......... .......... 91%  137M 0s
+   150K .......... ....                                       100% 1.18G=0.09s
+
+2020-03-02 03:04:58 (15.5 Mb/s) - ‘/dev/null’ saved [168469/168469]
+

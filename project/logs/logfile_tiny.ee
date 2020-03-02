@@ -1,0 +1,15 @@
+--2020-03-02 03:29:43--  http://tiny.ee/VE5r
+Resolving tiny.ee (tiny.ee)... 205.196.21.156
+Connecting to tiny.ee (tiny.ee)|205.196.21.156|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tiny.ee/link.php?id=VE5r [following]
+--2020-03-02 03:29:44--  https://tiny.ee/link.php?id=VE5r
+Connecting to tiny.ee (tiny.ee)|205.196.21.156|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 535 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  306M=0s
+
+2020-03-02 03:29:44 (306 Mb/s) - ‘/dev/null’ saved [535/535]
+

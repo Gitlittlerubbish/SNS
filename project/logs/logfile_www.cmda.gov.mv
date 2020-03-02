@@ -1,0 +1,17 @@
+--2020-03-02 07:09:54--  http://www.cmda.gov.mv/docs/IOSCOPD151.pdf
+Resolving www.cmda.gov.mv (www.cmda.gov.mv)... 70.40.216.65
+Connecting to www.cmda.gov.mv (www.cmda.gov.mv)|70.40.216.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cmda.gov.mv/docs/IOSCOPD151.pdf [following]
+--2020-03-02 07:09:54--  https://www.cmda.gov.mv/docs/IOSCOPD151.pdf
+Connecting to www.cmda.gov.mv (www.cmda.gov.mv)|70.40.216.65|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135869 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 2.41M 0s
+    50K .......... .......... .......... .......... .......... 75% 2.39M 0s
+   100K .......... .......... .......... ..                   100%  832M=0.3s
+
+2020-03-02 07:09:56 (3.19 Mb/s) - ‘/dev/null’ saved [135869/135869]
+

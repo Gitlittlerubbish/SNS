@@ -1,0 +1,11 @@
+--2020-03-02 01:09:55--  http://www.saudedireta.com.br/catinc/drugs/bulas/vitacid.pdf
+Resolving www.saudedireta.com.br (www.saudedireta.com.br)... 187.45.193.218
+Connecting to www.saudedireta.com.br (www.saudedireta.com.br)|187.45.193.218|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39031 (38K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ........             100% 1.02M=0.3s
+
+2020-03-02 01:09:56 (1.02 Mb/s) - ‘/dev/null’ saved [39031/39031]
+

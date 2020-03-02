@@ -1,0 +1,11 @@
+--2020-03-02 01:30:01--  http://www.judiciary.gov.bn/SJD%2520Images/Bankruptcy%2520leaflet.pdf
+Resolving www.judiciary.gov.bn (www.judiciary.gov.bn)... 103.4.188.86
+Connecting to www.judiciary.gov.bn (www.judiciary.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                  178K=0.3s
+
+2020-03-02 01:30:02 (178 Kb/s) - ‘/dev/null’ saved [7092]
+

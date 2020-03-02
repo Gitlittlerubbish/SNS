@@ -1,0 +1,20 @@
+--2020-03-02 04:00:58--  http://magendarm-zentrum.de/images/dokumente/publikationen/reizmagendarmsyndrom/meteorismus.pdf
+Resolving magendarm-zentrum.de (magendarm-zentrum.de)... 217.160.0.139
+Connecting to magendarm-zentrum.de (magendarm-zentrum.de)|217.160.0.139|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://magendarm-zentrum.de/images/dokumente/publikationen/reizmagendarmsyndrom/meteorismus.pdf [following]
+--2020-03-02 04:00:58--  https://magendarm-zentrum.de/images/dokumente/publikationen/reizmagendarmsyndrom/meteorismus.pdf
+Connecting to magendarm-zentrum.de (magendarm-zentrum.de)|217.160.0.139|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 277194 (271K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 11.8M 0s
+    50K .......... .......... .......... .......... .......... 36% 31.9M 0s
+   100K .......... .......... .......... .......... .......... 55% 41.0M 0s
+   150K .......... .......... .......... .......... .......... 73% 70.2M 0s
+   200K .......... .......... .......... .......... .......... 92% 62.6M 0s
+   250K .......... ..........                                 100% 54.1M=0.07s
+
+2020-03-02 04:00:58 (30.4 Mb/s) - ‘/dev/null’ saved [277194/277194]
+

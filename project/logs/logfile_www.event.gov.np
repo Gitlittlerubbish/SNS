@@ -1,0 +1,12 @@
+--2020-03-02 08:08:42--  http://www.event.gov.np/pdf/yptemp.pdf
+Resolving www.event.gov.np (www.event.gov.np)... 116.90.227.73
+Connecting to www.event.gov.np (www.event.gov.np)|116.90.227.73|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91879 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 1.28M 0s
+    50K .......... .......... .......... .........            100% 2.05M=0.5s
+
+2020-03-02 08:08:43 (1.54 Mb/s) - ‘/dev/null’ saved [91879/91879]
+

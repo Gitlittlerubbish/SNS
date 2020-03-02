@@ -1,0 +1,21 @@
+--2020-03-02 04:01:11--  http://nia.gov.gh/accra_west_coordinates.pdf
+Resolving nia.gov.gh (nia.gov.gh)... 197.253.68.65
+Connecting to nia.gov.gh (nia.gov.gh)|197.253.68.65|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://nia.gov.gh/accra_west_coordinates.pdf [following]
+--2020-03-02 04:01:11--  https://nia.gov.gh/accra_west_coordinates.pdf
+Connecting to nia.gov.gh (nia.gov.gh)|197.253.68.65|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 355758 (347K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 1.79M 1s
+    50K .......... .......... .......... .......... .......... 28% 3.62M 1s
+   100K .......... .......... .......... .......... .......... 43%  102M 0s
+   150K .......... .......... .......... .......... .......... 57% 3.75M 0s
+   200K .......... .......... .......... .......... .......... 71%  114M 0s
+   250K .......... .......... .......... .......... .......... 86%  136M 0s
+   300K .......... .......... .......... .......... .......   100% 3.62M=0.6s
+
+2020-03-02 04:01:13 (5.00 Mb/s) - ‘/dev/null’ saved [355758/355758]
+

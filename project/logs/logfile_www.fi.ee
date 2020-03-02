@@ -1,0 +1,17 @@
+--2020-03-02 03:31:05--  http://www.fi.ee/failid/Soovituslik_juhend_EIOPA_Riskide_ja_maksevoime_hindamine_EN.pdf
+Resolving www.fi.ee (www.fi.ee)... 90.190.55.124
+Connecting to www.fi.ee (www.fi.ee)|90.190.55.124|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.fi.ee/failid/Soovituslik_juhend_EIOPA_Riskide_ja_maksevoime_hindamine_EN.pdf [following]
+--2020-03-02 03:31:05--  https://www.fi.ee/failid/Soovituslik_juhend_EIOPA_Riskide_ja_maksevoime_hindamine_EN.pdf
+Connecting to www.fi.ee (www.fi.ee)|90.190.55.124|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151708 (148K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 3.88M 0s
+    50K .......... .......... .......... .......... .......... 67% 7.74M 0s
+   100K .......... .......... .......... .......... ........  100%  202M=0.2s
+
+2020-03-02 03:31:05 (7.57 Mb/s) - ‘/dev/null’ saved [151708/151708]
+

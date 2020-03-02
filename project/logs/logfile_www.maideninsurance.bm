@@ -1,0 +1,20 @@
+--2020-03-02 00:33:50--  http://www.maideninsurance.bm/accomn.com/userfiles/modules/file_upload_library_3/1461/Alkalinity_Titrant_High.pdf
+Resolving www.maideninsurance.bm (www.maideninsurance.bm)... 46.166.184.109, 185.206.180.130
+Connecting to www.maideninsurance.bm (www.maideninsurance.bm)|46.166.184.109|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.maiden.bm [following]
+--2020-03-02 00:33:50--  https://www.maiden.bm/
+Resolving www.maiden.bm (www.maiden.bm)... 72.3.151.65
+Connecting to www.maiden.bm (www.maiden.bm)|72.3.151.65|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.maiden.bm/euro_home [following]
+--2020-03-02 00:33:51--  https://www.maiden.bm/euro_home
+Reusing existing connection to www.maiden.bm:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .....                                       1.05M=0.1s
+
+2020-03-02 00:33:52 (1.05 Mb/s) - ‘/dev/null’ saved [16033]
+

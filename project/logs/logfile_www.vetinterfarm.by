@@ -1,0 +1,13 @@
+--2020-03-02 00:16:59--  http://www.vetinterfarm.by/uploads/instructions/vakcina_protiv_pasterelleza.pdf
+Resolving www.vetinterfarm.by (www.vetinterfarm.by)... 93.125.99.48
+Connecting to www.vetinterfarm.by (www.vetinterfarm.by)|93.125.99.48|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143543 (140K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 3.21M 0s
+    50K .......... .......... .......... .......... .......... 71% 6.67M 0s
+   100K .......... .......... .......... ..........           100% 88.6M=0.2s
+
+2020-03-02 00:17:00 (5.95 Mb/s) - ‘/dev/null’ saved [143543/143543]
+

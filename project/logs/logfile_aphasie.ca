@@ -1,0 +1,48 @@
+--2020-03-02 01:51:38--  http://aphasie.ca/image/GuideProchesetIntervenants.pdf
+Resolving aphasie.ca (aphasie.ca)... 67.43.226.3
+Connecting to aphasie.ca (aphasie.ca)|67.43.226.3|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aphasie.ca/image/GuideProchesetIntervenants.pdf [following]
+--2020-03-02 01:51:39--  https://aphasie.ca/image/GuideProchesetIntervenants.pdf
+Connecting to aphasie.ca (aphasie.ca)|67.43.226.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 473089 (462K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 2.34M 1s
+    50K .......... .......... .......... .......... .......... 21% 4.76M 1s
+   100K .......... .......... .......... .......... .......... 32%  202M 1s
+   150K .......... .......... .......... .......... .......... 43% 4.77M 0s
+   200K .......... .......... .......... .......... .......... 54%  135M 0s
+   250K .......... .......... .......... .......... .......... 64%  124M 0s
+   300K .......... .......... .......... .......... .......... 75% 5.23M 0s
+   350K .......... .......... .......... .......... .......... 86%  128M 0s
+   400K .......... .......... .......... .......... .......... 97% 31.1M 0s
+   450K .......... ..                                         100% 1.79G=0.5s
+
+2020-03-02 01:51:39 (8.41 Mb/s) - ‘/dev/null’ saved [473089/473089]
+
+--2020-03-02 01:51:39--  http://aphasie.ca/image/GuideProchesetIntervenants.pdf
+Resolving aphasie.ca (aphasie.ca)... 67.43.226.3
+Connecting to aphasie.ca (aphasie.ca)|67.43.226.3|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://aphasie.ca/image/GuideProchesetIntervenants.pdf [following]
+--2020-03-02 01:51:40--  https://aphasie.ca/image/GuideProchesetIntervenants.pdf
+Connecting to aphasie.ca (aphasie.ca)|67.43.226.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 473089 (462K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 2.30M 1s
+    50K .......... .......... .......... .......... .......... 21% 4.73M 1s
+   100K .......... .......... .......... .......... .......... 32%  177M 1s
+   150K .......... .......... .......... .......... .......... 43% 4.84M 0s
+   200K .......... .......... .......... .......... .......... 54%  136M 0s
+   250K .......... .......... .......... .......... .......... 64% 93.0M 0s
+   300K .......... .......... .......... .......... .......... 75% 5.12M 0s
+   350K .......... .......... .......... .......... .......... 86%  140M 0s
+   400K .......... .......... .......... .......... .......... 97%  563M 0s
+   450K .......... ..                                         100% 1.14G=0.4s
+
+2020-03-02 01:51:40 (8.55 Mb/s) - ‘/dev/null’ saved [473089/473089]
+

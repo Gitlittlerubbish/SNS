@@ -1,0 +1,22 @@
+--2020-03-02 01:07:48--  http://www.bocra.org.bw/sites/default/files/BOCRA_Internet_Prices_2018.pdf
+Resolving www.bocra.org.bw (www.bocra.org.bw)... 213.193.44.222
+Connecting to www.bocra.org.bw (www.bocra.org.bw)|213.193.44.222|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bocra.org.bw/sites/default/files/BOCRA_Internet_Prices_2018.pdf [following]
+--2020-03-02 01:07:49--  https://www.bocra.org.bw/sites/default/files/BOCRA_Internet_Prices_2018.pdf
+Connecting to www.bocra.org.bw (www.bocra.org.bw)|213.193.44.222|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 401223 (392K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 1.20M 2s
+    50K .......... .......... .......... .......... .......... 25% 2.39M 1s
+   100K .......... .......... .......... .......... .......... 38%  160M 1s
+   150K .......... .......... .......... .......... .......... 51% 2.51M 1s
+   200K .......... .......... .......... .......... .......... 63% 66.4M 0s
+   250K .......... .......... .......... .......... .......... 76%  120M 0s
+   300K .......... .......... .......... .......... .......... 89% 2.52M 0s
+   350K .......... .......... .......... .......... .         100%  241M=0.9s
+
+2020-03-02 01:07:50 (3.77 Mb/s) - ‘/dev/null’ saved [401223/401223]
+

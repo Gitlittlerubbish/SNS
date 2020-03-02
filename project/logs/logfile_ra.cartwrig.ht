@@ -1,0 +1,16 @@
+--2020-03-02 04:21:10--  http://ra.cartwrig.ht/cv/ReedCartwrightCV.pdf
+Resolving ra.cartwrig.ht (ra.cartwrig.ht)... 206.207.50.23
+Connecting to ra.cartwrig.ht (ra.cartwrig.ht)|206.207.50.23|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ra.cartwrig.ht/cv/ReedCartwrightCV.pdf [following]
+--2020-03-02 04:21:10--  https://ra.cartwrig.ht/cv/ReedCartwrightCV.pdf
+Connecting to ra.cartwrig.ht (ra.cartwrig.ht)|206.207.50.23|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73118 (71K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 70% 1.40M 0s
+    50K .......... .......... .                               100%  149M=0.3s
+
+2020-03-02 04:21:11 (2.00 Mb/s) - ‘/dev/null’ saved [73118/73118]
+

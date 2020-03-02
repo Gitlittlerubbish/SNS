@@ -1,0 +1,16 @@
+--2020-03-02 04:07:09--  http://www.krikoszois.gr/files/file12.pdf
+Resolving www.krikoszois.gr (www.krikoszois.gr)... 185.25.21.46
+Connecting to www.krikoszois.gr (www.krikoszois.gr)|185.25.21.46|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.krikoszois.gr/files/file12.pdf [following]
+--2020-03-02 04:07:09--  https://www.krikoszois.gr/files/file12.pdf
+Connecting to www.krikoszois.gr (www.krikoszois.gr)|185.25.21.46|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80093 (78K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 2.91M 0s
+    50K .......... .......... ........                        100%  106M=0.1s
+
+2020-03-02 04:07:10 (4.48 Mb/s) - ‘/dev/null’ saved [80093/80093]
+

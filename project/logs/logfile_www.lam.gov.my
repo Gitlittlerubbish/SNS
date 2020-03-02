@@ -1,0 +1,30 @@
+--2020-03-02 07:08:31--  http://www.lam.gov.my/downloads/CPD/cpd_guideline.pdf
+Resolving www.lam.gov.my (www.lam.gov.my)... 103.6.196.118
+Connecting to www.lam.gov.my (www.lam.gov.my)|103.6.196.118|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 238560 (233K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.21M 1s
+    50K .......... .......... .......... .......... .......... 42% 2.44M 1s
+   100K .......... .......... .......... .......... .......... 64% 88.2M 0s
+   150K .......... .......... .......... .......... .......... 85% 4.27M 0s
+   200K .......... .......... .......... ..                   100% 3.85M=0.7s
+
+2020-03-02 07:08:33 (2.82 Mb/s) - ‘/dev/null’ saved [238560/238560]
+
+--2020-03-02 07:08:41--  http://www.lam.gov.my/downloads/CPD/cpd_guideline.pdf
+Resolving www.lam.gov.my (www.lam.gov.my)... 103.6.196.118
+Connecting to www.lam.gov.my (www.lam.gov.my)|103.6.196.118|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 238560 (233K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.18M 1s
+    50K .......... .......... .......... .......... .......... 42% 2.39M 1s
+   100K .......... .......... .......... .......... .......... 64%  156M 0s
+   150K .......... .......... .......... .......... .......... 85% 93.0M 0s
+   200K .......... .......... .......... ..                   100% 1.61M=0.7s
+
+2020-03-02 07:08:42 (2.75 Mb/s) - ‘/dev/null’ saved [238560/238560]
+

@@ -1,0 +1,22 @@
+--2020-03-02 04:51:18--  http://krs.umy.ac.id/Download/KalenderAkademik.pdf
+Resolving krs.umy.ac.id (krs.umy.ac.id)... 103.251.180.76
+Connecting to krs.umy.ac.id (krs.umy.ac.id)|103.251.180.76|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://krs.umy.ac.id/Download/KalenderAkademik.pdf [following]
+--2020-03-02 04:51:19--  https://krs.umy.ac.id/Download/KalenderAkademik.pdf
+Connecting to krs.umy.ac.id (krs.umy.ac.id)|103.251.180.76|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 375229 (366K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13%  670K 4s
+    50K .......... .......... .......... .......... .......... 27%  622M 2s
+   100K .......... .......... .......... .......... .......... 40% 1.32M 1s
+   150K .......... .......... .......... .......... .......... 54%  355M 1s
+   200K .......... .......... .......... .......... .......... 68%  408M 0s
+   250K .......... .......... .......... .......... .......... 81% 1.36M 0s
+   300K .......... .......... .......... .......... .......... 95%  246M 0s
+   350K .......... ......                                     100%  990M=1.2s
+
+2020-03-02 04:51:22 (2.45 Mb/s) - ‘/dev/null’ saved [375229/375229]
+

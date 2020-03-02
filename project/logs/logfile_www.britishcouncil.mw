@@ -1,0 +1,33 @@
+--2020-03-02 06:57:52--  http://www.britishcouncil.mw/sites/default/files/cips_form_0.pdf
+Resolving www.britishcouncil.mw (www.britishcouncil.mw)... 2.19.159.80
+Connecting to www.britishcouncil.mw (www.britishcouncil.mw)|2.19.159.80|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.britishcouncil.mw/sites/default/files/cips_form_0.pdf [following]
+--2020-03-02 06:57:52--  https://www.britishcouncil.mw/sites/default/files/cips_form_0.pdf
+Connecting to www.britishcouncil.mw (www.britishcouncil.mw)|2.19.159.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59.2M
+    50K .......... .......... .......... .......... .......... 94.3M
+   100K .......... .......... .......... .......... .......... 79.8M
+   150K .......... ........                                     788M=0.02s
+
+2020-03-02 06:57:53 (83.2 Mb/s) - ‘/dev/null’ saved [172616]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 06:57:53--  https://www.britishcouncil.mw/sites/default/files/cips_form_0.pdf
+Resolving www.britishcouncil.mw (www.britishcouncil.mw)... 2.19.159.80
+Connecting to www.britishcouncil.mw (www.britishcouncil.mw)|2.19.159.80|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73.2M
+    50K .......... .......... .......... .......... .......... 83.5M
+   100K .......... .......... .......... .......... ..........  142M
+   150K .......... ........                                     874M=0.01s
+
+2020-03-02 06:57:53 (102 Mb/s) - ‘/dev/null’ saved [172616]
+

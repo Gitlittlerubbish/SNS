@@ -1,0 +1,11 @@
+--2020-03-02 03:46:56--  http://www.amisdeproust.fr/images/DocsPdf/la_madeleine.pdf
+Resolving www.amisdeproust.fr (www.amisdeproust.fr)... 213.186.33.4
+Connecting to www.amisdeproust.fr (www.amisdeproust.fr)|213.186.33.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11950 (12K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .                                          100% 46.3M=0.002s
+
+2020-03-02 03:46:56 (46.3 Mb/s) - ‘/dev/null’ saved [11950/11950]
+

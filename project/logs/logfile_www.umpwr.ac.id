@@ -1,0 +1,15 @@
+--2020-03-02 04:53:26--  http://www.umpwr.ac.id/download/publikasi-ilmiah/evaluasi%2520program%2520pembelajaran.pdf
+Resolving www.umpwr.ac.id (www.umpwr.ac.id)... 202.91.10.50
+Connecting to www.umpwr.ac.id (www.umpwr.ac.id)|202.91.10.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  382K
+    50K .......... .......... .......... .......... .......... 1.87M
+   100K .......... .......... .......... .......... .......... 13.8M
+   150K .......... .......... .......... .......... .......... 1.52M
+   200K .......... .......... .......... ....                  1.98M=1.7s
+
+2020-03-02 04:53:30 (1.11 Mb/s) - ‘/dev/null’ saved [239630]
+

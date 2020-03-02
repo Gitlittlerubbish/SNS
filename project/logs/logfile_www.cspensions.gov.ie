@@ -1,0 +1,14 @@
+--2020-03-02 05:01:14--  http://www.cspensions.gov.ie/faq1.pdf
+Resolving www.cspensions.gov.ie (www.cspensions.gov.ie)... 193.178.98.189
+Connecting to www.cspensions.gov.ie (www.cspensions.gov.ie)|193.178.98.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 161323 (158K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 4.75M 0s
+    50K .......... .......... .......... .......... .......... 63% 17.0M 0s
+   100K .......... .......... .......... .......... .......... 95% 18.3M 0s
+   150K .......                                               100% 74.3M=0.1s
+
+2020-03-02 05:01:14 (9.66 Mb/s) - ‘/dev/null’ saved [161323/161323]
+

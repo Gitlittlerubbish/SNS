@@ -1,0 +1,16 @@
+--2020-03-02 04:30:06--  http://www.cityupress.edu.hk/Template/Shared/previewSample/9789629371609_preview.pdf
+Resolving www.cityupress.edu.hk (www.cityupress.edu.hk)... 43.248.165.119
+Connecting to www.cityupress.edu.hk (www.cityupress.edu.hk)|43.248.165.119|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 289663 (283K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 1.03M 2s
+    50K .......... .......... .......... .......... .......... 35% 1.04M 1s
+   100K .......... .......... .......... .......... .......... 53%  153M 1s
+   150K .......... .......... .......... .......... .......... 70% 2.06M 0s
+   200K .......... .......... .......... .......... .......... 88% 2.10M 0s
+   250K .......... .......... .......... ..                   100% 87.6M=1.2s
+
+2020-03-02 04:30:08 (1.95 Mb/s) - ‘/dev/null’ saved [289663/289663]
+

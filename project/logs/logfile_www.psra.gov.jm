@@ -1,0 +1,11 @@
+--2020-03-02 05:09:50--  http://www.psra.gov.jm/downloads/registered_companies.pdf
+Resolving www.psra.gov.jm (www.psra.gov.jm)... 98.129.229.50
+Connecting to www.psra.gov.jm (www.psra.gov.jm)|98.129.229.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50486 (49K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......... 100% 1.43M=0.3s
+
+2020-03-02 05:09:51 (1.43 Mb/s) - ‘/dev/null’ saved [50486/50486]
+

@@ -1,0 +1,13 @@
+--2020-03-02 06:00:42--  http://contents.kocw.or.kr/document/ch8_7.pdf
+Resolving contents.kocw.or.kr (contents.kocw.or.kr)... 210.102.100.235
+Connecting to contents.kocw.or.kr (contents.kocw.or.kr)|210.102.100.235|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135785 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37%  444K 2s
+    50K .......... .......... .......... .......... .......... 75% 1.49M 0s
+   100K .......... .......... .......... ..                   100%  122M=1.2s
+
+2020-03-02 06:00:45 (905 Kb/s) - ‘/dev/null’ saved [135785/135785]
+

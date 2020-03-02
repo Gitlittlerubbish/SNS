@@ -1,0 +1,24 @@
+--2020-03-02 07:07:44--  http://lib.perdana.org.my/PLF/Digital_Content/Journal%26Papers/000002/97_03_02.pdf
+Resolving lib.perdana.org.my (lib.perdana.org.my)... 175.138.64.198
+Connecting to lib.perdana.org.my (lib.perdana.org.my)|175.138.64.198|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71071 (69K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 72%  707K 0s
+    50K .......... .........                                  100%  466K=0.9s
+
+2020-03-02 07:07:47 (617 Kb/s) - ‘/dev/null’ saved [71071/71071]
+
+--2020-03-02 07:08:01--  http://lib.perdana.org.my/PLF/Digital_Content/Journal%26Papers/000002/97_03_02.pdf
+Resolving lib.perdana.org.my (lib.perdana.org.my)... 175.138.64.198
+Connecting to lib.perdana.org.my (lib.perdana.org.my)|175.138.64.198|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71071 (69K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 72%  663K 0s
+    50K .......... .........                                  100%  629K=0.9s
+
+2020-03-02 07:08:03 (653 Kb/s) - ‘/dev/null’ saved [71071/71071]
+

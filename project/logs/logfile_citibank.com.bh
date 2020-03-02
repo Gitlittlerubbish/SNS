@@ -1,0 +1,17 @@
+--2020-03-02 00:00:12--  http://citibank.com.bh/bahrain/bhgcb/pdf/sch_a.pdf
+Resolving citibank.com.bh (citibank.com.bh)... 192.193.102.175, 192.193.218.130
+Connecting to citibank.com.bh (citibank.com.bh)|192.193.102.175|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.citibank.com/bahrain/bhgcb/pdf/sch_a.pdf [following]
+--2020-03-02 00:00:13--  https://www.citibank.com/bahrain/bhgcb/pdf/sch_a.pdf
+Resolving www.citibank.com (www.citibank.com)... 104.78.164.113
+Connecting to www.citibank.com (www.citibank.com)|104.78.164.113|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75662 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 67% 47.1M 0s
+    50K .......... .......... ...                             100% 36.2M=0.01s
+
+2020-03-02 00:00:14 (42.9 Mb/s) - ‘/dev/null’ saved [75662/75662]
+

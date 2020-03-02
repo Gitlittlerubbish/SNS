@@ -1,0 +1,15 @@
+--2020-03-02 03:03:17--  http://www.cdzjesenik.cz/Cogmed/Klingberg_J_Clin_Exp_Neuropsychol_2002.pdf
+Resolving www.cdzjesenik.cz (www.cdzjesenik.cz)... 81.95.98.131
+Connecting to www.cdzjesenik.cz (www.cdzjesenik.cz)|81.95.98.131|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207333 (202K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 6.13M 0s
+    50K .......... .......... .......... .......... .......... 49% 17.8M 0s
+   100K .......... .......... .......... .......... .......... 74%  182M 0s
+   150K .......... .......... .......... .......... .......... 98% 20.8M 0s
+   200K ..                                                    100%  178M=0.1s
+
+2020-03-02 03:03:17 (14.8 Mb/s) - ‘/dev/null’ saved [207333/207333]
+

@@ -1,0 +1,13 @@
+--2020-03-02 03:28:12--  http://www.openhiwpp.gq/downloads/CHE_AP_207_Studieren_ohne_Abitur_2018.pdf
+Resolving www.openhiwpp.gq (www.openhiwpp.gq)... 104.28.26.26, 104.28.27.26
+Connecting to www.openhiwpp.gq (www.openhiwpp.gq)|104.28.26.26|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.9M
+    50K .......... .......... .......... .......... ..........  167M
+   100K                                                         123K=0.04s
+
+2020-03-02 03:28:13 (20.7 Mb/s) - ‘/dev/null’ saved [103168]
+

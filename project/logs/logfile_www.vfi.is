@@ -1,0 +1,13 @@
+--2020-03-02 04:39:54--  http://www.vfi.is/media/utgafa/tilviksrannsokn_straumlinustjornun.pdf
+Resolving www.vfi.is (www.vfi.is)... 63.35.75.103, 54.154.104.93
+Connecting to www.vfi.is (www.vfi.is)|63.35.75.103|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105069 (103K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 48% 14.7M 0s
+    50K .......... .......... .......... .......... .......... 97% 28.9M 0s
+   100K ..                                                    100%  427K=0.04s
+
+2020-03-02 04:39:54 (20.0 Mb/s) - ‘/dev/null’ saved [105069/105069]
+

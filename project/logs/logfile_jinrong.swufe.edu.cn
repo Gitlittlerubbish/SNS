@@ -1,0 +1,16 @@
+--2020-03-02 02:19:14--  http://jinrong.swufe.edu.cn/Code_of_Ethics_and_Standards_of_Professional_Conduct.pdf
+Resolving jinrong.swufe.edu.cn (jinrong.swufe.edu.cn)... 125.69.85.81
+Connecting to jinrong.swufe.edu.cn (jinrong.swufe.edu.cn)|125.69.85.81|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://jinrong.swufe.edu.cn/Code_of_Ethics_and_Standards_of_Professional_Conduct.pdf [following]
+--2020-03-02 02:19:16--  https://jinrong.swufe.edu.cn/Code_of_Ethics_and_Standards_of_Professional_Conduct.pdf
+Connecting to jinrong.swufe.edu.cn (jinrong.swufe.edu.cn)|125.69.85.81|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 51624 (50K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 99%  666K 0s
+    50K                                                       100% 67.8K=0.6s
+
+2020-03-02 02:19:19 (672 Kb/s) - ‘/dev/null’ saved [51624/51624]
+

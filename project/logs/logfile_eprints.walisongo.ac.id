@@ -1,0 +1,15 @@
+--2020-03-02 04:54:15--  http://eprints.walisongo.ac.id/3196/4/3105134_Bab3.pdf
+Resolving eprints.walisongo.ac.id (eprints.walisongo.ac.id)... 103.19.37.13
+Connecting to eprints.walisongo.ac.id (eprints.walisongo.ac.id)|103.19.37.13|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217110 (212K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 1.13M 1s
+    50K .......... .......... .......... .......... .......... 47%  757K 1s
+   100K .......... .......... .......... .......... .......... 70% 1.14M 1s
+   150K .......... .......... .......... .......... .......... 94% 1.13M 0s
+   200K .......... ..                                         100% 1.64G=1.6s
+
+2020-03-02 04:54:18 (1.07 Mb/s) - ‘/dev/null’ saved [217110/217110]
+

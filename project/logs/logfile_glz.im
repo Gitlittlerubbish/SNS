@@ -1,0 +1,11 @@
+--2020-03-02 05:02:18--  http://glz.im/HojBOYUn2
+Resolving glz.im (glz.im)... 34.203.175.7, 52.20.162.227
+Connecting to glz.im (glz.im)|34.203.175.7|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1369 (1.3K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  522M=0s
+
+2020-03-02 05:02:18 (522 Mb/s) - ‘/dev/null’ saved [1369/1369]
+

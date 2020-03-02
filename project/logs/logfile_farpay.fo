@@ -1,0 +1,11 @@
+--2020-03-02 03:35:50--  http://farpay.fo/documents/FarPay_Brukaratreytir.pdf
+Resolving farpay.fo (farpay.fo)... 91.221.196.240
+Connecting to farpay.fo (farpay.fo)|91.221.196.240|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34997 (34K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ....                 100% 4.93M=0.06s
+
+2020-03-02 03:35:50 (4.93 Mb/s) - ‘/dev/null’ saved [34997/34997]
+

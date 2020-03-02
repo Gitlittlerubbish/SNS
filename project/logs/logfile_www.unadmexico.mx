@@ -1,0 +1,13 @@
+--2020-03-02 07:31:24--  http://www.unadmexico.mx/images/descargables/codigo_de_etica_de_estudiantes_de_la_unadm.pdf
+Resolving www.unadmexico.mx (www.unadmexico.mx)... 148.207.151.171
+Connecting to www.unadmexico.mx (www.unadmexico.mx)|148.207.151.171|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 106674 (104K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47% 1.42M 0s
+    50K .......... .......... .......... .......... .......... 95% 1.42M 0s
+   100K ....                                                  100%  684K=0.6s
+
+2020-03-02 07:31:26 (1.48 Mb/s) - ‘/dev/null’ saved [106674/106674]
+

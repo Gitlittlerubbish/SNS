@@ -1,0 +1,15 @@
+--2020-03-02 01:52:14--  http://fi.ixm.ca/sites/default/files/EconomicFreedomoftheWorld2000Introduction.pdf
+Resolving fi.ixm.ca (fi.ixm.ca)... 192.81.132.131
+Connecting to fi.ixm.ca (fi.ixm.ca)|192.81.132.131|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 225482 (220K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.29M 1s
+    50K .......... .......... .......... .......... .......... 45% 2.57M 1s
+   100K .......... .......... .......... .......... .......... 68% 82.8M 0s
+   150K .......... .......... .......... .......... .......... 90%  340M 0s
+   200K .......... ..........                                 100% 1.08M=0.6s
+
+2020-03-02 01:52:15 (2.83 Mb/s) - ‘/dev/null’ saved [225482/225482]
+

@@ -1,0 +1,24 @@
+--2020-03-02 04:44:23--  http://www.iob.in/upload/CEDocuments/MDIndia_Claim_Form.pdf
+Resolving www.iob.in (www.iob.in)... 103.115.194.41
+Connecting to www.iob.in (www.iob.in)|103.115.194.41|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.iob.in/upload/CEDocuments/MDIndia_Claim_Form.pdf [following]
+--2020-03-02 04:44:25--  https://www.iob.in/upload/CEDocuments/MDIndia_Claim_Form.pdf
+Connecting to www.iob.in (www.iob.in)|103.115.194.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 470701 (460K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.27M 3s
+    50K .......... .......... .......... .......... .......... 21% 61.0M 1s
+   100K .......... .......... .......... .......... .......... 32% 2.54M 1s
+   150K .......... .......... .......... .......... .......... 43% 85.6M 1s
+   200K .......... .......... .......... .......... .......... 54% 2.64M 1s
+   250K .......... .......... .......... .......... .......... 65% 70.6M 0s
+   300K .......... .......... .......... .......... .......... 76% 93.1M 0s
+   350K .......... .......... .......... .......... .......... 87% 2.65M 0s
+   400K .......... .......... .......... .......... .......... 97% 71.1M 0s
+   450K .........                                             100% 1.32G=0.8s
+
+2020-03-02 04:44:26 (4.59 Mb/s) - ‘/dev/null’ saved [470701/470701]
+

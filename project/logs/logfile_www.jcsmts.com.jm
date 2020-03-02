@@ -1,0 +1,11 @@
+--2020-03-02 05:10:02--  http://www.jcsmts.com.jm/pdf/MembersAdvisory.pdf
+Resolving www.jcsmts.com.jm (www.jcsmts.com.jm)... 192.185.5.84
+Connecting to www.jcsmts.com.jm (www.jcsmts.com.jm)|192.185.5.84|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 26772 (26K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                          100% 1.76M=0.1s
+
+2020-03-02 05:10:03 (1.76 Mb/s) - ‘/dev/null’ saved [26772/26772]
+

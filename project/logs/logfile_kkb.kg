@@ -1,0 +1,17 @@
+--2020-03-02 06:07:24--  http://kkb.kg/upload/file/december.pdf
+Resolving kkb.kg (kkb.kg)... 176.126.165.114
+Connecting to kkb.kg (kkb.kg)|176.126.165.114|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://kkb.kg:443/upload/file/december.pdf [following]
+--2020-03-02 06:07:24--  https://kkb.kg/upload/file/december.pdf
+Connecting to kkb.kg (kkb.kg)|176.126.165.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140859 (138K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 3.54M 0s
+    50K .......... .......... .......... .......... .......... 72% 1.82M 0s
+   100K .......... .......... .......... .......              100%  144M=0.3s
+
+2020-03-02 06:07:25 (3.29 Mb/s) - ‘/dev/null’ saved [140859/140859]
+

@@ -1,0 +1,13 @@
+--2020-03-02 03:20:54--  http://mgt.guc.edu.eg/wpapers/011bassiouny_taher_aish2008.pdf
+Resolving mgt.guc.edu.eg (mgt.guc.edu.eg)... 62.241.151.181
+Connecting to mgt.guc.edu.eg (mgt.guc.edu.eg)|62.241.151.181|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132115 (129K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 1.40M 0s
+    50K .......... .......... .......... .......... .......... 77% 5.44M 0s
+   100K .......... .......... .........                       100%  272M=0.4s
+
+2020-03-02 03:20:56 (2.86 Mb/s) - ‘/dev/null’ saved [132115/132115]
+

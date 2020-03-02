@@ -1,0 +1,19 @@
+--2020-03-02 03:38:28--  http://www.bred.com.fj/images/bred/documents/BRED_Bank_Business_Account_Application_Form.pdf
+Resolving www.bred.com.fj (www.bred.com.fj)... 58.137.102.247
+Connecting to www.bred.com.fj (www.bred.com.fj)|58.137.102.247|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bred.com.fj/images/bred/documents/BRED_Bank_Business_Account_Application_Form.pdf [following]
+--2020-03-02 03:38:29--  https://www.bred.com.fj/images/bred/documents/BRED_Bank_Business_Account_Application_Form.pdf
+Connecting to www.bred.com.fj (www.bred.com.fj)|58.137.102.247|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 238261 (233K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 1.33M 1s
+    50K .......... .......... .......... .......... .......... 42% 1.32M 1s
+   100K .......... .......... .......... .......... .......... 64% 1.34M 1s
+   150K .......... .......... .......... .......... .......... 85% 1.34M 0s
+   200K .......... .......... .......... ..                   100%  252M=1.2s
+
+2020-03-02 03:38:31 (1.55 Mb/s) - ‘/dev/null’ saved [238261/238261]
+

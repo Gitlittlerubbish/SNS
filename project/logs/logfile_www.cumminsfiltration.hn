@@ -1,0 +1,30 @@
+--2020-03-02 04:26:05--  http://www.cumminsfiltration.hn/pdfs/catalog/book1_filter_by_dimension.pdf
+Resolving www.cumminsfiltration.hn (www.cumminsfiltration.hn)... 192.124.249.12
+Connecting to www.cumminsfiltration.hn (www.cumminsfiltration.hn)|192.124.249.12|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://cumminsfiltration.com/pdfs/catalog/book1_filter_by_dimension.pdf [following]
+--2020-03-02 04:26:05--  http://cumminsfiltration.com/pdfs/catalog/book1_filter_by_dimension.pdf
+Resolving cumminsfiltration.com (cumminsfiltration.com)... 192.124.249.12
+Reusing existing connection to www.cumminsfiltration.hn:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://cumminsfiltration.com/pdfs/catalog/book1_filter_by_dimension.pdf [following]
+--2020-03-02 04:26:05--  https://cumminsfiltration.com/pdfs/catalog/book1_filter_by_dimension.pdf
+Connecting to cumminsfiltration.com (cumminsfiltration.com)|192.124.249.12|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://cumminsfiltration.com/sites/default/files/pdf_archive/pdfs/catalog/book1_filter_by_dimension.pdf [following]
+--2020-03-02 04:26:05--  https://cumminsfiltration.com/sites/default/files/pdf_archive/pdfs/catalog/book1_filter_by_dimension.pdf
+Reusing existing connection to cumminsfiltration.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 322385 (315K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 5.54M 0s
+    50K .......... .......... .......... .......... .......... 31% 5.53M 0s
+   100K .......... .......... .......... .......... .......... 47%  137M 0s
+   150K .......... .......... .......... .......... .......... 63% 5.86M 0s
+   200K .......... .......... .......... .......... .......... 79%  159M 0s
+   250K .......... .......... .......... .......... .......... 95% 25.2M 0s
+   300K .......... ....                                       100%  750M=0.2s
+
+2020-03-02 04:26:06 (10.8 Mb/s) - ‘/dev/null’ saved [322385/322385]
+

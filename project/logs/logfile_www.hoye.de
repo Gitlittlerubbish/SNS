@@ -1,0 +1,12 @@
+--2020-03-02 04:00:29--  http://www.hoye.de/saekular/lieferung6.pdf
+Resolving www.hoye.de (www.hoye.de)... 217.160.230.164
+Connecting to www.hoye.de (www.hoye.de)|217.160.230.164|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71426 (70K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 71% 10.8M 0s
+    50K .......... .........                                  100% 25.6M=0.04s
+
+2020-03-02 04:00:29 (12.9 Mb/s) - ‘/dev/null’ saved [71426/71426]
+

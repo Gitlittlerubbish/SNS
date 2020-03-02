@@ -1,0 +1,13 @@
+--2020-03-01 23:25:14--  http://www.azgk.am/doc/Amos/3.pdf
+Resolving www.azgk.am (www.azgk.am)... 217.113.3.234
+Connecting to www.azgk.am (www.azgk.am)|217.113.3.234|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131820 (129K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 2.62M 0s
+    50K .......... .......... .......... .......... .......... 77% 5.35M 0s
+   100K .......... .......... ........                        100%  132M=0.2s
+
+2020-03-01 23:25:15 (4.49 Mb/s) - ‘/dev/null’ saved [131820/131820]
+

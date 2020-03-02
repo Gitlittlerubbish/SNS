@@ -1,0 +1,16 @@
+--2020-03-02 06:25:33--  http://www.iaw.li/assets/iaw_safeport.pdf
+Resolving www.iaw.li (www.iaw.li)... 193.33.128.218
+Connecting to www.iaw.li (www.iaw.li)|193.33.128.218|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.iaw.li/assets/iaw_safeport.pdf [following]
+--2020-03-02 06:25:33--  https://www.iaw.li/assets/iaw_safeport.pdf
+Connecting to www.iaw.li (www.iaw.li)|193.33.128.218|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 66546 (65K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 76% 6.24M 0s
+    50K .......... ....                                       100%  664M=0.07s
+
+2020-03-02 06:25:33 (8.09 Mb/s) - ‘/dev/null’ saved [66546/66546]
+

@@ -1,0 +1,20 @@
+--2020-03-02 01:48:36--  http://www.cnps.cm/images/demande_dimmas_assure.pdf
+Resolving www.cnps.cm (www.cnps.cm)... 195.24.201.12
+Connecting to www.cnps.cm (www.cnps.cm)|195.24.201.12|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.cnps.cm/index.php [following]
+--2020-03-02 01:48:40--  https://www.cnps.cm/index.php
+Connecting to www.cnps.cm (www.cnps.cm)|195.24.201.12|:443... connected.
+HTTP request sent, awaiting response... 303 See other
+Location: https://www.cnps.cm/index.php/fr/ [following]
+--2020-03-02 01:48:41--  https://www.cnps.cm/index.php/fr/
+Connecting to www.cnps.cm (www.cnps.cm)|195.24.201.12|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  717K
+    50K .......... .......... .......... .......... ........   2.18M=0.8s
+
+2020-03-02 01:48:43 (1.07 Mb/s) - ‘/dev/null’ saved [101021]
+

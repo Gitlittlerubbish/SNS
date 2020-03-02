@@ -1,0 +1,11 @@
+--2020-03-02 05:43:53--  http://www.mohw.go.kr/databank/Health_Insurance_in_US_2002_1.pdf
+Resolving www.mohw.go.kr (www.mohw.go.kr)... 27.101.211.164
+Connecting to www.mohw.go.kr (www.mohw.go.kr)|27.101.211.164|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 249 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 94.9M=0s
+
+2020-03-02 05:43:55 (94.9 Mb/s) - ‘/dev/null’ saved [249/249]
+

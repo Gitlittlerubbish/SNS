@@ -1,0 +1,15 @@
+--2020-03-02 04:40:31--  http://pame.is/mema/MEMAdatabase/302_American_Indian_Religous_Freedom_Act.pdf
+Resolving pame.is (pame.is)... 212.30.239.17
+Connecting to pame.is (pame.is)|212.30.239.17|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pame.is/mema/MEMAdatabase/302_American_Indian_Religous_Freedom_Act.pdf [following]
+--2020-03-02 04:40:31--  https://pame.is/mema/MEMAdatabase/302_American_Indian_Religous_Freedom_Act.pdf
+Connecting to pame.is (pame.is)|212.30.239.17|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21022 (21K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ..........                                 100% 3.58M=0.05s
+
+2020-03-02 04:40:32 (3.58 Mb/s) - ‘/dev/null’ saved [21022/21022]
+

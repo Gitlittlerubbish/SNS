@@ -1,0 +1,34 @@
+--2020-03-02 04:00:42--  http://www.ml.niedersachsen.de/download/140784
+Resolving www.ml.niedersachsen.de (www.ml.niedersachsen.de)... 80.228.55.135
+Connecting to www.ml.niedersachsen.de (www.ml.niedersachsen.de)|80.228.55.135|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ml.niedersachsen.de/download/140784 [following]
+--2020-03-02 04:00:42--  https://www.ml.niedersachsen.de/download/140784
+Connecting to www.ml.niedersachsen.de (www.ml.niedersachsen.de)|80.228.55.135|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143964 (141K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 10.5M 0s
+    50K .......... .......... .......... .......... .......... 71% 20.7M 0s
+   100K .......... .......... .......... ..........           100%  131M=0.06s
+
+2020-03-02 04:00:42 (18.8 Mb/s) - ‘/dev/null’ saved [143964/143964]
+
+--2020-03-02 04:00:46--  http://www.ml.niedersachsen.de/download/140784
+Resolving www.ml.niedersachsen.de (www.ml.niedersachsen.de)... 80.228.55.135
+Connecting to www.ml.niedersachsen.de (www.ml.niedersachsen.de)|80.228.55.135|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ml.niedersachsen.de/download/140784 [following]
+--2020-03-02 04:00:46--  https://www.ml.niedersachsen.de/download/140784
+Connecting to www.ml.niedersachsen.de (www.ml.niedersachsen.de)|80.228.55.135|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143964 (141K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 6.86M 0s
+    50K .......... .......... .......... .......... .......... 71% 14.6M 0s
+   100K .......... .......... .......... ..........           100%  107M=0.09s
+
+2020-03-02 04:00:47 (12.7 Mb/s) - ‘/dev/null’ saved [143964/143964]
+

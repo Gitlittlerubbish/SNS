@@ -1,0 +1,19 @@
+--2020-03-02 07:27:25--  http://jamesturner.yt/files/dulTwe0Ej.pdf
+Resolving jamesturner.yt (jamesturner.yt)... 104.28.13.85, 104.28.12.85
+Connecting to jamesturner.yt (jamesturner.yt)|104.28.13.85|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jamesturner.yt/files/dulTwe0Ej.pdf [following]
+--2020-03-02 07:27:25--  https://jamesturner.yt/files/dulTwe0Ej.pdf
+Connecting to jamesturner.yt (jamesturner.yt)|104.28.13.85|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216155 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.27M 1s
+    50K .......... .......... .......... .......... .......... 47%  105M 0s
+   100K .......... .......... .......... .......... .......... 71%  220M 0s
+   150K .......... .......... .......... .......... .......... 94%  132M 0s
+   200K .......... .                                          100% 38.7M=0.2s
+
+2020-03-02 07:27:27 (9.04 Mb/s) - ‘/dev/null’ saved [216155/216155]
+

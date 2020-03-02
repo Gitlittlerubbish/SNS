@@ -1,0 +1,13 @@
+--2020-03-02 04:43:40--  http://mylpg.in/docs/KYC.pdf
+Resolving mylpg.in (mylpg.in)... 164.100.58.102
+Connecting to mylpg.in (mylpg.in)|164.100.58.102|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146812 (143K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 1.18M 1s
+    50K .......... .......... .......... .......... .......... 69% 1.18M 0s
+   100K .......... .......... .......... .......... ...       100% 2.06M=0.9s
+
+2020-03-02 04:43:41 (1.35 Mb/s) - ‘/dev/null’ saved [146812/146812]
+

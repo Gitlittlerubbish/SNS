@@ -1,0 +1,21 @@
+--2020-03-01 22:35:34--  http://www.afrox.co.ao/en/images/AnnualReport_2009_tcm748-27599.pdf
+Resolving www.afrox.co.ao (www.afrox.co.ao)... 2.22.137.153
+Connecting to www.afrox.co.ao (www.afrox.co.ao)|2.22.137.153|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.afrox.co.za [following]
+--2020-03-01 22:35:34--  http://www.afrox.co.za/
+Resolving www.afrox.co.za (www.afrox.co.za)... 2.22.137.153
+Reusing existing connection to www.afrox.co.ao:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.afrox.co.za/en/index.html [following]
+--2020-03-01 22:35:34--  http://www.afrox.co.za/en/index.html
+Reusing existing connection to www.afrox.co.ao:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54.8M
+    50K .......... .......... .......... ......                40.8M=0.01s
+
+2020-03-01 22:35:34 (47.9 Mb/s) - ‘/dev/null’ saved [88273]
+

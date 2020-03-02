@@ -1,0 +1,22 @@
+--2020-03-02 05:05:40--  http://clk.im/R78l
+Resolving clk.im (clk.im)... 34.203.175.7, 52.20.162.227
+Connecting to clk.im (clk.im)|34.203.175.7|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1340 (1.3K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  893M=0s
+
+2020-03-02 05:05:40 (893 Mb/s) - ‘/dev/null’ saved [1340/1340]
+
+--2020-03-02 05:05:40--  http://clk.im/1lIg
+Resolving clk.im (clk.im)... 52.20.162.227, 34.203.175.7
+Connecting to clk.im (clk.im)|52.20.162.227|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1442 (1.4K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  641M=0s
+
+2020-03-02 05:05:40 (641 Mb/s) - ‘/dev/null’ saved [1442/1442]
+

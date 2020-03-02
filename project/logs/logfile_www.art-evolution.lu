@@ -1,0 +1,14 @@
+--2020-03-02 06:28:43--  http://www.art-evolution.lu/engmanualart7.pdf
+Resolving www.art-evolution.lu (www.art-evolution.lu)... 95.128.201.237
+Connecting to www.art-evolution.lu (www.art-evolution.lu)|95.128.201.237|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 195726 (191K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 26% 7.42M 0s
+    50K .......... .......... .......... .......... .......... 52% 14.7M 0s
+   100K .......... .......... .......... .......... .......... 78%  676M 0s
+   150K .......... .......... .......... .......... .         100%  262M=0.08s
+
+2020-03-02 06:28:44 (18.4 Mb/s) - ‘/dev/null’ saved [195726/195726]
+

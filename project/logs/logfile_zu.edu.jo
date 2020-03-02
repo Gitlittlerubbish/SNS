@@ -1,0 +1,15 @@
+--2020-03-02 05:23:58--  http://zu.edu.jo/FileResource/Regulation_Pdf/04.pdf
+Resolving zu.edu.jo (zu.edu.jo)... 212.35.78.193
+Connecting to zu.edu.jo (zu.edu.jo)|212.35.78.193|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 207923 (203K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 2.54M 0s
+    50K .......... .......... .......... .......... .......... 49% 5.11M 0s
+   100K .......... .......... .......... .......... .......... 73% 5.07M 0s
+   150K .......... .......... .......... .......... .......... 98% 5.63M 0s
+   200K ...                                                   100%  500K=0.4s
+
+2020-03-02 05:23:59 (4.21 Mb/s) - ‘/dev/null’ saved [207923/207923]
+

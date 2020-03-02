@@ -1,0 +1,13 @@
+--2020-03-02 02:21:24--  http://www.snc.cx/pdf/siresirac.pdf
+Resolving www.snc.cx (www.snc.cx)... 62.210.16.61
+Connecting to www.snc.cx (www.snc.cx)|62.210.16.61|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148578 (145K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 12.9M 0s
+    50K .......... .......... .......... .......... .......... 68% 24.5M 0s
+   100K .......... .......... .......... .......... .....     100% 82.1M=0.05s
+
+2020-03-02 02:21:27 (22.4 Mb/s) - ‘/dev/null’ saved [148578/148578]
+

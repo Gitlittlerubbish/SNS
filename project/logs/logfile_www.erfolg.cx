@@ -1,0 +1,13 @@
+--2020-03-02 02:21:43--  http://www.erfolg.cx/programm28_03_2007.pdf
+Resolving www.erfolg.cx (www.erfolg.cx)... 81.28.228.81
+Connecting to www.erfolg.cx (www.erfolg.cx)|81.28.228.81|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 126472 (124K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 40% 6.52M 0s
+    50K .......... .......... .......... .......... .......... 80% 13.8M 0s
+   100K .......... .......... ...                             100% 78.3M=0.1s
+
+2020-03-02 02:21:43 (10.6 Mb/s) - ‘/dev/null’ saved [126472/126472]
+

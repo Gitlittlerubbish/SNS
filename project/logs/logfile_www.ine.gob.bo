@@ -1,0 +1,19 @@
+--2020-03-02 00:47:51--  http://www.ine.gob.bo/pdf/Preguntas_Frecuentes.pdf
+Resolving www.ine.gob.bo (www.ine.gob.bo)... 200.105.137.11
+Connecting to www.ine.gob.bo (www.ine.gob.bo)|200.105.137.11|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ine.gob.bo/pdf/Preguntas_Frecuentes.pdf [following]
+--2020-03-02 00:47:52--  https://www.ine.gob.bo/pdf/Preguntas_Frecuentes.pdf
+Connecting to www.ine.gob.bo (www.ine.gob.bo)|200.105.137.11|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216454 (211K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 1.03M 1s
+    50K .......... .......... .......... .......... .......... 47% 2.08M 1s
+   100K .......... .......... .......... .......... .......... 70% 90.5M 0s
+   150K .......... .......... .......... .......... .......... 94% 85.7M 0s
+   200K .......... .                                          100%  840M=0.6s
+
+2020-03-02 00:47:54 (2.86 Mb/s) - ‘/dev/null’ saved [216454/216454]
+

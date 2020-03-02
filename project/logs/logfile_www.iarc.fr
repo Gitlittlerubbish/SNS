@@ -1,0 +1,15 @@
+--2020-03-02 03:46:40--  http://www.iarc.fr/wp-content/uploads/2020/02/pr279_E.pdf
+Resolving www.iarc.fr (www.iarc.fr)... 193.51.164.6
+Connecting to www.iarc.fr (www.iarc.fr)|193.51.164.6|:80... connected.
+HTTP request sent, awaiting response... 307 Moved Temporarily
+Location: https://www.iarc.fr/wp-content/uploads/2020/02/pr279_E.pdf [following]
+--2020-03-02 03:46:41--  https://www.iarc.fr/wp-content/uploads/2020/02/pr279_E.pdf
+Connecting to www.iarc.fr (www.iarc.fr)|193.51.164.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 42944 (42K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .         100% 5.85M=0.06s
+
+2020-03-02 03:46:41 (5.85 Mb/s) - ‘/dev/null’ saved [42944/42944]
+

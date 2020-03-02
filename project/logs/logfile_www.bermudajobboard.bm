@@ -1,0 +1,19 @@
+--2020-03-02 00:33:52--  http://www.bermudajobboard.bm/UploadedFiles/ResourceDocs/SEPInstructions.pdf
+Resolving www.bermudajobboard.bm (www.bermudajobboard.bm)... 69.17.200.236
+Connecting to www.bermudajobboard.bm (www.bermudajobboard.bm)|69.17.200.236|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.bermudajobboard.bm/UploadedFiles/ResourceDocs/SEPInstructions.pdf [following]
+--2020-03-02 00:33:52--  https://www.bermudajobboard.bm/UploadedFiles/ResourceDocs/SEPInstructions.pdf
+Connecting to www.bermudajobboard.bm (www.bermudajobboard.bm)|69.17.200.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220864 (216K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 2.18M 1s
+    50K .......... .......... .......... .......... .......... 46% 4.63M 0s
+   100K .......... .......... .......... .......... .......... 69% 98.7M 0s
+   150K .......... .......... .......... .......... .......... 92% 4.68M 0s
+   200K .......... .....                                      100% 91.3M=0.4s
+
+2020-03-02 00:33:53 (4.78 Mb/s) - ‘/dev/null’ saved [220864/220864]
+

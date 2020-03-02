@@ -1,0 +1,16 @@
+--2020-03-01 22:27:03--  http://www.lfp.dz/uploads/files/document/fichier_document_Liste_des_interdictions_2017.pdf
+Resolving www.lfp.dz (www.lfp.dz)... 51.91.104.141
+Connecting to www.lfp.dz (www.lfp.dz)|51.91.104.141|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 258484 (252K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 24.1M 0s
+    50K .......... .......... .......... .......... .......... 39% 57.4M 0s
+   100K .......... .......... .......... .......... .......... 59% 68.8M 0s
+   150K .......... .......... .......... .......... .......... 79%  191M 0s
+   200K .......... .......... .......... .......... .......... 99%  217M 0s
+   250K ..                                                    100%  397K=0.03s
+
+2020-03-01 22:27:03 (60.6 Mb/s) - ‘/dev/null’ saved [258484/258484]
+

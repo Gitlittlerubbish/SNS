@@ -1,0 +1,16 @@
+--2020-03-02 05:08:12--  http://adafru.it/FZU
+Resolving adafru.it (adafru.it)... 162.243.27.247
+Connecting to adafru.it (adafru.it)|162.243.27.247|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.audiology.org/sites/default/files/ChasinConversionChart.pdf [following]
+--2020-03-02 05:08:12--  https://www.audiology.org/sites/default/files/ChasinConversionChart.pdf
+Resolving www.audiology.org (www.audiology.org)... 192.124.249.4
+Connecting to www.audiology.org (www.audiology.org)|192.124.249.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27567 (27K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                          100% 12.4M=0.02s
+
+2020-03-02 05:08:12 (12.4 Mb/s) - ‘/dev/null’ saved [27567/27567]
+

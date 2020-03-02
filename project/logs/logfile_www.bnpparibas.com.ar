@@ -1,0 +1,15 @@
+--2020-03-01 23:13:46--  http://www.bnpparibas.com.ar/pdf/gestion_riesgos.pdf
+Resolving www.bnpparibas.com.ar (www.bnpparibas.com.ar)... 170.19.102.65
+Connecting to www.bnpparibas.com.ar (www.bnpparibas.com.ar)|170.19.102.65|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bnpparibas.com.ar/pdf/gestion_riesgos.pdf [following]
+--2020-03-01 23:13:47--  https://www.bnpparibas.com.ar/pdf/gestion_riesgos.pdf
+Connecting to www.bnpparibas.com.ar (www.bnpparibas.com.ar)|170.19.102.65|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 246 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 82.0M=0s
+
+2020-03-01 23:13:47 (82.0 Mb/s) - ‘/dev/null’ saved [246/246]
+

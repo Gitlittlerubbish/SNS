@@ -1,0 +1,16 @@
+--2020-03-02 00:30:41--  http://www.bermudaislander.bm/BISL_Schedule_2019.pdf
+Resolving www.bermudaislander.bm (www.bermudaislander.bm)... 109.73.225.215
+Connecting to www.bermudaislander.bm (www.bermudaislander.bm)|109.73.225.215|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bermudaislander.bm/BISL_Schedule_2019.pdf [following]
+--2020-03-02 00:30:41--  https://www.bermudaislander.bm/BISL_Schedule_2019.pdf
+Connecting to www.bermudaislander.bm (www.bermudaislander.bm)|109.73.225.215|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60848 (59K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 84% 3.91M 0s
+    50K .........                                             100%  930M=0.1s
+
+2020-03-02 00:30:42 (4.64 Mb/s) - ‘/dev/null’ saved [60848/60848]
+

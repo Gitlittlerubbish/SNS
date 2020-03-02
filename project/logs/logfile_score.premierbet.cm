@@ -1,0 +1,16 @@
+--2020-03-02 01:49:44--  http://score.premierbet.cm/pdf/goals.pdf
+Resolving score.premierbet.cm (score.premierbet.cm)... 104.17.215.6, 104.17.214.6
+Connecting to score.premierbet.cm (score.premierbet.cm)|104.17.215.6|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 289976 (283K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 4.32M 0s
+    50K .......... .......... .......... .......... .......... 35% 8.99M 0s
+   100K .......... .......... .......... .......... .......... 52% 9.56M 0s
+   150K .......... .......... .......... .......... .......... 70%  238M 0s
+   200K .......... .......... .......... .......... .......... 88% 9.25M 0s
+   250K .......... .......... .......... ...                  100%  173M=0.2s
+
+2020-03-02 01:49:45 (10.1 Mb/s) - ‘/dev/null’ saved [289976/289976]
+

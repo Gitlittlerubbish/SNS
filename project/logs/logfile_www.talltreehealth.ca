@@ -1,0 +1,24 @@
+--2020-03-02 01:51:18--  http://www.talltreehealth.ca/s/Diabetes-2
+Resolving www.talltreehealth.ca (www.talltreehealth.ca)... 198.185.159.144, 198.49.23.145, 198.185.159.145, ...
+Connecting to www.talltreehealth.ca (www.talltreehealth.ca)|198.185.159.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.talltreehealth.ca/s/Diabetes-2 [following]
+--2020-03-02 01:51:19--  https://www.talltreehealth.ca/s/Diabetes-2
+Connecting to www.talltreehealth.ca (www.talltreehealth.ca)|198.185.159.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/5444623ee4b0d76b2e58b405/t/54ac6dd2e4b0ab38fef611bd/1420586465509/Diabetes+2 [following]
+--2020-03-02 01:51:19--  https://static1.squarespace.com/static/5444623ee4b0d76b2e58b405/t/54ac6dd2e4b0ab38fef611bd/1420586465509/Diabetes+2
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245850 (240K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 44.2M 0s
+    50K .......... .......... .......... .......... .......... 41% 61.8M 0s
+   100K .......... .......... .......... .......... .......... 62% 71.1M 0s
+   150K .......... .......... .......... .......... .......... 83% 80.5M 0s
+   200K .......... .......... .......... ..........           100% 59.1M=0.03s
+
+2020-03-02 01:51:19 (60.9 Mb/s) - ‘/dev/null’ saved [245850/245850]
+

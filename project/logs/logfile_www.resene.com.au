@@ -1,0 +1,20 @@
+--2020-03-01 23:34:31--  http://www.resene.com.au/pdf/retailpricelist.pdf
+Resolving www.resene.com.au (www.resene.com.au)... 210.48.107.142
+Connecting to www.resene.com.au (www.resene.com.au)|210.48.107.142|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.resene.com.au/pdf/retailpricelist.pdf [following]
+--2020-03-01 23:34:33--  https://www.resene.com.au/pdf/retailpricelist.pdf
+Connecting to www.resene.com.au (www.resene.com.au)|210.48.107.142|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.resene.com.au/comn/services/card_au.htm [following]
+--2020-03-01 23:34:34--  https://www.resene.com.au/comn/services/card_au.htm
+Reusing existing connection to www.resene.com.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  501K
+    50K .......... .......... .......... ..........             813K=1.2s
+
+2020-03-01 23:34:36 (605 Kb/s) - ‘/dev/null’ saved [93044]
+

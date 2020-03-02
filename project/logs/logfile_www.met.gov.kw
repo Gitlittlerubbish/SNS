@@ -1,0 +1,22 @@
+--2020-03-02 06:03:33--  http://www.met.gov.kw/Forecasts/pdf/ID03MRNP310R11IA0.pdf
+Resolving www.met.gov.kw (www.met.gov.kw)... 51.141.32.166
+Connecting to www.met.gov.kw (www.met.gov.kw)|51.141.32.166|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.met.gov.kw/Forecasts/pdf/ID03MRNP310R11IA0.pdf [following]
+--2020-03-02 06:03:33--  https://www.met.gov.kw/Forecasts/pdf/ID03MRNP310R11IA0.pdf
+Connecting to www.met.gov.kw (www.met.gov.kw)|51.141.32.166|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 388481 (379K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 25.8M 0s
+    50K .......... .......... .......... .......... .......... 26%  125M 0s
+   100K .......... .......... .......... .......... .......... 39% 51.8M 0s
+   150K .......... .......... .......... .......... .......... 52%  167M 0s
+   200K .......... .......... .......... .......... .......... 65% 67.1M 0s
+   250K .......... .......... .......... .......... .......... 79%  157M 0s
+   300K .......... .......... .......... .......... .......... 92%  132M 0s
+   350K .......... .......... .........                       100%  364M=0.04s
+
+2020-03-02 06:03:33 (74.0 Mb/s) - ‘/dev/null’ saved [388481/388481]
+

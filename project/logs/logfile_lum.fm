@@ -1,0 +1,35 @@
+--2020-03-02 07:33:02--  http://lum.fm/press_release_819_PDF.pdf
+Resolving lum.fm (lum.fm)... 35.161.85.58, 54.201.130.143, 52.35.249.216, ...
+Connecting to lum.fm (lum.fm)|35.161.85.58|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lum.fm:443/press_release_819_PDF.pdf [following]
+--2020-03-02 07:33:02--  https://lum.fm/press_release_819_PDF.pdf
+Connecting to lum.fm (lum.fm)|35.161.85.58|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 156334 (153K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32% 2.91M 0s
+    50K .......... .......... .......... .......... .......... 65% 2.95M 0s
+   100K .......... .......... .......... .......... .......... 98% 98.9M 0s
+   150K ..                                                    100%  336M=0.3s
+
+2020-03-02 07:33:03 (4.40 Mb/s) - ‘/dev/null’ saved [156334/156334]
+
+--2020-03-02 07:34:45--  http://lum.fm/press_release_113_PDF.pdf
+Resolving lum.fm (lum.fm)... 54.70.124.215, 35.161.85.58, 54.201.130.143, ...
+Connecting to lum.fm (lum.fm)|54.70.124.215|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://lum.fm:443/press_release_113_PDF.pdf [following]
+--2020-03-02 07:34:45--  https://lum.fm/press_release_113_PDF.pdf
+Connecting to lum.fm (lum.fm)|54.70.124.215|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148198 (145K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 2.89M 0s
+    50K .......... .......... .......... .......... .......... 69% 2.92M 0s
+   100K .......... .......... .......... .......... ....      100%  133M=0.3s
+
+2020-03-02 07:34:46 (4.17 Mb/s) - ‘/dev/null’ saved [148198/148198]
+

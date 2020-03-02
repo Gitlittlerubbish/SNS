@@ -1,0 +1,14 @@
+--2020-03-02 01:24:42--  http://fire-rescue.gov.bn/BorangBorang/FDNAS.pdf
+Resolving fire-rescue.gov.bn (fire-rescue.gov.bn)... 103.4.188.86
+Connecting to fire-rescue.gov.bn (fire-rescue.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173963 (170K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29%  334K 3s
+    50K .......... .......... .......... .......... .......... 58% 1000K 1s
+   100K .......... .......... .......... .......... .......... 88%  994K 0s
+   150K .......... .........                                  100%  147M=2.1s
+
+2020-03-02 01:24:45 (679 Kb/s) - ‘/dev/null’ saved [173963/173963]
+

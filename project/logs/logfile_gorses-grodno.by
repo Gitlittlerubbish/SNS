@@ -1,0 +1,16 @@
+--2020-03-02 00:14:47--  http://gorses-grodno.by/pages/180171050414
+Resolving gorses-grodno.by (gorses-grodno.by)... 86.57.246.74
+Connecting to gorses-grodno.by (gorses-grodno.by)|86.57.246.74|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://gorses-grodno.by/media/file/binary/2017/6/27/180171050414/hepc_final_pdf.pdf?srv=cms [following]
+--2020-03-02 00:14:47--  http://gorses-grodno.by/media/file/binary/2017/6/27/180171050414/hepc_final_pdf.pdf?srv=cms
+Reusing existing connection to gorses-grodno.by:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 92914 (91K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 1.53M 0s
+    50K .......... .......... .......... ..........           100% 1.74G=0.3s
+
+2020-03-02 00:14:48 (2.77 Mb/s) - ‘/dev/null’ saved [92914/92914]
+

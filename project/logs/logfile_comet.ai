@@ -1,0 +1,16 @@
+--2020-03-01 22:41:38--  http://comet.ai/letterhead_paper_size.pdf
+Resolving comet.ai (comet.ai)... 52.216.184.154
+Connecting to comet.ai (comet.ai)|52.216.184.154|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.comet.ml/letterhead_paper_size.pdf [following]
+--2020-03-01 22:41:38--  https://www.comet.ml/letterhead_paper_size.pdf
+Resolving www.comet.ml (www.comet.ml)... 18.206.111.232, 52.201.108.4
+Connecting to www.comet.ml (www.comet.ml)|18.206.111.232|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27624 (27K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                          100%  182M=0.001s
+
+2020-03-01 22:41:38 (182 Mb/s) - ‘/dev/null’ saved [27624/27624]
+

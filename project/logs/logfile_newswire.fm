@@ -1,0 +1,12 @@
+--2020-03-02 07:35:00--  http://newswire.fm/pdf/Chatwal_July2018.pdf
+Resolving newswire.fm (newswire.fm)... 192.124.249.152
+Connecting to newswire.fm (newswire.fm)|192.124.249.152|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 93836 (92K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54% 4.90M 0s
+    50K .......... .......... .......... .......... .         100% 9.35M=0.1s
+
+2020-03-02 07:35:00 (6.25 Mb/s) - ‘/dev/null’ saved [93836/93836]
+

@@ -1,0 +1,12 @@
+--2020-03-02 05:09:00--  http://www.malattieraresardegna.it/resources/farmaciFavismo.pdf
+Resolving www.malattieraresardegna.it (www.malattieraresardegna.it)... 79.170.44.156
+Connecting to www.malattieraresardegna.it (www.malattieraresardegna.it)|79.170.44.156|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91510 (89K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 20.3M 0s
+    50K .......... .......... .......... .........            100%  146M=0.02s
+
+2020-03-02 05:09:00 (32.8 Mb/s) - ‘/dev/null’ saved [91510/91510]
+

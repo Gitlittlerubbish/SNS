@@ -1,0 +1,17 @@
+--2020-03-02 04:21:30--  http://agriculturequarantaine.gouv.ht/css/Document/Reglement_general.pdf
+Resolving agriculturequarantaine.gouv.ht (agriculturequarantaine.gouv.ht)... 162.210.99.100
+Connecting to agriculturequarantaine.gouv.ht (agriculturequarantaine.gouv.ht)|162.210.99.100|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://agriculturequarantaine.gouv.ht/css/Document/Reglement_general.pdf [following]
+--2020-03-02 04:21:30--  https://agriculturequarantaine.gouv.ht/css/Document/Reglement_general.pdf
+Connecting to agriculturequarantaine.gouv.ht (agriculturequarantaine.gouv.ht)|162.210.99.100|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131603 (129K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 2.06M 0s
+    50K .......... .......... .......... .......... .......... 77% 4.06M 0s
+   100K .......... .......... ........                        100% 2.48M=0.4s
+
+2020-03-02 04:21:31 (2.67 Mb/s) - ‘/dev/null’ saved [131603/131603]
+

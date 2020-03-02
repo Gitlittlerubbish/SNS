@@ -1,0 +1,15 @@
+--2020-03-02 05:21:37--  http://www.blake.je/download_file/view/15/1
+Resolving www.blake.je (www.blake.je)... 141.0.161.7
+Connecting to www.blake.je (www.blake.je)|141.0.161.7|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.blake.je/application/files/6214/9850/6662/Blake_Holdings_Ltd__Results_of_Mandatory_Cash_Offer__26_June_2017.pdf [following]
+--2020-03-02 05:21:38--  http://www.blake.je/application/files/6214/9850/6662/Blake_Holdings_Ltd__Results_of_Mandatory_Cash_Offer__26_June_2017.pdf
+Reusing existing connection to www.blake.je:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 50055 (49K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........  100% 17.5M=0.02s
+
+2020-03-02 05:21:38 (17.5 Mb/s) - ‘/dev/null’ saved [50055/50055]
+

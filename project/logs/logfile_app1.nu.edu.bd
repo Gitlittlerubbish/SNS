@@ -1,0 +1,12 @@
+--2020-03-02 00:06:14--  http://app1.nu.edu.bd/notice/Branches_SB.pdf
+Resolving app1.nu.edu.bd (app1.nu.edu.bd)... 202.51.176.91
+Connecting to app1.nu.edu.bd (app1.nu.edu.bd)|202.51.176.91|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73573 (72K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 69%  501K 0s
+    50K .......... .......... .                               100%  471K=1.2s
+
+2020-03-02 00:06:18 (491 Kb/s) - ‘/dev/null’ saved [73573/73573]
+

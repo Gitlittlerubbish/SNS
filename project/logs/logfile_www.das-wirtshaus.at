@@ -1,0 +1,12 @@
+--2020-03-01 23:43:10--  http://www.das-wirtshaus.at/menue.pdf
+Resolving www.das-wirtshaus.at (www.das-wirtshaus.at)... 85.13.135.29
+Connecting to www.das-wirtshaus.at (www.das-wirtshaus.at)|85.13.135.29|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 96366 (94K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 53% 6.20M 0s
+    50K .......... .......... .......... .......... ....      100% 65.0M=0.07s
+
+2020-03-01 23:43:10 (10.8 Mb/s) - ‘/dev/null’ saved [96366/96366]
+

@@ -1,0 +1,20 @@
+--2020-03-02 07:39:38--  http://ace.mn/f11b5
+Resolving ace.mn (ace.mn)... 104.27.157.56, 104.27.156.56
+Connecting to ace.mn (ace.mn)|104.27.157.56|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://acem.org.au/getmedia/600bd1f6-be16-4cd3-bc3f-2ecd835d0929/Emergency-Department-Triage-Revisited.aspx [following]
+--2020-03-02 07:39:39--  https://acem.org.au/getmedia/600bd1f6-be16-4cd3-bc3f-2ecd835d0929/Emergency-Department-Triage-Revisited.aspx
+Resolving acem.org.au (acem.org.au)... 104.20.181.69, 104.20.180.69
+Connecting to acem.org.au (acem.org.au)|104.20.181.69|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 223279 (218K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  159M 0s
+    50K .......... .......... .......... .......... .......... 45%  413M 0s
+   100K .......... .......... .......... .......... .......... 68%  643M 0s
+   150K .......... .......... .......... .......... .......... 91%  200M 0s
+   200K .......... ........                                   100%  294M=0.007s
+
+2020-03-02 07:39:39 (265 Mb/s) - ‘/dev/null’ saved [223279/223279]
+

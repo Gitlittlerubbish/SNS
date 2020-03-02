@@ -1,0 +1,12 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:34:19--  https://www.ambulance.qld.gov.au/docs/clinical/dtprotocols/DTP_Methoxyflurane.pdf
+Resolving www.ambulance.qld.gov.au (www.ambulance.qld.gov.au)... 45.60.64.193
+Connecting to www.ambulance.qld.gov.au (www.ambulance.qld.gov.au)|45.60.64.193|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 210 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  120M=0s
+
+2020-03-01 23:34:19 (120 Mb/s) - ‘/dev/null’ saved [210/210]
+

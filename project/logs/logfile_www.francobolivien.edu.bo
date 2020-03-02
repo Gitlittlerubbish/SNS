@@ -1,0 +1,14 @@
+--2020-03-02 00:59:17--  http://www.francobolivien.edu.bo/IMG/pdf/7_autorisation_sortie_de_territoire.pdf
+Resolving www.francobolivien.edu.bo (www.francobolivien.edu.bo)... 192.185.72.203
+Connecting to www.francobolivien.edu.bo (www.francobolivien.edu.bo)|192.185.72.203|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 163907 (160K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.67M 1s
+    50K .......... .......... .......... .......... .......... 62% 3.35M 0s
+   100K .......... .......... .......... .......... .......... 93%  117M 0s
+   150K ..........                                            100%  598M=0.4s
+
+2020-03-02 00:59:18 (3.53 Mb/s) - ‘/dev/null’ saved [163907/163907]
+

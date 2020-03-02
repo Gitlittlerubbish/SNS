@@ -1,0 +1,20 @@
+--2020-03-02 02:28:27--  http://stge.co/8yjZ30ogMEq
+Resolving stge.co (stge.co)... 54.241.242.82
+Connecting to stge.co (stge.co)|54.241.242.82|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/East%20Scotland/Strathtay/ESCOT_Strathtay_73.pdf?hootPostID=11ba0064c425eab91a9cac5b23642800 [following]
+--2020-03-02 02:28:28--  https://tiscon-maps-stagecoachbus.s3.amazonaws.com/Timetables/East%20Scotland/Strathtay/ESCOT_Strathtay_73.pdf?hootPostID=11ba0064c425eab91a9cac5b23642800
+Resolving tiscon-maps-stagecoachbus.s3.amazonaws.com (tiscon-maps-stagecoachbus.s3.amazonaws.com)... 52.218.53.1
+Connecting to tiscon-maps-stagecoachbus.s3.amazonaws.com (tiscon-maps-stagecoachbus.s3.amazonaws.com)|52.218.53.1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 216946 (212K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 24.7M 0s
+    50K .......... .......... .......... .......... .......... 47% 29.3M 0s
+   100K .......... .......... .......... .......... .......... 70% 32.7M 0s
+   150K .......... .......... .......... .......... .......... 94%  129M 0s
+   200K .......... .                                          100%  537M=0.05s
+
+2020-03-02 02:28:28 (37.4 Mb/s) - ‘/dev/null’ saved [216946/216946]
+

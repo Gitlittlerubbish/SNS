@@ -1,0 +1,11 @@
+--2020-03-02 06:25:05--  http://cis.qwogo.li/waves
+Resolving cis.qwogo.li (cis.qwogo.li)... 52.52.41.2
+Connecting to cis.qwogo.li (cis.qwogo.li)|52.52.41.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1535 (1.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  646M=0s
+
+2020-03-02 06:25:06 (646 Mb/s) - ‘/dev/null’ saved [1535/1535]
+

@@ -1,0 +1,19 @@
+--2020-03-02 03:31:01--  http://www.maailmakool.ee/public/venemaa_ja_tsetseenia_konflikti_tagamaad.pdf
+Resolving www.maailmakool.ee (www.maailmakool.ee)... 217.146.69.30
+Connecting to www.maailmakool.ee (www.maailmakool.ee)|217.146.69.30|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.maailmakool.ee/public/venemaa_ja_tsetseenia_konflikti_tagamaad.pdf [following]
+--2020-03-02 03:31:01--  https://www.maailmakool.ee/public/venemaa_ja_tsetseenia_konflikti_tagamaad.pdf
+Connecting to www.maailmakool.ee (www.maailmakool.ee)|217.146.69.30|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 245045 (239K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 5.56M 0s
+    50K .......... .......... .......... .......... .......... 41% 11.1M 0s
+   100K .......... .......... .......... .......... .......... 62%  137M 0s
+   150K .......... .......... .......... .......... .......... 83%  206M 0s
+   200K .......... .......... .......... .........            100% 9.31M=0.2s
+
+2020-03-02 03:31:02 (13.1 Mb/s) - ‘/dev/null’ saved [245045/245045]
+

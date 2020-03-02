@@ -1,0 +1,12 @@
+--2020-03-02 00:23:48--  http://gmm.bz/listini/exhibo/conferenze.pdf
+Resolving gmm.bz (gmm.bz)... 88.198.35.245
+Connecting to gmm.bz (gmm.bz)|88.198.35.245|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62771 (61K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 81% 6.34M 0s
+    50K .......... .                                          100% 83.0M=0.07s
+
+2020-03-02 00:23:48 (7.64 Mb/s) - ‘/dev/null’ saved [62771/62771]
+

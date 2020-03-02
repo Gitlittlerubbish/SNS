@@ -1,0 +1,41 @@
+--2020-03-02 05:02:16--  http://curiosity.im/FMS12012study
+Resolving curiosity.im (curiosity.im)... 67.199.248.13, 67.199.248.12
+Connecting to curiosity.im (curiosity.im)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.ustravel.org/sites/default/files/media_root/5.2015_Relationship_ExecSummary.pdf [following]
+--2020-03-02 05:02:16--  https://www.ustravel.org/sites/default/files/media_root/5.2015_Relationship_ExecSummary.pdf
+Resolving www.ustravel.org (www.ustravel.org)... 23.185.0.2
+Connecting to www.ustravel.org (www.ustravel.org)|23.185.0.2|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146245 (143K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 48.6M 0s
+    50K .......... .......... .......... .......... .......... 70% 83.5M 0s
+   100K .......... .......... .......... .......... ..        100%  108M=0.02s
+
+2020-03-02 05:02:16 (70.6 Mb/s) - ‘/dev/null’ saved [146245/146245]
+
+--2020-03-02 05:02:16--  http://curiosity.im/FMS12013review
+Resolving curiosity.im (curiosity.im)... 67.199.248.13, 67.199.248.12
+Connecting to curiosity.im (curiosity.im)|67.199.248.13|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://scholarworks.umass.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1834&context=ttra [following]
+--2020-03-02 05:02:16--  https://scholarworks.umass.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1834&context=ttra
+Resolving scholarworks.umass.edu (scholarworks.umass.edu)... 13.57.92.51, 50.18.241.247
+Connecting to scholarworks.umass.edu (scholarworks.umass.edu)|13.57.92.51|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 364552 (356K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 1.32M 2s
+    50K .......... .......... .......... .......... .......... 28% 2.59M 1s
+   100K .......... .......... .......... .......... .......... 42%  128M 1s
+   150K .......... .......... .......... .......... .......... 56% 4.18M 0s
+   200K .......... .......... .......... .......... .......... 70% 7.28M 0s
+   250K .......... .......... .......... .......... .......... 84%  159M 0s
+   300K .......... .......... .......... .......... .......... 98%  349M 0s
+   350K ......                                                100%  403M=0.6s
+
+2020-03-02 05:02:18 (4.63 Mb/s) - ‘/dev/null’ saved [364552/364552]
+

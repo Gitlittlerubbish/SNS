@@ -1,0 +1,21 @@
+--2020-03-02 05:20:56--  http://www.soumu.go.jp/main_content/000056809.pdf
+Resolving www.soumu.go.jp (www.soumu.go.jp)... 203.180.216.224
+Connecting to www.soumu.go.jp (www.soumu.go.jp)|203.180.216.224|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.soumu.go.jp/main_content/000056809.pdf [following]
+--2020-03-02 05:20:58--  https://www.soumu.go.jp/main_content/000056809.pdf
+Connecting to www.soumu.go.jp (www.soumu.go.jp)|203.180.216.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 327836 (320K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 1.43M 2s
+    50K .......... .......... .......... .......... .......... 31% 1.33M 1s
+   100K .......... .......... .......... .......... .......... 46% 1.32M 1s
+   150K .......... .......... .......... .......... .......... 62% 1.35M 1s
+   200K .......... .......... .......... .......... .......... 78%  546M 0s
+   250K .......... .......... .......... .......... .......... 93% 1.34M 0s
+   300K .......... ..........                                 100% 85.4M=1.5s
+
+2020-03-02 05:21:01 (1.73 Mb/s) - ‘/dev/null’ saved [327836/327836]
+

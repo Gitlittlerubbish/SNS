@@ -1,0 +1,22 @@
+--2020-03-02 01:53:51--  http://www.csx.ky/csxdol/DailyOfficialList.pdf
+Resolving www.csx.ky (www.csx.ky)... 216.144.83.10
+Connecting to www.csx.ky (www.csx.ky)|216.144.83.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.csx.ky/csxdol/DailyOfficialList.pdf [following]
+--2020-03-02 01:53:51--  https://www.csx.ky/csxdol/DailyOfficialList.pdf
+Connecting to www.csx.ky (www.csx.ky)|216.144.83.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 371608 (363K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 1.52M 2s
+    50K .......... .......... .......... .......... .......... 27%  124M 1s
+   100K .......... .......... .......... .......... .......... 41% 2.99M 1s
+   150K .......... .......... .......... .......... .......... 55%  270M 0s
+   200K .......... .......... .......... .......... .......... 68% 3.10M 0s
+   250K .......... .......... .......... .......... .......... 82%  100M 0s
+   300K .......... .......... .......... .......... .......... 96%  118M 0s
+   350K .......... ..                                         100%  474M=0.6s
+
+2020-03-02 01:53:53 (5.39 Mb/s) - ‘/dev/null’ saved [371608/371608]
+

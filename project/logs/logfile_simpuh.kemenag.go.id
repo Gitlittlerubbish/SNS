@@ -1,0 +1,11 @@
+--2020-03-02 04:50:54--  http://simpuh.kemenag.go.id/regulasi/permendiknas_13_07.pdf
+Resolving simpuh.kemenag.go.id (simpuh.kemenag.go.id)... 103.7.12.180
+Connecting to simpuh.kemenag.go.id (simpuh.kemenag.go.id)|103.7.12.180|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48391 (47K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......   100%  962K=0.4s
+
+2020-03-02 04:50:56 (962 Kb/s) - ‘/dev/null’ saved [48391/48391]
+

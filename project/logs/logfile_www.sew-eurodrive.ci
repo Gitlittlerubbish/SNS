@@ -1,0 +1,16 @@
+--2020-03-02 02:51:08--  http://www.sew-eurodrive.ci/download/pdf/09229019.pdf
+Resolving www.sew-eurodrive.ci (www.sew-eurodrive.ci)... 104.123.89.44
+Connecting to www.sew-eurodrive.ci (www.sew-eurodrive.ci)|104.123.89.44|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sew-eurodrive.ci/os/dud/?tab=documents [following]
+--2020-03-02 02:51:08--  https://www.sew-eurodrive.ci/os/dud/?tab=documents
+Connecting to www.sew-eurodrive.ci (www.sew-eurodrive.ci)|104.123.89.44|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28.8M
+    50K .......... .......... .                                16.8M=0.02s
+
+2020-03-02 02:51:09 (23.7 Mb/s) - ‘/dev/null’ saved [73565]
+

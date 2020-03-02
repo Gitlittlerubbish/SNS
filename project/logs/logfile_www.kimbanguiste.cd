@@ -1,0 +1,13 @@
+--2020-03-02 02:34:58--  http://www.kimbanguiste.cd/document/histoirique_chants_kimbanguiste.pdf
+Resolving www.kimbanguiste.cd (www.kimbanguiste.cd)... 198.46.134.164
+Connecting to www.kimbanguiste.cd (www.kimbanguiste.cd)|198.46.134.164|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135581 (132K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 2.38M 0s
+    50K .......... .......... .......... .......... .......... 75% 4.78M 0s
+   100K .......... .......... .......... ..                   100%  242M=0.3s
+
+2020-03-02 02:34:58 (4.19 Mb/s) - ‘/dev/null’ saved [135581/135581]
+

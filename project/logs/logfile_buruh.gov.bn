@@ -1,0 +1,11 @@
+--2020-03-02 01:28:10--  http://buruh.gov.bn/SiteAssets/Borang%2520Pengecualian_DHLv2.pdf
+Resolving buruh.gov.bn (buruh.gov.bn)... 103.4.188.86
+Connecting to buruh.gov.bn (buruh.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                  185K=0.3s
+
+2020-03-02 01:28:11 (185 Kb/s) - ‘/dev/null’ saved [7092]
+

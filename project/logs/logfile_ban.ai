@@ -1,0 +1,14 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 22:43:12--  https://ban.ai/multics/doc/f19792f9fce8eacba72e5f8c2a021414e52d.pdf
+Resolving ban.ai (ban.ai)... 50.116.31.54
+Connecting to ban.ai (ban.ai)|50.116.31.54|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 137209 (134K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37% 1.17M 1s
+    50K .......... .......... .......... .......... .......... 74% 75.9M 0s
+   100K .......... .......... .......... ...                  100% 2.47M=0.5s
+
+2020-03-01 22:43:14 (2.34 Mb/s) - ‘/dev/null’ saved [137209/137209]
+

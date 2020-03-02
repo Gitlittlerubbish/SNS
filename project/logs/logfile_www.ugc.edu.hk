@@ -1,0 +1,19 @@
+--2020-03-02 04:30:12--  http://www.ugc.edu.hk/doc/eng/ugc/rae/gpg_201406.pdf
+Resolving www.ugc.edu.hk (www.ugc.edu.hk)... 104.19.217.64, 104.19.218.64
+Connecting to www.ugc.edu.hk (www.ugc.edu.hk)|104.19.217.64|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ugc.edu.hk/doc/eng/ugc/rae/gpg_201406.pdf [following]
+--2020-03-02 04:30:13--  https://www.ugc.edu.hk/doc/eng/ugc/rae/gpg_201406.pdf
+Connecting to www.ugc.edu.hk (www.ugc.edu.hk)|104.19.217.64|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 213563 (209K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  957K 1s
+    50K .......... .......... .......... .......... .......... 47%  986K 1s
+   100K .......... .......... .......... .......... .......... 71%  803K 1s
+   150K .......... .......... .......... .......... .......... 95%  233M 0s
+   200K ........                                              100%  349M=1.4s
+
+2020-03-02 04:30:16 (1.26 Mb/s) - ‘/dev/null’ saved [213563/213563]
+

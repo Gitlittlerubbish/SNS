@@ -1,0 +1,43 @@
+--2020-03-02 06:26:18--  http://www.vdi.lt/AtmUploads/ImoniuDSSTarnybuPavyzdiniuNuostatuRekomendacijos.pdf
+Resolving www.vdi.lt (www.vdi.lt)... 195.182.95.158
+Connecting to www.vdi.lt (www.vdi.lt)|195.182.95.158|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.vdi.lt/AtmUploads/ImoniuDSSTarnybuPavyzdiniuNuostatuRekomendacijos.pdf [following]
+--2020-03-02 06:26:18--  https://www.vdi.lt/AtmUploads/ImoniuDSSTarnybuPavyzdiniuNuostatuRekomendacijos.pdf
+Connecting to www.vdi.lt (www.vdi.lt)|195.182.95.158|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 283749 (277K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 4.10M 0s
+    50K .......... .......... .......... .......... .......... 36% 7.82M 0s
+   100K .......... .......... .......... .......... .......... 54%  206M 0s
+   150K .......... .......... .......... .......... .......... 72% 8.73M 0s
+   200K .......... .......... .......... .......... .......... 90%  129M 0s
+   250K .......... .......... .......                         100%  125M=0.2s
+
+2020-03-02 06:26:18 (11.0 Mb/s) - ‘/dev/null’ saved [283749/283749]
+
+--2020-03-02 06:26:18--  http://www.vdi.lt/PdfUploads/NAAtmintineTiriantLengvus.pdf
+Resolving www.vdi.lt (www.vdi.lt)... 195.182.95.158
+Connecting to www.vdi.lt (www.vdi.lt)|195.182.95.158|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.vdi.lt/PdfUploads/NAAtmintineTiriantLengvus.pdf [following]
+--2020-03-02 06:26:18--  https://www.vdi.lt/PdfUploads/NAAtmintineTiriantLengvus.pdf
+Connecting to www.vdi.lt (www.vdi.lt)|195.182.95.158|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 423294 (413K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 4.11M 1s
+    50K .......... .......... .......... .......... .......... 24% 8.19M 0s
+   100K .......... .......... .......... .......... .......... 36% 87.1M 0s
+   150K .......... .......... .......... .......... .......... 48% 8.89M 0s
+   200K .......... .......... .......... .......... .......... 60%  211M 0s
+   250K .......... .......... .......... .......... .......... 72%  113M 0s
+   300K .......... .......... .......... .......... .......... 84% 8.92M 0s
+   350K .......... .......... .......... .......... .......... 96%  110M 0s
+   400K .......... ...                                        100% 1.14G=0.3s
+
+2020-03-02 06:26:19 (13.2 Mb/s) - ‘/dev/null’ saved [423294/423294]
+

@@ -1,0 +1,16 @@
+--2020-03-01 23:44:01--  http://okidoki.orf.at/dateien/2292_Gummitwist_Unzeitig.pdf
+Resolving okidoki.orf.at (okidoki.orf.at)... 194.232.171.6
+Connecting to okidoki.orf.at (okidoki.orf.at)|194.232.171.6|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://okidoki.orf.at/dateien/2292_Gummitwist_Unzeitig.pdf [following]
+--2020-03-01 23:44:01--  https://okidoki.orf.at/dateien/2292_Gummitwist_Unzeitig.pdf
+Connecting to okidoki.orf.at (okidoki.orf.at)|194.232.171.6|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80963 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 7.17M 0s
+    50K .......... .......... .........                       100%  704M=0.06s
+
+2020-03-01 23:44:02 (11.3 Mb/s) - ‘/dev/null’ saved [80963/80963]
+

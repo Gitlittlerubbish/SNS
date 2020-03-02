@@ -1,0 +1,27 @@
+--2020-03-02 01:51:13--  http://www.refugeehealth.ca/s/whatanx2.pdf
+Resolving www.refugeehealth.ca (www.refugeehealth.ca)... 198.49.23.144, 198.185.159.144, 198.49.23.145, ...
+Connecting to www.refugeehealth.ca (www.refugeehealth.ca)|198.49.23.144|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.refugeehealth.ca/s/whatanx2.pdf [following]
+--2020-03-02 01:51:13--  https://www.refugeehealth.ca/s/whatanx2.pdf
+Connecting to www.refugeehealth.ca (www.refugeehealth.ca)|198.49.23.144|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://static1.squarespace.com/static/5a442197f6576e04a0312d07/t/5a4be1fa24a694d32cf8b32c/1514922492032/whatanx2.pdf [following]
+--2020-03-02 01:51:14--  https://static1.squarespace.com/static/5a442197f6576e04a0312d07/t/5a4be1fa24a694d32cf8b32c/1514922492032/whatanx2.pdf
+Resolving static1.squarespace.com (static1.squarespace.com)... 199.232.56.238
+Connecting to static1.squarespace.com (static1.squarespace.com)|199.232.56.238|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 377238 (368K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 36.4M 0s
+    50K .......... .......... .......... .......... .......... 27% 57.4M 0s
+   100K .......... .......... .......... .......... .......... 40% 95.9M 0s
+   150K .......... .......... .......... .......... .......... 54% 54.5M 0s
+   200K .......... .......... .......... .......... .......... 67% 96.1M 0s
+   250K .......... .......... .......... .......... .......... 81% 69.0M 0s
+   300K .......... .......... .......... .......... .......... 95% 78.4M 0s
+   350K .......... ........                                   100% 69.1M=0.05s
+
+2020-03-02 01:51:14 (63.2 Mb/s) - ‘/dev/null’ saved [377238/377238]
+

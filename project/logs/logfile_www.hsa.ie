@@ -1,0 +1,33 @@
+--2020-03-02 05:01:09--  http://www.hsa.ie/!XDWY6J
+Resolving www.hsa.ie (www.hsa.ie)... 52.212.51.172
+Connecting to www.hsa.ie (www.hsa.ie)|52.212.51.172|:80... connected.
+HTTP request sent, awaiting response... 307 Moved Temporarily
+Location: https://www.hsa.ie/!XDWY6J [following]
+--2020-03-02 05:01:09--  https://www.hsa.ie/!XDWY6J
+Connecting to www.hsa.ie (www.hsa.ie)|52.212.51.172|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.hsa.ie/eng/education/managing_safety_and_health_in_schools/new_guidelines_files/faq_s.pdf [following]
+--2020-03-02 05:01:10--  https://www.hsa.ie/eng/education/managing_safety_and_health_in_schools/new_guidelines_files/faq_s.pdf
+Reusing existing connection to www.hsa.ie:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 727694 (711K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  7% 15.8M 0s
+    50K .......... .......... .......... .......... .......... 14% 83.0M 0s
+   100K .......... .......... .......... .......... .......... 21% 28.9M 0s
+   150K .......... .......... .......... .......... .......... 28%  151M 0s
+   200K .......... .......... .......... .......... .......... 35%  107M 0s
+   250K .......... .......... .......... .......... .......... 42% 43.1M 0s
+   300K .......... .......... .......... .......... .......... 49%  271M 0s
+   350K .......... .......... .......... .......... .......... 56% 94.4M 0s
+   400K .......... .......... .......... .......... .......... 63%  151M 0s
+   450K .......... .......... .......... .......... .......... 70% 58.9M 0s
+   500K .......... .......... .......... .......... .......... 77%  134M 0s
+   550K .......... .......... .......... .......... .......... 84%  341M 0s
+   600K .......... .......... .......... .......... .......... 91%  157M 0s
+   650K .......... .......... .......... .......... .......... 98%  203M 0s
+   700K ..........                                            100%  854M=0.09s
+
+2020-03-02 05:01:10 (68.0 Mb/s) - ‘/dev/null’ saved [727694/727694]
+

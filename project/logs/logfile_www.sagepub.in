@@ -1,0 +1,33 @@
+--2020-03-02 04:44:35--  http://www.sagepub.in/upm-data/23772_Ch7.pdf
+Resolving www.sagepub.in (www.sagepub.in)... 208.88.132.57
+Connecting to www.sagepub.in (www.sagepub.in)|208.88.132.57|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sagepub.in/upm-data/23772_Ch7.pdf [following]
+--2020-03-02 04:44:36--  https://www.sagepub.in/upm-data/23772_Ch7.pdf
+Connecting to www.sagepub.in (www.sagepub.in)|208.88.132.57|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://in.sagepub.com/upm-data/23772_Ch7.pdf [following]
+--2020-03-02 04:44:37--  https://in.sagepub.com/upm-data/23772_Ch7.pdf
+Resolving in.sagepub.com (in.sagepub.com)... 199.232.58.133
+Connecting to in.sagepub.com (in.sagepub.com)|199.232.58.133|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://in.sagepub.com/sites/default/files/upm-binaries/23772_Ch7.pdf [following]
+--2020-03-02 04:44:37--  https://in.sagepub.com/sites/default/files/upm-binaries/23772_Ch7.pdf
+Reusing existing connection to in.sagepub.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 479530 (468K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 22.9M 0s
+    50K .......... .......... .......... .......... .......... 21% 40.7M 0s
+   100K .......... .......... .......... .......... .......... 32% 60.1M 0s
+   150K .......... .......... .......... .......... .......... 42% 57.4M 0s
+   200K .......... .......... .......... .......... .......... 53%  108M 0s
+   250K .......... .......... .......... .......... .......... 64% 58.7M 0s
+   300K .......... .......... .......... .......... .......... 74% 83.6M 0s
+   350K .......... .......... .......... .......... .......... 85% 66.5M 0s
+   400K .......... .......... .......... .......... .......... 96% 80.9M 0s
+   450K .......... ........                                   100% 1.85G=0.07s
+
+2020-03-02 04:44:37 (55.7 Mb/s) - ‘/dev/null’ saved [479530/479530]
+

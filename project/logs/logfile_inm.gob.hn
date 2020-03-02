@@ -1,0 +1,14 @@
+--2020-03-02 04:26:29--  http://inm.gob.hn/Ley_de_Migraciones_y_extranjeria_Honduras%5B1%5D.pdf
+Resolving inm.gob.hn (inm.gob.hn)... 190.185.112.189
+Connecting to inm.gob.hn (inm.gob.hn)|190.185.112.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 177865 (174K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 1.02M 1s
+    50K .......... .......... .......... .......... .......... 57% 3.01M 0s
+   100K .......... .......... .......... .......... .......... 86% 60.7M 0s
+   150K .......... .......... ...                             100% 1.54M=0.7s
+
+2020-03-02 04:26:31 (2.12 Mb/s) - ‘/dev/null’ saved [177865/177865]
+

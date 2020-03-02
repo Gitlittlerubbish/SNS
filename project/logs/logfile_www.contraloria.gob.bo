@@ -1,0 +1,16 @@
+--2020-03-02 00:46:53--  http://www.contraloria.gob.bo/portal/Uploads/PDFportal/20121217_313.pdf
+Resolving www.contraloria.gob.bo (www.contraloria.gob.bo)... 181.115.189.131, 190.11.83.35
+Connecting to www.contraloria.gob.bo (www.contraloria.gob.bo)|181.115.189.131|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.contraloria.gob.bo/portal/Uploads/PDFportal/20121217_313.pdf [following]
+--2020-03-02 00:46:55--  https://www.contraloria.gob.bo/portal/Uploads/PDFportal/20121217_313.pdf
+Connecting to www.contraloria.gob.bo (www.contraloria.gob.bo)|181.115.189.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 65131 (64K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 78% 1.03M 0s
+    50K .......... ...                                        100%  953M=0.4s
+
+2020-03-02 00:46:56 (1.31 Mb/s) - ‘/dev/null’ saved [65131/65131]
+

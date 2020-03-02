@@ -1,0 +1,27 @@
+--2020-03-02 04:00:16--  http://www.uni-mannheim.de/hausordnung/
+Resolving www.uni-mannheim.de (www.uni-mannheim.de)... 134.155.101.1
+Connecting to www.uni-mannheim.de (www.uni-mannheim.de)|134.155.101.1|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uni-mannheim.de/hausordnung/ [following]
+--2020-03-02 04:00:16--  https://www.uni-mannheim.de/hausordnung/
+Connecting to www.uni-mannheim.de (www.uni-mannheim.de)|134.155.101.1|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: http://www.uni-mannheim.de/media/Universitaet/Dokumente/Organe_und_Gremien/Hausordnung_Universitaet_Mannheim_2007.pdf [following]
+--2020-03-02 04:00:16--  http://www.uni-mannheim.de/media/Universitaet/Dokumente/Organe_und_Gremien/Hausordnung_Universitaet_Mannheim_2007.pdf
+Connecting to www.uni-mannheim.de (www.uni-mannheim.de)|134.155.101.1|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.uni-mannheim.de/media/Universitaet/Dokumente/Organe_und_Gremien/Hausordnung_Universitaet_Mannheim_2007.pdf [following]
+--2020-03-02 04:00:16--  https://www.uni-mannheim.de/media/Universitaet/Dokumente/Organe_und_Gremien/Hausordnung_Universitaet_Mannheim_2007.pdf
+Connecting to www.uni-mannheim.de (www.uni-mannheim.de)|134.155.101.1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 241633 (236K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 10.3M 0s
+    50K .......... .......... .......... .......... .......... 42% 21.5M 0s
+   100K .......... .......... .......... .......... .......... 63%  195M 0s
+   150K .......... .......... .......... .......... .......... 84%  106M 0s
+   200K .......... .......... .......... .....                100% 20.4M=0.08s
+
+2020-03-02 04:00:16 (24.4 Mb/s) - ‘/dev/null’ saved [241633/241633]
+

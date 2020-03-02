@@ -1,0 +1,16 @@
+--2020-03-01 22:59:38--  http://www.comnap.aq/SiteAssets/SitePages/SARWorkshop2019/COMNAP_SAR_workshopIV_draft_agenda_ver7_4February2019.pdf
+Resolving www.comnap.aq (www.comnap.aq)... 132.181.7.37
+Connecting to www.comnap.aq (www.comnap.aq)|132.181.7.37|:80... connected.
+HTTP request sent, awaiting response... 302 Object Moved
+Location: https://www.comnap.aq/SiteAssets/SitePages/SARWorkshop2019/COMNAP_SAR_workshopIV_draft_agenda_ver7_4February2019.pdf [following]
+--2020-03-01 22:59:39--  https://www.comnap.aq/SiteAssets/SitePages/SARWorkshop2019/COMNAP_SAR_workshopIV_draft_agenda_ver7_4February2019.pdf
+Connecting to www.comnap.aq (www.comnap.aq)|132.181.7.37|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 55280 (54K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 92%  676K 0s
+    50K ...                                                   100%  299M=0.6s
+
+2020-03-01 22:59:42 (730 Kb/s) - ‘/dev/null’ saved [55280/55280]
+

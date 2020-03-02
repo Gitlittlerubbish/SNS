@@ -1,0 +1,12 @@
+--2020-03-01 23:34:59--  http://www.johnbiggs.com.au/pdf/ex_2factor_spq.pdf
+Resolving www.johnbiggs.com.au (www.johnbiggs.com.au)... 103.27.32.36
+Connecting to www.johnbiggs.com.au (www.johnbiggs.com.au)|103.27.32.36|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90434 (88K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 56%  666K 0s
+    50K .......... .......... .......... ........             100%  529M=0.6s
+
+2020-03-01 23:35:00 (1.18 Mb/s) - ‘/dev/null’ saved [90434/90434]
+

@@ -1,0 +1,27 @@
+--2020-03-02 06:06:38--  http://dom.kg/adv/pdf/25079
+Resolving dom.kg (dom.kg)... 37.140.192.165
+Connecting to dom.kg (dom.kg)|37.140.192.165|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .........  3.22M=0.1s
+
+2020-03-02 06:06:39 (3.22 Mb/s) - ‘/dev/null’ saved [50358]
+
+--2020-03-02 06:06:39--  http://dom.kg/adv/pdf/25702
+Resolving dom.kg (dom.kg)... 37.140.192.165
+Connecting to dom.kg (dom.kg)|37.140.192.165|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 3.52M
+    50K .......... .......... .......... .......... .......... 3.60M
+   100K .......... .......... .......... .......... ..........  156M
+   150K .......... .......... .......... .......... .......... 6.74M
+   200K .......... .......... .......... .......... .......... 7.66M
+   250K .......... .......... .......... .......... ......      154M=0.3s
+
+2020-03-02 06:06:40 (6.94 Mb/s) - ‘/dev/null’ saved [303194]
+

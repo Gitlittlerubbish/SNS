@@ -1,0 +1,11 @@
+--2020-03-02 03:04:10--  http://www.aauf.dk/pdf/STANDARDVEDTAEGTER191206.pdf
+Resolving www.aauf.dk (www.aauf.dk)... 217.116.232.207
+Connecting to www.aauf.dk (www.aauf.dk)|217.116.232.207|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18379 (18K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                    100% 4.55M=0.03s
+
+2020-03-02 03:04:10 (4.55 Mb/s) - ‘/dev/null’ saved [18379/18379]
+

@@ -1,0 +1,24 @@
+--2020-03-02 01:50:32--  http://www.banqueducanada.ca/fr/
+Resolving www.banqueducanada.ca (www.banqueducanada.ca)... 92.123.196.115
+Connecting to www.banqueducanada.ca (www.banqueducanada.ca)|92.123.196.115|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.banqueducanada.ca/fr/ [following]
+--2020-03-02 01:50:32--  https://www.banqueducanada.ca/fr/
+Connecting to www.banqueducanada.ca (www.banqueducanada.ca)|92.123.196.115|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.banqueducanada.ca/wp-content/uploads/2013/11/boc-review-autumn13-garriott.pdf [following]
+--2020-03-02 01:50:33--  https://www.banqueducanada.ca/wp-content/uploads/2013/11/boc-review-autumn13-garriott.pdf
+Reusing existing connection to www.banqueducanada.ca:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 268084 (262K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 88.8M 0s
+    50K .......... .......... .......... .......... .......... 38%  101M 0s
+   100K .......... .......... .......... .......... .......... 57%  194M 0s
+   150K .......... .......... .......... .......... .......... 76%  111M 0s
+   200K .......... .......... .......... .......... .......... 95%  131M 0s
+   250K .......... .                                          100%  171M=0.02s
+
+2020-03-02 01:50:33 (118 Mb/s) - ‘/dev/null’ saved [268084/268084]
+

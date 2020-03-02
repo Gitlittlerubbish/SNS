@@ -1,0 +1,14 @@
+--2020-03-01 23:25:07--  http://gspi.am/media/pdf/3ebd32dfc0df875197ab44fc58596e27.pdf
+Resolving gspi.am (gspi.am)... 208.91.199.120
+Connecting to gspi.am (gspi.am)|208.91.199.120|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153735 (150K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 1.69M 0s
+    50K .......... .......... .......... .......... .......... 66% 1.67M 0s
+   100K .......... .......... .......... .......... .......... 99% 3.42M 0s
+   150K                                                       100% 21.6K=0.6s
+
+2020-03-01 23:25:08 (2.02 Mb/s) - ‘/dev/null’ saved [153735/153735]
+

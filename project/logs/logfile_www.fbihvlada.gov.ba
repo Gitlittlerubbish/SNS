@@ -1,0 +1,14 @@
+--2020-03-02 01:02:14--  http://www.fbihvlada.gov.ba/pdf/pravila_izrada_zakona_v2.pdf
+Resolving www.fbihvlada.gov.ba (www.fbihvlada.gov.ba)... 80.65.161.138
+Connecting to www.fbihvlada.gov.ba (www.fbihvlada.gov.ba)|80.65.161.138|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 171656 (168K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 4.03M 0s
+    50K .......... .......... .......... .......... .......... 59% 7.22M 0s
+   100K .......... .......... .......... .......... .......... 89% 7.83M 0s
+   150K .......... .......                                    100% 70.4M=0.2s
+
+2020-03-02 01:02:14 (6.46 Mb/s) - ‘/dev/null’ saved [171656/171656]
+

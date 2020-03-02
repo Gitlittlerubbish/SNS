@@ -1,0 +1,19 @@
+--2020-03-02 06:02:19--  http://www.zakathouse.org.kw/pdf/report2017.pdf
+Resolving www.zakathouse.org.kw (www.zakathouse.org.kw)... 83.96.51.124
+Connecting to www.zakathouse.org.kw (www.zakathouse.org.kw)|83.96.51.124|:80... connected.
+HTTP request sent, awaiting response... 302 Object Moved
+Location: https://www.zakathouse.org.kw/ [following]
+--2020-03-02 06:02:20--  https://www.zakathouse.org.kw/
+Connecting to www.zakathouse.org.kw (www.zakathouse.org.kw)|83.96.51.124|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 1.91M
+    50K .......... .......... .......... .......... ..........  126M
+   100K .......... .......... .......... .......... .......... 3.80M
+   150K .......... .......... .......... .......... ..........  142M
+   200K .......... .......... ..                               1.77M=0.4s
+
+2020-03-02 06:02:21 (4.22 Mb/s) - ‘/dev/null’ saved [227495]
+

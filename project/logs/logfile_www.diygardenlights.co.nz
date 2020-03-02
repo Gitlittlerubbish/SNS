@@ -1,0 +1,25 @@
+--2020-03-02 08:29:36--  http://www.diygardenlights.co.nz/files/laplaubrochure.pdf
+Resolving www.diygardenlights.co.nz (www.diygardenlights.co.nz)... 3.10.58.41
+Connecting to www.diygardenlights.co.nz (www.diygardenlights.co.nz)|3.10.58.41|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.diygardenlights.co.nz/files/laplaubrochure.pdf [following]
+--2020-03-02 08:29:37--  https://www.diygardenlights.co.nz/files/laplaubrochure.pdf
+Connecting to www.diygardenlights.co.nz (www.diygardenlights.co.nz)|3.10.58.41|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 557140 (544K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 35.7M 0s
+    50K .......... .......... .......... .......... .......... 18% 80.4M 0s
+   100K .......... .......... .......... .......... .......... 27% 60.3M 0s
+   150K .......... .......... .......... .......... .......... 36% 98.7M 0s
+   200K .......... .......... .......... .......... .......... 45% 68.9M 0s
+   250K .......... .......... .......... .......... .......... 55% 59.6M 0s
+   300K .......... .......... .......... .......... .......... 64% 83.7M 0s
+   350K .......... .......... .......... .......... .......... 73% 99.3M 0s
+   400K .......... .......... .......... .......... .......... 82% 67.9M 0s
+   450K .......... .......... .......... .......... .......... 91%  105M 0s
+   500K .......... .......... .......... .......... ....      100%  126M=0.06s
+
+2020-03-02 08:29:37 (71.7 Mb/s) - ‘/dev/null’ saved [557140/557140]
+

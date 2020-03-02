@@ -1,0 +1,16 @@
+--2020-03-02 04:23:16--  http://www.educatio.va/content/dam/cec/Documenti/19_0997_INGLESE.pdf
+Resolving www.educatio.va (www.educatio.va)... 185.152.70.30
+Connecting to www.educatio.va (www.educatio.va)|185.152.70.30|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 271870 (265K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 4.74M 0s
+    50K .......... .......... .......... .......... .......... 37% 9.82M 0s
+   100K .......... .......... .......... .......... .......... 56% 33.6M 0s
+   150K .......... .......... .......... .......... .......... 75% 11.3M 0s
+   200K .......... .......... .......... .......... .......... 94% 12.7M 0s
+   250K .......... .....                                      100% 19.3M=0.2s
+
+2020-03-02 04:23:17 (10.1 Mb/s) - ‘/dev/null’ saved [271870/271870]
+

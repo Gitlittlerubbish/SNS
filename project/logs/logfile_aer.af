@@ -1,0 +1,24 @@
+--2020-03-01 22:10:20--  http://aer.af/fNuAUD
+Resolving aer.af (aer.af)... 35.169.247.253
+Connecting to aer.af (aer.af)|35.169.247.253|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://race.americanenduranceracing.com//fNuAUD [following]
+--2020-03-01 22:10:20--  https://race.americanenduranceracing.com//fNuAUD
+Resolving race.americanenduranceracing.com (race.americanenduranceracing.com)... 35.169.247.253
+Connecting to race.americanenduranceracing.com (race.americanenduranceracing.com)|35.169.247.253|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://race.americanenduranceracing.com/storage/event_documents/AER-Supplemental-2019-Palmer.pdf [following]
+--2020-03-01 22:10:21--  https://race.americanenduranceracing.com/storage/event_documents/AER-Supplemental-2019-Palmer.pdf
+Reusing existing connection to race.americanenduranceracing.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 239764 (234K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 2.39M 1s
+    50K .......... .......... .......... .......... .......... 42% 4.91M 0s
+   100K .......... .......... .......... .......... .......... 64%  118M 0s
+   150K .......... .......... .......... .......... .......... 85%  189M 0s
+   200K .......... .......... .......... ....                 100% 3.45M=0.3s
+
+2020-03-01 22:10:21 (5.61 Mb/s) - ‘/dev/null’ saved [239764/239764]
+

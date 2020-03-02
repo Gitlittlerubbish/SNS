@@ -1,0 +1,12 @@
+--2020-03-02 08:29:37--  http://xinxingren.gen.nz/legal/Forn_Temp_Regn_n1702832.pdf
+Resolving xinxingren.gen.nz (xinxingren.gen.nz)... 210.5.50.136
+Connecting to xinxingren.gen.nz (xinxingren.gen.nz)|210.5.50.136|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 73494 (72K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 69%  640K 0s
+    50K .......... .......... .                               100% 1.09G=0.6s
+
+2020-03-02 08:29:39 (919 Kb/s) - ‘/dev/null’ saved [73494/73494]
+

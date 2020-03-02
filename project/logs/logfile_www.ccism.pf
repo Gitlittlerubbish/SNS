@@ -1,0 +1,17 @@
+--2020-03-02 03:50:38--  http://www.ccism.pf/sites/default/files/docs/teva_i_uta.pdf
+Resolving www.ccism.pf (www.ccism.pf)... 137.74.115.133
+Connecting to www.ccism.pf (www.ccism.pf)|137.74.115.133|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ccism.pf/sites/default/files/docs/teva_i_uta.pdf [following]
+--2020-03-02 03:50:38--  https://www.ccism.pf/sites/default/files/docs/teva_i_uta.pdf
+Connecting to www.ccism.pf (www.ccism.pf)|137.74.115.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 131000 (128K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 26.5M 0s
+    50K .......... .......... .......... .......... .......... 78% 56.9M 0s
+   100K .......... .......... .......                         100% 53.9M=0.03s
+
+2020-03-02 03:50:38 (39.0 Mb/s) - ‘/dev/null’ saved [131000/131000]
+

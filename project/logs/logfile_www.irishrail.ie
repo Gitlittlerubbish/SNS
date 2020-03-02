@@ -1,0 +1,24 @@
+--2020-03-02 05:01:18--  http://www.irishrail.ie/media/conditionsoftravel1.pdf
+Resolving www.irishrail.ie (www.irishrail.ie)... 2.18.66.83, 2.18.66.49
+Connecting to www.irishrail.ie (www.irishrail.ie)|2.18.66.83|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.irishrail.ie/media/conditionsoftravel1.pdf [following]
+--2020-03-02 05:01:18--  https://www.irishrail.ie/media/conditionsoftravel1.pdf
+Connecting to www.irishrail.ie (www.irishrail.ie)|2.18.66.83|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.irishrail.ie/IrishRail/media/Imported/conditionsoftravel1.pdf [following]
+--2020-03-02 05:01:18--  https://www.irishrail.ie/IrishRail/media/Imported/conditionsoftravel1.pdf
+Reusing existing connection to www.irishrail.ie:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 281225 (275K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 79.6M 0s
+    50K .......... .......... .......... .......... .......... 36% 72.7M 0s
+   100K .......... .......... .......... .......... .......... 54%  223M 0s
+   150K .......... .......... .......... .......... .......... 72% 90.3M 0s
+   200K .......... .......... .......... .......... .......... 91%  129M 0s
+   250K .......... .......... ....                            100%  716M=0.02s
+
+2020-03-02 05:01:18 (109 Mb/s) - ‘/dev/null’ saved [281225/281225]
+

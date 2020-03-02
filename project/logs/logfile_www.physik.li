@@ -1,0 +1,12 @@
+--2020-03-02 06:25:05--  http://www.physik.li/publikationen/Verdunstungsrate
+Resolving www.physik.li (www.physik.li)... 78.46.97.100
+Connecting to www.physik.li (www.physik.li)|78.46.97.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 79441 (78K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 64% 8.68M 0s
+    50K .......... .......... .......                         100% 67.0M=0.05s
+
+2020-03-02 06:25:05 (12.6 Mb/s) - ‘/dev/null’ saved [79441/79441]
+

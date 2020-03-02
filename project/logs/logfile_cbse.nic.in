@@ -1,0 +1,11 @@
+--2020-03-02 04:43:26--  http://cbse.nic.in/workeducation.pdf
+Resolving cbse.nic.in (cbse.nic.in)... 164.100.107.32
+Connecting to cbse.nic.in (cbse.nic.in)|164.100.107.32|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 194 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 77.6M=0s
+
+2020-03-02 04:43:26 (77.6 Mb/s) - ‘/dev/null’ saved [194/194]
+

@@ -1,0 +1,13 @@
+--2020-03-01 23:24:30--  http://ela.am/wp-content/uploads/2019/02/Library_Collection_P11_ETS155E_ENG.pdf
+Resolving ela.am (ela.am)... 104.18.37.137, 104.18.36.137
+Connecting to ela.am (ela.am)|104.18.37.137|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 132680 (130K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 38% 8.28M 0s
+    50K .......... .......... .......... .......... .......... 77% 83.4M 0s
+   100K .......... .......... .........                       100%  132M=0.06s
+
+2020-03-01 23:24:30 (18.9 Mb/s) - ‘/dev/null’ saved [132680/132680]
+

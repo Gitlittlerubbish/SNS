@@ -1,0 +1,22 @@
+--2020-03-02 01:24:05--  http://www.moh.gov.bn/SiteCollectionDocuments/Health%2520Topics/kesihatanmental.pdf
+Resolving www.moh.gov.bn (www.moh.gov.bn)... 103.4.188.86
+Connecting to www.moh.gov.bn (www.moh.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                  139K=0.4s
+
+2020-03-02 01:24:07 (139 Kb/s) - ‘/dev/null’ saved [7095]
+
+--2020-03-02 01:24:07--  http://www.moh.gov.bn/SiteCollectionDocuments/Health%2520Topics/penyakitjantungkoronari.pdf
+Resolving www.moh.gov.bn (www.moh.gov.bn)... 103.4.188.86
+Connecting to www.moh.gov.bn (www.moh.gov.bn)|103.4.188.86|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K ......                                                  185K=0.3s
+
+2020-03-02 01:24:07 (185 Kb/s) - ‘/dev/null’ saved [7095]
+

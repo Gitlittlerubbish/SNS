@@ -1,0 +1,11 @@
+--2020-03-01 22:31:48--  http://www.meteo.ad/previsio/imprimir
+Resolving www.meteo.ad (www.meteo.ad)... 194.158.95.179
+Connecting to www.meteo.ad (www.meteo.ad)|194.158.95.179|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 994 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  468M=0s
+
+2020-03-01 22:31:48 (468 Mb/s) - ‘/dev/null’ saved [994/994]
+

@@ -1,0 +1,50 @@
+--2020-03-02 06:04:13--  http://citra.gov.kw/sites/en/LegalReferences/MVNO_en.pdf
+Resolving citra.gov.kw (citra.gov.kw)... 104.31.92.224, 104.31.93.224
+Connecting to citra.gov.kw (citra.gov.kw)|104.31.92.224|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://citra.gov.kw/sites/en/LegalReferences/MVNO_en.pdf [following]
+--2020-03-02 06:04:13--  https://citra.gov.kw/sites/en/LegalReferences/MVNO_en.pdf
+Connecting to citra.gov.kw (citra.gov.kw)|104.31.92.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 513530 (501K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 40.1M 0s
+    50K .......... .......... .......... .......... .......... 19% 38.9M 0s
+   100K .......... .......... .......... .......... .......... 29% 93.8M 0s
+   150K .......... .......... .......... .......... .......... 39% 70.4M 0s
+   200K .......... .......... .......... .......... .......... 49%  202M 0s
+   250K .......... .......... .......... .......... .......... 59%  206M 0s
+   300K .......... .......... .......... .......... .......... 69%  155M 0s
+   350K .......... .......... .......... .......... .......... 79%  133M 0s
+   400K .......... .......... .......... .......... .......... 89%  101M 0s
+   450K .......... .......... .......... .......... .......... 99%  341M 0s
+   500K .                                                     100%  245K=0.05s
+
+2020-03-02 06:04:13 (89.5 Mb/s) - ‘/dev/null’ saved [513530/513530]
+
+--2020-03-02 06:04:27--  http://citra.gov.kw/sites/en/LegalReferences/MVNO_en.pdf
+Resolving citra.gov.kw (citra.gov.kw)... 104.31.92.224, 104.31.93.224
+Connecting to citra.gov.kw (citra.gov.kw)|104.31.92.224|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://citra.gov.kw/sites/en/LegalReferences/MVNO_en.pdf [following]
+--2020-03-02 06:04:27--  https://citra.gov.kw/sites/en/LegalReferences/MVNO_en.pdf
+Connecting to citra.gov.kw (citra.gov.kw)|104.31.92.224|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 513530 (501K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 88.3M 0s
+    50K .......... .......... .......... .......... .......... 19% 42.5M 0s
+   100K .......... .......... .......... .......... .......... 29% 82.9M 0s
+   150K .......... .......... .......... .......... .......... 39% 80.4M 0s
+   200K .......... .......... .......... .......... .......... 49%  143M 0s
+   250K .......... .......... .......... .......... .......... 59% 70.9M 0s
+   300K .......... .......... .......... .......... .......... 69%  131M 0s
+   350K .......... .......... .......... .......... .......... 79%  280M 0s
+   400K .......... .......... .......... .......... .......... 89%  287M 0s
+   450K .......... .......... .......... .......... .......... 99%  245M 0s
+   500K .                                                     100%  245K=0.04s
+
+2020-03-02 06:04:27 (101 Mb/s) - ‘/dev/null’ saved [513530/513530]
+

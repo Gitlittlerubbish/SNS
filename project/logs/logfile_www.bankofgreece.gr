@@ -1,0 +1,22 @@
+--2020-03-02 04:06:36--  http://www.bankofgreece.gr/RelatedDocuments/D01_Acornero_Alessandri_Carpinelli_and_Sorrentino.pdf
+Resolving www.bankofgreece.gr (www.bankofgreece.gr)... 2.18.66.51, 2.18.66.163
+Connecting to www.bankofgreece.gr (www.bankofgreece.gr)|2.18.66.51|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bankofgreece.gr/RelatedDocuments/D01_Acornero_Alessandri_Carpinelli_and_Sorrentino.pdf [following]
+--2020-03-02 04:06:36--  https://www.bankofgreece.gr/RelatedDocuments/D01_Acornero_Alessandri_Carpinelli_and_Sorrentino.pdf
+Connecting to www.bankofgreece.gr (www.bankofgreece.gr)|2.18.66.51|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 394623 (385K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 54.5M 0s
+    50K .......... .......... .......... .......... .......... 25%  129M 0s
+   100K .......... .......... .......... .......... .......... 38%  143M 0s
+   150K .......... .......... .......... .......... .......... 51%  171M 0s
+   200K .......... .......... .......... .......... .......... 64%  337M 0s
+   250K .......... .......... .......... .......... .......... 77%  224M 0s
+   300K .......... .......... .......... .......... .......... 90% 76.6M 0s
+   350K .......... .......... .......... .....                100%  626M=0.02s
+
+2020-03-02 04:06:37 (127 Mb/s) - ‘/dev/null’ saved [394623/394623]
+

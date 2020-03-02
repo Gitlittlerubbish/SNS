@@ -1,0 +1,18 @@
+--2020-03-02 05:22:25--  http://www.dauvergne.sch.je/media/1268/reception-welcome-booklet-2018.pdf
+Resolving www.dauvergne.sch.je (www.dauvergne.sch.je)... 54.194.70.9
+Connecting to www.dauvergne.sch.je (www.dauvergne.sch.je)|54.194.70.9|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.dauvergne.sch.je/media/1268/reception-welcome-booklet-2018.pdf [following]
+--2020-03-02 05:22:25--  https://www.dauvergne.sch.je/media/1268/reception-welcome-booklet-2018.pdf
+Connecting to www.dauvergne.sch.je (www.dauvergne.sch.je)|54.194.70.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 182283 (178K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 15.6M 0s
+    50K .......... .......... .......... .......... .......... 56% 68.8M 0s
+   100K .......... .......... .......... .......... .......... 84% 33.9M 0s
+   150K .......... .......... ........                        100%  152M=0.05s
+
+2020-03-02 05:22:25 (31.9 Mb/s) - ‘/dev/null’ saved [182283/182283]
+

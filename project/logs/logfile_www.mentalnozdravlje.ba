@@ -1,0 +1,17 @@
+--2020-03-02 01:02:26--  http://www.mentalnozdravlje.ba/uimages/biblioteka/Financing.pdf
+Resolving www.mentalnozdravlje.ba (www.mentalnozdravlje.ba)... 82.165.76.151
+Connecting to www.mentalnozdravlje.ba (www.mentalnozdravlje.ba)|82.165.76.151|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 316992 (310K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 7.32M 0s
+    50K .......... .......... .......... .......... .......... 32% 19.1M 0s
+   100K .......... .......... .......... .......... .......... 48% 52.3M 0s
+   150K .......... .......... .......... .......... .......... 64% 29.9M 0s
+   200K .......... .......... .......... .......... .......... 80%  507M 0s
+   250K .......... .......... .......... .......... .......... 96% 61.3M 0s
+   300K .........                                             100% 10.9M=0.1s
+
+2020-03-02 01:02:26 (22.3 Mb/s) - ‘/dev/null’ saved [316992/316992]
+

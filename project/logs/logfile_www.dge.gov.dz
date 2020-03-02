@@ -1,0 +1,13 @@
+--2020-03-01 22:24:15--  http://www.dge.gov.dz/files/_1198401690.pdf
+Resolving www.dge.gov.dz (www.dge.gov.dz)... 197.112.0.111
+Connecting to www.dge.gov.dz (www.dge.gov.dz)|197.112.0.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 146568 (143K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34%  104M 0s
+    50K .......... .......... .......... .......... .......... 69% 6.77M 0s
+   100K .......... .......... .......... .......... ...       100%  116M=0.07s
+
+2020-03-01 22:24:16 (17.4 Mb/s) - ‘/dev/null’ saved [146568/146568]
+

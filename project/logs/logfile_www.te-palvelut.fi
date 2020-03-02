@@ -1,0 +1,16 @@
+--2020-03-02 03:45:52--  http://www.te-palvelut.fi/te/fi/pdf/tavoitteiden_jasennys.pdf
+Resolving www.te-palvelut.fi (www.te-palvelut.fi)... 194.100.117.184
+Connecting to www.te-palvelut.fi (www.te-palvelut.fi)|194.100.117.184|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 281372 (275K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 4.06M 0s
+    50K .......... .......... .......... .......... .......... 36% 7.96M 0s
+   100K .......... .......... .......... .......... .......... 54% 8.34M 0s
+   150K .......... .......... .......... .......... .......... 72%  104M 0s
+   200K .......... .......... .......... .......... .......... 90% 8.78M 0s
+   250K .......... .......... ....                            100%  190M=0.3s
+
+2020-03-02 03:45:52 (8.90 Mb/s) - ‘/dev/null’ saved [281372/281372]
+

@@ -1,0 +1,52 @@
+--2020-03-02 05:31:46--  http://www.tisa.or.ke/images/uploads/Procurement_Cycle_Legal_Framework.pdf
+Resolving www.tisa.or.ke (www.tisa.or.ke)... 162.144.187.181
+Connecting to www.tisa.or.ke (www.tisa.or.ke)|162.144.187.181|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.tisa.or.ke/images/uploads/Procurement_Cycle_Legal_Framework.pdf [following]
+--2020-03-02 05:31:47--  https://www.tisa.or.ke/images/uploads/Procurement_Cycle_Legal_Framework.pdf
+Connecting to www.tisa.or.ke (www.tisa.or.ke)|162.144.187.181|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 571910 (559K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 1.18M 4s
+    50K .......... .......... .......... .......... .......... 17% 2.36M 2s
+   100K .......... .......... .......... .......... .......... 26%  243M 1s
+   150K .......... .......... .......... .......... .......... 35%  198M 1s
+   200K .......... .......... .......... .......... .......... 44% 2.37M 1s
+   250K .......... .......... .......... .......... .......... 53%  229M 1s
+   300K .......... .......... .......... .......... .......... 62% 2.45M 1s
+   350K .......... .......... .......... .......... .......... 71%  184M 0s
+   400K .......... .......... .......... .......... .......... 80%  110M 0s
+   450K .......... .......... .......... .......... .......... 89%  430M 0s
+   500K .......... .......... .......... .......... .......... 98% 2.46M 0s
+   550K ........                                              100%  601M=1.0s
+
+2020-03-02 05:31:49 (4.40 Mb/s) - ‘/dev/null’ saved [571910/571910]
+
+--2020-03-02 05:32:00--  http://www.tisa.or.ke/images/uploads/Procurement_Cycle_Legal_Framework.pdf
+Resolving www.tisa.or.ke (www.tisa.or.ke)... 162.144.187.181
+Connecting to www.tisa.or.ke (www.tisa.or.ke)|162.144.187.181|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.tisa.or.ke/images/uploads/Procurement_Cycle_Legal_Framework.pdf [following]
+--2020-03-02 05:32:01--  https://www.tisa.or.ke/images/uploads/Procurement_Cycle_Legal_Framework.pdf
+Connecting to www.tisa.or.ke (www.tisa.or.ke)|162.144.187.181|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 571910 (559K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  8% 1.20M 3s
+    50K .......... .......... .......... .......... .......... 17% 2.42M 2s
+   100K .......... .......... .......... .......... .......... 26%  194M 1s
+   150K .......... .......... .......... .......... .......... 35%  232M 1s
+   200K .......... .......... .......... .......... .......... 44% 2.43M 1s
+   250K .......... .......... .......... .......... .......... 53%  123M 1s
+   300K .......... .......... .......... .......... .......... 62% 2.48M 1s
+   350K .......... .......... .......... .......... .......... 71%  757M 0s
+   400K .......... .......... .......... .......... .......... 80%  191M 0s
+   450K .......... .......... .......... .......... .......... 89%  128M 0s
+   500K .......... .......... .......... .......... .......... 98% 2.46M 0s
+   550K ........                                              100%  611M=1.0s
+
+2020-03-02 05:32:03 (4.47 Mb/s) - ‘/dev/null’ saved [571910/571910]
+

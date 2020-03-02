@@ -1,0 +1,14 @@
+--2020-03-02 01:29:18--  http://bicpa-ftmsglobal.com.bn/documents/cpdlecturers/mr_danny_tan_boon_wooi.pdf
+Resolving bicpa-ftmsglobal.com.bn (bicpa-ftmsglobal.com.bn)... 96.125.179.22
+Connecting to bicpa-ftmsglobal.com.bn (bicpa-ftmsglobal.com.bn)|96.125.179.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 180165 (176K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 1.79M 1s
+    50K .......... .......... .......... .......... .......... 56% 3.48M 0s
+   100K .......... .......... .......... .......... .......... 85% 3.59M 0s
+   150K .......... .......... .....                           100%  191M=0.5s
+
+2020-03-02 01:29:19 (3.12 Mb/s) - ‘/dev/null’ saved [180165/180165]
+

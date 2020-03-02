@@ -1,0 +1,18 @@
+--2020-03-02 05:22:25--  http://www.rhj.je/uploads/documents/document/income-fund-key-information.pdf
+Resolving www.rhj.je (www.rhj.je)... 138.68.165.111
+Connecting to www.rhj.je (www.rhj.je)|138.68.165.111|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.rhj.je/uploads/documents/document/income-fund-key-information.pdf [following]
+--2020-03-02 05:22:25--  https://www.rhj.je/uploads/documents/document/income-fund-key-information.pdf
+Connecting to www.rhj.je (www.rhj.je)|138.68.165.111|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 179758 (176K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 28% 71.3M 0s
+    50K .......... .......... .......... .......... .......... 56% 80.8M 0s
+   100K .......... .......... .......... .......... .......... 85%  135M 0s
+   150K .......... .......... .....                           100%  729M=0.01s
+
+2020-03-02 05:22:25 (102 Mb/s) - ‘/dev/null’ saved [179758/179758]
+

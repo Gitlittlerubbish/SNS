@@ -1,0 +1,17 @@
+--2020-03-02 05:11:35--  http://www.nla.gov.jm/sites/default/files/LEASES_2.pdf
+Resolving www.nla.gov.jm (www.nla.gov.jm)... 162.241.142.27
+Connecting to www.nla.gov.jm (www.nla.gov.jm)|162.241.142.27|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://nla.gov.jm/sites/default/files/LEASES_2.pdf [following]
+--2020-03-02 05:11:35--  https://nla.gov.jm/sites/default/files/LEASES_2.pdf
+Resolving nla.gov.jm (nla.gov.jm)... 162.241.142.27
+Connecting to nla.gov.jm (nla.gov.jm)|162.241.142.27|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 61235 (60K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 83% 1.67M 0s
+    50K .........                                             100% 1.43G=0.2s
+
+2020-03-02 05:11:36 (2.00 Mb/s) - ‘/dev/null’ saved [61235/61235]
+

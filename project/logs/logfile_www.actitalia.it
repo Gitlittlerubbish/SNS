@@ -1,0 +1,15 @@
+--2020-03-02 05:08:59--  http://www.actitalia.it/public/veicoli_storici_definizione_ca.pdf
+Resolving www.actitalia.it (www.actitalia.it)... 80.88.86.47
+Connecting to www.actitalia.it (www.actitalia.it)|80.88.86.47|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 220070 (215K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 4.33M 0s
+    50K .......... .......... .......... .......... .......... 46% 12.8M 0s
+   100K .......... .......... .......... .......... .......... 69% 99.2M 0s
+   150K .......... .......... .......... .......... .......... 93% 14.9M 0s
+   200K .......... ....                                       100%  623M=0.2s
+
+2020-03-02 05:08:59 (11.1 Mb/s) - ‘/dev/null’ saved [220070/220070]
+

@@ -1,0 +1,19 @@
+--2020-03-02 04:40:35--  http://hagstofa.is/media/50970/hag_180226a.pdf
+Resolving hagstofa.is (hagstofa.is)... 157.157.115.20
+Connecting to hagstofa.is (hagstofa.is)|157.157.115.20|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://hagstofa.is/media/50970/hag_180226a.pdf [following]
+--2020-03-02 04:40:36--  https://hagstofa.is/media/50970/hag_180226a.pdf
+Connecting to hagstofa.is (hagstofa.is)|157.157.115.20|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 211398 (206K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 8.70M 0s
+    50K .......... .......... .......... .......... .......... 48% 8.96M 0s
+   100K .......... .......... .......... .......... .......... 72%  123M 0s
+   150K .......... .......... .......... .......... .......... 96% 10.2M 0s
+   200K ......                                                100% 1.06M=0.1s
+
+2020-03-02 04:40:36 (12.4 Mb/s) - ‘/dev/null’ saved [211398/211398]
+

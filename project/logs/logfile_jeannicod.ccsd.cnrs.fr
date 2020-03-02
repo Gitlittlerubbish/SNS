@@ -1,0 +1,22 @@
+--2020-03-02 03:46:44--  http://jeannicod.ccsd.cnrs.fr/ijn_00000101/document
+Resolving jeannicod.ccsd.cnrs.fr (jeannicod.ccsd.cnrs.fr)... 193.48.96.10
+Connecting to jeannicod.ccsd.cnrs.fr (jeannicod.ccsd.cnrs.fr)|193.48.96.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://jeannicod.ccsd.cnrs.fr/ijn_00000101/document [following]
+--2020-03-02 03:46:44--  https://jeannicod.ccsd.cnrs.fr/ijn_00000101/document
+Connecting to jeannicod.ccsd.cnrs.fr (jeannicod.ccsd.cnrs.fr)|193.48.96.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 392942 (384K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 4.46M 1s
+    50K .......... .......... .......... .......... .......... 26% 2.22M 1s
+   100K .......... .......... .......... .......... .......... 39%  264M 0s
+   150K .......... .......... .......... .......... .......... 52% 13.3M 0s
+   200K .......... .......... .......... .......... .......... 65%  151M 0s
+   250K .......... .......... .......... .......... .......... 78% 7.16M 0s
+   300K .......... .......... .......... .......... .......... 91%  535M 0s
+   350K .......... .......... .......... ...                  100% 1.60M=0.5s
+
+2020-03-02 03:46:45 (5.80 Mb/s) - ‘/dev/null’ saved [392942/392942]
+

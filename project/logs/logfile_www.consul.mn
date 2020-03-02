@@ -1,0 +1,14 @@
+--2020-03-02 07:41:17--  http://www.consul.mn/file/meduulehhuudas20181130.pdf
+Resolving www.consul.mn (www.consul.mn)... 69.195.124.251
+Connecting to www.consul.mn (www.consul.mn)|69.195.124.251|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 198412 (194K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 1.22M 1s
+    50K .......... .......... .......... .......... .......... 51% 2.43M 0s
+   100K .......... .......... .......... .......... .......... 77%  188M 0s
+   150K .......... .......... .......... .......... ...       100%  226M=0.5s
+
+2020-03-02 07:41:19 (3.13 Mb/s) - ‘/dev/null’ saved [198412/198412]
+

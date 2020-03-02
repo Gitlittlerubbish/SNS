@@ -1,0 +1,12 @@
+--2020-03-02 03:32:12--  http://mpulver.offline.ee/mario_muinasjutud.pdf
+Resolving mpulver.offline.ee (mpulver.offline.ee)... 185.7.252.117
+Connecting to mpulver.offline.ee (mpulver.offline.ee)|185.7.252.117|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 95876 (94K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 53%  110M 0s
+    50K .......... .......... .......... .......... ...       100% 9.93M=0.04s
+
+2020-03-02 03:32:12 (19.3 Mb/s) - ‘/dev/null’ saved [95876/95876]
+

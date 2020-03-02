@@ -1,0 +1,11 @@
+--2020-03-02 07:28:04--  http://www.ieec.org.mx/transparencia/doctos/pol_cont_fon_fij.pdf
+Resolving www.ieec.org.mx (www.ieec.org.mx)... 201.116.100.156
+Connecting to www.ieec.org.mx (www.ieec.org.mx)|201.116.100.156|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34524 (34K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                  100%  603K=0.5s
+
+2020-03-02 07:28:05 (603 Kb/s) - ‘/dev/null’ saved [34524/34524]
+

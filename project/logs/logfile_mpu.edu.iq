@@ -1,0 +1,15 @@
+--2020-03-02 04:59:37--  http://mpu.edu.iq/images/electronic/lecture_2.pdf
+Resolving mpu.edu.iq (mpu.edu.iq)... 192.249.122.149
+Connecting to mpu.edu.iq (mpu.edu.iq)|192.249.122.149|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 217046 (212K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 1.46M 1s
+    50K .......... .......... .......... .......... .......... 47% 1.48M 1s
+   100K .......... .......... .......... .......... .......... 70%  119M 0s
+   150K .......... .......... .......... .......... .......... 94% 2.95M 0s
+   200K .......... .                                          100% 1.58G=0.7s
+
+2020-03-02 04:59:38 (2.48 Mb/s) - ‘/dev/null’ saved [217046/217046]
+

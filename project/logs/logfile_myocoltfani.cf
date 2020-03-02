@@ -1,0 +1,23 @@
+--2020-03-02 02:00:58--  http://myocoltfani.cf/DocumentCenter/View/152
+Resolving myocoltfani.cf (myocoltfani.cf)... 104.28.4.211, 104.28.5.211
+Connecting to myocoltfani.cf (myocoltfani.cf)|104.28.4.211|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://myocoltfani.cf/DocumentCenter/View/152 [following]
+--2020-03-02 02:00:58--  https://myocoltfani.cf/DocumentCenter/View/152
+Connecting to myocoltfani.cf (myocoltfani.cf)|104.28.4.211|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11.6M
+    50K .......... .......... .......... .......... .......... 21.8M
+   100K .......... .......... .......... .......... ..........  100M
+   150K .......... .......... .......... .......... .......... 88.6M
+   200K .......... .......... .......... .......... .......... 28.2M
+   250K .......... .......... .......... .......... ..........  123M
+   300K .......... .......... .......... .......... ..........  146M
+   350K .......... .......... .......... .......... ..........  215M
+   400K ...                                                     653K=0.09s
+
+2020-03-02 02:01:00 (38.8 Mb/s) - ‘/dev/null’ saved [413684]
+

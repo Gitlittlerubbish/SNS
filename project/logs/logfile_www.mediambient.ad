@@ -1,0 +1,11 @@
+--2020-03-01 22:31:38--  http://www.mediambient.ad/Receptes_Llegums.pdf
+Resolving www.mediambient.ad (www.mediambient.ad)... 91.187.83.90
+Connecting to www.mediambient.ad (www.mediambient.ad)|91.187.83.90|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 994 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  530M=0s
+
+2020-03-01 22:31:38 (530 Mb/s) - ‘/dev/null’ saved [994/994]
+

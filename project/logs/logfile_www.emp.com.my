@@ -1,0 +1,11 @@
+--2020-03-02 07:01:53--  http://www.emp.com.my/ferryschedule.pdf
+Resolving www.emp.com.my (www.emp.com.my)... 117.53.152.75
+Connecting to www.emp.com.my (www.emp.com.my)|117.53.152.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 20704 (20K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... ..........                                 100%  961K=0.2s
+
+2020-03-02 07:01:54 (961 Kb/s) - ‘/dev/null’ saved [20704/20704]
+

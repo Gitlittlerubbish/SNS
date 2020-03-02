@@ -1,0 +1,12 @@
+--2020-03-02 04:38:26--  http://www.duplexplusz.hu/file/xp600prg.pdf
+Resolving www.duplexplusz.hu (www.duplexplusz.hu)... 81.2.195.73
+Connecting to www.duplexplusz.hu (www.duplexplusz.hu)|81.2.195.73|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54829 (54K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 93% 5.63M 0s
+    50K ...                                                   100%  581K=0.07s
+
+2020-03-02 04:38:27 (6.02 Mb/s) - ‘/dev/null’ saved [54829/54829]
+

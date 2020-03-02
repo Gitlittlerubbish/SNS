@@ -1,0 +1,13 @@
+--2020-03-02 04:46:14--  http://jdih.pom.go.id/uud1945.pdf
+Resolving jdih.pom.go.id (jdih.pom.go.id)... 103.5.148.46
+Connecting to jdih.pom.go.id (jdih.pom.go.id)|103.5.148.46|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 108819 (106K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 47%  782K 1s
+    50K .......... .......... .......... .......... .......... 94% 2.36M 0s
+   100K ......                                                100% 59.5M=0.7s
+
+2020-03-02 04:46:16 (1.25 Mb/s) - ‘/dev/null’ saved [108819/108819]
+

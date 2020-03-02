@@ -1,0 +1,11 @@
+--2020-03-02 08:28:59--  http://www.enhancechurtonpark.co.nz/assets/ipl_before_and_after_care_info.pdf
+Resolving www.enhancechurtonpark.co.nz (www.enhancechurtonpark.co.nz)... 50.87.62.161
+Connecting to www.enhancechurtonpark.co.nz (www.enhancechurtonpark.co.nz)|50.87.62.161|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 44213 (43K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...       100% 1.08M=0.3s
+
+2020-03-02 08:29:00 (1.08 Mb/s) - ‘/dev/null’ saved [44213/44213]
+

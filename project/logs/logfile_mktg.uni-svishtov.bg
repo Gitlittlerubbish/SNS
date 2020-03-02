@@ -1,0 +1,14 @@
+--2020-03-02 01:31:22--  http://mktg.uni-svishtov.bg/ivm/resources/CustomerBasedbrandEquityModel.pdf
+Resolving mktg.uni-svishtov.bg (mktg.uni-svishtov.bg)... 195.20.24.7
+Connecting to mktg.uni-svishtov.bg (mktg.uni-svishtov.bg)|195.20.24.7|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164986 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.87M 0s
+    50K .......... .......... .......... .......... .......... 62% 7.15M 0s
+   100K .......... .......... .......... .......... .......... 93%  217M 0s
+   150K .......... .                                          100% 1.98G=0.3s
+
+2020-03-02 01:31:23 (4.75 Mb/s) - ‘/dev/null’ saved [164986/164986]
+

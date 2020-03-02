@@ -1,0 +1,18 @@
+--2020-03-01 23:25:29--  http://www.cba.am/AM/lalaws/Vcharahashvarkayin_hamakarger.pdf
+Resolving www.cba.am (www.cba.am)... 212.73.73.131
+Connecting to www.cba.am (www.cba.am)|212.73.73.131|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://www.cba.am/AM/lalaws/Vcharahashvarkayin_hamakarger.pdf [following]
+--2020-03-01 23:25:29--  https://www.cba.am/AM/lalaws/Vcharahashvarkayin_hamakarger.pdf
+Connecting to www.cba.am (www.cba.am)|212.73.73.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170569 (167K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 2.58M 0s
+    50K .......... .......... .......... .......... .......... 60% 4.97M 0s
+   100K .......... .......... .......... .......... .......... 90% 2.47M 0s
+   150K .......... ......                                     100%  617M=0.4s
+
+2020-03-01 23:25:30 (3.35 Mb/s) - ‘/dev/null’ saved [170569/170569]
+

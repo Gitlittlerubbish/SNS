@@ -1,0 +1,14 @@
+--2020-03-02 08:33:17--  http://www2.eit.ac.nz/library/ls_guides_apareferencingfaq.html
+Resolving www2.eit.ac.nz (www2.eit.ac.nz)... 49.0.28.100
+Connecting to www2.eit.ac.nz (www2.eit.ac.nz)|49.0.28.100|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 166831 (163K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30%  577K 2s
+    50K .......... .......... .......... .......... .......... 61% 1.38M 1s
+   100K .......... .......... .......... .......... .......... 92% 83.8M 0s
+   150K .......... ..                                         100% 8.70M=1.0s
+
+2020-03-02 08:33:20 (1.30 Mb/s) - ‘/dev/null’ saved [166831/166831]
+

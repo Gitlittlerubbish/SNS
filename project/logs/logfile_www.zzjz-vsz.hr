@@ -1,0 +1,12 @@
+--2020-03-02 02:55:57--  http://www.zzjz-vsz.hr/pdf/Pertusis.pdf
+Resolving www.zzjz-vsz.hr (www.zzjz-vsz.hr)... 144.76.95.178
+Connecting to www.zzjz-vsz.hr (www.zzjz-vsz.hr)|144.76.95.178|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 75932 (74K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 67% 8.60M 0s
+    50K .......... .......... ....                            100% 82.3M=0.05s
+
+2020-03-02 02:55:57 (12.1 Mb/s) - ‘/dev/null’ saved [75932/75932]
+

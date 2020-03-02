@@ -1,0 +1,17 @@
+--2020-03-01 22:39:28--  http://flyingblue.co.ao/assets/files/In_flight_upgrades_fr.pdf
+Resolving flyingblue.co.ao (flyingblue.co.ao)... 193.57.244.96
+Connecting to flyingblue.co.ao (flyingblue.co.ao)|193.57.244.96|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://flyingblue.co.ao/assets/files/In_flight_upgrades_fr.pdf [following]
+--2020-03-01 22:39:28--  https://flyingblue.co.ao/assets/files/In_flight_upgrades_fr.pdf
+Connecting to flyingblue.co.ao (flyingblue.co.ao)|193.57.244.96|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from flyingblue.co.ao attempted to set domain to co.ao
+Length: 70310 (69K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 72% 17.2M 0s
+    50K .......... ........                                   100% 4.92M=0.05s
+
+2020-03-01 22:39:28 (10.3 Mb/s) - ‘/dev/null’ saved [70310/70310]
+

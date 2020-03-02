@@ -1,0 +1,19 @@
+--2020-03-02 07:57:30--  http://www.sintimex.co.mz/output_efile.aspx%3Fid_file%3D32964
+Resolving www.sintimex.co.mz (www.sintimex.co.mz)... 93.104.209.173
+Connecting to www.sintimex.co.mz (www.sintimex.co.mz)|93.104.209.173|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /Manutencao [following]
+--2020-03-02 07:57:31--  http://www.sintimex.co.mz/Manutencao
+Reusing existing connection to www.sintimex.co.mz:80.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.sintimex.co.mz/Manutencao/ [following]
+--2020-03-02 07:57:31--  http://www.sintimex.co.mz/Manutencao/
+Reusing existing connection to www.sintimex.co.mz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1475 (1.4K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  787M=0s
+
+2020-03-02 07:57:31 (787 Mb/s) - ‘/dev/null’ saved [1475/1475]
+

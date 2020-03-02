@@ -1,0 +1,17 @@
+--2020-03-02 03:43:32--  http://fhta.com.fj/wp-content/uploads/2017/07/KPMG-2017-2018-Fiji-Budget-Newsletter_29.06.17.pdf
+Resolving fhta.com.fj (fhta.com.fj)... 166.62.112.193
+Connecting to fhta.com.fj (fhta.com.fj)|166.62.112.193|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://fhta.com.fj/wp-content/uploads/2017/07/KPMG-2017-2018-Fiji-Budget-Newsletter_29.06.17.pdf [following]
+--2020-03-02 03:43:32--  https://fhta.com.fj/wp-content/uploads/2017/07/KPMG-2017-2018-Fiji-Budget-Newsletter_29.06.17.pdf
+Connecting to fhta.com.fj (fhta.com.fj)|166.62.112.193|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 113227 (111K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 2.92M 0s
+    50K .......... .......... .......... .......... .......... 90% 2.90M 0s
+   100K ..........                                            100%  716M=0.3s
+
+2020-03-02 03:43:33 (3.22 Mb/s) - ‘/dev/null’ saved [113227/113227]
+

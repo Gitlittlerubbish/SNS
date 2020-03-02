@@ -1,0 +1,24 @@
+--2020-03-02 03:04:01--  http://www.konsol-chips.dk/arkiv/ps4_playstation_camera_v2_eng.pdf
+Resolving www.konsol-chips.dk (www.konsol-chips.dk)... 94.143.8.108
+Connecting to www.konsol-chips.dk (www.konsol-chips.dk)|94.143.8.108|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.konsol-chips.dk/arkiv/ps4_playstation_camera_v2_eng.pdf [following]
+--2020-03-02 03:04:01--  https://www.konsol-chips.dk/arkiv/ps4_playstation_camera_v2_eng.pdf
+Connecting to www.konsol-chips.dk (www.konsol-chips.dk)|94.143.8.108|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 467783 (457K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 10.4M 0s
+    50K .......... .......... .......... .......... .......... 21% 10.9M 0s
+   100K .......... .......... .......... .......... .......... 32% 10.7M 0s
+   150K .......... .......... .......... .......... .......... 43%  390M 0s
+   200K .......... .......... .......... .......... .......... 54%  282M 0s
+   250K .......... .......... .......... .......... .......... 65% 10.7M 0s
+   300K .......... .......... .......... .......... .......... 76%  210M 0s
+   350K .......... .......... .......... .......... .......... 87% 12.4M 0s
+   400K .......... .......... .......... .......... .......... 98%  190M 0s
+   450K ......                                                100%  469M=0.2s
+
+2020-03-02 03:04:01 (19.3 Mb/s) - ‘/dev/null’ saved [467783/467783]
+

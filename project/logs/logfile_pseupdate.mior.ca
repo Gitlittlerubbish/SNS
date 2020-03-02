@@ -1,0 +1,22 @@
+--2020-03-02 01:53:23--  http://pseupdate.mior.ca/links/go/2717/
+Resolving pseupdate.mior.ca (pseupdate.mior.ca)... 104.28.9.7, 104.28.8.7
+Connecting to pseupdate.mior.ca (pseupdate.mior.ca)|104.28.9.7|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://pseupdate.mior.ca/links/go/2717/ [following]
+--2020-03-02 01:53:24--  https://pseupdate.mior.ca/links/go/2717/
+Connecting to pseupdate.mior.ca (pseupdate.mior.ca)|104.28.9.7|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucarecdn.com/f095560e-5c93-47fa-83dd-fb0114c1da74/ [following]
+--2020-03-02 01:53:24--  https://ucarecdn.com/f095560e-5c93-47fa-83dd-fb0114c1da74/
+Resolving ucarecdn.com (ucarecdn.com)... 77.244.143.75, 77.244.143.82
+Connecting to ucarecdn.com (ucarecdn.com)|77.244.143.75|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128499 (125K) [application/acrobat]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 4.41M 0s
+    50K .......... .......... .......... .......... .......... 79% 4.64M 0s
+   100K .......... .......... .....                           100% 22.4M=0.2s
+
+2020-03-02 01:53:25 (5.40 Mb/s) - ‘/dev/null’ saved [128499/128499]
+

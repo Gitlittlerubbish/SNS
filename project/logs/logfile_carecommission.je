@@ -1,0 +1,12 @@
+--2020-03-02 05:22:19--  http://carecommission.je/wp-content/uploads/2019/02/ResidentialNursingHomesProviders.pdf
+Resolving carecommission.je (carecommission.je)... 212.48.75.10
+Connecting to carecommission.je (carecommission.je)|212.48.75.10|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 94152 (92K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 54% 20.6M 0s
+    50K .......... .......... .......... .......... .         100% 35.7M=0.03s
+
+2020-03-02 05:22:19 (25.5 Mb/s) - ‘/dev/null’ saved [94152/94152]
+

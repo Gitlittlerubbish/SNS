@@ -1,0 +1,30 @@
+--2020-03-02 08:08:43--  http://www.jnda.com.np/article/2ygmcpkyve2.pdf
+Resolving www.jnda.com.np (www.jnda.com.np)... 143.95.252.251
+Connecting to www.jnda.com.np (www.jnda.com.np)|143.95.252.251|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 318349 (311K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 1.80M 1s
+    50K .......... .......... .......... .......... .......... 32% 3.62M 1s
+   100K .......... .......... .......... .......... .......... 48%  227M 0s
+   150K .......... .......... .......... .......... .......... 64% 28.9M 0s
+   200K .......... .......... .......... .......... .......... 80% 4.00M 0s
+   250K .......... .......... .......... .......... .......... 96% 41.8M 0s
+   300K ..........                                            100%  104M=0.5s
+
+2020-03-02 08:08:45 (5.42 Mb/s) - ‘/dev/null’ saved [318349/318349]
+
+--2020-03-02 08:10:12--  http://www.jnda.com.np/article/ax67kyuor74.pdf
+Resolving www.jnda.com.np (www.jnda.com.np)... 143.95.252.251
+Connecting to www.jnda.com.np (www.jnda.com.np)|143.95.252.251|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 111987 (109K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 45% 1.81M 0s
+    50K .......... .......... .......... .......... .......... 91% 3.61M 0s
+   100K .........                                             100%  590M=0.3s
+
+2020-03-02 08:10:12 (2.64 Mb/s) - ‘/dev/null’ saved [111987/111987]
+

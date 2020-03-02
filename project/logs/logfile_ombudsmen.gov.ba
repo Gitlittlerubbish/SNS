@@ -1,0 +1,17 @@
+--2020-03-02 01:02:20--  http://ombudsmen.gov.ba/documents/obmudsmen_doc2017050312010410eng.pdf
+Resolving ombudsmen.gov.ba (ombudsmen.gov.ba)... 81.93.64.39
+Connecting to ombudsmen.gov.ba (ombudsmen.gov.ba)|81.93.64.39|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ombudsmen.gov.ba/documents/obmudsmen_doc2017050312010410eng.pdf [following]
+--2020-03-02 01:02:20--  https://ombudsmen.gov.ba/documents/obmudsmen_doc2017050312010410eng.pdf
+Connecting to ombudsmen.gov.ba (ombudsmen.gov.ba)|81.93.64.39|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145759 (142K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 3.07M 0s
+    50K .......... .......... .......... .......... .......... 70% 8.62M 0s
+   100K .......... .......... .......... .......... ..        100% 3.67M=0.3s
+
+2020-03-02 01:02:21 (4.23 Mb/s) - ‘/dev/null’ saved [145759/145759]
+

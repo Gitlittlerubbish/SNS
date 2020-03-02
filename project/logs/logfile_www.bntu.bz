@@ -1,0 +1,11 @@
+--2020-03-02 00:27:05--  http://www.bntu.bz/downloads/forms/bntu_loan.pdf
+Resolving www.bntu.bz (www.bntu.bz)... 45.55.245.2
+Connecting to www.bntu.bz (www.bntu.bz)|45.55.245.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22350 (22K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .                               100% 2.47M=0.07s
+
+2020-03-02 00:27:06 (2.47 Mb/s) - ‘/dev/null’ saved [22350/22350]
+

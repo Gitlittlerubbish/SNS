@@ -1,0 +1,13 @@
+--2020-03-02 04:06:48--  http://www.e-diaxirisi.gr/kanonismos.pdf
+Resolving www.e-diaxirisi.gr (www.e-diaxirisi.gr)... 192.185.161.150
+Connecting to www.e-diaxirisi.gr (www.e-diaxirisi.gr)|192.185.161.150|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103577 (101K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 49% 1.37M 0s
+    50K .......... .......... .......... .......... .......... 98% 2.58M 0s
+   100K .                                                     100%  188K=0.5s
+
+2020-03-02 04:06:50 (1.81 Mb/s) - ‘/dev/null’ saved [103577/103577]
+

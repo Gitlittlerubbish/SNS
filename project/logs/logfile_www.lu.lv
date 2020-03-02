@@ -1,0 +1,19 @@
+--2020-03-02 06:13:35--  http://www.lu.lv/sadarbiba/reklamas-iespejas/
+Resolving www.lu.lv (www.lu.lv)... 5.179.1.160
+Connecting to www.lu.lv (www.lu.lv)|5.179.1.160|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lu.lv/sadarbiba/reklamas-iespejas/ [following]
+--2020-03-02 06:13:35--  https://www.lu.lv/sadarbiba/reklamas-iespejas/
+Connecting to www.lu.lv (www.lu.lv)|5.179.1.160|:443... connected.
+HTTP request sent, awaiting response... 303 See Other
+Location: https://www.lu.lv/fileadmin/user_upload/LU.LV/www.lu.lv/Dokumenti/Cenradis_LU.pdf [following]
+--2020-03-02 06:13:35--  https://www.lu.lv/fileadmin/user_upload/LU.LV/www.lu.lv/Dokumenti/Cenradis_LU.pdf
+Reusing existing connection to www.lu.lv:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 34399 (34K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                  100% 6.13M=0.04s
+
+2020-03-02 06:13:35 (6.13 Mb/s) - ‘/dev/null’ saved [34399/34399]
+

@@ -1,0 +1,11 @@
+--2020-03-02 04:57:11--  http://www.tamin.ir/file/file/67007
+Resolving www.tamin.ir (www.tamin.ir)... 185.143.233.5, 185.143.234.5
+Connecting to www.tamin.ir (www.tamin.ir)|185.143.233.5|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1315 (1.3K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .                                                     100%  701M=0s
+
+2020-03-02 04:57:11 (701 Mb/s) - ‘/dev/null’ saved [1315/1315]
+

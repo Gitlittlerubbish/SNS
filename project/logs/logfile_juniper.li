@@ -1,0 +1,25 @@
+--2020-03-02 06:25:30--  http://juniper.li/support/990222.pdf
+Resolving juniper.li (juniper.li)... 54.244.131.6
+Connecting to juniper.li (juniper.li)|54.244.131.6|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.juniper.net/support/990222.pdf [following]
+--2020-03-02 06:25:30--  https://www.juniper.net/support/990222.pdf
+Resolving www.juniper.net (www.juniper.net)... 2.22.108.20
+Connecting to www.juniper.net (www.juniper.net)|2.22.108.20|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://support.juniper.net/support/pdf/guidelines/990222.pdf [following]
+--2020-03-02 06:25:31--  https://support.juniper.net/support/pdf/guidelines/990222.pdf
+Resolving support.juniper.net (support.juniper.net)... 34.218.217.51
+Connecting to support.juniper.net (support.juniper.net)|34.218.217.51|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 223703 (218K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 2.96M 0s
+    50K .......... .......... .......... .......... .......... 45% 2.99M 0s
+   100K .......... .......... .......... .......... .......... 68%  115M 0s
+   150K .......... .......... .......... .......... .......... 91%  190M 0s
+   200K .......... ........                                   100% 1.14M=0.4s
+
+2020-03-02 06:25:32 (4.33 Mb/s) - ‘/dev/null’ saved [223703/223703]
+

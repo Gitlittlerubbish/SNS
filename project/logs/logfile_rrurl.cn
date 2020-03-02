@@ -1,0 +1,28 @@
+--2020-03-02 02:11:34--  http://rrurl.cn/jSIpaD
+Resolving rrurl.cn (rrurl.cn)... 120.133.2.241, 120.133.2.242, 120.133.2.243
+Connecting to rrurl.cn (rrurl.cn)|120.133.2.241|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.michigan.gov/documents/sos/Applying_for_lic_or_ID_SOS_428_222146_7.pdf [following]
+--2020-03-02 02:11:35--  http://www.michigan.gov/documents/sos/Applying_for_lic_or_ID_SOS_428_222146_7.pdf
+Resolving www.michigan.gov (www.michigan.gov)... 23.36.219.229
+Connecting to www.michigan.gov (www.michigan.gov)|23.36.219.229|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.michigan.gov/documents/sos/Applying_for_lic_or_ID_SOS_428_222146_7.pdf [following]
+--2020-03-02 02:11:35--  https://www.michigan.gov/documents/sos/Applying_for_lic_or_ID_SOS_428_222146_7.pdf
+Connecting to www.michigan.gov (www.michigan.gov)|23.36.219.229|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 52.5M
+    50K .......... .......... .......... .......... .......... 84.7M
+   100K .......... .......... .......... .......... .......... 52.8M
+   150K .......... .......... .......... .......... ..........  148M
+   200K .......... .......... .......... .......... ..........  219M
+   250K .......... .......... .......... .......... .......... 5.23M
+   300K .......... .......... .......... .......... ..........  493M
+   350K .......... .......... .......... .......... ..........  247M
+   400K .......... .......... .......... .......... ....        130M=0.1s
+
+2020-03-02 02:11:35 (33.5 Mb/s) - ‘/dev/null’ saved [455673]
+

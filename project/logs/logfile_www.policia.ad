@@ -1,0 +1,12 @@
+--2020-03-01 22:32:03--  http://www.policia.ad/documentacio/plec_bases_policies_2018.pdf
+Resolving www.policia.ad (www.policia.ad)... 109.111.117.171
+Connecting to www.policia.ad (www.policia.ad)|109.111.117.171|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82838 (81K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 61% 4.92M 0s
+    50K .......... .......... ..........                      100% 6.13M=0.1s
+
+2020-03-01 22:32:03 (5.32 Mb/s) - ‘/dev/null’ saved [82838/82838]
+

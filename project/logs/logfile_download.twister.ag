@@ -1,0 +1,12 @@
+--2020-03-01 23:04:48--  http://download.twister.ag/Rezepte_Hurom.pdf
+Resolving download.twister.ag (download.twister.ag)... 77.244.243.49
+Connecting to download.twister.ag (download.twister.ag)|77.244.243.49|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 81000 (79K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 63% 6.63M 0s
+    50K .......... .......... .........                       100% 7.53M=0.09s
+
+2020-03-01 23:04:50 (6.94 Mb/s) - ‘/dev/null’ saved [81000/81000]
+

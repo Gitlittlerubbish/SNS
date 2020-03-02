@@ -1,0 +1,21 @@
+--2020-03-02 03:02:26--  http://www.fp7.cz/storage/6500c72b186e90619cbdf31809c36c4d462ed45f
+Resolving www.fp7.cz (www.fp7.cz)... 77.78.119.241
+Connecting to www.fp7.cz (www.fp7.cz)|77.78.119.241|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.fp7.cz/storage/6500c72b186e90619cbdf31809c36c4d462ed45f [following]
+--2020-03-02 03:02:26--  https://www.fp7.cz/storage/6500c72b186e90619cbdf31809c36c4d462ed45f
+Connecting to www.fp7.cz (www.fp7.cz)|77.78.119.241|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.fp7.cz/cs/storage/6500c72b186e90619cbdf31809c36c4d462ed45f?uid=6500c72b186e90619cbdf31809c36c4d462ed45f [following]
+--2020-03-02 03:02:26--  https://www.fp7.cz/cs/storage/6500c72b186e90619cbdf31809c36c4d462ed45f?uid=6500c72b186e90619cbdf31809c36c4d462ed45f
+Reusing existing connection to www.fp7.cz:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 140549 (137K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36% 8.69M 0s
+    50K .......... .......... .......... .......... .......... 72% 17.1M 0s
+   100K .......... .......... .......... .......              100%  814M=0.07s
+
+2020-03-02 03:02:27 (15.7 Mb/s) - ‘/dev/null’ saved [140549/140549]
+

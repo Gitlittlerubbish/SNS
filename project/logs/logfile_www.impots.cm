@@ -1,0 +1,23 @@
+--2020-03-02 01:48:51--  http://www.impots.cm/uploads/Pers_Morales_SYDO_NON_DGI_Aout2017.pdf
+Resolving www.impots.cm (www.impots.cm)... 195.24.207.135
+Connecting to www.impots.cm (www.impots.cm)|195.24.207.135|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.impots.cm/uploads/Pers_Morales_SYDO_NON_DGI_Aout2017.pdf [following]
+--2020-03-02 01:48:52--  https://www.impots.cm/uploads/Pers_Morales_SYDO_NON_DGI_Aout2017.pdf
+Connecting to www.impots.cm (www.impots.cm)|195.24.207.135|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 428800 (419K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.10M 3s
+    50K .......... .......... .......... .......... .......... 23% 2.24M 2s
+   100K .......... .......... .......... .......... .......... 35% 57.5M 1s
+   150K .......... .......... .......... .......... .......... 47% 2.30M 1s
+   200K .......... .......... .......... .......... .......... 59% 57.6M 1s
+   250K .......... .......... .......... .......... .......... 71% 63.2M 0s
+   300K .......... .......... .......... .......... .......... 83% 2.36M 0s
+   350K .......... .......... .......... .......... .......... 95%  126M 0s
+   400K .......... ........                                   100% 72.9M=0.9s
+
+2020-03-02 01:48:54 (3.67 Mb/s) - ‘/dev/null’ saved [428800/428800]
+

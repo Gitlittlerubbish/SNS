@@ -1,0 +1,19 @@
+--2020-03-02 03:28:16--  http://www.unorctkatastern.gq/downloads/HFD_Diskussionspapier_20_Thesen_zur_Digitalisierung_der_Hochschulbildung.pdf
+Resolving www.unorctkatastern.gq (www.unorctkatastern.gq)... 104.18.36.45, 104.18.37.45
+Connecting to www.unorctkatastern.gq (www.unorctkatastern.gq)|104.18.36.45|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10.2M
+    50K .......... .......... .......... .......... ..........  132M
+   100K .......... .......... .......... .......... ..........  166M
+   150K .......... .......... .......... .......... .......... 11.0M
+   200K .......... .......... .......... .......... ..........  131M
+   250K .......... .......... .......... .......... ..........  381M
+   300K .......... .......... .......... .......... .......... 11.2M
+   350K .......... .......... .......... .......... ..........  184M
+   400K .......... ..                                           443M=0.1s
+
+2020-03-02 03:28:17 (26.9 Mb/s) - ‘/dev/null’ saved [422883]
+

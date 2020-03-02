@@ -1,0 +1,52 @@
+--2020-03-02 06:02:12--  http://www.alwasat.com.kw/Archive/p05ppfxsphsppuzwwxvsgjdgrhcgdtmbvetxpgqfkbuikfapzsj.pdf
+Resolving www.alwasat.com.kw (www.alwasat.com.kw)... 198.38.92.57
+Connecting to www.alwasat.com.kw (www.alwasat.com.kw)|198.38.92.57|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 342623 (335K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 1.47M 2s
+    50K .......... .......... .......... .......... .......... 29% 3.37M 1s
+   100K .......... .......... .......... .......... .......... 44% 8.23M 1s
+   150K .......... .......... .......... .......... .......... 59% 6.64M 0s
+   200K .......... .......... .......... .......... .......... 74% 8.94M 0s
+   250K .......... .......... .......... .......... .......... 89% 6.62M 0s
+   300K .......... .......... .......... ....                 100% 5.82M=0.7s
+
+2020-03-02 06:02:13 (4.10 Mb/s) - ‘/dev/null’ saved [342623/342623]
+
+--2020-03-02 06:02:13--  http://www.alwasat.com.kw/Archive/p10dmkgpywknzntegeiyxtlkmnymldvzvpvebrnvfipjdullnkt.pdf
+Resolving www.alwasat.com.kw (www.alwasat.com.kw)... 198.38.92.57
+Connecting to www.alwasat.com.kw (www.alwasat.com.kw)|198.38.92.57|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 318234 (311K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 1.50M 1s
+    50K .......... .......... .......... .......... .......... 32% 4.50M 1s
+   100K .......... .......... .......... .......... .......... 48% 6.11M 0s
+   150K .......... .......... .......... .......... .......... 64% 7.59M 0s
+   200K .......... .......... .......... .......... .......... 80% 5.46M 0s
+   250K .......... .......... .......... .......... .......... 96% 10.2M 0s
+   300K ..........                                            100% 11.1M=0.6s
+
+2020-03-02 06:02:14 (4.19 Mb/s) - ‘/dev/null’ saved [318234/318234]
+
+--2020-03-02 06:02:18--  http://www.alwasat.com.kw/Archive/p07ygcshcgnatcxpaihhpxukvyvbmbihaauaxoxqgjkrrmxvpyh.pdf
+Resolving www.alwasat.com.kw (www.alwasat.com.kw)... 198.38.92.57
+Connecting to www.alwasat.com.kw (www.alwasat.com.kw)|198.38.92.57|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 403569 (394K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 1.49M 2s
+    50K .......... .......... .......... .......... .......... 25% 4.41M 1s
+   100K .......... .......... .......... .......... .......... 38% 10.6M 1s
+   150K .......... .......... .......... .......... .......... 50% 6.75M 0s
+   200K .......... .......... .......... .......... .......... 63% 6.51M 0s
+   250K .......... .......... .......... .......... .......... 76% 6.52M 0s
+   300K .......... .......... .......... .......... .......... 88% 8.87M 0s
+   350K .......... .......... .......... .......... ....      100% 7.77M=0.7s
+
+2020-03-02 06:02:19 (4.71 Mb/s) - ‘/dev/null’ saved [403569/403569]
+

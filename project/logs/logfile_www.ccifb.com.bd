@@ -1,0 +1,12 @@
+--2020-03-02 00:09:03--  http://www.ccifb.com.bd/wp-content/uploads/2018/01/Visa-Form.pdf
+Resolving www.ccifb.com.bd (www.ccifb.com.bd)... 182.160.96.130
+Connecting to www.ccifb.com.bd (www.ccifb.com.bd)|182.160.96.130|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 86041 (84K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 1.20M 0s
+    50K .......... .......... .......... ....                 100%  619M=0.3s
+
+2020-03-02 00:09:06 (2.02 Mb/s) - ‘/dev/null’ saved [86041/86041]
+

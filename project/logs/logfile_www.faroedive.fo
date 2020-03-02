@@ -1,0 +1,16 @@
+--2020-03-02 03:37:12--  http://www.faroedive.fo/images/medicaldk.pdf
+Resolving www.faroedive.fo (www.faroedive.fo)... 46.227.118.147
+Connecting to www.faroedive.fo (www.faroedive.fo)|46.227.118.147|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 270835 (264K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 1.24M 1s
+    50K .......... .......... .......... .......... .......... 37% 3.14M 1s
+   100K .......... .......... .......... .......... .......... 56%  108M 0s
+   150K .......... .......... .......... .......... .......... 75% 6.26M 0s
+   200K .......... .......... .......... .......... .......... 94% 6.33M 0s
+   250K .......... ....                                       100%  158M=0.6s
+
+2020-03-02 03:37:13 (3.64 Mb/s) - ‘/dev/null’ saved [270835/270835]
+

@@ -1,0 +1,13 @@
+--2020-03-02 05:33:04--  http://www.moeltrading.com.ki/images/special.pdf
+Resolving www.moeltrading.com.ki (www.moeltrading.com.ki)... 173.236.167.70
+Connecting to www.moeltrading.com.ki (www.moeltrading.com.ki)|173.236.167.70|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 121848 (119K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 42% 2.66M 0s
+    50K .......... .......... .......... .......... .......... 84% 5.19M 0s
+   100K .......... ........                                   100% 46.3M=0.2s
+
+2020-03-02 05:33:05 (4.13 Mb/s) - ‘/dev/null’ saved [121848/121848]
+

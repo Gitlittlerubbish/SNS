@@ -1,0 +1,17 @@
+--2020-03-02 06:10:02--  http://oberland.la/media/pdf/12_Regeln_fuer_Nicht-Bayern.pdf
+Resolving oberland.la (oberland.la)... 85.13.131.236
+Connecting to oberland.la (oberland.la)|85.13.131.236|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://oberland.la/media/pdf/12_Regeln_fuer_Nicht-Bayern.pdf [following]
+--2020-03-02 06:10:03--  https://oberland.la/media/pdf/12_Regeln_fuer_Nicht-Bayern.pdf
+Connecting to oberland.la (oberland.la)|85.13.131.236|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 110484 (108K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 46% 6.79M 0s
+    50K .......... .......... .......... .......... .......... 92% 14.3M 0s
+   100K .......                                               100%  593M=0.09s
+
+2020-03-02 06:10:03 (9.92 Mb/s) - ‘/dev/null’ saved [110484/110484]
+

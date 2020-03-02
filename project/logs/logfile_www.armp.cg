@@ -1,0 +1,14 @@
+--2020-03-02 02:37:10--  http://www.armp.cg/Portals/0/Pdf/PPM/MJDH.pdf
+Resolving www.armp.cg (www.armp.cg)... 208.88.76.71
+Connecting to www.armp.cg (www.armp.cg)|208.88.76.71|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 164440 (161K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31% 1.59M 1s
+    50K .......... .......... .......... .......... .......... 62% 1.43M 0s
+   100K .......... .......... .......... .......... .......... 93% 4.83M 0s
+   150K ..........                                            100% 60.9M=0.6s
+
+2020-03-02 02:37:11 (2.09 Mb/s) - ‘/dev/null’ saved [164440/164440]
+

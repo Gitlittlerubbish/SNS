@@ -1,0 +1,32 @@
+--2020-03-02 04:55:13--  http://kazemi-watchgallery.ir/Upload/13981014-13103140.pdf
+Resolving kazemi-watchgallery.ir (kazemi-watchgallery.ir)... 78.157.60.165
+Connecting to kazemi-watchgallery.ir (kazemi-watchgallery.ir)|78.157.60.165|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://kazemi-watchgallery.ir [following]
+--2020-03-02 04:55:14--  https://kazemi-watchgallery.ir/
+Connecting to kazemi-watchgallery.ir (kazemi-watchgallery.ir)|78.157.60.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77685 (76K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65% 2.46M 0s
+    50K .......... .......... .....                           100%  570M=0.2s
+
+2020-03-02 04:55:15 (3.73 Mb/s) - ‘/dev/null’ saved [77685/77685]
+
+--2020-03-02 04:55:15--  http://kazemi-watchgallery.ir/Upload/13980621-19062121.pdf
+Resolving kazemi-watchgallery.ir (kazemi-watchgallery.ir)... 78.157.60.165
+Connecting to kazemi-watchgallery.ir (kazemi-watchgallery.ir)|78.157.60.165|:80... connected.
+HTTP request sent, awaiting response... 302 Redirect
+Location: https://kazemi-watchgallery.ir [following]
+--2020-03-02 04:55:15--  https://kazemi-watchgallery.ir/
+Connecting to kazemi-watchgallery.ir (kazemi-watchgallery.ir)|78.157.60.165|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77685 (76K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 65% 2.41M 0s
+    50K .......... .......... .....                           100%  594M=0.2s
+
+2020-03-02 04:55:16 (3.65 Mb/s) - ‘/dev/null’ saved [77685/77685]
+

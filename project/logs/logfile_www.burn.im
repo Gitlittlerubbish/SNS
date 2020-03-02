@@ -1,0 +1,15 @@
+--2020-03-02 05:04:33--  http://www.burn.im/pubs/BurnimJalbertStergiouSen-ASE09.pdf
+Resolving www.burn.im (www.burn.im)... 104.27.180.129, 104.27.181.129
+Connecting to www.burn.im (www.burn.im)|104.27.180.129|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215207 (210K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23% 93.7M 0s
+    50K .......... .......... .......... .......... .......... 47%  124M 0s
+   100K .......... .......... .......... .......... .......... 71%  178M 0s
+   150K .......... .......... .......... .......... .......... 95% 88.8M 0s
+   200K ..........                                            100% 2.19G=0.01s
+
+2020-03-02 05:04:33 (118 Mb/s) - ‘/dev/null’ saved [215207/215207]
+

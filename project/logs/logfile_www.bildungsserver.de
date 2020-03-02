@@ -1,0 +1,30 @@
+--2020-03-02 04:00:23--  http://www.bildungsserver.de/link/lamont_molnar_boundaries
+Resolving www.bildungsserver.de (www.bildungsserver.de)... 193.175.194.33
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.bildungsserver.de/link/lamont_molnar_boundaries [following]
+--2020-03-02 04:00:23--  https://www.bildungsserver.de/link/lamont_molnar_boundaries
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.bildungsserver.de/lnk/index.html?link=lamont_molnar_boundaries [following]
+--2020-03-02 04:00:24--  https://www.bildungsserver.de/lnk/index.html?link=lamont_molnar_boundaries
+Connecting to www.bildungsserver.de (www.bildungsserver.de)|193.175.194.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.soc.28.110601.141107 [following]
+--2020-03-02 04:00:24--  http://arjournals.annualreviews.org/doi/pdf/10.1146/annurev.soc.28.110601.141107
+Resolving arjournals.annualreviews.org (arjournals.annualreviews.org)... 65.156.1.50
+Connecting to arjournals.annualreviews.org (arjournals.annualreviews.org)|65.156.1.50|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.annualreviews.org/doi/pdf/10.1146/annurev.soc.28.110601.141107 [following]
+--2020-03-02 04:00:24--  https://www.annualreviews.org/doi/pdf/10.1146/annurev.soc.28.110601.141107
+Resolving www.annualreviews.org (www.annualreviews.org)... 104.17.235.185, 104.17.236.185
+Connecting to www.annualreviews.org (www.annualreviews.org)|104.17.235.185|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 5.36M
+    50K .......... .......... .......... ....                   433M=0.08s
+
+2020-03-02 04:00:26 (9.01 Mb/s) - ‘/dev/null’ saved [86846]
+

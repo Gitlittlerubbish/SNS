@@ -1,0 +1,18 @@
+--2020-03-02 07:34:42--  http://east.fm/East,Kenneth.pdf
+Resolving east.fm (east.fm)... 68.66.200.199
+Connecting to east.fm (east.fm)|68.66.200.199|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://east.fm/East,Kenneth.pdf [following]
+--2020-03-02 07:34:42--  https://east.fm/East,Kenneth.pdf
+Connecting to east.fm (east.fm)|68.66.200.199|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 183994 (180K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 2.05M 1s
+    50K .......... .......... .......... .......... .......... 55% 4.19M 0s
+   100K .......... .......... .......... .......... .......... 83%  101M 0s
+   150K .......... .......... .........                       100%  813M=0.3s
+
+2020-03-02 07:34:42 (4.87 Mb/s) - ‘/dev/null’ saved [183994/183994]
+

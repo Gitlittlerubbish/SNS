@@ -1,0 +1,15 @@
+--2020-03-02 05:41:48--  http://www.mavin.co.kr/files/material/159/1348
+Resolving www.mavin.co.kr (www.mavin.co.kr)... 110.10.174.179
+Connecting to www.mavin.co.kr (www.mavin.co.kr)|110.10.174.179|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 224050 (219K) [file/unknown]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22%  692K 2s
+    50K .......... .......... .......... .......... .......... 45% 1.36M 1s
+   100K .......... .......... .......... .......... .......... 68% 1.33M 1s
+   150K .......... .......... .......... .......... .......... 91% 1.36M 0s
+   200K .......... ........                                   100%  670M=1.5s
+
+2020-03-02 05:41:52 (1.19 Mb/s) - ‘/dev/null’ saved [224050/224050]
+

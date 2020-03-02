@@ -1,0 +1,11 @@
+--2020-03-02 05:26:15--  http://www.neochemical.kz/File/Monoethanolamine_DOW.pdf
+Resolving www.neochemical.kz (www.neochemical.kz)... 82.202.202.82
+Connecting to www.neochemical.kz (www.neochemical.kz)|82.202.202.82|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34809 (34K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ...                  100% 5.33M=0.05s
+
+2020-03-02 05:26:15 (5.33 Mb/s) - ‘/dev/null’ saved [34809/34809]
+

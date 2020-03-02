@@ -1,0 +1,21 @@
+--2020-03-02 07:26:59--  http://gdk.yt/lkRG58
+Resolving gdk.yt (gdk.yt)... 95.0.25.44
+Connecting to gdk.yt (gdk.yt)|95.0.25.44|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://gedik-cdn.foreks.com/portfoy/reports/files/000/000/128/original/BuyumeFonSepeti.pdf?1574325190 [following]
+--2020-03-02 07:26:59--  https://gedik-cdn.foreks.com/portfoy/reports/files/000/000/128/original/BuyumeFonSepeti.pdf?1574325190
+Resolving gedik-cdn.foreks.com (gedik-cdn.foreks.com)... 143.204.192.36, 143.204.192.85, 143.204.192.30, ...
+Connecting to gedik-cdn.foreks.com (gedik-cdn.foreks.com)|143.204.192.36|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 292323 (285K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 14.1M 0s
+    50K .......... .......... .......... .......... .......... 35% 67.3M 0s
+   100K .......... .......... .......... .......... .......... 52% 36.9M 0s
+   150K .......... .......... .......... .......... .......... 70%  259M 0s
+   200K .......... .......... .......... .......... .......... 87% 48.2M 0s
+   250K .......... .......... .......... .....                100%  529M=0.06s
+
+2020-03-02 07:27:00 (41.1 Mb/s) - ‘/dev/null’ saved [292323/292323]
+

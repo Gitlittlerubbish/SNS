@@ -1,0 +1,15 @@
+--2020-03-02 04:17:37--  http://www.hands.org.gy/files/SexualOffensesActHandbook_0.pdf
+Resolving www.hands.org.gy (www.hands.org.gy)... 68.66.200.202
+Connecting to www.hands.org.gy (www.hands.org.gy)|68.66.200.202|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 252318 (246K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 2.09M 1s
+    50K .......... .......... .......... .......... .......... 40% 4.21M 0s
+   100K .......... .......... .......... .......... .......... 60%  140M 0s
+   150K .......... .......... .......... .......... .......... 81% 93.9M 0s
+   200K .......... .......... .......... .......... ......    100% 4.02M=0.4s
+
+2020-03-02 04:17:39 (5.11 Mb/s) - ‘/dev/null’ saved [252318/252318]
+

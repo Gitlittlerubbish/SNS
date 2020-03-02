@@ -1,0 +1,13 @@
+--2020-03-02 05:54:20--  http://www.primate.or.kr/bioinformatics/biotutorial/protein/homology/phylogeny/phylogeny6.pdf
+Resolving www.primate.or.kr (www.primate.or.kr)... 164.125.89.45
+Connecting to www.primate.or.kr (www.primate.or.kr)|164.125.89.45|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 114646 (112K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 44%  386K 1s
+    50K .......... .......... .......... .......... .......... 89% 1.11M 0s
+   100K .......... .                                          100%  620K=1.6s
+
+2020-03-02 05:54:23 (579 Kb/s) - ‘/dev/null’ saved [114646/114646]
+

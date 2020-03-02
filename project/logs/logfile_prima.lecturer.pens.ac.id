@@ -1,0 +1,16 @@
+--2020-03-02 04:54:09--  http://prima.lecturer.pens.ac.id/Pasca/tabel_r.pdf
+Resolving prima.lecturer.pens.ac.id (prima.lecturer.pens.ac.id)... 202.9.85.69
+Connecting to prima.lecturer.pens.ac.id (prima.lecturer.pens.ac.id)|202.9.85.69|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 268764 (262K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19%  342K 5s
+    50K .......... .......... .......... .......... .......... 38%  489K 3s
+   100K .......... .......... .......... .......... .......... 57%  963K 2s
+   150K .......... .......... .......... .......... .......... 76%  477K 1s
+   200K .......... .......... .......... .......... .......... 95%  597K 0s
+   250K .......... ..                                         100%  462K=4.2s
+
+2020-03-02 04:54:15 (508 Kb/s) - ‘/dev/null’ saved [268764/268764]
+

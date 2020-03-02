@@ -1,0 +1,16 @@
+--2020-03-02 04:15:17--  http://www.harbours.gg/CHttpHandler.ashx%3Fid%3D123069%26p%3D0
+Resolving www.harbours.gg (www.harbours.gg)... 195.226.152.43
+Connecting to www.harbours.gg (www.harbours.gg)|195.226.152.43|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://gov.gg/index.aspx?articleid=121267 [following]
+--2020-03-02 04:15:17--  https://gov.gg/index.aspx?articleid=121267
+Resolving gov.gg (gov.gg)... 195.226.152.45
+Connecting to gov.gg (gov.gg)|195.226.152.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                   7.02M=0.02s
+
+2020-03-02 04:15:18 (7.02 Mb/s) - ‘/dev/null’ saved [20237]
+

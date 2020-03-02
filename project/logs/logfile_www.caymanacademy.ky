@@ -1,0 +1,13 @@
+--2020-03-02 01:55:13--  http://www.caymanacademy.ky/images/Cayman-Academy-Brochure.pdf
+Resolving www.caymanacademy.ky (www.caymanacademy.ky)... 35.209.167.179
+Connecting to www.caymanacademy.ky (www.caymanacademy.ky)|35.209.167.179|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143755 (140K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 35% 2.07M 0s
+    50K .......... .......... .......... .......... .......... 71% 4.06M 0s
+   100K .......... .......... .......... ..........           100% 29.6M=0.3s
+
+2020-03-02 01:55:14 (3.71 Mb/s) - ‘/dev/null’ saved [143755/143755]
+

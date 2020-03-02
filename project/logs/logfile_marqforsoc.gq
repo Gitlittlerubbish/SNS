@@ -1,0 +1,12 @@
+--2020-03-02 03:29:26--  http://marqforsoc.gq/zv/bekanntmachungen/bekanntm_50_2012.pdf
+Resolving marqforsoc.gq (marqforsoc.gq)... 104.31.77.215, 104.31.76.215
+Connecting to marqforsoc.gq (marqforsoc.gq)|104.31.77.215|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 88.5M
+    50K ....                                                   88.5M=0.005s
+
+2020-03-02 03:29:27 (88.5 Mb/s) - ‘/dev/null’ saved [55336]
+

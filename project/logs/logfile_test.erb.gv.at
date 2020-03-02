@@ -1,0 +1,36 @@
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:43:16--  https://test.erb.gv.at/go/wsse_spec
+Resolving test.erb.gv.at (test.erb.gv.at)... 85.158.224.54
+Connecting to test.erb.gv.at (test.erb.gv.at)|85.158.224.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0.pdf [following]
+--2020-03-01 23:43:16--  http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0.pdf
+Resolving docs.oasis-open.org (docs.oasis-open.org)... 23.253.76.132
+Connecting to docs.oasis-open.org (docs.oasis-open.org)|23.253.76.132|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85570 (84K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 1.16M 0s
+    50K .......... .......... .......... ...                  100% 2.33M=0.5s
+
+2020-03-01 23:43:17 (1.45 Mb/s) - ‘/dev/null’ saved [85570/85570]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-01 23:43:31--  https://test.erb.gv.at/go/wsse_spec
+Resolving test.erb.gv.at (test.erb.gv.at)... 85.158.224.54
+Connecting to test.erb.gv.at (test.erb.gv.at)|85.158.224.54|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0.pdf [following]
+--2020-03-01 23:43:31--  http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0.pdf
+Resolving docs.oasis-open.org (docs.oasis-open.org)... 23.253.76.132
+Connecting to docs.oasis-open.org (docs.oasis-open.org)|23.253.76.132|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85570 (84K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59% 1.78M 0s
+    50K .......... .......... .......... ...                  100% 2.36M=0.3s
+
+2020-03-01 23:43:32 (1.98 Mb/s) - ‘/dev/null’ saved [85570/85570]
+

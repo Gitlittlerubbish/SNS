@@ -1,0 +1,16 @@
+--2020-03-02 05:15:43--  http://www.jvnf.or.jp/shippei100420.pdf
+Resolving www.jvnf.or.jp (www.jvnf.or.jp)... 210.136.236.99
+Connecting to www.jvnf.or.jp (www.jvnf.or.jp)|210.136.236.99|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.jvnf.or.jp/shippei100420.pdf [following]
+--2020-03-02 05:15:44--  https://www.jvnf.or.jp/shippei100420.pdf
+Connecting to www.jvnf.or.jp (www.jvnf.or.jp)|210.136.236.99|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87109 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58%  446K 1s
+    50K .......... .......... .......... .....                100%  924K=1.2s
+
+2020-03-02 05:15:46 (567 Kb/s) - ‘/dev/null’ saved [87109/87109]
+

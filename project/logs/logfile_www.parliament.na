@@ -1,0 +1,24 @@
+--2020-03-02 08:02:35--  http://www.parliament.na/phocadownload/media/2018/namsona2018.pdf
+Resolving www.parliament.na (www.parliament.na)... 196.31.245.219
+Connecting to www.parliament.na (www.parliament.na)|196.31.245.219|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.parliament.na/phocadownload/media/2018/namsona2018.pdf [following]
+--2020-03-02 08:02:36--  https://www.parliament.na/phocadownload/media/2018/namsona2018.pdf
+Connecting to www.parliament.na (www.parliament.na)|196.31.245.219|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 480131 (469K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 1.15M 3s
+    50K .......... .......... .......... .......... .......... 21% 2.27M 2s
+   100K .......... .......... .......... .......... .......... 31% 2.32M 2s
+   150K .......... .......... .......... .......... .......... 42% 1.17M 1s
+   200K .......... .......... .......... .......... .......... 53%  626K 2s
+   250K .......... .......... .......... .......... .......... 63% 2.31M 1s
+   300K .......... .......... .......... .......... .......... 74% 2.32M 1s
+   350K .......... .......... .......... .......... .......... 85%  578K 0s
+   400K .......... .......... .......... .......... .......... 95% 1.16M 0s
+   450K .......... ........                                   100% 2.27G=3.1s
+
+2020-03-02 08:02:40 (1.22 Mb/s) - ‘/dev/null’ saved [480131/480131]
+

@@ -1,0 +1,12 @@
+--2020-03-02 05:21:19--  http://www.jerseyconcierge.je/img/DPJCFactSheet3.pdf
+Resolving www.jerseyconcierge.je (www.jerseyconcierge.je)... 77.68.64.4
+Connecting to www.jerseyconcierge.je (www.jerseyconcierge.je)|77.68.64.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 87177 (85K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 58% 19.0M 0s
+    50K .......... .......... .......... .....                100%  273M=0.02s
+
+2020-03-02 05:21:19 (30.9 Mb/s) - ‘/dev/null’ saved [87177/87177]
+

@@ -1,0 +1,34 @@
+--2020-03-01 23:43:29--  http://www.gs1.at/fileadmin/user_upload/EU_Verordnung_1935_2004.pdf
+Resolving www.gs1.at (www.gs1.at)... 212.31.80.134
+Connecting to www.gs1.at (www.gs1.at)|212.31.80.134|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.gs1.at/fileadmin/user_upload/EU_Verordnung_1935_2004.pdf [following]
+--2020-03-01 23:43:30--  https://www.gs1.at/fileadmin/user_upload/EU_Verordnung_1935_2004.pdf
+Connecting to www.gs1.at (www.gs1.at)|212.31.80.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148757 (145K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 14.1M 0s
+    50K .......... .......... .......... .......... .......... 68% 15.9M 0s
+   100K .......... .......... .......... .......... .....     100% 89.0M=0.06s
+
+2020-03-01 23:43:30 (20.2 Mb/s) - ‘/dev/null’ saved [148757/148757]
+
+--2020-03-01 23:43:32--  http://www.gs1.at/fileadmin/user_upload/EU_Verordnung_1935_2004.pdf
+Resolving www.gs1.at (www.gs1.at)... 212.31.80.134
+Connecting to www.gs1.at (www.gs1.at)|212.31.80.134|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://www.gs1.at/fileadmin/user_upload/EU_Verordnung_1935_2004.pdf [following]
+--2020-03-01 23:43:32--  https://www.gs1.at/fileadmin/user_upload/EU_Verordnung_1935_2004.pdf
+Connecting to www.gs1.at (www.gs1.at)|212.31.80.134|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148757 (145K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 13.1M 0s
+    50K .......... .......... .......... .......... .......... 68% 14.7M 0s
+   100K .......... .......... .......... .......... .....     100%  152M=0.06s
+
+2020-03-01 23:43:32 (19.3 Mb/s) - ‘/dev/null’ saved [148757/148757]
+

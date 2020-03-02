@@ -1,0 +1,15 @@
+--2020-03-02 04:13:40--  http://www.digecam.mil.gt/web/docs/reglamento.pdf
+Resolving www.digecam.mil.gt (www.digecam.mil.gt)... 181.114.19.19
+Connecting to www.digecam.mil.gt (www.digecam.mil.gt)|181.114.19.19|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 249765 (244K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20% 1.50M 1s
+    50K .......... .......... .......... .......... .......... 40% 3.03M 1s
+   100K .......... .......... .......... .......... .......... 61% 3.08M 0s
+   150K .......... .......... .......... .......... .......... 81% 3.06M 0s
+   200K .......... .......... .......... .......... ...       100%  104M=0.7s
+
+2020-03-02 04:13:41 (2.94 Mb/s) - ‘/dev/null’ saved [249765/249765]
+

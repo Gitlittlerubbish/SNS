@@ -1,0 +1,16 @@
+--2020-03-02 04:18:11--  http://moc.gov.gy/wp-content/uploads/2016/09/LocalDemocraticOrgansActCap2809.pdf
+Resolving moc.gov.gy (moc.gov.gy)... 161.47.124.187
+Connecting to moc.gov.gy (moc.gov.gy)|161.47.124.187|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://moc.gov.gy/wp-content/uploads/2016/09/LocalDemocraticOrgansActCap2809.pdf [following]
+--2020-03-02 04:18:11--  https://moc.gov.gy/wp-content/uploads/2016/09/LocalDemocraticOrgansActCap2809.pdf
+Connecting to moc.gov.gy (moc.gov.gy)|161.47.124.187|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 100016 (98K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51% 2.23M 0s
+    50K .......... .......... .......... .......... .......   100%  122M=0.2s
+
+2020-03-02 04:18:12 (4.29 Mb/s) - ‘/dev/null’ saved [100016/100016]
+

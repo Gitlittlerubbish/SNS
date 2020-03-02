@@ -1,0 +1,24 @@
+--2020-03-02 06:14:07--  http://www.irobot.lv/uploaded_files/File/iRobot_Roomba_500_Open_Interface_Spec.pdf
+Resolving www.irobot.lv (www.irobot.lv)... 78.129.165.163
+Connecting to www.irobot.lv (www.irobot.lv)|78.129.165.163|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.irobot.lv/uploaded_files/File/iRobot_Roomba_500_Open_Interface_Spec.pdf [following]
+--2020-03-02 06:14:07--  https://www.irobot.lv/uploaded_files/File/iRobot_Roomba_500_Open_Interface_Spec.pdf
+Connecting to www.irobot.lv (www.irobot.lv)|78.129.165.163|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 493776 (482K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10% 33.0M 0s
+    50K .......... .......... .......... .......... .......... 20% 63.8M 0s
+   100K .......... .......... .......... .......... .......... 31%  177M 0s
+   150K .......... .......... .......... .......... .......... 41% 61.6M 0s
+   200K .......... .......... .......... .......... .......... 51% 54.2M 0s
+   250K .......... .......... .......... .......... .......... 62%  174M 0s
+   300K .......... .......... .......... .......... .......... 72% 98.5M 0s
+   350K .......... .......... .......... .......... .......... 82%  130M 0s
+   400K .......... .......... .......... .......... .......... 93% 85.3M 0s
+   450K .......... .......... .......... ..                   100% 71.2M=0.05s
+
+2020-03-02 06:14:07 (73.8 Mb/s) - ‘/dev/null’ saved [493776/493776]
+

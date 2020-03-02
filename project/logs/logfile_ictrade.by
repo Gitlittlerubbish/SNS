@@ -1,0 +1,14 @@
+--2020-03-02 00:13:45--  http://ictrade.by/upload/diodes/2d213_kd213.pdf
+Resolving ictrade.by (ictrade.by)... 178.172.235.199
+Connecting to ictrade.by (ictrade.by)|178.172.235.199|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202645 (198K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 3.25M 0s
+    50K .......... .......... .......... .......... .......... 50% 6.53M 0s
+   100K .......... .......... .......... .......... .......... 75% 6.65M 0s
+   150K .......... .......... .......... .......... .......   100% 6.41M=0.3s
+
+2020-03-02 00:13:46 (5.20 Mb/s) - ‘/dev/null’ saved [202645/202645]
+

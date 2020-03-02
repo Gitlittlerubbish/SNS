@@ -1,0 +1,11 @@
+--2020-03-02 02:17:17--  http://www.stats.gov.cn/tjsj/tjbz/hyflbz/
+Resolving www.stats.gov.cn (www.stats.gov.cn)... 111.206.216.105
+Connecting to www.stats.gov.cn (www.stats.gov.cn)|111.206.216.105|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100% 31.1M=0s
+
+2020-03-02 02:17:19 (31.1 Mb/s) - ‘/dev/null’ saved [105/105]
+

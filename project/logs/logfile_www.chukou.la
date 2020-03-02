@@ -1,0 +1,12 @@
+--2020-03-02 06:10:03--  http://www.chukou.la/img/chukoula.pdf
+Resolving www.chukou.la (www.chukou.la)... 121.41.114.118
+Connecting to www.chukou.la (www.chukou.la)|121.41.114.118|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99058 (97K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 51%  235K 2s
+    50K .......... .......... .......... .......... ......    100% 1.24M=2.1s
+
+2020-03-02 06:10:06 (387 Kb/s) - ‘/dev/null’ saved [99058/99058]
+

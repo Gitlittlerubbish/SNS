@@ -1,0 +1,26 @@
+--2020-03-02 03:05:58--  http://www.egouv.dj/Administration/Formulaires/f32676223eeab521091a8403e1d697ae.pdf
+Resolving www.egouv.dj (www.egouv.dj)... 197.241.36.16
+Connecting to www.egouv.dj (www.egouv.dj)|197.241.36.16|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152768 (149K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 2.28M 0s
+    50K .......... .......... .......... .......... .......... 67% 4.64M 0s
+   100K .......... .......... .......... .......... ......... 100% 20.3M=0.3s
+
+2020-03-02 03:05:59 (4.24 Mb/s) - ‘/dev/null’ saved [152768/152768]
+
+--2020-03-02 03:06:03--  http://www.egouv.dj/Administration/Formulaires/f32676223eeab521091a8403e1d697ae.pdf
+Resolving www.egouv.dj (www.egouv.dj)... 197.241.36.16
+Connecting to www.egouv.dj (www.egouv.dj)|197.241.36.16|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152768 (149K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 2.21M 0s
+    50K .......... .......... .......... .......... .......... 67% 4.52M 0s
+   100K .......... .......... .......... .......... ......... 100% 48.0M=0.3s
+
+2020-03-02 03:06:04 (4.30 Mb/s) - ‘/dev/null’ saved [152768/152768]
+

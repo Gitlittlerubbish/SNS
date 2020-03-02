@@ -1,0 +1,22 @@
+--2020-03-02 04:37:09--  http://www.cfs.gov.hk/english/rc/subject/files/20200211_1.pdf
+Resolving www.cfs.gov.hk (www.cfs.gov.hk)... 13.224.130.95, 13.224.130.72, 13.224.130.76, ...
+Connecting to www.cfs.gov.hk (www.cfs.gov.hk)|13.224.130.95|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.cfs.gov.hk/english/rc/subject/files/20200211_1.pdf [following]
+--2020-03-02 04:37:09--  https://www.cfs.gov.hk/english/rc/subject/files/20200211_1.pdf
+Connecting to www.cfs.gov.hk (www.cfs.gov.hk)|13.224.130.95|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 401696 (392K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 12% 1.28M 2s
+    50K .......... .......... .......... .......... .......... 25% 1.08M 2s
+   100K .......... .......... .......... .......... .......... 38% 2.15M 1s
+   150K .......... .......... .......... .......... .......... 50% 1.08M 1s
+   200K .......... .......... .......... .......... .......... 63%  539K 1s
+   250K .......... .......... .......... .......... .......... 76% 2.14M 1s
+   300K .......... .......... .......... .......... .......... 89% 1.08M 0s
+   350K .......... .......... .......... .......... ..        100% 1.83M=2.8s
+
+2020-03-02 04:37:13 (1.15 Mb/s) - ‘/dev/null’ saved [401696/401696]
+

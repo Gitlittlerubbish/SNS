@@ -1,0 +1,11 @@
+--2020-03-02 00:34:29--  http://www.teamfast.bm/uploads/6jWkpxSb/H.M.Customs.pdf
+Resolving www.teamfast.bm (www.teamfast.bm)... 185.58.214.105, 185.58.214.101, 185.58.214.100, ...
+Connecting to www.teamfast.bm (www.teamfast.bm)|185.58.214.105|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18313 (18K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......                                    100% 8.05M=0.02s
+
+2020-03-02 00:34:30 (8.05 Mb/s) - ‘/dev/null’ saved [18313/18313]
+

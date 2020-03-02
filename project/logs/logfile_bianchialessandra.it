@@ -1,0 +1,16 @@
+--2020-03-02 05:08:41--  http://bianchialessandra.it/pdf/Gastrointerite.pdf
+Resolving bianchialessandra.it (bianchialessandra.it)... 89.40.173.125
+Connecting to bianchialessandra.it (bianchialessandra.it)|89.40.173.125|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 298892 (292K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 3.61M 1s
+    50K .......... .......... .......... .......... .......... 34% 6.83M 0s
+   100K .......... .......... .......... .......... .......... 51% 7.23M 0s
+   150K .......... .......... .......... .......... .......... 68%  107M 0s
+   200K .......... .......... .......... .......... .......... 85%  293M 0s
+   250K .......... .......... .......... .......... .         100% 6.44M=0.3s
+
+2020-03-02 05:08:42 (8.29 Mb/s) - ‘/dev/null’ saved [298892/298892]
+

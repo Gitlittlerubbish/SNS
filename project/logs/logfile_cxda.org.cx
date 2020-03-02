@@ -1,0 +1,15 @@
+--2020-03-02 02:22:33--  http://cxda.org.cx/pdf/registrant_agreement_cx.pdf
+Resolving cxda.org.cx (cxda.org.cx)... 185.17.236.69
+Connecting to cxda.org.cx (cxda.org.cx)|185.17.236.69|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 231480 (226K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 16.8M 0s
+    50K .......... .......... .......... .......... .......... 44% 33.0M 0s
+   100K .......... .......... .......... .......... .......... 66%  129M 0s
+   150K .......... .......... .......... .......... .......... 88% 52.7M 0s
+   200K .......... .......... ......                          100% 79.2M=0.05s
+
+2020-03-02 02:22:33 (36.7 Mb/s) - ‘/dev/null’ saved [231480/231480]
+

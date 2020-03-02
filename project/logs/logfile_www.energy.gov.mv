@@ -1,0 +1,15 @@
+--2020-03-02 07:10:04--  http://www.energy.gov.mv/v1/download/21
+Resolving www.energy.gov.mv (www.energy.gov.mv)... 202.1.207.53
+Connecting to www.energy.gov.mv (www.energy.gov.mv)|202.1.207.53|:80... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: http://www.energy.gov.mv/v1/wp-content/files/downloads/MEA_APPROVED_CABLE_LIST_06_JANUARY_2013.pdf [following]
+--2020-03-02 07:10:05--  http://www.energy.gov.mv/v1/wp-content/files/downloads/MEA_APPROVED_CABLE_LIST_06_JANUARY_2013.pdf
+Reusing existing connection to www.energy.gov.mv:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 27480 (27K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ......                          100% 1.08M=0.2s
+
+2020-03-02 07:10:05 (1.08 Mb/s) - ‘/dev/null’ saved [27480/27480]
+

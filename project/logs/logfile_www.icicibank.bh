@@ -1,0 +1,25 @@
+--2020-03-01 23:59:44--  http://www.icicibank.bh/managed-assets/docs/EFTS.pdf
+Resolving www.icicibank.bh (www.icicibank.bh)... 203.27.235.25
+Connecting to www.icicibank.bh (www.icicibank.bh)|203.27.235.25|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 135798 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37%  684K 1s
+    50K .......... .......... .......... .......... .......... 75%  663K 0s
+   100K .......... .......... .......... ..                   100%  374K=1.9s
+
+2020-03-01 23:59:47 (562 Kb/s) - ‘/dev/null’ saved [135798/135798]
+
+--2020-03-01 23:59:47--  http://www.icicibank.bh/managed-assets/docs/International_Bank_Account_Numbe.pdf
+Resolving www.icicibank.bh (www.icicibank.bh)... 203.27.235.25
+Connecting to www.icicibank.bh (www.icicibank.bh)|203.27.235.25|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 89481 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57%  131K 2s
+    50K .......... .......... .......... .......              100%  335K=4.0s
+
+2020-03-01 23:59:52 (177 Kb/s) - ‘/dev/null’ saved [89481/89481]
+

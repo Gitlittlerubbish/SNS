@@ -1,0 +1,21 @@
+--2020-03-02 02:19:08--  http://tensorflow.google.cn/extras/tensorflow_brand_guidelines.pdf
+Resolving tensorflow.google.cn (tensorflow.google.cn)... 172.217.20.131
+Connecting to tensorflow.google.cn (tensorflow.google.cn)|172.217.20.131|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tensorflow.google.cn/extras/tensorflow_brand_guidelines.pdf [following]
+--2020-03-02 02:19:08--  https://tensorflow.google.cn/extras/tensorflow_brand_guidelines.pdf
+Connecting to tensorflow.google.cn (tensorflow.google.cn)|172.217.20.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 330570 (323K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 2.23M 1s
+    50K .......... .......... .......... .......... .......... 30% 3.15M 1s
+   100K .......... .......... .......... .......... .......... 46% 8.11M 0s
+   150K .......... .......... .......... .......... .......... 61% 8.41M 0s
+   200K .......... .......... .......... .......... .......... 77% 9.05M 0s
+   250K .......... .......... .......... .......... .......... 92% 12.0M 0s
+   300K .......... .......... ..                              100% 29.7M=0.5s
+
+2020-03-02 02:19:09 (5.30 Mb/s) - ‘/dev/null’ saved [330570/330570]
+

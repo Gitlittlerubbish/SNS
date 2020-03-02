@@ -1,0 +1,13 @@
+--2020-03-02 04:43:11--  http://ijtr.nic.in/Bangalore_principles.pdf
+Resolving ijtr.nic.in (ijtr.nic.in)... 164.100.90.93
+Connecting to ijtr.nic.in (ijtr.nic.in)|164.100.90.93|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 136487 (133K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 37%  451K 2s
+    50K .......... .......... .......... .......... .......... 75% 1.26M 0s
+   100K .......... .......... .......... ...                  100%  205M=1.2s
+
+2020-03-02 04:43:13 (885 Kb/s) - ‘/dev/null’ saved [136487/136487]
+

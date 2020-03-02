@@ -1,0 +1,38 @@
+--2020-03-02 04:43:50--  http://www.webtel.in/Image/Form10BA_2016.pdf
+Resolving www.webtel.in (www.webtel.in)... 115.124.126.216
+Connecting to www.webtel.in (www.webtel.in)|115.124.126.216|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.webtel.in/Image/Form10BA_2016.pdf [following]
+--2020-03-02 04:43:50--  https://www.webtel.in/Image/Form10BA_2016.pdf
+Connecting to www.webtel.in (www.webtel.in)|115.124.126.216|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 229346 (224K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.39M 1s
+    50K .......... .......... .......... .......... .......... 44%  101M 0s
+   100K .......... .......... .......... .......... .......... 66% 2.66M 0s
+   150K .......... .......... .......... .......... .......... 89% 4.28M 0s
+   200K .......... .......... ...                             100%  116M=0.5s
+
+2020-03-02 04:43:52 (3.34 Mb/s) - ‘/dev/null’ saved [229346/229346]
+
+--2020-03-02 04:43:53--  http://www.webtel.in/Image/Form10BA_2016.pdf
+Resolving www.webtel.in (www.webtel.in)... 115.124.126.216
+Connecting to www.webtel.in (www.webtel.in)|115.124.126.216|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.webtel.in/Image/Form10BA_2016.pdf [following]
+--2020-03-02 04:43:53--  https://www.webtel.in/Image/Form10BA_2016.pdf
+Connecting to www.webtel.in (www.webtel.in)|115.124.126.216|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 229346 (224K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.38M 1s
+    50K .......... .......... .......... .......... .......... 44%  155M 0s
+   100K .......... .......... .......... .......... .......... 66% 2.82M 0s
+   150K .......... .......... .......... .......... .......... 89%  124M 0s
+   200K .......... .......... ...                             100%  773M=0.4s
+
+2020-03-02 04:43:54 (4.09 Mb/s) - ‘/dev/null’ saved [229346/229346]
+

@@ -1,0 +1,19 @@
+--2020-03-02 06:10:21--  http://oneofus.la/files/flynn2018.pdf
+Resolving oneofus.la (oneofus.la)... 174.136.98.50
+Connecting to oneofus.la (oneofus.la)|174.136.98.50|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://oneofus.la/files/flynn2018.pdf [following]
+--2020-03-02 06:10:21--  https://oneofus.la/files/flynn2018.pdf
+Connecting to oneofus.la (oneofus.la)|174.136.98.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 226122 (221K) [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 1.44M 1s
+    50K .......... .......... .......... .......... .......... 45% 2.88M 1s
+   100K .......... .......... .......... .......... .......... 67% 4.00M 0s
+   150K .......... .......... .......... .......... .......... 90% 10.7M 0s
+   200K .......... ..........                                 100%  702K=0.8s
+
+2020-03-02 06:10:23 (2.23 Mb/s) - ‘/dev/null’ saved [226122/226122]
+

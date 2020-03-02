@@ -1,0 +1,11 @@
+--2020-03-02 04:13:10--  http://munifrayblascasas.laip.gt/laip/29_monografia_fray.pdf
+Resolving munifrayblascasas.laip.gt (munifrayblascasas.laip.gt)... 162.211.84.123
+Connecting to munifrayblascasas.laip.gt (munifrayblascasas.laip.gt)|162.211.84.123|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 47822 (47K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......    100% 1.77M=0.2s
+
+2020-03-02 04:13:10 (1.77 Mb/s) - ‘/dev/null’ saved [47822/47822]
+

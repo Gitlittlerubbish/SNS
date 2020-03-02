@@ -1,0 +1,13 @@
+--2020-03-02 02:52:38--  http://www.snedai.ci/docs/Formulaire_visa.pdf
+Resolving www.snedai.ci (www.snedai.ci)... 213.186.33.17
+Connecting to www.snedai.ci (www.snedai.ci)|213.186.33.17|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 128087 (125K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39% 29.6M 0s
+    50K .......... .......... .......... .......... .......... 79% 47.7M 0s
+   100K .......... .......... .....                           100%  136M=0.02s
+
+2020-03-02 02:52:38 (42.8 Mb/s) - ‘/dev/null’ saved [128087/128087]
+

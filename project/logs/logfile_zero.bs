@@ -1,0 +1,30 @@
+--2020-03-01 23:55:50--  http://zero.bs/dontpanic/checking_unix_for_compromises.pdf
+Resolving zero.bs (zero.bs)... 46.101.119.173
+Connecting to zero.bs (zero.bs)|46.101.119.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://zero.bs [following]
+--2020-03-01 23:55:50--  https://zero.bs/
+Connecting to zero.bs (zero.bs)|46.101.119.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5677 (5.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                 100% 2.16G=0s
+
+2020-03-01 23:55:50 (2.16 Gb/s) - ‘/dev/null’ saved [5677/5677]
+
+--2020-03-01 23:55:52--  http://zero.bs/dontpanic/checking_unix_for_compromises.pdf
+Resolving zero.bs (zero.bs)... 46.101.119.173
+Connecting to zero.bs (zero.bs)|46.101.119.173|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://zero.bs [following]
+--2020-03-01 23:55:52--  https://zero.bs/
+Connecting to zero.bs (zero.bs)|46.101.119.173|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5677 (5.5K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .....                                                 100% 2.84G=0s
+
+2020-03-01 23:55:52 (2.84 Gb/s) - ‘/dev/null’ saved [5677/5677]
+

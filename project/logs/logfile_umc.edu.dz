@@ -1,0 +1,11 @@
+--2020-03-01 22:21:41--  http://umc.edu.dz/images/h2020-watzer.pdf
+Resolving umc.edu.dz (umc.edu.dz)... 80.246.8.22, 193.194.84.140
+Connecting to umc.edu.dz (umc.edu.dz)|80.246.8.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 50219 (49K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......... 100% 3.29M=0.1s
+
+2020-03-01 22:21:41 (3.29 Mb/s) - ‘/dev/null’ saved [50219/50219]
+

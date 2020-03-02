@@ -1,0 +1,19 @@
+--2020-03-02 01:51:55--  http://www.gov.nu.ca/sites/default/files/e2008snc15.pdf
+Resolving www.gov.nu.ca (www.gov.nu.ca)... 162.243.119.16
+Connecting to www.gov.nu.ca (www.gov.nu.ca)|162.243.119.16|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.gov.nu.ca/sites/default/files/e2008snc15.pdf [following]
+--2020-03-02 01:51:55--  https://www.gov.nu.ca/sites/default/files/e2008snc15.pdf
+Connecting to www.gov.nu.ca (www.gov.nu.ca)|162.243.119.16|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 234589 (229K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 21% 2.76M 1s
+    50K .......... .......... .......... .......... .......... 43% 4.92M 0s
+   100K .......... .......... .......... .......... .......... 65%  324M 0s
+   150K .......... .......... .......... .......... .......... 87% 58.6M 0s
+   200K .......... .......... .........                       100% 3.04M=0.3s
+
+2020-03-02 01:51:56 (5.90 Mb/s) - ‘/dev/null’ saved [234589/234589]
+

@@ -1,0 +1,12 @@
+--2020-03-02 03:45:33--  http://starcraft2.fi/files/vectorama_2012_starcraft_2_rules.pdf
+Resolving starcraft2.fi (starcraft2.fi)... 37.187.29.60
+Connecting to starcraft2.fi (starcraft2.fi)|37.187.29.60|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91816 (90K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 55% 30.1M 0s
+    50K .......... .......... .......... .........            100% 41.8M=0.02s
+
+2020-03-02 03:45:33 (34.3 Mb/s) - ‘/dev/null’ saved [91816/91816]
+

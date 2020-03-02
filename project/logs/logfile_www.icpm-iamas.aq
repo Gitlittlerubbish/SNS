@@ -1,0 +1,13 @@
+--2020-03-01 22:59:37--  http://www.icpm-iamas.aq/ICPMsessionparams_1stCircular.pdf
+Resolving www.icpm-iamas.aq (www.icpm-iamas.aq)... 194.66.5.50
+Connecting to www.icpm-iamas.aq (www.icpm-iamas.aq)|194.66.5.50|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 116697 (114K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 43% 22.4M 0s
+    50K .......... .......... .......... .......... .......... 87% 42.2M 0s
+   100K .......... ...                                        100%  841K=0.2s
+
+2020-03-01 22:59:37 (5.69 Mb/s) - ‘/dev/null’ saved [116697/116697]
+

@@ -1,0 +1,19 @@
+--2020-03-01 23:35:30--  http://mosaicprojects.com.au/WhitePapers/WP1061_PTA.pdf
+Resolving mosaicprojects.com.au (mosaicprojects.com.au)... 103.27.33.137
+Connecting to mosaicprojects.com.au (mosaicprojects.com.au)|103.27.33.137|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://mosaicprojects.com.au/WhitePapers/WP1061_PTA.pdf [following]
+--2020-03-01 23:35:31--  https://mosaicprojects.com.au/WhitePapers/WP1061_PTA.pdf
+Connecting to mosaicprojects.com.au (mosaicprojects.com.au)|103.27.33.137|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 214255 (209K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 23%  629K 2s
+    50K .......... .......... .......... .......... .......... 47% 1.43M 1s
+   100K .......... .......... .......... .......... .......... 71% 1.44M 0s
+   150K .......... .......... .......... .......... .......... 95% 51.8M 0s
+   200K .........                                             100%  221K=1.6s
+
+2020-03-01 23:35:34 (1.09 Mb/s) - ‘/dev/null’ saved [214255/214255]
+

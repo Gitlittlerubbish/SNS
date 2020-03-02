@@ -1,0 +1,28 @@
+--2020-03-02 08:27:15--  http://www.nobraintoosmall.co.nz/students/chemistry/NCEA_Level2/pdfs/che_90308_polarity0612_plusanswers.pdf
+Resolving www.nobraintoosmall.co.nz (www.nobraintoosmall.co.nz)... 43.245.53.34
+Connecting to www.nobraintoosmall.co.nz (www.nobraintoosmall.co.nz)|43.245.53.34|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 244535 (239K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 20%  737K 2s
+    50K .......... .......... .......... .......... .......... 41% 1.60M 1s
+   100K .......... .......... .......... .......... .......... 62% 88.5M 0s
+   150K .......... .......... .......... .......... .......... 83% 1.30M 0s
+   200K .......... .......... .......... ........             100%  172M=1.1s
+
+2020-03-02 08:27:17 (1.72 Mb/s) - ‘/dev/null’ saved [244535/244535]
+
+--2020-03-02 08:27:17--  http://www.nobraintoosmall.co.nz/students/chemistry/NCEA_Level2/pdfs/che_91161_survival.pdf
+Resolving www.nobraintoosmall.co.nz (www.nobraintoosmall.co.nz)... 43.245.53.34
+Connecting to www.nobraintoosmall.co.nz (www.nobraintoosmall.co.nz)|43.245.53.34|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 140641 (137K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 36%  670K 1s
+    50K .......... .......... .......... .......... .......... 72% 1.60M 0s
+   100K .......... .......... .......... .......              100%  166M=0.9s
+
+2020-03-02 08:27:19 (1.29 Mb/s) - ‘/dev/null’ saved [140641/140641]
+

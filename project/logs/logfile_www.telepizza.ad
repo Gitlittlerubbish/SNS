@@ -1,0 +1,38 @@
+--2020-03-01 22:32:02--  http://www.telepizza.ad/docs/adheridas.pdf
+Resolving www.telepizza.ad (www.telepizza.ad)... 45.60.47.42
+Connecting to www.telepizza.ad (www.telepizza.ad)|45.60.47.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.telepizza.ad/docs/adheridas.pdf [following]
+--2020-03-01 22:32:02--  https://www.telepizza.ad/docs/adheridas.pdf
+Connecting to www.telepizza.ad (www.telepizza.ad)|45.60.47.42|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://images.telepizza.com/vol/ad/images/docs/adheridas.pdf [following]
+--2020-03-01 22:32:03--  https://images.telepizza.com/vol/ad/images/docs/adheridas.pdf
+Resolving images.telepizza.com (images.telepizza.com)... 8.238.11.124, 8.238.5.252, 8.238.11.252
+Connecting to images.telepizza.com (images.telepizza.com)|8.238.11.124|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 927948 (906K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  5% 34.5M 0s
+    50K .......... .......... .......... .......... .......... 11% 73.3M 0s
+   100K .......... .......... .......... .......... .......... 16% 37.7M 0s
+   150K .......... .......... .......... .......... .......... 22%  604M 0s
+   200K .......... .......... .......... .......... .......... 27% 31.5M 0s
+   250K .......... .......... .......... .......... .......... 33%  131M 0s
+   300K .......... .......... .......... .......... .......... 38%  408M 0s
+   350K .......... .......... .......... .......... .......... 44%  103M 0s
+   400K .......... .......... .......... .......... .......... 49% 40.1M 0s
+   450K .......... .......... .......... .......... .......... 55%  217M 0s
+   500K .......... .......... .......... .......... .......... 60%  524M 0s
+   550K .......... .......... .......... .......... .......... 66%  137M 0s
+   600K .......... .......... .......... .......... .......... 71% 51.1M 0s
+   650K .......... .......... .......... .......... .......... 77%  184M 0s
+   700K .......... .......... .......... .......... .......... 82%  207M 0s
+   750K .......... .......... .......... .......... .......... 88%  160M 0s
+   800K .......... .......... .......... .......... .......... 93% 67.9M 0s
+   850K .......... .......... .......... .......... .......... 99% 69.4M 0s
+   900K ......                                                100%  861M=0.09s
+
+2020-03-01 22:32:03 (80.1 Mb/s) - ‘/dev/null’ saved [927948/927948]
+

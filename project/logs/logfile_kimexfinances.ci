@@ -1,0 +1,19 @@
+--2020-03-02 02:50:59--  http://kimexfinances.ci/dossierSouscription.pdf
+Resolving kimexfinances.ci (kimexfinances.ci)... 212.1.211.142
+Connecting to kimexfinances.ci (kimexfinances.ci)|212.1.211.142|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://kimexfinances.ci/dossierSouscription.pdf [following]
+--2020-03-02 02:50:59--  https://kimexfinances.ci/dossierSouscription.pdf
+Connecting to kimexfinances.ci (kimexfinances.ci)|212.1.211.142|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 206483 (202K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 24% 1.96M 1s
+    50K .......... .......... .......... .......... .......... 49% 4.28M 0s
+   100K .......... .......... .......... .......... .......... 74% 4.35M 0s
+   150K .......... .......... .......... .......... .......... 99% 5.19M 0s
+   200K .                                                     100%  126M=0.5s
+
+2020-03-02 02:51:00 (3.46 Mb/s) - ‘/dev/null’ saved [206483/206483]
+

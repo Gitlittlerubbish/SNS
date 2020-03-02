@@ -1,0 +1,16 @@
+--2020-03-02 03:49:38--  http://www.americanexpress.pf/uploads/amex-docs/1469230938.pdf
+Resolving www.americanexpress.pf (www.americanexpress.pf)... 202.3.238.10
+Connecting to www.americanexpress.pf (www.americanexpress.pf)|202.3.238.10|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.americanexpress.pf [following]
+--2020-03-02 03:49:39--  https://www.americanexpress.pf/
+Connecting to www.americanexpress.pf (www.americanexpress.pf)|202.3.238.10|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 85932 (84K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 59%  731K 0s
+    50K .......... .......... .......... ...                  100%  907K=0.9s
+
+2020-03-02 03:49:42 (793 Kb/s) - ‘/dev/null’ saved [85932/85932]
+

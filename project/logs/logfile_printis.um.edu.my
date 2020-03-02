@@ -1,0 +1,15 @@
+--2020-03-02 07:04:13--  http://printis.um.edu.my/SMS_010818_POSTER.pdf
+Resolving printis.um.edu.my (printis.um.edu.my)... 103.18.3.42
+Connecting to printis.um.edu.my (printis.um.edu.my)|103.18.3.42|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://printis.um.edu.my [following]
+--2020-03-02 07:04:14--  https://printis.um.edu.my/
+Connecting to printis.um.edu.my (printis.um.edu.my)|103.18.3.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 24136 (24K) [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ...                             100%  314K=0.6s
+
+2020-03-02 07:04:16 (314 Kb/s) - ‘/dev/null’ saved [24136/24136]
+

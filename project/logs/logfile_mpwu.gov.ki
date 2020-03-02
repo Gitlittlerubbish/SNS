@@ -1,0 +1,14 @@
+--2020-03-02 05:33:16--  http://mpwu.gov.ki/images/downloads/Project_Brief_-_WB_solar_PV_Grid_Tied_Project.PDF
+Resolving mpwu.gov.ki (mpwu.gov.ki)... 74.124.218.173
+Connecting to mpwu.gov.ki (mpwu.gov.ki)|74.124.218.173|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 202853 (198K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 25% 1.47M 1s
+    50K .......... .......... .......... .......... .......... 50% 2.94M 0s
+   100K .......... .......... .......... .......... .......... 75%  132M 0s
+   150K .......... .......... .......... .......... ........  100%  144M=0.4s
+
+2020-03-02 05:33:17 (3.83 Mb/s) - ‘/dev/null’ saved [202853/202853]
+

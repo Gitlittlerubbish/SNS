@@ -1,0 +1,16 @@
+--2020-03-02 03:02:54--  http://oberonic.cz/texts/Zakladni_cviky_pro_rehabilitaci_patere.pdf
+Resolving oberonic.cz (oberonic.cz)... 217.11.249.139
+Connecting to oberonic.cz (oberonic.cz)|217.11.249.139|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 256439 (250K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19% 6.35M 0s
+    50K .......... .......... .......... .......... .......... 39% 13.0M 0s
+   100K .......... .......... .......... .......... .......... 59%  166M 0s
+   150K .......... .......... .......... .......... .......... 79%  278M 0s
+   200K .......... .......... .......... .......... .......... 99% 12.3M 0s
+   250K                                                       100% 70.2K=0.1s
+
+2020-03-02 03:02:54 (15.4 Mb/s) - ‘/dev/null’ saved [256439/256439]
+

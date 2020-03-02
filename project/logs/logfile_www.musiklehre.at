@@ -1,0 +1,21 @@
+--2020-03-01 23:41:30--  http://www.musiklehre.at/Quintenzirkel_Dur_Moll.pdf
+Resolving www.musiklehre.at (www.musiklehre.at)... 67.209.116.195
+Connecting to www.musiklehre.at (www.musiklehre.at)|67.209.116.195|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.musiklehre.at/Quintenzirkel_Dur_Moll.pdf [following]
+--2020-03-01 23:41:30--  https://www.musiklehre.at/Quintenzirkel_Dur_Moll.pdf
+Connecting to www.musiklehre.at (www.musiklehre.at)|67.209.116.195|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 307850 (301K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 16% 10.5M 0s
+    50K .......... .......... .......... .......... .......... 33% 33.9M 0s
+   100K .......... .......... .......... .......... .......... 49% 31.7M 0s
+   150K .......... .......... .......... .......... .......... 66% 89.1M 0s
+   200K .......... .......... .......... .......... .......... 83% 39.0M 0s
+   250K .......... .......... .......... .......... .......... 99%  164M 0s
+   300K                                                       100%  104K=0.08s
+
+2020-03-01 23:41:30 (30.2 Mb/s) - ‘/dev/null’ saved [307850/307850]
+

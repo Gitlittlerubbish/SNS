@@ -1,0 +1,13 @@
+--2020-03-02 07:58:50--  http://www.unitiva.ac.mz/planos/ge.pdf
+Resolving www.unitiva.ac.mz (www.unitiva.ac.mz)... 196.3.96.21
+Connecting to www.unitiva.ac.mz (www.unitiva.ac.mz)|196.3.96.21|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 149784 (146K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34% 1.11M 1s
+    50K .......... .......... .......... .......... .......... 68% 2.24M 0s
+   100K .......... .......... .......... .......... ......    100% 81.8M=0.6s
+
+2020-03-02 07:58:52 (2.16 Mb/s) - ‘/dev/null’ saved [149784/149784]
+

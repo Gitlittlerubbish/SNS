@@ -1,0 +1,22 @@
+--2020-03-02 01:42:39--  http://mf.gov.cv/documents/54571/273413/Folheto_Alf.PDF
+Resolving mf.gov.cv (mf.gov.cv)... 213.150.194.64
+Connecting to mf.gov.cv (mf.gov.cv)|213.150.194.64|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://mf.gov.cv/documents/54571/273413/Folheto_Alf.PDF [following]
+--2020-03-02 01:42:40--  https://mf.gov.cv/documents/54571/273413/Folheto_Alf.PDF
+Connecting to mf.gov.cv (mf.gov.cv)|213.150.194.64|:443... connected.
+HTTP request sent, awaiting response... 200 
+Length: 358991 (351K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 14% 2.72M 1s
+    50K .......... .......... .......... .......... .......... 28% 5.43M 1s
+   100K .......... .......... .......... .......... .......... 42%  146M 0s
+   150K .......... .......... .......... .......... .......... 57%  249M 0s
+   200K .......... .......... .......... .......... .......... 71% 5.65M 0s
+   250K .......... .......... .......... .......... .......... 85%  128M 0s
+   300K .......... .......... .......... .......... .......... 99% 5.65M 0s
+   350K                                                       100% 94.6K=0.4s
+
+2020-03-02 01:42:40 (7.58 Mb/s) - ‘/dev/null’ saved [358991/358991]
+

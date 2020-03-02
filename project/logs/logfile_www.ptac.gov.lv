@@ -1,0 +1,14 @@
+--2020-03-02 06:14:07--  http://www.ptac.gov.lv/sites/default/files/anonimizets_nolemums_338286-11129.pdf
+Resolving www.ptac.gov.lv (www.ptac.gov.lv)... 212.70.163.246
+Connecting to www.ptac.gov.lv (www.ptac.gov.lv)|212.70.163.246|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 153946 (150K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33% 2.06M 0s
+    50K .......... .......... .......... .......... .......... 66% 8.10M 0s
+   100K .......... .......... .......... .......... .......... 99% 8.10M 0s
+   150K                                                       100% 55.4K=0.3s
+
+2020-03-02 06:14:07 (4.10 Mb/s) - ‘/dev/null’ saved [153946/153946]
+

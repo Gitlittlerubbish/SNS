@@ -1,0 +1,16 @@
+--2020-03-01 23:56:34--  http://www.infinox.bs/wp-content/uploads/legal/BS_CorporateApplication_EN_V3.pdf
+Resolving www.infinox.bs (www.infinox.bs)... 104.18.164.96, 104.18.168.96, 104.18.165.96, ...
+Connecting to www.infinox.bs (www.infinox.bs)|104.18.164.96|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 267174 (261K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 19%  346M 0s
+    50K .......... .......... .......... .......... .......... 38%  245M 0s
+   100K .......... .......... .......... .......... .......... 57%  341M 0s
+   150K .......... .......... .......... .......... .......... 76%  263M 0s
+   200K .......... .......... .......... .......... .......... 95%  306M 0s
+   250K ..........                                            100% 28.1M=0.01s
+
+2020-03-01 23:56:36 (211 Mb/s) - ‘/dev/null’ saved [267174/267174]
+

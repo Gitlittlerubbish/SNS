@@ -1,0 +1,12 @@
+--2020-03-02 04:58:59--  http://jrasti.ir/Lessons/programming/det.pdf
+Resolving jrasti.ir (jrasti.ir)... 5.9.85.101
+Connecting to jrasti.ir (jrasti.ir)|5.9.85.101|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88879 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 8.62M 0s
+    50K .......... .......... .......... ......               100% 13.1M=0.07s
+
+2020-03-02 04:58:59 (10.1 Mb/s) - ‘/dev/null’ saved [88879/88879]
+

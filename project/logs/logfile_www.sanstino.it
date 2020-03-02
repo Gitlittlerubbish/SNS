@@ -1,0 +1,15 @@
+--2020-03-02 05:08:59--  http://www.sanstino.it/public/note_e_chiarimenti_inagibili.pdf
+Resolving www.sanstino.it (www.sanstino.it)... 46.254.39.158
+Connecting to www.sanstino.it (www.sanstino.it)|46.254.39.158|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.sanstino.it/public/note_e_chiarimenti_inagibili.pdf [following]
+--2020-03-02 05:09:00--  https://www.sanstino.it/public/note_e_chiarimenti_inagibili.pdf
+Connecting to www.sanstino.it (www.sanstino.it)|46.254.39.158|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 31567 (31K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... ..........                      100% 7.32M=0.03s
+
+2020-03-02 05:09:00 (7.32 Mb/s) - ‘/dev/null’ saved [31567/31567]
+

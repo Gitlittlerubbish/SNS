@@ -1,0 +1,11 @@
+--2020-03-02 01:45:37--  http://www.moc.gov.kh/Portals/0/Docs/OfficialDocs/Krt-498-135.pdf
+Resolving www.moc.gov.kh (www.moc.gov.kh)... 163.47.173.180
+Connecting to www.moc.gov.kh (www.moc.gov.kh)|163.47.173.180|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 49576 (48K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ........  100%  430K=0.9s
+
+2020-03-02 01:45:40 (430 Kb/s) - ‘/dev/null’ saved [49576/49576]
+

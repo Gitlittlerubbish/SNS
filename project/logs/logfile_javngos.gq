@@ -1,0 +1,12 @@
+--2020-03-02 03:29:16--  http://javngos.gq/filebank/735-Kansalaistoiminnan_tietopohja_netti.pdf
+Resolving javngos.gq (javngos.gq)... 104.27.171.63, 104.27.170.63
+Connecting to javngos.gq (javngos.gq)|104.27.171.63|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 73.8M
+    50K .......... .......... .......... .......... ..          170M=0.008s
+
+2020-03-02 03:29:16 (100 Mb/s) - ‘/dev/null’ saved [95086]
+

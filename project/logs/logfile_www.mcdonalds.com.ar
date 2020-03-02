@@ -1,0 +1,36 @@
+--2020-03-01 23:06:39--  http://www.mcdonalds.com.ar/open24
+Resolving www.mcdonalds.com.ar (www.mcdonalds.com.ar)... 45.60.34.33
+Connecting to www.mcdonalds.com.ar (www.mcdonalds.com.ar)|45.60.34.33|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mcdonalds.com.ar/open24 [following]
+--2020-03-01 23:06:40--  https://www.mcdonalds.com.ar/open24
+Connecting to www.mcdonalds.com.ar (www.mcdonalds.com.ar)|45.60.34.33|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.mcdonalds.com.ar/media/pdf/Listado_de_locales_Open24_v3.pdf [following]
+--2020-03-01 23:06:40--  http://www.mcdonalds.com.ar/media/pdf/Listado_de_locales_Open24_v3.pdf
+Connecting to www.mcdonalds.com.ar (www.mcdonalds.com.ar)|45.60.34.33|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.mcdonalds.com.ar/media/pdf/Listado_de_locales_Open24_v3.pdf [following]
+--2020-03-01 23:06:40--  https://www.mcdonalds.com.ar/media/pdf/Listado_de_locales_Open24_v3.pdf
+Reusing existing connection to www.mcdonalds.com.ar:443.
+HTTP request sent, awaiting response... 302 Found
+Location: https://d701vexhkz032.cloudfront.net/media/pdf/Listado_de_locales_Open24_v3.pdf?v=20000136 [following]
+--2020-03-01 23:06:40--  https://d701vexhkz032.cloudfront.net/media/pdf/Listado_de_locales_Open24_v3.pdf?v=20000136
+Resolving d701vexhkz032.cloudfront.net (d701vexhkz032.cloudfront.net)... 99.86.255.169, 99.86.255.5, 99.86.255.114, ...
+Connecting to d701vexhkz032.cloudfront.net (d701vexhkz032.cloudfront.net)|99.86.255.169|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 442343 (432K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11%  103M 0s
+    50K .......... .......... .......... .......... .......... 23% 88.2M 0s
+   100K .......... .......... .......... .......... .......... 34%  127M 0s
+   150K .......... .......... .......... .......... .......... 46%  147M 0s
+   200K .......... .......... .......... .......... .......... 57%  211M 0s
+   250K .......... .......... .......... .......... .......... 69%  138M 0s
+   300K .......... .......... .......... .......... .......... 81%  144M 0s
+   350K .......... .......... .......... .......... .......... 92%  316M 0s
+   400K .......... .......... .......... .                    100%  323M=0.02s
+
+2020-03-01 23:06:40 (144 Mb/s) - ‘/dev/null’ saved [442343/442343]
+

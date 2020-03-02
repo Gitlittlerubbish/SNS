@@ -1,0 +1,16 @@
+--2020-03-01 23:43:14--  http://allquantor.at/blockchainbib/pdf/rosenfeld2012overview.pdf
+Resolving allquantor.at (allquantor.at)... 176.28.21.63
+Connecting to allquantor.at (allquantor.at)|176.28.21.63|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://allquantor.at/blockchainbib/pdf/rosenfeld2012overview.pdf [following]
+--2020-03-01 23:43:14--  https://allquantor.at/blockchainbib/pdf/rosenfeld2012overview.pdf
+Connecting to allquantor.at (allquantor.at)|176.28.21.63|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 88846 (87K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 57% 8.63M 0s
+    50K .......... .......... .......... ......               100% 16.3M=0.07s
+
+2020-03-01 23:43:14 (10.8 Mb/s) - ‘/dev/null’ saved [88846/88846]
+

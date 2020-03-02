@@ -1,0 +1,16 @@
+--2020-03-02 03:02:44--  http://www.dumy.cz/stahnout/60379
+Resolving www.dumy.cz (www.dumy.cz)... 194.228.111.241
+Connecting to www.dumy.cz (www.dumy.cz)|194.228.111.241|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://dumy.cz/ [following]
+--2020-03-02 03:02:44--  http://dumy.cz/
+Resolving dumy.cz (dumy.cz)... 194.228.111.241
+Reusing existing connection to www.dumy.cz:80.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ...        5.70M=0.06s
+
+2020-03-02 03:02:44 (5.70 Mb/s) - ‘/dev/null’ saved [44908]
+

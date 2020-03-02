@@ -1,0 +1,13 @@
+--2020-03-02 05:10:01--  http://ta.org.jm/documents/PROVISIONALROUTETAXIASSCOCIATIONS.pdf
+Resolving ta.org.jm (ta.org.jm)... 65.183.14.170
+Connecting to ta.org.jm (ta.org.jm)|65.183.14.170|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 152170 (149K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 33%  656K 1s
+    50K .......... .......... .......... .......... .......... 67% 1.61M 0s
+   100K .......... .......... .......... .......... ........  100% 3.19M=1.0s
+
+2020-03-02 05:10:02 (1.21 Mb/s) - ‘/dev/null’ saved [152170/152170]
+

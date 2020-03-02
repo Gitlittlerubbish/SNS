@@ -1,0 +1,15 @@
+--2020-03-02 08:13:27--  http://acehrm.edu.np/documents/HRM_Nepal/ReviewofTradeandIndustrialpolicyinNepal.pdf
+Resolving acehrm.edu.np (acehrm.edu.np)... 96.127.183.34
+Connecting to acehrm.edu.np (acehrm.edu.np)|96.127.183.34|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://acehrm.edu.np/cgi-sys/suspendedpage.cgi [following]
+--2020-03-02 08:13:28--  http://acehrm.edu.np/cgi-sys/suspendedpage.cgi
+Connecting to acehrm.edu.np (acehrm.edu.np)|96.127.183.34|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......                                                55.3M=0.001s
+
+2020-03-02 08:13:28 (55.3 Mb/s) - ‘/dev/null’ saved [7620]
+

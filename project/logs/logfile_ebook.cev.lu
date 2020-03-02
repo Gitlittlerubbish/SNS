@@ -1,0 +1,23 @@
+--2020-03-02 06:29:30--  http://ebook.cev.lu/general/FIVBSportRegulations/FIVB_Sports_Regulations.pdf
+Resolving ebook.cev.lu (ebook.cev.lu)... 213.186.33.5
+Connecting to ebook.cev.lu (ebook.cev.lu)|213.186.33.5|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://ebook.cev.eu/general/FIVBSportRegulations/FIVB_Sports_Regulations.pdf [following]
+--2020-03-02 06:29:30--  https://ebook.cev.eu/general/FIVBSportRegulations/FIVB_Sports_Regulations.pdf
+Resolving ebook.cev.eu (ebook.cev.eu)... 178.32.237.91
+Connecting to ebook.cev.eu (ebook.cev.eu)|178.32.237.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 382982 (374K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 13% 14.0M 0s
+    50K .......... .......... .......... .......... .......... 26% 29.2M 0s
+   100K .......... .......... .......... .......... .......... 40% 60.9M 0s
+   150K .......... .......... .......... .......... .......... 53%  327M 0s
+   200K .......... .......... .......... .......... .......... 66% 38.6M 0s
+   250K .......... .......... .......... .......... .......... 80%  114M 0s
+   300K .......... .......... .......... .......... .......... 93% 59.3M 0s
+   350K .......... .......... ....                            100% 74.5M=0.07s
+
+2020-03-02 06:29:30 (40.9 Mb/s) - ‘/dev/null’ saved [382982/382982]
+

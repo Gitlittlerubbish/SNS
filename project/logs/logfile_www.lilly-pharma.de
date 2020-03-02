@@ -1,0 +1,36 @@
+--2020-03-02 04:00:55--  http://www.lilly-pharma.de/de/pdf/gebrauchsinformationen/urologie/gebrauchsinformation_cialis_20mg.pdf
+Resolving www.lilly-pharma.de (www.lilly-pharma.de)... 143.204.192.55, 143.204.192.71, 143.204.192.129, ...
+Connecting to www.lilly-pharma.de (www.lilly-pharma.de)|143.204.192.55|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lilly-pharma.de/de/pdf/gebrauchsinformationen/urologie/gebrauchsinformation_cialis_20mg.pdf [following]
+--2020-03-02 04:00:55--  https://www.lilly-pharma.de/de/pdf/gebrauchsinformationen/urologie/gebrauchsinformation_cialis_20mg.pdf
+Connecting to www.lilly-pharma.de (www.lilly-pharma.de)|143.204.192.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189328 (185K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 38.8M 0s
+    50K .......... .......... .......... .......... .......... 54% 37.5M 0s
+   100K .......... .......... .......... .......... .......... 81%  163M 0s
+   150K .......... .......... .......... ....                 100%  563M=0.02s
+
+2020-03-02 04:00:55 (61.8 Mb/s) - ‘/dev/null’ saved [189328/189328]
+
+--2020-03-02 04:00:57--  http://www.lilly-pharma.de/de/pdf/gebrauchsinformationen/urologie/gebrauchsinformation_cialis_20mg.pdf
+Resolving www.lilly-pharma.de (www.lilly-pharma.de)... 143.204.192.55, 143.204.192.71, 143.204.192.129, ...
+Connecting to www.lilly-pharma.de (www.lilly-pharma.de)|143.204.192.55|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.lilly-pharma.de/de/pdf/gebrauchsinformationen/urologie/gebrauchsinformation_cialis_20mg.pdf [following]
+--2020-03-02 04:00:57--  https://www.lilly-pharma.de/de/pdf/gebrauchsinformationen/urologie/gebrauchsinformation_cialis_20mg.pdf
+Connecting to www.lilly-pharma.de (www.lilly-pharma.de)|143.204.192.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 189328 (185K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 43.5M 0s
+    50K .......... .......... .......... .......... .......... 54% 44.6M 0s
+   100K .......... .......... .......... .......... .......... 81%  126M 0s
+   150K .......... .......... .......... ....                 100% 1.14G=0.02s
+
+2020-03-02 04:00:57 (68.5 Mb/s) - ‘/dev/null’ saved [189328/189328]
+

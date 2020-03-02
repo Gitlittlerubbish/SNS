@@ -1,0 +1,12 @@
+--2020-03-01 22:21:43--  http://limpaf.univ-bouira.dz/images/plenieres_rondeau_lutz.pdf
+Resolving limpaf.univ-bouira.dz (limpaf.univ-bouira.dz)... 193.194.80.36
+Connecting to limpaf.univ-bouira.dz (limpaf.univ-bouira.dz)|193.194.80.36|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 71800 (70K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 71% 3.63M 0s
+    50K .......... ..........                                 100%  397M=0.1s
+
+2020-03-01 22:21:44 (5.07 Mb/s) - ‘/dev/null’ saved [71800/71800]
+

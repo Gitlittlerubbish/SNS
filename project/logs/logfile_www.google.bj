@@ -1,0 +1,27 @@
+--2020-03-02 00:28:58--  http://www.google.bj/enterprise/pdf/gsa_datasheet.pdf
+Resolving www.google.bj (www.google.bj)... 172.217.169.35
+Connecting to www.google.bj (www.google.bj)|172.217.169.35|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://static.googleusercontent.com/media/www.google.bj/fr/bj/enterprise/pdf/gsa_datasheet.pdf [following]
+--2020-03-02 00:28:58--  http://static.googleusercontent.com/media/www.google.bj/fr/bj/enterprise/pdf/gsa_datasheet.pdf
+Resolving static.googleusercontent.com (static.googleusercontent.com)... 216.58.210.193
+Connecting to static.googleusercontent.com (static.googleusercontent.com)|216.58.210.193|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 568394 (555K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ..........  9% 50.9M 0s
+    50K .......... .......... .......... .......... .......... 18% 65.9M 0s
+   100K .......... .......... .......... .......... .......... 27% 99.4M 0s
+   150K .......... .......... .......... .......... .......... 36%  164M 0s
+   200K .......... .......... .......... .......... .......... 45%  125M 0s
+   250K .......... .......... .......... .......... .......... 54% 97.6M 0s
+   300K .......... .......... .......... .......... .......... 63%  253M 0s
+   350K .......... .......... .......... .......... .......... 72% 67.3M 0s
+   400K .......... .......... .......... .......... .......... 81%  428M 0s
+   450K .......... .......... .......... .......... .......... 90%  140M 0s
+   500K .......... .......... .......... .......... .......... 99%  322M 0s
+   550K .....                                                 100% 1.12G=0.04s
+
+2020-03-02 00:28:58 (110 Mb/s) - ‘/dev/null’ saved [568394/568394]
+

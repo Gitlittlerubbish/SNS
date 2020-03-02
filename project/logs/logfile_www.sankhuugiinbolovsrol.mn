@@ -1,0 +1,24 @@
+--2020-03-02 07:42:22--  http://www.sankhuugiinbolovsrol.mn/cdn/pdf/Bagsh23.pdf
+Resolving www.sankhuugiinbolovsrol.mn (www.sankhuugiinbolovsrol.mn)... 66.181.168.14
+Connecting to www.sankhuugiinbolovsrol.mn (www.sankhuugiinbolovsrol.mn)|66.181.168.14|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.sankhuugiinbolovsrol.mn/cdn/pdf/Bagsh23.pdf [following]
+--2020-03-02 07:42:23--  https://www.sankhuugiinbolovsrol.mn/cdn/pdf/Bagsh23.pdf
+Connecting to www.sankhuugiinbolovsrol.mn (www.sankhuugiinbolovsrol.mn)|66.181.168.14|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 502510 (491K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10%  222K 16s
+    50K .......... .......... .......... .......... .......... 20%  446K 11s
+   100K .......... .......... .......... .......... .......... 30%  333K 9s
+   150K .......... .......... .......... .......... .......... 40%  334K 8s
+   200K .......... .......... .......... .......... .......... 50%  443K 6s
+   250K .......... .......... .......... .......... .......... 61%  446K 4s
+   300K .......... .......... .......... .......... .......... 71%  665K 3s
+   350K .......... .......... .......... .......... .......... 81%  666K 2s
+   400K .......... .......... .......... .......... .......... 91%  669K 1s
+   450K .......... .......... .......... ..........           100% 1.20M=9.2s
+
+2020-03-02 07:42:44 (438 Kb/s) - ‘/dev/null’ saved [502510/502510]
+

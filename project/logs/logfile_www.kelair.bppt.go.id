@@ -1,0 +1,13 @@
+--2020-03-02 04:52:21--  http://www.kelair.bppt.go.id/Jtl/layout.pdf
+Resolving www.kelair.bppt.go.id (www.kelair.bppt.go.id)... 103.224.137.153
+Connecting to www.kelair.bppt.go.id (www.kelair.bppt.go.id)|103.224.137.153|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 148251 (145K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 34%  709K 1s
+    50K .......... .......... .......... .......... .......... 69% 2.11M 0s
+   100K .......... .......... .......... .......... ....      100% 1.91M=1.0s
+
+2020-03-02 04:52:23 (1.23 Mb/s) - ‘/dev/null’ saved [148251/148251]
+

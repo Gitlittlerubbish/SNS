@@ -1,0 +1,16 @@
+--2020-03-02 04:37:16--  http://www.totalbeautycenter.hu/download/tbc_preisliste_500x100mm_20171122_web.pdf
+Resolving www.totalbeautycenter.hu (www.totalbeautycenter.hu)... 92.43.203.179
+Connecting to www.totalbeautycenter.hu (www.totalbeautycenter.hu)|92.43.203.179|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 274903 (268K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 18% 4.89M 0s
+    50K .......... .......... .......... .......... .......... 37% 4.98M 0s
+   100K .......... .......... .......... .......... .......... 55% 9.64M 0s
+   150K .......... .......... .......... .......... .......... 74%  197M 0s
+   200K .......... .......... .......... .......... .......... 93% 9.67M 0s
+   250K .......... ........                                   100%  900M=0.3s
+
+2020-03-02 04:37:16 (8.69 Mb/s) - ‘/dev/null’ saved [274903/274903]
+

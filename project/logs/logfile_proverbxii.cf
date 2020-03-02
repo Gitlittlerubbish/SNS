@@ -1,0 +1,11 @@
+--2020-03-02 02:00:47--  http://proverbxii.cf/policyterms
+Resolving proverbxii.cf (proverbxii.cf)... 195.20.55.215
+Connecting to proverbxii.cf (proverbxii.cf)|195.20.55.215|:80... connected.
+HTTP request sent, awaiting response... 203 
+Length: 645 [text/html]
+Saving to: ‘/dev/null’
+
+     0K                                                       100%  344M=0s
+
+2020-03-02 02:00:48 (344 Mb/s) - ‘/dev/null’ saved [645/645]
+

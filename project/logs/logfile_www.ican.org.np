@@ -1,0 +1,24 @@
+--2020-03-02 08:10:18--  http://www.ican.org.np/_downloads/students/Chartered_Accountancy_Scheme_Syllabus.pdf
+Resolving www.ican.org.np (www.ican.org.np)... 202.51.3.72
+Connecting to www.ican.org.np (www.ican.org.np)|202.51.3.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.ican.org.np/_downloads/students/Chartered_Accountancy_Scheme_Syllabus.pdf [following]
+--2020-03-02 08:10:19--  https://www.ican.org.np/_downloads/students/Chartered_Accountancy_Scheme_Syllabus.pdf
+Connecting to www.ican.org.np (www.ican.org.np)|202.51.3.72|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 485078 (474K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 10%  700K 5s
+    50K .......... .......... .......... .......... .......... 21% 1.75M 3s
+   100K .......... .......... .......... .......... .......... 31% 1.74M 2s
+   150K .......... .......... .......... .......... .......... 42%  120M 1s
+   200K .......... .......... .......... .......... .......... 52% 1.50M 1s
+   250K .......... .......... .......... .......... .......... 63% 1.73M 1s
+   300K .......... .......... .......... .......... .......... 73% 1.48M 1s
+   350K .......... .......... .......... .......... .......... 84%  317M 0s
+   400K .......... .......... .......... .......... .......... 94% 1.34M 0s
+   450K .......... .......... ...                             100%  843K=2.4s
+
+2020-03-02 08:10:22 (1.63 Mb/s) - ‘/dev/null’ saved [485078/485078]
+

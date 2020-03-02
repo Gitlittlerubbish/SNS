@@ -1,0 +1,12 @@
+--2020-03-02 02:28:59--  http://bullmart.co/KYC_ApplForm_p.pdf
+Resolving bullmart.co (bullmart.co)... 67.23.226.139
+Connecting to bullmart.co (bullmart.co)|67.23.226.139|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 57144 (56K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 89% 1.82M 0s
+    50K .....                                                 100% 3.89M=0.2s
+
+2020-03-02 02:29:01 (1.93 Mb/s) - ‘/dev/null’ saved [57144/57144]
+

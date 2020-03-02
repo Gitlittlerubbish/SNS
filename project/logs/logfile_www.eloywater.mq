@@ -1,0 +1,26 @@
+--2020-03-02 07:20:50--  http://www.eloywater.mq/sites/default/files/documents/certificatqb_oxyfixc-90.pdf
+Resolving www.eloywater.mq (www.eloywater.mq)... 91.121.72.50
+Connecting to www.eloywater.mq (www.eloywater.mq)|91.121.72.50|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.eloywater.mq/sites/default/files/documents/certificatqb_oxyfixc-90.pdf [following]
+--2020-03-02 07:20:50--  https://www.eloywater.mq/sites/default/files/documents/certificatqb_oxyfixc-90.pdf
+Connecting to www.eloywater.mq (www.eloywater.mq)|91.121.72.50|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: http://www.eloywater.mq/ [following]
+--2020-03-02 07:20:50--  http://www.eloywater.mq/
+Connecting to www.eloywater.mq (www.eloywater.mq)|91.121.72.50|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.eloywater.mq/ [following]
+--2020-03-02 07:20:50--  https://www.eloywater.mq/
+Connecting to www.eloywater.mq (www.eloywater.mq)|91.121.72.50|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15.3M
+    50K .......... .......... .......... .......... .......... 32.5M
+   100K .......... .......... .......... .......... ..........  104M
+   150K .......... ...                                          411M=0.04s
+
+2020-03-02 07:20:51 (30.7 Mb/s) - ‘/dev/null’ saved [167109]
+

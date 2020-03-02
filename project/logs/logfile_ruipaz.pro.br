@@ -1,0 +1,11 @@
+--2020-03-02 01:14:13--  http://ruipaz.pro.br/textos_pos/introducao_pensamentocomplexo.pdf
+Resolving ruipaz.pro.br (ruipaz.pro.br)... 169.57.129.238
+Connecting to ruipaz.pro.br (ruipaz.pro.br)|169.57.129.238|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 41133 (40K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... ..........           100%  829K=0.4s
+
+2020-03-02 01:14:15 (829 Kb/s) - ‘/dev/null’ saved [41133/41133]
+

@@ -1,0 +1,12 @@
+--2020-03-02 02:36:43--  http://pharmacredit.cg/telechargement/liste.pdf
+Resolving pharmacredit.cg (pharmacredit.cg)... 213.186.33.4
+Connecting to pharmacredit.cg (pharmacredit.cg)|213.186.33.4|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 74523 (73K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 68% 29.6M 0s
+    50K .......... .......... ..                              100%  192M=0.01s
+
+2020-03-02 02:36:44 (40.2 Mb/s) - ‘/dev/null’ saved [74523/74523]
+

@@ -1,0 +1,23 @@
+--2020-03-01 22:35:25--  http://www.atlantico.ao/SiteCollectionDocuments/prc_BMA.PDF
+Resolving www.atlantico.ao (www.atlantico.ao)... 196.223.13.155
+Connecting to www.atlantico.ao (www.atlantico.ao)|196.223.13.155|:80... connected.
+HTTP request sent, awaiting response... 302 Object Moved
+Location: https://www.atlantico.ao/SiteCollectionDocuments/prc_BMA.PDF [following]
+--2020-03-01 22:35:25--  https://www.atlantico.ao/SiteCollectionDocuments/prc_BMA.PDF
+Connecting to www.atlantico.ao (www.atlantico.ao)|196.223.13.155|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 450314 (440K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.46M 2s
+    50K .......... .......... .......... .......... .......... 22% 2.95M 1s
+   100K .......... .......... .......... .......... .......... 34% 86.6M 1s
+   150K .......... .......... .......... .......... .......... 45% 2.98M 1s
+   200K .......... .......... .......... .......... .......... 56% 78.9M 0s
+   250K .......... .......... .......... .......... .......... 68% 3.02M 0s
+   300K .......... .......... .......... .......... .......... 79% 2.96M 0s
+   350K .......... .......... .......... .......... .......... 90% 52.6M 0s
+   400K .......... .......... .......... .........            100% 2.45M=1.0s
+
+2020-03-01 22:35:28 (3.67 Mb/s) - ‘/dev/null’ saved [450314/450314]
+

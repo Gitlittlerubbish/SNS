@@ -1,0 +1,18 @@
+--2020-03-02 04:41:26--  http://nrega.nic.in/Invitation_helpline.pdf
+Resolving nrega.nic.in (nrega.nic.in)... 164.100.68.34
+Connecting to nrega.nic.in (nrega.nic.in)|164.100.68.34|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://nrega.nic.in/Invitation_helpline.pdf [following]
+--2020-03-02 04:41:27--  https://nrega.nic.in/Invitation_helpline.pdf
+Connecting to nrega.nic.in (nrega.nic.in)|164.100.68.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 170577 (167K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 30% 8.27M 0s
+    50K .......... .......... .......... .......... .......... 60% 8.15M 0s
+   100K .......... .......... .......... .......... .......... 90% 4.30M 0s
+   150K .......... ......                                     100% 34.8M=0.2s
+
+2020-03-02 04:41:28 (6.86 Mb/s) - ‘/dev/null’ saved [170577/170577]
+

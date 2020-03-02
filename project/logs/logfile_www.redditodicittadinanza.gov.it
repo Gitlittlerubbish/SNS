@@ -1,0 +1,34 @@
+--2020-03-02 05:08:15--  http://www.redditodicittadinanza.gov.it/docs/SR181_RdC_PdC_Com_Esteso.pdf
+Resolving www.redditodicittadinanza.gov.it (www.redditodicittadinanza.gov.it)... 152.199.21.175
+Connecting to www.redditodicittadinanza.gov.it (www.redditodicittadinanza.gov.it)|152.199.21.175|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.redditodicittadinanza.gov.it/docs/SR181_RdC_PdC_Com_Esteso.pdf [following]
+--2020-03-02 05:08:16--  https://www.redditodicittadinanza.gov.it/docs/SR181_RdC_PdC_Com_Esteso.pdf
+Connecting to www.redditodicittadinanza.gov.it (www.redditodicittadinanza.gov.it)|152.199.21.175|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 230450 (225K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 22% 82.8M 0s
+    50K .......... .......... .......... .......... .......... 44%  142M 0s
+   100K .......... .......... .......... .......... .......... 66%  201M 0s
+   150K .......... .......... .......... .......... .......... 88%  240M 0s
+   200K .......... .......... .....                           100%  124M=0.01s
+
+2020-03-02 05:08:16 (139 Mb/s) - ‘/dev/null’ saved [230450/230450]
+
+URL transformed to HTTPS due to an HSTS policy
+--2020-03-02 05:08:16--  https://www.redditodicittadinanza.gov.it/docs/SR182_RdC_PdC_Com_Ridotto.pdf
+Resolving www.redditodicittadinanza.gov.it (www.redditodicittadinanza.gov.it)... 152.199.21.175
+Connecting to www.redditodicittadinanza.gov.it (www.redditodicittadinanza.gov.it)|152.199.21.175|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 188859 (184K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 27% 65.7M 0s
+    50K .......... .......... .......... .......... .......... 54%  237M 0s
+   100K .......... .......... .......... .......... .......... 81%  103M 0s
+   150K .......... .......... .......... ....                 100%  771M=0.01s
+
+2020-03-02 05:08:16 (123 Mb/s) - ‘/dev/null’ saved [188859/188859]
+

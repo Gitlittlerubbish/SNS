@@ -1,0 +1,21 @@
+--2020-03-02 05:26:51--  http://e.ksu.kz/Metodika.pdf
+Resolving e.ksu.kz (e.ksu.kz)... 188.0.155.131
+Connecting to e.ksu.kz (e.ksu.kz)|188.0.155.131|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://e.ksu.kz/Metodika.pdf [following]
+--2020-03-02 05:26:52--  https://e.ksu.kz/Metodika.pdf
+Connecting to e.ksu.kz (e.ksu.kz)|188.0.155.131|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 326386 (319K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 15% 2.07M 1s
+    50K .......... .......... .......... .......... .......... 31% 4.04M 1s
+   100K .......... .......... .......... .......... .......... 47%  126M 0s
+   150K .......... .......... .......... .......... .......... 62% 4.47M 0s
+   200K .......... .......... .......... .......... .......... 78% 63.7M 0s
+   250K .......... .......... .......... .......... .......... 94%  243M 0s
+   300K .......... ........                                   100%  634M=0.4s
+
+2020-03-02 05:26:53 (6.48 Mb/s) - ‘/dev/null’ saved [326386/326386]
+

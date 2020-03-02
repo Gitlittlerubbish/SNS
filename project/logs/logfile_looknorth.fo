@@ -1,0 +1,19 @@
+--2020-03-02 03:37:43--  http://looknorth.fo/download/file/7f6f845ef3c0ae60fcebde75e57e4da57d02dfe2.pdf
+Resolving looknorth.fo (looknorth.fo)... 128.199.43.113
+Connecting to looknorth.fo (looknorth.fo)|128.199.43.113|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://looknorth.fo/download/file/7f6f845ef3c0ae60fcebde75e57e4da57d02dfe2.pdf [following]
+--2020-03-02 03:37:43--  https://looknorth.fo/download/file/7f6f845ef3c0ae60fcebde75e57e4da57d02dfe2.pdf
+Connecting to looknorth.fo (looknorth.fo)|128.199.43.113|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /download/file/7f6f845ef3c0ae60fcebde75e57e4da57d02dfe2.pdf?_l=en [following]
+--2020-03-02 03:37:43--  https://looknorth.fo/download/file/7f6f845ef3c0ae60fcebde75e57e4da57d02dfe2.pdf?_l=en
+Reusing existing connection to looknorth.fo:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... ......      568M=0.001s
+
+2020-03-02 03:37:43 (568 Mb/s) - ‘/dev/null’ saved [48076]
+

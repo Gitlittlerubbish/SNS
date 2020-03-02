@@ -1,0 +1,13 @@
+--2020-03-02 07:09:20--  http://www.mvlaw.gov.mv/pdf/publications/5.pdf
+Resolving www.mvlaw.gov.mv (www.mvlaw.gov.mv)... 202.1.207.53
+Connecting to www.mvlaw.gov.mv (www.mvlaw.gov.mv)|202.1.207.53|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 130672 (128K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 39%  845K 1s
+    50K .......... .......... .......... .......... .......... 78% 1.77M 0s
+   100K .......... .......... .......                         100%  729K=1.0s
+
+2020-03-02 07:09:23 (1.02 Mb/s) - ‘/dev/null’ saved [130672/130672]
+

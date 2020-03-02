@@ -1,0 +1,14 @@
+--2020-03-02 03:45:34--  http://kirkkokasikirja.fi/toim/01a_lapsen_kaste.pdf
+Resolving kirkkokasikirja.fi (kirkkokasikirja.fi)... 77.240.19.22
+Connecting to kirkkokasikirja.fi (kirkkokasikirja.fi)|77.240.19.22|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 173685 (170K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 29% 5.48M 0s
+    50K .......... .......... .......... .......... .......... 58% 11.1M 0s
+   100K .......... .......... .......... .......... .......... 88% 11.4M 0s
+   150K .......... .........                                  100%  304M=0.1s
+
+2020-03-02 03:45:34 (9.39 Mb/s) - ‘/dev/null’ saved [173685/173685]
+

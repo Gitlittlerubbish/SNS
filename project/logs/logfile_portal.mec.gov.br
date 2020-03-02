@@ -1,0 +1,11 @@
+--2020-03-02 01:15:07--  http://portal.mec.gov.br/sesu/arquivos/pdf/FIES/portaria_mec_31_30072007_anexo_vii_proc_seletivo.pdf
+Resolving portal.mec.gov.br (portal.mec.gov.br)... 200.130.2.223
+Connecting to portal.mec.gov.br (portal.mec.gov.br)|200.130.2.223|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5027 (4.9K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K ....                                                  100%  207K=0.2s
+
+2020-03-02 01:15:08 (207 Kb/s) - ‘/dev/null’ saved [5027/5027]
+

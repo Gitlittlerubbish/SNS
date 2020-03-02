@@ -1,0 +1,23 @@
+--2020-03-02 04:30:25--  http://www.itc.gov.hk/en/quality/hkas/doc/HKAS002C.pdf
+Resolving www.itc.gov.hk (www.itc.gov.hk)... 99.86.3.53, 99.86.3.108, 99.86.3.5, ...
+Connecting to www.itc.gov.hk (www.itc.gov.hk)|99.86.3.53|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.itc.gov.hk/en/quality/hkas/doc/HKAS002C.pdf [following]
+--2020-03-02 04:30:25--  https://www.itc.gov.hk/en/quality/hkas/doc/HKAS002C.pdf
+Connecting to www.itc.gov.hk (www.itc.gov.hk)|99.86.3.53|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 457444 (447K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11% 1.11M 3s
+    50K .......... .......... .......... .......... .......... 22% 2.26M 2s
+   100K .......... .......... .......... .......... .......... 33% 38.6M 1s
+   150K .......... .......... .......... .......... .......... 44% 36.2M 1s
+   200K .......... .......... .......... .......... .......... 55% 2.54M 1s
+   250K .......... .......... .......... .......... .......... 67% 73.3M 0s
+   300K .......... .......... .......... .......... .......... 78% 34.3M 0s
+   350K .......... .......... .......... .......... .......... 89% 74.9M 0s
+   400K .......... .......... .......... .......... ......    100% 2.41M=0.9s
+
+2020-03-02 04:30:27 (4.00 Mb/s) - ‘/dev/null’ saved [457444/457444]
+

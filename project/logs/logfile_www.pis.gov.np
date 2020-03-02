@@ -1,0 +1,12 @@
+--2020-03-02 08:08:11--  http://www.pis.gov.np/download/download_document/25
+Resolving www.pis.gov.np (www.pis.gov.np)... 202.45.144.21
+Connecting to www.pis.gov.np (www.pis.gov.np)|202.45.144.21|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 82217 (80K) ["application/pdf"]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 62% 1.01M 0s
+    50K .......... .......... ..........                      100%  811M=0.4s
+
+2020-03-02 08:08:13 (1.62 Mb/s) - ‘/dev/null’ saved [82217/82217]
+

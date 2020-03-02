@@ -1,0 +1,22 @@
+--2020-03-02 04:11:47--  http://laorejona.tuenti.gt/mechanics_of_materials_beer_7th_edition.pdf
+Resolving laorejona.tuenti.gt (laorejona.tuenti.gt)... 46.101.201.111
+Connecting to laorejona.tuenti.gt (laorejona.tuenti.gt)|46.101.201.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                    582K=0.3s
+
+2020-03-02 04:11:48 (582 Kb/s) - ‘/dev/null’ saved [20227]
+
+--2020-03-02 04:11:48--  http://laorejona.tuenti.gt/iae_v2500_engine_manual.pdf
+Resolving laorejona.tuenti.gt (laorejona.tuenti.gt)... 46.101.201.111
+Connecting to laorejona.tuenti.gt (laorejona.tuenti.gt)|46.101.201.111|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘/dev/null’
+
+     0K .......... .........                                   1.22M=0.1s
+
+2020-03-02 04:11:48 (1.22 Mb/s) - ‘/dev/null’ saved [19940]
+

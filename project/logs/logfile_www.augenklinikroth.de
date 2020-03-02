@@ -1,0 +1,20 @@
+--2020-03-02 04:01:04--  http://www.augenklinikroth.de/uploads/media/ANCHOR.pdf
+Resolving www.augenklinikroth.de (www.augenklinikroth.de)... 134.119.109.60
+Connecting to www.augenklinikroth.de (www.augenklinikroth.de)|134.119.109.60|:80... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.augenklinikroth.de/uploads/media/ANCHOR.pdf [following]
+--2020-03-02 04:01:04--  https://www.augenklinikroth.de/uploads/media/ANCHOR.pdf
+Connecting to www.augenklinikroth.de (www.augenklinikroth.de)|134.119.109.60|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 294752 (288K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 17% 12.4M 0s
+    50K .......... .......... .......... .......... .......... 34% 24.2M 0s
+   100K .......... .......... .......... .......... .......... 52%  359M 0s
+   150K .......... .......... .......... .......... .......... 69% 31.2M 0s
+   200K .......... .......... .......... .......... .......... 86% 94.1M 0s
+   250K .......... .......... .......... .......              100%  264M=0.07s
+
+2020-03-02 04:01:04 (33.9 Mb/s) - ‘/dev/null’ saved [294752/294752]
+

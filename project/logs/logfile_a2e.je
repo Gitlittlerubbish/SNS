@@ -1,0 +1,23 @@
+--2020-03-02 05:22:19--  http://a2e.je/wp-content/uploads/2017/01/nationalminimumtrainingstandards.pdf
+Resolving a2e.je (a2e.je)... 104.27.133.239, 104.27.132.239
+Connecting to a2e.je (a2e.je)|104.27.133.239|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://a2e.je/wp-content/uploads/2017/01/nationalminimumtrainingstandards.pdf [following]
+--2020-03-02 05:22:19--  https://a2e.je/wp-content/uploads/2017/01/nationalminimumtrainingstandards.pdf
+Connecting to a2e.je (a2e.je)|104.27.133.239|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 428230 (418K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 11%  102M 0s
+    50K .......... .......... .......... .......... .......... 23%  130M 0s
+   100K .......... .......... .......... .......... .......... 35%  197M 0s
+   150K .......... .......... .......... .......... .......... 47%  174M 0s
+   200K .......... .......... .......... .......... .......... 59% 94.3M 0s
+   250K .......... .......... .......... .......... .......... 71%  128M 0s
+   300K .......... .......... .......... .......... .......... 83%  452M 0s
+   350K .......... .......... .......... .......... .......... 95%  210M 0s
+   400K .......... ........                                   100% 1.75G=0.02s
+
+2020-03-02 05:22:19 (155 Mb/s) - ‘/dev/null’ saved [428230/428230]
+

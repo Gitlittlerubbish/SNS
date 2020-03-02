@@ -1,0 +1,14 @@
+--2020-03-02 08:00:11--  http://www.murrob.co.mz/pdf/terms/terms_and_conditions.pdf
+Resolving www.murrob.co.mz (www.murrob.co.mz)... 196.37.207.18
+Connecting to www.murrob.co.mz (www.murrob.co.mz)|196.37.207.18|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 162994 (159K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 31%  498K 2s
+    50K .......... .......... .......... .......... .......... 62% 2.00M 1s
+   100K .......... .......... .......... .......... .......... 94%  231M 0s
+   150K .........                                             100% 1.23G=1.0s
+
+2020-03-02 08:00:13 (1.27 Mb/s) - ‘/dev/null’ saved [162994/162994]
+

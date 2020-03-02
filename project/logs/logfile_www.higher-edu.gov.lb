@@ -1,0 +1,14 @@
+--2020-03-02 06:14:59--  http://www.higher-edu.gov.lb/Workshops/Conf_QA/29_4_2011/Sawsan_Majid.pdf
+Resolving www.higher-edu.gov.lb (www.higher-edu.gov.lb)... 192.186.240.180
+Connecting to www.higher-edu.gov.lb (www.higher-edu.gov.lb)|192.186.240.180|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 158204 (154K) [application/pdf]
+Saving to: ‘/dev/null’
+
+     0K .......... .......... .......... .......... .......... 32%  234M 0s
+    50K .......... .......... .......... .......... .......... 64% 2.91M 0s
+   100K .......... .......... .......... .......... .......... 97%  111M 0s
+   150K ....                                                  100%  737K=0.1s
+
+2020-03-02 06:15:01 (8.64 Mb/s) - ‘/dev/null’ saved [158204/158204]
+
