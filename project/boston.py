@@ -60,6 +60,8 @@ for i in range(k):
                             [train_targets[:i * num_val_samples],
                             train_targets[(i+1)*num_val_samples:]],
                             axis=0)
+
+    print(partial_train_data.shape)
     model = build_model()
     model.fit(partial_train_data,
               partial_train_targets,
@@ -73,7 +75,6 @@ for i in range(k):
 print(f'all_scores : {all_scores}')
 print(f'mean all scores : {np.mean(all_scores)}')
 
-model = build_model()
 model.fit(train_data, train_targets, epochs=80, batch_size=16, verbose=1)
 test_mse_score, test_mae_score = model.evaluate(test_data, test_targets, verbose=1)
 
