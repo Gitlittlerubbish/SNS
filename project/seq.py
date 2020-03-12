@@ -12,6 +12,7 @@ from keras import models
 from keras import layers
 import datetime
 import tensorflow as tf
+import pandas_profiling
 
 
 batch_size = 1
@@ -19,14 +20,27 @@ epochs = 128
 
 
 ### using my own data set
-# df = pd.read_csv('data.csv')
-# ip_df = df.drop(['Domain', 'Ip', 'Throughput', 'Unit'], axis = 1)
-# tp_df = df.drop(['Domain', 'Ip', 'Unit', 'Ip_bin'], axis = 1)
+df = pd.read_csv('data.csv')
+ip_df = df.drop(['Domain', 'Ip', 'Throughput', 'Unit'], axis = 1)
+tp_df = df.drop(['Domain', 'Ip', 'Unit', 'Ip_bin'], axis = 1)
+
+
+### generate pandas_profiling html
+# pdpf_df = df.drop(['Domain', 'Ip', 'Unit'], axis = 1)
+# test = pdpf_df['Ip_bin'].apply(lambda x: pd.Series(list(x)))
+# test = pd.concat([test, tp_df], axis=1)
+# print(test)
+# print(type(test))
+# test.profile_report(title='data')
+# profile = test.profile_report(title='data')
+# profile.to_file(output_file='data.html')
+#############
+
 
 ### using wyl's data set
-df = pd.read_csv('processed_data.csv')
-ip_df = df.drop(['Id', 'Ip', 'Throughput'], axis = 1)
-tp_df = df.drop(['Id', 'Ip', 'Ip_bin'], axis = 1)
+# df = pd.read_csv('processed_data.csv')
+# ip_df = df.drop(['Id', 'Ip', 'Throughput'], axis = 1)
+# tp_df = df.drop(['Id', 'Ip', 'Ip_bin'], axis = 1)
 
 
 
@@ -38,7 +52,7 @@ for item in l:
     ll.append(item)
 
 Y = np.array(ll)
-# Y /= 1024
+Y /= 1024 * 8
 print(Y.shape)
 
 # get the ndarray of X
